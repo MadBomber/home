@@ -1,0 +1,24 @@
+# Registry of all Bible studies published on this site.
+# Each entry provides the metadata shown on the landing page study cards.
+#
+# slug        — must match the directory name under src/ and src/_data/
+# title       — display name shown on the landing page card and in the navbar
+# tagline     — short phrase shown on the card
+# image       — path to cover image (relative to src/images/), leave blank if none
+# description — one paragraph shown on the landing page card
+
+- slug: "study-01"
+  title: "Study 01 Title"
+  tagline: "A short phrase describing study 01"
+  image: ""
+  description: >-
+    A short description of Study 01 for the landing page card. Update this in
+    src/_data/studies.yml.
+
+- slug: "study-02"
+  title: "Study 02 Title"
+  tagline: "A short phrase describing study 02"
+  image: ""
+  description: >-
+    A short description of Study 02 for the landing page card. Update this in
+    src/_data/studies.yml.

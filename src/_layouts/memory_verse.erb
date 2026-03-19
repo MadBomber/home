@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+<%= render "memory_verse_callout", mv: resource, mv_url: nil, week: data.week, hide_book_link: true %>
+
+<%= yield %>
+
+<% if data.connections&.any? %>
+<section class="mv-connections">
+  <h2>Connections This Week</h2>
+  <ul>
+    <% data.connections.each do |conn| %>
+      <li><%= conn %></li>
+    <% end %>
+  </ul>
+</section>
+<% end %>

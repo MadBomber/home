@@ -1,0 +1,10 @@
+# Maps week number → section directory slug for Study 02.
+# Keep in sync with study_config.yml sections.
+# Add one entry per week as you build out your study.
+#
+# Example:
+#   1: section-01
+#   2: section-01
+#   3: section-02
+
+1: section-01

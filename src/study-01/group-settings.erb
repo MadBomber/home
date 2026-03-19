@@ -1,0 +1,62 @@
+---
+title: Study Settings
+layout: default
+study_slug: study-01
+permalink: /study-01/group-settings/
+---
+
+<article id="settings-page" data-study-slug="study-01">
+  <h1>Study Settings — Study 01</h1>
+  <p style="text-align:center; color: var(--text-secondary); margin-bottom: 2rem;">Manage your journal, progress, and group for this study. All data is stored privately in this browser.</p>
+
+  <section class="settings-section" data-feature="journal">
+    <h2>Journal Data</h2>
+    <p id="settings-journal-info" class="settings-info"></p>
+
+    <div class="settings-actions">
+      <button id="settings-export-journal" class="settings-btn">Export</button>
+      <button id="settings-import-journal" class="settings-btn">Import</button>
+      <input type="file" id="settings-import-journal-file" accept=".json" style="display:none;" />
+      <button id="settings-clear-journal" class="settings-btn settings-btn-danger">Clear All Entries</button>
+    </div>
+  </section>
+
+  <section class="settings-section" data-feature="group" id="group-members">
+    <h2>Study Group Members</h2>
+    <p id="settings-group-info" class="settings-info"></p>
+
+    <div class="group-member-form">
+      <input type="text" id="group-member-name" placeholder="Name" class="group-member-input" />
+      <input type="email" id="group-member-email" placeholder="Email address" class="group-member-input group-member-input-email" />
+      <button id="group-add-member" class="settings-btn">Add</button>
+    </div>
+
+    <div id="group-member-list"></div>
+
+    <div class="settings-actions" style="margin-top: 1rem;">
+      <button id="settings-export-group" class="settings-btn">Export</button>
+      <button id="settings-import-group" class="settings-btn">Import</button>
+      <input type="file" id="settings-import-group-file" accept=".json" style="display:none;" />
+      <button id="settings-clear-group" class="settings-btn settings-btn-danger">Clear All Members</button>
+    </div>
+  </section>
+
+  <section class="settings-section">
+    <h2>Progress Data</h2>
+    <p id="settings-progress-info" class="settings-info"></p>
+
+    <div class="settings-actions">
+      <button id="settings-export-progress" class="settings-btn">Export</button>
+      <button id="settings-import-progress" class="settings-btn">Import</button>
+      <input type="file" id="settings-import-progress-file" accept=".json" style="display:none;" />
+      <button id="settings-clear-progress" class="settings-btn settings-btn-danger">Clear All Progress</button>
+    </div>
+  </section>
+
+  <section class="settings-section">
+    <h2>Storage</h2>
+    <p id="settings-storage-info" class="settings-info"></p>
+  </section>
+
+  <div id="settings-status" class="settings-status"></div>
+</article>

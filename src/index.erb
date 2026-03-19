@@ -1,0 +1,70 @@
+---
+layout: default
+title: Home
+---
+
+<section class="hero" style="background: linear-gradient(135deg, rgba(30,18,53,0.85), rgba(39,24,69,0.8)), url('<%= relative_url '/images/open_bible.png' %>') center bottom / contain no-repeat, linear-gradient(135deg, var(--purple-deep), var(--purple-mid));">
+  <h1 class="hero-title">"Your word is a lamp to my feet and a light to my path."<br><span>— Psalm 119:105 (ESV)</span></h1>
+  <p class="hero-tagline">Weekly Scripture studies to illuminate your walk with God.</p>
+  <p class="hero-verse">
+    "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
+    <br><span class="verse-ref">— 2 Timothy 3:16–17 (ESV)</span>
+  </p>
+  <p class="hero-verse">
+    "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth."
+    <br><span class="verse-ref">— 2 Timothy 2:15 (ESV)</span>
+  </p>
+</section>
+
+<section class="studies">
+  <h2>Available Studies</h2>
+  <div class="study-grid">
+    <% site.data.studies.each do |study| %>
+      <%
+        data_key   = study["slug"].gsub('-', '_')
+        study_cfg  = site.data.send(data_key).study_config
+      %>
+      <a class="study-card"
+         href="<%= relative_url "/#{study["slug"]}/" %>"
+         data-study-slug="<%= study["slug"] %>"
+         data-storage-prefix="<%= study_cfg["storage_prefix"] %>"
+         data-config="<%= study_cfg.to_json %>">
+
+        <% if study["image"] && !study["image"].empty? %>
+          <div class="study-card-image">
+            <img src="<%= relative_url "/images/#{study["image"]}" %>" alt="<%= study["title"] %>">
+          </div>
+        <% end %>
+
+        <div class="study-card-body">
+          <h3 class="study-card-title"><%= study["title"] %></h3>
+          <% if study["tagline"] %>
+            <p class="study-card-tagline"><%= study["tagline"] %></p>
+          <% end %>
+          <p class="study-card-description"><%= study["description"] %></p>
+
+          <%# JS hydrates progress bar %>
+          <div class="study-card-progress"></div>
+        </div>
+      </a>
+    <% end %>
+  </div>
+</section>
+
+<section class="landing-resources">
+  <h2>Resources</h2>
+  <div class="guide-cards">
+    <a href="<%= relative_url '/documents/how-to-use/' %>" class="guide-card" target="_blank" rel="noopener">
+      <h3>How to Use This Study</h3>
+      <p>Daily routine, weekly rhythm, group and individual study tips.</p>
+    </a>
+    <a href="<%= relative_url '/documents/hear-method/' %>" class="guide-card" target="_blank" rel="noopener">
+      <h3>The H.E.A.R. Method</h3>
+      <p>A four-step journaling approach: Highlight, Explain, Apply, Respond.</p>
+    </a>
+    <a href="<%= relative_url '/documents/about/' %>" class="guide-card" target="_blank" rel="noopener">
+      <h3>About This Site</h3>
+      <p>Background, credits, and license information.</p>
+    </a>
+  </div>
+</section>

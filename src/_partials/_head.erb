@@ -1,0 +1,51 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
+<% resource_title = strip_html(strip_newlines(title)) %>
+<title><% if resource_title != "Index" %><%= resource_title %> | <%= metadata.title %><% else %><%= metadata.title %>: <%= metadata.tagline %><% end %></title>
+
+<meta name="description" content="<%= metadata.description %>" />
+
+<link rel="stylesheet" href="<%= asset_path :css %>" />
+<script>
+// Apply theme and feature visibility before first paint to prevent FOUC
+// NOTE: update "bst_settings" if you change storage_prefix in study_config.yml
+(function() {
+  try {
+    var s = JSON.parse(localStorage.getItem("bst_settings") || "{}");
+    var theme = s.siteTheme || "light";
+    document.documentElement.setAttribute("data-theme", theme);
+    document.documentElement.style.fontSize = (parseInt(s.fontSize, 10) || 18) + "px";
+    var f = s.features || {};
+    var css = "";
+    if (f.journal === false) css += '[data-feature="journal"]{display:none!important}';
+    if (f.speak === false) css += '[data-feature="speak"]{display:none!important}';
+    if (f.group !== true) css += '[data-feature="group"]{display:none!important}';
+    if (f.discussions !== true) css += '[data-feature="discussions"]{display:none!important}';
+    if (css) {
+      var style = document.createElement("style");
+      style.textContent = css;
+      document.head.appendChild(style);
+    }
+  } catch(e) {}
+})();
+</script>
+<script src="<%= asset_path :js %>" defer></script>
+<script>
+  var refTagger = {
+    settings: {
+      bibleVersion: "ESV",
+      tagChapters: true,
+      cssOverride: true,
+      socialSharing: [],
+      linksOpenNewWindow: true,
+      roundCorners: true,
+      noSearchTagNames: ["h1", "h2", "h3"],
+      observeAutomatically: true
+    }
+  };
+</script>
+<script src="https://api.reftagger.com/v2/RefTagger.js" defer></script>
+<%= live_reload_dev_js %>

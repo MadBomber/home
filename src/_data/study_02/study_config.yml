@@ -1,0 +1,25 @@
+# Study configuration for Study 02.
+# Update this file whenever you add sections or weeks.
+#
+# storage_prefix: unique short key used for localStorage (no spaces, no underscores at end).
+#   Must be unique across all studies on this site so reader data does not collide.
+#
+# total_weeks: total number of weeks across all sections in this study.
+#
+# sections: the organizational layer beneath this study. Each section has:
+#   number      — integer, used for CSS class and data attribute
+#   title       — display name
+#   slug        — directory name under src/<study-slug>/ (must match exactly)
+#   weeks_start — first week number in this section
+#   weeks_end   — last week number in this section
+
+storage_prefix: "study02"
+
+total_weeks: 1
+
+sections:
+  - number: 1
+    title: "Section 01 Title"
+    slug: "section-01"
+    weeks_start: 1
+    weeks_end: 1

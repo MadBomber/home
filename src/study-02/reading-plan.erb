@@ -1,0 +1,59 @@
+---
+layout: page
+title: Reading Plan Handout
+study_slug: study-02
+permalink: /study-02/reading-plan/
+---
+
+<style>
+  .reading-plan { margin: 0 auto; }
+  .reading-plan-intro { margin-bottom: 1rem; }
+  .section-block { margin-top: 1.5rem; }
+  .reading-plan .section-header {
+    margin: 0 0 0.3rem 0;
+    padding-bottom: 0.2rem;
+    font-size: 1.2rem;
+    color: var(--primary-color, #6a4c93);
+    border-bottom: 2px solid var(--primary-color, #6a4c93);
+  }
+  .section-weeks { columns: 2; column-gap: 2rem; }
+  @media (max-width: 500px) { .section-weeks { columns: 1; } }
+  @media print {
+    .reading-plan { font-size: 10pt; }
+    .section-header { color: #000 !important; border-color: #000 !important; }
+  }
+</style>
+
+<%
+  study_cfg   = site.data.study_02.study_config
+  week_phases = site.data.study_02.week_phases
+%>
+
+<div class="reading-plan">
+  <div class="reading-plan-intro">
+    <p><strong><%= study_cfg["title"] || site.metadata.title %></strong></p>
+    <p><em>Print this page and use it to track your reading.</em></p>
+  </div>
+
+  <% study_cfg["sections"].each do |section| %>
+    <div class="section-block">
+      <h2 class="section-header">Section <%= section["number"] %>: <%= section["title"] %></h2>
+      <div class="section-weeks">
+        <% (section["weeks_start"]..section["weeks_end"]).each do |week| %>
+          <% week_fmt = "%02d" % week %>
+          <% section_slug = week_phases[week.to_s] || week_phases[week] %>
+          <p>
+            <strong>Week <%= week %></strong>
+            <a href="<%= relative_url "/study-02/#{section_slug}/week-#{week_fmt}/overview/" %>">Overview</a> ·
+            <a href="<%= relative_url "/study-02/#{section_slug}/week-#{week_fmt}/day-1/" %>">1</a> ·
+            <a href="<%= relative_url "/study-02/#{section_slug}/week-#{week_fmt}/day-2/" %>">2</a> ·
+            <a href="<%= relative_url "/study-02/#{section_slug}/week-#{week_fmt}/day-3/" %>">3</a> ·
+            <a href="<%= relative_url "/study-02/#{section_slug}/week-#{week_fmt}/day-4/" %>">4</a> ·
+            <a href="<%= relative_url "/study-02/#{section_slug}/week-#{week_fmt}/day-5/" %>">5</a> ·
+            <a href="<%= relative_url "/study-02/#{section_slug}/week-#{week_fmt}/discussion/" %>">Discussion</a>
+          </p>
+        <% end %>
+      </div>
+    </div>
+  <% end %>
+</div>

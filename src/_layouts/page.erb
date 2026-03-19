@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<article<% if data.section_number %> data-section="<%= data.section_number %>"<% end %><% if data.week %> data-week="<%= data.week %>"<% end %><% if data.day %> data-day="<%= data.day %>"<% end %><% if data.type %> data-type="<%= data.type %>"<% end %>>
+  <h1><% if data.day %>Day <%= data.day %>: <%= data.title %><% elsif data.week && data.type == "discussion" %>Week <%= data.week %> Discussion Guide: <%= data.title %><% elsif data.week && data.type == "memory_verse" %>Week <%= data.week %>: Memory Verse<% elsif data.week %>Week <%= data.week %>: <%= data.title %><% else %><%= data.title %><% end %></h1>
+
+  <% _mv = nil %>
+  <% _mv_url = nil %>
+  <% if data.study_slug && data.week && data.type != "memory_verse" %>
+  <%
+    _mv = site.resources.find { |r|
+      r.data[:study_slug] == data.study_slug &&
+      r.data[:week].to_i  == data.week.to_i  &&
+      r.data[:type]       == "memory_verse"
+    }
+    _mv_slug  = data.study_slug
+    _mv_pfx   = _mv_slug ? "/#{_mv_slug}" : ""
+    _mv_phase = _mv ? site.data.send(_mv_slug.gsub('-','_')).week_phases.transform_keys(&:to_i)[data.week.to_i] : nil
+    _mv_url   = _mv && _mv_phase ? "#{_mv_pfx}/#{_mv_phase}/week-#{'%02d' % data.week.to_i}/memory-verse/" : nil
+  %>
+  <%= render "memory_verse_callout", mv: _mv, mv_url: _mv_url, week: data.week, hide_book_link: false %>
+  <% end %>
+
+  <%= yield %>
+
+  <% if data.day && _mv %>
+  <%= render "memory_verse_callout", mv: _mv, mv_url: _mv_url, week: data.week, hide_book_link: false %>
+  <% end %>
+
+  <% if data.week %>
+  <%
+    _study_slug   = data.study_slug
+    _data_key     = _study_slug&.gsub('-', '_')
+    _study_pfx    = _study_slug ? "/#{_study_slug}" : ""
+    week          = data.week.to_i
+    week_fmt      = "%02d" % week
+    week_phases  = (_data_key ? site.data.send(_data_key).week_phases : site.data.week_phases).transform_keys(&:to_i)
+    max_week     = week_phases.keys.max
+    phase_dir    = week_phases[week]
+    week_base    = "#{_study_pfx}/#{phase_dir}/week-#{week_fmt}"
+    current_path = resource.relative_url.to_s.delete_prefix(site.base_path.to_s).chomp("/")
+    prev_week    = week > 1 ? week - 1 : nil
+    next_week    = week < max_week ? week + 1 : nil
+    prev_phase   = prev_week ? week_phases[prev_week] : nil
+    next_phase   = next_week ? week_phases[next_week] : nil
+  %>
+  <nav class="week-nav">
+    <% if prev_week %>
+      <a href="<%= relative_url "#{_study_pfx}/#{prev_phase}/week-#{'%02d' % prev_week}/overview/" %>" class="week-nav-arrow">&larr; Week <%= prev_week %></a>
+    <% else %>
+      <span class="week-nav-arrow"></span>
+    <% end %>
+    <div class="week-nav-pages">
+      <%
+        pages = [
+          ["Overview",    "#{week_base}/overview/"],
+          ["1",           "#{week_base}/day-1/"],
+          ["2",           "#{week_base}/day-2/"],
+          ["3",           "#{week_base}/day-3/"],
+          ["4",           "#{week_base}/day-4/"],
+          ["5",           "#{week_base}/day-5/"],
+          ["Discussion",  "#{week_base}/discussion/"],
+          ["Verse",       "#{week_base}/memory-verse/"],
+        ]
+      %>
+      <% pages.each do |label, path| %>
+        <% is_current = current_path == path.chomp("/") %>
+        <a href="<%= relative_url path %>" class="week-nav-page<%= ' current' if is_current %>"><%= label %></a>
+      <% end %>
+    </div>
+    <% if next_week %>
+      <a href="<%= relative_url "#{_study_pfx}/#{next_phase}/week-#{'%02d' % next_week}/overview/" %>" class="week-nav-arrow">Week <%= next_week %> &rarr;</a>
+    <% else %>
+      <span class="week-nav-arrow"></span>
+    <% end %>
+  </nav>
+  <% end %>
+
+  <section class="page-discussions" data-feature="discussions">
+    <h2>Discussion</h2>
+    <p class="discussions-note">Comments are powered by GitHub Discussions. To post, sign in with your GitHub account using the link below the reaction icons.</p>
+    <div class="giscus"></div>
+  </section>
+</article>

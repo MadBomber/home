@@ -1,0 +1,92 @@
+{
+  "1": {
+    "title": "Creation — In the Beginning",
+    "days": {
+      "1": { "title": "The First Day", "reading": "Genesis 1:1-5" },
+      "2": { "title": "Sky and Sea", "reading": "Genesis 1:6-13" },
+      "3": { "title": "Sun, Moon, and Stars", "reading": "Genesis 1:14-19" },
+      "4": { "title": "Living Creatures", "reading": "Genesis 1:20-25" },
+      "5": { "title": "Humankind", "reading": "Genesis 1:26-2:3" }
+    }
+  },
+  "2": {
+    "title": "The Garden and the Fall",
+    "days": {
+      "1": { "title": "The Garden of Eden", "reading": "Genesis 2:4-25" },
+      "2": { "title": "The Temptation", "reading": "Genesis 3:1-13" },
+      "3": { "title": "Judgment and Consequence", "reading": "Genesis 3:14-24" },
+      "4": { "title": "Cain and Abel", "reading": "Genesis 4:1-16" },
+      "5": { "title": "From Adam to Noah", "reading": "Genesis 4:17-5:32" }
+    }
+  },
+  "3": {
+    "title": "Flood and Renewal",
+    "days": {
+      "1": { "title": "The Wickedness of Humanity", "reading": "Genesis 6:1-22" },
+      "2": { "title": "The Great Flood", "reading": "Genesis 7:1-24" },
+      "3": { "title": "Waters Recede", "reading": "Genesis 8:1-22" },
+      "4": { "title": "The Covenant with Noah", "reading": "Genesis 9:1-17" },
+      "5": { "title": "The Table of Nations", "reading": "Genesis 9:18-10:32" }
+    }
+  },
+  "4": {
+    "title": "The Call of Abram",
+    "days": {
+      "1": { "title": "Babel and the Scattering", "reading": "Genesis 11:1-32" },
+      "2": { "title": "God Calls Abram", "reading": "Genesis 12:1-9" },
+      "3": { "title": "Abram in Egypt", "reading": "Genesis 12:10-13:4" },
+      "4": { "title": "Abram and Lot Part Ways", "reading": "Genesis 13:5-18" },
+      "5": { "title": "Abram Rescues Lot", "reading": "Genesis 14:1-24" }
+    }
+  },
+  "5": {
+    "title": "The Covenant Established",
+    "days": {
+      "1": { "title": "God's Promise to Abram", "reading": "Genesis 15:1-21" },
+      "2": { "title": "Hagar and Ishmael", "reading": "Genesis 16:1-16" },
+      "3": { "title": "The Sign of Circumcision", "reading": "Genesis 17:1-27" },
+      "4": { "title": "Three Visitors", "reading": "Genesis 18:1-15" },
+      "5": { "title": "Abraham Intercedes", "reading": "Genesis 18:16-33" }
+    }
+  },
+  "6": {
+    "title": "Trial and Trust",
+    "days": {
+      "1": { "title": "Sodom and Gomorrah", "reading": "Genesis 19:1-29" },
+      "2": { "title": "Isaac Is Born", "reading": "Genesis 21:1-21" },
+      "3": { "title": "The Binding of Isaac", "reading": "Genesis 22:1-19" },
+      "4": { "title": "A Wife for Isaac", "reading": "Genesis 24:1-67" },
+      "5": { "title": "Jacob and Esau", "reading": "Genesis 25:19-34" }
+    }
+  },
+  "7": {
+    "title": "Joseph and His Brothers",
+    "days": {
+      "1": { "title": "Joseph's Dreams", "reading": "Genesis 37:1-11" },
+      "2": { "title": "Sold into Egypt", "reading": "Genesis 37:12-36" },
+      "3": { "title": "Joseph in Potiphar's House", "reading": "Genesis 39:1-23" },
+      "4": { "title": "The Cupbearer and the Baker", "reading": "Genesis 40:1-23" },
+      "5": { "title": "Pharaoh's Dreams", "reading": "Genesis 41:1-40" }
+    }
+  },
+  "8": {
+    "title": "From Prison to Palace",
+    "days": {
+      "1": { "title": "Joseph Rules Egypt", "reading": "Genesis 41:41-57" },
+      "2": { "title": "Brothers Come to Egypt", "reading": "Genesis 42:1-38" },
+      "3": { "title": "Return to Egypt", "reading": "Genesis 43:1-34" },
+      "4": { "title": "The Silver Cup", "reading": "Genesis 44:1-34" },
+      "5": { "title": "Joseph Reveals Himself", "reading": "Genesis 45:1-28" }
+    }
+  },
+  "9": {
+    "title": "The Promise Fulfilled",
+    "days": {
+      "1": { "title": "Jacob Goes to Egypt", "reading": "Genesis 46:1-34" },
+      "2": { "title": "Settling in Goshen", "reading": "Genesis 47:1-31" },
+      "3": { "title": "Jacob Blesses His Sons", "reading": "Genesis 48:1-49:28" },
+      "4": { "title": "Jacob's Death and Burial", "reading": "Genesis 49:29-50:14" },
+      "5": { "title": "Joseph's Final Years", "reading": "Genesis 50:15-26" }
+    }
+  }
+}

@@ -1,0 +1,145 @@
+---
+title: Settings
+layout: default
+permalink: /settings/
+---
+
+<article id="settings-page">
+  <h1>Settings</h1>
+  <p style="text-align:center; color: var(--text-secondary); margin-bottom: 2rem;">Customize your study experience. All settings are stored privately in this browser.</p>
+
+  <section class="settings-section">
+    <h2>Features</h2>
+
+    <div class="settings-toggle">
+      <label class="settings-toggle-label">
+        <input type="checkbox" id="setting-journal" />
+        <span class="settings-toggle-text">
+          <strong>H.E.A.R. Journaling</strong>
+          <span class="settings-toggle-desc">Show the journal icon on day pages</span>
+        </span>
+      </label>
+    </div>
+
+    <div class="settings-toggle">
+      <label class="settings-toggle-label">
+        <input type="checkbox" id="setting-speak" />
+        <span class="settings-toggle-text">
+          <strong>Read Aloud</strong>
+          <span class="settings-toggle-desc">Show the speak button in the toolbar</span>
+        </span>
+      </label>
+    </div>
+
+    <div class="settings-toggle">
+      <label class="settings-toggle-label">
+        <input type="checkbox" id="setting-group" />
+        <span class="settings-toggle-text">
+          <strong>Group Sharing</strong>
+          <span class="settings-toggle-desc">Show an email icon in the toolbar to share with your study group</span>
+        </span>
+      </label>
+    </div>
+
+    <div class="settings-toggle">
+      <label class="settings-toggle-label">
+        <input type="checkbox" id="setting-discussions" />
+        <span class="settings-toggle-text">
+          <strong>Community Discussions</strong>
+          <span class="settings-toggle-desc">Show a comment section at the bottom of content pages. Posting requires a free <a href="https://github.com/signup" target="_blank">GitHub</a> account. All comments are public.</span>
+        </span>
+      </label>
+    </div>
+  </section>
+
+  <section class="settings-section">
+    <h2>Site Theme</h2>
+    <div class="settings-theme-selector">
+      <label for="setting-site-theme" class="settings-info">Choose your preferred appearance:</label>
+      <select id="setting-site-theme" class="settings-select">
+        <option value="light">Light</option>
+        <option value="dark">Dark</option>
+        <option value="auto">Match System Setting</option>
+      </select>
+    </div>
+  </section>
+
+  <section class="settings-section">
+    <h2>Font Size</h2>
+    <p class="settings-info">Set your preferred reading size in pixels:</p>
+    <div class="font-size-stepper">
+      <button id="font-size-decrease" class="font-size-btn" aria-label="Decrease font size">−</button>
+      <input type="number" id="font-size-value" class="font-size-input" min="8" max="40" value="18" />
+      <button id="font-size-increase" class="font-size-btn" aria-label="Increase font size">+</button>
+    </div>
+  </section>
+
+  <section class="settings-section" data-feature="journal">
+    <h2>Journal Data</h2>
+    <p id="settings-journal-info" class="settings-info"></p>
+
+    <div class="settings-actions">
+      <button id="settings-export-journal" class="settings-btn">Export</button>
+      <button id="settings-import-journal" class="settings-btn">Import</button>
+      <input type="file" id="settings-import-journal-file" accept=".json" style="display:none;" />
+      <button id="settings-clear-journal" class="settings-btn settings-btn-danger">Clear All Entries</button>
+    </div>
+  </section>
+
+  <section class="settings-section" data-feature="group" id="group-members">
+    <h2>Study Group Members</h2>
+    <p id="settings-group-info" class="settings-info"></p>
+
+    <div class="group-member-form">
+      <input type="text" id="group-member-name" placeholder="Name" class="group-member-input" />
+      <input type="email" id="group-member-email" placeholder="Email address" class="group-member-input group-member-input-email" />
+      <button id="group-add-member" class="settings-btn">Add</button>
+    </div>
+
+    <div id="group-member-list"></div>
+
+    <div class="settings-actions" style="margin-top: 1rem;">
+      <button id="settings-export-group" class="settings-btn">Export</button>
+      <button id="settings-import-group" class="settings-btn">Import</button>
+      <input type="file" id="settings-import-group-file" accept=".json" style="display:none;" />
+      <button id="settings-clear-group" class="settings-btn settings-btn-danger">Clear All Members</button>
+    </div>
+  </section>
+
+  <section class="settings-section" data-feature="discussions">
+    <h2>Discussion Appearance</h2>
+    <div class="settings-theme-selector">
+      <label for="setting-discussion-theme" class="settings-info">Comment section theme:</label>
+      <select id="setting-discussion-theme" class="settings-select">
+        <option value="light">Light</option>
+        <option value="light_high_contrast">Light High Contrast</option>
+        <option value="light_protanopia">Light Protanopia</option>
+        <option value="dark">Dark</option>
+        <option value="dark_high_contrast">Dark High Contrast</option>
+        <option value="dark_dimmed">Dark Dimmed</option>
+        <option value="dark_protanopia">Dark Protanopia</option>
+        <option value="transparent_dark">Transparent Dark</option>
+        <option value="preferred_color_scheme">Match System Setting</option>
+      </select>
+    </div>
+  </section>
+
+  <section class="settings-section">
+    <h2>Progress Data</h2>
+    <p id="settings-progress-info" class="settings-info"></p>
+
+    <div class="settings-actions">
+      <button id="settings-export-progress" class="settings-btn">Export</button>
+      <button id="settings-import-progress" class="settings-btn">Import</button>
+      <input type="file" id="settings-import-progress-file" accept=".json" style="display:none;" />
+      <button id="settings-clear-progress" class="settings-btn settings-btn-danger">Clear All Progress</button>
+    </div>
+  </section>
+
+  <section class="settings-section">
+    <h2>Storage</h2>
+    <p id="settings-storage-info" class="settings-info"></p>
+  </section>
+
+  <div id="settings-status" class="settings-status"></div>
+</article>

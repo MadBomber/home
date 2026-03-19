@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="<%= site.locale %>">
+  <head>
+    <%= render "head", metadata: site.metadata, title: data.title %>
+  </head>
+  <body class="<%= data.layout %> <%= data.page_class %>" data-base-path="<%= site.base_path.to_s %>">
+    <%= render Shared::Navbar.new(
+      metadata:           site.metadata,
+      resource:           resource,
+      studies:            site.data.studies || [],
+      resolved_documents: site.data.resolved_documents
+    ) %>
+    <%= render "breadcrumb" %>
+
+    <main>
+      <%= yield %>
+    </main>
+
+    <%= render "footer", metadata: site.metadata %>
+
+    <%# Inject per-study config for JavaScript consumption.
+        Falls back to global data for pages without a study_slug (e.g. landing page, settings). %>
+    <%
+      _study_slug = data.study_slug
+      _data_key   = _study_slug&.gsub('-', '_')
+      _study_cfg    = _data_key ? site.data.send(_data_key).study_config    : site.data.study_config
+      _study_titles = _data_key ? site.data.send(_data_key).study_titles    : site.data.study_titles
+    %>
+    <script id="study-slug-data"   type="application/json"><%== (_study_slug || "").to_json %></script>
+    <script id="study-config-data" type="application/json"><%== _study_cfg.to_json %></script>
+    <script id="study-titles-data" type="application/json"><%== _study_titles.to_json %></script>
+  </body>
+</html>

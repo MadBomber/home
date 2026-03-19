@@ -1,0 +1,12 @@
+{
+  "1": {
+    "title": "Study 02 — Section 01 — Week 1",
+    "days": {
+      "1": { "title": "Day 1 Title", "reading": "John 1:1-5" },
+      "2": { "title": "Day 2 Title", "reading": "John 1:6-13" },
+      "3": { "title": "Day 3 Title", "reading": "John 1:14-18" },
+      "4": { "title": "Day 4 Title", "reading": "John 1:19-28" },
+      "5": { "title": "Day 5 Title", "reading": "John 1:29-34" }
+    }
+  }
+}

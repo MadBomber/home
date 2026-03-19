@@ -1,0 +1,12 @@
+{
+  "1": {
+    "title": "Sample Section — Week 1",
+    "days": {
+      "1": { "title": "Sample Day 1 Title", "reading": "Genesis 1:1-5" },
+      "2": { "title": "Sample Day 2 Title", "reading": "Genesis 1:6-13" },
+      "3": { "title": "Sample Day 3 Title", "reading": "Genesis 1:14-19" },
+      "4": { "title": "Sample Day 4 Title", "reading": "Genesis 1:20-25" },
+      "5": { "title": "Sample Day 5 Title", "reading": "Genesis 1:26-31" }
+    }
+  }
+}

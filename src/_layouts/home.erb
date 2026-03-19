@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div data-page="home"></div>
+<section class="hero">
+  <h1 class="hero-title"><%= site.metadata.title %><br><span><%= site.metadata.tagline %></span></h1>
+  <p class="hero-tagline"><%= site.metadata.description %></p>
+</section>
+
+<div id="todays-study"></div>
+
+<section class="sections">
+  <h2>The Study</h2>
+
+  <div class="section-grid">
+    <% site.data.study_config["sections"].each do |section| %>
+      <a href="<%= relative_url "/#{section["slug"]}/" %>" class="section-card section-<%= section["number"] %>">
+        <span class="section-number">Section <%= section["number"] %></span>
+        <span class="section-name"><%= section["title"] %></span>
+        <span class="section-weeks">Weeks <%= section["weeks_start"] %>–<%= section["weeks_end"] %></span>
+      </a>
+    <% end %>
+  </div>
+</section>
+
+<%= yield %>
+
+<section class="guides">
+  <h2>Before You Begin</h2>
+  <div class="guide-cards">
+    <a href="<%= relative_url '/how-to-use' %>" class="guide-card">
+      <h3>How to Use This Study</h3>
+      <p>Daily routine, weekly rhythm, group and individual study tips.</p>
+    </a>
+    <a href="<%= relative_url '/hear-method' %>" class="guide-card">
+      <h3>The H.E.A.R. Method</h3>
+      <p>A four-step journaling approach: Highlight, Explain, Apply, Respond.</p>
+    </a>
+    <a href="<%= relative_url '/memory-verses' %>" class="guide-card">
+      <h3>Memory Verses</h3>
+      <p>Weekly verses to memorize throughout the study.</p>
+    </a>
+    <a href="<%= relative_url '/about' %>" class="guide-card">
+      <h3>About This Study</h3>
+      <p>Background, goals, and how this guide was developed.</p>
+    </a>
+  </div>
+</section>

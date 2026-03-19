@@ -1,0 +1,135 @@
+<%
+  _study_slug     = resource.data[:study_slug]
+  _week           = resource.data[:week]&.to_i
+  _section_number = resource.data[:section_number]&.to_i
+%>
+<% if _study_slug %>
+<%
+  _data_key  = _study_slug.gsub('-', '_')
+  _study_pfx = "/#{_study_slug}"
+
+  _studies      = site.data.studies || []
+  _study_data   = _studies.find { |s| s["slug"] == _study_slug }
+  _study_title  = _study_data&.[]("title") || _study_slug
+
+  _study_config_data = site.data.respond_to?(_data_key) ? site.data.send(_data_key) : nil
+  _study_config      = _study_config_data&.study_config || {}
+  _sections          = _study_config["sections"] || []
+  _week_phases       = (_study_config_data&.week_phases || {}).transform_keys(&:to_i)
+
+  _cur_section = if _week
+    _sections.find { |s| _week >= s["weeks_start"].to_i && _week <= s["weeks_end"].to_i }
+  elsif _section_number
+    _sections.find { |s| s["number"].to_i == _section_number }
+  end
+
+  _section_slug  = _cur_section&.[]("slug")
+  _section_title = _cur_section&.[]("title")
+
+  _chevron = '<svg class="bc-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>'
+
+  if _week
+    _section_weeks = _week_phases.select { |_w, slug| slug == _section_slug }.keys.sort
+    _week_fmt  = "%02d" % _week
+    _week_base = "#{_study_pfx}/#{_section_slug}/week-#{_week_fmt}"
+    _day       = resource.data[:day]&.to_i
+    _page_type = resource.data[:type]
+    _page_label = if _day
+      "Day #{_day}"
+    elsif _page_type == "discussion"
+      "Discussion"
+    elsif _page_type == "memory_verse"
+      "Memory Verse"
+    else
+      "Overview"
+    end
+    _day_pages = [
+      ["Overview",      "#{_week_base}/overview/"],
+      ["Day 1",         "#{_week_base}/day-1/"],
+      ["Day 2",         "#{_week_base}/day-2/"],
+      ["Day 3",         "#{_week_base}/day-3/"],
+      ["Day 4",         "#{_week_base}/day-4/"],
+      ["Day 5",         "#{_week_base}/day-5/"],
+      ["Discussion",    "#{_week_base}/discussion/"],
+      ["Memory Verse",  "#{_week_base}/memory-verse/"],
+    ]
+  end
+%>
+<nav class="breadcrumb" aria-label="Page location">
+  <ol class="bc-list">
+
+    <li class="bc-item">
+      <a href="<%= relative_url '/' %>" class="bc-link">Home</a>
+    </li>
+    <li class="bc-sep" aria-hidden="true">›</li>
+
+    <li class="bc-item bc-has-dropdown<%= ' bc-current' unless _cur_section || _week %>">
+      <button class="bc-toggle" aria-expanded="false">
+        <%= _study_title %><%== _chevron %>
+      </button>
+      <ul class="bc-dropdown">
+        <% _studies.each do |study| %>
+          <%
+            _study_aria = if study["slug"] == _study_slug
+              (!_cur_section && !_week) ? ' aria-current="page"' : ' aria-current="true"'
+            else
+              ""
+            end
+          %>
+          <li><a href="<%= relative_url "/#{study["slug"]}/" %>"<%== _study_aria %>><%= study["title"] %></a></li>
+        <% end %>
+      </ul>
+    </li>
+
+    <% if _cur_section %>
+    <li class="bc-sep" aria-hidden="true">›</li>
+
+    <li class="bc-item bc-has-dropdown<%= ' bc-current' unless _week %>">
+      <button class="bc-toggle" aria-expanded="false">
+        <%= _section_title %><%== _chevron %>
+      </button>
+      <ul class="bc-dropdown">
+        <% _sections.each do |sec| %>
+          <%
+            _sec_aria = if sec["slug"] == _section_slug
+              !_week ? ' aria-current="page"' : ' aria-current="true"'
+            else
+              ""
+            end
+          %>
+          <li><a href="<%= relative_url "#{_study_pfx}/#{sec["slug"]}/" %>"<%== _sec_aria %>><%= sec["title"] %></a></li>
+        <% end %>
+      </ul>
+    </li>
+    <% end %>
+
+    <% if _week %>
+    <li class="bc-sep" aria-hidden="true">›</li>
+
+    <li class="bc-item bc-has-dropdown">
+      <button class="bc-toggle" aria-expanded="false">
+        Week <%= _week %><%== _chevron %>
+      </button>
+      <ul class="bc-dropdown">
+        <% _section_weeks.each do |w| %>
+          <li><a href="<%= relative_url "#{_study_pfx}/#{_section_slug}/week-#{'%02d' % w}/overview/" %>"<%= ' aria-current="true"' if w == _week %>>Week <%= w %></a></li>
+        <% end %>
+      </ul>
+    </li>
+    <li class="bc-sep" aria-hidden="true">›</li>
+
+    <li class="bc-item bc-has-dropdown bc-current">
+      <button class="bc-toggle" aria-expanded="false">
+        <%= _page_label %><%== _chevron %>
+      </button>
+      <ul class="bc-dropdown">
+        <% _day_pages.each do |label, path| %>
+          <li><a href="<%= relative_url path %>"<%= ' aria-current="page"' if label == _page_label %>><%= label %></a></li>
+        <% end %>
+      </ul>
+    </li>
+    <% end %>
+
+  </ol>
+</nav>
+<% end %>
