@@ -19,7 +19,7 @@ title: Home
 <section class="studies">
   <h2>Available Studies</h2>
   <div class="study-grid">
-    <% site.data.studies.each do |study| %>
+    <% site.data.studies.reject { |s| s["hidden"] }.each do |study| %>
       <%
         data_key   = study["slug"].gsub('-', '_')
         study_cfg  = site.data.send(data_key).study_config

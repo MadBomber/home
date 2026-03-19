@@ -6,8 +6,10 @@
 # tagline     — short phrase shown on the card
 # image       — path to cover image (relative to src/images/), leave blank if none
 # description — one paragraph shown on the landing page card
+# hidden      — if true, the study is omitted from the landing page (under construction)
 
 - slug: "study-01"
+  hidden: true
   title: "Study 01 Title"
   tagline: "A short phrase describing study 01"
   image: ""
@@ -16,9 +18,20 @@
     src/_data/studies.yml.
 
 - slug: "study-02"
+  hidden: true
   title: "Study 02 Title"
   tagline: "A short phrase describing study 02"
   image: ""
   description: >-
     A short description of Study 02 for the landing page card. Update this in
     src/_data/studies.yml.
+
+- slug: "ntc1y"
+  hidden: false
+  tagline: "A Year at His Feet"
+  title: "New Testament Chronological Journey"
+  image: ""
+  description: >-
+    A 52-week chronological journey through all 260 chapters of the New Testament.
+    Each week covers a coherent block of scripture with daily readings, historical
+    context, reflection questions, and a memory verse.

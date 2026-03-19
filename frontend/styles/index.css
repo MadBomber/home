@@ -2098,6 +2098,47 @@ button.toolbar-icon {
   background: #271845;
 }
 
+/* --- Memory Verse Hero (image + callout side by side) --- */
+
+.mv-hero {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin: 1.5rem 0;
+}
+
+.mv-hero--no-image {
+  display: contents;
+}
+
+.mv-hero .mv-image {
+  flex: 0 0 auto;
+  width: 220px;
+  margin: 0;
+}
+
+.mv-hero .mv-image img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  display: block;
+}
+
+.mv-hero .day-memory-verse {
+  flex: 1;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .mv-hero {
+    flex-direction: column;
+  }
+
+  .mv-hero .mv-image {
+    width: 100%;
+  }
+}
+
 /* --- Day Memory Verse Callout --- */
 
 .day-memory-verse {

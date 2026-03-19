@@ -24,7 +24,7 @@ layout: default
 
   <%= yield %>
 
-  <% if data.day && _mv %>
+  <% if (data.day || (data.week && data.day.nil? && data.type.nil?)) && _mv %>
   <%= render "memory_verse_callout", mv: _mv, mv_url: _mv_url, week: data.week, hide_book_link: false %>
   <% end %>
 

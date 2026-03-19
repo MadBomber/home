@@ -19,7 +19,7 @@ class Shared::Navbar < Bridgetown::Component
   end
 
   def studies
-    @studies
+    @studies.reject { |s| s["hidden"] }
   end
 
   def study_title

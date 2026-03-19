@@ -23,7 +23,7 @@ permalink: /study-01/memory-verses/
     <% _mvs.each do |mv| %>
     <%
       _week      = mv.data[:week].to_i
-      _mv_url    = relative_url(mv.relative_url)
+      _mv_url    = mv.relative_url
       _reference = mv.data[:memory_verse]
       _verse     = mv.data[:verse_text]
       _trans     = mv.data[:translation]

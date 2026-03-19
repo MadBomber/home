@@ -19,5 +19,6 @@ Bridgetown.configure do |config|
   # Optionally host your site off a subfolder path, e.g. /my_study
   # If you set this, update publicPath in esbuild.config.js to match.
   #
-  base_path "/bible_study_template"
+  repo_name = ENV.fetch("GITHUB_REPOSITORY", File.basename(Dir.pwd)).split("/").last
+  base_path "/#{repo_name}"
 end

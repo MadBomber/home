@@ -1,0 +1,40 @@
+storage_prefix: "ntc1y"
+total_weeks: 52
+
+sections:
+  - number: 1
+    title: "The Coming of Christ"
+    slug: "section-01"
+    weeks_start: 1
+    weeks_end: 4
+
+  - number: 2
+    title: "Galilean Ministry"
+    slug: "section-02"
+    weeks_start: 5
+    weeks_end: 11
+
+  - number: 3
+    title: "Road to Jerusalem"
+    slug: "section-03"
+    weeks_start: 12
+    weeks_end: 16
+
+  - number: 4
+    title: "Passion and Resurrection"
+    slug: "section-04"
+    weeks_start: 17
+    weeks_end: 20
+
+  - number: 5
+    title: "The Early Church"
+    slug: "section-05"
+    weeks_start: 21
+    weeks_end: 41
+
+  - number: 6
+    title: "Letters and Revelation"
+    slug: "section-06"
+    weeks_start: 42
+    weeks_end: 52
+
