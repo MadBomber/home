@@ -1,0 +1,52 @@
+storage_prefix: "ot1y"
+total_weeks: 52
+
+sections:
+  - number: 1
+    title: "Creation Covenant"
+    slug: "section-01"
+    weeks_start: 1
+    weeks_end: 2
+
+  - number: 2
+    title: "Adamic Covenant"
+    slug: "section-02"
+    weeks_start: 3
+    weeks_end: 4
+
+  - number: 3
+    title: "Noahic Covenant"
+    slug: "section-03"
+    weeks_start: 5
+    weeks_end: 8
+
+  - number: 4
+    title: "Abrahamic Covenant"
+    slug: "section-04"
+    weeks_start: 9
+    weeks_end: 16
+
+  - number: 5
+    title: "Mosaic Covenant"
+    slug: "section-05"
+    weeks_start: 17
+    weeks_end: 30
+
+  - number: 6
+    title: "Davidic Covenant"
+    slug: "section-06"
+    weeks_start: 31
+    weeks_end: 44
+
+  - number: 7
+    title: "New Covenant"
+    slug: "section-07"
+    weeks_start: 45
+    weeks_end: 49
+
+  - number: 8
+    title: "Consummation"
+    slug: "section-08"
+    weeks_start: 50
+    weeks_end: 52
+

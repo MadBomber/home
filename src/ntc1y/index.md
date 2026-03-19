@@ -2,6 +2,7 @@
 layout: page
 title: "A Year at His Feet"
 study_slug: ntc1y
+template_engine: erb
 ---
 
 ## Overview
@@ -12,18 +13,18 @@ A 52-week chronological journey through all 260 chapters of the New Testament. B
 
 | Section | Weeks | Theme |
 |---------|-------|-------|
-| [The Coming of Christ](section-01/) | 1–4 | Incarnation, birth narratives, John's prologue |
-| [Galilean Ministry](section-02/) | 5–11 | Sermon on the Mount, parables, miracles |
-| [Road to Jerusalem](section-03/) | 12–16 | Conflict, compassion, Olivet Discourse |
-| [Passion and Resurrection](section-04/) | 17–20 | Upper Room, trial, cross, resurrection |
-| [The Early Church](section-05/) | 21–41 | Acts, Paul's letters, missionary journeys |
-| [Letters and Revelation](section-06/) | 42–52 | General epistles, Hebrews, Revelation |
+| [The Coming of Christ](<%= relative_url '/ntc1y/section-01/' %>) | 1–4 | Incarnation, birth narratives, John's prologue |
+| [Galilean Ministry](<%= relative_url '/ntc1y/section-02/' %>) | 5–11 | Sermon on the Mount, parables, miracles |
+| [Road to Jerusalem](<%= relative_url '/ntc1y/section-03/' %>) | 12–16 | Conflict, compassion, Olivet Discourse |
+| [Passion and Resurrection](<%= relative_url '/ntc1y/section-04/' %>) | 17–20 | Upper Room, trial, cross, resurrection |
+| [The Early Church](<%= relative_url '/ntc1y/section-05/' %>) | 21–41 | Acts, Paul's letters, missionary journeys |
+| [Letters and Revelation](<%= relative_url '/ntc1y/section-06/' %>) | 42–52 | General epistles, Hebrews, Revelation |
 
 ### How to Use This Study
 
-See [How to Use](/documents/how-to-use/) for practical guidance on working through this study individually or with a group.
+See [How to Use](<%= relative_url '/documents/how-to-use/' %>) for practical guidance on working through this study individually or with a group.
 
 ### Study Documents
 
-- [How to Use](/documents/how-to-use/)
-- [The H.E.A.R. Method](/documents/hear-method/)
+- [How to Use](<%= relative_url '/documents/how-to-use/' %>)
+- [The H.E.A.R. Method](<%= relative_url '/documents/hear-method/' %>)

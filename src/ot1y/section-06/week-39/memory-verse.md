@@ -1,0 +1,24 @@
+---
+layout: memory_verse
+week: 39
+section: Davidic Covenant
+title: The Kingdom Divided
+memory_verse: "1 Kings 18:21"
+verse_text: "And Elijah came near to all the people and said, \"How long will you go limping between two different opinions? If the LORD is God, follow him; but if Baal, then follow him.\""
+translation: ESV
+connections:
+  - "Day 1 — Rehoboam refuses the elders' counsel, the kingdom splits, and Jeroboam immediately establishes the golden calves at Dan and Bethel: \"Behold your gods, O Israel, who brought you up out of the land of Egypt\" (1 Kings 12:28). The limping between two opinions begins here — not with a dramatic rejection of God but with the quiet addition of a convenient alternative. Elijah's later challenge at Carmel addresses what Jeroboam's calves set in motion."
+  - "Day 2 — A man of God from Judah confronts Jeroboam's altar at Bethel, and Jeroboam's hand withers when he stretches it out against the prophet (1 Kings 13:4). The prophetic voice demands what Elijah will demand at Carmel: the LORD alone. Jeroboam's dynasty is condemned because it institutionalized the limping — making half-worship the official religion of the northern kingdom."
+  - "Day 3 — The parade of kings reveals the pattern Elijah's challenge addresses. Each northern king is measured by whether he \"walked in the way of Jeroboam\" — the way of the limp. Judah's kings are measured against David. Asa does \"what was right in the eyes of the LORD\" (1 Kings 15:11); most others compromise. The entire era is a nation limping, and Elijah's challenge at Carmel is the prophetic demand that the limping stop."
+  - "Day 4 — This is the day the memory verse lives. After three years of drought — three years of Baal's supposed domain over rain proven empty — Elijah gathers all Israel on Mount Carmel and issues the challenge. He rebuilds the LORD's altar with twelve stones, one for each tribe, drenches the sacrifice with water, and prays. Fire falls from heaven and consumes the offering, the wood, the stones, the dust, and the water. The people fall on their faces: \"The LORD, he is God; the LORD, he is God!\" (1 Kings 18:39). For one burning moment, the limping ends."
+  - "Day 5 — Ahab covets Naboth's vineyard, Jezebel arranges a judicial murder, and Elijah delivers God's verdict: \"In the place where dogs licked up the blood of Naboth shall dogs lick your own blood\" (1 Kings 21:19). Ahab dies in battle at Ramoth-gilead, struck by a \"random\" arrow that finds the gap in his armor (1 Kings 22:34). The king who limped between the LORD and Baal — who heard the fire fall on Carmel and still could not commit — receives the end that unresolved limping always produces."
+study_slug: ot1y
+type: memory_verse
+---
+## Why This Verse
+
+The Hebrew verb *pasach* — translated "limping" — describes the unsteady, lurching gait of someone trying to walk on two paths at once. It is the same word used later in the chapter for the frantic dance of Baal's prophets around their silent altar (1 Kings 18:26). Elijah's challenge is not a polite invitation to consider one's options. It is a diagnosis: Israel is crippled, hobbling between Yahweh and Baal, unwilling to commit fully to either. The demand permits no neutrality. "If the LORD is God, follow him; but if Baal, then follow him." The logic is absolute. Two mutually exclusive claims to deity cannot both be true. Choose, and stop limping.
+
+This verse captures the defining crisis of the divided kingdom era. From the moment Jeroboam erected golden calves at Dan and Bethel — using the exact words of Aaron's golden calf in Exodus 32:4, "Behold your gods, O Israel, who brought you up out of the land of Egypt" (1 Kings 12:28) — Israel's besetting sin was not atheism but syncretism. The people did not abandon the LORD entirely. They added Baal alongside him, mixing the worship of the covenant God with the worship of the Canaanite storm deity. Elijah's challenge at Carmel exposes what syncretism tries to hide: the two are incompatible. You cannot serve both. The limping must end.
+
+The Christological connection runs through both the prophet and the demand. Elijah is the prophet the New Testament most frequently links to Christ's forerunner — John the Baptist comes "in the spirit and power of Elijah" (Luke 1:17), and Malachi's promise of Elijah's return before the "great and awesome day of the LORD" (Malachi 4:5) hangs over the entire Gospel narrative. But the demand for decision that Elijah issues at Carmel is the demand Jesus intensifies: "No one can serve two masters" (Matthew 6:24). The fire that fell on Carmel vindicating the LORD is the same God who will vindicate his Son through resurrection. The question has not changed. The stakes have only increased. "Who do you say that I am?" (Mark 8:29) is Carmel's question in its final form.

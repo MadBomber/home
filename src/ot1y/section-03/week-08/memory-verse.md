@@ -1,0 +1,24 @@
+---
+layout: memory_verse
+week: 8
+section: Noahic Covenant
+title: Nations and Babel
+memory_verse: "Genesis 11:9"
+verse_text: "Therefore its name was called Babel, because there the LORD confused the language of all the earth. And from there the LORD dispersed them over the face of all the earth."
+translation: ESV
+connections:
+  - "Day 1 — The sons of Japheth and Ham spread across the earth in Genesis 10:1-20, each clan listed \"by their languages, their lands, and their nations.\" The dispersal the Table of Nations records is the outworking of what Genesis 11:9 describes — the LORD scattering what human pride tried to consolidate. Every name in the genealogy is a people under the Noahic covenant, covered by the rainbow, destined for the promise."
+  - "Day 2 — The sons of Shem form the line through which the promise will travel (Genesis 10:21-32). Even the confusion of Babel cannot break the genealogical thread that runs from Shem to Abram. God disperses the nations but preserves the line. The scattering is universal; the election is particular. Both serve the same redemptive purpose."
+  - "Day 3 — Genesis 11:1-9 narrates the event the memory verse summarizes. \"Come, let us make a name for ourselves, lest we be dispersed over the face of the whole earth\" (Genesis 11:4) is humanity's corporate repetition of Eden's reach for autonomy. God comes down — an irony, since the tower was meant to reach heaven — and the name they seized becomes *Babel*: confusion. The sin of self-glorification meets the judgment of incomprehension."
+  - "Day 4 — The genealogy of Genesis 11:10-26 narrows from Shem through ten generations to Terah, father of Abram. The dispersal of the nations created the problem — seventy scattered peoples with no access to blessing. The narrowing genealogy moves toward the solution: one man through whom \"all the families of the earth shall be blessed\" (Genesis 12:3). The camera that began on the cosmos now focuses on a single family in Ur."
+  - "Day 5 — Paul declares in Athens that God \"made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, that they should seek God\" (Acts 17:26-27). The dispersal of Genesis 11:9 was not purposeless. It was designed so that the scattered nations would grope for the God who scattered them — and find him. Genesis 11:27-32 introduces Terah's family in Ur, the household from which the answer to Babel's confusion will emerge."
+study_slug: ot1y
+type: memory_verse
+---
+## Why This Verse
+
+The name *Babel* is a play on the Hebrew *balal* — to confuse, to mix, to jumble into incoherence. Humanity gathered on the plain of Shinar to "make a name for ourselves" (Genesis 11:4), and the name they received was Confusion. The irony is devastating and deliberate. The tower was meant to reach heaven; God had to come down to see it. The project was meant to prevent scattering; it produced the very dispersal it feared. The name was meant to be glorious; it became a synonym for chaos. Every detail of Babel's judgment inverts its ambition. This is how God answers the sin of self-glorification — not by destroying the builders but by giving them exactly what their rebellion deserves: a world of mutual incomprehension, where the unity that defied God collapses into fragments.
+
+Yet the verse carries more than judgment. The dispersal of Genesis 11:9 also accomplishes the divine mandate of Genesis 9:1 — "fill the earth." God commanded scattering. Humanity refused. God scattered them anyway. Even God's judgments serve his original purposes. The seventy nations of the Table of Nations (Genesis 10) exist because of what happens in this verse — and those seventy nations are the very families God will target through Abraham's call in Genesis 12. The confusion is real. It is also provisional. The scattering creates the need for a gathering, and the gathering has a name: "In you all the families of the earth shall be blessed" (Genesis 12:3). Babel is not the end of the story. It is the setup for the call.
+
+The reversal comes at Pentecost. Where Babel divided one language into many and scattered the builders, the Spirit descends and people "from every nation under heaven" hear the gospel in their own tongues (Acts 2:5-11). The confusion is not erased — the languages remain — but it is transcended. What human pride fractured, divine grace reassembles. Not into a new Babel, not into another tower of human achievement, but into a community united not by shared ambition but by shared Spirit. The scattering of Genesis 11 is answered by the gathering of Acts 2. And the multitude John sees at the end — "from every nation, from all tribes and peoples and languages" (Revelation 7:9) — is the Table of Nations redeemed, the confusion healed, the dispersal gathered home.

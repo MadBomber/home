@@ -1,0 +1,24 @@
+---
+layout: memory_verse
+week: 37
+section: Davidic Covenant
+title: Sin and Restoration
+memory_verse: "Psalm 51:10"
+verse_text: "Create in me a clean heart, O God, and renew a right spirit within me."
+translation: ESV
+connections:
+  - "Day 1 — Nathan's parable about the rich man who steals the poor man's lamb catches David in the trap of his own sense of justice: \"As the LORD lives, the man who has done this deserves to die!\" (2 Samuel 12:5). The four words *attah ha-ish* collapse the distance between judge and defendant. David's response — \"I have sinned against the LORD\" — is the raw material from which Psalm 51:10 is forged. The plea for a clean heart begins in the moment a polluted heart is exposed."
+  - "Day 2 — Nathan's verdict echoes through David's own household: \"The sword shall never depart from your house\" (2 Samuel 12:10). Amnon's assault on Tamar, Absalom's calculated revenge — each act demonstrates why David's prayer for a clean heart reaches beyond himself. The corruption he unleashed reproduces in his children. The need for *bara* — divine re-creation — is not confined to one man. It extends to every generation his sin has touched."
+  - "Day 3 — David climbs the Mount of Olives barefoot, weeping, his head covered, driven from Jerusalem by his own son's rebellion (2 Samuel 15:30). The king who prayed for a renewed spirit walks through the landscape of consequences that forgiveness does not erase. Nathan told him, \"The LORD also has put away your sin; you shall not die\" (2 Samuel 12:13). The pardon was real. The sword remains. A clean heart does not undo history — but it enables the forgiven to walk through history's wreckage without despair."
+  - "Day 4 — Absalom hangs in a tree, pierced by Joab's spears, and David's grief overwhelms his relief: \"O my son Absalom, my son, my son Absalom! Would I had died instead of you\" (2 Samuel 18:33). The father's wish for substitutionary death is the cry the clean heart produces — a love so deep it would trade places with the rebellious child. David cannot fulfill this wish. But the God who heard David's prayer in Psalm 51 will send a Son who can and does: dying not instead of one rebellious son but for every one."
+  - "Day 5 — David purchases the threshing floor of Araunah to build an altar and stop the plague, insisting on paying full price: \"I will not offer burnt offerings to the LORD my God that cost me nothing\" (2 Samuel 24:24). The heart being renewed — the heart that asked for *bara* — understands that worship stripped of cost is worship stripped of meaning. The site David buys becomes the temple mount, the place where sacrifice will be offered for centuries, pointing toward the final sacrifice that costs everything and creates the clean heart David longed for."
+study_slug: ot1y
+type: memory_verse
+---
+## Why This Verse
+
+The verb "create" in this verse is *bara* — the same verb used in Genesis 1:1 for God's creation of the heavens and the earth. It is a verb the Old Testament reserves exclusively for divine action. Humans cannot *bara*. Only God creates from nothing. When David uses this word, he is confessing that the damage done by his sin with Bathsheba and the murder of Uriah cannot be repaired by human effort, moral improvement, or religious ritual. He needs something the sacrificial system cannot provide: a heart made new from nothing. "For you will not delight in sacrifice, or I would give it; you will not be pleased with a burnt offering" (Psalm 51:16). The man after God's own heart has discovered that his own heart is the problem — and only the Creator can fix it.
+
+This verse stands at the center of the week's devastating narrative arc. The rooftop glance leads to adultery, then cover-up, then murder, then Nathan's shattering word — *attah ha-ish*, "You are the man" (2 Samuel 12:7). David's confession is immediate and unqualified: "I have sinned against the LORD" (2 Samuel 12:13). No excuse. No deflection. This is the response that separates David from Saul — not that David sins less, but that David confesses without hedging. And the prayer of Psalm 51:10 is the theological depth of that confession: David does not merely ask for pardon. He asks for re-creation. A clean heart. A right (*nachon*) spirit — one that is established, firm, directed toward God rather than away from him.
+
+The Christological trajectory is profound. What David prays for, the prophets will promise: "I will give you a new heart, and a new spirit I will put within you" (Ezekiel 36:26). What Ezekiel promises, Christ's death and resurrection accomplish. Paul calls the risen Jesus "the last Adam" who "became a life-giving spirit" (1 Corinthians 15:45) — the one who does the *bara* David begged for, creating new hearts in those who could never create their own. The prayer of the broken king becomes the gift of the risen King.
