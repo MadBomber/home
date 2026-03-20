@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 19:1-25
+## Reading
+
+- Exodus 19:1-25
 
 ## Historical Context
 

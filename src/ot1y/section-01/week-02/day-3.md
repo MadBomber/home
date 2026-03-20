@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 2:18-25
+## Reading
+
+- Genesis 2:18-25
 
 ## Historical Context
 

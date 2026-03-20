@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Kings 21:1-23:30
+## Reading
+
+- 2 Kings 21:1-23:30
 
 ## Historical Context
 

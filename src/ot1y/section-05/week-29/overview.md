@@ -35,11 +35,11 @@ Joshua's farewell in chapters 23-24 echoes Moses' farewell in Deuteronomy — th
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Joshua 13:1–14:15](../day-1/) | "Much land remains" — the division begins, and Caleb claims his mountain |
-| 2 | [Joshua 15:1–19:51](../day-2/) | Tribal allotments — the promise made specific, acre by acre |
-| 3 | [Joshua 20:1–21:45](../day-3/) | Cities of refuge, Levitical cities, and "not one word has failed" |
-| 4 | [Joshua 22:1-34](../day-4/) | The eastern tribes return — an altar of witness, a near-civil war averted |
-| 5 | [Joshua 23:1–24:33](../day-5/) | Joshua's farewell — "Choose this day whom you will serve" |
+| [1](../day-1/) | Joshua 13:1–14:15 | "Much land remains" — the division begins, and Caleb claims his mountain |
+| [2](../day-2/) | Joshua 15:1–19:51 | Tribal allotments — the promise made specific, acre by acre |
+| [3](../day-3/) | Joshua 20:1–21:45 | Cities of refuge, Levitical cities, and "not one word has failed" |
+| [4](../day-4/) | Joshua 22:1-34 | The eastern tribes return — an altar of witness, a near-civil war averted |
+| [5](../day-5/) | Joshua 23:1–24:33 | Joshua's farewell — "Choose this day whom you will serve" |
 
 ## Key Themes
 

@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Zechariah 9:1--14:21
+## Reading
+
+- Zechariah 9:1--14:21
 
 ## Historical Context
 

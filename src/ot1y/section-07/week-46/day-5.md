@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Psalm 137; Psalm 126
+## Reading
+
+- Psalm 137; Psalm 126
 
 ## Historical Context
 

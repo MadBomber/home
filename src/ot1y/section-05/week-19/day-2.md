@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 14:1-31
+## Reading
+
+- Exodus 14:1-31
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Daniel 8:1-27
+## Reading
+
+- Daniel 8:1-27
 
 ## Historical Context
 

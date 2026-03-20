@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 12:10-20
+## Reading
+
+- Genesis 12:10-20
 
 ## Historical Context
 

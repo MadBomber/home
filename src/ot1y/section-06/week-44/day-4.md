@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Micah 1:1-5:15
+## Reading
+
+- Micah 1:1-5:15
 
 ## Historical Context
 

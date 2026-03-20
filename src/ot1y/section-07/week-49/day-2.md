@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Daniel 10:1-12:13
+## Reading
+
+- Daniel 10:1-12:13
 
 ## Historical Context
 

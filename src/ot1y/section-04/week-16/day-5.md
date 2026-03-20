@@ -17,7 +17,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 48:1-50:26
+## Reading
+
+- Genesis 48:1-50:26
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 10:1-20
+## Reading
+
+- Genesis 10:1-20
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 27:1-28:43
+## Reading
+
+- Exodus 27:1-28:43
 
 ## Historical Context
 

@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 17:1-18:27
+## Reading
+
+- Exodus 17:1-18:27
 
 ## Historical Context
 

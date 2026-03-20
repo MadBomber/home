@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Isaiah 11:1-16; 2:1-5
+## Reading
+
+- Isaiah 11:1-16; 2:1-5
 
 ## Historical Context
 

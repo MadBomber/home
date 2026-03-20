@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 2:1-3
+## Reading
+
+- Genesis 2:1-3
 
 ## Historical Context
 

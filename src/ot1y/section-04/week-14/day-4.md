@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 31:1-55
+## Reading
+
+- Genesis 31:1-55
 
 ## Historical Context
 

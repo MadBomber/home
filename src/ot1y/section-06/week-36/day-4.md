@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Psalm 72
+## Reading
+
+- Psalm 72
 
 ## Historical Context
 

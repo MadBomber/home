@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 15:1-27
+## Reading
+
+- Exodus 15:1-27
 
 ## Historical Context
 

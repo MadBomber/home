@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Isaiah 52:13-53:12
+## Reading
+
+- Isaiah 52:13-53:12
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Proverbs 10:1-22:16
+## Reading
+
+- Proverbs 10:1-22:16
 
 ## Historical Context
 

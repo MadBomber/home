@@ -41,11 +41,11 @@ Genesis 24 then opens the search for Isaac's bride. Abraham sends his servant to
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Genesis 21:1-21](../day-1/) | Isaac born, Ishmael sent away — the son of promise and the son of the flesh |
-| 2 | [Genesis 21:22-34; 22:1-8](../day-2/) | "God tested Abraham" — the walk to Moriah and the terrible question |
-| 3 | [Genesis 22:9-19](../day-3/) | The knife, the ram, the name — "The LORD will provide" |
-| 4 | [Genesis 23:1-20](../day-4/) | Sarah dies — Abraham buys his first land in Canaan: a grave |
-| 5 | [Genesis 24:1-27](../day-5/) | A bride for Isaac — the servant's journey and providential guidance |
+| [1](../day-1/) | Genesis 21:1-21 | Isaac born, Ishmael sent away — the son of promise and the son of the flesh |
+| [2](../day-2/) | Genesis 21:22-34; 22:1-8 | "God tested Abraham" — the walk to Moriah and the terrible question |
+| [3](../day-3/) | Genesis 22:9-19 | The knife, the ram, the name — "The LORD will provide" |
+| [4](../day-4/) | Genesis 23:1-20 | Sarah dies — Abraham buys his first land in Canaan: a grave |
+| [5](../day-5/) | Genesis 24:1-27 | A bride for Isaac — the servant's journey and providential guidance |
 
 ## Key Themes
 

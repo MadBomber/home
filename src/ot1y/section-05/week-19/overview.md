@@ -31,11 +31,11 @@ But redemption from Egypt is immediately followed by testing in the wilderness. 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Exodus 12:43–13:22](../day-1/) | The departure — unleavened bread, consecration of the firstborn, and the pillar of cloud and fire |
-| 2 | [Exodus 14:1-31](../day-2/) | The Red Sea — Pharaoh's pursuit, Moses' faith, the waters divided |
-| 3 | [Exodus 15:1-27](../day-3/) | The Song of the Sea — "The LORD is my strength and my song" |
-| 4 | [Exodus 16:1-36](../day-4/) | Manna from heaven — daily bread and the test of trust |
-| 5 | [Exodus 17:1–18:27](../day-5/) | Water from the rock, battle with Amalek, and Jethro's counsel |
+| [1](../day-1/) | Exodus 12:43–13:22 | The departure — unleavened bread, consecration of the firstborn, and the pillar of cloud and fire |
+| [2](../day-2/) | Exodus 14:1-31 | The Red Sea — Pharaoh's pursuit, Moses' faith, the waters divided |
+| [3](../day-3/) | Exodus 15:1-27 | The Song of the Sea — "The LORD is my strength and my song" |
+| [4](../day-4/) | Exodus 16:1-36 | Manna from heaven — daily bread and the test of trust |
+| [5](../day-5/) | Exodus 17:1–18:27 | Water from the rock, battle with Amalek, and Jethro's counsel |
 
 ## Key Themes
 

@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 1 Kings 20:1-22:53
+## Reading
+
+- 1 Kings 20:1-22:53
 
 ## Historical Context
 

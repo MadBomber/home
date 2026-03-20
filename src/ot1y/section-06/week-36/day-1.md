@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Psalm 2
+## Reading
+
+- Psalm 2
 
 ## Historical Context
 

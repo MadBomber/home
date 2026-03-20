@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 17:1-19:22
+## Reading
+
+- Numbers 17:1-19:22
 
 ## Historical Context
 

@@ -37,11 +37,11 @@ Isaiah 52:13-53:12, the fourth servant song, is the Old Testament's most sustain
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Isaiah 1:1-6:13](../day-1/) | The holy God and the sinful nation — judgment, hope, and Isaiah's call |
-| 2 | [Isaiah 7:1-12:6; 52:13-53:12](../day-2/) | Immanuel, the child-king, and the suffering servant |
-| 3 | [Jeremiah 1:1-3:25; 31:31-34](../day-3/) | Called before birth, the unfaithful bride, and the new covenant promise |
-| 4 | [Ezekiel 1:1-3:27; 34:1-31](../day-4/) | Glory in exile — the throne-chariot, the prophet's call, and the good shepherd |
-| 5 | [Daniel 1:1-6:28](../day-5/) | Faithfulness in Babylon — the fiery furnace, the lions' den, and the sovereign God |
+| [1](../day-1/) | Isaiah 1:1-6:13 | The holy God and the sinful nation — judgment, hope, and Isaiah's call |
+| [2](../day-2/) | Isaiah 7:1-12:6; 52:13-53:12 | Immanuel, the child-king, and the suffering servant |
+| [3](../day-3/) | Jeremiah 1:1-3:25; 31:31-34 | Called before birth, the unfaithful bride, and the new covenant promise |
+| [4](../day-4/) | Ezekiel 1:1-3:27; 34:1-31 | Glory in exile — the throne-chariot, the prophet's call, and the good shepherd |
+| [5](../day-5/) | Daniel 1:1-6:28 | Faithfulness in Babylon — the fiery furnace, the lions' den, and the sovereign God |
 
 ## Key Themes
 

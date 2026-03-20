@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Ecclesiastes 1:1-6:12
+## Reading
+
+- Ecclesiastes 1:1-6:12
 
 ## Historical Context
 

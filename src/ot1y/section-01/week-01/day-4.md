@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 1 (review)
+## Reading
+
+- Genesis 1 (review)
 
 Read Genesis 1 in its entirety today -- slowly, aloud if possible. You have studied the parts over three days. Today you are reading the whole.
 

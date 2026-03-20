@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 22:1-23:19
+## Reading
+
+- Exodus 22:1-23:19
 
 ## Historical Context
 

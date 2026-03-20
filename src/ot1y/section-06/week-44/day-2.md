@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Amos 1:1-2:16; 5:18-27
+## Reading
+
+- Amos 1:1-2:16; 5:18-27
 
 ## Historical Context
 

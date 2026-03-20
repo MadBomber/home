@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 20:1-18
+## Reading
+
+- Genesis 20:1-18
 
 ## Historical Context
 

@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 8:13-22
+## Reading
+
+- Genesis 8:13-22
 
 ## Historical Context
 

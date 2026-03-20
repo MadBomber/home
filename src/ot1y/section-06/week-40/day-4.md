@@ -18,7 +18,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 2 Kings 6:24--8:29
+## Reading
+
+- 2 Kings 6:24--8:29
 
 ## Historical Context
 

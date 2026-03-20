@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 23:20-24:18
+## Reading
+
+- Exodus 23:20-24:18
 
 ## Historical Context
 

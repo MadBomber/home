@@ -35,11 +35,11 @@ The week closes with two readings that open the flood narrative to its wider bib
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Genesis 6:1-8](../day-1/) | The world unravels — the sons of God, total corruption, divine grief, and the word "but" |
-| 2 | [Genesis 6:9-16](../day-2/) | Noah walks with God — blameless in his generation, the ark's blueprint |
-| 3 | [Genesis 6:17-22](../day-3/) | The covenant announced — "I will establish my covenant with you" — and Noah obeys |
-| 4 | [2 Peter 2:4-10](../day-4/) | Peter reads the flood — the ancient pattern of judgment and deliverance |
-| 5 | [Ezekiel 14:12-20](../day-5/) | Noah, Daniel, and Job — individual righteousness in a world under judgment |
+| [1](../day-1/) | Genesis 6:1-8 | The world unravels — the sons of God, total corruption, divine grief, and the word "but" |
+| [2](../day-2/) | Genesis 6:9-16 | Noah walks with God — blameless in his generation, the ark's blueprint |
+| [3](../day-3/) | Genesis 6:17-22 | The covenant announced — "I will establish my covenant with you" — and Noah obeys |
+| [4](../day-4/) | 2 Peter 2:4-10 | Peter reads the flood — the ancient pattern of judgment and deliverance |
+| [5](../day-5/) | Ezekiel 14:12-20 | Noah, Daniel, and Job — individual righteousness in a world under judgment |
 
 ## Key Themes
 

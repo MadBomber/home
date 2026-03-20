@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 2:1-25
+## Reading
+
+- Exodus 2:1-25
 
 ## Historical Context
 

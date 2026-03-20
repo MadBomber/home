@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 33:1-23
+## Reading
+
+- Exodus 33:1-23
 
 ## Historical Context
 

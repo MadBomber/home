@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 23:1--24:22
+## Reading
+
+- 1 Samuel 23:1--24:22
 
 ## Historical Context
 

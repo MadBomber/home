@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 23:1-20
+## Reading
+
+- Genesis 23:1-20
 
 ## Historical Context
 

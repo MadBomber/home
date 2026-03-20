@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 18:1-30
+## Reading
+
+- 1 Samuel 18:1-30
 
 ## Historical Context
 

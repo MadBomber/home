@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 1 Kings 12:1-33
+## Reading
+
+- 1 Kings 12:1-33
 
 ## Historical Context
 

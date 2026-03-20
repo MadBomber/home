@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Hosea 1:1-3:5; 11:1-11
+## Reading
+
+- Hosea 1:1-3:5; 11:1-11
 
 ## Historical Context
 

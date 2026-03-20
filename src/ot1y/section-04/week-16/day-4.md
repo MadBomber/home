@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 46:1-47:31
+## Reading
+
+- Genesis 46:1-47:31
 
 ## Historical Context
 

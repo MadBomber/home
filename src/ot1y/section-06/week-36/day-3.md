@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Psalm 89:1-37
+## Reading
+
+- Psalm 89:1-37
 
 ## Historical Context
 

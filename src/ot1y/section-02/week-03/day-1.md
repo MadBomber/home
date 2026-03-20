@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 3:1-7
+## Reading
+
+- Genesis 3:1-7
 
 ## Historical Context
 

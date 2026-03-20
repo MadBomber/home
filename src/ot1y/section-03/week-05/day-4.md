@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 2 Peter 2:4-10
+## Reading
+
+- 2 Peter 2:4-10
 
 ## Historical Context
 

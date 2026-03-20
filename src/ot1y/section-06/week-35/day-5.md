@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Samuel 8:1-10:19
+## Reading
+
+- 2 Samuel 8:1-10:19
 
 ## Historical Context
 

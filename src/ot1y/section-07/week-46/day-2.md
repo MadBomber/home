@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Esther 3:1--4:17
+## Reading
+
+- Esther 3:1--4:17
 
 ## Historical Context
 

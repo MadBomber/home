@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 15:1-6
+## Reading
+
+- Genesis 15:1-6
 
 ## Historical Context
 

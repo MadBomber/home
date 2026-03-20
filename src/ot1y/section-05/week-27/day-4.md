@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Deuteronomy 12:1-18:22
+## Reading
+
+- Deuteronomy 12:1-18:22
 
 ## Historical Context
 

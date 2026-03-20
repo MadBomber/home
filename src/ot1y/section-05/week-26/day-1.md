@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 15:1-16:50
+## Reading
+
+- Numbers 15:1-16:50
 
 ## Historical Context
 

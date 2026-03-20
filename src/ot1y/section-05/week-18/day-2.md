@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 7:1-8:19
+## Reading
+
+- Exodus 7:1-8:19
 
 ## Historical Context
 

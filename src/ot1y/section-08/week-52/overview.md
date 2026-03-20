@@ -35,11 +35,11 @@ The week — and the study — closes with songs. Psalm 46: "God is our refuge a
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Isaiah 65:17-25](../day-1/) | "Behold, I create new heavens and a new earth" — the world as God intends it |
-| 2 | [Isaiah 66:1-24](../day-2/) | All flesh shall worship — the nations gathered, the new creation inaugurated |
-| 3 | [Ezekiel 47:1-12; 48:30-35](../day-3/) | The river of life — flowing from the temple, healing everything it touches |
-| 4 | [Isaiah 25:6-9; 60:1-22](../day-4/) | The feast, the light, and "the LORD will be your everlasting light" |
-| 5 | [Psalm 46; Psalm 48; Isaiah 12:1-6](../day-5/) | Songs of the city of God — refuge, praise, and the wells of salvation |
+| [1](../day-1/) | Isaiah 65:17-25 | "Behold, I create new heavens and a new earth" — the world as God intends it |
+| [2](../day-2/) | Isaiah 66:1-24 | All flesh shall worship — the nations gathered, the new creation inaugurated |
+| [3](../day-3/) | Ezekiel 47:1-12; 48:30-35 | The river of life — flowing from the temple, healing everything it touches |
+| [4](../day-4/) | Isaiah 25:6-9; 60:1-22 | The feast, the light, and "the LORD will be your everlasting light" |
+| [5](../day-5/) | Psalm 46; Psalm 48; Isaiah 12:1-6 | Songs of the city of God — refuge, praise, and the wells of salvation |
 
 ## Key Themes
 

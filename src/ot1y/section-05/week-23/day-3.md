@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Leviticus 6:1-7:38
+## Reading
+
+- Leviticus 6:1-7:38
 
 ## Historical Context
 

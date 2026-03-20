@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 3:1-4:49
+## Reading
+
+- Numbers 3:1-4:49
 
 ## Historical Context
 

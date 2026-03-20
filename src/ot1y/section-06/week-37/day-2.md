@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Samuel 13:1-14:33
+## Reading
+
+- 2 Samuel 13:1-14:33
 
 ## Historical Context
 

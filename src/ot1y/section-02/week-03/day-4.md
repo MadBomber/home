@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Isaiah 7:14; 9:6-7
+## Reading
+
+- Isaiah 7:14; 9:6-7
 
 ## Historical Context
 

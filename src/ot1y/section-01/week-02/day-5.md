@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Isaiah 40:21-28
+## Reading
+
+- Isaiah 40:21-28
 
 ## Historical Context
 

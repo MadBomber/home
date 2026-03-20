@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 43:1-44:34
+## Reading
+
+- Genesis 43:1-44:34
 
 ## Historical Context
 

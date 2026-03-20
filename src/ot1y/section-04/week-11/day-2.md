@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 18:16-33
+## Reading
+
+- Genesis 18:16-33
 
 ## Historical Context
 

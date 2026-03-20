@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Leviticus 17:1-18:30
+## Reading
+
+- Leviticus 17:1-18:30
 
 ## Historical Context
 

@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Zechariah 7:1--8:23
+## Reading
+
+- Zechariah 7:1--8:23
 
 ## Historical Context
 

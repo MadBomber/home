@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Samuel 2:8-4:12
+## Reading
+
+- 2 Samuel 2:8-4:12
 
 ## Historical Context
 

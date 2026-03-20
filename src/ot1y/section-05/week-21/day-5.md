@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 30:1-31:18
+## Reading
+
+- Exodus 30:1-31:18
 
 ## Historical Context
 

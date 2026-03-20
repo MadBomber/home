@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Isaiah 25:1-27:13
+## Reading
+
+- Isaiah 25:1-27:13
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 32:1-35
+## Reading
+
+- Exodus 32:1-35
 
 ## Historical Context
 

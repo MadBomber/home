@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Deuteronomy 1:1-4:43
+## Reading
+
+- Deuteronomy 1:1-4:43
 
 ## Historical Context
 

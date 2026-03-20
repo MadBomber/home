@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 2:4-17
+## Reading
+
+- Genesis 2:4-17
 
 ## Historical Context
 

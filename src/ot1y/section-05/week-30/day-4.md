@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Judges 13:1--21:25
+## Reading
+
+- Judges 13:1--21:25
 
 ## Historical Context
 

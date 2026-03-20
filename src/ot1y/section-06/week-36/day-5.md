@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Psalm 45
+## Reading
+
+- Psalm 45
 
 ## Historical Context
 

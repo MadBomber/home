@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Jeremiah 31:1-40
+## Reading
+
+- Jeremiah 31:1-40
 
 ## Historical Context
 

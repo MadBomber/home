@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Leviticus 8:1-10:20
+## Reading
+
+- Leviticus 8:1-10:20
 
 ## Historical Context
 

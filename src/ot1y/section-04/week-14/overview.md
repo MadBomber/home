@@ -41,11 +41,11 @@ The reunion with Esau is the narrative's quiet miracle. Jacob approaches terrifi
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Genesis 27:41–28:22](../day-1/) | Flight and Bethel — the ladder, the promise, and "the gate of heaven" |
-| 2 | [Genesis 29:1-30](../day-2/) | Laban's deception — the deceiver deceived, seven years twice over |
-| 3 | [Genesis 29:31–30:24](../day-3/) | The sons of Jacob — twelve tribes born through rivalry and heartbreak |
-| 4 | [Genesis 31:1-55](../day-4/) | Jacob flees Laban — stolen gods, confrontation, and the covenant at Mizpah |
-| 5 | [Genesis 32:1–33:20](../day-5/) | Peniel — wrestling with God, a new name, and the reunion with Esau |
+| [1](../day-1/) | Genesis 27:41–28:22 | Flight and Bethel — the ladder, the promise, and "the gate of heaven" |
+| [2](../day-2/) | Genesis 29:1-30 | Laban's deception — the deceiver deceived, seven years twice over |
+| [3](../day-3/) | Genesis 29:31–30:24 | The sons of Jacob — twelve tribes born through rivalry and heartbreak |
+| [4](../day-4/) | Genesis 31:1-55 | Jacob flees Laban — stolen gods, confrontation, and the covenant at Mizpah |
+| [5](../day-5/) | Genesis 32:1–33:20 | Peniel — wrestling with God, a new name, and the reunion with Esau |
 
 ## Key Themes
 

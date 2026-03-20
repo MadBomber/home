@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Proverbs 8:22-31
+## Reading
+
+- Proverbs 8:22-31
 
 ## Historical Context
 

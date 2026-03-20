@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 13:1--14:15
+## Reading
+
+- Joshua 13:1--14:15
 
 ## Historical Context
 

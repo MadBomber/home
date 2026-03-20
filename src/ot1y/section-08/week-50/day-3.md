@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Joel 3:1-21
+## Reading
+
+- Joel 3:1-21
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 16:1-16
+## Reading
+
+- Genesis 16:1-16
 
 ## Historical Context
 

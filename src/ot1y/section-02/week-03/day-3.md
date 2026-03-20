@@ -18,7 +18,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 3:16-24
+## Reading
+
+- Genesis 3:16-24
 
 ## Historical Context
 

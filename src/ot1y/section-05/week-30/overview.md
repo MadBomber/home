@@ -39,11 +39,11 @@ The *goel* must be a near relative. He must be willing. He must be able to pay t
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Judges 1:1–3:31](../day-1/) | The pattern begins — incomplete obedience, the first judges |
-| 2 | [Judges 4:1–6:40](../day-2/) | Deborah and Barak, Gideon's call — strength in weakness |
-| 3 | [Judges 7:1–12:15](../day-3/) | Gideon's three hundred, Jephthah's vow — victory and tragedy |
-| 4 | [Judges 13:1–21:25](../day-4/) | Samson, the Levite's concubine, and "everyone did what was right in his own eyes" |
-| 5 | [Ruth 1:1–4:22](../day-5/) | Ruth and Boaz — loyalty, redemption, and the line of David |
+| [1](../day-1/) | Judges 1:1–3:31 | The pattern begins — incomplete obedience, the first judges |
+| [2](../day-2/) | Judges 4:1–6:40 | Deborah and Barak, Gideon's call — strength in weakness |
+| [3](../day-3/) | Judges 7:1–12:15 | Gideon's three hundred, Jephthah's vow — victory and tragedy |
+| [4](../day-4/) | Judges 13:1–21:25 | Samson, the Levite's concubine, and "everyone did what was right in his own eyes" |
+| [5](../day-5/) | Ruth 1:1–4:22 | Ruth and Boaz — loyalty, redemption, and the line of David |
 
 ## Key Themes
 

@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Psalm 110
+## Reading
+
+- Psalm 110
 
 ## Historical Context
 

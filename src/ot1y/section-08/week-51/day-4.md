@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Zechariah 14:1-21
+## Reading
+
+- Zechariah 14:1-21
 
 ## Historical Context
 

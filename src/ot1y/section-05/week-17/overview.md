@@ -29,11 +29,11 @@ Moses resists. Five objections, each one a variation on the same theme: I am not
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Exodus 1:1-22](../day-1/) | Slavery — a new Pharaoh, a multiplying people, and an order to kill |
-| 2 | [Exodus 2:1-25](../day-2/) | Moses — the basket, the palace, the murder, the exile, and the cry heard by God |
-| 3 | [Exodus 3:1-22](../day-3/) | The burning bush — "I AM WHO I AM" and the mission to deliver |
-| 4 | [Exodus 4:1-17](../day-4/) | Objections and signs — Moses resists, God persists |
-| 5 | [Exodus 4:18-31](../day-5/) | The return to Egypt — circumcision, Aaron, and the first meeting with Israel's elders |
+| [1](../day-1/) | Exodus 1:1-22 | Slavery — a new Pharaoh, a multiplying people, and an order to kill |
+| [2](../day-2/) | Exodus 2:1-25 | Moses — the basket, the palace, the murder, the exile, and the cry heard by God |
+| [3](../day-3/) | Exodus 3:1-22 | The burning bush — "I AM WHO I AM" and the mission to deliver |
+| [4](../day-4/) | Exodus 4:1-17 | Objections and signs — Moses resists, God persists |
+| [5](../day-5/) | Exodus 4:18-31 | The return to Egypt — circumcision, Aaron, and the first meeting with Israel's elders |
 
 ## Key Themes
 

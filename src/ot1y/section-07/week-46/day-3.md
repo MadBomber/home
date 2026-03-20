@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Esther 5:1--7:10
+## Reading
+
+- Esther 5:1--7:10
 
 ## Historical Context
 

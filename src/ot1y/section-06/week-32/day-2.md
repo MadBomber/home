@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 11:1-12:25
+## Reading
+
+- 1 Samuel 11:1-12:25
 
 ## Historical Context
 

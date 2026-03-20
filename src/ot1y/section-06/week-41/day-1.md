@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Kings 14:1-15:38
+## Reading
+
+- 2 Kings 14:1-15:38
 
 ## Historical Context
 

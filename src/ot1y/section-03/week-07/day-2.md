@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 9:8-17
+## Reading
+
+- Genesis 9:8-17
 
 ## Historical Context
 

@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 25:1--44
+## Reading
+
+- 1 Samuel 25:1--44
 
 ## Historical Context
 

@@ -37,11 +37,11 @@ Hosea 11 shifts the metaphor from marriage to parenthood, and the tenderness is 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Hosea 1:1-3:5; 11:1-11](../day-1/) | The faithful husband — God's love for an unfaithful people |
-| 2 | [Amos 1:1-2:16; 5:18-27](../day-2/) | Justice like a river — the God who demands righteousness for the poor |
-| 3 | [Jonah 1:1-4:11](../day-3/) | Three days in the fish — the reluctant prophet and the God who saves enemies |
-| 4 | [Micah 1:1-5:15](../day-4/) | "But you, O Bethlehem" — the ruler from the little town, from the days of eternity |
-| 5 | [Habakkuk 1:1-3:19; Zephaniah 1:1-3:20](../day-5/) | Wrestling with God — "the righteous shall live by his faith" — and the God who sings |
+| [1](../day-1/) | Hosea 1:1-3:5; 11:1-11 | The faithful husband — God's love for an unfaithful people |
+| [2](../day-2/) | Amos 1:1-2:16; 5:18-27 | Justice like a river — the God who demands righteousness for the poor |
+| [3](../day-3/) | Jonah 1:1-4:11 | Three days in the fish — the reluctant prophet and the God who saves enemies |
+| [4](../day-4/) | Micah 1:1-5:15 | "But you, O Bethlehem" — the ruler from the little town, from the days of eternity |
+| [5](../day-5/) | Habakkuk 1:1-3:19; Zephaniah 1:1-3:20 | Wrestling with God — "the righteous shall live by his faith" — and the God who sings |
 
 ## Key Themes
 

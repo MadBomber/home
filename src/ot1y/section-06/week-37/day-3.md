@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Samuel 15:1-16:23
+## Reading
+
+- 2 Samuel 15:1-16:23
 
 ## Historical Context
 

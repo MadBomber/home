@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Jude 14-15; Hebrews 11:4-6
+## Reading
+
+- Jude 14-15; Hebrews 11:4-6
 
 ## Historical Context
 

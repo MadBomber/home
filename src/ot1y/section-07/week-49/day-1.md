@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Daniel 9:1-27
+## Reading
+
+- Daniel 9:1-27
 
 ## Historical Context
 

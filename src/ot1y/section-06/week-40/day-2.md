@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 2 Kings 3:1--4:44
+## Reading
+
+- 2 Kings 3:1--4:44
 
 ## Historical Context
 

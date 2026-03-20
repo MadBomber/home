@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 5:21-32
+## Reading
+
+- Genesis 5:21-32
 
 ## Historical Context
 

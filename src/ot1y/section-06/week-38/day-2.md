@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Kings 3:1-4:34
+## Reading
+
+- 1 Kings 3:1-4:34
 
 ## Historical Context
 

@@ -33,11 +33,11 @@ Isaiah 55 issues the invitation: "Come, everyone who thirsts, come to the waters
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Jeremiah 31:1-40](../day-1/) | The new covenant — law on hearts, sins remembered no more |
-| 2 | [Ezekiel 36:1-38](../day-2/) | A new heart and a new spirit — the heart of stone replaced |
-| 3 | [Ezekiel 37:1-28](../day-3/) | The valley of dry bones — resurrection as the image of new covenant life |
-| 4 | [Isaiah 42:1-9; 49:1-13](../day-4/) | The servant of the LORD — "a covenant for the people, a light for the nations" |
-| 5 | [Isaiah 55:1-13; Joel 2:28-32](../day-5/) | "Come, everyone who thirsts" — and "I will pour out my Spirit on all flesh" |
+| [1](../day-1/) | Jeremiah 31:1-40 | The new covenant — law on hearts, sins remembered no more |
+| [2](../day-2/) | Ezekiel 36:1-38 | A new heart and a new spirit — the heart of stone replaced |
+| [3](../day-3/) | Ezekiel 37:1-28 | The valley of dry bones — resurrection as the image of new covenant life |
+| [4](../day-4/) | Isaiah 42:1-9; 49:1-13 | The servant of the LORD — "a covenant for the people, a light for the nations" |
+| [5](../day-5/) | Isaiah 55:1-13; Joel 2:28-32 | "Come, everyone who thirsts" — and "I will pour out my Spirit on all flesh" |
 
 ## Key Themes
 

@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 11:10-26
+## Reading
+
+- Genesis 11:10-26
 
 ## Historical Context
 

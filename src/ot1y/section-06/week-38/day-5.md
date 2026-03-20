@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Kings 9:1-11:43
+## Reading
+
+- 1 Kings 9:1-11:43
 
 ## Historical Context
 

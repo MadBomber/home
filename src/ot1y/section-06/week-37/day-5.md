@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Samuel 20:1-24:25
+## Reading
+
+- 2 Samuel 20:1-24:25
 
 ## Historical Context
 

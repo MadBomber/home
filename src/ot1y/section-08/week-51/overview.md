@@ -39,11 +39,11 @@ Isaiah 2 lifts the vision to its broadest horizon: "It shall come to pass in the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Daniel 7:1-28](../day-1/) | The four beasts and the Son of Man — "to him was given dominion and glory and a kingdom" |
-| 2 | [Daniel 8:1-27](../day-2/) | The ram and the goat — empires rise and fall, but God's purposes stand |
-| 3 | [Daniel 9:20-27; 12:1-13](../day-3/) | The seventy weeks, the anointed one cut off, and the resurrection of the dead |
-| 4 | [Zechariah 14:1-21](../day-4/) | The LORD descends to the Mount of Olives — "the LORD will be king over all the earth" |
-| 5 | [Isaiah 11:1-16; 2:1-5](../day-5/) | The Branch from Jesse, the peaceable kingdom, and swords into plowshares |
+| [1](../day-1/) | Daniel 7:1-28 | The four beasts and the Son of Man — "to him was given dominion and glory and a kingdom" |
+| [2](../day-2/) | Daniel 8:1-27 | The ram and the goat — empires rise and fall, but God's purposes stand |
+| [3](../day-3/) | Daniel 9:20-27; 12:1-13 | The seventy weeks, the anointed one cut off, and the resurrection of the dead |
+| [4](../day-4/) | Zechariah 14:1-21 | The LORD descends to the Mount of Olives — "the LORD will be king over all the earth" |
+| [5](../day-5/) | Isaiah 11:1-16; 2:1-5 | The Branch from Jesse, the peaceable kingdom, and swords into plowshares |
 
 ## Key Themes
 

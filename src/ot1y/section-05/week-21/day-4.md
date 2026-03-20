@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 29:1-46
+## Reading
+
+- Exodus 29:1-46
 
 ## Historical Context
 

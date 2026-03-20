@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Proverbs 1:1-9:18
+## Reading
+
+- Proverbs 1:1-9:18
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Kings 5:1-6:38
+## Reading
+
+- 1 Kings 5:1-6:38
 
 ## Historical Context
 

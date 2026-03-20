@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 7:13-24
+## Reading
+
+- Genesis 7:13-24
 
 ## Historical Context
 

@@ -33,11 +33,11 @@ But the disputes give way to two announcements that will echo across four centur
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Haggai 1:1–2:23](../day-1/) | "Build the house" — and "the latter glory shall be greater than the former" |
-| 2 | [Zechariah 1:1–6:15](../day-2/) | Night visions — lampstands, horsemen, and "Not by might, nor by power, but by my Spirit" |
-| 3 | [Zechariah 7:1–8:23](../day-3/) | True fasting, true justice, and the nations drawn to Jerusalem |
-| 4 | [Zechariah 9:1–14:21](../day-4/) | The humble king on a donkey, thirty pieces of silver, the pierced one, and the fountain for sin |
-| 5 | [Malachi 1:1–4:6](../day-5/) | God's dispute with his people — and the last words before the silence: "I will send Elijah" |
+| [1](../day-1/) | Haggai 1:1–2:23 | "Build the house" — and "the latter glory shall be greater than the former" |
+| [2](../day-2/) | Zechariah 1:1–6:15 | Night visions — lampstands, horsemen, and "Not by might, nor by power, but by my Spirit" |
+| [3](../day-3/) | Zechariah 7:1–8:23 | True fasting, true justice, and the nations drawn to Jerusalem |
+| [4](../day-4/) | Zechariah 9:1–14:21 | The humble king on a donkey, thirty pieces of silver, the pierced one, and the fountain for sin |
+| [5](../day-5/) | Malachi 1:1–4:6 | God's dispute with his people — and the last words before the silence: "I will send Elijah" |
 
 ## Key Themes
 

@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Song of Solomon 1:1-8:14
+## Reading
+
+- Song of Solomon 1:1-8:14
 
 ## Historical Context
 

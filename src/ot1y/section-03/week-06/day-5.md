@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Peter 3:18-22
+## Reading
+
+- 1 Peter 3:18-22
 
 ## Historical Context
 

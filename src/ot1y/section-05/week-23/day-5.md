@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Leviticus 11:1-15:33
+## Reading
+
+- Leviticus 11:1-15:33
 
 ## Historical Context
 

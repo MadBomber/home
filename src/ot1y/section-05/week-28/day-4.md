@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 7:1-8:35
+## Reading
+
+- Joshua 7:1-8:35
 
 ## Historical Context
 

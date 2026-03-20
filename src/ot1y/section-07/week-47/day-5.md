@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Isaiah 55:1-13; Joel 2:28-32
+## Reading
+
+- Isaiah 55:1-13; Joel 2:28-32
 
 ## Historical Context
 

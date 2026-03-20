@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 12:1-42
+## Reading
+
+- Exodus 12:1-42
 
 ## Historical Context
 

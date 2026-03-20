@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Psalm 33:1-9; Psalm 104:1-9
+## Reading
+
+- Psalm 33:1-9; Psalm 104:1-9
 
 ## Historical Context
 

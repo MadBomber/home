@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Isaiah 54:9-10
+## Reading
+
+- Isaiah 54:9-10
 
 ## Historical Context
 

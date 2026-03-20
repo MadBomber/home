@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 16:1-23
+## Reading
+
+- 1 Samuel 16:1-23
 
 ## Historical Context
 

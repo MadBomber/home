@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Kings 18:1-20:21
+## Reading
+
+- 2 Kings 18:1-20:21
 
 ## Historical Context
 

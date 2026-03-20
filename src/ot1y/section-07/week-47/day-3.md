@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Ezekiel 37:1-28
+## Reading
+
+- Ezekiel 37:1-28
 
 ## Historical Context
 

@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 9:18-29
+## Reading
+
+- Genesis 9:18-29
 
 ## Historical Context
 

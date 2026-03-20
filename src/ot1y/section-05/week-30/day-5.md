@@ -18,7 +18,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Ruth 1:1--4:22
+## Reading
+
+- Ruth 1:1--4:22
 
 ## Historical Context
 

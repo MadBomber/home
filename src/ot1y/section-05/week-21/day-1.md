@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 25:1-40
+## Reading
+
+- Exodus 25:1-40
 
 ## Historical Context
 

@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 3:1-22
+## Reading
+
+- Exodus 3:1-22
 
 ## Historical Context
 

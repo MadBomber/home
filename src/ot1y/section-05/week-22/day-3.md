@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 34:1-35
+## Reading
+
+- Exodus 34:1-35
 
 ## Historical Context
 

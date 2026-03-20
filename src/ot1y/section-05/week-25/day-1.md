@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 1:1-2:34
+## Reading
+
+- Numbers 1:1-2:34
 
 ## Historical Context
 

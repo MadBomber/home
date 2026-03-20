@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 1:1-18
+## Reading
+
+- Joshua 1:1-18
 
 ## Historical Context
 

@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 22:9-19
+## Reading
+
+- Genesis 22:9-19
 
 ## Historical Context
 

@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 20:1-21
+## Reading
+
+- Exodus 20:1-21
 
 ## Historical Context
 

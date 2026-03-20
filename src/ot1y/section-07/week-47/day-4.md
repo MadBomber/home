@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Isaiah 42:1-9; 49:1-13
+## Reading
+
+- Isaiah 42:1-9; 49:1-13
 
 ## Historical Context
 

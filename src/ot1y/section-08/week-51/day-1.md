@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Daniel 7:1-28
+## Reading
+
+- Daniel 7:1-28
 
 ## Historical Context
 

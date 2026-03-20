@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 28:1--31:13
+## Reading
+
+- 1 Samuel 28:1--31:13
 
 ## Historical Context
 

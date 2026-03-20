@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 26:1-37
+## Reading
+
+- Exodus 26:1-37
 
 ## Historical Context
 

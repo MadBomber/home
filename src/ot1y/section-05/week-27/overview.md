@@ -37,11 +37,11 @@ The book ends with Moses ascending Mount Nebo. God shows him the land — "all o
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Deuteronomy 1:1–4:43](../day-1/) | Moses retells the story — remember what God has done |
-| 2 | [Deuteronomy 4:44–6:25](../day-2/) | The law restated — the Shema and the great commandment |
-| 3 | [Deuteronomy 7:1–11:32](../day-3/) | Choose God — warnings against idolatry, reminders of grace |
-| 4 | [Deuteronomy 12:1–18:22](../day-4/) | Worship, justice, and the prophet like Moses |
-| 5 | [Deuteronomy 28:1–34:12](../day-5/) | Blessings, curses, the choice of life and death, and the death of Moses |
+| [1](../day-1/) | Deuteronomy 1:1–4:43 | Moses retells the story — remember what God has done |
+| [2](../day-2/) | Deuteronomy 4:44–6:25 | The law restated — the Shema and the great commandment |
+| [3](../day-3/) | Deuteronomy 7:1–11:32 | Choose God — warnings against idolatry, reminders of grace |
+| [4](../day-4/) | Deuteronomy 12:1–18:22 | Worship, justice, and the prophet like Moses |
+| [5](../day-5/) | Deuteronomy 28:1–34:12 | Blessings, curses, the choice of life and death, and the death of Moses |
 
 ## Key Themes
 

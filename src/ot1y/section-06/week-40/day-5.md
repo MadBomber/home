@@ -18,7 +18,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 2 Kings 9:1--13:25
+## Reading
+
+- 2 Kings 9:1--13:25
 
 ## Historical Context
 

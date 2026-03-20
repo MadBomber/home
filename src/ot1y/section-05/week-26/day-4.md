@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 22:1-24:25
+## Reading
+
+- Numbers 22:1-24:25
 
 ## Historical Context
 

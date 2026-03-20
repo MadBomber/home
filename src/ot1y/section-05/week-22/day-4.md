@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 35:1-36:38
+## Reading
+
+- Exodus 35:1-36:38
 
 ## Historical Context
 

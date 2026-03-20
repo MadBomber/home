@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Ecclesiastes 7:1-12:14
+## Reading
+
+- Ecclesiastes 7:1-12:14
 
 ## Historical Context
 

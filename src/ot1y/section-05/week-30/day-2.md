@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Judges 4:1--6:40
+## Reading
+
+- Judges 4:1--6:40
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Haggai 1:1--2:23
+## Reading
+
+- Haggai 1:1--2:23
 
 ## Historical Context
 

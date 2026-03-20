@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Kings 16:1-17:41
+## Reading
+
+- 2 Kings 16:1-17:41
 
 ## Historical Context
 

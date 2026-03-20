@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Kings 1:1-2:46
+## Reading
+
+- 1 Kings 1:1-2:46
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Jonah 1:1-4:11
+## Reading
+
+- Jonah 1:1-4:11
 
 ## Historical Context
 

@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 2 Kings 1:1--2:25
+## Reading
+
+- 2 Kings 1:1--2:25
 
 ## Historical Context
 

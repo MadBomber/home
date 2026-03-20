@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 14:17-24; Hebrews 7:1-10
+## Reading
+
+- Genesis 14:17-24; Hebrews 7:1-10
 
 ## Historical Context
 

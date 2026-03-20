@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Leviticus 1:1-3:17
+## Reading
+
+- Leviticus 1:1-3:17
 
 ## Historical Context
 

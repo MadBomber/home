@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Kings 23:31-25:30
+## Reading
+
+- 2 Kings 23:31-25:30
 
 ## Historical Context
 

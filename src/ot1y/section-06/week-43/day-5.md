@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Daniel 1:1-6:28
+## Reading
+
+- Daniel 1:1-6:28
 
 ## Historical Context
 

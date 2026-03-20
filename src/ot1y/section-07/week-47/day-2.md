@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Ezekiel 36:1-38
+## Reading
+
+- Ezekiel 36:1-38
 
 ## Historical Context
 

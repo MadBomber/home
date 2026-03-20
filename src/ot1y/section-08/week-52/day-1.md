@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Isaiah 65:17-25
+## Reading
+
+- Isaiah 65:17-25
 
 ## Historical Context
 

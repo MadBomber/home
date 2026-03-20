@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Psalm 22; Psalm 16
+## Reading
+
+- Psalm 22; Psalm 16
 
 ## Historical Context
 

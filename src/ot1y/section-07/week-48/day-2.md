@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Zechariah 1:1--6:15
+## Reading
+
+- Zechariah 1:1--6:15
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Isaiah 25:6-9; 60:1-22
+## Reading
+
+- Isaiah 25:6-9; 60:1-22
 
 ## Historical Context
 

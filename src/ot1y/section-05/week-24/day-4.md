@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Leviticus 21:1-24:23
+## Reading
+
+- Leviticus 21:1-24:23
 
 ## Historical Context
 

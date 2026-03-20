@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Samuel 11:1-12:31
+## Reading
+
+- 2 Samuel 11:1-12:31
 
 ## Historical Context
 

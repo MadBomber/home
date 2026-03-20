@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Ezekiel 14:12-20
+## Reading
+
+- Ezekiel 14:12-20
 
 ## Historical Context
 

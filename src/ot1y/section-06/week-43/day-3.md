@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Jeremiah 1:1-3:25; 31:31-34
+## Reading
+
+- Jeremiah 1:1-3:25; 31:31-34
 
 ## Historical Context
 

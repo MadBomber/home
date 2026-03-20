@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 42:1-38
+## Reading
+
+- Genesis 42:1-38
 
 ## Historical Context
 

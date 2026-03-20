@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 19:1-17
+## Reading
+
+- Genesis 19:1-17
 
 ## Historical Context
 

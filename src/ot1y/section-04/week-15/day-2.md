@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 39:1-23
+## Reading
+
+- Genesis 39:1-23
 
 ## Historical Context
 

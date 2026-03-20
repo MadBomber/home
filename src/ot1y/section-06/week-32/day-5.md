@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 15:1-35
+## Reading
+
+- 1 Samuel 15:1-35
 
 ## Historical Context
 

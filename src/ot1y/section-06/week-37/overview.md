@@ -33,11 +33,11 @@ The book of Samuel closes with David purchasing the threshing floor of Araunah t
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [2 Samuel 11:1-12:31](../day-1/) | Bathsheba, Uriah, Nathan's parable — "You are the man" |
-| 2 | [2 Samuel 13:1-14:33](../day-2/) | Amnon, Tamar, Absalom — the consequences unfold within David's own house |
-| 3 | [2 Samuel 15:1-16:23](../day-3/) | Absalom's rebellion — David flees Jerusalem, barefoot over the Mount of Olives |
-| 4 | [2 Samuel 17:1-19:43](../day-4/) | The battle, Absalom's death, and David's grief — "O my son Absalom!" |
-| 5 | [2 Samuel 20:1-24:25](../day-5/) | Sheba's revolt, the census, the plague, and the threshing floor of Araunah |
+| [1](../day-1/) | 2 Samuel 11:1-12:31 | Bathsheba, Uriah, Nathan's parable — "You are the man" |
+| [2](../day-2/) | 2 Samuel 13:1-14:33 | Amnon, Tamar, Absalom — the consequences unfold within David's own house |
+| [3](../day-3/) | 2 Samuel 15:1-16:23 | Absalom's rebellion — David flees Jerusalem, barefoot over the Mount of Olives |
+| [4](../day-4/) | 2 Samuel 17:1-19:43 | The battle, Absalom's death, and David's grief — "O my son Absalom!" |
+| [5](../day-5/) | 2 Samuel 20:1-24:25 | Sheba's revolt, the census, the plague, and the threshing floor of Araunah |
 
 ## Key Themes
 

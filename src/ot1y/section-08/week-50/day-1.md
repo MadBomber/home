@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Isaiah 24:1-23
+## Reading
+
+- Isaiah 24:1-23
 
 ## Historical Context
 

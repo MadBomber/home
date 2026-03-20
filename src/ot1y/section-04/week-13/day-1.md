@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 24:28-67
+## Reading
+
+- Genesis 24:28-67
 
 ## Historical Context
 

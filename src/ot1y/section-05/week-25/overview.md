@@ -37,11 +37,11 @@ God's response is judgment tempered by mercy. The generation that refused to ent
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Numbers 1:1–2:34](../day-1/) | The census and the camp — Israel organized around God's presence |
-| 2 | [Numbers 3:1–4:49](../day-2/) | The Levites — guardians of the holy, carriers of the tabernacle |
-| 3 | [Numbers 5:1–6:27](../day-3/) | Purity, the Nazirite vow, and the Aaronic blessing |
-| 4 | [Numbers 9:1–10:36](../day-4/) | The second Passover, the cloud lifts, and Israel marches |
-| 5 | [Numbers 11:1–14:45](../day-5/) | Complaint, quail, the spies, and the verdict — forty years |
+| [1](../day-1/) | Numbers 1:1–2:34 | The census and the camp — Israel organized around God's presence |
+| [2](../day-2/) | Numbers 3:1–4:49 | The Levites — guardians of the holy, carriers of the tabernacle |
+| [3](../day-3/) | Numbers 5:1–6:27 | Purity, the Nazirite vow, and the Aaronic blessing |
+| [4](../day-4/) | Numbers 9:1–10:36 | The second Passover, the cloud lifts, and Israel marches |
+| [5](../day-5/) | Numbers 11:1–14:45 | Complaint, quail, the spies, and the verdict — forty years |
 
 ## Key Themes
 

@@ -35,11 +35,11 @@ Neither son covers himself in glory. Esau trades the covenant for appetite. Jaco
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Genesis 24:28-67](../day-1/) | Rebekah — the providential bride and Isaac's comfort after Sarah |
-| 2 | [Genesis 25:1-18](../day-2/) | Abraham's death and Ishmael's line — the patriarch's legacy |
-| 3 | [Genesis 25:19-34](../day-3/) | The twins — struggle in the womb, the birthright sold for stew |
-| 4 | [Genesis 26:1-35](../day-4/) | Isaac's chapter — the lie, the wells, and the covenant reaffirmed |
-| 5 | [Genesis 27:1-40](../day-5/) | The stolen blessing — deception, anguish, and an irrevocable word |
+| [1](../day-1/) | Genesis 24:28-67 | Rebekah — the providential bride and Isaac's comfort after Sarah |
+| [2](../day-2/) | Genesis 25:1-18 | Abraham's death and Ishmael's line — the patriarch's legacy |
+| [3](../day-3/) | Genesis 25:19-34 | The twins — struggle in the womb, the birthright sold for stew |
+| [4](../day-4/) | Genesis 26:1-35 | Isaac's chapter — the lie, the wells, and the covenant reaffirmed |
+| [5](../day-5/) | Genesis 27:1-40 | The stolen blessing — deception, anguish, and an irrevocable word |
 
 ## Key Themes
 

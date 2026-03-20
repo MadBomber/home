@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 20:1-21:35
+## Reading
+
+- Numbers 20:1-21:35
 
 ## Historical Context
 

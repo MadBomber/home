@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 10:21-32
+## Reading
+
+- Genesis 10:21-32
 
 ## Historical Context
 

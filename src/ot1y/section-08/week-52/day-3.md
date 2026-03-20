@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Ezekiel 47:1-12; 48:30-35
+## Reading
+
+- Ezekiel 47:1-12; 48:30-35
 
 ## Historical Context
 

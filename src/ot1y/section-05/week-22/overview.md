@@ -31,11 +31,11 @@ The covenant is renewed. New tablets are cut. And the book of Exodus ends not wi
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Exodus 32:1-35](../day-1/) | The golden calf — idolatry at the foot of the mountain, Moses shatters the tablets |
-| 2 | [Exodus 33:1-23](../day-2/) | "Show me your glory" — the cleft of the rock and the back of God |
-| 3 | [Exodus 34:1-35](../day-3/) | God's name proclaimed — merciful, gracious, slow to anger — and the covenant renewed |
-| 4 | [Exodus 35:1–36:38](../day-4/) | The people give — willing hearts, skilled hands, and the tabernacle begins |
-| 5 | [Exodus 37:1–40:38](../day-5/) | The tabernacle completed — and the glory of the LORD fills it |
+| [1](../day-1/) | Exodus 32:1-35 | The golden calf — idolatry at the foot of the mountain, Moses shatters the tablets |
+| [2](../day-2/) | Exodus 33:1-23 | "Show me your glory" — the cleft of the rock and the back of God |
+| [3](../day-3/) | Exodus 34:1-35 | God's name proclaimed — merciful, gracious, slow to anger — and the covenant renewed |
+| [4](../day-4/) | Exodus 35:1–36:38 | The people give — willing hearts, skilled hands, and the tabernacle begins |
+| [5](../day-5/) | Exodus 37:1–40:38 | The tabernacle completed — and the glory of the LORD fills it |
 
 ## Key Themes
 

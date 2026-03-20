@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Ezra 4:1-6:22
+## Reading
+
+- Ezra 4:1-6:22
 
 ## Historical Context
 

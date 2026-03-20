@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 12:43-13:22
+## Reading
+
+- Exodus 12:43-13:22
 
 ## Historical Context
 

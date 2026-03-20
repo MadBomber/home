@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 1 Kings 15:1-16:34
+## Reading
+
+- 1 Kings 15:1-16:34
 
 ## Historical Context
 

@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 6:1-8
+## Reading
+
+- Genesis 6:1-8
 
 ## Historical Context
 

@@ -33,11 +33,11 @@ Psalm 45 celebrates the king's beauty, his truth, and his bride — and makes a 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Psalm 2](../day-1/) | "You are my Son" — the nations rage, God laughs, the King reigns |
-| 2 | [Psalm 110](../day-2/) | "Sit at my right hand" — priest-king forever, after the order of Melchizedek |
-| 3 | [Psalm 89:1-37](../day-3/) | The covenant celebrated and lamented — promise and anguish in a single song |
-| 4 | [Psalm 72](../day-4/) | The just king — dominion from sea to sea, justice for the poor |
-| 5 | [Psalm 45](../day-5/) | The king's beauty — "Your throne, O God, is forever and ever" |
+| [1](../day-1/) | Psalm 2 | "You are my Son" — the nations rage, God laughs, the King reigns |
+| [2](../day-2/) | Psalm 110 | "Sit at my right hand" — priest-king forever, after the order of Melchizedek |
+| [3](../day-3/) | Psalm 89:1-37 | The covenant celebrated and lamented — promise and anguish in a single song |
+| [4](../day-4/) | Psalm 72 | The just king — dominion from sea to sea, justice for the poor |
+| [5](../day-5/) | Psalm 45 | The king's beauty — "Your throne, O God, is forever and ever" |
 
 ## Key Themes
 

@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 8:20-9:35
+## Reading
+
+- Exodus 8:20-9:35
 
 ## Historical Context
 

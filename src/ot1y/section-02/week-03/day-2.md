@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 3:8-15
+## Reading
+
+- Genesis 3:8-15
 
 ## Historical Context
 

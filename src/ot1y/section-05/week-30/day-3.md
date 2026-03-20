@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Judges 7:1--12:15
+## Reading
+
+- Judges 7:1--12:15
 
 ## Historical Context
 

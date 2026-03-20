@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 2 Peter 3:3-13
+## Reading
+
+- 2 Peter 3:3-13
 
 ## Historical Context
 

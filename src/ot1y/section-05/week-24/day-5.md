@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Leviticus 25:1-27:34
+## Reading
+
+- Leviticus 25:1-27:34
 
 ## Historical Context
 

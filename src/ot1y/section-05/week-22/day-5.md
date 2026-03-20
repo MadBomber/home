@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 37:1-40:38
+## Reading
+
+- Exodus 37:1-40:38
 
 ## Historical Context
 

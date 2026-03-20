@@ -31,11 +31,11 @@ The week closes with the covenant ratification of Exodus 24. Moses reads the law
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Exodus 19:1-25](../day-1/) | Sinai — thunder, fire, boundaries, and "a kingdom of priests" |
-| 2 | [Exodus 20:1-21](../day-2/) | The Ten Commandments — the moral heart of the covenant |
-| 3 | [Exodus 20:22–21:36](../day-3/) | The Book of the Covenant begins — altars, slaves, violence, and justice |
-| 4 | [Exodus 22:1–23:19](../day-4/) | Property, the vulnerable, Sabbath, and the three annual feasts |
-| 5 | [Exodus 23:20–24:18](../day-5/) | The angel, the promise of the land, and the covenant sealed in blood |
+| [1](../day-1/) | Exodus 19:1-25 | Sinai — thunder, fire, boundaries, and "a kingdom of priests" |
+| [2](../day-2/) | Exodus 20:1-21 | The Ten Commandments — the moral heart of the covenant |
+| [3](../day-3/) | Exodus 20:22–21:36 | The Book of the Covenant begins — altars, slaves, violence, and justice |
+| [4](../day-4/) | Exodus 22:1–23:19 | Property, the vulnerable, Sabbath, and the three annual feasts |
+| [5](../day-5/) | Exodus 23:20–24:18 | The angel, the promise of the land, and the covenant sealed in blood |
 
 ## Key Themes
 

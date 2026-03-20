@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 1 Kings 13:1-14:31
+## Reading
+
+- 1 Kings 13:1-14:31
 
 ## Historical Context
 

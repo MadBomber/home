@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 17:1-58
+## Reading
+
+- 1 Samuel 17:1-58
 
 ## Historical Context
 

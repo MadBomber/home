@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 10:1-11:10
+## Reading
+
+- Exodus 10:1-11:10
 
 ## Historical Context
 

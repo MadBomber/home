@@ -35,11 +35,11 @@ The southern and northern campaigns follow (Joshua 9-12), summarized with sweepi
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Joshua 1:1-18](../day-1/) | "Be strong and courageous" — Joshua commissioned, the people respond |
-| 2 | [Joshua 2:1–3:17](../day-2/) | Rahab's faith and the Jordan crossing — dry ground again |
-| 3 | [Joshua 4:1–6:27](../day-3/) | Twelve stones, circumcision renewed, and Jericho falls by worship |
-| 4 | [Joshua 7:1–8:35](../day-4/) | Achan's sin and Ai — hidden disobedience, public defeat, and renewal |
-| 5 | [Joshua 9:1–12:24](../day-5/) | Gibeonite deception, the sun stands still, and the conquest summarized |
+| [1](../day-1/) | Joshua 1:1-18 | "Be strong and courageous" — Joshua commissioned, the people respond |
+| [2](../day-2/) | Joshua 2:1–3:17 | Rahab's faith and the Jordan crossing — dry ground again |
+| [3](../day-3/) | Joshua 4:1–6:27 | Twelve stones, circumcision renewed, and Jericho falls by worship |
+| [4](../day-4/) | Joshua 7:1–8:35 | Achan's sin and Ai — hidden disobedience, public defeat, and renewal |
+| [5](../day-5/) | Joshua 9:1–12:24 | Gibeonite deception, the sun stands still, and the conquest summarized |
 
 ## Key Themes
 

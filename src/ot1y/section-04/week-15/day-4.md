@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 41:1-40
+## Reading
+
+- Genesis 41:1-40
 
 ## Historical Context
 

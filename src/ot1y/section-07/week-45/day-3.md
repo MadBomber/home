@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Ezra 7:1-10:44
+## Reading
+
+- Ezra 7:1-10:44
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 5:1-6:27
+## Reading
+
+- Numbers 5:1-6:27
 
 ## Historical Context
 

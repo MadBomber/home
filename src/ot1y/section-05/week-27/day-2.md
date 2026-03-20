@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Deuteronomy 4:44-6:25
+## Reading
+
+- Deuteronomy 4:44-6:25
 
 ## Historical Context
 

@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 4:17-26
+## Reading
+
+- Genesis 4:17-26
 
 ## Historical Context
 

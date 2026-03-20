@@ -33,11 +33,11 @@ The week closes with two psalms that will echo from the lips of the crucified. P
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Daniel 9:1-27](../day-1/) | The seventy weeks — the anointed one who will be "cut off" |
-| 2 | [Daniel 10:1–12:13](../day-2/) | Angels, empires, and the resurrection of the dead |
-| 3 | [Isaiah 42:1-9; 49:1-7; 50:4-9](../day-3/) | The servant songs — called, equipped, rejected, vindicated |
-| 4 | [Isaiah 52:13–53:12](../day-4/) | The suffering servant — pierced, crushed, silent, and bearing the sin of many |
-| 5 | [Psalm 22; Psalm 16](../day-5/) | The psalms of the cross and the resurrection — "My God, why?" and "You will not abandon" |
+| [1](../day-1/) | Daniel 9:1-27 | The seventy weeks — the anointed one who will be "cut off" |
+| [2](../day-2/) | Daniel 10:1–12:13 | Angels, empires, and the resurrection of the dead |
+| [3](../day-3/) | Isaiah 42:1-9; 49:1-7; 50:4-9 | The servant songs — called, equipped, rejected, vindicated |
+| [4](../day-4/) | Isaiah 52:13–53:12 | The suffering servant — pierced, crushed, silent, and bearing the sin of many |
+| [5](../day-5/) | Psalm 22; Psalm 16 | The psalms of the cross and the resurrection — "My God, why?" and "You will not abandon" |
 
 ## Key Themes
 

@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Esther 1:1--2:23
+## Reading
+
+- Esther 1:1--2:23
 
 ## Historical Context
 

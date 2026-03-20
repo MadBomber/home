@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 16:1-36
+## Reading
+
+- Exodus 16:1-36
 
 ## Historical Context
 

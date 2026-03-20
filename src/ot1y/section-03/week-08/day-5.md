@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 11:27-32; Acts 17:26-27
+## Reading
+
+- Genesis 11:27-32; Acts 17:26-27
 
 ## Historical Context
 

@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 6:17-22
+## Reading
+
+- Genesis 6:17-22
 
 ## Historical Context
 

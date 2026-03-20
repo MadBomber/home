@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 15:7-21
+## Reading
+
+- Genesis 15:7-21
 
 ## Historical Context
 

@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 11:1-14:45
+## Reading
+
+- Numbers 11:1-14:45
 
 ## Historical Context
 

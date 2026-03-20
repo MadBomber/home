@@ -31,11 +31,11 @@ And Noah's first act on dry ground is worship. Not shelter. Not agriculture. Not
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Genesis 7:1-12](../day-1/) | Enter the ark — "The LORD shut him in" |
-| 2 | [Genesis 7:13-24](../day-2/) | The waters prevail — de-creation and the end of the old world |
-| 3 | [Genesis 8:1-12](../day-3/) | "But God remembered Noah" — the waters recede, the dove returns |
-| 4 | [Genesis 8:13-22](../day-4/) | Dry ground, the first altar, and God's promise to sustain the earth |
-| 5 | [1 Peter 3:18-22](../day-5/) | Peter reads the flood — baptism, resurrection, and salvation through water |
+| [1](../day-1/) | Genesis 7:1-12 | Enter the ark — "The LORD shut him in" |
+| [2](../day-2/) | Genesis 7:13-24 | The waters prevail — de-creation and the end of the old world |
+| [3](../day-3/) | Genesis 8:1-12 | "But God remembered Noah" — the waters recede, the dove returns |
+| [4](../day-4/) | Genesis 8:13-22 | Dry ground, the first altar, and God's promise to sustain the earth |
+| [5](../day-5/) | 1 Peter 3:18-22 | Peter reads the flood — baptism, resurrection, and salvation through water |
 
 ## Key Themes
 

@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Leviticus 4:1-5:19
+## Reading
+
+- Leviticus 4:1-5:19
 
 ## Historical Context
 

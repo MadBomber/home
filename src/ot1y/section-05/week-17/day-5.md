@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 4:18-31
+## Reading
+
+- Exodus 4:18-31
 
 ## Historical Context
 

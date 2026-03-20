@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Leviticus 16:1-34
+## Reading
+
+- Leviticus 16:1-34
 
 ## Historical Context
 

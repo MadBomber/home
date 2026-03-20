@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Leviticus 19:1-20:27
+## Reading
+
+- Leviticus 19:1-20:27
 
 ## Historical Context
 

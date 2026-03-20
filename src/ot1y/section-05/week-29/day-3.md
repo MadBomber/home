@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 20:1--21:45
+## Reading
+
+- Joshua 20:1--21:45
 
 ## Historical Context
 

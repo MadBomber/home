@@ -33,11 +33,11 @@ The Balaam narrative (Numbers 22-24) is one of the strangest and most beautiful 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Numbers 15:1–16:50](../day-1/) | Korah's rebellion — the earth opens, authority confirmed |
-| 2 | [Numbers 17:1–19:22](../day-2/) | Aaron's rod buds, the red heifer, and the ashes of purification |
-| 3 | [Numbers 20:1–21:35](../day-3/) | Meribah — Moses strikes the rock, and the consequence is final |
-| 4 | [Numbers 22:1–24:25](../day-4/) | Balaam — the prophet who cannot curse what God has blessed |
-| 5 | [Numbers 25:1–36:13](../day-5/) | Baal Peor, the second census, and preparations for the land |
+| [1](../day-1/) | Numbers 15:1–16:50 | Korah's rebellion — the earth opens, authority confirmed |
+| [2](../day-2/) | Numbers 17:1–19:22 | Aaron's rod buds, the red heifer, and the ashes of purification |
+| [3](../day-3/) | Numbers 20:1–21:35 | Meribah — Moses strikes the rock, and the consequence is final |
+| [4](../day-4/) | Numbers 22:1–24:25 | Balaam — the prophet who cannot curse what God has blessed |
+| [5](../day-5/) | Numbers 25:1–36:13 | Baal Peor, the second census, and preparations for the land |
 
 ## Key Themes
 

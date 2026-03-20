@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Psalm 51:1-12
+## Reading
+
+- Psalm 51:1-12
 
 ## Historical Context
 

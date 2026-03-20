@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Psalm 96; Psalm 98
+## Reading
+
+- Psalm 96; Psalm 98
 
 ## Historical Context
 

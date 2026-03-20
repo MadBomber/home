@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 12:1-9
+## Reading
+
+- Genesis 12:1-9
 
 ## Historical Context
 

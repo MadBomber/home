@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Malachi 4:1-6; Zephaniah 3:8-20
+## Reading
+
+- Malachi 4:1-6; Zephaniah 3:8-20
 
 ## Historical Context
 

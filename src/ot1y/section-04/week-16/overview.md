@@ -51,11 +51,11 @@ Joseph dies at 110 and is embalmed in Egypt. But his final request looks forward
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [Genesis 42:1-38](../day-1/) | The brothers come to Egypt — bowing before the brother they sold |
-| 2 | [Genesis 43:1–44:34](../day-2/) | Judah's transformation — the man who sold Joseph offers himself for Benjamin |
-| 3 | [Genesis 45:1-28](../day-3/) | "I am Joseph" — revelation, weeping, and the theology of providence |
-| 4 | [Genesis 46:1–47:31](../day-4/) | Jacob comes to Egypt — seventy souls, a patriarch blesses Pharaoh |
-| 5 | [Genesis 48:1–50:26](../day-5/) | The blessings, the scepter of Judah, and the coffin that waits for exodus |
+| [1](../day-1/) | Genesis 42:1-38 | The brothers come to Egypt — bowing before the brother they sold |
+| [2](../day-2/) | Genesis 43:1–44:34 | Judah's transformation — the man who sold Joseph offers himself for Benjamin |
+| [3](../day-3/) | Genesis 45:1-28 | "I am Joseph" — revelation, weeping, and the theology of providence |
+| [4](../day-4/) | Genesis 46:1–47:31 | Jacob comes to Egypt — seventy souls, a patriarch blesses Pharaoh |
+| [5](../day-5/) | Genesis 48:1–50:26 | The blessings, the scepter of Judah, and the coffin that waits for exodus |
 
 ## Key Themes
 

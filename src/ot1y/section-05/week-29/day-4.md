@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 22:1--34
+## Reading
+
+- Joshua 22:1--34
 
 ## Historical Context
 

@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 20:22-21:36
+## Reading
+
+- Exodus 20:22-21:36
 
 ## Historical Context
 

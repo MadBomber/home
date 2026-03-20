@@ -37,11 +37,11 @@ It is not finished. The covenant God swore to David — "Your throne shall be es
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [2 Kings 14:1-15:38](../day-1/) | The parade of kings — decline in Israel and Judah |
-| 2 | [2 Kings 16:1-17:41](../day-2/) | The fall of Samaria — Assyria conquers Israel, "they became false" |
-| 3 | [2 Kings 18:1-20:21](../day-3/) | Hezekiah's faith — Sennacherib's siege, God's deliverance, a king's illness |
-| 4 | [2 Kings 21:1-23:30](../day-4/) | Manasseh's evil, Josiah's reform — the Book of the Law rediscovered |
-| 5 | [2 Kings 23:31-25:30](../day-5/) | The fall of Jerusalem — the temple burned, the people exiled, a king at Babylon's table |
+| [1](../day-1/) | 2 Kings 14:1-15:38 | The parade of kings — decline in Israel and Judah |
+| [2](../day-2/) | 2 Kings 16:1-17:41 | The fall of Samaria — Assyria conquers Israel, "they became false" |
+| [3](../day-3/) | 2 Kings 18:1-20:21 | Hezekiah's faith — Sennacherib's siege, God's deliverance, a king's illness |
+| [4](../day-4/) | 2 Kings 21:1-23:30 | Manasseh's evil, Josiah's reform — the Book of the Law rediscovered |
+| [5](../day-5/) | 2 Kings 23:31-25:30 | The fall of Jerusalem — the temple burned, the people exiled, a king at Babylon's table |
 
 ## Key Themes
 

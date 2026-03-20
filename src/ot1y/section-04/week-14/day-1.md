@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 27:41-28:22
+## Reading
+
+- Genesis 27:41-28:22
 
 ## Historical Context
 

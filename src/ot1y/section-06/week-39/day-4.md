@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 1 Kings 17:1-19:21
+## Reading
+
+- 1 Kings 17:1-19:21
 
 ## Historical Context
 

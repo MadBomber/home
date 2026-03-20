@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 11:1-9
+## Reading
+
+- Genesis 11:1-9
 
 ## Historical Context
 

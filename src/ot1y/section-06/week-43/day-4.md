@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Ezekiel 1:1-3:27; 34:1-31
+## Reading
+
+- Ezekiel 1:1-3:27; 34:1-31
 
 ## Historical Context
 

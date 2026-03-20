@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 2:1-3:17
+## Reading
+
+- Joshua 2:1-3:17
 
 ## Historical Context
 

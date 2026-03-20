@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 19:18-38
+## Reading
+
+- Genesis 19:18-38
 
 ## Historical Context
 

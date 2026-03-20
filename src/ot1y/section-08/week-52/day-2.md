@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Isaiah 66:1-24
+## Reading
+
+- Isaiah 66:1-24
 
 ## Historical Context
 

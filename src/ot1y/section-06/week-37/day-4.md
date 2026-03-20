@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Samuel 17:1-19:43
+## Reading
+
+- 2 Samuel 17:1-19:43
 
 ## Historical Context
 

@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 25:19-34
+## Reading
+
+- Genesis 25:19-34
 
 ## Historical Context
 

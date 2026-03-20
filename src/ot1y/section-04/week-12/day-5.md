@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 24:1-27
+## Reading
+
+- Genesis 24:1-27
 
 ## Historical Context
 

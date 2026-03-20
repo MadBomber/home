@@ -18,7 +18,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 4:1--7:17
+## Reading
+
+- 1 Samuel 4:1--7:17
 
 ## Historical Context
 

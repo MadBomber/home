@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Nehemiah 1:1-4:23
+## Reading
+
+- Nehemiah 1:1-4:23
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Ezra 1:1-3:13
+## Reading
+
+- Ezra 1:1-3:13
 
 ## Historical Context
 

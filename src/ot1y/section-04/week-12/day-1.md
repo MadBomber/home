@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 21:1-21
+## Reading
+
+- Genesis 21:1-21
 
 ## Historical Context
 

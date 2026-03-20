@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 2:12--3:21
+## Reading
+
+- 1 Samuel 2:12--3:21
 
 ## Historical Context
 

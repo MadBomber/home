@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: 2 Samuel 1:1-2:7
+## Reading
+
+- 2 Samuel 1:1-2:7
 
 ## Historical Context
 

@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 5:1-6:13
+## Reading
+
+- Exodus 5:1-6:13
 
 ## Historical Context
 

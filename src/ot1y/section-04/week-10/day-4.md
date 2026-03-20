@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 17:1-14
+## Reading
+
+- Genesis 17:1-14
 
 ## Historical Context
 

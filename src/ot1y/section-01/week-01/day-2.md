@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 1:14-25
+## Reading
+
+- Genesis 1:14-25
 
 ## Historical Context
 

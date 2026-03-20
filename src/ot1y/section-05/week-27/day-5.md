@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Deuteronomy 28:1-34:12
+## Reading
+
+- Deuteronomy 28:1-34:12
 
 ## Historical Context
 

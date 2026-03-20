@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 9:1-12:24
+## Reading
+
+- Joshua 9:1-12:24
 
 ## Historical Context
 

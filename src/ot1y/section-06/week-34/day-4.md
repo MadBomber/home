@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 26:1--27:12
+## Reading
+
+- 1 Samuel 26:1--27:12
 
 ## Historical Context
 

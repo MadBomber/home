@@ -16,7 +16,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Psalm 46; Psalm 48; Isaiah 12:1-6
+## Reading
+
+- Psalm 46; Psalm 48; Isaiah 12:1-6
 
 ## Historical Context
 

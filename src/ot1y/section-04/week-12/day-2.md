@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 21:22-34; 22:1-8
+## Reading
+
+- Genesis 21:22-34; 22:1-8
 
 ## Historical Context
 

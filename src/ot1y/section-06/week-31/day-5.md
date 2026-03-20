@@ -18,7 +18,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Psalm 113; 1 Samuel 2:1--10
+## Reading
+
+- Psalm 113; 1 Samuel 2:1--10
 
 ## Historical Context
 

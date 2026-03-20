@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Kings 7:1-8:66
+## Reading
+
+- 1 Kings 7:1-8:66
 
 ## Historical Context
 

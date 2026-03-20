@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Judges 1:1--3:31
+## Reading
+
+- Judges 1:1--3:31
 
 ## Historical Context
 

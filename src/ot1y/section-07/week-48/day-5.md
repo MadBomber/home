@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Malachi 1:1--4:6
+## Reading
+
+- Malachi 1:1--4:6
 
 ## Historical Context
 

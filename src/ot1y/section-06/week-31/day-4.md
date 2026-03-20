@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 8:1--22
+## Reading
+
+- 1 Samuel 8:1--22
 
 ## Historical Context
 

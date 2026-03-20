@@ -33,11 +33,11 @@ David's rise produces two responses that will define the rest of the narrative: 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [1 Samuel 16:1-23](../day-1/) | The anointing — "The LORD looks on the heart" — the forgotten son, chosen |
-| 2 | [1 Samuel 17:1-58](../day-2/) | David and Goliath — five stones, one name, and the giant falls on his face |
-| 3 | [1 Samuel 18:1-30](../day-3/) | Jonathan's covenant, Saul's jealousy, and David's rising fame |
-| 4 | [1 Samuel 19:1-24](../day-4/) | Saul hunts David — spears, plots, and the Spirit that will not be stopped |
-| 5 | [1 Samuel 20:1-42](../day-5/) | Jonathan and David — a friendship that costs a throne |
+| [1](../day-1/) | 1 Samuel 16:1-23 | The anointing — "The LORD looks on the heart" — the forgotten son, chosen |
+| [2](../day-2/) | 1 Samuel 17:1-58 | David and Goliath — five stones, one name, and the giant falls on his face |
+| [3](../day-3/) | 1 Samuel 18:1-30 | Jonathan's covenant, Saul's jealousy, and David's rising fame |
+| [4](../day-4/) | 1 Samuel 19:1-24 | Saul hunts David — spears, plots, and the Spirit that will not be stopped |
+| [5](../day-5/) | 1 Samuel 20:1-42 | Jonathan and David — a friendship that costs a throne |
 
 ## Key Themes
 

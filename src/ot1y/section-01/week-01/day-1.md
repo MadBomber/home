@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 1:1-13
+## Reading
+
+- Genesis 1:1-13
 
 ## Historical Context
 

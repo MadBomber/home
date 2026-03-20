@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Nehemiah 5:1-13:31
+## Reading
+
+- Nehemiah 5:1-13:31
 
 ## Historical Context
 

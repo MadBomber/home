@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 7:1-12
+## Reading
+
+- Genesis 7:1-12
 
 ## Historical Context
 

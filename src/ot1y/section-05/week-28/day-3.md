@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 4:1-6:27
+## Reading
+
+- Joshua 4:1-6:27
 
 ## Historical Context
 

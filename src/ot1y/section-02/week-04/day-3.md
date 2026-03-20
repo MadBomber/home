@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 5:1-20
+## Reading
+
+- Genesis 5:1-20
 
 ## Historical Context
 

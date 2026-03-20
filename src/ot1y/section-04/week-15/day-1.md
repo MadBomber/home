@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 37:1-36
+## Reading
+
+- Genesis 37:1-36
 
 ## Historical Context
 

@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 25:1-36:13
+## Reading
+
+- Numbers 25:1-36:13
 
 ## Historical Context
 

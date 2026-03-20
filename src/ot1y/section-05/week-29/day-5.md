@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 23:1--24:33
+## Reading
+
+- Joshua 23:1--24:33
 
 ## Historical Context
 

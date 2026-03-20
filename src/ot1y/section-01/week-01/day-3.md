@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 1:26-31
+## Reading
+
+- Genesis 1:26-31
 
 ## Historical Context
 

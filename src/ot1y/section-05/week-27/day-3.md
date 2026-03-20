@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Deuteronomy 7:1-11:32
+## Reading
+
+- Deuteronomy 7:1-11:32
 
 ## Historical Context
 

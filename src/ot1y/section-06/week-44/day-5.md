@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Habakkuk 1:1-3:19; Zephaniah 1:1-3:20
+## Reading
+
+- Habakkuk 1:1-3:19; Zephaniah 1:1-3:20
 
 ## Historical Context
 

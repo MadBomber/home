@@ -35,11 +35,11 @@ God announces the consequences: the kingdom will be torn from Solomon's son. Not
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [1 Kings 1:1-2:46](../day-1/) | Solomon's accession — the struggle for the throne, the kingdom secured |
-| 2 | [1 Kings 3:1-4:34](../day-2/) | "Give your servant a hearing heart" — wisdom beyond measure |
-| 3 | [1 Kings 5:1-6:38](../day-3/) | The temple built — cedar, gold, and seven years of construction |
-| 4 | [1 Kings 7:1-8:66](../day-4/) | The dedication — the glory fills the house, Solomon prays |
-| 5 | [1 Kings 9:1-11:43](../day-5/) | Warning, wealth, wives, and the kingdom torn — the golden age ends in idolatry |
+| [1](../day-1/) | 1 Kings 1:1-2:46 | Solomon's accession — the struggle for the throne, the kingdom secured |
+| [2](../day-2/) | 1 Kings 3:1-4:34 | "Give your servant a hearing heart" — wisdom beyond measure |
+| [3](../day-3/) | 1 Kings 5:1-6:38 | The temple built — cedar, gold, and seven years of construction |
+| [4](../day-4/) | 1 Kings 7:1-8:66 | The dedication — the glory fills the house, Solomon prays |
+| [5](../day-5/) | 1 Kings 9:1-11:43 | Warning, wealth, wives, and the kingdom torn — the golden age ends in idolatry |
 
 ## Key Themes
 

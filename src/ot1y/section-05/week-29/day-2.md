@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Joshua 15:1--19:51
+## Reading
+
+- Joshua 15:1--19:51
 
 ## Historical Context
 

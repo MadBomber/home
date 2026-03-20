@@ -18,7 +18,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Genesis 27:1-40
+## Reading
+
+- Genesis 27:1-40
 
 ## Historical Context
 

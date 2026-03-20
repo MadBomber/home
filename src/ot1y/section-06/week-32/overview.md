@@ -31,11 +31,11 @@ Saul's failure is not a failure of competence. It is a failure of the heart. He 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | [1 Samuel 9:1-10:27](../day-1/) | Saul chosen — tall, handsome, anointed, and the Spirit rushes upon him |
-| 2 | [1 Samuel 11:1-12:25](../day-2/) | Victory at Jabesh-gilead, Samuel's farewell, and the terms of the monarchy |
-| 3 | [1 Samuel 13:1-23](../day-3/) | Saul's presumption at Gilgal — the sacrifice, the rebuke, the kingdom forfeited |
-| 4 | [1 Samuel 14:1-52](../day-4/) | Jonathan's faith, Saul's foolish oath, and a kingdom already fracturing |
-| 5 | [1 Samuel 15:1-35](../day-5/) | The Amalekites — partial obedience, royal excuses, and "to obey is better than sacrifice" |
+| [1](../day-1/) | 1 Samuel 9:1-10:27 | Saul chosen — tall, handsome, anointed, and the Spirit rushes upon him |
+| [2](../day-2/) | 1 Samuel 11:1-12:25 | Victory at Jabesh-gilead, Samuel's farewell, and the terms of the monarchy |
+| [3](../day-3/) | 1 Samuel 13:1-23 | Saul's presumption at Gilgal — the sacrifice, the rebuke, the kingdom forfeited |
+| [4](../day-4/) | 1 Samuel 14:1-52 | Jonathan's faith, Saul's foolish oath, and a kingdom already fracturing |
+| [5](../day-5/) | 1 Samuel 15:1-35 | The Amalekites — partial obedience, royal excuses, and "to obey is better than sacrifice" |
 
 ## Key Themes
 

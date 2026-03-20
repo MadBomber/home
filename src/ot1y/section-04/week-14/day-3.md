@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 29:31-30:24
+## Reading
+
+- Genesis 29:31-30:24
 
 ## Historical Context
 

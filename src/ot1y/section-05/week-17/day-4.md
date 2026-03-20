@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Exodus 4:1-17
+## Reading
+
+- Exodus 4:1-17
 
 ## Historical Context
 

@@ -17,7 +17,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Esther 8:1--10:3
+## Reading
+
+- Esther 8:1--10:3
 
 ## Historical Context
 

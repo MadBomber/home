@@ -18,7 +18,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 2 Kings 5:1--6:23
+## Reading
+
+- 2 Kings 5:1--6:23
 
 ## Historical Context
 

@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: Daniel 9:20-27; 12:1-13
+## Reading
+
+- Daniel 9:20-27; 12:1-13
 
 ## Historical Context
 

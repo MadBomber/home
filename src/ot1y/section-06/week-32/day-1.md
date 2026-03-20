@@ -15,7 +15,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 9:1-10:27
+## Reading
+
+- 1 Samuel 9:1-10:27
 
 ## Historical Context
 

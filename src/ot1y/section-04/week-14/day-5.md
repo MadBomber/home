@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 32:1-33:20
+## Reading
+
+- Genesis 32:1-33:20
 
 ## Historical Context
 

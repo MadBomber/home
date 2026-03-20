@@ -16,7 +16,9 @@ study_slug: ot1y
 ---
 
 
-## Reading: 1 Samuel 20:1-42
+## Reading
+
+- 1 Samuel 20:1-42
 
 ## Historical Context
 

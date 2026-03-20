@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Numbers 9:1-10:36
+## Reading
+
+- Numbers 9:1-10:36
 
 ## Historical Context
 

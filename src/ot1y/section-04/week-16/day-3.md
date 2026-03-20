@@ -15,7 +15,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Genesis 45:1-28
+## Reading
+
+- Genesis 45:1-28
 
 ## Historical Context
 

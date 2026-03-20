@@ -14,7 +14,9 @@ layout: page
 study_slug: ot1y
 ---
 
-## Reading: Isaiah 1:1-6:13
+## Reading
+
+- Isaiah 1:1-6:13
 
 ## Historical Context
 
