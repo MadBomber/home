@@ -2,15 +2,15 @@
 layout: page
 title: About This Site
 document_title: About
-description: Background, credits, and license information for Lamp and Light.
+description: Background, credits, and license information for LampLight.Guide
 ---
 
-## About Lamp and Light
+## About LampLight.Guide
 
 *"Your word is a lamp to my feet and a light to my path."*
 — Psalm 119:105 (ESV)
 
-Lamp and Light is a free, Scripture-centered platform for publishing and engaging with weekly Bible studies. It is built on the conviction that the Bible is the living word of God — breathed out by Him, and profitable for every dimension of the Christian life:
+LampLight.Guide is a free, Scripture-centered platform for publishing and engaging with weekly Bible studies. It is built on the conviction that the Bible is the living word of God — breathed out by Him, and profitable for every dimension of the Christian life:
 
 > "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
 > — 2 Timothy 3:16–17 (ESV)
@@ -26,7 +26,7 @@ All Scripture on this site is quoted from the **English Standard Version (ESV)**
 
 ## How It Works
 
-Lamp and Light hosts one or more Bible studies, each organized into sections, weeks, and daily readings. Everything you do on this site — notes, journal entries, progress, settings — is stored **only on your device** using your browser's local storage. Nothing is sent to a server. Your study is private.
+LampLight.Cuide hosts Bible studies organized into sections, weeks, and daily readings. Everything you do on this site — notes, journal entries, progress, settings — is stored **only on your device** using your browser's local storage. Nothing is saved by the LampLight.Guide server.
 
 ### Features
 
@@ -42,7 +42,7 @@ Lamp and Light hosts one or more Bible studies, each organized into sections, we
 
 ## Privacy
 
-This site collects no personal data. There are no accounts, no tracking, and no analytics. All progress, journal entries, and preferences live in your browser's local storage and never leave your device.
+This site collects no personal data. There are no accounts, no tracking, and no analytics. All progress, journal entries, and preferences live in your browser's local storage and never saved on the LamLight.Guide server.
 
 The discussion feature (where available) uses [Giscus](https://giscus.app), which is powered by GitHub Discussions. Participation in discussions requires a GitHub account and is subject to GitHub's privacy policy.
 
@@ -50,7 +50,7 @@ The discussion feature (where available) uses [Giscus](https://giscus.app), whic
 
 ## The Template
 
-Lamp and Light is built on the **Bible Study Template**, an open-source static site template built with [Bridgetown](https://www.bridgetownrb.com/). The template is freely available for churches, small groups, and individuals who want to publish their own Scripture-based studies.
+LampLight.Guide is built on the **Bible Study Template**, an open-source static site template built with [Bridgetown](https://www.bridgetownrb.com/). The template is freely available for churches, small groups, and individuals who want to publish their own Scripture-based studies.
 
 ---
 
