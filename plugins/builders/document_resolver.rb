@@ -1,5 +1,5 @@
 class Builders::DocumentResolver < SiteBuilder
-  PREFERRED_ORDER = %w[how-to-use hear-method about].freeze
+  PREFERRED_ORDER = %w[choose-jesus how-to-use hear-method about].freeze
 
   def build
     hook :site, :post_read do
@@ -10,20 +10,22 @@ class Builders::DocumentResolver < SiteBuilder
   private
 
   def resolve_documents
-    global_docs    = {}
+    base            = site.base_path.to_s.chomp("/")
+    global_docs     = {}
     study_overrides = Hash.new { |h, k| h[k] = {} }
 
     site.resources.each do |resource|
-      url = resource.relative_url.to_s
+      url  = resource.relative_url.to_s
+      path = base.empty? ? url : url.delete_prefix(base)
 
-      if (m = url.match(%r{\A/documents/([^/]+)/\z}))
+      if (m = path.match(%r{\A/documents/([^/]+)/\z}))
         slug = m[1]
-        global_docs[slug] = doc_entry(slug, resource, url)
+        global_docs[slug] = doc_entry(slug, resource, path)
 
-      elsif (m = url.match(%r{\A/([^/]+)/documents/([^/]+)/\z}))
+      elsif (m = path.match(%r{\A/([^/]+)/documents/([^/]+)/\z}))
         study_slug = m[1]
         slug       = m[2]
-        study_overrides[study_slug][slug] = doc_entry(slug, resource, url)
+        study_overrides[study_slug][slug] = doc_entry(slug, resource, path)
       end
     end
 
@@ -40,9 +42,10 @@ class Builders::DocumentResolver < SiteBuilder
 
   def doc_entry(slug, resource, url)
     {
-      "slug"  => slug,
-      "title" => resource.data[:document_title] || resource.data[:title],
-      "url"   => url,
+      "slug"        => slug,
+      "title"       => resource.data[:document_title] || resource.data[:title],
+      "url"         => url,
+      "description" => resource.data[:description],
     }
   end
 

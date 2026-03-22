@@ -54,17 +54,11 @@ title: Home
 <section class="landing-resources">
   <h2>Resources</h2>
   <div class="guide-cards">
-    <a href="<%= relative_url '/documents/how-to-use/' %>" class="guide-card" target="_blank" rel="noopener">
-      <h3>How to Use This Study</h3>
-      <p>Daily routine, weekly rhythm, group and individual study tips.</p>
-    </a>
-    <a href="<%= relative_url '/documents/hear-method/' %>" class="guide-card" target="_blank" rel="noopener">
-      <h3>The H.E.A.R. Method</h3>
-      <p>A four-step journaling approach: Highlight, Explain, Apply, Respond.</p>
-    </a>
-    <a href="<%= relative_url '/documents/about/' %>" class="guide-card" target="_blank" rel="noopener">
-      <h3>About This Site</h3>
-      <p>Background, credits, and license information.</p>
-    </a>
+    <% (site.data.resolved_documents["global"] || []).each do |doc| %>
+      <a href="<%= relative_url doc["url"] %>" class="guide-card" target="_blank" rel="noopener">
+        <h3><%= doc["title"] %></h3>
+        <% if doc["description"] %><p><%= doc["description"] %></p><% end %>
+      </a>
+    <% end %>
   </div>
 </section>

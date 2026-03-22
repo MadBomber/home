@@ -2,6 +2,7 @@
 layout: page
 title: The H.E.A.R. Method
 document_title: The H.E.A.R. Method
+description: A four-step journaling approach — Highlight, Explain, Apply, Respond — for engaging deeply with Scripture.
 ---
 
 ## The H.E.A.R. Method

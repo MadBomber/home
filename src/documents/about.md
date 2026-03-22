@@ -2,6 +2,7 @@
 layout: page
 title: About This Site
 document_title: About
+description: Background, credits, and license information for Lamp and Light.
 ---
 
 ## About Lamp and Light

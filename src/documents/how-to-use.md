@@ -2,6 +2,7 @@
 layout: page
 title: How to Use This Study
 document_title: How to Use
+description: Daily routine, weekly rhythm, and group and individual study tips.
 ---
 
 ## How to Use This Study
