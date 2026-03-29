@@ -11,14 +11,11 @@
 
 Bridgetown.configure do |config|
   # The base hostname & protocol for your site, e.g. https://example.com
-  url ""
+  url "https://lamplight.guide"
 
   # Available options are `erb` (default), `serbea`, or `liquid`
   template_engine "erb"
 
-  # Optionally host your site off a subfolder path, e.g. /my_study
-  # If you set this, update publicPath in esbuild.config.js to match.
-  #
-  repo_name = ENV.fetch("GITHUB_REPOSITORY", File.basename(Dir.pwd)).split("/").last
-  base_path "/#{repo_name}"
+  # Custom domain — no subfolder path needed
+  base_path "/"
 end
