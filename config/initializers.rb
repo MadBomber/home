@@ -17,5 +17,5 @@ Bridgetown.configure do |config|
   template_engine "erb"
 
   # Custom domain — no subfolder path needed
-  base_path "/"
+  base_path ""
 end
