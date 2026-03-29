@@ -1,0 +1,26 @@
+---
+layout: none
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<%
+  excluded = %w[settings group-settings hear-journal sitemap 404]
+
+  pages = site.resources.select do |r|
+    url = r.relative_url.to_s
+    slug = url.split("/").reject(&:empty?).last.to_s
+    !excluded.include?(slug) && !url.end_with?("sitemap.xml")
+  end.sort_by { |r| r.relative_url.to_s }
+%>
+<% pages.each do |r| %>
+  <url>
+    <loc><%= site.config.url %><%= r.relative_url %></loc>
+    <% if r.data[:date] %>
+    <lastmod><%= r.data[:date].iso8601 %></lastmod>
+    <% end %>
+    <changefreq><%= r.relative_url.to_s == "/" ? "weekly" : "monthly" %></changefreq>
+    <priority><%= r.relative_url.to_s == "/" ? "1.0" : r.relative_url.to_s.start_with?("/blog/") ? "0.8" : "0.6" %></priority>
+  </url>
+<% end %>
+</urlset>

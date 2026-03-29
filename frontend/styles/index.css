@@ -2477,7 +2477,8 @@ button.toolbar-icon {
   .site-footer,
   .day-complete-container,
   .page-nav,
-  .week-nav {
+  .week-nav,
+  .blog-post-nav {
     display: none !important;
   }
 

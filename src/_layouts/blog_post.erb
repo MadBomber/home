@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": <%= data.title.to_json %>,
+  "description": <%= (data.description || "").to_json %>,
+  "url": "<%= site.config.url %><%= resource.relative_url %>",
+  <% if data.date %>"datePublished": "<%= data.date.iso8601 %>",<% end %>
+  <% if !data.author.to_s.empty? %>
+  "author": {
+    "@type": "Person",
+    "name": <%= data.author.to_json %>
+  },
+  <% end %>
+  "publisher": {
+    "@type": "Organization",
+    "name": <%= site.metadata.title.to_json %>,
+    "url": <%= site.config.url.to_json %>
+  }
+}
+</script>
 
 <%
   all_posts = site.resources

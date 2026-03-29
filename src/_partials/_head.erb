@@ -3,10 +3,39 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
-<% resource_title = strip_html(strip_newlines(title)) %>
-<title><% if resource_title != "Index" %><%= resource_title %> | <%= metadata.title %><% else %><%= metadata.title %>: <%= metadata.tagline %><% end %></title>
+<%
+  resource_title   = strip_html(strip_newlines(title))
+  page_title       = resource_title == "Index" ? "#{metadata.title}: #{metadata.tagline}" : "#{resource_title} | #{metadata.title}"
+  page_description = (data.description.to_s.empty? ? metadata.description : data.description).to_s.gsub(/\s+/, " ").strip
+  canonical_url    = "#{site.config.url}#{resource.relative_url}"
+  is_blog_post     = data.layout == "blog_post"
+  og_type          = is_blog_post ? "article" : "website"
+  og_image         = "#{site.config.url}/images/open_bible.png"
+  og_title         = resource_title == "Index" ? metadata.title : resource_title
+%>
+<title><%= page_title %></title>
+<meta name="description" content="<%= page_description %>" />
+<% if !data.author.to_s.empty? %><meta name="author" content="<%= data.author %>" /><% end %>
+<link rel="canonical" href="<%= canonical_url %>" />
+<link rel="sitemap" type="application/xml" href="<%= relative_url '/sitemap.xml' %>" />
 
-<meta name="description" content="<%= metadata.description %>" />
+<!-- Open Graph -->
+<meta property="og:title"       content="<%= og_title %>" />
+<meta property="og:description" content="<%= page_description %>" />
+<meta property="og:type"        content="<%= og_type %>" />
+<meta property="og:url"         content="<%= canonical_url %>" />
+<meta property="og:site_name"   content="<%= metadata.title %>" />
+<meta property="og:image"       content="<%= og_image %>" />
+<% if is_blog_post %>
+<% if data.date %><meta property="article:published_time" content="<%= data.date.iso8601 %>" /><% end %>
+<% if !data.author.to_s.empty? %><meta property="article:author"         content="<%= data.author %>" /><% end %>
+<% end %>
+
+<!-- Twitter Card -->
+<meta name="twitter:card"        content="summary_large_image" />
+<meta name="twitter:title"       content="<%= og_title %>" />
+<meta name="twitter:description" content="<%= page_description %>" />
+<meta name="twitter:image"       content="<%= og_image %>" />
 
 <link rel="stylesheet" href="<%= asset_path :css %>" />
 <script>

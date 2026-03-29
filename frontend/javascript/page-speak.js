@@ -15,7 +15,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const article = document.querySelector("article")
     if (!article) return
 
-    const text = article.innerText
+    const speakTarget = article.querySelector(".blog-post-body") || article
+    const text = speakTarget.innerText
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.rate = 0.95
     utterance.pitch = 1.0
