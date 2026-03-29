@@ -61,7 +61,7 @@ The council did not produce a detailed technical algorithm — that would come l
 
 ### The Alexandrian Method
 
-Over the following century, the church at Alexandria developed the computational system that, with refinements, still underlies the Western Easter calculation today. The system replaced observed lunar positions with mathematical tables — a nineteen-year cycle called the *[Metonic cycle](https://www.timeanddate.com/calendar/determining-easter-date.html)*, in which the phases of the moon repeat on the same calendar dates. This made the Paschal Full Moon predictable far in advance and allowed Easter tables to be published for decades at a time.
+Over the following century, the church at Alexandria developed the computational system that, with refinements, still underlies the Western Easter calculation today. The system replaced observed lunar positions with mathematical tables — a nineteen-year cycle called the *<a href="https://www.timeanddate.com/calendar/determining-easter-date.html" target="_blank" rel="noopener noreferrer">Metonic cycle ↗</a>*, in which the phases of the moon repeat on the same calendar dates. This made the Paschal Full Moon predictable far in advance and allowed Easter tables to be published for decades at a time.
 
 The system was elegant, if occasionally eccentric. It divorced Easter from actual astronomical events in favor of consistency and universality — a choice that would later create the very East-West split in Easter dates that persists today.
 
@@ -97,7 +97,7 @@ The difference is not trivial. The Julian calendar is now thirteen days behind t
 
 ### Proposals for a Fixed Date
 
-Periodically, Christian leaders and ecumenical bodies have proposed fixing Easter to a specific Sunday — perhaps the second Sunday of April — to end both the annual confusion for secular calendars and the East-West divergence. The Second Vatican Council in 1963 expressed openness to such a fix if other Christian communities agreed. Formal proposals were made in 1928 and again in 1997 without result. Nothing has come of it. (See [Determining the Date of Easter](https://www.timeanddate.com/calendar/determining-easter-date.html) for a detailed look at the date ranges and reform history.) The resistance is partly practical, partly sentimental, and partly theological: there are those who feel that the variable date is not a defect but a feature, that something would be lost in pegging the resurrection to a convenient administrative date.
+Periodically, Christian leaders and ecumenical bodies have proposed fixing Easter to a specific Sunday — perhaps the second Sunday of April — to end both the annual confusion for secular calendars and the East-West divergence. The Second Vatican Council in 1963 expressed openness to such a fix if other Christian communities agreed. Formal proposals were made in 1928 and again in 1997 without result. Nothing has come of it. (See <a href="https://www.timeanddate.com/calendar/determining-easter-date.html" target="_blank" rel="noopener noreferrer">Determining the Date of Easter ↗</a> for a detailed look at the date ranges and reform history.) The resistance is partly practical, partly sentimental, and partly theological: there are those who feel that the variable date is not a defect but a feature, that something would be lost in pegging the resurrection to a convenient administrative date.
 
 ---
 
