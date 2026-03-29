@@ -1,6 +1,12 @@
 storage_prefix: "ntc1y"
 total_weeks: 52
 
+discussions:
+  repo: "MadBomber/ntc1y_discussions"
+  repo_id: "R_kgDORmVELw"
+  category: "Page Comments"
+  category_id: "DIC_kwDORmVEL84C4Upd"
+
 sections:
   - number: 1
     title: "The Coming of Christ"

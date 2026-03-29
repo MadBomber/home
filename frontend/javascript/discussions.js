@@ -1,7 +1,7 @@
 // Giscus discussions integration.
-// To enable: go to https://giscus.app, configure it for your GitHub repo,
-// and fill in the data-* attributes below with your values.
-// Then in Settings, users can turn on Community Discussions to load the widget.
+// Per-study configuration lives in src/_data/{study}/study_config.yml
+// under a `discussions:` key. If the current study has no discussions
+// config, the widget is silently skipped.
 
 function loadGiscus() {
   const container = document.querySelector(".page-discussions .giscus")
@@ -14,21 +14,26 @@ function loadGiscus() {
     if (settings.discussionTheme) theme = settings.discussionTheme
   } catch { return }
 
+  const studyConfig = JSON.parse(
+    document.getElementById("study-config-data")?.textContent || "{}"
+  )
+  const disc = studyConfig.discussions
+  if (!disc?.repo || !disc?.repo_id || !disc?.category_id) return
+
   const script = document.createElement("script")
   script.src = "https://giscus.app/client.js"
-  // TODO: Replace these with your own values from https://giscus.app
-  script.setAttribute("data-repo", "YOUR_GITHUB_USERNAME/YOUR_DISCUSSIONS_REPO")
-  script.setAttribute("data-repo-id", "YOUR_REPO_ID")
-  script.setAttribute("data-category", "Page Comments")
-  script.setAttribute("data-category-id", "YOUR_CATEGORY_ID")
-  script.setAttribute("data-mapping", "pathname")
-  script.setAttribute("data-strict", "1")
+  script.setAttribute("data-repo",            disc.repo)
+  script.setAttribute("data-repo-id",         disc.repo_id)
+  script.setAttribute("data-category",        disc.category || "Page Comments")
+  script.setAttribute("data-category-id",     disc.category_id)
+  script.setAttribute("data-mapping",         "pathname")
+  script.setAttribute("data-strict",          "1")
   script.setAttribute("data-reactions-enabled", "1")
-  script.setAttribute("data-emit-metadata", "0")
-  script.setAttribute("data-input-position", "top")
-  script.setAttribute("data-theme", theme)
-  script.setAttribute("data-lang", "en")
-  script.setAttribute("data-loading", "lazy")
+  script.setAttribute("data-emit-metadata",   "0")
+  script.setAttribute("data-input-position",  "top")
+  script.setAttribute("data-theme",           theme)
+  script.setAttribute("data-lang",            "en")
+  script.setAttribute("data-loading",         "lazy")
   script.crossOrigin = "anonymous"
   script.async = true
 
