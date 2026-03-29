@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<%
+  all_posts = site.resources
+    .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
+    .reject  { |r| r.relative_url.to_s.end_with?('/blog/') }
+    .sort_by { |r| r.data[:date] || Date.new(1970) }
+    .reverse
+
+  current_index = all_posts.index { |r| r.relative_url == resource.relative_url }
+  older_post  = current_index && current_index < all_posts.length - 1 ? all_posts[current_index + 1] : nil
+  newer_post  = current_index && current_index > 0                    ? all_posts[current_index - 1] : nil
+%>
+
+<article class="blog-post">
+  <nav class="blog-post-nav">
+    <% if older_post %>
+      <a href="<%= relative_url older_post.relative_url %>" class="blog-post-nav-link blog-post-nav-older">
+        <span class="blog-post-nav-arrow">&larr;</span>
+        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= older_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+      </a>
+    <% else %>
+      <span></span>
+    <% end %>
+    <% if newer_post %>
+      <a href="<%= relative_url newer_post.relative_url %>" class="blog-post-nav-link blog-post-nav-newer">
+        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= newer_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-arrow">&rarr;</span>
+      </a>
+    <% else %>
+      <span></span>
+    <% end %>
+  </nav>
+
+  <header class="blog-post-header">
+    <h1><%= data.title %></h1>
+    <p class="blog-post-meta">
+      <% if data.date %><span class="blog-post-date"><%= data.date.strftime("%B %-d, %Y") %></span><% end %>
+      <% if data.author %><span class="blog-post-author"><%= data.author %></span><% end %>
+    </p>
+  </header>
+
+  <div class="blog-post-body">
+    <%= yield %>
+  </div>
+
+  <nav class="blog-post-nav blog-post-nav-bottom">
+    <% if older_post %>
+      <a href="<%= relative_url older_post.relative_url %>" class="blog-post-nav-link blog-post-nav-older">
+        <span class="blog-post-nav-arrow">&larr;</span>
+        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= older_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+      </a>
+    <% else %>
+      <span></span>
+    <% end %>
+    <% if newer_post %>
+      <a href="<%= relative_url newer_post.relative_url %>" class="blog-post-nav-link blog-post-nav-newer">
+        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= newer_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-arrow">&rarr;</span>
+      </a>
+    <% else %>
+      <span></span>
+    <% end %>
+  </nav>
+</article>

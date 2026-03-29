@@ -1,0 +1,43 @@
+---
+layout: default
+title: Blog
+description: Essays and articles on Scripture, theology, and the Christian life.
+---
+
+<section class="blog-index">
+  <div class="blog-index-hero">
+    <h1>Blog</h1>
+    <p>Essays and articles on Scripture, theology, and the Christian life.</p>
+  </div>
+
+  <div class="blog-post-list">
+    <%
+      posts = site.resources
+        .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
+        .reject  { |r| r.relative_url.to_s.end_with?('/blog/') }
+        .sort_by { |r| r.data[:date] || Date.new(1970) }
+        .reverse
+    %>
+    <% posts.each do |post| %>
+      <a href="<%= relative_url post.relative_url %>" class="blog-post-card">
+        <div class="blog-post-card-header">
+          <h2><%= post.data[:title] %></h2>
+        </div>
+        <div class="blog-post-card-body">
+          <p class="blog-post-card-meta">
+            <% if post.data[:date] %><span class="blog-post-card-date"><%= post.data[:date].strftime("%B %-d, %Y") %></span><% end %>
+            <% if post.data[:author] %><span class="blog-post-card-author"><%= post.data[:author] %></span><% end %>
+          </p>
+          <% if post.data[:description] %>
+            <p class="blog-post-card-description"><%= post.data[:description] %></p>
+          <% end %>
+          <span class="blog-post-card-read">Read article &rarr;</span>
+        </div>
+      </a>
+    <% end %>
+
+    <% if posts.empty? %>
+      <p class="blog-empty">No posts yet. Check back soon.</p>
+    <% end %>
+  </div>
+</section>

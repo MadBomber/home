@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: blog_post
 title: The Shifting Date of Easter
-document_title: Why Easter Moves
 description: Why the date of Easter changes each year — the astronomy, history, and theology behind a moveable feast.
+date: 2026-03-29
+author: Dewayne VanHoozer
 ---
 
 The date of Easter is anchored to the lunar cycle that governed Passover, mandated to fall on the day of the resurrection, and deliberately calculated by a method that declares its independence from the old covenant calendar. Each of these decisions was made by people who believed they were handling the most important event in human history, and they shaped the church's year accordingly.

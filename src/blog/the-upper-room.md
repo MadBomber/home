@@ -1,8 +1,9 @@
 ---
-layout: page
-title: "The Upper Room"
-document_title: The Upper Room
+layout: blog_post
+title: "The Upper Room: Where the Old Covenant Ended and the New Began"
 description: The events of the Last Supper — foot washing, the Eucharist, Judas, and Gethsemane — as the hinge on which the entire history of redemption turns.
+date: 2026-03-29
+author: Dewayne VanHoozer
 ---
 
 The Upper Room contains, in compressed form, nearly every theme that will define Christian life and theology in the centuries that follow: the servant leadership of the foot washing; the eucharistic participation in Christ's death and resurrection; the shadowed mystery of betrayal in a sacred space; the agonized obedience of Gethsemane. These are not merely historical episodes. They are patterns.
