@@ -385,6 +385,20 @@
   [data-theme="auto"] .site-footer a {
     color: var(--text-secondary);
   }
+
+  [data-theme="auto"] .study-card {
+    background: var(--bg-surface);
+    border-color: var(--border-color);
+  }
+
+  [data-theme="auto"] .study-card-title {
+    background: #1e1235;
+    color: #fff;
+  }
+
+  [data-theme="auto"] .study-card-tagline {
+    background: #271845;
+  }
 }
 
 /* --- RefTagger Tooltip Overrides --- */
