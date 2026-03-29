@@ -32,11 +32,11 @@ From the quiet reverence of the temple, we are thrust into political danger. Mat
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Luke 2:21-52  | [Presentation at Temple & Boy Jesus](day-1) |
-| 2 | Matthew 2  | [Magi Visit, Flight to Egypt, Return to Nazareth](day-2) |
-| 3 | Mark 1:1-8  | [John the Baptist's Ministry](day-3) |
-| 4 | Luke 3:1-22  | [John's Preaching & Jesus' Baptism](day-4) |
-| 5 | Matthew 3  | [Matthew's Baptism Account](day-5) |
+| 1 | Luke 2:21-52  | [Presentation at Temple & Boy Jesus](../day-1) |
+| 2 | Matthew 2  | [Magi Visit, Flight to Egypt, Return to Nazareth](../day-2) |
+| 3 | Mark 1:1-8  | [John the Baptist's Ministry](../day-3) |
+| 4 | Luke 3:1-22  | [John's Preaching & Jesus' Baptism](../day-4) |
+| 5 | Matthew 3  | [Matthew's Baptism Account](../day-5) |
 
 ## Key Characters This Week
 

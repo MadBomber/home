@@ -26,11 +26,11 @@ Replace this content with an introduction to the week's reading. Briefly describ
 
 | Day | Title | Passage |
 |-----|-------|---------|
-| [1](day-1) | Sample Day 1 Title | Genesis 1:1–5 |
-| [2](day-2) | Sample Day 2 Title | Genesis 1:6–13 |
-| [3](day-3) | Sample Day 3 Title | Genesis 1:14–19 |
-| [4](day-4) | Sample Day 4 Title | Genesis 1:20–25 |
-| [5](day-5) | Sample Day 5 Title | Genesis 1:26–31 |
+| [1](../day-1) | Sample Day 1 Title | Genesis 1:1–5 |
+| [2](../day-2) | Sample Day 2 Title | Genesis 1:6–13 |
+| [3](../day-3) | Sample Day 3 Title | Genesis 1:14–19 |
+| [4](../day-4) | Sample Day 4 Title | Genesis 1:20–25 |
+| [5](../day-5) | Sample Day 5 Title | Genesis 1:26–31 |
 
 ### Discussion
 
