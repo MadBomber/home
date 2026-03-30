@@ -1,0 +1,17 @@
+name: Ping Google Sitemap
+
+on:
+  workflow_run:
+    workflows: ["Deploy to GitHub Pages"]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  ping:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Google to reindex sitemap
+        run: |
+          curl -sf "https://www.google.com/ping?sitemap=https://lamplight.guide/sitemap.xml" -o /dev/null
+          echo "Sitemap pinged successfully"
