@@ -8,37 +8,21 @@ author: Dewayne VanHoozer
 
 ## and They Did Not Know Him
 
-There is a peculiar irony in the image of a man standing trial for the crime of claiming kingship while explaining to his judge that his kingdom belongs to an entirely different order of reality. Jesus of Nazareth, in the final hours before his execution, does not deny the charge. He redefines it — and in doing so, reveals that Rome's courtroom, Rome's governor, and Rome's understanding of power are simply the wrong frame through which to see him.
+As Jesus crested the Mount of Olives and the city of Jerusalem spread out below him, the crowd filling the road was jubilant — cloaks on the ground, palm branches raised, the ancient coronation psalm on their lips. It was a precise and glorious ceremony. The King at the center of it was weeping.
 
-> Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world."
+> And when he drew near and saw the city, he wept over it, saying, "Would that you, even you, had known on this day the things that make for peace! But now they are hidden from your eyes. For the days will come upon you, when your enemies will set up a barricade around you and surround you and hem you in on every side and tear you to the ground, you and your children within you. And they will not leave one stone upon another in you, because you did not know the time of your visitation."
 >
-> — John 18:36, ESV
+> — Luke 19:41-44, ESV
 
-To understand what happened five days earlier — when the streets of Jerusalem filled with people spreading their cloaks on the road, waving palm branches, and crying *Hosanna* — we have to hold that question in mind: what kind of kingdom was this king talking about? By Friday, the crowd that had welcomed him into the city with every mark of Messianic ceremony stood before the same Roman governor they had wanted gone and demanded that the prisoner be crucified. To understand how that happened, we have to start where the week began.
+He wept because he knew them. He knew their names, the shape of their longing, the particular blindness that would carry them from *Hosanna* on Sunday to *Crucify him* on Friday. He could see the destruction of their city forty years ahead while they were still mid-coronation. The crowd did not know the time of their visitation — but Jesus knew exactly what he was walking into, and for whom, and at what cost. That asymmetry — he knew them fully, and they did not know him at all — is the thread running through the whole of Holy Week.
 
-Every gesture in that entry procession carried deliberate meaning. When the crowd spread their cloaks on the road before Jesus, they were not acting from impulse — they were performing an ancient act of royal submission. Centuries earlier, when Jehu was anointed king of Israel, those present responded without hesitation:
-
-> Then in haste every man of them took his garment and put it under him on the bare steps, and they blew the trumpet and proclaimed, "Jehu is king."
->
-> — 2 Kings 9:13, ESV
-
-A garment was a personal possession of real value. To lay it under another's feet was to declare his authority over you — to say with your body what the crowd was saying with its voice. The road into Jerusalem was lined not with decorations but with acts of voluntary submission. They were crowning a king.
-
-The palm branches in their hands carried a dual weight the crowd may not have fully distinguished. The first was liturgical: Leviticus 23:40 commanded Israel to take palm branches at the Feast of Tabernacles — the great autumn celebration of God's provision, covenant faithfulness, and kingship over his people.
-
-> And you shall take on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the LORD your God seven days.
->
-> — Leviticus 23:40, ESV
-
-But by the first century, palm branches had acquired a second meaning layered over the first. When Simon Maccabaeus recaptured Jerusalem from the Seleucid Greeks in 141 BC — ending decades of foreign occupation and desecration of the Temple — the people welcomed him into the city waving palm branches. They appear on coins of the period as a symbol of Jewish independence and national liberation. To wave a palm on the road into Jerusalem was therefore to invoke both the worship of God and the memory of political deliverance in a single gesture. The crowd was not choosing between the sacred and the political — in their understanding, the Messiah would fulfill both at once. That assumption was precisely what the week ahead would dismantle.
-
-On the day of the entry itself, the religious authorities tried to shut the proclamation down. The Pharisees in the crowd turned to Jesus and demanded that he rebuke his disciples. His answer left no room for negotiation:
+When the Pharisees demanded he silence the crowd, his answer was unequivocal:
 
 > And some of the Pharisees in the crowd said to him, "Teacher, rebuke your disciples." He answered, "I tell you, if these were silent, the very stones would cry out."
 >
 > — Luke 19:39-40, ESV
 
-The proclamation was not optional. It was not a crowd getting carried away that a word from Jesus could have quieted. It was cosmically necessary — so necessary that if every human voice had fallen silent on that road, creation itself would have taken up the cry. The King had come, and heaven would not allow his arrival to go unannounced.
+The proclamation could not be silenced. Creation itself would take it up if human voices fell quiet. The King had come, and heaven would not allow his arrival to go unannounced. And yet the city receiving that announcement still would not know the time of its visitation. The ceremony was glorious. The King was weeping.
 
 ## A City That Knew How to Welcome a King
 
@@ -47,6 +31,14 @@ Jerusalem at Passover was never merely a city. It was a city under pressure — 
 > Most of the crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road. And the crowds that went before him and that followed him were shouting, "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!"
 >
 > — Matthew 21:8-9, ESV
+
+When the crowd spread their cloaks on the road before Jesus, they were performing an ancient act of royal submission. Centuries earlier, when Jehu was anointed king of Israel, those present responded without hesitation:
+
+> Then in haste every man of them took his garment and put it under him on the bare steps, and they blew the trumpet and proclaimed, "Jehu is king."
+>
+> — 2 Kings 9:13, ESV
+
+A garment was a personal possession of real value. To lay it under another's feet was to say with your body what the crowd was saying with its voice: *this man is my king*. The road into Jerusalem was lined not with decorations but with acts of voluntary submission.
 
 > And you shall take on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the LORD your God seven days.
 >
@@ -112,7 +104,13 @@ Five days. The same city. The same voices. On Sunday they spread their cloaks be
 >
 > — Matthew 27:22-23, ESV
 
-Notice what the crowd cannot produce when Pilate asks his question: a charge. He says, *Why? What evil has he done?* — and they do not answer with evidence. They answer with volume. Their case against Jesus was not that he had done wrong; it was that he had failed to do what they needed him to do. He had not marched on the Praetorium. He had not raised an army. He had gone to the Temple and overturned tables, then retreated to teach. He was not the king they had crowned on Sunday, and so the crown had to come down.
+Notice what the crowd cannot produce when Pilate asks his question: a charge. He says, *Why? What evil has he done?* — and they do not answer with evidence. They answer with volume. Their case against Jesus was not that he had done wrong; it was that he had failed to do what they needed him to do. And in that courtroom, the King who had wept over their city gave Pilate the answer the crowd had never been able to hear:
+
+> Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world."
+>
+> — John 18:36, ESV
+
+Rome's courtroom, Rome's governor, Rome's understanding of power — all of it was simply the wrong frame through which to see him. He had not come to remove Pilate. He had come for something Pilate could not touch. He had not marched on the Praetorium. He had not raised an army. He had gone to the Temple and overturned tables, then retreated to teach. He was not the king they had crowned on Sunday, and so the crown had to come down.
 
 The crowd that cheered him would later jeer him — not for being who he wasn't, but for refusing to be who they wanted. That is the particular tragedy of the Triumphal Entry: the most accurate Messianic ceremony in Israel's history, performed by people who could not receive the Messiah they were welcoming. They knew him not. The palms were right. The psalm was right. The donkey was right. And still the man at the center of all that precision remained opaque to them — because what they were celebrating was a script they already held, and he declined to read from it. The cross they demanded on Friday was the very thing that would accomplish, at a depth they could not yet imagine, exactly what the *Hosanna* had asked for on Sunday: *Save us, we pray.* They shouted him toward the instrument of the salvation they had prayed for, without any idea that they were doing so.
 
