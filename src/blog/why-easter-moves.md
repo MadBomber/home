@@ -6,9 +6,23 @@ date: 2026-03-29
 author: Dewayne VanHoozer
 ---
 
-The date of Easter is anchored to the lunar cycle that governed Passover, mandated to fall on the day of the resurrection, and deliberately calculated by a method that declares its independence from the old covenant calendar. Each of these decisions was made by people who believed they were handling the most important event in human history, and they shaped the church's year accordingly.
+Easter's wandering date begins not with the early church's calendar debates but with creation itself. On the fourth day, God assigned the lights in the heavens a specific purpose:
 
-When Easter arrives in late March or lingers into April, it is not because the church was unable to settle on a date. It is because the event it commemorates refuses to be reduced to a date. The resurrection of Jesus Christ is the hinge on which all of time turns — the morning that has no evening, the dawn of a world that death could not hold. A feast of that magnitude probably should keep everyone guessing about exactly when it will appear.
+> And God said, "Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years, and let them be lights in the expanse of the heavens to give light upon the earth." And it was so. And God made the two great lights — the greater light to rule the day and the lesser light to rule the night — and the stars.
+>
+> — Genesis 1:14–16, ESV
+
+The Hebrew word translated *seasons* in that passage is *moadim* — the same word used throughout Leviticus for Israel's divinely appointed feast days. The moon was not merely a lamp; it was a calendar, designed from the first week of creation to govern the sacred rhythms of worship.
+
+When God later commanded Israel to observe Passover on the fourteenth day of the first month, he was building directly on that foundation:
+
+> In the first month, from the fourteenth day of the month at evening, you shall eat unleavened bread until the twenty-first day of the month at the evening.
+>
+> — Exodus 12:18, ESV
+
+But a lunar year of twelve months falls roughly eleven days short of a solar year. Left uncorrected, the feasts would drift backward through the seasons, eventually arriving in winter. To prevent this, Jewish communities periodically inserted an extra month, but the timing of that intercalation was not governed by a fixed formula. It was determined by local rabbis observing the moon and the ripening of the barley harvest, then proclaiming to their communities when the new month — and therefore when Passover — had arrived. Different communities in different regions, relying on different observers, could and did celebrate the same feast on different days.
+
+The early church inherited this moveable foundation. Easter is anchored to the lunar cycle that governed Passover, mandated to fall on the day of the resurrection, and deliberately calculated by a method the church developed to declare its independence from the old covenant calendar. Each of these decisions was made by people who believed they were handling the most important event in human history, and they shaped the church's year accordingly. When Easter arrives in late March or lingers into April, it is not because the church was unable to settle on a date. It is because the story behind that date was never a simple one.
 
 ## The Shifting Date of Easter: A Symbol of Christ's Triumph Over Time Itself
 
@@ -74,9 +88,21 @@ The system was elegant, if occasionally eccentric. It divorced Easter from actua
 
 Constantine's letter reveals something important: the separation of Easter from Passover was not merely an administrative preference. It was theologically motivated. The early church's decision to calculate Easter independently of the Jewish calendar was a declaration about the nature of Christ's work.
 
-For much of the New Testament, Jesus is presented as the fulfillment of Passover. Paul states it plainly: "Christ, our Passover lamb, has been sacrificed" (1 Corinthians 5:7). The Passover narrative — the blood on the doorposts, the death of the firstborn passing over the faithful, the hasty departure from Egypt, the movement from slavery toward freedom — is not merely backdrop for the crucifixion. It is the template. Jesus dies at Passover not coincidentally but architecturally.
+For much of the New Testament, Jesus is presented as the fulfillment of Passover. Paul states it plainly:
 
-Yet the writer of Hebrews, perhaps more than any other New Testament author, insists that the fulfillment of a type renders the type obsolete. The old covenant with its priests, its sacrifices, its tabernacle, and its calendar, "is obsolete and aging and will soon disappear" (Hebrews 8:13). The new covenant, mediated by Christ, operates on different terms. The blood of bulls and goats could not actually take away sin (Hebrews 10:4); the blood of Christ accomplishes what those sacrifices only gestured toward.
+> For Christ, our Passover lamb, has been sacrificed.
+>
+> — 1 Corinthians 5:7, ESV
+
+The Passover narrative — the blood on the doorposts, the death of the firstborn passing over the faithful, the hasty departure from Egypt, the movement from slavery toward freedom — is not merely backdrop for the crucifixion. It is the template. Jesus dies at Passover not coincidentally but architecturally.
+
+Yet the writer of Hebrews, perhaps more than any other New Testament author, insists that the fulfillment of a type renders the type obsolete. The old covenant with its priests, its sacrifices, its tabernacle, and its calendar has been superseded:
+
+> In speaking of a new covenant, he makes the first one obsolete. And what is becoming obsolete and growing old is ready to vanish away.
+>
+> — Hebrews 8:13, ESV
+
+The new covenant, mediated by Christ, operates on different terms. The blood of bulls and goats could not actually take away sin (Hebrews 10:4); the blood of Christ accomplishes what those sacrifices only gestured toward.
 
 To celebrate Easter *on* Passover would be, in the early church's theological imagination, to remain in the shadow when the substance had arrived. It would suggest that the resurrection was merely a chapter in the ongoing story of Israel's liturgical calendar rather than the event that inaugurated an entirely new era of redemption history.
 
@@ -108,7 +134,7 @@ There is a kind of poetry in the fact that Easter wanders. Fixed feasts have a c
 
 Some have suggested that the lunar rhythm itself carries meaning for Christians. The moon waxes, reaches fullness, then wanes — an ancient symbol of death and rebirth. The Paschal Full Moon, rising to its fullness in the first month of spring, mirrors the movement from the darkness of crucifixion to the full light of resurrection. The world turns, the seasons shift, and in the midst of that turning, Easter announces that something has happened which the calendar cannot contain.
 
-More theologically, the variable date reflects the resurrection's claim to be a cosmic rather than merely historical event. The resurrection of Christ is not, in Christian understanding, simply a remarkable thing that happened to one man on one Friday and Sunday in Jerusalem. It is the turning point of all history — the moment at which the new creation broke into the old. Such an event is bigger than any fixed point on a human calendar. It belongs, in some sense, to all times.
+More theologically, the variable date reflects the resurrection as a cosmic rather than merely historical event. The resurrection of Christ is not, in Christian understanding, simply a remarkable thing that happened to one man on one Friday and Sunday in Jerusalem. It is the turning point of all history — the moment at which the new creation broke into the old. Such an event is bigger than any fixed point on a human calendar. It belongs, in some sense, to all times.
 
 ---
 
