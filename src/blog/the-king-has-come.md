@@ -6,13 +6,39 @@ date: 2026-03-31
 author: Dewayne VanHoozer
 ---
 
+## and They Did Not Know Him
+
 There is a peculiar irony in the image of a man standing trial for the crime of claiming kingship while explaining to his judge that his kingdom belongs to an entirely different order of reality. Jesus of Nazareth, in the final hours before his execution, does not deny the charge. He redefines it — and in doing so, reveals that Rome's courtroom, Rome's governor, and Rome's understanding of power are simply the wrong frame through which to see him.
 
 > Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world."
 >
 > — John 18:36, ESV
 
-To understand what happened five days earlier — when the streets of Jerusalem filled with people spreading their cloaks on the road, waving palm branches, and crying *Hosanna* — we have to hold that question in mind: what kind of kingdom was this king talking about? By Friday, the crowd that had welcomed him into the city with every mark of Messianic ceremony stood before the same Roman governor they had wanted gone and demanded that the prisoner be crucified. The question this essay pursues is the one that has unsettled readers of the Gospels for two thousand years: what happened in those five days?
+To understand what happened five days earlier — when the streets of Jerusalem filled with people spreading their cloaks on the road, waving palm branches, and crying *Hosanna* — we have to hold that question in mind: what kind of kingdom was this king talking about? By Friday, the crowd that had welcomed him into the city with every mark of Messianic ceremony stood before the same Roman governor they had wanted gone and demanded that the prisoner be crucified. To understand how that happened, we have to start where the week began.
+
+Every gesture in that entry procession carried deliberate meaning. When the crowd spread their cloaks on the road before Jesus, they were not acting from impulse — they were performing an ancient act of royal submission. Centuries earlier, when Jehu was anointed king of Israel, those present responded without hesitation:
+
+> Then in haste every man of them took his garment and put it under him on the bare steps, and they blew the trumpet and proclaimed, "Jehu is king."
+>
+> — 2 Kings 9:13, ESV
+
+A garment was a personal possession of real value. To lay it under another's feet was to declare his authority over you — to say with your body what the crowd was saying with its voice. The road into Jerusalem was lined not with decorations but with acts of voluntary submission. They were crowning a king.
+
+The palm branches in their hands carried a dual weight the crowd may not have fully distinguished. The first was liturgical: Leviticus 23:40 commanded Israel to take palm branches at the Feast of Tabernacles — the great autumn celebration of God's provision, covenant faithfulness, and kingship over his people.
+
+> And you shall take on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the LORD your God seven days.
+>
+> — Leviticus 23:40, ESV
+
+But by the first century, palm branches had acquired a second meaning layered over the first. When Simon Maccabaeus recaptured Jerusalem from the Seleucid Greeks in 141 BC — ending decades of foreign occupation and desecration of the Temple — the people welcomed him into the city waving palm branches. They appear on coins of the period as a symbol of Jewish independence and national liberation. To wave a palm on the road into Jerusalem was therefore to invoke both the worship of God and the memory of political deliverance in a single gesture. The crowd was not choosing between the sacred and the political — in their understanding, the Messiah would fulfill both at once. That assumption was precisely what the week ahead would dismantle.
+
+On the day of the entry itself, the religious authorities tried to shut the proclamation down. The Pharisees in the crowd turned to Jesus and demanded that he rebuke his disciples. His answer left no room for negotiation:
+
+> And some of the Pharisees in the crowd said to him, "Teacher, rebuke your disciples." He answered, "I tell you, if these were silent, the very stones would cry out."
+>
+> — Luke 19:39-40, ESV
+
+The proclamation was not optional. It was not a crowd getting carried away that a word from Jesus could have quieted. It was cosmically necessary — so necessary that if every human voice had fallen silent on that road, creation itself would have taken up the cry. The King had come, and heaven would not allow his arrival to go unannounced.
 
 ## A City That Knew How to Welcome a King
 
@@ -104,7 +130,33 @@ Jesus came for the bondage Rome could not see and the crowd had stopped expectin
 >
 > — John 1:10-11, ESV
 
-The subtitle of this essay is not an accusation — it is a lament. The King had come. The ceremony was perfect. The crowd was loud and sincere and entirely mistaken about what they were celebrating. And he went to the cross anyway, for them, and for every crowd since that has wanted a different kind of king.
+The subtitle is not an accusation — it is a lament. The King had come. The ceremony was perfect. The crowd was loud and sincere and entirely mistaken about what they were celebrating. And he went to the cross anyway, for them, and for every crowd since that has wanted a different kind of king.
+
+## Do Not Miss the King
+
+The crowd that missed Jesus on Palm Sunday had an excuse that is no longer available to us. They were reading prophecy before its fulfillment was complete. The cross had not yet happened. The empty tomb had not yet spoken. They could not have known, in full, what they were looking at.
+
+That excuse does not extend forward.
+
+The cross the crowd demanded, the tomb that could not hold him, the resurrection that confirmed everything Jesus claimed about himself — all of it is now on record. And the offer he came to make — the offer the crowd refused because it was not the offer they wanted — remains open.
+
+> For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.
+>
+> — John 3:16-17, ESV
+
+There is no asterisk on the word *whoever*. No requirement that you arrive at this moment with your expectations correctly calibrated, your theology sorted, your life in order. The crowd on Palm Sunday had impeccable theology and missed the King entirely. What is required is simpler and harder than theology: trust — the kind that opens a door rather than merely admires it.
+
+He is not waiting for you to become the right kind of person before he receives you. He went to the cross for the crowd that jeered him. The invitation extends to every crowd since — including the one you are in now, reading this, shaped by your own version of what you thought a king should do and be.
+
+The question the Triumphal Entry leaves is not historical. It is personal: will you receive The King as He is, or hold out for a king you had in mind? The crowd got the ceremony right and missed The King. The ceremony is not what is being offered to you. The King is.
+
+The crowd did not know Jesus. But Jesus knew them — knew their names, their hopes, the particular shape of their disappointment, the reason they would shout *Hosanna* on Sunday and *Crucify him* on Friday. He went to the cross for people who did not know him, because knowing them was never contingent on being known by them.
+
+He knows you the same way. Not the version of you that you present to the world, nor the version you wish you were — but the whole of you, exactly as you are. And what he wants, more than your correct theology or your improved behavior, is for you to know him in return. Not know *about* him. Know *him* — the way you know someone you have let past the threshold, someone you have sat with, someone whose presence changes the room. That kind of knowing begins with one thing: an open door.
+
+> Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.
+>
+> — Revelation 3:20, ESV
 
 ---
 
