@@ -4,6 +4,8 @@ title: The King Has Come
 description: The crowd that welcomed Jesus into Jerusalem got every ceremony right and every expectation wrong — cheering a King they did not know, for a kingdom they could not imagine.
 date: 2026-03-31
 author: Dewayne VanHoozer
+collection: holy-week
+order: 2
 ---
 
 ## and They Did Not Know Him

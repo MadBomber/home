@@ -4,6 +4,8 @@ title: The Shifting Date of Easter
 description: Why the date of Easter changes each year — the astronomy, history, and theology behind a moveable feast.
 date: 2026-03-29
 author: Dewayne VanHoozer
+collection: holy-week
+order: 1
 ---
 
 Easter's wandering date begins not with the early church's calendar debates but with creation itself. On the fourth day, God assigned the lights in the heavens a specific purpose:

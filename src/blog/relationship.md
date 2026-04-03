@@ -4,6 +4,8 @@ title: Relationship
 description: The whole of Scripture is the account of God working to restore man's broken relationship with Him. In the garden, Adam and Eve's lack of trust brought fear into the world and hung a curtain between them and God. Holy Week is where he tore it down.
 date: 2026-04-02
 author: Dewayne VanHoozer
+collection: holy-week
+order: 4
 ---
 
 ## Have No Fear

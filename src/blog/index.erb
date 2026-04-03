@@ -4,40 +4,136 @@ title: Blog
 description: Essays and articles on Scripture, theology, and the Christian life.
 ---
 
+<%
+  is_production = site.config[:environment].to_s == "production"
+
+  all_posts = site.resources
+    .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
+    .reject  { |r| r.relative_url.to_s.end_with?('/blog/') }
+    .reject  { |r| is_production && r.data[:date] && r.data[:date] > Date.today }
+
+  recent_posts = all_posts
+    .sort_by { |r| r.data[:date] || Date.new(1970) }
+    .reverse
+
+  collections_data = (site.data.blog_collections || [])
+    .sort_by { |c| c["order"] || 999 }
+
+  collection_title_for = ->(slug) {
+    found = collections_data.find { |c| c["slug"] == slug }
+    found ? found["title"] : slug
+  }
+
+  posts_for_collection = ->(slug) {
+    all_posts
+      .select  { |r| r.data[:collection].to_s == slug }
+      .sort_by { |r| r.data[:order] || 999 }
+  }
+%>
+
 <section class="blog-index">
   <div class="blog-index-hero">
     <h1>Blog</h1>
     <p>Essays and articles on Scripture, theology, and the Christian life.</p>
   </div>
 
-  <div class="blog-post-list">
-    <%
-      posts = site.resources
-        .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
-        .reject  { |r| r.relative_url.to_s.end_with?('/blog/') }
-        .sort_by { |r| r.data[:date] || Date.new(1970) }
-        .reverse
-    %>
-    <% posts.each do |post| %>
-      <a href="<%= relative_url post.relative_url %>" class="blog-post-card">
-        <div class="blog-post-card-header">
-          <h2><%= post.data[:title] %></h2>
-        </div>
-        <div class="blog-post-card-body">
-          <p class="blog-post-card-meta">
-            <% if post.data[:date] %><span class="blog-post-card-date"><%= post.data[:date].strftime("%B %-d, %Y") %></span><% end %>
-            <% if post.data[:author] %><span class="blog-post-card-author"><%= post.data[:author] %></span><% end %>
-          </p>
-          <% if post.data[:description] %>
-            <p class="blog-post-card-description"><%= post.data[:description] %></p>
-          <% end %>
-          <span class="blog-post-card-read">Read article &rarr;</span>
-        </div>
-      </a>
-    <% end %>
+  <div class="blog-tabs" role="tablist">
+    <button class="blog-tab active" data-tab="recent" role="tab" aria-selected="true">Recent</button>
+    <button class="blog-tab" data-tab="collections" role="tab" aria-selected="false">Collections</button>
+  </div>
 
-    <% if posts.empty? %>
-      <p class="blog-empty">No posts yet. Check back soon.</p>
+  <div class="blog-view active" id="blog-view-recent" role="tabpanel">
+    <div class="blog-post-list">
+      <% recent_posts.each do |post| %>
+        <a href="<%= relative_url post.relative_url %>" class="blog-post-card">
+          <div class="blog-post-card-header">
+            <h2><%= post.data[:title] %></h2>
+            <% if post.data[:collection] %>
+              <span class="blog-post-card-collection"><%= collection_title_for.call(post.data[:collection].to_s) %></span>
+            <% end %>
+          </div>
+          <div class="blog-post-card-body">
+            <p class="blog-post-card-meta">
+              <% if post.data[:date] %><span class="blog-post-card-date"><%= post.data[:date].strftime("%B %-d, %Y") %></span><% end %>
+              <% if post.data[:author] %><span class="blog-post-card-author"><%= post.data[:author] %></span><% end %>
+            </p>
+            <% if post.data[:description] %>
+              <p class="blog-post-card-description"><%= post.data[:description] %></p>
+            <% end %>
+            <span class="blog-post-card-read">Read article &rarr;</span>
+          </div>
+        </a>
+      <% end %>
+
+      <% if recent_posts.empty? %>
+        <p class="blog-empty">No posts yet. Check back soon.</p>
+      <% end %>
+    </div>
+  </div>
+
+  <div class="blog-view" id="blog-view-collections" role="tabpanel">
+    <% if collections_data.empty? %>
+      <p class="blog-empty">No collections yet.</p>
+    <% else %>
+      <% collections_data.each do |collection| %>
+        <% col_posts = posts_for_collection.call(collection["slug"]) %>
+        <% next if col_posts.empty? %>
+        <div class="blog-collection-section">
+          <div class="blog-collection-header">
+            <h2><%= collection["title"] %></h2>
+            <% if collection["description"] %>
+              <p><%= collection["description"] %></p>
+            <% end %>
+          </div>
+          <div class="blog-post-list">
+            <% col_posts.each do |post| %>
+              <a href="<%= relative_url post.relative_url %>" class="blog-post-card">
+                <div class="blog-post-card-header">
+                  <span class="blog-post-card-order">Part <%= post.data[:order] %></span>
+                  <h2><%= post.data[:title] %></h2>
+                </div>
+                <div class="blog-post-card-body">
+                  <p class="blog-post-card-meta">
+                    <% if post.data[:date] %><span class="blog-post-card-date"><%= post.data[:date].strftime("%B %-d, %Y") %></span><% end %>
+                    <% if post.data[:author] %><span class="blog-post-card-author"><%= post.data[:author] %></span><% end %>
+                  </p>
+                  <% if post.data[:description] %>
+                    <p class="blog-post-card-description"><%= post.data[:description] %></p>
+                  <% end %>
+                  <span class="blog-post-card-read">Read article &rarr;</span>
+                </div>
+              </a>
+            <% end %>
+          </div>
+        </div>
+      <% end %>
     <% end %>
   </div>
 </section>
+
+<script>
+(function () {
+  var STORAGE_KEY = 'blog-active-tab';
+  var tabs  = document.querySelectorAll('.blog-tab');
+  var views = document.querySelectorAll('.blog-view');
+
+  function setTab(name) {
+    tabs.forEach(function (t) {
+      var active = t.dataset.tab === name;
+      t.classList.toggle('active', active);
+      t.setAttribute('aria-selected', active ? 'true' : 'false');
+    });
+    views.forEach(function (v) {
+      v.classList.toggle('active', v.id === 'blog-view-' + name);
+    });
+    localStorage.setItem(STORAGE_KEY, name);
+  }
+
+  var saved = localStorage.getItem(STORAGE_KEY);
+  if (saved) { setTab(saved); }
+
+  tabs.forEach(function (tab) {
+    tab.addEventListener('click', function () { setTab(tab.dataset.tab); });
+  });
+}());
+</script>
