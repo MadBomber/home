@@ -10,7 +10,7 @@ description: Essays and articles on Scripture, theology, and the Christian life.
   all_posts = site.resources
     .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
     .reject  { |r| r.relative_url.to_s.end_with?('/blog/') }
-    .reject  { |r| is_production && r.data[:date] && r.data[:date] > Date.today }
+    .reject  { |r| is_production && r.data[:date] && r.data[:date].to_date > Date.today }
 
   recent_posts = all_posts
     .sort_by { |r| r.data[:date] || Date.new(1970) }
