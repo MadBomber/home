@@ -5,7 +5,7 @@ description: Essays and articles on Scripture, theology, and the Christian life.
 ---
 
 <%
-  is_production = site.config[:environment].to_s == "production"
+  is_production = Bridgetown.environment.to_s == "production"
 
   all_posts = site.resources
     .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
