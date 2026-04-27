@@ -14,7 +14,7 @@ Most people, even those who pray regularly, pause at that question longer than t
 
 When Jesus taught His disciples to pray in Matthew 6, He did not begin with a definition. He began with a correction. "When you pray," He said — not "here is what prayer is" or "let me explain what I mean by prayer." He assumed the definition. He moved immediately to fixing how His audience was doing it wrong.
 
-That assumption made sense. His audience were Second-Temple Jews who prayed three times daily, who had recited the Shema since childhood, who organized their days around the morning and evening sacrifice. Prayer was embedded in their culture the way breathing is embedded in living. You did not need to explain it. You needed to do it rightly.
+That assumption made sense. His audience were Second-Temple Jews who prayed three times daily, who had recited the Shema (Deuteronomy 6:4–9) since childhood, who organized their days around the morning and evening sacrifice. Prayer was embedded in their culture the way breathing is embedded in living. You did not need to explain it. You needed to do it rightly.
 
 We are not that audience.
 
@@ -140,7 +140,7 @@ Grief, trauma, exhaustion, confusion — there are moments when no words come. P
 
 The Hebrew word for "be still" — *raphah* — means to sink down, release your grip, cease striving. It is not passive emptiness. It is an active stopping of your own noise long enough to become aware of who is in the room.
 
-Elijah discovered this in a cave on Mount Sinai. After his greatest victory and his worst collapse, God came to him — not in the wind that tore the mountains, not in the earthquake, not in the fire. He came in a sound the Hebrew describes as *qol demamah daqah* — a voice of thin silence. A whisper so quiet it barely disturbed the stillness around it. The communication required Elijah to stop. Samuel knew the same posture:
+Elijah discovered this in a cave on Mount Sinai. After his greatest victory and his worst collapse, God came to him — not in the wind that tore the mountains, not in the earthquake, not in the fire. He came in a sound (1 Kings 19:12) the Hebrew describes as *qol demamah daqah* — a voice of thin silence. A whisper so quiet it barely disturbed the stillness around it. The communication required Elijah to stop. Samuel knew the same posture:
 
 > "Speak, LORD, for your servant hears."
 >
@@ -331,7 +331,7 @@ Then Jesus came.
 >
 > — Hebrews 10:4 (ESV)
 
-Every animal sacrifice from the first one in Eden to the last one offered in the temple was a gesture — pointing toward the one sacrifice that would accomplish what none of them could.
+Every animal sacrifice from the first one in Eden (Genesis 3:21) to the last one offered in the temple was a gesture — pointing toward the one sacrifice that would accomplish what none of them could.
 
 > But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God.
 >
@@ -381,7 +381,7 @@ Everything this article has traced — the garden, the fall, the long bridge of 
 
 That door is open now.
 
-There is a moment in Luke 15 that may be the most honest picture of prayer in all of Scripture. A son who has wasted everything, sitting in a foreign country among pigs, "came to himself." That phrase is worth pausing over.
+There is a moment in Luke 15:11–32 that may be the most honest picture of prayer in all of Scripture. A son who has wasted everything, sitting in a foreign country among pigs, "came to himself." That phrase is worth pausing over.
 
 Coming to himself meant three things at once. He remembered what he had thrown away — his father's house, the table, the belonging, the access. He acknowledged that he had sinned against his father and that the broken relationship was his own doing, not his father's. And he repented — not merely felt sorry, but turned away from where he was and set his face toward home, actively seeking to restore what he had broken.
 
@@ -404,6 +404,10 @@ The barrier that kept sinful humanity from a holy God has been permanently remov
 The way in is the same as it was for the prodigal: acknowledge your sin honestly before God, repent — turn away from what has kept you from Him — and ask for a personal relationship with Jesus. Not a religion. Not a set of rules. A relationship with the living God who has been watching the road, waiting for you to turn.
 
 The Father is already running.
+
+> And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him.
+>
+> — Luke 15:20 (ESV)
 
 ---
 
