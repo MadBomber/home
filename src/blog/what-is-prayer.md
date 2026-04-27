@@ -140,7 +140,7 @@ Grief, trauma, exhaustion, confusion — there are moments when no words come. P
 
 The Hebrew word for "be still" — *raphah* — means to sink down, release your grip, cease striving. It is not passive emptiness. It is an active stopping of your own noise long enough to become aware of who is in the room.
 
-Elijah discovered this in a cave on Mount Sinai. After his greatest victory and his worst collapse, God came to him — not in the wind that tore the mountains, not in the earthquake, not in the fire. He came in a sound (1 Kings 19:12) the Hebrew describes as *qol demamah daqah* — a voice of thin silence. A whisper so quiet it barely disturbed the stillness around it. The communication required Elijah to stop. Samuel knew the same posture:
+Elijah discovered this in a cave on Mount Sinai. After his greatest victory and his worst collapse, God came to him — not in the wind that tore the mountains, not in the earthquake, not in the fire. He came in a sound (1 Kings 19:9–18) the Hebrew describes as *qol demamah daqah* — a voice of thin silence. A whisper so quiet it barely disturbed the stillness around it. The communication required Elijah to stop. Samuel knew the same posture:
 
 > "Speak, LORD, for your servant hears."
 >
