@@ -2614,3 +2614,80 @@ button.toolbar-icon {
     color: #333;
   }
 }
+
+/* --- Blog Post Split Title --- */
+
+.h1-collection {
+  display: block;
+  font-size: 0.55em;
+  font-weight: 600;
+  color: var(--gold);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 0.2em;
+}
+
+.h1-essay {
+  display: block;
+}
+
+/* --- Language Term Tooltips --- */
+
+.term {
+  font-style: italic;
+  text-decoration: underline dotted var(--gold);
+  text-underline-offset: 3px;
+  cursor: help;
+  position: relative;
+}
+
+.term::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 6px 10px;
+  background: var(--purple-deep);
+  color: #fff;
+  font-size: 0.8rem;
+  font-style: normal;
+  font-family: var(--font-sans);
+  line-height: 1.4;
+  white-space: nowrap;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+  z-index: 200;
+}
+
+.term::before {
+  content: '';
+  position: absolute;
+  bottom: calc(100% + 2px);
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--purple-deep);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+  z-index: 200;
+}
+
+.term:hover::after,
+.term:hover::before,
+.term:focus::after,
+.term:focus::before {
+  opacity: 1;
+}
+
+[data-theme="dark"] .term::after {
+  background: var(--purple-mid);
+}
+
+[data-theme="dark"] .term::before {
+  border-top-color: var(--purple-mid);
+}
