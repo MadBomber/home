@@ -204,6 +204,8 @@ God's GLORY is His mass — intrinsic, self-existent, unchanging, the source of 
 
 The two senses of glory — what God eternally is, and what breaks through in those moments — are not contradictions. They are the same reality at different scales. The mass is always there. The weight is felt in proximity.
 
+One more property of the physics frame earns its place here. Gravity never turns off. It weakens with distance according to a precise mathematical law — double the distance and the force drops to one quarter — but it never reaches zero. The most distant object in the observable universe is still gravitationally connected to every other mass in existence. The pull is immeasurably small at that range. It is not absent. God's mass being infinite, His pull on every created thing operates the same way. Distance weakens the felt weight. It does not cancel the pull. The apple is always falling.
+
 And the question that follows from all of this — the one that concerns you and every other human being who has ever lived — is what any of this has to do with us.
 
 That is where we are going next.

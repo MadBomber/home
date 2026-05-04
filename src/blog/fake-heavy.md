@@ -101,7 +101,7 @@ Paul answers it:
 
 The mechanism is beholding — looking at, staying in the presence of, remaining oriented toward the source. The transformation is from doxa into doxa, from one measure of GLORY to a greater one, and it is ongoing.
 
-In the physics frame: stay near enough to the source of infinite mass, long enough, and your own mass changes. Not by your effort. Not by your performance. By proximity. The spiritual disciplines are not achievements that earn GLORY. They are gravitational positioning — deliberate choices to stay in the field.
+In the physics frame: stay near enough to the source of infinite mass, long enough, and your own weight changes. Not by your effort. Not by your performance. By proximity. The spiritual disciplines are not achievements that earn GLORY. They are gravitational positioning — deliberate choices to stop accelerating away from the source and let the pull do its work. The pull is always active. God's mass being infinite, His draw on every image-bearer never reaches zero. Distance weakens the felt weight. It does not cancel the attraction.
 
 Prayer is proximity. Not the performance of prayer for an audience but the actual practice of it — placing yourself in the presence of the one whose GLORY is infinite and staying there long enough that the weight presses in. The disciples who walked with Jesus for three years did not have to learn to glorify God from a textbook. They were near Him. The GLORY transferred.
 
