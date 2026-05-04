@@ -9,28 +9,6 @@ order: 1
 ---
 
 This is the first essay in a five-part collection titled *The Heaviest Word in the Bible*. The collection began with a simple observation: one of the most important words in Scripture has been used so carelessly for so long that it has lost all practical meaning. Recovering it requires going back further than English — back to a Hebrew word with a physical definition that will reframe everything you thought you knew about God, about sin, about the cross, and about what it means to live differently because of all three. This first essay lays the foundation by borrowing a framework from physics, because the reality the word names turns out to be something physicists have been circling for a very long time.
-
----
-
-**The Heaviest Word in the Bible — Collection Contents**
-
-[Part 1 — The God Particle](/blog/the-god-particle/)
-Physics is the study of reality, and Genesis 1 is a statement about physical reality. This essay establishes the framework for the whole collection by examining mass, gravity, and what happens when precise words drift into uselessness.
-
-[Part 2 — The Most Useless Word in the English Language](/blog/the-most-useless-word-in-the-english-language/)
-The word "glory" has been borrowed by nationalists, naturalists, athletes, and liturgists until it means whatever the context demands and nothing in particular. This essay traces the drift and names the damage.
-
-[Part 3 — The Word That Never Lost Its Weight](/blog/the-word-that-never-lost-its-weight/)
-The Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means heavy, weighty, substantial — the property of a thing that cannot be ignored or dismissed. This essay restores the word to its original mass through the Hebrew and Greek words behind "glory," showing how a precise concept survived translation across two languages. It then walks through the moments in Scripture when God's kavod broke into the visible world — and why people always fell on their faces.
-
-[Part 4 — Maximum Shame, Maximum Glory](/blog/maximum-shame-maximum-glory/)
-With <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> restored, the whole story of Scripture reads differently. The cross stands at the center: Christ took on the full, actual weight of human sin — maximum shame, not metaphor, not appearance — and what the world read as defeat the Father declared the moment of maximum kavod. This essay traces the full arc from the image of God to Revelation 21, the gospel told entirely through the lens of one word.
-
-[Part 5 — Fake Heavy](/blog/fake-heavy/)
-Knowing what <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means makes an immediate demand on how you live. This essay answers the practical question: what does it actually mean to glorify God, why you cannot manufacture it, and how it actually grows in a person.
-
----
-
 You did not expect to find physics here.
 
 You picked up an essay about the Bible and somewhere in the first few sentences you are reading about mass, gravity, and particle accelerators. The suspicion is reasonable. These things belong in different rooms. Science over there. Scripture over here. Never introduce them.
@@ -49,9 +27,9 @@ Genesis 1 is doing the same thing from a different angle.
 >
 > — Genesis 1:1 (ESV)
 
-That is not a metaphor for an inner spiritual state. It is a claim about what actually happened to actual matter and actual space. The opening verses of Scripture make physical claims: there was a beginning — not an eternal universe cycling endlessly through time, but a moment when space and matter came into existence. The earth was without form and void (Genesis 1:2) — the Hebrew is *tohu wabohu*, formless and empty, maximum disorder, no structure and no content. Then God spoke, and the first thing He made was light (Genesis 1:3) — electromagnetic radiation, massless photons, energy before matter, brightness before substance.
+That is not a metaphor for an inner spiritual state. It is a claim about what actually happened to actual matter and actual space. The opening verses of Scripture make physical claims: there was a beginning — not an eternal universe cycling endlessly through time, but a moment when space and matter came into existence. The earth was without form and void (Genesis 1:2) — the Hebrew is *tohu wabohu*, formless and empty, maximum disorder, no structure and no content. Then God spoke, and the first thing He made was light (Genesis 1:3) — brightness before substance, energy before matter. The writer of Genesis had no knowledge of particle physics. But what they named first, physics has since confirmed is genuinely foundational: light is massless, travels as both wave and particle, and can exist where matter cannot. The correspondence is not a coincidence waiting to be explained. It is an invitation to pay attention.
 
-The sequence that follows — three days of separation, three days of filling (Genesis 1:3–31) — is the account of physical reality being ordered and inhabited. Science asks how this reality behaves. Genesis asks whose idea it was and why. They are not enemies. They are two disciplines examining the same subject.
+The sequence that follows — three days of separation, three days of filling (Genesis 1:3–31) — is the account of physical reality being ordered and inhabited. Science asks how this reality behaves. Genesis asks whose idea it was and why. They are not enemies. They are two disciplines examining the same subject — one asking how it works, the other asking who made it and why.
 
 The astronomer Robert Jastrow was not a believer. He spent his career measuring the universe. In *God and the Astronomers* he described what happened when cosmology finally confronted the beginning it had resisted for decades:
 
@@ -105,7 +83,7 @@ It spread because it accidentally captured something true.
 
 An invisible field, present everywhere in the universe, giving substance to particles that would otherwise have none. Without it, nothing has weight. Nothing has *thereness*. The field is what makes matter into something rather than nothing.
 
-Secular physicists working equations on whiteboards reached the bottom of the question "where does mass come from?" and the name that came back was God. Not because they are theologians. Because the concept required it. Something invisible. Everywhere. The source of all substance.
+Secular physicists reached the bottom of the question "where does mass come from?" and what they described — an invisible field, present everywhere, the source of all substance — was something theologians had been naming for three thousand years. The popular name was an accident. The description was not.
 
 A Hebrew word has been saying exactly this for three thousand years. We will get to it shortly.
 

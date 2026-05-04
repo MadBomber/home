@@ -9,28 +9,6 @@ order: 2
 ---
 
 In the previous essay, *The God Particle*, we learned that physics is the study of reality, that mass is what makes things real, and that words drift away from the precise realities they once named — the word "gravity" being the proof. Now in Part 2 — *The Most Useless Word in the English Language* — we will see that the word "glory" has followed exactly the same path, borrowed across so many domains that it no longer points at anything in particular, leaving us with a religious vocabulary that sounds weighty and means nothing.
-
----
-
-**The Heaviest Word in the Bible — Collection Contents**
-
-[Part 1 — The God Particle](/blog/the-god-particle/)
-Physics is the study of reality, and Genesis 1 is a statement about physical reality. This essay establishes the framework for the whole collection by examining mass, gravity, and what happens when precise words drift into uselessness.
-
-[Part 2 — The Most Useless Word in the English Language](/blog/the-most-useless-word-in-the-english-language/)
-The word "glory" has been borrowed by nationalists, naturalists, athletes, and liturgists until it means whatever the context demands and nothing in particular. This essay traces the drift and names the damage.
-
-[Part 3 — The Word That Never Lost Its Weight](/blog/the-word-that-never-lost-its-weight/)
-The Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means heavy, weighty, substantial — the property of a thing that cannot be ignored or dismissed. This essay restores the word to its original mass through the Hebrew and Greek words behind "glory," showing how a precise concept survived translation across two languages. It then walks through the moments in Scripture when God's kavod broke into the visible world — and why people always fell on their faces.
-
-[Part 4 — Maximum Shame, Maximum Glory](/blog/maximum-shame-maximum-glory/)
-With <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> restored, the whole story of Scripture reads differently. The cross stands at the center: Christ took on the full, actual weight of human sin — maximum shame, not metaphor, not appearance — and what the world read as defeat the Father declared the moment of maximum kavod. This essay traces the full arc from the image of God to Revelation 21, the gospel told entirely through the lens of one word.
-
-[Part 5 — Fake Heavy](/blog/fake-heavy/)
-Knowing what <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means makes an immediate demand on how you live. This essay answers the practical question: what does it actually mean to glorify God, why you cannot manufacture it, and how it actually grows in a person.
-
----
-
 Define the word "glory" without using the word itself.
 
 Take a moment. Think about it seriously. You have heard this word your entire life. You have sung it in church, read it in Scripture, heard it at funerals and football games and Fourth of July celebrations. You know this word.

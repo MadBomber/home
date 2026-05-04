@@ -9,28 +9,6 @@ order: 4
 ---
 
 In the previous essays we learned that "glory" is the most diluted word in the English religious vocabulary, that the Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means weight and substance — the most real thing that exists — and that God's GLORY has broken through into the physical world repeatedly throughout Scripture, each time driving people to their faces. Now in Part 4 — *Maximum Shame, Maximum Glory* — we will see what happens when you read the entire story of Scripture through that single lens: from the image of God to the catastrophic fall to the cross to the resurrection body to Revelation 21, the whole gospel compressed into one word.
-
----
-
-**The Heaviest Word in the Bible — Collection Contents**
-
-[Part 1 — The God Particle](/blog/the-god-particle/)
-Physics is the study of reality, and Genesis 1 is a statement about physical reality. This essay establishes the framework for the whole collection by examining mass, gravity, and what happens when precise words drift into uselessness.
-
-[Part 2 — The Most Useless Word in the English Language](/blog/the-most-useless-word-in-the-english-language/)
-The word "glory" has been borrowed by nationalists, naturalists, athletes, and liturgists until it means whatever the context demands and nothing in particular. This essay traces the drift and names the damage.
-
-[Part 3 — The Word That Never Lost Its Weight](/blog/the-word-that-never-lost-its-weight/)
-The Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means heavy, weighty, substantial — the property of a thing that cannot be ignored or dismissed. This essay restores the word to its original mass through the Hebrew and Greek words behind "glory," showing how a precise concept survived translation across two languages. It then walks through the moments in Scripture when God's kavod broke into the visible world — and why people always fell on their faces.
-
-[Part 4 — Maximum Shame, Maximum Glory](/blog/maximum-shame-maximum-glory/)
-With <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> restored, the whole story of Scripture reads differently. The cross stands at the center: Christ took on the full, actual weight of human sin — maximum shame, not metaphor, not appearance — and what the world read as defeat the Father declared the moment of maximum kavod. This essay traces the full arc from the image of God to Revelation 21, the gospel told entirely through the lens of one word.
-
-[Part 5 — Fake Heavy](/blog/fake-heavy/)
-Knowing what <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means makes an immediate demand on how you live. This essay answers the practical question: what does it actually mean to glorify God, why you cannot manufacture it, and how it actually grows in a person.
-
----
-
 You were made for GLORY[^glory].
 
 This is not a compliment. It is a description of original design. The first chapter of Genesis establishes something about human beings that nothing else in creation shares:

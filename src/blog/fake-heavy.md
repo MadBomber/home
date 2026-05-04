@@ -9,28 +9,6 @@ order: 5
 ---
 
 In the previous essays we learned that <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> — the Hebrew word behind "glory" — means weight and substance, that humans were made to carry it, that sin severs humanity from the source of all substance and the result is vapor, that Christ voluntarily became nothing so we could become substantial again, and that the resurrection body is the final clothing of hevel in GLORY. Now in Part 5 — *Fake Heavy* — we will see what all of that demands of the life you are living right now: what it actually means to glorify God, why GLORY cannot be manufactured, and how it actually grows in a person who stops performing weight and starts acquiring it.
-
----
-
-**The Heaviest Word in the Bible — Collection Contents**
-
-[Part 1 — The God Particle](/blog/the-god-particle/)
-Physics is the study of reality, and Genesis 1 is a statement about physical reality. This essay establishes the framework for the whole collection by examining mass, gravity, and what happens when precise words drift into uselessness.
-
-[Part 2 — The Most Useless Word in the English Language](/blog/the-most-useless-word-in-the-english-language/)
-The word "glory" has been borrowed by nationalists, naturalists, athletes, and liturgists until it means whatever the context demands and nothing in particular. This essay traces the drift and names the damage.
-
-[Part 3 — The Word That Never Lost Its Weight](/blog/the-word-that-never-lost-its-weight/)
-The Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means heavy, weighty, substantial — the property of a thing that cannot be ignored or dismissed. This essay restores the word to its original mass through the Hebrew and Greek words behind "glory," showing how a precise concept survived translation across two languages. It then walks through the moments in Scripture when God's kavod broke into the visible world — and why people always fell on their faces.
-
-[Part 4 — Maximum Shame, Maximum Glory](/blog/maximum-shame-maximum-glory/)
-With <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> restored, the whole story of Scripture reads differently. The cross stands at the center: Christ took on the full, actual weight of human sin — maximum shame, not metaphor, not appearance — and what the world read as defeat the Father declared the moment of maximum kavod. This essay traces the full arc from the image of God to Revelation 21, the gospel told entirely through the lens of one word.
-
-[Part 5 — Fake Heavy](/blog/fake-heavy/)
-Knowing what <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means makes an immediate demand on how you live. This essay answers the practical question: what does it actually mean to glorify God, why you cannot manufacture it, and how it actually grows in a person.
-
----
-
 The arc is complete. Creation to new creation. GLORY[^glory] given, GLORY lost, GLORY recovered at maximum cost, GLORY being restored now, GLORY arriving in full at the end of everything. The story is told and it is true and it is finished.
 
 You are still on Tuesday.
