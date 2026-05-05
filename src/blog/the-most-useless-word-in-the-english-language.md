@@ -8,7 +8,7 @@ collection: the-heaviest-word-in-the-bible
 order: 2
 ---
 
-In the previous essay, *The God Particle*, we learned that physics is the study of reality, that mass is what makes things real, and that words drift away from the precise realities they once named — the word "gravity" being an example. Now in Part 2 — *The Most Useless Word in the English Language* — we will see that the word "glory" has followed exactly the same path, borrowed across so many domains that it no longer points at anything in particular, leaving us with a religious vocabulary that sounds weighty and means nothing.
+In the previous essay, [*The God Particle*](/blog/the-god-particle/), we learned that physics is the study of reality, that mass is what makes things real, and that words drift away from the precise realities they once named — the word "gravity" being an example. Now in Part 2 — [*The Most Useless Word in the English Language*](/blog/the-most-useless-word-in-the-english-language/) — we will see that the word "glory" has followed exactly the same path, borrowed across so many domains that it no longer points at anything in particular, leaving us with a religious vocabulary that sounds weighty and means nothing.
 Define the word "glory" without using the word itself.
 
 Take a moment. Think about it seriously. You have heard this word your entire life. You have sung it in church, read it in Scripture, heard it at funerals and football games and Fourth of July celebrations. You know this word.
@@ -80,6 +80,8 @@ This is why the English word kept failing. Every domain that borrowed it tried t
 There is a Hebrew word. It is three consonants. Its root meaning is a physical property, not a spiritual atmosphere. When you understand what it means, the word "glory" becomes the most precise and weighty word in the English language.
 
 And when you understand what it means, you will never use it lightly again.
+
+That Hebrew word is the subject of [*The Word That Never Lost Its Weight*](/blog/the-word-that-never-lost-its-weight/).
 
 ## References
 

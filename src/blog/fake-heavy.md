@@ -8,7 +8,7 @@ collection: the-heaviest-word-in-the-bible
 order: 5
 ---
 
-In the previous essays we learned that <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> — the Hebrew word behind "glory" — means weight and substance, that humans were made to carry it, that sin severs humanity from the source of all substance and the result is vapor, that Christ voluntarily became nothing so we could become substantial again, and that the resurrection body is the final clothing of hevel in GLORY. Now in Part 5 — *Fake Heavy* — we will see what all of that demands of the life you are living right now: what it actually means to glorify God, why GLORY cannot be manufactured, and how it actually grows in a person who stops performing weight and starts acquiring it.
+In the previous essays we learned that <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> — the Hebrew word behind "glory" — means weight and substance, that humans were made to carry it, that sin draws humanity away from the source of all substance and the result is vapor, that Christ veiled His infinite GLORY in human flesh — entering our finite 4D spacetime so we could become substantial again — and that the resurrection body is the final clothing of hevel in GLORY. Now in this essay we will see what all of that demands of the life you are living right now: what it actually means to glorify God, why GLORY cannot be manufactured, and how it actually grows in a person who stops performing weight and starts drawing closer to the source.
 The arc is complete. Creation to new creation. GLORY[^glory] given, GLORY lost, GLORY recovered at maximum cost, GLORY being restored now, GLORY arriving in full at the end of everything. The story is told and it is true and it is finished.
 
 You are still on Tuesday.
@@ -19,7 +19,7 @@ The theological arc of Scripture does not automatically translate into a changed
 
 The phrase "bring glory to God" has been handled so carelessly for so long that most people who use it could not explain what they mean by it. Ask them and you will hear: praise Him. Thank Him. Make Him look good. Give Him the credit. These are not wrong exactly. They are downstream of the actual meaning, and when you lead with the downstream you lose the source.
 
-The precise meaning is this: to glorify God is to accurately portray His character.
+At its root, to glorify God is to accurately portray His character.
 
 Not to perform enthusiasm about Him. Not to attach His name to your project so it sounds sanctioned. Not to use religious language in a way that signals your membership in a certain kind of community. To accurately portray who He actually is — His love, His holiness, His justice, His mercy, His power, His patience — in what you say about Him and in how you live.
 
@@ -41,7 +41,7 @@ It is about treating the heaviest word in existence as though it were hevel. Usi
 
 The prosperity gospel is the clearest contemporary example. It promises what God has not promised — that faith functions as a financial instrument, that obedience produces measurable material reward in this life. It takes the name of God and the language of Scripture and attaches them to a transaction He never agreed to. The word "glory" appears frequently in prosperity preaching. It has been drained to nothing. Vapor is being sold in His name.
 
-The moralistic reduction is subtler but equally damaging. Present God primarily as a behavior management system — He wants you to be good, goodness is the point, obedience is the mechanism — and you have stripped the GLORY from the relationship. You have reduced the heaviest reality in existence to a set of instructions. People leave that version of the faith not because they are rebellious but because they are correct: a God whose primary attribute is rule-giving has no mass. He is hevel. He cannot hold the universe together because he is not the source of anything.
+The moralistic reduction is subtler but equally damaging. Present God primarily as a behavior management system — He wants you to be good, goodness is the point, obedience is the mechanism — and you have stripped the GLORY from the relationship. You have reduced the heaviest reality in existence to a set of instructions. People leave that version of the faith not because they are rebellious but because they are correct: a God whose primary attribute is rule-giving has no mass. That depiction is hevel. It cannot hold the universe together because it is not the source of anything.
 
 To glorify God is to refuse both distortions. To speak accurately about who He is, even when accuracy is uncomfortable, even when it costs you the approval of people who prefer the distorted version.
 
@@ -65,7 +65,7 @@ The diagnostic question is simple: does it change when no one is watching?
 
 Mass is intrinsic. It does not change based on audience. You have the same mass alone in the dark as you do in a room full of people. If your apparent weight — your spiritual seriousness, your generosity, your patience — evaporates the moment the audience leaves, it was not mass. It was performance. The audience was the mechanism, not the beholder.
 
-Real GLORY is the same in the room and out of it. The person who has it does not need an audience to maintain it because it is not audience-dependent. It is intrinsic. It was given to them by proximity to the one who has infinite mass, and proximity does not require a witness.
+Real GLORY is the same in the room and out of it. The person who has it does not need an audience to maintain it because it is not audience-dependent. It was given to them by proximity to the one who has infinite mass, and proximity does not require a witness.
 
 ## How GLORY Actually Grows
 
@@ -79,9 +79,9 @@ Paul answers it:
 
 The mechanism is beholding — looking at, staying in the presence of, remaining oriented toward the source. The transformation is from doxa into doxa, from one measure of GLORY to a greater one, and it is ongoing.
 
-In the physics frame: stay near enough to the source of infinite mass, long enough, and your own weight changes. Not by your effort. Not by your performance. By proximity. The spiritual disciplines are not achievements that earn GLORY. They are gravitational positioning — deliberate choices to stop accelerating away from the source and let the pull do its work. The pull is always active. God's mass being infinite, His draw on every image-bearer never reaches zero. Distance weakens the felt weight. It does not cancel the attraction.
+In the physics frame: stay near enough to the source of infinite mass, long enough, and your own weight changes. Not by your effort. Not by your performance. By proximity. The spiritual disciplines are not achievements that earn GLORY. They are gravitational positioning — deliberate choices to reorient toward the source rather than yield to what is pulling you elsewhere. The pull is always active. God's mass being infinite, His draw on every image-bearer never reaches zero. Distance weakens the felt weight. It does not cancel the attraction.
 
-Prayer is proximity. Not the performance of prayer for an audience but the actual practice of it — placing yourself in the presence of the one whose GLORY is infinite and staying there long enough that the weight presses in. The disciples who walked with Jesus for three years did not have to learn to glorify God from a textbook. They were near Him. The GLORY transferred.
+Prayer is proximity. Not the performance of prayer for an audience but the actual practice of it — placing yourself in the presence of the one whose GLORY is infinite and staying there long enough that the weight presses in. The disciples who walked with Jesus for three years did not have to learn to glorify God from a textbook. They were near the source. The reflection was continuous.
 
 Scripture is the same. Not the accumulation of information about God but the repeated, sustained exposure to the word that has weight — the word that will stand forever when all the grass has withered. Let it press against your mind repeatedly. Let it displace the hevel that fills the space when nothing heavier is present.
 
@@ -91,11 +91,11 @@ Suffering belongs on this list, though it is the one no one volunteers for. Pete
 >
 > — 1 Peter 4:14 (ESV)
 
-The Spirit of glory — the GLORY-bearing Spirit — rests specifically on those who absorb shame for Christ's sake. The world's assessment and God's assessment run in opposite directions. The world says you have lost weight — reputation, standing, the approval of people who matter. God says the Spirit of GLORY is resting on you. Suffering oriented toward Christ is not the loss of mass. It is the acquisition of it. The cross was not an accident in the arc of GLORY. It was the mechanism.
+The Spirit of glory — the GLORY-bearing Spirit — rests specifically on those who absorb shame for Christ's sake. The world's assessment and God's assessment run in opposite directions. The world says you have lost weight — reputation, standing, the approval of people who matter. God says the Spirit of GLORY is resting on you. Suffering oriented toward Christ is not the loss of weight. It is proximity at its most costly — and proximity is the mechanism. The cross was not an accident in the arc of GLORY. It was the mechanism.
 
 What accumulated GLORY looks like in a person is not hard to identify, though it is hard to manufacture. You have been near people who carry it. You felt it before you could name it. A quality of presence that does not need to announce itself. A weight to what they say that is not dependent on volume or eloquence. A consistency between who they are when observed and who they are when not. A settledness that is not complacency — they are not unbothered by the world, they are not detached from it, but they are not destabilized by it either because they know what the heaviest thing is and they are near it.
 
-The Emmaus road in reverse (Luke 24:30–32). The disciples felt the weight before they recognized the face. The people who have spent years in proximity to GLORY carry something into rooms that arrives before any explanation of it.
+The Emmaus road (Luke 24:30–32). The disciples felt the weight before they recognized the face. The people who have spent years in proximity to GLORY carry something into rooms that arrives before any explanation of it.
 
 ## The Word Was Never the Problem
 
@@ -107,7 +107,7 @@ The problem was never God. The problem was never the reality the word points at.
 
 The word became useless. The reality it names did not.
 
-When you say "to God be the glory" from now on, mean GLORY. Mean the weight of the most real thing that exists pressing in on creation from every direction at every moment. Mean the heaviness that drove priests to their knees and seraphim to cover their faces. Mean the substance that Christ emptied himself of voluntarily and then received back at the resurrection as vindication. Mean the thing that is being transferred into you right now by proximity, degree by degree, as you stay near the source.
+When you say "to God be the glory" from now on, mean GLORY. Mean the weight of the most real thing that exists pressing in on creation from every direction at every moment. Mean the heaviness that drove priests to their knees and seraphim to cover their faces. Mean the substance that Christ veiled in human flesh and that the Father unveiled at the resurrection as vindication. Mean the thing that is being reflected in you right now by proximity, degree by degree, as you stay near the source.
 
 When you sing "glory to God" on Sunday morning, remember the shepherds filled with great fear in a dark field outside Bethlehem (Luke 2:9–10). Remember that the Shekinah had not appeared for six hundred years and then it appeared to people who were not in a Temple, not performing religious duty, not qualified by any standard the religious establishment would have recognized. It appeared to them because that is what GLORY does — it goes where it goes, it arrives when it arrives, it does not wait for the qualified and the prepared.
 
@@ -120,5 +120,3 @@ The apple is still falling. God is still heavy. The only question is whether you
 ## References
 
 - The Holy Bible, English Standard Version (ESV). Crossway, 2001.
-- Jastrow, Robert. *God and the Astronomers*. W. W. Norton, 1978.
-- Lederman, Leon, and Dick Teresi. *The God Particle: If the Universe Is the Answer, What Is the Question?* Houghton Mifflin, 1993.

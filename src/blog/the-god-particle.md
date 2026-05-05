@@ -118,6 +118,8 @@ Because it happened to another word too. A word you have used in church. A word 
 
 That word is glory.
 
+Follow that word into [*The Most Useless Word in the English Language*](/blog/the-most-useless-word-in-the-english-language/).
+
 ## References
 
 - The Holy Bible, English Standard Version (ESV). Crossway, 2001.

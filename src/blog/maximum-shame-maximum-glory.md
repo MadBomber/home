@@ -8,7 +8,7 @@ collection: the-heaviest-word-in-the-bible
 order: 4
 ---
 
-In the previous essays we learned that "glory" is the most diluted word in the English religious vocabulary, that the Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means weight and substance — the most real thing that exists — and that God's GLORY has broken through into the physical world repeatedly throughout Scripture, each time driving people to their faces. Now in Part 4 — *Maximum Shame, Maximum Glory* — we will see what happens when you read the entire story of Scripture through that single lens: from the image of God to the catastrophic fall to the cross to the resurrection body to Revelation 21, the whole gospel compressed into one word.
+In the previous essays we learned that "glory" is the most diluted word in the English religious vocabulary, that the Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means weight and substance — the most real thing that exists — and that God's GLORY has broken through into the physical world repeatedly throughout Scripture, each time driving people to their faces. Now in this essay we will see what happens when you read the entire story of Scripture through that single lens: from the image of God to the catastrophic fall to the cross to the resurrection body to Revelation 21, the whole gospel compressed into one word.
 You were made for GLORY[^glory].
 
 This is not a compliment. It is a description of original design. The first chapter of Genesis establishes something about human beings that nothing else in creation shares:
@@ -43,7 +43,7 @@ Paul names the result with the precision of a physicist:
 >
 > — Romans 3:23 (ESV)
 
-Not fall short of His standards. Not fall short of His rules. Fall short of His GLORY. Insufficient weight. Not enough mass to reach the measure of the one in whose image you were made. Sin is not primarily a legal problem requiring a pardon. It is a physics problem requiring a restoration of weight.
+Not fall short of His standards. Not fall short of His rules. Fall short of His GLORY. Insufficient weight. Not enough mass to reach the measure of the one in whose image you were made. Sin is not only a legal problem requiring a pardon. It is also a physics problem requiring a restoration of weight — and weight, as we established, is relational. It is not generated. It is acquired by proximity to the source of all mass.
 
 But mass and weight are not the same problem. Sin does not destroy mass — it severs the proximity that generates weight. God made human beings in His image, which means He gave them derived mass: real substance, not self-existent, but genuinely given. That image was damaged by the fall, not annihilated. Genesis 9:6 still treats human beings as image-bearers after the flood. James 3:9 makes the same point in the first century. The mass is still there. What sin produces is not the destruction of the image but the loss of weight — the relational, felt GLORY that exists only in proximity to the one whose mass is infinite. The person does not evaporate. The Preacher does not evaporate. His works do. His wealth, his wisdom, his achievements accumulated at distance from God — those are hevel. He is not. This is what makes the human condition grievous rather than merely sad: the mass remains, still subject to the pull of infinite GLORY, still capable of weight. It is simply far from the only thing that can make it felt.
 
@@ -85,7 +85,7 @@ Paul explains what was happening beneath the surface of it in Philippians 2. Bef
 >
 > — Philippians 2:7–8 (ESV)
 
-The word translated "emptied" means he made himself nothing — he emptied himself of GLORY by his own choice. The most glorious being in existence voluntarily became hevel for the sake of the hevel creatures who had traded their GLORY away.
+The word translated "emptied" means he made himself nothing — he emptied himself of GLORY by his own choice. The most glorious being in existence voluntarily became hevel for the sake of the image-bearers who had forfeited the reflected GLORY they were made to carry.
 
 This is why the Cross is the heaviest event in history. Not because power was displayed — it appeared as the opposite of power. But because the voluntary exchange of GLORY for hevel, followed by what the Father did next, is the event everything else was pointing toward. Paul writes that on the Cross, Christ disarmed every power that stood against us:
 
@@ -131,9 +131,11 @@ This is what Paul means when he writes:
 >
 > — 2 Corinthians 3:18 (ESV)
 
-From doxa into doxa. The process is ongoing. The mechanism is proximity — beholding, staying near the source. You do not manufacture GLORY. You acquire it by remaining in the gravitational field of the one who has infinite mass, long enough that your own mass is changed.
+From doxa into doxa. The process is ongoing. The mechanism is proximity — beholding, staying near the source. Gravity is always attractive, never repulsive. God is not pushing sinners away; sin is a competing attraction — pulling you toward something that is not the source of mass. The further that pull takes you from God, the lighter you become. Not because God has withdrawn His GLORY, but because weight is relational. It is what you feel in the presence of mass. Distance weakens the felt weight. It does not cancel the pull.
 
-This is not mysticism. It is physics. The universe holds together because Christ holds it together — not as a distant sun to orbit but as GLORY pressing in from every direction at every moment.
+Repentance does not manufacture GLORY. It changes your direction. It reorients you toward the source, and as proximity increases, the weight you carry increases with it. The physics frame names the shape of what the Spirit is doing.
+
+The universe holds together because Christ holds it together — not as a distant sun to orbit but as GLORY pressing in from every direction at every moment.
 
 > "And he is before all things, and in him all things hold together."
 >
@@ -155,7 +157,7 @@ Paul addresses this directly in 1 Corinthians 15, the great resurrection chapter
 
 He uses the doxa word for the resurrection body. Raised in glory — raised in GLORY. The body that goes into the ground has no weight that lasts. The body that comes out carries GLORY permanently.
 
-Jesus is the pattern. His resurrection body was the same body — the wounds were still there, Thomas verified them — but it was no longer subject to decay, no longer imprisoned by matter. He could eat. He could be touched. He moved through locked doors. He appeared and disappeared. The disciples on the road to Emmaus didn't recognize his face, but their hearts burned within them (Luke 24:30–32) — the weight was felt before the identity was known. More real, not less. The resurrection body does not transcend the physical. It fulfills it. Hevel clothing itself in GLORY.
+Jesus is the pattern. His resurrection body was the same body — the wounds were still there, Thomas verified them — but it was no longer subject to decay, no longer bound by the limits of our finite 4D spacetime. He could eat. He could be touched. He moved through locked doors. He appeared and disappeared. The disciples on the road to Emmaus didn't recognize his face, but their hearts burned within them (Luke 24:30–32) — the weight was felt before the identity was known. More real, not less. The resurrection body does not transcend the physical. It fulfills it. Hevel clothing itself in GLORY.
 
 Paul tells the Philippians what awaits the body:
 
@@ -199,7 +201,7 @@ This is where the word finally means exactly what it always meant, and everyone 
 
 The question is what this means for the life you are living right now, before Rev 21, on an ordinary Tuesday.
 
-That is the last thing we need to say.
+That is the subject of [*Fake Heavy*](/blog/fake-heavy/).
 
 [^glory]: *Kavod*, the Hebrew word translated "glory" throughout Scripture, means heavy, weighty, substantial — the property of a thing that cannot be ignored or dismissed. When something has kavod it presses in on you. You feel it before you understand it. You cannot look away and you cannot pretend it is not there. It is the opposite of *hevel* — breath, vapor, mist; something with no substance and no lasting presence. GLORY in all capitals carries the full weight of the Hebrew. The lowercase word *glory* names what happened to it in English: borrowed by nationalists, naturalists, athletes, and liturgists until it meant whatever the context demanded and nothing in particular.
 
