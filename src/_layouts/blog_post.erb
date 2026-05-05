@@ -24,15 +24,48 @@ layout: default
 </script>
 
 <%
-  all_posts = site.resources
-    .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
-    .reject  { |r| r.relative_url.to_s.end_with?('/blog/') }
-    .sort_by { |r| r.data[:date] || Date.new(1970) }
-    .reverse
+  # Selector shared by all post-list queries
+  blog_posts = site.resources
+    .select { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
+    .reject { |r| r.relative_url.to_s.end_with?('/blog/') }
 
-  current_index = all_posts.index { |r| r.relative_url == resource.relative_url }
-  older_post  = current_index && current_index < all_posts.length - 1 ? all_posts[current_index + 1] : nil
-  newer_post  = current_index && current_index > 0                    ? all_posts[current_index - 1] : nil
+  current_collection = data[:collection]
+
+  if current_collection
+    # ── Collection post ──────────────────────────────────────────
+    coll_posts = blog_posts
+      .select  { |r| r.data[:collection] == current_collection }
+      .sort_by { |r| r.data[:order].to_i }
+
+    idx         = coll_posts.index { |r| r.relative_url == resource.relative_url }
+    older_post  = idx && idx > 0                     ? coll_posts[idx - 1] : nil
+    newer_post  = idx && idx < coll_posts.length - 1 ? coll_posts[idx + 1] : nil
+
+    # Boundary fallbacks: find the nearest non-collection post chronologically
+    outside = blog_posts.reject { |r| r.data[:collection] == current_collection }
+
+    if older_post.nil?
+      # No previous within collection → most recent outside post (sort ascending, take last)
+      older_post = outside.sort_by { |r| r.data[:date] || Date.new(1970) }.last
+    end
+
+    if newer_post.nil? && data[:date]
+      # No next within collection → oldest outside post whose date >= this post's date
+      newer_post = outside
+        .select  { |r| (r.data[:date] || Date.new(1970)) >= data[:date] }
+        .sort_by { |r| r.data[:date] || Date.new(1970) }
+        .first
+    end
+  else
+    # ── Standalone post ───────────────────────────────────────────
+    all_posts = blog_posts
+      .sort_by { |r| r.data[:date] || Date.new(1970) }
+      .reverse
+
+    current_index = all_posts.index { |r| r.relative_url == resource.relative_url }
+    older_post  = current_index && current_index < all_posts.length - 1 ? all_posts[current_index + 1] : nil
+    newer_post  = current_index && current_index > 0                    ? all_posts[current_index - 1] : nil
+  end
 %>
 
 <article class="blog-post">
