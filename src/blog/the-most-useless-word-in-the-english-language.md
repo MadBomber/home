@@ -79,7 +79,7 @@ This is why the English word kept failing. Every domain that borrowed it tried t
 
 There is a Hebrew word. It is three consonants. Its root meaning is a physical property, not a spiritual atmosphere. When you understand what it means, the word "glory" becomes the most precise and weighty word in the English language.
 
-And when you understand what it means, you will never use it carelessly again.
+And when you understand what it means, you will never use it lightly again.
 
 ## References
 
