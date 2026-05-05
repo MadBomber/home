@@ -1,18 +1,22 @@
 ---
 layout: blog_post
 title: "The Heaviest Word in the Bible — Introduction"
-description: One of the most important words in Scripture has been used so carelessly for so long that it has lost all practical meaning. This introduction to the five-part collection explains what the series sets out to recover and why it matters.
+description: One of the most important words in Scripture has been used so lightly for so long that it has lost its original weight. This introduction to the five-part collection explains what the series sets out to recover and why it matters.
 date: 2026-05-07
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 0
 ---
 
-This collection began with a simple observation: one of the most important words in Scripture has been used so carelessly for so long that it has lost all practical meaning. It appears more than four hundred times in the Bible. It is sung in every hymnal, spoken in every sermon, printed on every church bulletin. And if you stop someone on the way out of a Sunday morning service and ask them to define it without using the word itself, they will almost certainly fail.
+This collection began with an observation: one of the most important words in Scripture has been used so lightly for so long that it has lost its original weight. It appears hundreds of times in the Bible. It is sung in every hymnal, spoken in every sermon, printed on every church bulletin. And if you stop someone on the way out of a Sunday morning service and ask them to define it without using the word itself, they will almost certainly fail.
 
 The word is *glory*.
 
-Recovering it requires going back further than English — back to a Hebrew word with a physical definition that will reframe everything you thought you knew about God, about sin, about the cross, and about what it means to live differently because of all three. The five essays that follow take that journey in order.
+Recovering it requires going back further than English — back to a Hebrew word with a physical definition that will reframe everything you thought you knew about God, about sin, about the cross, and about what it means to live differently because of all three.
+
+The framework that carries the collection is drawn from physics — in some places as genuine parallel, where science and Scripture turn out to be describing the same underlying reality from different angles; in others as analogy, where the precision of physics illuminates what is already there in the Hebrew. Mass, weight, gravity, and the field that gives particles their substance turn out to name the same reality the Hebrew writers were pointing at — or something very close to it.
+
+The five essays that follow take that journey in order.
 
 ---
 
@@ -25,10 +29,12 @@ Physics is the study of reality, and Genesis 1 is a statement about physical rea
 The word "glory" has been borrowed by nationalists, naturalists, athletes, and liturgists until it means whatever the context demands and nothing in particular. This essay traces the drift and names the damage.
 
 [Part 3 — The Word That Never Lost Its Weight](/blog/the-word-that-never-lost-its-weight/)
-The Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means heavy, weighty, substantial — the property of a thing that cannot be ignored or dismissed. This essay restores the word to its original mass through the Hebrew and Greek words behind "glory," showing how a precise concept survived translation across two languages. It then walks through the moments in Scripture when God's kavod broke into the visible world — and why people always fell on their faces.
+The Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means heavy, weighty, substantial — the property of a thing that cannot be ignored or dismissed. This essay restores the word to its original mass through the Hebrew and Greek words behind "glory," showing how the Greek word chosen by the translators was a better fit than it first appears — and where the drift began when it lost its connection to the Hebrew source. It then walks through the moments in Scripture when God's kavod broke into the visible world — and why people always fell on their faces.
 
 [Part 4 — Maximum Shame, Maximum Glory](/blog/maximum-shame-maximum-glory/)
 With <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> restored, the whole story of Scripture reads differently. The cross stands at the center: Christ took on the full, actual weight of human sin — maximum shame, not metaphor, not appearance — and what the world read as defeat the Father declared the moment of maximum kavod. This essay traces the full arc from the image of God to Revelation 21, the gospel told entirely through the lens of one word.
 
 [Part 5 — Fake Heavy](/blog/fake-heavy/)
-Knowing what <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means makes an immediate demand on how you live. This essay answers the practical question: what does it actually mean to glorify God, why you cannot manufacture it, and how it actually grows in a person.
+Knowing what <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means makes an immediate demand on how you live. This essay answers the practical question: what does it actually mean to glorify God, why you cannot manufacture it, and how reflected GLORY actually grows in a person — through proximity, reorientation, and the disciplines that keep you near the source.
+
+The journey begins with [*The God Particle*](/blog/the-god-particle/).
