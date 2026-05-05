@@ -8,7 +8,7 @@ collection: the-heaviest-word-in-the-bible
 order: 2
 ---
 
-In the previous essay, *The God Particle*, we learned that physics is the study of reality, that mass is what makes things real, and that words drift away from the precise realities they once named — the word "gravity" being the proof. Now in Part 2 — *The Most Useless Word in the English Language* — we will see that the word "glory" has followed exactly the same path, borrowed across so many domains that it no longer points at anything in particular, leaving us with a religious vocabulary that sounds weighty and means nothing.
+In the previous essay, *The God Particle*, we learned that physics is the study of reality, that mass is what makes things real, and that words drift away from the precise realities they once named — the word "gravity" being an example. Now in Part 2 — *The Most Useless Word in the English Language* — we will see that the word "glory" has followed exactly the same path, borrowed across so many domains that it no longer points at anything in particular, leaving us with a religious vocabulary that sounds weighty and means nothing.
 Define the word "glory" without using the word itself.
 
 Take a moment. Think about it seriously. You have heard this word your entire life. You have sung it in church, read it in Scripture, heard it at funerals and football games and Fourth of July celebrations. You know this word.
@@ -60,6 +60,22 @@ The apple still falls at 9.8 meters per second squared. The phenomenon that the 
 The problem is not God. The problem is not Scripture. The problem is that we are trying to talk about one of the most precise and weighty concepts in the Bible using a word that has been diluted to the point of uselessness.
 
 The remedy is not to abandon the word. It is to go back further than English. Back further than the Latin *gloria*, which had already drifted toward fame and reputation before the translators reached for it. Back to the word the writers of Scripture actually used. Back to a language that never let this word drift, because the people who used it were too close to the reality it named to allow it to become casual.
+
+Notice what every example in this essay shares. Old Glory, the glory of Rome, the glory of a sunset, the glory days of athletic triumph — each one names something you can see, measure, or remember. Each one describes an attribute that exists entirely within our finite 4D spacetime — three dimensions of space, one of time. The word keeps attaching to visible, bounded, temporal things because those are the only things our frame can hold.
+
+God's GLORY does not originate in this frame. Scripture says this plainly.
+
+> "For my thoughts are not your thoughts, neither are your ways my ways, declares the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts."
+>
+> — Isaiah 55:8–9 (ESV)
+
+> "What no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him."
+>
+> — 1 Corinthians 2:9 (ESV)
+
+Every moment in Scripture when God's GLORY became perceptible — the burning bush (Exodus 3:2–6), the cloud over Sinai (Exodus 24:15–17), the smoke filling Isaiah's temple (Isaiah 6:4), the fire above Ezekiel's river (Ezekiel 1:4–28) — was God's sovereign choice of how to cast a shadow of His infinite GLORY into our finite 4D spacetime. What the witnesses encountered was not the thing itself. It was what finite 4D spacetime can receive of something that has no dimensional limit. Moses asked to see God's GLORY. God told him no man could see His face and live. What Moses received instead was the aftermath — the impression left as the full weight passed by (Exodus 33:18–23). The frame cannot hold the source.
+
+This is why the English word kept failing. Every domain that borrowed it tried to locate the referent inside our finite 4D spacetime. The referent is not there. It has never been there. The word was always pointing at something outside its own geometry.
 
 There is a Hebrew word. It is three consonants. Its root meaning is a physical property, not a spiritual atmosphere. When you understand what it means, the word "glory" becomes the most precise and weighty word in the English language.
 

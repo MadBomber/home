@@ -8,7 +8,8 @@ collection: the-heaviest-word-in-the-bible
 order: 3
 ---
 
-In the previous essays, *The God Particle* and *The Most Useless Word in the English Language*, we learned that words drift away from the precise realities they name — gravity did it, and glory did it so thoroughly that even its most devoted users cannot define it. Now in Part 3 — *The Word That Never Lost Its Weight* — we will see what "glory" actually means by going back past Latin and Greek to the Hebrew word the writers of Scripture used, a word with a physical definition that has never drifted, never softened, and never lost its mass.
+The Hebrew word that names God's GLORY was forged by people who had seen what it leaves behind when it intersects with the world. They did not theorize about what lay outside our finite 4D spacetime. They had the burning residue of an encounter. The word they used was not borrowed from a domain that had already misunderstood it. It was coined for the thing itself.
+
 The English word "glory" came from the Old French *glorie*, which came from the Latin *gloria*, which already meant fame, renown, and public honor before the first Bible translator reached for it. The drift did not begin with English. It was inherited.
 
 To find the original, go past Latin entirely.
@@ -27,7 +28,7 @@ The opposite of kavod is <em class="term" data-tooltip="a wisp, vapor, breath; s
 >
 > — Ecclesiastes 1:2 (ESV)
 
-The Preacher is not making a moral judgment about pride. He is making a physics observation about mass. He built wealth and it dissipated. He accumulated wisdom and it died with him. He pursued pleasure and it left nothing in his hands. All of it hevel. All of it weightless.
+The Preacher is not making a moral judgment about pride. He is making a physics observation about mass. He built wealth and it dissipated. He accumulated wisdom and it died with him. He pursued pleasure and it left nothing in his hands (Ecclesiastes 2:1–11). All of it hevel. All of it weightless.
 
 Kavod is what hevel is not. Substance where vapor dissolves. Presence that does not dissipate. The most real thing that exists.
 
@@ -49,7 +50,7 @@ They did not pick a perfect match. They picked the closest available vessel and 
 
 Two ideas now run through the word wherever it appears.
 
-The first is substance — GLORY — what God intrinsically is. His weight, His reality, His mass. This exists independent of any audience. Before creation, before anything else existed, God had GLORY. It required nothing outside of Himself to be true. It did not need the seraphim to observe it. It did not need Moses to stand before it. It did not need a single human being to believe in it.
+The first is substance — GLORY — what God intrinsically is. His weight, His reality, His mass. This exists independent of any audience. Before creation, before anything else existed, God had GLORY. It required nothing outside of Himself to be true. It did not need the seraphim to observe it (Isaiah 6:2–3). It did not need Moses to stand before it. It did not need a single human being to believe in it.
 
 This is where the physics parallel from Part 1 locks in with precision. Mass is intrinsic. It does not change based on location or audience or acknowledgment. You have the same mass in a room full of people and alone in the dark. God's GLORY is like this — except that His mass is underived, self-existent, the source of all other weight. Every other heavy thing in the universe — every star, every mountain, every person of substance — has mass by derivation. His mass is the origin.
 
@@ -115,7 +116,7 @@ When the Tabernacle was completed and the Shekinah cloud descended to fill it, M
 
 Not would not. Could not. The weight of the presence was too great. The same thing happened when Solomon dedicated the Temple — the priests could not stand to minister because the GLORY filled the house (1 Kings 8:10–11).
 
-Isaiah saw the throne room. The seraphim — creatures of pure flame who exist in the unmediated presence of God — covered their faces with two of their six wings. Not their eyes only. Their faces. And they called to each other:
+Isaiah saw the throne room. The seraphim[^seraphim] — who dwell in the immediate presence of God — covered their faces with two of their six wings. Not their eyes only. Their faces. And they called to each other:
 
 > "Holy, holy, holy is the LORD of hosts;
 > the whole earth is full of his glory."
@@ -187,6 +188,8 @@ One more property of the physics frame earns its place here. Gravity never turns
 And the question that follows from all of this — the one that concerns you and every other human being who has ever lived — is what any of this has to do with us.
 
 That is where we are going next.
+
+[^seraphim]: The word *seraphim* (שְׂרָפִים) comes from the Hebrew root *saraph* (שָׂרַף), meaning to burn. They are, literally, burning ones. Isaiah 6 does not describe them as flame — their six wings, their voices, and their words are what the text records. But the name itself suggests a fiery nature. That they cover their faces even while standing above the throne of God suggests they too cannot bear the full weight of what they stand before. The seraphim may be creatures of pure flame. Scripture does not say so directly.
 
 [^glory]: *Kavod*, the Hebrew word translated "glory" throughout Scripture, means heavy, weighty, substantial — the property of a thing that cannot be ignored or dismissed. When something has kavod it presses in on you. You feel it before you understand it. You cannot look away and you cannot pretend it is not there. It is the opposite of *hevel* — breath, vapor, mist; something with no substance and no lasting presence. GLORY in all capitals carries the full weight of the Hebrew. The lowercase word *glory* names what happened to it in English: borrowed by nationalists, naturalists, athletes, and liturgists until it meant whatever the context demanded and nothing in particular.
 

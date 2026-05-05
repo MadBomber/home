@@ -8,12 +8,11 @@ collection: the-heaviest-word-in-the-bible
 order: 1
 ---
 
-This is the first essay in a five-part collection titled *The Heaviest Word in the Bible*. The collection began with a simple observation: one of the most important words in Scripture has been used so carelessly for so long that it has lost all practical meaning. Recovering it requires going back further than English — back to a Hebrew word with a physical definition that will reframe everything you thought you knew about God, about sin, about the cross, and about what it means to live differently because of all three. This first essay lays the foundation by borrowing a framework from physics, because the reality the word names turns out to be something physicists have been circling for a very long time.
 You did not expect to find physics here.
 
-You picked up an essay about the Bible and somewhere in the first few sentences you are reading about mass, gravity, and particle accelerators. The suspicion is reasonable. These things belong in different rooms. Science over there. Scripture over here. Never introduce them.
+You picked up an essay about the Bible and now you are reading about mass, gravity, and particle accelerators. The suspicion is reasonable. These things belong in different rooms. Science over there. Scripture over here. Never introduce them.
 
-That assumption is worth examining before we go further.
+That assumption is the first thing this essay will examine. Solomon wrote that "it is the glory of God to conceal things, but the glory of kings is to search things out" (Proverbs 25:2). The investigation is not a trespass. It is a vocation.
 
 ## It's Greek to Me
 
