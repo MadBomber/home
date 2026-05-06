@@ -10,6 +10,7 @@
 # edit `src/_data/site_metadata.yml`.
 
 Bridgetown.configure do |config|
+
   # The base hostname & protocol for your site, e.g. https://example.com
   url "https://lamplight.guide"
 

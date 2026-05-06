@@ -18,6 +18,7 @@
 <% if !data.author.to_s.empty? %><meta name="author" content="<%= data.author %>" /><% end %>
 <link rel="canonical" href="<%= canonical_url %>" />
 <link rel="sitemap" type="application/xml" href="<%= relative_url '/sitemap.xml' %>" />
+<link rel="alternate" type="application/atom+xml" title="<%= metadata.title %> Blog" href="<%= relative_url '/feed.xml' %>" />
 
 <!-- Open Graph -->
 <meta property="og:title"       content="<%= og_title %>" />
