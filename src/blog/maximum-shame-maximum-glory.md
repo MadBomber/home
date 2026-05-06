@@ -2,7 +2,7 @@
 layout: blog_post
 title: "The Heaviest Word in the Bible — Maximum Shame, Maximum Glory"
 description: With kavod restored, the whole story of Scripture reads differently. The cross stands at the center — Christ took on the full, actual weight of human sin, and what the world read as defeat the Father declared the moment of maximum kavod. This essay traces the full arc from the image of God to Revelation 21, the gospel told entirely through the lens of one word.
-date: 2026-05-08
+date: 2026-05-11
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 4

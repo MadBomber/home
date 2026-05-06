@@ -2,7 +2,7 @@
 layout: blog_post
 title: "The Heaviest Word in the Bible — Introduction"
 description: One of the most important words in Scripture has been used so lightly for so long that it has lost its original weight. This introduction to the five-part collection explains what the series sets out to recover and why it matters.
-date: 2026-05-07
+date: 2026-05-08
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 0

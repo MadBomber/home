@@ -2,7 +2,7 @@
 layout: blog_post
 title: "The Heaviest Word in the Bible — The Most Useless Word in the English Language"
 description: The word "glory" has been borrowed by nationalists, naturalists, athletes, and liturgists until it means whatever the context demands and nothing in particular. This essay traces the drift and names the damage.
-date: 2026-05-08
+date: 2026-05-09
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 2

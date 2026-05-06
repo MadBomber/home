@@ -2,7 +2,7 @@
 layout: blog_post
 title: "The Heaviest Word in the Bible — The Word That Never Lost Its Weight"
 description: The Hebrew word kavod means heavy, weighty, substantial — the property of a thing that cannot be ignored or dismissed. This essay restores the word to its original mass through the Hebrew and Greek words behind "glory," showing how a precise concept survived translation across two languages. It then walks through the moments in Scripture when God's kavod broke into the visible world — and why people always fell on their faces.
-date: 2026-05-08
+date: 2026-05-10
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 3

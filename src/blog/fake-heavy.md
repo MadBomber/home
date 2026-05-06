@@ -2,7 +2,7 @@
 layout: blog_post
 title: "The Heaviest Word in the Bible — Fake Heavy"
 description: Knowing what kavod means makes an immediate demand on how you live. This essay answers the practical question — what does it actually mean to glorify God, why you cannot manufacture it, and how it actually grows in a person.
-date: 2026-05-08
+date: 2026-05-12
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 5
