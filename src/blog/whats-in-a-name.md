@@ -59,7 +59,7 @@ With Isaac the pattern deepens. God told Abraham the name before Sarah conceived
 
 *Isaac* — he laughs. The name preserved the memory of Sarah's incredulous laughter when she overheard the promise. God encoded human doubt into the name of the child who would prove it wrong.
 
-The Angel of the Lord came to the wife of Manoah and announced a son — a Nazirite, a deliverer of Israel — before she conceived (Judges 13:3–5). When Gabriel appeared to Zechariah in the temple, the first instruction was a name.
+When Gabriel appeared to Zechariah in the temple, the first instruction was a name.
 
 > "You shall call his name John."
 >
@@ -89,27 +89,29 @@ Before Bethlehem, before Nazareth, before Gabriel's visit to Mary — He was alr
 
 The Angel of the Lord appears throughout the Old Testament in ways that distinguish Him from ordinary angels. He does not merely carry a message from God. He speaks as God, accepts worship as God, and is identified as God. These appearances are the pre-incarnate Christ moving through history before His birth.
 
-The account in Judges 13 is the sharpest. Manoah and his wife receive a visit from the Angel of the Lord announcing the birth of Samson. Manoah, wanting to honor this messenger, asks for His name.
-
-The Angel's answer stops the question cold.
-
-> "Why do you ask my name, seeing it is wonderful?"
->
-> — Judges 13:18 (ESV)
-
-The Hebrew word rendered "wonderful" is *peli* — extraordinary, beyond comprehension, too marvelous for asking. It is not a deflection. It is identification. And the word He chooses — *peli* — is the same root Isaiah will press into prophecy eight centuries later: *Pele-Yoetz*. Wonderful Counselor.
-
-The one who stood before Manoah and refused to give His name was the same one Isaiah would name. He was already, at that moment, the Wonderful Counselor. Manoah could not yet read the sign.
-
-When the offering burned and the Angel ascended in the flame, Manoah was certain they would die, telling his wife they had seen God. She was wiser: if God had meant to kill them, He would not have accepted the offering and shown them all this. She understood that the encounter was grace, not threat. But Manoah's instinct was correct about one thing. He had seen God.
-
-Centuries before, at a burning bush in the Sinai wilderness, Moses had asked the same question and received an answer — though not as different an answer as it appears.
+At a burning bush in the Sinai wilderness, Moses asked for His name.
 
 > "I AM WHO I AM."
 >
 > — Exodus 3:14 (ESV)
 
-The Hebrew, *ehyeh asher ehyeh*, resists translation: "I will be what I will be." God did not give Moses a name to file away. He gave him a declaration of existence so total that nothing outside of God can serve as its definition. The name explains nothing because nothing is large enough to explain it.
+The Hebrew, *ehyeh asher ehyeh*, resists translation. The literal force is something like "I will be what I will be" — not an evasion, but a declaration of existence so total that nothing outside of God can serve as its definition. The name explains nothing because nothing is large enough to explain it.
+
+Three centuries later, Manoah and his wife received a visit from the same Angel of the Lord, announcing the birth of Samson. Manoah, wanting to honor this messenger, asked for His name.
+
+The answer stopped the question cold.
+
+> "Why do you ask my name, seeing it is wonderful?"
+>
+> — Judges 13:18 (ESV)
+
+The Hebrew word rendered "wonderful" is *peli* — extraordinary, beyond comprehension, too marvelous for asking. It is not a deflection. It is identification. The word He chooses — *peli* — is the same root Isaiah will press into prophecy centuries later: *Pele-Yoetz*. Wonderful Counselor.
+
+The one who stood before Manoah and refused to give His name was the same one Isaiah would name. He was already, at that moment, the Wonderful Counselor. Manoah could not yet read the sign.
+
+When the offering burned and the Angel ascended in the flame, Manoah was certain they would die, telling his wife they had seen God. She was wiser: if God had meant to kill them, He would not have accepted the offering and shown them all this. She understood that the encounter was grace, not threat. But Manoah's instinct was correct about one thing. He had seen God.
+
+Both answers say the same thing: the name you are reaching for is not a name any human can hold.
 
 Jesus claimed it directly.
 
@@ -118,8 +120,6 @@ Jesus claimed it directly.
 > — John 8:58 (ESV)
 
 The religious leaders understood immediately. They picked up stones.
-
-One name withheld at Samson's birth. One name given at a burning bush. Both answers say the same thing: the name you are reaching for is not a name any human can hold.
 
 ---
 
@@ -137,9 +137,9 @@ Each title is a compound in Hebrew. Not two words set side by side — one name 
 
 *El Gibbor*. Mighty God. Not a reflection of divine power, not an agent acting on God's behalf. The name is direct: this child is the Mighty God. Isaiah does not qualify it or soften it. He writes the name and leaves it there.
 
-*Avi-Ad*. Everlasting Father. The one who holds His people with a father's care, without beginning or end. Not a fatherly figure. He will not hand you off. He will not tire. He remains.
+*Avi-Ad*. Everlasting Father. The name reaches in both directions at once — *Avi*, father, with all the weight of protection and provision that carries; *Ad*, the forever that has no end. He holds His people with a father's care and does not stop. He will not hand you off. He will not tire. He remains.
 
-*Sar Shalom*. Prince of Peace. The Hebrew *shalom* carries the weight of wholeness, completeness, everything in its right relation. He is the sovereign bringer of that wholeness — the one whose rule makes creation right again.
+*Sar Shalom*. Prince of Peace. A *Sar* is a sovereign — not a negotiator between parties but the one whose authority establishes the terms. And *shalom* is not merely the absence of conflict but wholeness, completeness, everything in its right relation. He does not broker peace. He is its source and its end.
 
 Seven hundred years before Bethlehem, Isaiah called His name four times. Every title awaited a person.
 
@@ -155,7 +155,7 @@ None of these writers coordinated their work. They wrote across centuries, from 
 
 By the time Jesus of Nazareth arrived, Scripture had already named Him from every angle — and He had not yet been born.
 
-At the name of Jesus, Paul says, every knee will bow — in heaven, on earth, and under the earth (Philippians 2:10-11). That is the universal weight of these names. What follows is the personal one.
+At the name of Jesus, Paul says, every knee will bow — in heaven, on earth, and under the earth (Philippians 2:10-11). That is the universal weight of these names. But knowing them is not the same as being known by Him.
 
 ---
 
@@ -207,7 +207,7 @@ There is one more kind of name. It does not appear in prophecy. It is not announ
 
 Every deep marriage carries a private vocabulary — names that belong to that relationship and exist nowhere else. Not the names on legal documents. Something that emerged from shared history, from a moment no one outside that room witnessed, from years of proximity that produced their own language. Outsiders hear the name and it means nothing. Between the two people it means everything. The more private the name, the deeper the bond it marks. The name is not decoration. It is the intimacy made audible.
 
-Scripture does not borrow this pattern from human experience. Human experience reflects something that was always true of God.
+Scripture does not borrow this pattern from human experience. Human experience reflects something that was always true of God. From Hosea's relentless return to a wayward bride, to Paul's teaching that human marriage is itself an image of Christ and the Church (Ephesians 5:25–32), to the final vision of Revelation where history ends at a wedding (Revelation 19:7) — Scripture has been building the same picture across every century. God and His people as husband and wife. The exchange of names in Revelation 2–3 is not borrowed language. It is the original.
 
 > "Fear not, for I have redeemed you; I have called you by name, you are mine."
 >
@@ -223,13 +223,15 @@ But He is not finished.
 
 A white stone. A new name. Known only to God and to you.
 
+In Revelation's seven letters, "the one who conquers" is not the spiritual athlete who earns approval. It is anyone who holds to His name — and holding begins the moment you call on it.
+
 This is not your baptismal name. Not the name your parents wrote on a birth certificate. Not even the name your closest friends have used all your life. It is the name God has held in reserve — the name that encodes who you are to Him, what He sees when He looks at you, what you were always meant to be. No one else receives it. No one else could understand it. It belongs to the two of you alone.
 
 In Revelation 3:12 He adds one more layer: He will write His own new name on you as well. Not just giving you a name — marking you with His. The exchange runs in both directions. You receive a name from Him. He places His name on you.
 
-That is not religion. That is the language of marriage.
+That is the language of marriage.
 
-That is the point. Scripture moves toward intimacy — God pursuing a people, calling them by name, refusing to let the names be forgotten even when everything else is lost. The names of Jesus are not a theological catalog. They are the record of a God who kept announcing Himself, kept sending messengers, kept pressing His identity into human history — so that when He finally arrived in flesh, no one paying attention could claim they did not know who He was.
+Scripture moves toward intimacy — God pursuing a people, calling them by name, refusing to let the names be forgotten even when everything else is lost. The names of Jesus are not a theological catalog. They are the record of a God who kept announcing Himself, kept sending messengers, kept pressing His identity into human history — so that when He finally arrived in flesh, no one paying attention could claim they did not know who He was.
 
 You already know His names. Wonderful Counselor. Mighty God. Everlasting Father. Prince of Peace. Immanuel. *Yeshua*.
 
