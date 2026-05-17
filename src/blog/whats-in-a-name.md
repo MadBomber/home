@@ -2,7 +2,7 @@
 layout: blog_post
 title: "What's In a Name?"
 description: Juliet called names arbitrary. Scripture calls them declarations. Every name given to Jesus reveals who He is — and God has kept one more name in reserve. Yours.
-date: 2026-05-17
+date: 2026-05-20
 author: Dewayne VanHoozer
 ---
 
