@@ -17,9 +17,11 @@ She was wrong.
 
 Not about Romeo. About names.
 
-In Scripture, a name is never a label. It is a declaration. It announces what something is, what it will do, and who it belongs to. When God names something, He is not choosing from a list — He is speaking identity into existence. When He sends a messenger to name a child before birth, He is issuing a commission. When He withholds His own name, He is not being evasive — He is protecting the questioner from the oldest human delusion: that knowing a name gives you power over the one named.
+In Scripture, a name is never a label. It is a declaration. It announces what something is, what it will do, and who it belongs to. When God names something, He is not choosing from a list — He is speaking identity into existence. When He sends a messenger to name a child before birth, He is issuing a commission. When He withholds His own name, He is not being evasive — He is saying the name you are reaching for is not a name any human can hold.
 
-This is an essay about names. Specifically, the names given to Jesus Christ — before His birth, at His birth, scattered across centuries of Old Testament prophecy, and pressed into the last pages of Revelation. But it is also about a name you do not yet know: the one written on a white stone, known only to God and to the one who receives it. Your name. The one that belongs only to the two of you.
+The names given to Jesus Christ run the full length of Scripture — announced before His birth, declared at His birth, scattered across centuries of prophecy, and pressed into the last pages of Revelation. Each one declares who He is.
+
+In those same last pages, Revelation stops naming Him and starts naming you. A white stone. A new name, known only to God and to the one who receives it. Your name. The one that belongs only to the two of you.
 
 Juliet was wrong. The name is not incidental. The name is everything.
 
@@ -27,11 +29,11 @@ Juliet was wrong. The name is not incidental. The name is everything.
 
 ## The Weight of a Name
 
-In the ancient Jewish world, a name was not chosen for how it sounded. It was chosen for what it meant. Names were descriptive — of the circumstances of a birth, of a parent's prayer, of a destiny only God could see at the time.
+In the ancient Jewish world, a name was not chosen for how it sounded. It was chosen for what it meant. Names described the circumstances of a birth, a parent's prayer, a destiny only God could see at the time.
 
 Most people carried a single name and a patronymic: Simon son of Jonah, Mary of Magdala, Jesus of Nazareth. There were no surnames in the modern sense. Identity was relational — you were known by your father, your town, your tribe. Your name told people where you came from and who you belonged to.
 
-Names could change. When God changed a name, it was not a rebrand. It was a reconfiguration of identity. Abram — "exalted father" — became Abraham, "father of many nations," before he had a single legitimate son (Genesis 17:5). The name arrived ahead of the reality and pulled it into being. Simon the fisherman became Peter, "the rock," at the moment Jesus looked at him and saw something no one else had seen yet (John 1:42). Jacob, "the supplanter," wrestled with God through the night and came away limping, renamed Israel — "he who strives with God" (Genesis 32:28). The new name was the record of the encounter.
+Names could change. When God changed a name, it was not a rebrand. It remade identity. Abram — "exalted father" — became Abraham, "father of many nations," before Sarah bore the promised son (Genesis 17:5). The name arrived ahead of the reality and pulled it into being. Simon the fisherman became Peter, "the rock," at the moment Jesus looked at him and saw something no one else had seen yet (John 1:42). Jacob, "the supplanter," wrestled with God through the night and came away limping, renamed Israel — "he who strives with God" (Genesis 32:28). The new name was the record of the encounter.
 
 Christ is not a surname. It is the Greek translation of the Hebrew *Mashiach* — Messiah, the Anointed One. It is a title of office, loaded with centuries of expectation. When the first disciples called Jesus "the Christ," they were not completing His name. They were making a declaration about who He was.
 
@@ -41,11 +43,29 @@ Christ is not a surname. It is the Greek translation of the Hebrew *Mashiach* �
 
 God has a habit of naming His agents before they arrive.
 
-The pattern appears early. When Hagar fled into the wilderness, pregnant and alone, the Angel of the Lord found her by a spring and spoke: "You shall call his name Ishmael, for the Lord has listened to your affliction" (Genesis 16:11). *Ishmael* — God hears. The name was not a suggestion. It was a statement of fact delivered before the child drew breath.
+The pattern appears early. When Hagar fled into the wilderness, pregnant and alone, the Angel of the Lord found her by a spring and spoke.
 
-With Isaac the pattern deepens. God told Abraham the name before Sarah conceived: "You shall call his name Isaac" (Genesis 17:19). *Isaac* — he laughs. The name preserved the memory of Sarah's incredulous laughter when she overheard the promise. God encoded human doubt into the name of the child who would prove it wrong.
+> "You shall call his name Ishmael, because the LORD has listened to your affliction."
+>
+> — Genesis 16:11 (ESV)
 
-The Angel of the Lord came to the wife of Manoah and announced a son — a Nazirite, a deliverer of Israel — before she conceived (Judges 13:3–5). When Gabriel appeared to Zechariah in the temple, the first instruction was a name: "You shall call his name John" (Luke 1:13). The family objected at circumcision. John had no relatives by that name. Zechariah asked for a writing tablet, wrote the name God had given, and his locked voice returned immediately (Luke 1:63).
+*Ishmael* — God hears. The name was not a suggestion. It was a statement of fact delivered before the child drew breath.
+
+With Isaac the pattern deepens. God told Abraham the name before Sarah conceived.
+
+> "You shall call his name Isaac."
+>
+> — Genesis 17:19 (ESV)
+
+*Isaac* — he laughs. The name preserved the memory of Sarah's incredulous laughter when she overheard the promise. God encoded human doubt into the name of the child who would prove it wrong.
+
+The Angel of the Lord came to the wife of Manoah and announced a son — a Nazirite, a deliverer of Israel — before she conceived (Judges 13:3–5). When Gabriel appeared to Zechariah in the temple, the first instruction was a name.
+
+> "You shall call his name John."
+>
+> — Luke 1:13 (ESV)
+
+The family objected at circumcision. John had no relatives by that name. Zechariah asked for a writing tablet, wrote the name God had given, and his locked voice returned immediately (Luke 1:63).
 
 Then Gabriel came to Mary.
 
@@ -77,11 +97,29 @@ The Angel's answer stops the question cold.
 >
 > — Judges 13:18 (ESV)
 
-The Hebrew word rendered "wonderful" is *peli* — extraordinary, beyond comprehension, too marvelous for asking. It is not a deflection. It is identification. The Angel is saying: the name you are reaching for is not a name you can hold. And the word He chooses — *peli* — is the same root Isaiah will press into prophecy eight centuries later: *Pele-Yoetz*. Wonderful Counselor.
+The Hebrew word rendered "wonderful" is *peli* — extraordinary, beyond comprehension, too marvelous for asking. It is not a deflection. It is identification. And the word He chooses — *peli* — is the same root Isaiah will press into prophecy eight centuries later: *Pele-Yoetz*. Wonderful Counselor.
 
 The one who stood before Manoah and refused to give His name was the same one Isaiah would name. He was already, at that moment, the Wonderful Counselor. Manoah could not yet read the sign.
 
-When the offering burned and the Angel ascended in the flame, Manoah was certain they would die. "We have seen God," he told his wife. She was wiser: if God had meant to kill them, He would not have accepted the offering and shown them all this. She understood that the encounter was grace, not threat. But Manoah's instinct was correct about one thing. He had seen God.
+When the offering burned and the Angel ascended in the flame, Manoah was certain they would die, telling his wife they had seen God. She was wiser: if God had meant to kill them, He would not have accepted the offering and shown them all this. She understood that the encounter was grace, not threat. But Manoah's instinct was correct about one thing. He had seen God.
+
+Centuries before, at a burning bush in the Sinai wilderness, Moses had asked the same question and received an answer — though not as different an answer as it appears.
+
+> "I AM WHO I AM."
+>
+> — Exodus 3:14 (ESV)
+
+The Hebrew, *ehyeh asher ehyeh*, resists translation: "I will be what I will be." God did not give Moses a name to file away. He gave him a declaration of existence so total that nothing outside of God can serve as its definition. The name explains nothing because nothing is large enough to explain it.
+
+Jesus claimed it directly.
+
+> "Before Abraham was, I am."
+>
+> — John 8:58 (ESV)
+
+The religious leaders understood immediately. They picked up stones.
+
+One name withheld at Samson's birth. One name given at a burning bush. Both answers say the same thing: the name you are reaching for is not a name any human can hold.
 
 ---
 
@@ -99,7 +137,7 @@ Each title is a compound in Hebrew. Not two words set side by side — one name 
 
 *El Gibbor*. Mighty God. Not a reflection of divine power, not an agent acting on God's behalf. The name is direct: this child is the Mighty God. Isaiah does not qualify it or soften it. He writes the name and leaves it there.
 
-*Avi-Ad*. Everlasting Father. The one from whom eternal life originates — the source of fatherhood itself, without beginning or end. Not a fatherly figure. The father of all fathers.
+*Avi-Ad*. Everlasting Father. The one who holds His people with a father's care, without beginning or end. Not a fatherly figure. He will not hand you off. He will not tire. He remains.
 
 *Sar Shalom*. Prince of Peace. The Hebrew *shalom* carries the weight of wholeness, completeness, everything in its right relation. He is the sovereign bringer of that wholeness — the one whose rule makes creation right again.
 
@@ -115,29 +153,51 @@ Jacob on his deathbed called Him Shiloh — "to whom it belongs" — and said th
 
 None of these writers coordinated their work. They wrote across centuries, from different cities, in different circumstances, under different kings. Yet they kept circling the same person. The accumulation is not coincidence. It is testimony.
 
-By the time Jesus of Nazareth arrived, He had been named more than any figure in human history — and He had not yet been born.
+By the time Jesus of Nazareth arrived, Scripture had already named Him from every angle — and He had not yet been born.
+
+At the name of Jesus, Paul says, every knee will bow — in heaven, on earth, and under the earth (Philippians 2:10-11). That is the universal weight of these names. What follows is the personal one.
 
 ---
 
-## The Oldest Lie About Names
+## The Name You Must Call
 
-There is a reason Manoah reached for the Angel's name. It is the same reason the sons of Sceva used the name of Jesus as a tool. It is the oldest human instinct about names — that knowing one gives you leverage over the one named.
+Knowing His names is not enough. Even the demons have that much.
 
-This belief is ancient and widespread. Across cultures, across centuries, people have treated personal names as keys to a person's essence. Know the name, speak it correctly, and you hold power. Magic traditions built entire systems on this premise. The name was not a label. It was a handle.
+When Jesus encountered evil spirits, they named Him accurately.
 
-The seven sons of Sceva in Ephesus understood the name of Jesus to be exactly this kind of handle. They watched Paul cast out demons in that name, so they tried it themselves — invoking the name as a formula, without faith, without submission, without any genuine relationship to the one named.
-
-> "I adjure you by the Jesus whom Paul proclaims."
+> "I know who you are — the Holy One of God."
 >
-> — Acts 19:13 (ESV)
+> — Mark 1:24 (ESV)
 
-The demon's answer was immediate. "Jesus I know, and Paul I recognize — but who are you?" The man with the evil spirit attacked all seven of them and drove them out naked and wounded.
+James is blunt about what that knowledge produces: the demons believe, and shudder (James 2:19). And Jesus says to those who invoked His name in ministry — who prophesied in it, cast out demons in it, did mighty works in it:
 
-The name of Jesus is not a formula. It carries the authority of the person — and the person does not submit to the one who speaks His name. He remains sovereign over it.
+> "I never knew you; depart from me."
+>
+> — Matthew 7:23 (ESV)
 
-God knows this better than anyone. When Manoah asked for the Angel's name, the refusal was not self-protection. God does not need protecting from human curiosity. The refusal was correction — redirecting Manoah from the ancient delusion toward the only appropriate response to the divine presence. Manoah fell on his face. That was the right move. Not possession of the name, but prostration before the one named.
+The judgment does not fall on those who failed to learn His name. It falls on those whose names He did not know.
 
-Knowing His names does not put God under your authority. It puts you under His.
+Relationship begins with a name — specifically, with calling on His.
+
+> "Everyone who calls on the name of the Lord will be saved."
+>
+> — Romans 10:13 (ESV)
+
+There is no other name by which it can be done.
+
+> "There is salvation in no one else, for there is no other name under heaven given among men by which we must be saved."
+>
+> — Acts 4:12 (ESV)
+
+To call on His name is not to invoke a formula. It is to turn toward a person — to confess that Jesus is Lord, that He died and rose again, and that you belong to Him. That turn is the beginning of being known. It is the moment He writes your name down.
+
+What follows is not a doctrine. It is a home.
+
+> "In my Father's house are many rooms. If it were not so, would I have told you that I go to prepare a place for you? And if I go and prepare a place for you, I will come again and will take you to myself, that where I am you may be also."
+>
+> — John 14:2–3 (ESV)
+
+He did not say He would send for you. He said He would come Himself — to take you to where He is. That is the language of someone who knows your name and does not want to be without you.
 
 ---
 
@@ -145,11 +205,9 @@ Knowing His names does not put God under your authority. It puts you under His.
 
 There is one more kind of name. It does not appear in prophecy. It is not announced by an angel. It belongs to a different register entirely.
 
-Every deep marriage carries a private vocabulary — names that grew in the particular soil of that relationship and exist nowhere else. Not the names on legal documents. Something that emerged from shared history, from a moment no one outside that room witnessed, from years of proximity that produced their own language. Outsiders hear the name and it means nothing. Between the two people it means everything. The more private the name, the deeper the bond it marks. The name is not decoration. It is the intimacy made audible.
+Every deep marriage carries a private vocabulary — names that belong to that relationship and exist nowhere else. Not the names on legal documents. Something that emerged from shared history, from a moment no one outside that room witnessed, from years of proximity that produced their own language. Outsiders hear the name and it means nothing. Between the two people it means everything. The more private the name, the deeper the bond it marks. The name is not decoration. It is the intimacy made audible.
 
 Scripture does not borrow this pattern from human experience. Human experience reflects something that was always true of God.
-
----
 
 > "Fear not, for I have redeemed you; I have called you by name, you are mine."
 >
@@ -171,13 +229,13 @@ In Revelation 3:12 He adds one more layer: He will write His own new name on you
 
 That is not religion. That is the language of marriage.
 
-And that is precisely the point. The whole arc of Scripture moves toward intimacy — God pursuing a people, calling them by name, refusing to let the names be forgotten even when everything else is lost. The names of Jesus are not a theological catalog. They are the record of a God who kept announcing Himself, kept sending messengers, kept pressing His identity into human history — so that when He finally arrived in flesh, no one paying attention could claim they did not know who He was.
+That is the point. Scripture moves toward intimacy — God pursuing a people, calling them by name, refusing to let the names be forgotten even when everything else is lost. The names of Jesus are not a theological catalog. They are the record of a God who kept announcing Himself, kept sending messengers, kept pressing His identity into human history — so that when He finally arrived in flesh, no one paying attention could claim they did not know who He was.
 
 You already know His names. Wonderful Counselor. Mighty God. Everlasting Father. Prince of Peace. Immanuel. *Yeshua*.
 
 He knows yours.
 
-And one day He will say it — the name no one else knows — and you will recognize it immediately. Because it will be the most true thing anyone has ever called you.
+And one day He will say it — the name no one else knows — and you will recognize it immediately. Because it will be the truest thing anyone has ever called you.
 
 Juliet thought names were the least of it. She thought love could survive the stripping away of a name, that what mattered lay underneath the label. She was half right. What matters is underneath. But the name is how you get there. The name is the door.
 
