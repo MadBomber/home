@@ -19,7 +19,7 @@ source "https://rubygems.org"
 git_source(:github) { "https://github.com/#{_1}.git" }
 git_source(:codeberg) { "https://codeberg.org/#{_1}.git" }
 
-gem "bridgetown", "~> 2.1.1"
+gem "bridgetown", "~> 2.2"
 
 # Puma is the Rack-compatible web server used by Bridgetown
 gem "puma", "< 8"

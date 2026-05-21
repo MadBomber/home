@@ -35,8 +35,6 @@ Most people carried a single name and a patronymic: Simon son of Jonah, Mary of 
 
 Names could change. When God changed a name, it was not a rebrand. It remade identity. Abram — "exalted father" — became Abraham, "father of many nations," before Sarah bore the promised son (Genesis 17:5). The name arrived ahead of the reality and pulled it into being. Simon the fisherman became Peter, "the rock," at the moment Jesus looked at him and saw something no one else had seen yet (John 1:42). Jacob, "the supplanter," wrestled with God through the night and came away limping, renamed Israel — "he who strives with God" (Genesis 32:28). The new name was the record of the encounter.
 
-Christ is not a surname. It is the Greek translation of the Hebrew *Mashiach* — Messiah, the Anointed One. It is a title of office, loaded with centuries of expectation. When the first disciples called Jesus "the Christ," they were not completing His name. They were making a declaration about who He was.
-
 ---
 
 ## Before the Child Is Born
@@ -81,6 +79,8 @@ And to Joseph, separately, in a dream:
 
 Both parents received the same instruction independently. God left nothing to personal preference. *Yeshua* — Yahweh is salvation. The name is a mission compressed into a single word. Every time His mother called Him in from the courtyard, she was speaking a prophecy.
 
+Christ is not a surname. It is the Greek translation of the Hebrew *Mashiach* — Messiah, the Anointed One. It is a title of office, loaded with centuries of expectation. When the first disciples called Jesus "the Christ," they were not completing His name. They were making a declaration about who He was.
+
 ---
 
 ## The Name He Would Not Give
@@ -119,13 +119,15 @@ Jesus claimed it directly.
 >
 > — John 8:58 (ESV)
 
-The religious leaders understood immediately. They picked up stones.
+The religious leaders understood immediately: He had claimed the name of God. They picked up stones to kill Him for His blasphemy.
 
 ---
 
 ## The Prophet's Roll Call
 
-Isaiah 9 contains one of the most concentrated prophecies in Scripture. Written approximately seven hundred years before the birth of Jesus, it announces a child to be born and a son to be given — and then it names Him four times.
+When He stood before Manoah and called His name *peli* — too wonderful to be asked — He was not withholding it. He was speaking the first syllable of the name Isaiah would write.
+
+Seven hundred years before Bethlehem, Isaiah 9 announces a child to be born and a son to be given — and names Him four times.
 
 > "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."
 >
@@ -203,7 +205,7 @@ He did not say He would send for you. He said He would come Himself — to take 
 
 ## The Name Only Two People Know
 
-There is one more kind of name. It does not appear in prophecy. It is not announced by an angel. It belongs to a different register entirely.
+Every name so far has been shared — spoken over crowds, pressed into prophecy, announced to anyone paying attention. What comes next belongs to no one else.
 
 Every deep marriage carries a private vocabulary — names that belong to that relationship and exist nowhere else. Not the names on legal documents. Something that emerged from shared history, from a moment no one outside that room witnessed, from years of proximity that produced their own language. Outsiders hear the name and it means nothing. Between the two people it means everything. The more private the name, the deeper the bond it marks. The name is not decoration. It is the intimacy made audible.
 
@@ -215,23 +217,21 @@ Scripture does not borrow this pattern from human experience. Human experience r
 
 He does not say He knows your name. He says He called you by it — past tense, decisive, personal. You were not addressed as a category or a type. You were called. The God who spoke galaxies into existence spoke your name. That is not a metaphor for general providence. It is a claim about the specific, irreducible weight of you.
 
-But He is not finished.
+But He is not finished. In Revelation's seven letters, "the one who conquers" is not the spiritual athlete who earns approval. It is anyone who holds to His name — and holding begins the moment you call on it.
 
 > "To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it."
 >
 > — Revelation 2:17 (ESV)
 
-A white stone. A new name. Known only to God and to you.
-
-In Revelation's seven letters, "the one who conquers" is not the spiritual athlete who earns approval. It is anyone who holds to His name — and holding begins the moment you call on it.
+A white stone.[^1] A new name. Known only to God and to you.
 
 This is not your baptismal name. Not the name your parents wrote on a birth certificate. Not even the name your closest friends have used all your life. It is the name God has held in reserve — the name that encodes who you are to Him, what He sees when He looks at you, what you were always meant to be. No one else receives it. No one else could understand it. It belongs to the two of you alone.
 
-In Revelation 3:12 He adds one more layer: He will write His own new name on you as well. Not just giving you a name — marking you with His. The exchange runs in both directions. You receive a name from Him. He places His name on you.
+In Revelation 3:12 He adds one more layer: He will write His own new name on you as well. Not just giving you a name — marking you with His. The white stone is private. His name on you is the declaration that you belong to Him. The exchange runs in both directions. You receive a name from Him. He places His name on you.
 
 That is the language of marriage.
 
-Scripture moves toward intimacy — God pursuing a people, calling them by name, refusing to let the names be forgotten even when everything else is lost. The names of Jesus are not a theological catalog. They are the record of a God who kept announcing Himself, kept sending messengers, kept pressing His identity into human history — so that when He finally arrived in flesh, no one paying attention could claim they did not know who He was.
+The names of Jesus are not a theological catalog. They are the record of a God who kept announcing Himself, kept sending messengers, kept pressing His identity into human history — so that when He finally arrived in flesh, no one paying attention could claim they did not know who He was.
 
 You already know His names. Wonderful Counselor. Mighty God. Everlasting Father. Prince of Peace. Immanuel. *Yeshua*.
 
@@ -244,6 +244,8 @@ Juliet thought names were the least of it. She thought love could survive the st
 He has called you by name. You are His.
 
 ---
+
+[^1]: The contrast with John 8:59 is worth pausing on. Those religious leaders bent to the ground and picked up stones to kill Him for claiming the name of God. The stone He gives you is white — pure, unblemished — and it bears a new name rather than delivering a death sentence. Theirs was a weapon of blind judgment against the very one who had wept over their blindness (Luke 19:41–44). His is a wedding gift.
 
 ## References
 

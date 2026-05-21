@@ -8,23 +8,23 @@ GEM
     amazing_print (1.8.1)
     base64 (0.3.0)
     bigdecimal (4.1.2)
-    bridgetown (2.1.2)
-      bridgetown-builder (= 2.1.2)
-      bridgetown-core (= 2.1.2)
-      bridgetown-foundation (= 2.1.2)
-      bridgetown-paginate (= 2.1.2)
-    bridgetown-builder (2.1.2)
-      bridgetown-core (= 2.1.2)
-    bridgetown-core (2.1.2)
+    bridgetown (2.2.0)
+      bridgetown-builder (= 2.2.0)
+      bridgetown-core (= 2.2.0)
+      bridgetown-foundation (= 2.2.0)
+      bridgetown-paginate (= 2.2.0)
+    bridgetown-builder (2.2.0)
+      bridgetown-core (= 2.2.0)
+    bridgetown-core (2.2.0)
       addressable (~> 2.4)
       amazing_print (~> 1.2)
       base64 (>= 0.3)
       bigdecimal (>= 3.2)
-      bridgetown-foundation (= 2.1.2)
+      bridgetown-foundation (= 2.2.0)
       csv (~> 3.2)
       erubi (~> 1.9)
       faraday (~> 2.0)
-      faraday-follow_redirects (~> 0.3)
+      faraday-follow_redirects (~> 0.5)
       freyia (>= 0.5)
       i18n (~> 1.0)
       irb (>= 1.14)
@@ -44,15 +44,15 @@ GEM
       streamlined (>= 0.6.0)
       tilt (~> 2.0)
       zeitwerk (>= 2.7.3)
-    bridgetown-foundation (2.1.2)
+    bridgetown-foundation (2.2.0)
       dry-inflector (>= 1.0)
       hash_with_dot_access (~> 2.0)
       inclusive (~> 1.0)
       zeitwerk (~> 2.5)
-    bridgetown-paginate (2.1.2)
-      bridgetown-core (= 2.1.2)
+    bridgetown-paginate (2.2.0)
+      bridgetown-core (= 2.2.0)
     concurrent-ruby (1.3.6)
-    console (1.34.3)
+    console (1.35.1)
       fiber-annotation
       fiber-local (~> 1.1)
       json
@@ -71,7 +71,7 @@ GEM
       faraday (>= 1, < 3)
     faraday-multipart (1.2.0)
       multipart-post (~> 2.0)
-    faraday-net_http (3.4.2)
+    faraday-net_http (3.4.3)
       net-http (~> 0.5)
     faraday-retry (2.4.0)
       faraday (~> 2.0)
@@ -104,7 +104,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mapping (1.1.3)
-    marcel (1.1.0)
+    marcel (1.2.1)
     multipart-post (2.4.1)
     net-http (0.9.1)
       uri (>= 0.11.1)
@@ -146,7 +146,7 @@ GEM
       marcel (~> 1)
       ruby_llm-schema (~> 0)
       zeitwerk (~> 2)
-    ruby_llm-schema (0.3.0)
+    ruby_llm-schema (0.4.0)
     samovar (2.4.1)
       console (~> 1.0)
       mapping (~> 1.0)
@@ -163,7 +163,7 @@ GEM
     tilt (2.7.0)
     tsort (0.2.0)
     uri (1.1.1)
-    zeitwerk (2.7.5)
+    zeitwerk (2.8.1)
 
 PLATFORMS
   arm64-darwin
@@ -171,7 +171,7 @@ PLATFORMS
 
 DEPENDENCIES
   aigcm
-  bridgetown (~> 2.1.1)
+  bridgetown (~> 2.2)
   debug_me
   puma (< 8)
 
@@ -181,13 +181,13 @@ CHECKSUMS
   amazing_print (1.8.1) sha256=f53b4e1881f53f9663cb222840c7a027d0e61d46cc908366965739559c0d6d68
   base64 (0.3.0) sha256=27337aeabad6ffae05c265c450490628ef3ebd4b67be58257393227588f5a97b
   bigdecimal (4.1.2) sha256=53d217666027eab4280346fba98e7d5b66baaae1b9c3c1c0ffe89d48188a3fbd
-  bridgetown (2.1.2) sha256=ed59d10f7ccdffc4b4359864fbf36528d26baf65c77743ddfd4b90555aa50c06
-  bridgetown-builder (2.1.2) sha256=01fe585dcab5126a12f66a936b71bb58b61eab074467f0b9ff3dfb45e88f6315
-  bridgetown-core (2.1.2) sha256=4f74ba15bb806f06bcf78fa4750b5a009b78d9b7a0aef5661873df54c31ada89
-  bridgetown-foundation (2.1.2) sha256=bfa7b45986fb325ab0b3ac0bcb12687a5ce689e56a1c48bbebf326a1e892f6dc
-  bridgetown-paginate (2.1.2) sha256=70b05ab44c09fc6ba3b8433852cc5961ce4f458a3eda3ceeffca893e34bbaa76
+  bridgetown (2.2.0) sha256=87f7f7f0ee8c2d286b6fd921e5dc132036fc49cf26b9aad4d56007b981efb55b
+  bridgetown-builder (2.2.0) sha256=3d91c25107e9b76fcdfaf79731452823a06298bc4d7d345361c4b3859158aadc
+  bridgetown-core (2.2.0) sha256=799b3d4d915d78f540f7ffe7f0c38c03123c46714fc0f145017dd8ffe31e8d1b
+  bridgetown-foundation (2.2.0) sha256=bfb55ce0c13df63d73655ed7936d101b3e3756f30de44ae19d01442b77bf3f56
+  bridgetown-paginate (2.2.0) sha256=a9b18d2c187755584b607e914d3409a8483dc180edb852d10e34f8326ac4c477
   concurrent-ruby (1.3.6) sha256=6b56837e1e7e5292f9864f34b69c5a2cbc75c0cf5338f1ce9903d10fa762d5ab
-  console (1.34.3) sha256=869fbd74697efc4c606f102d2812b0b008e4e7fd738a91c591e8577140ec0dcc
+  console (1.35.1) sha256=6d2bfdd0bc7e57830540a6c0ce3bc83fff471844db44be89a38aef9f95df296a
   csv (3.3.5) sha256=6e5134ac3383ef728b7f02725d9872934f523cb40b961479f69cf3afa6c8e73f
   date (3.5.1) sha256=750d06384d7b9c15d562c76291407d89e368dda4d4fff957eb94962d325a0dc0
   debug_me (1.1.3) sha256=ae8cf61993350d9b3cbe337a7f9a0f595be5b4976c10891a4e1eacc63d09f717
@@ -198,7 +198,7 @@ CHECKSUMS
   faraday (2.14.2) sha256=73ccb9994a9e8648f010e32eca2ae82e41c57860aa10932cda29418b9e0223ad
   faraday-follow_redirects (0.5.0) sha256=5cde93c894b30943a5d2b93c2fe9284216a6b756f7af406a1e55f211d97d10ad
   faraday-multipart (1.2.0) sha256=7d89a949693714176f612323ca13746a2ded204031a6ba528adee788694ef757
-  faraday-net_http (3.4.2) sha256=f147758260d3526939bf57ecf911682f94926a3666502e24c69992765875906c
+  faraday-net_http (3.4.3) sha256=9db13becec9312f345a769eeeecf9049c9287d54c0ae053d7235228993a4eec1
   faraday-retry (2.4.0) sha256=7b79c48fb7e56526faf247b12d94a680071ff40c9fda7cf1ec1549439ad11ebe
   ffi (1.17.4-arm64-darwin) sha256=19071aaf1419251b0a46852abf960e77330a3b334d13a4ab51d58b31a937001b
   ffi (1.17.4-x86_64-linux-gnu) sha256=9d3db14c2eae074b382fa9c083fe95aec6e0a1451da249eab096c34002bc752d
@@ -218,7 +218,7 @@ CHECKSUMS
   listen (3.10.0) sha256=c6e182db62143aeccc2e1960033bebe7445309c7272061979bb098d03760c9d2
   logger (1.7.0) sha256=196edec7cc44b66cfb40f9755ce11b392f21f7967696af15d274dde7edff0203
   mapping (1.1.3) sha256=2274931d20ecd46eaafdd1e00c58cc7472133b213bcac335cc7733d3c75f4da2
-  marcel (1.1.0) sha256=fdcfcfa33cc52e93c4308d40e4090a5d4ea279e160a7f6af988260fa970e0bee
+  marcel (1.2.1) sha256=1678e9360e32f9eafa917c80029e2f6d10b2715c66a4b87b6d0da9b9cd1f859f
   multipart-post (2.4.1) sha256=9872d03a8e552020ca096adadbf5e3cb1cd1cdd6acd3c161136b8a5737cdb4a8
   net-http (0.9.1) sha256=25ba0b67c63e89df626ed8fac771d0ad24ad151a858af2cc8e6a716ca4336996
   nio4r (2.7.5) sha256=6c90168e48fb5f8e768419c93abb94ba2b892a1d0602cb06eef16d8b7df1dca1
@@ -239,7 +239,7 @@ CHECKSUMS
   roda (3.104.0) sha256=1b1e64a4634a99c737b251b6f94cba7625c01755b0db4cb62280bebe49c898f7
   rouge (4.7.0) sha256=dba5896715c0325c362e895460a6d350803dbf6427454f49a47500f3193ea739
   ruby_llm (1.15.0) sha256=ca207465bca1cca007010a79fce500d4012b1fbe188b025040cd37b884fb98af
-  ruby_llm-schema (0.3.0) sha256=a591edc5ca1b7f0304f0e2261de61ba4b3bea17be09f5cf7558153adfda3dec6
+  ruby_llm-schema (0.4.0) sha256=e930f5a5316f9301bff3fb7fe572e44727d05bb8e50621001bbb49a47d63b8da
   samovar (2.4.1) sha256=c3b91dd0580771e3bc600621c1111f29542529dcffafaac3b6bf068b3f309e80
   securerandom (0.4.1) sha256=cc5193d414a4341b6e225f0cb4446aceca8e50d5e1888743fac16987638ea0b1
   serbea (2.4.1) sha256=ac18f2ca3e1aabc0a15663b94a75fccc21b21b5a37772533cde65fe7c3941db8
@@ -249,7 +249,7 @@ CHECKSUMS
   tilt (2.7.0) sha256=0d5b9ba69f6a36490c64b0eee9f6e9aad517e20dcc848800a06eb116f08c6ab3
   tsort (0.2.0) sha256=9650a793f6859a43b6641671278f79cfead60ac714148aabe4e3f0060480089f
   uri (1.1.1) sha256=379fa58d27ffb1387eaada68c749d1426738bd0f654d812fcc07e7568f5c57c6
-  zeitwerk (2.7.5) sha256=d8da92128c09ea6ec62c949011b00ed4a20242b255293dd66bf41545398f73dd
+  zeitwerk (2.8.1) sha256=1c85e0f28954d68cd16e575da37f26846f609b68d80b5942ccfd31030c2449d5
 
 BUNDLED WITH
-  4.0.11
+  4.0.12
