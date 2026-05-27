@@ -199,6 +199,12 @@ The Holy Spirit spends a lifetime pleading. To keep refusing — to harden the h
 
 The thief had hours. Manasseh had a Babylonian prison. You have today. That is enough. It is also all any of us are guaranteed.
 
+Sin is the separation. We cannot reach Him from our side. He reached us from His.
+
+> "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."
+>
+> — John 3:16 (ESV)
+
 God did not overlook the record. The record was paid. He sent His only Son, who took your sins onto Himself as His own:
 
 > "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God."
