@@ -14,13 +14,13 @@ It is a small misery each time. The door was open. Now it is not. You were close
 
 Then there is the other kind. The relationship you damaged, the wrong you let go too long — and before you could get the words out, the door slammed in your face. Not a store door. Not a bus door. A door that does not reopen.
 
-Then there is the one that matters most. Not the store, the bus, or even the relationship. The slow accumulation of distance from God until one day the question arrives: has that door closed as well? Did I leave it too long? Is there still time?
+Then there is this. The slow accumulation of distance from God until one day the question arrives: has that door closed as well? Did I leave it too long? Is there still time?
 
 Two things keep that fear alive and make it feel like a verdict.
 
-The first is pride. Somewhere in us lives a refusal — not always conscious, not always named — to say the words out loud. *I was wrong. I need help. I cannot fix this.* Even when we know they are true, even when the evidence is stacked against us, something resists. Charley Pride named it in a 1967 country song: *Too Hard to Say I'm Sorry.* Not too late. Too hard. Not timing. Humility costs something the self does not want to pay.
+The first is pride. Somewhere in us lives a refusal — not always conscious, not always named — to say the words out loud. *I was wrong. I need help. I cannot fix this.* Even when we know they are true, even when the evidence is stacked against us, something resists. Charley Pride named it in a 1967 country song: *Too Hard to Say I'm Sorry.* Not too late. Too hard.
 
-The second is despair. Even if we could get the words out, a voice says it would not matter. The record is too long. The sins are too specific. We know what we have done. We cannot imagine forgiveness stretching that far. OneRepublic put it plainly in their 2007 song "Apologize": *It's too late to apologize.* The window has closed. Whatever mercy was available, you used it up or missed it entirely.
+The second is despair. Even if we could get the words out, a voice says it would not matter. The record is too long. The sins are too specific. We know what we have done. We cannot imagine forgiveness stretching that far. OneRepublic put it plainly in their 2007 song "Apologize": *It's too late to apologize.*
 
 Pride says: *I can't say it.*
 Despair says: *It wouldn't matter if I did.*
@@ -45,7 +45,7 @@ Jesus named his character:
 
 The lie is his oldest and only tool — the one he used before he used anything else. *(See: [Did God Really Say?](/blog/did-god-really-say/))*
 
-These words come from Jesus Himself — the One who declared:
+Jesus also said:
 
 > "I am the way, and the truth, and the life. No one comes to the Father except through me."
 >
@@ -171,7 +171,7 @@ Three figures. Three different situations. No overlap except one.
 
 The thief: hours remaining, no past recorded, no future possible. He was received.
 
-The prodigal: years wasted, sin against heaven, deliberate departure. He came home. He was received as a son.
+The prodigal: years wasted, sin against heaven, deliberate departure. He was received as a son.
 
 Manasseh: fifty-five years of documented destruction, a divine verdict naming him the cause of Jerusalem's downfall. He humbled himself in a foreign prison. He was received.
 
@@ -205,7 +205,7 @@ Sin is the separation. We cannot reach Him from our side. He reached us from His
 >
 > — John 3:16 (ESV)
 
-God did not overlook the record. The record was paid. He sent His only Son, who took your sins onto Himself as His own:
+God did not overlook the record. The record was paid:
 
 > "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God."
 >
