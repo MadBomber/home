@@ -63,7 +63,7 @@ The pride that makes it too hard to say the words, and the despair that says the
 >
 > — Isaiah 55:8-9 (ESV)
 
-Scripture presents three people who should have been beyond reach: a man dying for crimes whose name we were never given, a son who took everything his father owned and spent it badly, and a king who reigned fifty-five years and used most of them to fill his city with innocent blood.
+Scripture presents three people who should have been beyond reach: a man dying for crimes whose name we were never given, a son who took his inheritance early and squandered it, and a king who reigned fifty-five years and used most of them to fill his city with innocent blood.
 
 For all three, the answer was the same.
 
@@ -236,6 +236,12 @@ Jesus is the clerk who sees you running and holds the door. He is the driver who
 God's ways are not our ways. His thoughts are not our thoughts. "It's too late to apologize" is how we work. It is not how He works.
 
 It is not too late.
+
+If you are ready, you can respond right now. Tell Him you are sorry — that you do not want to live that way any more. Ask His forgiveness through Jesus, who bore that record on the cross and rose from the dead. That is the prayer. He is already at the door.
+
+Then tell someone. Find a pastor, a friend, a family member — say it out loud.
+
+If you want someone to pray with you, the Billy Graham 24/7 Prayer Line is available at [billygraham.org](https://billygraham.org/billy-graham-24-7-prayer-line).
 
 ---
 
