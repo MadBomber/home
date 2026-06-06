@@ -830,6 +830,149 @@ tr:hover td {
 .section-11 { background: linear-gradient(135deg, #4e342e, #6d4c41); }
 .section-12 { background: linear-gradient(135deg, #1b5e20, #558b2f); }
 
+/* --- Daily Devotional Cards (Landing Page) --- */
+
+.landing-devotionals {
+  margin: 0.5rem 0 1.5rem;
+}
+
+.landing-devotionals h2 {
+  text-align: center;
+  border-bottom: 2px solid var(--purple-faint);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.devotional-intro {
+  margin: 0 0 1.25rem;
+  padding: 1rem 1.25rem;
+  background: var(--bg-surface-alt);
+  border-radius: var(--radius);
+  border-left: 4px solid var(--purple-light);
+}
+
+.devotional-intro-lead {
+  margin: 0 0 0.6rem;
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
+.devotional-intro-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.devotional-intro-list li {
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+.devotional-intro-list li strong {
+  color: var(--text-primary);
+}
+
+.devotional-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.devotional-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 1.25rem 1.5rem 1rem;
+  background: var(--bg-surface-alt);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--gold);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--text-primary);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.devotional-card:hover {
+  border-color: var(--gold);
+  border-left-color: var(--gold);
+  box-shadow: var(--shadow-md);
+  color: var(--text-primary);
+}
+
+.devotional-publisher {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--gold);
+}
+
+.devotional-card h3 {
+  margin: 0;
+  font-size: 1.05rem;
+  color: var(--purple-deep);
+}
+
+.devotional-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  flex: 1;
+}
+
+.devotional-external-label {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--purple-light);
+  margin-top: 0.5rem;
+}
+
+[data-theme="dark"] .devotional-card {
+  background: var(--bg-surface-alt);
+  border-color: var(--border-color);
+  border-left-color: var(--gold);
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] .devotional-card:hover {
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] .devotional-card h3 {
+  color: var(--purple-deep);
+}
+
+[data-theme="dark"] .devotional-card p {
+  color: var(--text-secondary);
+}
+
+@media (prefers-color-scheme: dark) {
+  [data-theme="auto"] .devotional-card {
+    background: var(--bg-surface-alt);
+    border-color: var(--border-color);
+    border-left-color: var(--gold);
+    color: var(--text-primary);
+  }
+
+  [data-theme="auto"] .devotional-card:hover {
+    color: var(--text-primary);
+  }
+
+  [data-theme="auto"] .devotional-card h3 {
+    color: var(--purple-deep);
+  }
+
+  [data-theme="auto"] .devotional-card p {
+    color: var(--text-secondary);
+  }
+}
+
 /* --- Guide Cards --- */
 
 .guides h2 {

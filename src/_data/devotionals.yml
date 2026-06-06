@@ -1,0 +1,50 @@
+# External daily devotional links shown on the landing page.
+# Each entry renders as a card in the "Daily Devotionals" section.
+#
+# name        — display title shown on the card
+# publisher   — short publisher label shown as a subtitle
+# description — one or two sentences shown on the card
+# url         — full external URL (opens in new tab)
+
+- name: "Crossway Daily Devotional"
+  publisher: "Crossway"
+  description: >-
+    Theologically rich daily devotionals rooted in Scripture, published by
+    Crossway to help believers grow in their knowledge of God's Word.
+  url: "https://mailchi.mp/crossway/two-defining-truths-of-the-christian-life-5032267?mc_cid=96215ea92b"
+
+- name: "Our Daily Bread"
+  publisher: "Our Daily Bread Ministries"
+  description: >-
+    A searchable archive of daily devotionals by a rotating team of writers,
+    each anchored in a specific Scripture passage. Browse by Bible book, topic,
+    author, or life issue — readable in the browser, delivered by email, or
+    available as video. Multiple languages supported.
+  url: "https://www.odbm.org/en/devotionals"
+
+- name: "In Touch Daily Devotion"
+  publisher: "In Touch Ministries — Dr. Charles Stanley"
+  description: >-
+    Daily devotionals by Dr. Charles Stanley, each anchored to a specific
+    Scripture passage with practical application points and related verses.
+    Includes built-in audio playback, a companion Bible-in-a-Year reading,
+    and adjustable font size and theme.
+  url: "https://www.intouch.org/read/daily-devotions"
+
+- name: "Billy Graham Daily Devotion"
+  publisher: "Billy Graham Evangelistic Association"
+  description: >-
+    Daily reflections drawn from Billy Graham's writings, paired with Scripture
+    and a closing prayer. A calendar view lets you browse any day past or present
+    — clean and uncluttered, with a single focus on strengthening your walk
+    with Christ.
+  url: "https://billygraham.org/devotions"
+
+- name: "Insight for Today"
+  publisher: "Insight for Living — Pastor Chuck Swindoll"
+  description: >-
+    In-depth, expository daily devotionals by Pastor Chuck Swindoll, grounded
+    in extensive Scripture quotation and decades of Bible teaching. A
+    three-month archive is available, with each entry connected to his
+    Insight for Living radio broadcast ministry.
+  url: "https://insight.org/resources/daily-devotional"

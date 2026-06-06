@@ -51,6 +51,28 @@ title: Home
   </div>
 </section>
 
+<section class="landing-devotionals">
+  <h2>Daily Devotionals</h2>
+  <div class="devotional-intro">
+    <p class="devotional-intro-lead">The best devotionals do more than inspire — they train you in the Word. Here's what to look for:</p>
+    <ul class="devotional-intro-list">
+      <li><strong>Scripture First</strong> — Look for resources that anchor their text around an explicit Bible verse rather than personal opinion.</li>
+      <li><strong>Built-in Prayer</strong> — Many entries conclude with a written "Prayer of the Day" to give you words when you don't know how to start praying.</li>
+      <li><strong>Audio Accompaniment</strong> — Look for video or audio devotionals if you prefer to listen to God's Word while commuting or doing chores.</li>
+    </ul>
+  </div>
+  <div class="devotional-cards">
+    <% site.data.devotionals.each do |devo| %>
+      <a href="<%= devo["url"] %>" class="devotional-card" target="_blank" rel="noopener noreferrer">
+        <span class="devotional-publisher"><%= devo["publisher"] %></span>
+        <h3><%= devo["name"] %></h3>
+        <p><%= devo["description"] %></p>
+        <span class="devotional-external-label">Visit site ↗</span>
+      </a>
+    <% end %>
+  </div>
+</section>
+
 <section class="landing-resources">
   <h2>Resources</h2>
   <div class="guide-cards">
