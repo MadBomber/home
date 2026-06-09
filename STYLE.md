@@ -75,7 +75,7 @@ Precision over smoothness. The right word is chosen for its exact connotation, n
 
 ## Scripture
 
-Scripture is always block-quoted. It is never quoted inline within a prose sentence. The verse does work — it is introduced by the argument, not dropped in as decoration.
+Scripture is always block-quoted. Short quotations — a phrase or clause — may appear inline when the text is quoted exactly and followed immediately by a parenthetical citation: `"be blameless" (Genesis 17:1)`. Full verses belong in a block quote. The verse does work — it is introduced by the argument, not dropped in as decoration.
 
 **Format:**
 
