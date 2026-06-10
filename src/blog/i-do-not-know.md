@@ -46,7 +46,29 @@ The most honest thing a student of Scripture can sometimes say is also the thing
 
 God is infinite. The Bible is not. Neither are we.
 
+"I do not know" is the honest answer. It is not the complete one.
+
+Peter calls believers to be prepared with something more.
+
+> "but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to everyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect."
+>
+> — 1 Peter 3:15 (ESV)
+
+The defense Peter describes is not a doctrinal explanation of every silence. It is an account of hope — the lived, particular reason you trust the God who holds what He has not told you. That account is yours. It does not require knowing what Jesus wrote in the dirt. It requires knowing why you trust the one who wrote it.
+
+The honest seeker deserves both sentences. I do not know. But I trust God — and here is why.
+
 Those three facts, held together honestly, produce a question every serious reader of Scripture eventually faces: what do you do when the text runs out of answers? The temptation is to keep going — to fill the silence with tradition, with speculation, with someone else's confident opinion. That temptation is worth resisting. The search itself is not. But searching has an honest end, and knowing where that end is — that discipline is the one we most consistently skip.
+
+Before asking what the Bible does not tell us, we have to ask what the Bible is for. The Bible is not a science textbook. It is not a comprehensive history of the universe. It is a book about relationship — the relationship between God and humanity, broken by sin, restored at infinite cost through Jesus Christ. John states the purpose of his own Gospel plainly.
+
+> "But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name."
+>
+> — John 20:31 (ESV)
+
+Not to answer every question. Not to serve as a complete record of creation, history, or the spiritual realm. To bring the reader into belief — into life — through relationship with God. Every word serves that purpose.
+
+When someone demands a scientific answer from Scripture they are asking the wrong question of the right book. The Bible was never trying to answer what they are asking. That is not a failure of revelation. That is a misunderstanding of what revelation is for.
 
 The biblical writers knew the record was incomplete. John, who walked with Jesus, who watched the miracles, who stood near the cross, closed his Gospel with this:
 
@@ -56,49 +78,13 @@ The biblical writers knew the record was incomplete. John, who walked with Jesus
 
 The eyewitness said it himself. What we have is what we were meant to have. That is not a flaw in Scripture. It is a feature.
 
-Faith is the posture the Bible calls us to in the face of that incompleteness.
-
-> "Now faith is the substance of things hoped for, the evidence of things not seen."
->
-> — Hebrews 11:1 (ESV)
-
-Things not seen. Things not explained. Things not yet revealed. Faith is not belief in spite of missing answers. It is trust that the God who gave us everything we need did not accidentally leave out what we need.
-
 God did both. He concealed. He revealed.
-
-> "It is the glory of God to conceal a matter; to search out a matter is the glory of kings."
->
-> — Proverbs 25:2 (ESV)
-
-Concealment is not cruelty. It is invitation. The glory belongs to the search — not to arriving at an answer that was never offered.
 
 > "The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law."
 >
 > — Deuteronomy 29:29 (ESV)
 
 Two domains. One belongs to us. The other does not. What He revealed is ours — to hold and pass on. What He withheld is His to keep — for now.
-
-> "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
->
-> — 2 Timothy 3:16–17 (ESV)
-
-Not omniscient. Complete. Everything needed for life with God is there. The unanswered questions live outside it.
-
-> "For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known."
->
-> — 1 Corinthians 13:12 (ESV)
-
-God conceals intentionally. What He revealed is sufficient. The rest belongs to Him — for now. One day, face to face, we will know fully. Until then, the honest answer is sometimes simply: I do not know.
-
-Before asking what the Bible does not tell us, it is worth understanding what it is. The Bible is not a science textbook. It is not a comprehensive history of the universe. It is a book about relationship — the relationship between God and humanity, broken by sin, restored at infinite cost through Jesus Christ. John states the purpose of his own Gospel plainly.
-
-> "But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name."
->
-> — John 20:31 (ESV)
-
-Not to answer every question. Not to serve as a complete record of creation, history, or the spiritual realm. To bring the reader into belief — into life — through relationship with God. Every word serves that purpose. The silences are not gaps in a textbook. They are the margins of a love letter.
-
-When someone demands a scientific answer from Scripture they are asking the wrong question of the right book. The Bible was never trying to answer what they are asking. That is not a failure of revelation. That is a misunderstanding of what revelation is for.
 
 ## The Confession
 
@@ -150,7 +136,7 @@ This is not a problem to solve. It is the shape of finite creatures receiving th
 
 ---
 
-## What the Bible Leaves Unanswered
+## The Questions That Remain
 
 Some questions disappear when you read more carefully. Others arrive only when you do.
 
@@ -166,9 +152,9 @@ But the exact shape of the pre-fall world — what the animals were like, what i
 
 Move to the Gospels and the silences are equally striking. Luke shows Jesus at twelve years old in the temple, astonishing the teachers with his questions and answers. Then nothing. Eighteen years pass before Jesus appears again at the Jordan River to be baptized. What did he do in those years? The text does not say. John 8 shows Jesus stooping to write something in the dirt while a crowd waits with stones. Whatever he wrote, the accusers dropped their stones and left. We will never know what it was.
 
-The personal questions run deeper. What happens to an infant who dies before they can profess faith? The Bible does not say. Do we recognize our loved ones in heaven — do we retain memory, personality, the particular shape of a relationship? What does eternity feel like from the inside? And the question every child asks when a pet dies: will I see my dog again? Ecclesiastes 3:21 responds with its own question — "Who knows whether the spirit of man goes upward and the spirit of the beast goes down into the earth?" — which is the Bible's honest way of saying: I do not know either.
+The personal questions run deeper. What happens to an infant who dies before they can profess faith? The Bible does not say. Do we recognize our loved ones in heaven — do we retain memory, personality, the particular shape of a relationship? What does eternity feel like from the inside? And then there are the questions grief asks in smaller rooms but with real force: will I see the creature I loved again? Ecclesiastes 3:21 responds with its own question — "Who knows whether the spirit of man goes upward and the spirit of the beast goes down into the earth?" — which is the Bible's honest way of saying: I do not know either.
 
-Then there are the theological tensions the Bible holds without resolving. How do God's sovereignty and human free will both be fully true? The Bible insists on both without explaining how they fit together. Why are some people saved and others not, if God is sovereign over all things? Romans 9 raises this at full force and does not resolve it. Does the gift of tongues continue for believers today? Thoughtful, Spirit-filled people who have read the same texts have landed on opposite sides of this for centuries.
+Then there are the theological tensions the Bible holds without resolving. How do God's sovereignty and human free will both be fully true? The Bible insists on both without explaining how they fit together. Why are some people saved and others not, if God is sovereign over all things? Romans 9 raises this at full force and does not give the kind of mechanical explanation many readers want. Does the gift of tongues continue for believers today? Thoughtful, Spirit-filled people who have read the same texts have landed on opposite sides of this for centuries.
 
 At the cosmological edge the questions grow larger. What existed before God spoke creation into being? What is the full origin of Satan — Isaiah 14 and Ezekiel 28 give fragments, not a complete account. What is the nature of the spiritual realm, the hierarchy of angels and demons, the geography of what lies beyond what we can see? Scripture gives glimpses. It does not give a map.
 
@@ -180,7 +166,7 @@ We do not live on explanations. We live on promises.
 
 ---
 
-## What We Don't Know We Don't Know
+## The Questions Beneath the Questions
 
 There is a category of ignorance more fundamental than "I have the question but not the answer." It is the ignorance of questions we have not yet learned to ask — gaps we cannot see because we do not know they are there.
 
@@ -208,7 +194,7 @@ Neither are ours, fully. The honest position is not just "I do not know the answ
 
 ---
 
-## The Search Is Commanded
+## Search Until the Edge
 
 Naming what we do not know is not an argument for intellectual passivity.
 
@@ -230,7 +216,7 @@ The searching is yours. The silence is His.
 
 ---
 
-## Sufficiency
+## Everything Needed
 
 We have the story of creation: that God made the world, and it was good, and He made human beings in His image to know Him and be known by Him. We have the story of the fall: that something went terribly wrong, and the world we live in is not the world as it was meant to be. We have the law and the prophets: centuries of God speaking into history, warning, calling, promising, pointing toward what was coming. We have the Gospels: the life, the words, the miracles, the death, and the resurrection of Jesus Christ, the Son of God, who came to do what no human being could do for themselves. We have the letters: the meaning of what Jesus did, how to live in light of it, what the community of believers is and how it functions. We have the promises: that God is not finished, that the story does not end in ruin, that every wrong will be set right and every tear wiped away.
 
@@ -280,6 +266,8 @@ Keep asking your questions. Do not stop. The glory of kings is to search out wha
 
 And be prepared to arrive at the edge of what Scripture reveals and find nothing further. Not because God forgot, and not because you failed to look hard enough. Because some things belong to Him and He has not chosen to share them yet. When you reach that edge, the right response is not to manufacture certainty you were not given. It is to stop, and to say what is true: I do not know.
 
+That is the honest answer to the specific question. It is not the last thing you have to say. The reason for your hope — the account Peter says to hold ready — is still yours to give. The silence belongs to God. The trust is yours, and it can be spoken.
+
 You are not alone at that edge. Jesus told his disciples:
 
 > "But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you."
@@ -296,7 +284,7 @@ One day all of it resolves. Paul said so at the end of the most famous chapter i
 >
 > — 1 Corinthians 13:12 (ESV)
 
-For now. Then. The silence is not permanent. Every question you carry honestly to the grave will meet its answer face to face. Until then, the most faithful thing you can say — and mean — is simply this: I do not know.
+For now. Then. The silence is not permanent. Every honest question you carry to the grave will meet its answer face to face. Until then, you do not have to measure angels in pin-head units, defend God with guesses He never gave you, or pretend the silence is yours to fill. The most faithful thing you can say — and mean — is simply this: I do not know.
 
 ## References
 
