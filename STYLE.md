@@ -85,7 +85,7 @@ Scripture is always block-quoted. Short quotations — a phrase or clause — ma
 > — Book Chapter:Verse (ESV)
 ```
 
-**Translation:** ESV consistently throughout.
+**Translation:** ESV consistently throughout. When verifying that a quotation matches the ESV exactly, use [esv.org](https://www.esv.org) as the authoritative source. Other sites (BibleGateway, etc.) may carry different text.
 
 **Introduction:** The prose sets up the verse before it appears. The reader knows why they are about to read it. After the verse, the prose unpacks it — it does not assume the verse speaks for itself without engagement.
 

@@ -2,7 +2,7 @@
 layout: blog_post
 title: "I Do Not Know"
 description: The Bible is silent on some things. That silence is not an accident. "I do not know" is not a failure of faith — it is an act of trust.
-date: 2026-06-16
+date: 2026-06-10
 author: Dewayne VanHoozer
 collection: biblical-silence
 order: 1
@@ -22,7 +22,7 @@ There are two kinds of people who ask hard questions about the Bible. The first 
 
 Jesus faced both kinds regularly. To honest questioners he gave patient, direct teaching. To his opponents he gave something else entirely. A woman marries seven brothers in succession under the law. In the resurrection, whose wife will she be? The Sadducees brought this scenario not to understand the resurrection but to ridicule it. Jesus did not answer the question as posed. He exposed the premise.
 
-> "You are wrong, because you know neither the Scriptures nor the power of God. For in the resurrection they neither marry nor give in marriage, but are like angels in heaven."
+> "You are wrong, because you know neither the Scriptures nor the power of God. For in the resurrection they neither marry nor are given in marriage, but are like angels in heaven."
 >
 > — Matthew 22:29–30 (ESV)
 
@@ -44,19 +44,19 @@ You can be completely sincere. You can be completely confident. You can be compl
 
 The most honest thing a student of Scripture can sometimes say is also the thing we have been least trained to say: I do not know.
 
-God is infinite. The Bible is not. Neither are we.
-
 "I do not know" is the honest answer. It is not the complete one.
 
 Peter calls believers to be prepared with something more.
 
-> "but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to everyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect."
+> "but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect."
 >
 > — 1 Peter 3:15 (ESV)
 
 The defense Peter describes is not a doctrinal explanation of every silence. It is an account of hope — the lived, particular reason you trust the God who holds what He has not told you. That account is yours. It does not require knowing what Jesus wrote in the dirt. It requires knowing why you trust the one who wrote it.
 
 The honest seeker deserves both sentences. I do not know. But I trust God — and here is why.
+
+God is infinite. The Bible is not. Neither are we.
 
 Those three facts, held together honestly, produce a question every serious reader of Scripture eventually faces: what do you do when the text runs out of answers? The temptation is to keep going — to fill the silence with tradition, with speculation, with someone else's confident opinion. That temptation is worth resisting. The search itself is not. But searching has an honest end, and knowing where that end is — that discipline is the one we most consistently skip.
 
@@ -72,7 +72,7 @@ When someone demands a scientific answer from Scripture they are asking the wron
 
 The biblical writers knew the record was incomplete. John, who walked with Jesus, who watched the miracles, who stood near the cross, closed his Gospel with this:
 
-> "Jesus did many other things as well. If every one of them were written down, I suppose that even the whole world would not have room for the books that would be written."
+> "Now there are also many other things that Jesus did. Were every one of them to be written, I suppose that the world itself could not contain the books that would be written."
 >
 > — John 21:25 (ESV)
 
@@ -120,11 +120,11 @@ Malachi closes. The prophets go silent. For four centuries — longer than the U
 
 That silence was not abandonment. It was preparation. God was not absent. He was working. The silence had a purpose no one living inside it could see.
 
-Every silence in Scripture deserves the same assumption. What God chose not to reveal was withheld for a reason — whether we can see the reason or not.
+Every silence in Scripture deserves the same humility. What God chose not to reveal was withheld for a reason — whether we can see the reason or not.
 
-The incompleteness is visible even inside the passages that do speak. The prophets who received visions were not given vocabulary adequate to describe them. Read Ezekiel 1 carefully and count the qualifications. Three verses near the end of the chapter use the word "appearance" six times.
+The incompleteness is visible even inside the passages that do speak. The prophets who received visions were not given vocabulary adequate to describe them. Read Ezekiel 1 carefully and count the qualifications. Three verses near the end of the chapter use the word "appearance" again and again.
 
-> "And above the expanse over their heads there was the likeness of a throne, in appearance like sapphire; and seated above the likeness of a throne was a likeness with a human appearance... Like the appearance of the bow that is in the cloud on the day of rain, so was the appearance of the brightness around him. Such was the appearance of the likeness of the glory of the Lord."
+> "And above the expanse over their heads there was the likeness of a throne, in appearance like sapphire; and seated above the likeness of a throne was a likeness with a human appearance. And upward from what had the appearance of his waist I saw as it were gleaming metal, like the appearance of fire enclosed all around. And downward from what had the appearance of his waist I saw as it were the appearance of fire, and there was brightness around him. Like the appearance of the bow that is in the cloud on the day of rain, so was the appearance of the brightness all around. Such was the appearance of the likeness of the glory of the Lord."
 >
 > — Ezekiel 1:26–28 (ESV)
 
@@ -144,7 +144,7 @@ A child hears the story of Cain and Abel for the first time. Cain kills his brot
 
 The Garden raises the same kind of questions before you even reach chapter five. How long were Adam and Eve there before the fall? Days? Centuries? Genesis gives no timeline. Were they married? God brought Eve to Adam, Adam named her bone of his bone and flesh of his flesh, and Genesis 2:24 establishes the principle of one flesh — but no ceremony is described. Why did the lions not eat them? Genesis 1:29–30 suggests all creatures ate plants before the fall, and Paul is explicit that creation itself fell under the curse.
 
-> "for the creation was subjected to futility, not willingly, but because of him who subjected it, in hope that the creation itself will be set free from its bondage to corruption"
+> "For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God."
 >
 > — Romans 8:20–21 (ESV)
 
@@ -152,7 +152,7 @@ But the exact shape of the pre-fall world — what the animals were like, what i
 
 Move to the Gospels and the silences are equally striking. Luke shows Jesus at twelve years old in the temple, astonishing the teachers with his questions and answers. Then nothing. Eighteen years pass before Jesus appears again at the Jordan River to be baptized. What did he do in those years? The text does not say. John 8 shows Jesus stooping to write something in the dirt while a crowd waits with stones. Whatever he wrote, the accusers dropped their stones and left. We will never know what it was.
 
-The personal questions run deeper. What happens to an infant who dies before they can profess faith? The Bible does not say. Do we recognize our loved ones in heaven — do we retain memory, personality, the particular shape of a relationship? What does eternity feel like from the inside? And then there are the questions grief asks in smaller rooms but with real force: will I see the creature I loved again? Ecclesiastes 3:21 responds with its own question — "Who knows whether the spirit of man goes upward and the spirit of the beast goes down into the earth?" — which is the Bible's honest way of saying: I do not know either.
+The personal questions run deeper. What happens to an infant who dies before they can profess faith? The Bible does not say. Do we recognize our loved ones in heaven — do we retain memory, personality, the particular shape of a relationship? What does eternity feel like from the inside? And then there is the child standing in front of you, face wet with tears, asking if the dog they loved is in heaven with Jesus. That question deserves a child's answer — not a citation. The honest answer is the only one you have: I do not know. But I trust God — and I know that Jesus loves you. Ecclesiastes 3:21 arrives at the same place — "Who knows whether the spirit of man goes upward and the spirit of the beast goes down into the earth?" — but you do not quote that to a grieving child. You hold the same truth in a form they can receive. I do not know. But I trust God — and I know that Jesus loves you.
 
 Then there are the theological tensions the Bible holds without resolving. How do God's sovereignty and human free will both be fully true? The Bible insists on both without explaining how they fit together. Why are some people saved and others not, if God is sovereign over all things? Romans 9 raises this at full force and does not give the kind of mechanical explanation many readers want. Does the gift of tongues continue for believers today? Thoughtful, Spirit-filled people who have read the same texts have landed on opposite sides of this for centuries.
 
@@ -182,7 +182,7 @@ We may be in exactly that position before God. Not stupid — finite. The univer
 
 The book of Job makes this concrete. Job spends thirty-seven chapters asking his questions — hard, honest, anguished questions about suffering and justice and why God permits what He permits. He is asking the right questions by human standards. Then God speaks from the whirlwind, and He does not answer a single one of them. He asks His own.
 
-> "Where were you when I laid the foundation of the earth? Tell me, if you have understanding. Who determined its measurements — surely you know!"
+> "Where were you when I laid the foundation of the earth? Tell me, if you have understanding. Who determined its measurements—surely you know! Or who stretched the line upon it?"
 >
 > — Job 38:4–5 (ESV)
 
@@ -238,7 +238,7 @@ The life is in what was revealed. The relationship is in what was given. The sil
 
 When a person reaches the edge of what Scripture reveals and keeps going — filling the silence with speculation and presenting that speculation with the confidence of established truth — several things happen in sequence.
 
-The first is authority laundering. Opinion borrows the weight of Scripture without earning it. The teacher speaks with confidence. The student hears confidence. The distinction between "here is what God said" and "here is what I think" collapses in the telling. The student cannot see the seam. They pass on what they received as fact, and the fact carries God's name now without God's authorization.
+The first is authority laundering. Opinion borrows the weight of Scripture without earning it. The teacher speaks with confidence. The student hears confidence. The distinction between "here is what God said" and "here is what I think" collapses in the telling. The student cannot tell the difference. They pass on what they received as fact, and the fact carries God's name now without God's authorization.
 
 The second is escalation. It starts small — a reasonable guess about something Scripture leaves open. Someone with influence says it with enough confidence that it becomes teaching. Teaching repeated becomes tradition. Tradition hardens into doctrine. Doctrine becomes a boundary. The boundary becomes a test of fellowship. By the end, people are being excluded from community for rejecting what started as one person's unauthorized speculation. No one in the room knows that is what happened. The original qualifier — "I think," "perhaps," "it seems to me" — was dropped three generations back.
 
