@@ -4,6 +4,7 @@ title: Which Bible?
 description: With hundreds of English translations available, the question a skeptic asks — can any of them be trusted after so many centuries of copying across so many languages? — turns out to have a very good answer.
 date: 2026-04-09
 author: Dewayne VanHoozer
+featured: 99
 collection: can-the-bible-be-trusted
 order: 1
 ---

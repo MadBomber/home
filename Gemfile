@@ -20,6 +20,7 @@ git_source(:github) { "https://github.com/#{_1}.git" }
 git_source(:codeberg) { "https://codeberg.org/#{_1}.git" }
 
 gem "bridgetown", "~> 2.2"
+gem "samovar", "< 2.4.2"
 
 # Puma is the Rack-compatible web server used by Bridgetown
 gem "puma", "< 8"
