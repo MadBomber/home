@@ -4,6 +4,7 @@ title: "I Am Not Perfect"
 description: Jesus said be perfect. You already know you are not. The command is real — but perfection in His mouth means something different from what you think.
 date: 2026-06-12
 author: Dewayne VanHoozer
+featured: 7
 ---
 
 "I am not perfect" is the most honest sentence most Christians will say this week. Not a confession requiring courage. Just an obvious fact — the kind you acknowledge because it would be strange to deny it. You know your own record. You do not need to reach for humility on this one.

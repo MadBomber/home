@@ -1,8 +1,10 @@
 ---
-layout: page
-title: Choose Jesus
-document_title: Choose Jesus
+layout: blog_post
+title: "Choose Jesus"
 description: You are not an accident. Explore the four questions every human heart asks — and the one answer that changes everything.
+date: 2026-06-13
+author: Dewayne VanHoozer
+featured: 1
 ---
 
 > *"Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me."*

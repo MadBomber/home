@@ -1,11 +1,11 @@
 ---
-layout: page
-title: The Big Words
-document_title: The Big Words
+layout: blog_post
+title: "The Big Words — What Preachers Mean When They Use Them"
 description: Plain-English explanations of the theological terms preachers use most — from Gospel and Sin to Eschatology and Pneumatology.
+date: 2026-06-13
+author: Dewayne VanHoozer
+featured: 2
 ---
-
-# What Preachers Mean When They Use Them
 
 Preachers have a habit of tossing around long, complicated words like they're handing out candy. Most people in the pew smile and nod, quietly wondering what any of it means. This article is for those people.
 
@@ -32,6 +32,7 @@ If you are looking up a specific word, use the table of contents below to jump d
 
 **[Part 3 — What Jesus Did and What It Means for Us](#part-3--what-jesus-did-and-what-it-means-for-us)**
 - [Atonement](#atonement)
+- [Propitiation](#propitiation)
 - [Justification](#justification)
 - [Sanctification](#sanctification)
 - [Soteriology](#soteriology)
@@ -167,7 +168,7 @@ Christology also covers everything Jesus did: his teachings, his miracles, his d
 
 ## Part 3 — What Jesus Did and What It Means for Us
 
-Now that we know who Jesus is, we can understand what he did and what it accomplishes for us. Atonement is the act itself — what happened on the cross and why it repaired the broken relationship between people and God. Justification is the verdict that results — God declaring a person not guilty. Sanctification is the life that follows the verdict — the slow process of actually becoming more like Jesus. Soteriology is the big-picture word that covers all of it, the formal study of how people are saved.
+Now that we know who Jesus is, we can understand what he did and what it accomplishes for us. Atonement is the act itself — what happened on the cross and why it repaired the broken relationship between people and God. Propitiation is the specific mechanism inside that act — what Jesus did with God's wrath. Justification is the verdict that results — God declaring a person not guilty. Sanctification is the life that follows the verdict — the slow process of actually becoming more like Jesus. Soteriology is the big-picture word that covers all of it, the formal study of how people are saved.
 
 ---
 
@@ -184,6 +185,22 @@ The atonement is the truth that Jesus paid it. He didn't deserve to die — he h
 Theologians (people who study theology — the study of God) have developed several ways to describe how this works, different pictures that each capture part of the truth. One picture is a courtroom: Jesus takes your punishment. Another is a battle: Jesus wins a victory over sin and death that you could never win on your own. Another is a broken relationship: Jesus, as the perfect human, does what Adam failed to do and restores what was lost. All of these pictures are true. No single one of them captures everything.
 
 But the bottom line is simple: because of what Jesus did on the cross, the broken relationship between a sinful person and a holy God can be restored. That restoration is the atonement. (2 Corinthians 5:18–19)
+
+---
+
+### Propitiation
+
+Propitiation (pro-pish-ee-AY-shun) is the word for what Jesus did about God's wrath against sin.
+
+It sounds technical, but the idea is straightforward: God is perfectly holy and perfectly just. Sin is a real offense against that holiness, and a just God cannot simply overlook it. There is a penalty — a settled, righteous anger at everything that is wrong — and it has to go somewhere. Propitiation is the word for what happens when it does.
+
+When Jesus died on the cross, he didn't just die as a martyr or a moral example. He stood in the place of sinners and absorbed the full weight of God's wrath against sin so that it would not fall on them. God's justice was satisfied — fully, completely, permanently — in that moment. The wrath was not set aside or postponed. It was spent. (Romans 3:25; 1 John 2:2; 1 John 4:10)
+
+The Greek word behind propitiation is *hilasterion* — the same word used in the Greek Old Testament for the "mercy seat," the golden cover of the Ark of the Covenant where the High Priest sprinkled blood on the Day of Atonement to atone for the people's sins. (Leviticus 16; Hebrews 9:5) Paul uses this very word for Jesus in Romans 3:25 — telling his Jewish readers that Jesus *is* the mercy seat, the place where God's justice and God's mercy meet.
+
+This is why propitiation and atonement, though related, are not exactly the same word. Atonement is the broad term for the repair of the broken relationship. Propitiation is the specific mechanism: the turning aside of God's righteous anger through the sacrificial death of Jesus. Atonement is the result; propitiation is part of how it works.
+
+Some people find the idea of God's wrath uncomfortable — it sounds like God is angry in a petty or arbitrary way. But the wrath of God in Scripture is not a bad temper. It is the settled, holy opposition of a perfectly good God to everything that destroys what he loves. A God who felt nothing in response to evil would not be good. Propitiation matters because it means the God who is rightly angry at sin found a way — at enormous personal cost — to be both just and the one who justifies. (Romans 3:26) He did not lower the bar. He paid it himself.
 
 ---
 

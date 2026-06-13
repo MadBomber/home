@@ -4,6 +4,7 @@ title: What is Prayer?
 description: Jesus assumed his audience already knew what prayer was. We may not. This article traces prayer from the garden of Eden to the letters of Paul — recovering a definition that is simpler and deeper than most of us have been told.
 date: 2026-04-28
 author: Dewayne VanHoozer
+featured: 3
 ---
 
 ## The Question We've Forgotten to Ask

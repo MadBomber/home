@@ -4,6 +4,7 @@ title: "Did God Really Say?"
 description: The first question in the Bible came from the serpent, not from God. He is still asking it — and the only defense against his distortions is knowing the God whose words he keeps misrepresenting.
 date: 2026-04-20
 author: Dewayne VanHoozer
+featured: 5
 ---
 
 The first question recorded in the Bible is not a question from God.

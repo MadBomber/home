@@ -4,6 +4,7 @@ title: "All You Need Is Love?"
 description: The Beatles said the word "love" 96 times in four minutes and never defined it once. That vagueness is not just a pop music problem — it is a spiritual one. The Bible uses at least six distinct words where English uses one, and the differences change everything.
 date: 2026-04-29
 author: Dewayne VanHoozer
+featured: 6
 ---
 
 ## The Song That Defines Nothing

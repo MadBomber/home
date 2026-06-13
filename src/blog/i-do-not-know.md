@@ -4,6 +4,7 @@ title: "I Do Not Know"
 description: The Bible is silent on some things. That silence is not an accident. "I do not know" is not a failure of faith — it is an act of trust.
 date: 2026-06-10
 author: Dewayne VanHoozer
+featured: 4
 collection: biblical-silence
 order: 1
 ---
