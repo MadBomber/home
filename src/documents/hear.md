@@ -5,8 +5,6 @@ document_title: The H.E.A.R. Method
 description: A four-step journaling approach — Highlight, Explain, Apply, Respond — for engaging deeply with Scripture.
 ---
 
-## The H.E.A.R. Method
-
 H.E.A.R. is a four-step journaling approach that helps you engage deeply with Scripture. Each letter represents a step:
 
 ### H — Highlight
@@ -33,8 +31,3 @@ Write a brief prayer responding to what you have read. You can also note one spe
 
 *Ask yourself: What will I do with what I have learned?*
 
----
-
-You can access the H.E.A.R. Journal by clicking the pencil icon in the toolbar when you are on a day page, or by visiting your study's Journal page from the menu.
-
-To enable the journal icon, turn it on in [Settings](/settings/).

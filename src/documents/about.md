@@ -26,7 +26,7 @@ All Scripture on this site is quoted from the **English Standard Version (ESV)**
 
 ## How It Works
 
-LampLight.Cuide hosts Bible studies organized into sections, weeks, and daily readings. Everything you do on this site — notes, journal entries, progress, settings — is stored **only on your device** using your browser's local storage. Nothing is saved by the LampLight.Guide server.
+LampLight.Guide hosts Bible studies organized into sections, weeks, and daily readings. Everything you do on this site — notes, journal entries, progress, settings — is stored **only on your device** using your browser's local storage. Nothing is saved by the LampLight.Guide server.
 
 ### Features
 
@@ -42,7 +42,9 @@ LampLight.Cuide hosts Bible studies organized into sections, weeks, and daily re
 
 ## Privacy
 
-This site collects no personal data. There are no accounts, no tracking, and no analytics. All progress, journal entries, and preferences live in your browser's local storage and never saved on the LamLight.Guide server.
+This site collects no personal data. All progress, journal entries, and preferences live in your browser's local storage and are never transmitted to the LampLight.Guide server.
+
+We count page visits to understand which studies and articles are being used. No IP addresses are stored. No cookies or browser-based tracking are used. No personal identifiers are collected or retained. No information is shared with third parties.
 
 The discussion feature (where available) uses [Giscus](https://giscus.app), which is powered by GitHub Discussions. Participation in discussions requires a GitHub account and is subject to GitHub's privacy policy.
 
