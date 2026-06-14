@@ -96,15 +96,3 @@ title: Home
     <% end %>
   </div>
 </section>
-
-<section class="landing-resources">
-  <h2>Resources</h2>
-  <div class="guide-cards">
-    <% (site.data.resolved_documents["global"] || []).each do |doc| %>
-      <a href="<%= relative_url doc["url"] %>" class="guide-card" target="_blank" rel="noopener">
-        <h3><%= doc["title"] %></h3>
-        <% if doc["description"] %><p><%= doc["description"] %></p><% end %>
-      </a>
-    <% end %>
-  </div>
-</section>
