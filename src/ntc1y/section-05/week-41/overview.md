@@ -39,11 +39,11 @@ Philippians 1 introduces the theme of gospel partnership and Paul's famous dilem
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Ephesians 5  | [Walk in Love, Be Filled with the Spirit, Christ and the Church](../day-1) |
-| 2 | Ephesians 6  | [Children and Parents, The Full Armor of God](../day-2) |
-| 3 | Philippians 1  | [Joy in Chains, To Live Is Christ](../day-3) |
-| 4 | Philippians 2  | [The Christ Hymn -- Kenosis and Exaltation](../day-4) |
-| 5 | Philippians 3  | [Knowing Christ, Pressing On, Citizenship in Heaven](../day-5) |
+| 1 | Ephesians 5  | [Walk in Love, Be Filled with the Spirit, Christ and the Church](../day-1/) |
+| 2 | Ephesians 6  | [Children and Parents, The Full Armor of God](../day-2/) |
+| 3 | Philippians 1  | [Joy in Chains, To Live Is Christ](../day-3/) |
+| 4 | Philippians 2  | [The Christ Hymn -- Kenosis and Exaltation](../day-4/) |
+| 5 | Philippians 3  | [Knowing Christ, Pressing On, Citizenship in Heaven](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle writing from prison, chained to Roman guards yet overflowing with joy and theological vision
@@ -65,7 +65,7 @@ Philippians 1 introduces the theme of gospel partnership and Paul's famous dilem
 - **The pattern of Christ** -- Humility leading to exaltation (the kenosis hymn) becomes the template for all Christian living
 - **Knowing Christ above all** -- Every human achievement pales beside the surpassing worth of knowing Jesus
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross."
 > -- Philippians 2:5-8

@@ -14,7 +14,7 @@ study_slug: ntc1y
 
 These final eleven weeks bring the New Testament to its close — and what a close it is. You will hear the last words of a dying apostle, encounter the most sustained argument for the supremacy of Christ in all of Scripture, walk with scattered believers through persecution and false teaching, and finish in a throne room where every tear is wiped away and all things are made new.
 
-The phase opens with Paul in chains, but his spirit is anything but captive. From prison he completes his letter to the Philippians — a letter so saturated with joy that you would never guess its author is facing execution. Then Colossians lifts your eyes to the cosmic Christ, the one in whom all things hold together, while the tiny letter to Philemon shows what the gospel looks like when it reaches into the most ordinary injustice and transforms it from within. These are not the writings of a man who has been defeated. They are the final songs of a man who has found something worth everything.
+The section opens with Paul in chains, but his spirit is anything but captive. From prison he completes his letter to the Philippians — a letter so saturated with joy that you would never guess its author is facing execution. Then Colossians lifts your eyes to the cosmic Christ, the one in whom all things hold together, while the tiny letter to Philemon shows what the gospel looks like when it reaches into the most ordinary injustice and transforms it from within. These are not the writings of a man who has been defeated. They are the final songs of a man who has found something worth everything.
 
 From there you will enter the Pastoral Epistles — Paul's letters to Timothy and Titus, the next generation of church leaders. These are practical, urgent, and deeply personal. How should the church worship? Who should lead? What do you do when false teachers infiltrate? And woven through the practical counsel is Paul's final testimony, written from a Roman dungeon as he awaits the executioner's sword: "I have fought the good fight, I have finished the race, I have kept the faith." These are among the last words we have from the apostle who did more than any other human being to carry the gospel across the ancient world.
 
@@ -26,18 +26,18 @@ The year ends where the Bible ends — in the book of Revelation. Over the final
 
 You began this year with the Word who was in the beginning. You end it with the Alpha and Omega, the first and the last, who says, "Behold, I am making all things new."
 
-## Weeks in This Phase
+## Weeks in This Section
 
 | Week | Title | |
 |------|-------|-|
-| 42 | Joy and Faithfulness | [Start](week-42/overview) |
-| 43 | Pastoral Guidance | [Start](week-43/overview) |
-| 44 | Guarding the Faith | [Start](week-44/overview) |
-| 45 | Paul's Final Words | [Start](week-45/overview) |
-| 46 | A Better Covenant | [Start](week-46/overview) |
-| 47 | The New and Living Way | [Start](week-47/overview) |
-| 48 | Living Faith | [Start](week-48/overview) |
-| 49 | Stand Firm | [Start](week-49/overview) |
-| 50 | Walking in the Light | [Start](week-50/overview) |
-| 51 | Revelation: Visions of Glory | [Start](week-51/overview) |
-| 52 | Revelation: All Things New | [Start](week-52/overview) |
+| 42 | Joy and Faithfulness | [Start](week-42/overview/) |
+| 43 | Pastoral Guidance | [Start](week-43/overview/) |
+| 44 | Guarding the Faith | [Start](week-44/overview/) |
+| 45 | Paul's Final Words | [Start](week-45/overview/) |
+| 46 | A Better Covenant | [Start](week-46/overview/) |
+| 47 | The New and Living Way | [Start](week-47/overview/) |
+| 48 | Living Faith | [Start](week-48/overview/) |
+| 49 | Stand Firm | [Start](week-49/overview/) |
+| 50 | Walking in the Light | [Start](week-50/overview/) |
+| 51 | Revelation: Visions of Glory | [Start](week-51/overview/) |
+| 52 | Revelation: All Things New | [Start](week-52/overview/) |

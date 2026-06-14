@@ -28,11 +28,11 @@ The scattering that follows Stephen's death is one of the great ironies of redem
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 6  | [Seven Chosen to Serve, Stephen's Wisdom, Accusations](../day-1) |
-| 2 | Acts 7  | [Stephen's Speech -- Survey of Israel's History -- and Martyrdom](../day-2) |
-| 3 | Acts 8  | [Saul Persecutes Church, Philip in Samaria, Simon the Sorcerer, Ethiopian Eunuch](../day-3) |
-| 4 | James 1  | [Trials Produce Perseverance, Every Good Gift, Be Doers Not Hearers](../day-4) |
-| 5 | James 2  | [No Favoritism, Faith Without Works Is Dead, Abraham & Rahab](../day-5) |
+| 1 | Acts 6  | [Seven Chosen to Serve, Stephen's Wisdom, Accusations](../day-1/) |
+| 2 | Acts 7  | [Stephen's Speech -- Survey of Israel's History -- and Martyrdom](../day-2/) |
+| 3 | Acts 8  | [Saul Persecutes Church, Philip in Samaria, Simon the Sorcerer, Ethiopian Eunuch](../day-3/) |
+| 4 | James 1  | [Trials Produce Perseverance, Every Good Gift, Be Doers Not Hearers](../day-4/) |
+| 5 | James 2  | [No Favoritism, Faith Without Works Is Dead, Abraham & Rahab](../day-5/) |
 
 ## Key Characters
 - **Stephen** -- One of the seven deacons, the first Christian martyr, whose speech reinterprets Israel's history
@@ -55,7 +55,7 @@ The scattering that follows Stephen's death is one of the great ironies of redem
 - **Faith and works** -- James insists that genuine faith always expresses itself in action
 - **The word of God and the poor** -- Both Acts and James emphasize that the gospel creates communities of justice and generosity
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "But be doers of the word, and not hearers only, deceiving yourselves."
 > -- James 1:22

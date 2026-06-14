@@ -27,11 +27,11 @@ The Farewell Discourse also introduces the Paraclete -- the Holy Spirit whom the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Luke 22:1-38  | [Plot to Kill Jesus, Preparation for Passover, Last Supper, Dispute About Greatness, Peter's Denial Foretold](../day-1) |
-| 2 | John 13  | [Foot Washing, Betrayal Announced, New Commandment](../day-2) |
-| 3 | John 14  | [I Am the Way/Truth/Life, The Father's House, Holy Spirit Promised](../day-3) |
-| 4 | John 15  | [I Am the True Vine, Abide in Me, World's Hatred](../day-4) |
-| 5 | John 16  | [The Spirit's Work, Grief Will Turn to Joy, "I Have Overcome the World"](../day-5) |
+| 1 | Luke 22:1-38  | [Plot to Kill Jesus, Preparation for Passover, Last Supper, Dispute About Greatness, Peter's Denial Foretold](../day-1/) |
+| 2 | John 13  | [Foot Washing, Betrayal Announced, New Commandment](../day-2/) |
+| 3 | John 14  | [I Am the Way/Truth/Life, The Father's House, Holy Spirit Promised](../day-3/) |
+| 4 | John 15  | [I Am the True Vine, Abide in Me, World's Hatred](../day-4/) |
+| 5 | John 16  | [The Spirit's Work, Grief Will Turn to Joy, "I Have Overcome the World"](../day-5/) |
 
 ## Key Characters
 - **Jesus** -- Host of the final Passover meal who transforms a farewell into a foundation for the new covenant
@@ -54,7 +54,7 @@ The Farewell Discourse also introduces the Paraclete -- the Holy Spirit whom the
 - **The promised Holy Spirit** -- The Paraclete will teach, convict, guide, and glorify Christ in the age to come
 - **Farewell and hope** -- Jesus prepares his disciples for his departure while assuring them that separation is not abandonment
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."
 > -- John 15:5

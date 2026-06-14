@@ -27,11 +27,11 @@ This week we encounter Paul at his most direct and his most pastoral. In chapter
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 1 Corinthians 5  | [Expel the Immoral Brother, Sexual Immorality in the Church](../day-1) |
-| 2 | 1 Corinthians 6  | [Lawsuits Among Believers, Your Body Is a Temple of the Holy Spirit](../day-2) |
-| 3 | 1 Corinthians 7  | [Marriage, Singleness, Remain as You Are, Undivided Devotion](../day-3) |
-| 4 | 1 Corinthians 8  | [Food Offered to Idols, Knowledge Puffs Up but Love Builds Up](../day-4) |
-| 5 | 1 Corinthians 9  | [Paul's Rights as an Apostle, "I Become All Things to All People"](../day-5) |
+| 1 | 1 Corinthians 5  | [Expel the Immoral Brother, Sexual Immorality in the Church](../day-1/) |
+| 2 | 1 Corinthians 6  | [Lawsuits Among Believers, Your Body Is a Temple of the Holy Spirit](../day-2/) |
+| 3 | 1 Corinthians 7  | [Marriage, Singleness, Remain as You Are, Undivided Devotion](../day-3/) |
+| 4 | 1 Corinthians 8  | [Food Offered to Idols, Knowledge Puffs Up but Love Builds Up](../day-4/) |
+| 5 | 1 Corinthians 9  | [Paul's Rights as an Apostle, "I Become All Things to All People"](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle and church planter writing from Ephesus to address urgent pastoral crises
@@ -54,7 +54,7 @@ This week we encounter Paul at his most direct and his most pastoral. In chapter
 - **Apostolic example** -- Paul models the sacrificial love he preaches by forgoing his apostolic rights
 - **Cultural engagement** -- Believers must navigate pagan culture without either withdrawing from it or being absorbed by it
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies."
 > -- 1 Corinthians 6:19-20

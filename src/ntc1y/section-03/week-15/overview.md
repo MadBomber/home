@@ -26,11 +26,11 @@ The religious leaders respond immediately. They challenge Jesus' authority, aski
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 21:1-22  | [Triumphal Entry, Temple Cleansing, Fig Tree Cursed](../day-1) |
-| 2 | Matthew 21:23-46  | [Authority Questioned, Parable of Two Sons, Parable of Tenants](../day-2) |
-| 3 | Mark 11  | [Triumphal Entry, Fig Tree, Temple Cleansing, Authority Questioned](../day-3) |
-| 4 | Mark 12:1-27  | [Parable of Tenants, Taxes to Caesar, Resurrection Question](../day-4) |
-| 5 | Mark 12:28-44  | [Greatest Commandment, David's Son, Widow's Offering](../day-5) |
+| 1 | Matthew 21:1-22  | [Triumphal Entry, Temple Cleansing, Fig Tree Cursed](../day-1/) |
+| 2 | Matthew 21:23-46  | [Authority Questioned, Parable of Two Sons, Parable of Tenants](../day-2/) |
+| 3 | Mark 11  | [Triumphal Entry, Fig Tree, Temple Cleansing, Authority Questioned](../day-3/) |
+| 4 | Mark 12:1-27  | [Parable of Tenants, Taxes to Caesar, Resurrection Question](../day-4/) |
+| 5 | Mark 12:28-44  | [Greatest Commandment, David's Son, Widow's Offering](../day-5/) |
 
 ## Key Characters
 - **Jesus** -- Messianic king who enters Jerusalem with prophetic intentionality and confronts the Temple establishment
@@ -55,7 +55,7 @@ The religious leaders respond immediately. They challenge Jesus' authority, aski
 - **Prophetic fulfillment** -- Zechariah 9:9, Malachi 3:1-3, Psalm 118, and Isaiah 56:7 converge in these events
 - **Total devotion** -- From the widow's offering to the greatest commandment, wholehearted love is the standard
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength. The second is this: You shall love your neighbor as yourself. There is no other commandment greater than these."
 > -- Mark 12:30-31

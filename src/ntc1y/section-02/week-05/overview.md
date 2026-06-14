@@ -33,11 +33,11 @@ Binding these readings together is the theme of authority. In Mark 3, Jesus demo
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Mark 3  | [Twelve Appointed, Beelzebul Controversy](../day-1) |
-| 2 | Matthew 5  | [Beatitudes, Salt and Light, Law Fulfilled](../day-2) |
-| 3 | Matthew 6  | [Lord's Prayer, Fasting, Treasures, Do Not Worry](../day-3) |
-| 4 | Matthew 7  | [Judging Others, Golden Rule, Two Gates, Wise Builder](../day-4) |
-| 5 | Luke 6  | [Sermon on the Plain, Love Your Enemies, Build on Rock](../day-5) |
+| 1 | Mark 3  | [Twelve Appointed, Beelzebul Controversy](../day-1/) |
+| 2 | Matthew 5  | [Beatitudes, Salt and Light, Law Fulfilled](../day-2/) |
+| 3 | Matthew 6  | [Lord's Prayer, Fasting, Treasures, Do Not Worry](../day-3/) |
+| 4 | Matthew 7  | [Judging Others, Golden Rule, Two Gates, Wise Builder](../day-4/) |
+| 5 | Luke 6  | [Sermon on the Plain, Love Your Enemies, Build on Rock](../day-5/) |
 
 ## Key Characters This Week
 
@@ -59,6 +59,6 @@ Binding these readings together is the theme of authority. In Mark 3, Jesus demo
 - **Inward Transformation** -- Jesus consistently pushes past external behavior to the heart. Murder begins with anger. Adultery begins with lust. Prayer must not be performative. Giving must be secret. The Kingdom of God transforms people from the inside out.
 - **Trust versus Anxiety** -- Matthew 6 presents a sustained call to trust God for daily provision rather than being consumed by worry about food, clothing, and tomorrow. "Seek first the kingdom of God and his righteousness, and all these things will be added to you."
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "But seek first the kingdom of God and his righteousness, and all these things will be added to you." -- Matthew 6:33 (ESV)

@@ -29,11 +29,11 @@ Then comes the sea. Luke's account of the voyage to Rome in Acts 27 is the most 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 23  | [Plot Against Paul, 40 Men Vow to Kill Him, Transfer to Caesarea Under Guard](../day-1) |
-| 2 | Acts 24  | [Trial Before Governor Felix, Paul Speaks of Righteousness and Judgment](../day-2) |
-| 3 | Acts 25  | [Appeal to Caesar, Festus Consults Agrippa](../day-3) |
-| 4 | Acts 26  | [Paul's Defense Before King Agrippa -- "Almost Persuaded"](../day-4) |
-| 5 | Acts 27  | [Voyage to Rome, Storm at Sea, Shipwreck on Malta](../day-5) |
+| 1 | Acts 23  | [Plot Against Paul, 40 Men Vow to Kill Him, Transfer to Caesarea Under Guard](../day-1/) |
+| 2 | Acts 24  | [Trial Before Governor Felix, Paul Speaks of Righteousness and Judgment](../day-2/) |
+| 3 | Acts 25  | [Appeal to Caesar, Festus Consults Agrippa](../day-3/) |
+| 4 | Acts 26  | [Paul's Defense Before King Agrippa -- "Almost Persuaded"](../day-4/) |
+| 5 | Acts 27  | [Voyage to Rome, Storm at Sea, Shipwreck on Malta](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle and Roman citizen, navigating the legal system with theological brilliance and unshakable trust in God's promise
@@ -57,7 +57,7 @@ Then comes the sea. Luke's account of the voyage to Rome in Acts 27 is the most 
 - **Providence in the storm** -- God does not always prevent suffering but sustains his people through it and accomplishes his purposes within it
 - **The continuity of Israel's hope** -- Paul consistently argues that the gospel is not a departure from Judaism but its fulfillment
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Then Agrippa said to Paul, 'In a short time would you persuade me to be a Christian?' And Paul said, 'Whether short or long, I would to God that not only you but also all who hear me this day might become such as I am -- except for these chains.'"
 > -- Acts 26:28-29

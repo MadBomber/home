@@ -29,11 +29,11 @@ Romans 1-4 constitutes the first major section of the letter, and its argument i
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 20:1-6  | [Paul Through Macedonia and Greece](../day-1) |
-| 2 | Romans 1  | [Gospel = Power of God, Wrath Against Suppressing Truth](../day-2) |
-| 3 | Romans 2  | [God's Righteous Judgment, True Circumcision of the Heart](../day-3) |
-| 4 | Romans 3  | [None Righteous, Justified Freely by Grace](../day-4) |
-| 5 | Romans 4  | [Abraham Justified by Faith, Promise Through Faith to All](../day-5) |
+| 1 | Acts 20:1-6  | [Paul Through Macedonia and Greece](../day-1/) |
+| 2 | Romans 1  | [Gospel = Power of God, Wrath Against Suppressing Truth](../day-2/) |
+| 3 | Romans 2  | [God's Righteous Judgment, True Circumcision of the Heart](../day-3/) |
+| 4 | Romans 3  | [None Righteous, Justified Freely by Grace](../day-4/) |
+| 5 | Romans 4  | [Abraham Justified by Faith, Promise Through Faith to All](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle writing from Corinth to introduce himself and his gospel to the Roman church he has never visited
@@ -54,7 +54,7 @@ Romans 1-4 constitutes the first major section of the letter, and its argument i
 - **The righteousness of God** -- God's righteousness is both his own attribute (his faithful justice) and his gift to those who believe
 - **Abraham as paradigm** -- Abraham was justified by faith before circumcision and before the law, establishing the pattern for both Jewish and Gentile believers
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile. For in the gospel the righteousness of God is revealed -- a righteousness that is by faith from first to last, just as it is written: 'The righteous will live by faith.'"
 > -- Romans 1:16-17

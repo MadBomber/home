@@ -29,11 +29,11 @@ These five days take us from Paul's deathbed to the theological heights of Hebre
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 2 Timothy 2  | [Soldier, Athlete, Farmer -- Endure Hardship, Approved Workman, Flee Youthful Passions](../day-1) |
-| 2 | 2 Timothy 3  | [Terrible Times in Last Days, Evil People, All Scripture Is God-Breathed](../day-2) |
-| 3 | 2 Timothy 4  | [Preach the Word, "I Have Fought the Good Fight", Paul's Farewell](../day-3) |
-| 4 | Hebrews 1  | [God Has Spoken Through His Son, Son Superior to Angels](../day-4) |
-| 5 | Hebrews 2  | [Don't Drift Away, Jesus Made Lower Than Angels, Pioneer of Salvation](../day-5) |
+| 1 | 2 Timothy 2  | [Soldier, Athlete, Farmer -- Endure Hardship, Approved Workman, Flee Youthful Passions](../day-1/) |
+| 2 | 2 Timothy 3  | [Terrible Times in Last Days, Evil People, All Scripture Is God-Breathed](../day-2/) |
+| 3 | 2 Timothy 4  | [Preach the Word, "I Have Fought the Good Fight", Paul's Farewell](../day-3/) |
+| 4 | Hebrews 1  | [God Has Spoken Through His Son, Son Superior to Angels](../day-4/) |
+| 5 | Hebrews 2  | [Don't Drift Away, Jesus Made Lower Than Angels, Pioneer of Salvation](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle writing his final letter from Roman imprisonment
@@ -55,7 +55,7 @@ These five days take us from Paul's deathbed to the theological heights of Hebre
 - **Faithfulness to the end** -- Paul models finishing well and charges Timothy to do the same
 - **Warning against apostasy** -- Both 2 Timothy and Hebrews warn of falling away
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work." -- 2 Timothy 3:16-17
 

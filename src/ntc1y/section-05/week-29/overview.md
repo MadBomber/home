@@ -30,11 +30,11 @@ The opening chapters of 1 Corinthians (1-4) lay the theological foundation for e
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 19  | [Ephesus -- Disciples of John, Extraordinary Miracles, Sons of Sceva, Riot](../day-1) |
-| 2 | 1 Corinthians 1  | [Divisions in Corinth, Wisdom of the Cross, Foolishness of God](../day-2) |
-| 3 | 1 Corinthians 2  | [God's Wisdom Revealed by the Spirit, Mind of Christ](../day-3) |
-| 4 | 1 Corinthians 3  | [Spiritual Immaturity, God's Temple, Building on the Foundation](../day-4) |
-| 5 | 1 Corinthians 4  | [Servants of Christ, Fools for Christ, Kingdom of Power](../day-5) |
+| 1 | Acts 19  | [Ephesus -- Disciples of John, Extraordinary Miracles, Sons of Sceva, Riot](../day-1/) |
+| 2 | 1 Corinthians 1  | [Divisions in Corinth, Wisdom of the Cross, Foolishness of God](../day-2/) |
+| 3 | 1 Corinthians 2  | [God's Wisdom Revealed by the Spirit, Mind of Christ](../day-3/) |
+| 4 | 1 Corinthians 3  | [Spiritual Immaturity, God's Temple, Building on the Foundation](../day-4/) |
+| 5 | 1 Corinthians 4  | [Servants of Christ, Fools for Christ, Kingdom of Power](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle ministering in Ephesus and writing to Corinth to address divisions and confusion
@@ -57,7 +57,7 @@ The opening chapters of 1 Corinthians (1-4) lay the theological foundation for e
 - **Spiritual maturity versus spiritual infancy** -- The Corinthians' divisions reveal that they are still thinking like the world, not like people taught by the Spirit
 - **Christ as the only foundation** -- All ministry is building on the one foundation already laid; the quality of that building will be tested by fire
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God."
 > -- 1 Corinthians 1:18

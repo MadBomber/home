@@ -34,11 +34,11 @@ Together, these readings paint a picture of a God who defies every category we c
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Luke 16  | [Shrewd Manager and Rich Man](../day-1) |
-| 2 | Luke 17  | [Faith, Gratitude, and the Kingdom](../day-2) |
-| 3 | Luke 18  | [Persistent Widow and Humble Prayer](../day-3) |
-| 4 | John 9  | [The Man Born Blind](../day-4) |
-| 5 | John 10  | [The Good Shepherd](../day-5) |
+| 1 | Luke 16  | [Shrewd Manager and Rich Man](../day-1/) |
+| 2 | Luke 17  | [Faith, Gratitude, and the Kingdom](../day-2/) |
+| 3 | Luke 18  | [Persistent Widow and Humble Prayer](../day-3/) |
+| 4 | John 9  | [The Man Born Blind](../day-4/) |
+| 5 | John 10  | [The Good Shepherd](../day-5/) |
 
 ## Key Characters This Week
 
@@ -63,6 +63,6 @@ Together, these readings paint a picture of a God who defies every category we c
 - **Spiritual Sight and Blindness** -- John 9 is the Gospel's great parable-in-action: physical blindness is healed while spiritual blindness is exposed and condemned.
 - **The Good Shepherd** -- Jesus' shepherd discourse fulfills Ezekiel 34 and reveals the sacrificial heart of God's love: the shepherd does not flee from the wolf but lays down his life.
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "The thief comes only to steal and kill and destroy; I came so that they would have life, and have it abundantly." -- John 10:10 (NASB)

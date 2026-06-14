@@ -28,11 +28,11 @@ This week we read slowly through these opening five chapters, savoring the rich 
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | Revelation 1  | [John's Vision of the Risen Christ on Patmos — Son of Man Among Lampstands](../day-1) |
-| 2 | Revelation 2  | [Letters to Ephesus, Smyrna, Pergamum, Thyatira](../day-2) |
-| 3 | Revelation 3  | [Letters to Sardis, Philadelphia, Laodicea](../day-3) |
-| 4 | Revelation 4  | [The Throne Room of Heaven — Twenty-Four Elders, Four Living Creatures](../day-4) |
-| 5 | Revelation 5  | [The Scroll and the Lamb — "Worthy Is the Lamb"](../day-5) |
+| 1 | Revelation 1  | [John's Vision of the Risen Christ on Patmos — Son of Man Among Lampstands](../day-1/) |
+| 2 | Revelation 2  | [Letters to Ephesus, Smyrna, Pergamum, Thyatira](../day-2/) |
+| 3 | Revelation 3  | [Letters to Sardis, Philadelphia, Laodicea](../day-3/) |
+| 4 | Revelation 4  | [The Throne Room of Heaven — Twenty-Four Elders, Four Living Creatures](../day-4/) |
+| 5 | Revelation 5  | [The Scroll and the Lamb — "Worthy Is the Lamb"](../day-5/) |
 
 ## Key Characters
 - **John** — The "beloved disciple," now elderly, exiled to Patmos under Emperor Domitian (c. 95 AD)
@@ -54,7 +54,7 @@ This week we read slowly through these opening five chapters, savoring the rich 
 - **Worship as reality** — Heaven's ceaseless worship reveals what is most real and most true about the universe
 - **Christ among the churches** — The risen Lord walks among his congregations, knowing them intimately
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "I am the Alpha and the Omega," says the Lord God, "who is, and who was, and who is to come, the Almighty." — Revelation 1:8
 

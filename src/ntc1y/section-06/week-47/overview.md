@@ -30,11 +30,11 @@ Chapter 12 then draws the practical conclusion. With such a "great cloud of witn
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | Hebrews 8  | [Jesus Ministers in True Heavenly Tabernacle, New Covenant Replaces Old](../day-1) |
-| 2 | Hebrews 9  | [Christ Enters the Greater Tabernacle with His Own Blood](../day-2) |
-| 3 | Hebrews 10  | [Once-for-All Sacrifice, Draw Near, Hold Fast, Spur One Another](../day-3) |
-| 4 | Hebrews 11  | [The Hall of Faith Heroes from Abel to the Prophets](../day-4) |
-| 5 | Hebrews 12  | [Run the Race, Fix Eyes on Jesus, Mount Sinai vs Mount Zion](../day-5) |
+| 1 | Hebrews 8  | [Jesus Ministers in True Heavenly Tabernacle, New Covenant Replaces Old](../day-1/) |
+| 2 | Hebrews 9  | [Christ Enters the Greater Tabernacle with His Own Blood](../day-2/) |
+| 3 | Hebrews 10  | [Once-for-All Sacrifice, Draw Near, Hold Fast, Spur One Another](../day-3/) |
+| 4 | Hebrews 11  | [The Hall of Faith Heroes from Abel to the Prophets](../day-4/) |
+| 5 | Hebrews 12  | [Run the Race, Fix Eyes on Jesus, Mount Sinai vs Mount Zion](../day-5/) |
 
 ## Key Characters
 - **Jesus Christ** -- The mediator of the new covenant, the great High Priest who entered the heavenly sanctuary with his own blood
@@ -55,7 +55,7 @@ Chapter 12 then draws the practical conclusion. With such a "great cloud of witn
 - **Endurance through witness** -- The testimony of those who have gone before provides both encouragement and accountability for the present race
 - **The consuming fire** -- God's holiness is not softened in the new covenant but met through the mediator Jesus, whose blood speaks a better word than Abel's
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Now faith is the substance of things hoped for, the evidence of things not seen." -- Hebrews 11:1
 

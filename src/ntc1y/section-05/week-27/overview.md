@@ -27,11 +27,11 @@ It is during this Corinthian stay, around 50-51 AD, that Paul writes his two let
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 18:1-17  | [Paul in Corinth -- Aquila & Priscilla, Gallio's Judgment Seat](../day-1) |
-| 2 | 1 Thessalonians 1  | [Thanksgiving for Thessalonians' Faith, Model to All Believers](../day-2) |
-| 3 | 1 Thessalonians 2  | [Paul's Ministry Among Them -- Not Flattery but Faithful](../day-3) |
-| 4 | 1 Thessalonians 3  | [Timothy's Encouraging Report, Prayer for Their Growth](../day-4) |
-| 5 | 1 Thessalonians 4  | [Live to Please God, Sexual Purity, Those Who Have Fallen Asleep](../day-5) |
+| 1 | Acts 18:1-17  | [Paul in Corinth -- Aquila & Priscilla, Gallio's Judgment Seat](../day-1/) |
+| 2 | 1 Thessalonians 1  | [Thanksgiving for Thessalonians' Faith, Model to All Believers](../day-2/) |
+| 3 | 1 Thessalonians 2  | [Paul's Ministry Among Them -- Not Flattery but Faithful](../day-3/) |
+| 4 | 1 Thessalonians 3  | [Timothy's Encouraging Report, Prayer for Their Growth](../day-4/) |
+| 5 | 1 Thessalonians 4  | [Live to Please God, Sexual Purity, Those Who Have Fallen Asleep](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle to the Gentiles, now planting a church in one of the Roman Empire's most important cities
@@ -54,7 +54,7 @@ It is during this Corinthian stay, around 50-51 AD, that Paul writes his two let
 - **Holy living in an unholy world** -- Sexual purity, love for one another, and quiet faithfulness as marks of the Christian life
 - **The second coming of Christ** -- The return of Jesus is the dominant theme of both Thessalonian letters
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first. Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord."
 > -- 1 Thessalonians 4:16-17

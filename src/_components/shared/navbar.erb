@@ -13,109 +13,24 @@
     </header>
 
     <div class="page-toolbar">
-      <div class="hamburger-wrapper">
-        <button class="toolbar-icon hamburger-btn" data-tooltip="Menu" aria-expanded="false" aria-label="Menu">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <line x1="3" y1="6" x2="21" y2="6"></line>
-            <line x1="3" y1="12" x2="21" y2="12"></line>
-            <line x1="3" y1="18" x2="21" y2="18"></line>
-          </svg>
-        </button>
-        <nav class="hamburger-menu" aria-label="Site navigation">
-          <ul>
-            <% unless on_landing_page? %>
-              <li><a href="<%= relative_url "#{study_prefix}/reading-plan/" %>">Reading Plan</a></li>
-              <li><a href="<%= relative_url "#{study_prefix}/memory-verses/" %>">Memory Verses</a></li>
-              <li data-feature="journal"><a href="<%= relative_url "#{study_prefix}/hear-journal/" %>">My Journal</a></li>
-              <li class="nav-separator" role="separator"></li>
-            <% end %>
-
-            <% docs = menu_documents %>
-            <% unless docs.empty? %>
-              <li class="nav-accordion">
-                <button class="nav-accordion-toggle" aria-expanded="false">
-                  Documents
-                  <svg class="nav-accordion-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="6 9 12 15 18 9"></polyline>
-                  </svg>
-                </button>
-                <ul class="nav-accordion-panel">
-                  <% docs.each do |doc| %>
-                    <li><a href="<%= relative_url doc["url"] %>"><%= doc["title"] %></a></li>
-                  <% end %>
-                </ul>
-              </li>
-            <% end %>
-
-            <% unless studies.empty? %>
-              <li class="nav-accordion">
-                <button class="nav-accordion-toggle" aria-expanded="false">
-                  All Studies
-                  <svg class="nav-accordion-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="6 9 12 15 18 9"></polyline>
-                  </svg>
-                </button>
-                <ul class="nav-accordion-panel">
-                  <% studies.each do |study| %>
-                    <li><a href="<%= relative_url "/#{study["slug"]}/" %>"><%= study["title"] %></a></li>
-                  <% end %>
-                </ul>
-              </li>
-            <% end %>
-
-            <li class="nav-separator" role="separator"></li>
-            <li><a href="<%= relative_url '/settings/' %>">Settings</a></li>
-            <% if study_slug %>
-              <li data-feature="group"><a href="<%= relative_url "#{study_prefix}/group-settings/" %>">Study Settings</a></li>
-            <% end %>
-          </ul>
-        </nav>
+      <div class="toolbar-center">
+        <a href="<%= relative_url '/' %>" class="toolbar-icon">Home</a>
+        <a href="<%= relative_url '/blog/' %>" class="toolbar-icon">Essays</a>
+        <% if @resource.data[:week] %>
+          <a href="../memory-verse/" class="toolbar-icon">Verse</a>
+        <% end %>
+        <% if @resource.data[:week] && @resource.data[:day] %>
+          <a href="<%= relative_url "#{study_prefix}/hear-journal/" %>?week=<%= @resource.data[:week] %>&day=<%= @resource.data[:day] %>&reading=<%= ERB::Util.url_encode(@resource.data[:reading].to_s) %>&title=<%= ERB::Util.url_encode(@resource.data[:title].to_s) %>" target="_blank" class="toolbar-icon" data-feature="journal">Journal</a>
+        <% end %>
+        <button class="toolbar-icon toolbar-speak-btn" data-feature="speak">Speak</button>
+        <a href="#" id="toolbar-share-email" class="toolbar-icon" data-feature="group">Share</a>
+        <button onclick="setTimeout(function(){window.print()},100)" class="toolbar-icon">Print</button>
       </div>
-      <a href="<%= relative_url '/blog/' %>" class="toolbar-icon" data-tooltip="Blog">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a4 4 0 0 1-4-4z"></path>
-          <line x1="9" y1="7" x2="17" y2="7"></line>
-          <line x1="9" y1="11" x2="17" y2="11"></line>
-          <line x1="9" y1="15" x2="13" y2="15"></line>
-        </svg>
-      </a>
-      <% if @resource.data[:week] %>
-        <a href="memory-verse" class="toolbar-icon" data-tooltip="This week's memory verse">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
-            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
-            <line x1="12" y1="7" x2="12" y2="13"></line>
-            <line x1="9" y1="10" x2="15" y2="10"></line>
-          </svg>
-        </a>
-      <% end %>
-      <% if @resource.data[:week] && @resource.data[:day] %>
-        <a href="<%= relative_url "#{study_prefix}/hear-journal/" %>?week=<%= @resource.data[:week] %>&day=<%= @resource.data[:day] %>&reading=<%= ERB::Util.url_encode(@resource.data[:reading].to_s) %>&title=<%= ERB::Util.url_encode(@resource.data[:title].to_s) %>" target="_blank" class="toolbar-icon" data-feature="journal" data-tooltip="H.E.A.R. Journal">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"></path>
-          </svg>
-        </a>
-      <% end %>
-      <button class="toolbar-icon toolbar-speak-btn" data-feature="speak" data-tooltip="Read page aloud">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
-          <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
-          <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
-        </svg>
-      </button>
-      <a href="#" id="toolbar-share-email" class="toolbar-icon" data-feature="group" data-tooltip="Email study group">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
-          <polyline points="22,6 12,13 2,6"></polyline>
-        </svg>
-      </a>
-      <button onclick="setTimeout(function(){window.print()},100)" class="toolbar-icon" data-tooltip="Print this page">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <polyline points="6 9 6 2 18 2 18 9"></polyline>
-          <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
-          <rect x="6" y="14" width="12" height="8"></rect>
-        </svg>
-      </button>
+
+      <div class="toolbar-right">
+        <a href="<%= relative_url '/settings/' %>" class="toolbar-icon">Settings</a>
+        <a href="<%= relative_url '/documents/about/' %>" class="toolbar-icon">About</a>
+      </div>
     </div>
   </div>
 </div>

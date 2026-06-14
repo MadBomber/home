@@ -85,7 +85,7 @@ He will do it. Paul's word for "completely" is *holoteleis* — whole and comple
 
 It was never the whole truth.
 
-I am not perfect — but through Jesus, the Holy Spirit, and the Bible, I am being made whole. That is *sanctification*. [*The Big Words*](/documents/the-big-words/) explains what it means.
+I am not perfect — but through Jesus, the Holy Spirit, and the Bible, I am being made whole. That is *sanctification*. [*The Big Words*](/blog/the-big-words/) explains what it means.
 
 ---
 

@@ -27,11 +27,11 @@ This week traverses an extraordinary range of pastoral territory. First Timothy 
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | 1 Timothy 6  | [Godliness with Contentment, Love of Money, Fight the Good Fight, Guard the Deposit](../day-1) |
-| 2 | Titus 1  | [Set Things in Order in Crete, Elder Qualifications, Rebuke False Teachers](../day-2) |
-| 3 | Titus 2  | [Sound Teaching for Each Group, Grace Has Appeared, Blessed Hope](../day-3) |
-| 4 | Titus 3  | [Good Works, Saved by Mercy Through Rebirth, Avoid Foolish Controversies](../day-4) |
-| 5 | 2 Timothy 1  | [Fan Into Flame, Spirit of Power/Love/Self-Discipline, Guard the Good Deposit](../day-5) |
+| 1 | 1 Timothy 6  | [Godliness with Contentment, Love of Money, Fight the Good Fight, Guard the Deposit](../day-1/) |
+| 2 | Titus 1  | [Set Things in Order in Crete, Elder Qualifications, Rebuke False Teachers](../day-2/) |
+| 3 | Titus 2  | [Sound Teaching for Each Group, Grace Has Appeared, Blessed Hope](../day-3/) |
+| 4 | Titus 3  | [Good Works, Saved by Mercy Through Rebirth, Avoid Foolish Controversies](../day-4/) |
+| 5 | 2 Timothy 1  | [Fan Into Flame, Spirit of Power/Love/Self-Discipline, Guard the Good Deposit](../day-5/) |
 
 ## Key Characters
 - **Paul** — Apostle, moving from relative freedom (1 Timothy, Titus) to his final imprisonment (2 Timothy)
@@ -50,7 +50,7 @@ This week traverses an extraordinary range of pastoral territory. First Timothy 
 - **Grace as teacher** — The grace that saves also instructs, teaching believers to reject ungodliness and to live self-controlled, upright, and godly lives while awaiting Christ's return
 - **Courage and faithfulness under pressure** — Paul's call to Timothy to "fan into flame" his gift and not be ashamed of the gospel is issued against the backdrop of abandonment and approaching death
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "For the grace of God has appeared that offers salvation to all people. It teaches us to say 'No' to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age." — Titus 2:11-12
 

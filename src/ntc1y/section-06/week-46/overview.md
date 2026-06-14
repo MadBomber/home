@@ -34,11 +34,11 @@ These five chapters are not merely academic theology. They are pastoral pleading
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Hebrews 3  | [Jesus Greater Than Moses -- Don't Harden Your Hearts](../day-1) |
-| 2 | Hebrews 4  | [The Sabbath Rest and the Living Word](../day-2) |
-| 3 | Hebrews 5  | [Called by God -- The Order of Melchizedek](../day-3) |
-| 4 | Hebrews 6  | [Press On to Maturity -- Hope as an Anchor](../day-4) |
-| 5 | Hebrews 7  | [Melchizedek and the Permanent Priesthood](../day-5) |
+| 1 | Hebrews 3  | [Jesus Greater Than Moses -- Don't Harden Your Hearts](../day-1/) |
+| 2 | Hebrews 4  | [The Sabbath Rest and the Living Word](../day-2/) |
+| 3 | Hebrews 5  | [Called by God -- The Order of Melchizedek](../day-3/) |
+| 4 | Hebrews 6  | [Press On to Maturity -- Hope as an Anchor](../day-4/) |
+| 5 | Hebrews 7  | [Melchizedek and the Permanent Priesthood](../day-5/) |
 
 ## Key Characters
 - **Jesus** -- Greater than Moses, greater than Joshua, high priest after the order of Melchizedek, source of eternal salvation
@@ -61,7 +61,7 @@ These five chapters are not merely academic theology. They are pastoral pleading
 - **Melchizedek's superior order** -- A priesthood that precedes, transcends, and renders obsolete the Levitical system
 - **Warning and encouragement** -- Stern warnings against falling away are balanced by assurances of God's faithfulness
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart." -- Hebrews 4:12
 

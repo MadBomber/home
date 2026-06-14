@@ -28,11 +28,11 @@ These five chapters form the theological backbone not only of Romans but of the 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Romans 5  | [Peace with God Through Faith, Adam vs Christ, Grace Abounds](../day-1) |
-| 2 | Romans 6  | [Dead to Sin Alive in Christ, Baptism Into His Death, Slaves of Righteousness](../day-2) |
-| 3 | Romans 7  | [Released from the Law, Inner Struggle -- "What I Want to Do I Do Not Do"](../day-3) |
-| 4 | Romans 8  | [No Condemnation, Life in the Spirit, Abba Father, Nothing Can Separate Us](../day-4) |
-| 5 | Romans 9  | [God's Sovereign Choice, Potter and Clay, Israel's Rejection](../day-5) |
+| 1 | Romans 5  | [Peace with God Through Faith, Adam vs Christ, Grace Abounds](../day-1/) |
+| 2 | Romans 6  | [Dead to Sin Alive in Christ, Baptism Into His Death, Slaves of Righteousness](../day-2/) |
+| 3 | Romans 7  | [Released from the Law, Inner Struggle -- "What I Want to Do I Do Not Do"](../day-3/) |
+| 4 | Romans 8  | [No Condemnation, Life in the Spirit, Abba Father, Nothing Can Separate Us](../day-4/) |
+| 5 | Romans 9  | [God's Sovereign Choice, Potter and Clay, Israel's Rejection](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle writing from Corinth to the Roman churches, laying out the most systematic presentation of the gospel in all his letters
@@ -53,7 +53,7 @@ These five chapters form the theological backbone not only of Romans but of the 
 - **Life in the Spirit** -- No condemnation, adoption as children, the Spirit's intercession, and the assurance of final glorification
 - **God's sovereignty and election** -- God's freedom to show mercy and harden, and the mystery of Israel's unbelief
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
 > -- Romans 8:28

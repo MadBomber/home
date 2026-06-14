@@ -34,11 +34,11 @@ Together, these two accounts form a breathtaking composite. We see the full huma
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Luke 22:39-71  | [Gethsemane, Arrest, Peter's Denial, Sanhedrin Hearing](../day-1) |
-| 2 | Luke 23:1-25  | [Trial Before Pilate, Sent to Herod, Barabbas Released](../day-2) |
-| 3 | Luke 23:26-56  | [Road to Calvary, Crucifixion, Death, Burial](../day-3) |
-| 4 | John 18  | [Arrest, Trial Before Annas and Caiaphas, Peter's Denial, Before Pilate](../day-4) |
-| 5 | John 19  | [Flogging, Crucifixion, "It Is Finished," Burial](../day-5) |
+| 1 | Luke 22:39-71  | [Gethsemane, Arrest, Peter's Denial, Sanhedrin Hearing](../day-1/) |
+| 2 | Luke 23:1-25  | [Trial Before Pilate, Sent to Herod, Barabbas Released](../day-2/) |
+| 3 | Luke 23:26-56  | [Road to Calvary, Crucifixion, Death, Burial](../day-3/) |
+| 4 | John 18  | [Arrest, Trial Before Annas and Caiaphas, Peter's Denial, Before Pilate](../day-4/) |
+| 5 | John 19  | [Flogging, Crucifixion, "It Is Finished," Burial](../day-5/) |
 
 ## Key Characters This Week
 
@@ -69,7 +69,7 @@ Together, these two accounts form a breathtaking composite. We see the full huma
 - **The Failure of Human Justice** -- Every human institution -- religious and civil, Jewish and Roman -- fails Jesus. The cross exposes the bankruptcy of all systems apart from God.
 - **The Torn Curtain** -- The temple veil ripping from top to bottom signals the end of the old sacrificial system and the opening of direct access to God for all people.
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "And Jesus said, 'Father, forgive them, for they do not know what they are doing.'" -- Luke 23:34 (NASB)
 

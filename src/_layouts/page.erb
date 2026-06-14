@@ -28,6 +28,10 @@ layout: default
   <%= render "memory_verse_callout", mv: _mv, mv_url: _mv_url, week: data.week, hide_book_link: false %>
   <% end %>
 
+  <% if data.section_number && data.week.nil? %>
+  <%= render "section_nav" %>
+  <% end %>
+
   <% if data.week %>
   <%
     _study_slug   = data.study_slug

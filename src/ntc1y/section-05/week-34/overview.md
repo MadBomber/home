@@ -30,11 +30,11 @@ Chapter 12 contains the astonishing account of Paul's visionary experience -- ca
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 2 Corinthians 9  | [Cheerful Giving, God Loves a Cheerful Giver, God's Abundant Provision, Indescribable Gift](../day-1) |
-| 2 | 2 Corinthians 10  | [Paul's Authority, Divine Weapons for Demolishing Strongholds, Boasting in the Lord](../day-2) |
-| 3 | 2 Corinthians 11  | [Paul vs False "Super-Apostles", Catalog of Sufferings -- Beatings, Shipwrecks, Dangers](../day-3) |
-| 4 | 2 Corinthians 12  | [Caught Up to Third Heaven, Thorn in the Flesh, "My Grace Is Sufficient", Power in Weakness](../day-4) |
-| 5 | 2 Corinthians 13  | [Final Warnings, Examine Yourselves, Trinitarian Benediction](../day-5) |
+| 1 | 2 Corinthians 9  | [Cheerful Giving, God Loves a Cheerful Giver, God's Abundant Provision, Indescribable Gift](../day-1/) |
+| 2 | 2 Corinthians 10  | [Paul's Authority, Divine Weapons for Demolishing Strongholds, Boasting in the Lord](../day-2/) |
+| 3 | 2 Corinthians 11  | [Paul vs False "Super-Apostles", Catalog of Sufferings -- Beatings, Shipwrecks, Dangers](../day-3/) |
+| 4 | 2 Corinthians 12  | [Caught Up to Third Heaven, Thorn in the Flesh, "My Grace Is Sufficient", Power in Weakness](../day-4/) |
+| 5 | 2 Corinthians 13  | [Final Warnings, Examine Yourselves, Trinitarian Benediction](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle making his most passionate and personal defense, boasting in weakness as the paradoxical proof of authentic ministry
@@ -56,7 +56,7 @@ Chapter 12 contains the astonishing account of Paul's visionary experience -- ca
 - **Self-examination** -- Believers are called to test themselves and confirm that Christ is truly in them
 - **Trinitarian blessing** -- The earliest complete trinitarian formula, affirming the distinct and united work of Father, Son, and Spirit
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me."
 > -- 2 Corinthians 12:9

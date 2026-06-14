@@ -1,0 +1,52 @@
+<%
+  _sn      = data.section_number.to_i
+  _slug    = data.study_slug
+
+  _all_secs = site.resources
+    .select { |r| r.data[:study_slug] == _slug && r.data[:section_number] && r.data[:week].nil? }
+    .map    { |r| r.data[:section_number].to_i }
+    .sort
+    .uniq
+
+  _min_sn  = _all_secs.first || 1
+  _max_sn  = _all_secs.last  || _sn
+
+  _sec_url = ->(n) { "/#{_slug}/section-#{'%02d' % n}/" }
+
+  # Always show first + last + current ± 2; ellipsis fills gaps
+  _visible = ([_min_sn, _max_sn] + (_sn - 2.._sn + 2).to_a)
+    .select { |n| n.between?(_min_sn, _max_sn) }
+    .uniq.sort
+%>
+<nav class="section-nav" aria-label="Section navigation">
+  <% if _sn > _min_sn %>
+    <a href="<%= relative_url _sec_url.call(_min_sn) %>" class="section-nav-word">First</a>
+    <a href="<%= relative_url _sec_url.call(_sn - 1) %>" class="section-nav-word">Prev</a>
+  <% else %>
+    <span class="section-nav-word section-nav-disabled">First</span>
+    <span class="section-nav-word section-nav-disabled">Prev</span>
+  <% end %>
+
+  <div class="section-nav-pages">
+    <% _prev_n = nil %>
+    <% _visible.each do |_n| %>
+      <% if _prev_n && _n > _prev_n + 1 %>
+        <span class="section-nav-ellipsis">&hellip;</span>
+      <% end %>
+      <% if _n == _sn %>
+        <span class="section-nav-page current"><%= _n %></span>
+      <% else %>
+        <a href="<%= relative_url _sec_url.call(_n) %>" class="section-nav-page"><%= _n %></a>
+      <% end %>
+      <% _prev_n = _n %>
+    <% end %>
+  </div>
+
+  <% if _sn < _max_sn %>
+    <a href="<%= relative_url _sec_url.call(_sn + 1) %>" class="section-nav-word">Next</a>
+    <a href="<%= relative_url _sec_url.call(_max_sn) %>" class="section-nav-word">Last</a>
+  <% else %>
+    <span class="section-nav-word section-nav-disabled">Next</span>
+    <span class="section-nav-word section-nav-disabled">Last</span>
+  <% end %>
+</nav>

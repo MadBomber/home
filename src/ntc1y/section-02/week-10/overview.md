@@ -26,11 +26,11 @@ The Transfiguration, which follows six days later, provides divine confirmation 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Mark 8:27-38  | [Peter's Confession at Caesarea Philippi, First Passion Prediction, Take Up Cross](../day-1) |
-| 2 | Matthew 16  | [Peter's Confession, Keys of the Kingdom, Take Up Your Cross](../day-2) |
-| 3 | Mark 9:1-29  | [Transfiguration, Boy with Unclean Spirit](../day-3) |
-| 4 | Matthew 17  | [Transfiguration, Epileptic Boy, Temple Tax](../day-4) |
-| 5 | Mark 9:30-50  | [Second Passion Prediction, Who Is Greatest, Salt](../day-5) |
+| 1 | Mark 8:27-38  | [Peter's Confession at Caesarea Philippi, First Passion Prediction, Take Up Cross](../day-1/) |
+| 2 | Matthew 16  | [Peter's Confession, Keys of the Kingdom, Take Up Your Cross](../day-2/) |
+| 3 | Mark 9:1-29  | [Transfiguration, Boy with Unclean Spirit](../day-3/) |
+| 4 | Matthew 17  | [Transfiguration, Epileptic Boy, Temple Tax](../day-4/) |
+| 5 | Mark 9:30-50  | [Second Passion Prediction, Who Is Greatest, Salt](../day-5/) |
 
 ## Key Characters
 - **Jesus** -- The Christ who redefines messiahship through suffering
@@ -54,7 +54,7 @@ The Transfiguration, which follows six days later, provides divine confirmation 
 - **Faith amid failure** -- The disciples repeatedly misunderstand, yet Jesus continues to teach, correct, and include them
 - **True greatness** -- In the kingdom of God, the greatest is the servant of all, and welcoming a child is welcoming God himself
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "And he asked them, 'But who do you say that I am?' Peter answered him, 'You are the Christ.'"
 > -- Mark 8:29

@@ -28,11 +28,11 @@ Colossians then takes us into the cosmic dimensions of Christology. The Christ H
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | Philippians 4  | [Rejoice in the Lord Always, Peace of God, Contentment, "I Can Do All Things"](../day-1) |
-| 2 | Colossians 1  | [Supremacy of Christ — Christ Hymn, Reconciliation, Paul's Labor](../day-2) |
-| 3 | Colossians 2  | [Fullness of Deity in Christ, Don't Be Captive to Philosophy, Dead to Regulations](../day-3) |
-| 4 | Colossians 3  | [Set Minds on Things Above, Put Off/Put On, Household Code](../day-4) |
-| 5 | Colossians 4 + Philemon  | [Prayer, Wisdom with Outsiders, Greetings; Appeal for Onesimus](../day-5) |
+| 1 | Philippians 4  | [Rejoice in the Lord Always, Peace of God, Contentment, "I Can Do All Things"](../day-1/) |
+| 2 | Colossians 1  | [Supremacy of Christ — Christ Hymn, Reconciliation, Paul's Labor](../day-2/) |
+| 3 | Colossians 2  | [Fullness of Deity in Christ, Don't Be Captive to Philosophy, Dead to Regulations](../day-3/) |
+| 4 | Colossians 3  | [Set Minds on Things Above, Put Off/Put On, Household Code](../day-4/) |
+| 5 | Colossians 4 + Philemon  | [Prayer, Wisdom with Outsiders, Greetings; Appeal for Onesimus](../day-5/) |
 
 ## Key Characters
 - **Paul** — Apostle, writing from Roman imprisonment (c. 60-62 AD)
@@ -55,7 +55,7 @@ Colossians then takes us into the cosmic dimensions of Christology. The Christ H
 - **Sufficiency of Christ** — No need to add philosophy, legalism, or mysticism to the gospel
 - **New identity in Christ** — "Put off" the old self, "put on" the new; master and slave become brothers
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus." — Philippians 4:6-7
 

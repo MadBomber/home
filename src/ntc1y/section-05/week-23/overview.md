@@ -34,11 +34,11 @@ Then we turn to Acts 9-10, and the pace shifts from pastoral instruction to dram
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | James 3  | [Taming the Tongue, Two Kinds of Wisdom](../day-1) |
-| 2 | James 4  | [Friendship with the World, Submit to God](../day-2) |
-| 3 | James 5  | [Warning to the Rich, Prayer of Faith](../day-3) |
-| 4 | Acts 9  | [Saul's Conversion on the Damascus Road](../day-4) |
-| 5 | Acts 10  | [Cornelius' Vision, the Gospel to the Gentiles](../day-5) |
+| 1 | James 3  | [Taming the Tongue, Two Kinds of Wisdom](../day-1/) |
+| 2 | James 4  | [Friendship with the World, Submit to God](../day-2/) |
+| 3 | James 5  | [Warning to the Rich, Prayer of Faith](../day-3/) |
+| 4 | Acts 9  | [Saul's Conversion on the Damascus Road](../day-4/) |
+| 5 | Acts 10  | [Cornelius' Vision, the Gospel to the Gentiles](../day-5/) |
 
 ## Key Characters
 - **James** — The Lord's brother, author of this practical letter, pastor of the Jerusalem church
@@ -64,7 +64,7 @@ Then we turn to Acts 9-10, and the pace shifts from pastoral instruction to dram
 - **Gentile inclusion** — The Holy Spirit breaks through ethnic and religious boundaries to create one people of God
 - **The prayer of faith** — James envisions a community that prays with expectation and restores those who wander
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Draw near to God, and he will draw near to you."
 > — James 4:8

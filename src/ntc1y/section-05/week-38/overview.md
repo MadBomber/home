@@ -28,11 +28,11 @@ Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- A
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Romans 15  | [Accept One Another as Christ Accepted You](../day-1) |
-| 2 | Romans 16  | [Greetings, Warnings, and Doxology](../day-2) |
-| 3 | Acts 20:7-38  | [Eutychus and Farewell to the Ephesian Elders](../day-3) |
-| 4 | Acts 21  | [Journey to Jerusalem and Arrest in the Temple](../day-4) |
-| 5 | Acts 22  | [Paul's Defense -- Conversion Testimony in Hebrew](../day-5) |
+| 1 | Romans 15  | [Accept One Another as Christ Accepted You](../day-1/) |
+| 2 | Romans 16  | [Greetings, Warnings, and Doxology](../day-2/) |
+| 3 | Acts 20:7-38  | [Eutychus and Farewell to the Ephesian Elders](../day-3/) |
+| 4 | Acts 21  | [Journey to Jerusalem and Arrest in the Temple](../day-4/) |
+| 5 | Acts 22  | [Paul's Defense -- Conversion Testimony in Hebrew](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle completing his letter to Rome and traveling toward Jerusalem with full knowledge that suffering awaits
@@ -58,7 +58,7 @@ Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- A
 - **Testimony as defense** -- Paul's conversion story is simultaneously his legal defense and his most powerful evangelistic tool
 - **Jew-Gentile unity as God's eternal purpose** -- From Romans 15's vision of Jew and Gentile glorifying God together to Acts 22's explosive mention of the Gentile mission, the inclusion of all nations remains the central issue
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "But I do not account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God."
 > -- Acts 20:24

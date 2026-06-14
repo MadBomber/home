@@ -27,11 +27,11 @@ The teaching culminates in three extended parables -- the Ten Virgins, the Talen
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 22  | [Wedding Banquet, Taxes to Caesar, Resurrection, Greatest Command](../day-1) |
-| 2 | Matthew 23  | [Seven Woes to Scribes and Pharisees, Lament over Jerusalem](../day-2) |
-| 3 | Matthew 24  | [Signs of the End, Abomination, Coming of Son of Man, Stay Ready](../day-3) |
-| 4 | Matthew 25:1-30  | [Parable of Ten Virgins, Parable of the Talents](../day-4) |
-| 5 | Matthew 25:31-46 + Luke 21  | [Sheep and Goats, Luke's Olivet Discourse](../day-5) |
+| 1 | Matthew 22  | [Wedding Banquet, Taxes to Caesar, Resurrection, Greatest Command](../day-1/) |
+| 2 | Matthew 23  | [Seven Woes to Scribes and Pharisees, Lament over Jerusalem](../day-2/) |
+| 3 | Matthew 24  | [Signs of the End, Abomination, Coming of Son of Man, Stay Ready](../day-3/) |
+| 4 | Matthew 25:1-30  | [Parable of Ten Virgins, Parable of the Talents](../day-4/) |
+| 5 | Matthew 25:31-46 + Luke 21  | [Sheep and Goats, Luke's Olivet Discourse](../day-5/) |
 
 ## Key Characters
 - **Jesus** -- Prophet, judge, and coming King who pronounces woes, foretells destruction, and describes the final judgment
@@ -53,7 +53,7 @@ The teaching culminates in three extended parables -- the Ten Virgins, the Talen
 - **Faithful stewardship** -- What God has entrusted must be invested, not buried; readiness is active, not passive
 - **Compassion as criterion** -- The final judgment scene reveals that service to "the least" is service to Christ himself
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "And the King will answer them, 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'"
 > -- Matthew 25:40

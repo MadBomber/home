@@ -31,11 +31,11 @@ Yet these letters do not end in despair. Second Peter closes with the breathtaki
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | 1 Peter 5  | [Elders as Shepherds, Humility, Casting Anxiety on God, Resisting the Devil](../day-1) |
-| 2 | 2 Peter 1  | [Growing in Virtue, Peter's Eyewitness of the Transfiguration, Scripture's Origin](../day-2) |
-| 3 | 2 Peter 2  | [False Teachers, Divine Judgment on Angels/Flood/Sodom, Balaam's Error](../day-3) |
-| 4 | 2 Peter 3  | [Scoffers and the Second Coming, New Heavens and New Earth](../day-4) |
-| 5 | Jude  | [Contending for the Faith, False Teachers Condemned, The Great Doxology](../day-5) |
+| 1 | 1 Peter 5  | [Elders as Shepherds, Humility, Casting Anxiety on God, Resisting the Devil](../day-1/) |
+| 2 | 2 Peter 1  | [Growing in Virtue, Peter's Eyewitness of the Transfiguration, Scripture's Origin](../day-2/) |
+| 3 | 2 Peter 2  | [False Teachers, Divine Judgment on Angels/Flood/Sodom, Balaam's Error](../day-3/) |
+| 4 | 2 Peter 3  | [Scoffers and the Second Coming, New Heavens and New Earth](../day-4/) |
+| 5 | Jude  | [Contending for the Faith, False Teachers Condemned, The Great Doxology](../day-5/) |
 
 ## Key Characters
 - **Peter** -- Apostle, eyewitness of Christ's transfiguration, writing near the end of his life (c. 64-67 AD)
@@ -55,7 +55,7 @@ Yet these letters do not end in despair. Second Peter closes with the breathtaki
 - **The certainty of Christ's return** -- Against scoffers who mock the delay, Peter reframes divine patience as salvation opportunity and promises the ultimate renewal of all creation
 - **Kept by God** -- Jude's doxology declares that perseverance is ultimately God's work: he is able to keep believers from stumbling and present them faultless before his glory
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Cast all your anxiety on him because he cares for you." -- 1 Peter 5:7
 

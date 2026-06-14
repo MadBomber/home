@@ -22,13 +22,13 @@ Then the cross. Two Gospel writers — Luke and John — walk us through every h
 
 And then — the empty tomb. The stone rolled away. The grave clothes lying undisturbed. An angel sitting where a corpse should be. Mary Magdalene weeping in the garden until a familiar voice speaks her name. Two heartbroken travelers on the road to Emmaus whose eyes are opened at the breaking of bread. Thomas, the honest doubter, placing his fingers in the nail marks and falling to his knees: "My Lord and my God." Peter, restored by the lakeshore with a threefold question that mirrors his threefold denial: "Do you love me?" The witnesses are many, the details vary, the emotions range from terror to uncontainable joy — exactly what you would expect from people trying to describe an event so immense that no single perspective could hold it all.
 
-By the end of these four weeks, you will have walked through the darkest valley and emerged into the light on the other side. The cross is not a tragedy redeemed. It is the redemption itself. And the resurrection is not a postscript. It is the beginning of a new world — the firstfruits of everything God has promised. The risen Christ now commissions his followers to carry this story to every nation on earth. That mission begins in Phase 5.
+By the end of these four weeks, you will have walked through the darkest valley and emerged into the light on the other side. The cross is not a tragedy redeemed. It is the redemption itself. And the resurrection is not a postscript. It is the beginning of a new world — the firstfruits of everything God has promised. The risen Christ now commissions his followers to carry this story to every nation on earth. That mission begins in Section 5.
 
-## Weeks in This Phase
+## Weeks in This Section
 
 | Week | Title | |
 |------|-------|-|
-| 17 | The Upper Room | [Start](week-17/overview) |
-| 18 | Gethsemane and Trial | [Start](week-18/overview) |
-| 19 | The Cross | [Start](week-19/overview) |
-| 20 | He Is Risen | [Start](week-20/overview) |
+| 17 | The Upper Room | [Start](week-17/overview/) |
+| 18 | Gethsemane and Trial | [Start](week-18/overview/) |
+| 19 | The Cross | [Start](week-19/overview/) |
+| 20 | He Is Risen | [Start](week-20/overview/) |

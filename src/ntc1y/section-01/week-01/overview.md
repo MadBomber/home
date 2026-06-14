@@ -31,11 +31,11 @@ Matthew adds his own essential perspective, tracing Jesus' lineage through the r
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | John 1:1-18  | [The Word Became Flesh](../day-1) |
-| 2 | Luke 1:1-38  | [Annunciations to Zechariah and Mary](../day-2) |
-| 3 | Luke 1:39-80  | [The Magnificat and Benedictus](../day-3) |
-| 4 | Matthew 1  | [Genealogy and Joseph's Dream](../day-4) |
-| 5 | Luke 2:1-20  | [The Birth of Jesus](../day-5) |
+| 1 | John 1:1-18  | [The Word Became Flesh](../day-1/) |
+| 2 | Luke 1:1-38  | [Annunciations to Zechariah and Mary](../day-2/) |
+| 3 | Luke 1:39-80  | [The Magnificat and Benedictus](../day-3/) |
+| 4 | Matthew 1  | [Genealogy and Joseph's Dream](../day-4/) |
+| 5 | Luke 2:1-20  | [The Birth of Jesus](../day-5/) |
 
 ## Key Characters This Week
 
@@ -63,9 +63,9 @@ Matthew adds his own essential perspective, tracing Jesus' lineage through the r
 - **Reversal of Expectations** -- God consistently works through the unexpected: a barren elderly couple, an unmarried young woman, a quiet carpenter, a feeding trough for a crib, shepherds as the first witnesses. The Kingdom arrives upside-down by the world's standards.
 - **Light and Darkness** -- John's prologue introduces the cosmic conflict between light and darkness that runs through the entire New Testament. The light shines in the darkness, and the darkness has not overcome it.
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth." -- John 1:14 (ESV)
 
 ---
-*[Day 1](../day-1) | Next: [Week 2](../week-02/overview)*
+*[Day 1](../day-1/) | Next: [Week 2](../../week-02/overview/)*

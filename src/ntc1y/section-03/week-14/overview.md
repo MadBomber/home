@@ -35,11 +35,11 @@ The week closes in Jericho with Zacchaeus, the chief tax collector who climbed a
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 19  | [Divorce Teaching, Let the Children Come, Rich Young Man](../day-1) |
-| 2 | Matthew 20  | [Workers in the Vineyard, Third Passion Prediction, Servanthood](../day-2) |
-| 3 | John 11:1-44  | [Raising of Lazarus — "I Am the Resurrection and the Life"](../day-3) |
-| 4 | John 11:45-57  | [Sanhedrin Plots, Caiaphas' Unconscious Prophecy](../day-4) |
-| 5 | Luke 19:1-27  | [Zacchaeus, Parable of Ten Minas](../day-5) |
+| 1 | Matthew 19  | [Divorce Teaching, Let the Children Come, Rich Young Man](../day-1/) |
+| 2 | Matthew 20  | [Workers in the Vineyard, Third Passion Prediction, Servanthood](../day-2/) |
+| 3 | John 11:1-44  | [Raising of Lazarus — "I Am the Resurrection and the Life"](../day-3/) |
+| 4 | John 11:45-57  | [Sanhedrin Plots, Caiaphas' Unconscious Prophecy](../day-4/) |
+| 5 | Luke 19:1-27  | [Zacchaeus, Parable of Ten Minas](../day-5/) |
 
 ## Key Characters
 - **Jesus** -- The one who raises the dead, weeps at the grave, and declares himself the resurrection and the life
@@ -62,7 +62,7 @@ The week closes in Jericho with Zacchaeus, the chief tax collector who climbed a
 - **Prophetic irony** -- Caiaphas' political calculation that one man should die for the nation becomes, in John's hands, a statement of substitutionary atonement
 - **Salvation as transformation** -- Zacchaeus' radical generosity demonstrates that genuine encounter with Jesus produces visible, measurable change
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Jesus said to her, 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?'"
 > -- John 11:25-26

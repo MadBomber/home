@@ -28,11 +28,11 @@ The thread connecting these diverse chapters is hope -- the certain hope of bodi
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 1 Corinthians 15  | [Resurrection — Eyewitness Testimony, Resurrection Body](../day-1) |
-| 2 | 1 Corinthians 16  | [Collection for Jerusalem, Travel Plans, Stand Firm](../day-2) |
-| 3 | 2 Corinthians 1  | [God of All Comfort, Paul's Sufferings in Asia](../day-3) |
-| 4 | 2 Corinthians 2  | [Forgive the Offender, Triumphal Procession](../day-4) |
-| 5 | 2 Corinthians 3  | [Ministers of New Covenant, Unveiled Faces Reflecting Glory](../day-5) |
+| 1 | 1 Corinthians 15  | [Resurrection — Eyewitness Testimony, Resurrection Body](../day-1/) |
+| 2 | 1 Corinthians 16  | [Collection for Jerusalem, Travel Plans, Stand Firm](../day-2/) |
+| 3 | 2 Corinthians 1  | [God of All Comfort, Paul's Sufferings in Asia](../day-3/) |
+| 4 | 2 Corinthians 2  | [Forgive the Offender, Triumphal Procession](../day-4/) |
+| 5 | 2 Corinthians 3  | [Ministers of New Covenant, Unveiled Faces Reflecting Glory](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle writing from Ephesus (1 Cor) and later from Macedonia (2 Cor), deeply vulnerable about his sufferings
@@ -56,7 +56,7 @@ The thread connecting these diverse chapters is hope -- the certain hope of bodi
 - **New covenant ministry** -- The ministry of the Spirit surpasses the ministry of the law as permanent glory surpasses fading glory
 - **Transformation into glory** -- With unveiled faces, believers are being progressively changed into the image of Christ by the Spirit
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Where, O death, is your victory? Where, O death, is your sting? The sting of death is sin, and the power of sin is the law. But thanks be to God! He gives us the victory through our Lord Jesus Christ."
 > -- 1 Corinthians 15:55-57

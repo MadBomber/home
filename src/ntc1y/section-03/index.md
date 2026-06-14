@@ -22,14 +22,14 @@ Then comes the sign that changes everything. Jesus raises Lazarus from a tomb af
 
 The final two weeks erupt in Jerusalem. Jesus rides into the city on a donkey — a deliberate prophetic act claiming the throne of David in the humblest way possible. He drives the merchants from the temple, curses a fruitless fig tree, and engages in a series of confrontations with the religious authorities that leave them silenced but seething. Then, from the Mount of Olives, he weeps over Jerusalem and delivers his longest teaching on the end of the age — the destruction of the temple, the coming of the Son of Man, and three parables that press a single question: When the master returns, will you be ready? The answer, he says, will not be measured by theological sophistication but by whether you fed the hungry, welcomed the stranger, and visited the prisoner.
 
-By the end of Phase 3, the stage is set. The claims have been made, the battle lines drawn, the prophecies spoken. Jesus has arrived in Jerusalem for the last time. What happens next will shake the foundations of the world.
+By the end of Section 3, the stage is set. The claims have been made, the battle lines drawn, the prophecies spoken. Jesus has arrived in Jerusalem for the last time. What happens next will shake the foundations of the world.
 
-## Weeks in This Phase
+## Weeks in This Section
 
 | Week | Title | |
 |------|-------|-|
-| 12 | Conflict and Compassion | [Start](week-12/overview) |
-| 13 | Parables of Grace | [Start](week-13/overview) |
-| 14 | Signs and Confrontations | [Start](week-14/overview) |
-| 15 | The Final Week Begins | [Start](week-15/overview) |
-| 16 | Olivet Discourse | [Start](week-16/overview) |
+| 12 | Conflict and Compassion | [Start](week-12/overview/) |
+| 13 | Parables of Grace | [Start](week-13/overview/) |
+| 14 | Signs and Confrontations | [Start](week-14/overview/) |
+| 15 | The Final Week Begins | [Start](week-15/overview/) |
+| 16 | Olivet Discourse | [Start](week-16/overview/) |

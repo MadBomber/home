@@ -31,11 +31,11 @@ Chapter 4 then pivots with a single word: "therefore." Everything that follows -
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 28  | [Malta, Rome, and the Open Ending](../day-1) |
-| 2 | Ephesians 1  | [Every Spiritual Blessing in the Heavenly Places](../day-2) |
-| 3 | Ephesians 2  | ["But God" -- Grace, Faith, and One New Humanity](../day-3) |
-| 4 | Ephesians 3  | [The Mystery Revealed -- Prayer for Power and Love](../day-4) |
-| 5 | Ephesians 4  | [Walk Worthy -- Unity, Gifts, and the New Self](../day-5) |
+| 1 | Acts 28  | [Malta, Rome, and the Open Ending](../day-1/) |
+| 2 | Ephesians 1  | [Every Spiritual Blessing in the Heavenly Places](../day-2/) |
+| 3 | Ephesians 2  | ["But God" -- Grace, Faith, and One New Humanity](../day-3/) |
+| 4 | Ephesians 3  | [The Mystery Revealed -- Prayer for Power and Love](../day-4/) |
+| 5 | Ephesians 4  | [Walk Worthy -- Unity, Gifts, and the New Self](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle and prisoner, preaching the kingdom from a rented house in Rome and writing his most exalted letter
@@ -55,7 +55,7 @@ Chapter 4 then pivots with a single word: "therefore." Everything that follows -
 - **The mystery revealed** -- Gentiles are not afterthoughts but co-heirs, co-members, and co-sharers in God's promise through Christ
 - **Unity in diversity** -- The church is one body with many gifts, called to maintain the unity the Spirit has already created
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."
 > -- Ephesians 2:8-9

@@ -29,11 +29,11 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Romans 10  | [Salvation for All Who Call, Faith Comes by Hearing](../day-1) |
-| 2 | Romans 11  | [Remnant of Grace, Olive Tree, All Israel Saved](../day-2) |
-| 3 | Romans 12  | [Living Sacrifice, Renewed Mind, Overcome Evil with Good](../day-3) |
-| 4 | Romans 13  | [Submit to Authorities, Love Fulfills the Law, Put on Christ](../day-4) |
-| 5 | Romans 14  | [Don't Judge on Disputable Matters, Don't Cause Stumbling](../day-5) |
+| 1 | Romans 10  | [Salvation for All Who Call, Faith Comes by Hearing](../day-1/) |
+| 2 | Romans 11  | [Remnant of Grace, Olive Tree, All Israel Saved](../day-2/) |
+| 3 | Romans 12  | [Living Sacrifice, Renewed Mind, Overcome Evil with Good](../day-3/) |
+| 4 | Romans 13  | [Submit to Authorities, Love Fulfills the Law, Put on Christ](../day-4/) |
+| 5 | Romans 14  | [Don't Judge on Disputable Matters, Don't Cause Stumbling](../day-5/) |
 
 ## Key Characters
 - **Paul** -- Apostle whose heart's desire is Israel's salvation, now also laying out the ethical vision of the gospel
@@ -55,7 +55,7 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 - **Christian liberty and mutual responsibility** -- Believers must not judge one another on disputable matters but must exercise their freedom with sensitivity to those whose consciences are weaker
 - **Eschatological urgency** -- "The night is nearly over; the day is almost here" -- ethical living is motivated by the nearness of Christ's return
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God -- this is your true and proper worship. Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is -- his good, pleasing and perfect will."
 > -- Romans 12:1-2

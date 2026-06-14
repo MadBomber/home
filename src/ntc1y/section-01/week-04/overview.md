@@ -33,11 +33,11 @@ This week bridges Phase 1 and Phase 2 of our study. The coming of Christ -- his 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 4  | [Calling Disciples by the Sea, Ministry Begins in Galilee](../day-1) |
-| 2 | Luke 4:14-44  | [Nazareth Rejection, Capernaum Ministry](../day-2) |
-| 3 | Luke 5  | [Miraculous Catch of Fish, Levi Called, New Wine](../day-3) |
-| 4 | Mark 1:14-45  | [Kingdom Proclaimed, Healings, Leper Cleansed](../day-4) |
-| 5 | Mark 2  | [Paralytic Healed, Levi Called, Fasting Questions](../day-5) |
+| 1 | Matthew 4  | [Calling Disciples by the Sea, Ministry Begins in Galilee](../day-1/) |
+| 2 | Luke 4:14-44  | [Nazareth Rejection, Capernaum Ministry](../day-2/) |
+| 3 | Luke 5  | [Miraculous Catch of Fish, Levi Called, New Wine](../day-3/) |
+| 4 | Mark 1:14-45  | [Kingdom Proclaimed, Healings, Leper Cleansed](../day-4/) |
+| 5 | Mark 2  | [Paralytic Healed, Levi Called, Fasting Questions](../day-5/) |
 
 ## Key Characters This Week
 
@@ -61,6 +61,6 @@ This week bridges Phase 1 and Phase 2 of our study. The coming of Christ -- his 
 - **Controversy with Religious Leaders** -- The seeds of the final conflict are planted this week. Jesus claims divine prerogatives (forgiving sins), violates social boundaries (eating with sinners), and challenges accepted practices (fasting). The Pharisees begin asking hostile questions, and the trajectory toward the cross becomes visible.
 - **New Wine in New Wineskins** -- Jesus' parable at the end of Mark 2 signals that what he brings cannot be contained within the existing religious structures. The old forms must give way to something radically new.
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel." -- Mark 1:15 (ESV)

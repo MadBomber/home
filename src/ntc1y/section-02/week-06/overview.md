@@ -33,11 +33,11 @@ The week culminates with Jesus sending out the Twelve on their first mission. Ha
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Matthew 8  | [Centurion's Faith, Stilling the Storm, Gadarene Demoniacs](../day-1) |
-| 2 | Luke 7  | [Centurion's Servant, Widow's Son Raised, John's Question](../day-2) |
-| 3 | Matthew 9  | [Paralytic Healed, Matthew Called, Jairus' Daughter, Harvest Prayer](../day-3) |
-| 4 | Mark 4  | [Parables: Sower, Lamp, Growing Seed, Mustard Seed, Stilling Storm](../day-4) |
-| 5 | Matthew 10  | [Sending Out the Twelve - Mission Instructions](../day-5) |
+| 1 | Matthew 8  | [Centurion's Faith, Stilling the Storm, Gadarene Demoniacs](../day-1/) |
+| 2 | Luke 7  | [Centurion's Servant, Widow's Son Raised, John's Question](../day-2/) |
+| 3 | Matthew 9  | [Paralytic Healed, Matthew Called, Jairus' Daughter, Harvest Prayer](../day-3/) |
+| 4 | Mark 4  | [Parables: Sower, Lamp, Growing Seed, Mustard Seed, Stilling Storm](../day-4/) |
+| 5 | Matthew 10  | [Sending Out the Twelve - Mission Instructions](../day-5/) |
 
 ## Key Characters This Week
 
@@ -63,6 +63,6 @@ The week culminates with Jesus sending out the Twelve on their first mission. Ha
 - **The Hidden Kingdom** -- The parables of Mark 4 reveal that God's Kingdom operates by a logic that confounds human expectations. It begins small, grows secretly, and produces a harvest out of all proportion to its humble beginnings.
 - **Mission and Persecution** -- Jesus sends the Twelve out with his authority but also with a clear warning: the world will respond with hostility. Following Jesus means sharing not only in his power but in his suffering.
 
-## [Memory Verse](memory-verse)
+## [Memory Verse](../memory-verse/)
 
 > "Then he said to his disciples, 'The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.'" -- Matthew 9:37-38 (ESV)
