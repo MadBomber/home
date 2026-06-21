@@ -11,7 +11,8 @@ function loadGiscus() {
   try {
     const settings = JSON.parse(localStorage.getItem("bst_settings") || "{}")
     if (settings.features?.discussions !== true) return
-    if (settings.discussionTheme) theme = settings.discussionTheme
+    const themeMap = { light: "light", dark: "dark", auto: "preferred_color_scheme" }
+    theme = themeMap[settings.siteTheme] || "light"
   } catch { return }
 
   const studyConfig = JSON.parse(

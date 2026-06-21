@@ -12,7 +12,6 @@ const DEFAULT_SETTINGS = {
     group: false,
     discussions: false,
   },
-  discussionTheme: "light",
   siteTheme: "light",
   fontSize: 18,
 }
@@ -24,7 +23,6 @@ function getSettings() {
     const stored = JSON.parse(localStorage.getItem(SETTINGS_KEY) || "{}")
     return {
       features: { ...DEFAULT_SETTINGS.features, ...(stored.features || {}) },
-      discussionTheme: stored.discussionTheme || DEFAULT_SETTINGS.discussionTheme,
       siteTheme: stored.siteTheme || DEFAULT_SETTINGS.siteTheme,
       fontSize: parseInt(stored.fontSize, 10) || DEFAULT_SETTINGS.fontSize,
     }
@@ -40,9 +38,20 @@ function saveSettings(settings) {
 
 // --- Site theme ---
 
+function syncGiscusTheme(siteTheme) {
+  const themeMap = { light: "light", dark: "dark", auto: "preferred_color_scheme" }
+  const iframe = document.querySelector("iframe.giscus-frame")
+  if (!iframe) return
+  iframe.contentWindow.postMessage(
+    { giscus: { setConfig: { theme: themeMap[siteTheme] || "light" } } },
+    "https://giscus.app"
+  )
+}
+
 function applySiteTheme() {
   const settings = getSettings()
   document.documentElement.setAttribute("data-theme", settings.siteTheme)
+  syncGiscusTheme(settings.siteTheme)
 }
 
 // --- Font size ---
@@ -485,17 +494,6 @@ function initSettingsPage() {
 
   const clearGroupBtn = document.getElementById("settings-clear-group")
   if (clearGroupBtn) clearGroupBtn.addEventListener("click", clearGroup)
-
-  const themeSelect = document.getElementById("setting-discussion-theme")
-  if (themeSelect) {
-    themeSelect.value = settings.discussionTheme || "light"
-    themeSelect.addEventListener("change", () => {
-      const s = getSettings()
-      s.discussionTheme = themeSelect.value
-      saveSettings(s)
-      showStatus(`Discussion theme set to "${themeSelect.value}". Changes apply on the next page load.`)
-    })
-  }
 
   const siteThemeSelect = document.getElementById("setting-site-theme")
   if (siteThemeSelect) {
