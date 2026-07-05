@@ -1326,6 +1326,11 @@ tr:hover td {
   margin-top: 0.35rem;
 }
 
+/* Collection shown as a single unit in the Recent list */
+.blog-post-card-collection-unit {
+  border-left: 4px solid var(--gold);
+}
+
 /* --- Collection view --- */
 
 .blog-collection-section {

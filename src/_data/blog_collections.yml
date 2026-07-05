@@ -1,14 +1,15 @@
 - slug: holy-week
   title: Holy Week
   description: Walking through the final days before the resurrection — from Palm Sunday through the empty tomb.
-  order: 1
 
 - slug: can-the-bible-be-trusted
   title: Can the Bible Be Trusted?
   description: A series of essays for the skeptic who wants honest answers before opening the book.
-  order: 2
 
 - slug: the-heaviest-word-in-the-bible
   title: The Heaviest Word in the Bible
   description: The word "glory" has been used so carelessly for so long that it has lost all practical meaning. This five-part collection recovers it — going back to a Hebrew word with a physical definition that will reframe everything you thought you knew about God, sin, the cross, and what it means to live differently because of all three.
-  order: 3
+
+- slug: biblical-silence
+  title: Where the Bible Is Silent
+  description: Scripture leaves some things unsaid on purpose. This collection traces what happens when confident voices — cults, conspiracy theories, sincere believers chasing certainty — try to fill those blank spaces anyway, and what it looks like to let God's silence stand.

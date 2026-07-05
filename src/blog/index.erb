@@ -12,23 +12,58 @@ description: Essays and articles on Scripture, theology, and the Christian life.
     .reject  { |r| r.relative_url.to_s.end_with?('/blog/') }
     .reject  { |r| is_production && r.data[:date] && r.data[:date].to_date > Date.today }
 
-  recent_posts = all_posts
-    .sort_by { |r| r.data[:date] || Date.new(1970) }
-    .reverse
+  collections_meta = (site.data.blog_collections || [])
+    .each_with_object({}) { |c, h| h[c["slug"]] = c }
 
-  collections_data = (site.data.blog_collections || [])
-    .sort_by { |c| c["order"] || 999 }
-
-  collection_title_for = ->(slug) {
-    found = collections_data.find { |c| c["slug"] == slug }
-    found ? found["title"] : slug
-  }
+  humanize_slug = ->(slug) { slug.split('-').map(&:capitalize).join(' ') }
 
   posts_for_collection = ->(slug) {
     all_posts
       .select  { |r| r.data[:collection].to_s == slug }
       .sort_by { |r| r.data[:order] || 999 }
   }
+
+  collections_data = all_posts
+    .map     { |r| r.data[:collection].to_s }
+    .reject  { |slug| slug.empty? }
+    .uniq
+    .map { |slug|
+      meta   = collections_meta[slug] || {}
+      posts  = posts_for_collection.call(slug)
+      intro  = posts.find { |p| p.data[:order].to_i == 0 }
+      parts  = posts.select { |p| p.data[:order].to_i > 0 }
+      dates  = posts.map { |p| p.data[:date] }.compact
+
+      {
+        "slug"        => slug,
+        "title"       => meta["title"] || humanize_slug.call(slug),
+        "description" => meta["description"],
+        "first_date"  => intro ? intro.data[:date] : dates.min,
+        "latest_date" => dates.max,
+        "entry_url"   => intro ? intro.relative_url : (parts.first && parts.first.relative_url),
+        "part_count"  => parts.length,
+      }
+    }
+
+  collections_by_date = collections_data
+    .sort_by { |c| c["first_date"] || Date.new(1970) }
+    .reverse
+
+  # Recent tab lists "readable units": each standalone essay is one unit, and
+  # each collection is a single unit dated by its latest installment. This keeps
+  # a collection's parts from scattering across the timeline and preserves the
+  # intended reading order (the card links to the collection's entry point).
+  standalone_units = all_posts
+    .reject { |r| r.data[:collection] && !r.data[:collection].to_s.empty? }
+    .map    { |r| { "type" => "post", "date" => r.data[:date], "post" => r } }
+
+  collection_units = collections_data
+    .reject { |c| c["entry_url"].nil? }
+    .map    { |c| { "type" => "collection", "date" => c["latest_date"], "collection" => c } }
+
+  recent_units = (standalone_units + collection_units)
+    .sort_by { |u| u["date"] || Date.new(1970) }
+    .reverse
 %>
 
 <section class="blog-index">
@@ -44,45 +79,61 @@ description: Essays and articles on Scripture, theology, and the Christian life.
 
   <div class="blog-view active" id="blog-view-recent" role="tabpanel">
     <div class="blog-post-list">
-      <% recent_posts.each do |post| %>
-        <a href="<%= relative_url post.relative_url %>" class="blog-post-card">
-          <div class="blog-post-card-header">
-            <h2><%= post.data[:title] %></h2>
-            <% if post.data[:collection] %>
-              <span class="blog-post-card-collection"><%= collection_title_for.call(post.data[:collection].to_s) %></span>
-            <% end %>
-          </div>
-          <div class="blog-post-card-body">
-            <p class="blog-post-card-meta">
-              <% if post.data[:date] %><span class="blog-post-card-date"><%= post.data[:date].strftime("%B %-d, %Y") %></span><% end %>
-              <% if post.data[:author] %><span class="blog-post-card-author"><%= post.data[:author] %></span><% end %>
-            </p>
-            <% if post.data[:description] %>
-              <p class="blog-post-card-description"><%= post.data[:description] %></p>
-            <% end %>
-            <span class="blog-post-card-read">Read article &rarr;</span>
-          </div>
-        </a>
+      <% recent_units.each do |unit| %>
+        <% if unit["type"] == "post" %>
+          <% post = unit["post"] %>
+          <a href="<%= relative_url post.relative_url %>" class="blog-post-card">
+            <div class="blog-post-card-header">
+              <h2><%= post.data[:title] %></h2>
+            </div>
+            <div class="blog-post-card-body">
+              <p class="blog-post-card-meta">
+                <% if post.data[:date] %><span class="blog-post-card-date"><%= post.data[:date].strftime("%B %-d, %Y") %></span><% end %>
+                <% if post.data[:author] %><span class="blog-post-card-author"><%= post.data[:author] %></span><% end %>
+              </p>
+              <% if post.data[:description] %>
+                <p class="blog-post-card-description"><%= post.data[:description] %></p>
+              <% end %>
+              <span class="blog-post-card-read">Read article &rarr;</span>
+            </div>
+          </a>
+        <% else %>
+          <% collection = unit["collection"] %>
+          <a href="<%= relative_url collection["entry_url"] %>" class="blog-post-card blog-post-card-collection-unit">
+            <div class="blog-post-card-header">
+              <h2><%= collection["title"] %></h2>
+              <span class="blog-post-card-collection">Collection<% if collection["part_count"] > 0 %> &middot; <%= collection["part_count"] %> parts<% end %></span>
+            </div>
+            <div class="blog-post-card-body">
+              <p class="blog-post-card-meta">
+                <% if collection["latest_date"] %><span class="blog-post-card-date"><%= collection["latest_date"].strftime("%B %-d, %Y") %></span><% end %>
+              </p>
+              <% if collection["description"] %>
+                <p class="blog-post-card-description"><%= collection["description"] %></p>
+              <% end %>
+              <span class="blog-post-card-read">Begin reading &rarr;</span>
+            </div>
+          </a>
+        <% end %>
       <% end %>
 
-      <% if recent_posts.empty? %>
+      <% if recent_units.empty? %>
         <p class="blog-empty">No posts yet. Check back soon.</p>
       <% end %>
     </div>
   </div>
 
   <div class="blog-view" id="blog-view-collections" role="tabpanel">
-    <% if collections_data.empty? %>
+    <% if collections_by_date.empty? %>
       <p class="blog-empty">No collections yet.</p>
     <% else %>
       <div class="blog-collection-list">
-        <% collections_data.each do |collection| %>
+        <% collections_by_date.each do |collection| %>
           <% col_posts = posts_for_collection.call(collection["slug"]) %>
           <% next if col_posts.empty? %>
           <%
-            intro_post = col_posts.find { |p| p.data[:order].to_i == 0 }
-            parts      = col_posts.select { |p| p.data[:order].to_i > 0 }
-            entry_url  = intro_post ? intro_post.relative_url : (parts.first && parts.first.relative_url)
+            parts     = col_posts.select { |p| p.data[:order].to_i > 0 }
+            entry_url = collection["entry_url"]
           %>
           <div class="blog-collection-block">
             <div class="blog-collection-block-header">
