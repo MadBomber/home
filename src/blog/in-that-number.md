@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: "In That Number"
-description: '"The elect" is not a sealed roster drawn up before creation with most of us left off. It is one more name for the believers — the saints, the brothers, the Way — a jersey the church wears. The five-century fight between Calvin and Arminius dissolves the moment you remember that God does not stand inside time: he has knowledge, not fore-knowledge. The door is still open, and everyone who calls is in.'
+description: '"The elect" is not a sealed roster drawn up before creation with most of us left off. It is one more name for the believers — the saints, the brothers, the Way — a jersey the church wears. The five-century fight between Calvin and Arminius dissolves the moment you remember that God does not stand inside time: he has all knowledge, not foreknowledge. The door is still open, and everyone who calls is in.'
 date: 2026-07-19
 author: Dewayne VanHoozer
 ---
@@ -12,7 +12,7 @@ They are a football team. On a Sunday in the Superdome, seventy thousand people 
 
 And the team answers to more than one name. It is the Saints. It is the Who Dats. It is the Black and Gold, New Orleans, the home team, the boys. A sportswriter runs through five of those names in a single paragraph and never stops to say which players he means, because he does not have to. Every name lands on the same roster. You grew up knowing a team is a thing you can call by many names.
 
-Notice the small thing before we reach the large one. Not one of those names marks off a hidden, separate group. "The Black and Gold" is not an inner circle the "Saints" were never told about. "The Who Dats" are not a secret list kept in a back office. They are the same fifty-three men, seen from a different seat in the house.
+Not one of those names marks off a hidden, separate group. "The Black and Gold" is not an inner circle the "Saints" were never told about. "The Who Dats" are not a secret list kept in a back office. They are the same fifty-three men, seen from a different seat in the house.
 
 The New Testament names one group a dozen ways too.
 
@@ -26,7 +26,7 @@ The word to test first is saints, because it is the one we are least confused ab
 >
 > — 1 Corinthians 1:2 (ESV)
 
-Read the rest of the letter and you will meet those saints. They had split into factions. One of them was sleeping with his father's wife, and the congregation was proud of how tolerant that made them. They sued each other in front of pagans. They got drunk at the communion table while the poor among them went hungry. This is the group Paul greets, in the second verse, as saints. Whatever the word means, it cannot mean the spiritual elite, and it plainly does not mean the canonized dead — the official, capital-S Saints of the church calendar. It means the believers in Corinth — the actual, unfinished, embarrassing believers — and it means all of them.
+Read the rest of the letter and you will meet those saints. They had split into factions. One of them was sleeping with his father's wife, and the congregation was proud of how tolerant that made them. They sued each other in front of pagans. They got drunk at the communion table while the poor among them went hungry. This is the group Paul greets, in the second verse, as saints. Whatever the word means, it cannot mean the spiritual elite, and it plainly does not mean the canonized dead — the official, capital-S Saints of the Catholic church. It means the believers in Corinth — the actual, unfinished, embarrassing believers — and it means all of them.
 
 Paul is not being loose with the word. He tells the Ephesians what it covers:
 
@@ -42,15 +42,13 @@ Saints are the faithful. Not a graduating class, not an honor roll — the ones 
 
 Three names in a single line. God's chosen ones — that is the elect. Holy — that is the saints. Beloved — that is the family. He lays them side by side on one ordinary congregation and expects no one to sort them into ranks, because they are not ranks. They are the Black and Gold, the Who Dats, the boys.
 
-So here is the move the whole argument turns on. No one reads "saints" and pictures a sealed list. We know it means the believers — all of them, the messy ones included. But "the elect" sits in the same sentences, addressed to the same churches, written by the same men. What loosens the one loosens the other. If "saints" is only a name for the people in the pews, then "the elect" is another jersey they wear — not a secret roster kept in a back office in heaven.
+No one reads "saints" and pictures a sealed list. We know it means the believers — all of them, the messy ones included. But "the elect" sits in the same sentences, addressed to the same churches, written by the same men. What loosens the one loosens the other. If "saints" is only a name for the people in the pews, then "the elect" is another jersey they wear — not a secret roster kept in a back office in heaven.
 
 ## The Name That Got Promoted
 
-Somewhere along the way, one of the names got promoted.
+Somewhere along the way, readers came to "the elect" and decided it was different from the rest — that where "saints" and "brothers" and "believers" described the congregation, "the elect" described something standing behind it. A fixed list. A roster drawn up before the world was made, names entered in permanent ink, the rest left off. Not a jersey the believers wear, but a decision made about them in eternity past, before any of them drew a breath.
 
-Readers came to "the elect" and decided it was different from the rest — that where "saints" and "brothers" and "believers" described the congregation, "the elect" described something standing behind it. A fixed list. A roster drawn up before the world was made, names entered in permanent ink, the rest left off. Not a jersey the believers wear, but a decision made about them in eternity past, before any of them drew a breath.
-
-That reading launched a five-hundred-year argument. On one side, the followers of John Calvin: the list is God's alone, settled before creation, owing nothing to anything he foresaw in you. On the other, the followers of Jacob Arminius: God chose the ones he knew in advance would believe. Both sides can preach for an hour without repeating a verse.
+That reading launched a five-hundred-year argument. On one side, the followers of John Calvin: the list is God's alone, settled before creation, owing nothing to anything he foresaw in you. On the other, the followers of Jacob Arminius: God chose the ones he knew in advance would believe. Both sides can preach for an hour without repeating a verse. What neither of them questions is the one assumption that would end the fight.
 
 And if you have ever heard this argument, you already know its shape, because it is sports radio. Two callers, one roster, a week to kill. Who is really on the team. How they made it. Whether the coach chose them before the season ever started, or watched them play first and chose them afterward. They cannot even agree on the play — run the ball in, where the other side gets no say, or throw it downfield, where the pass only counts if the receiver reaches up and catches it.
 
@@ -62,11 +60,9 @@ Strip it all away and the whole fight balances on a single word. Paul writes it 
 
 Five links — foreknew, predestined, called, justified, glorified — and the entire chain hangs from the first one. Everything turns on what it means that God foreknew. The Calvinist hears chose beforehand, set his love on them in advance. The Arminian hears saw ahead of time who would say yes. Two readings, one word, and a war.
 
-Hold the word. We will come back to it, and when we do it will not survive the handling — not because either side read it wrong, but because the fight itself rests on something neither side noticed they were standing on.
-
 ## How You Make the Team
 
-The word can wait a moment. First, the question the callers talk right over: how do you actually get on the team? Not how the roster was set in eternity — how a person, today, gets in. The New Testament answers plainly, and the answer is short.
+The question the callers talk right over: how do you actually get on the team? Not how the roster was set in eternity — how a person, today, gets in. The New Testament answers plainly, and the answer is short.
 
 > If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved.
 >
@@ -108,7 +104,7 @@ Not I was. Not I will be. A present tense with no walls around it. And when Jesu
 
 He does not say before Abraham was, I was. He says I am, and the sentence buckles under the tense on purpose. That is the sound a timeless voice makes when it has to speak inside a temporal sentence. It is the same voice that calls a thousand years a single day, that names itself the first and the last, the Alpha and the Omega, and means both at once.[^timeless-voice]
 
-Now set the word back down and read it from both sides. From inside the clock — your side — the story runs in order, and every piece of it is real. You heard. You believed. You confessed. You were saved, on a morning you could name. A true sequence, a true choice, a thing that happened to you and not to someone else. From outside the clock — his side — there is no first and no then. He is not waiting to see what you will do, and he is not deciding it for you ahead of time, because waiting and ahead of time are clock-words, and he is not standing in the clock. He simply knows his people, the way you know what is in front of your face. The elect were never a list drawn up before the world. They are the believers, seen all at once by the One who sees all at once.
+Now set the word back down and read it from both sides. From inside the clock, on your side, the story runs in order, and every piece of it is real. You heard. You believed. You confessed. You were saved, on a morning you could name. A true sequence, a true choice, a thing that happened to you and not to someone else. From outside the clock — his side — there is no first and no then. He is not waiting to see what you will do, and he is not deciding it for you ahead of time, because waiting and ahead of time are clock-words, and he is not standing in the clock. He simply knows his people, the way you know what is in front of your face. The elect were never a list drawn up before the world. They are the believers, seen all at once by the One who sees all at once.
 
 Then comes the last worry, the one that makes the whole doctrine feel like a trap: if God already knows you will say yes, then you were never free to say no, and the game was fixed before you played it. But knowing is not causing. A man in the stands who sees the runner cross the goal line did not carry the ball there. He saw it happen; he did not make it happen. God's knowledge of your yes is that kind of seeing — the sight of a witness who happens to take in the whole field at once, both end zones, the opening kickoff and the final whistle, in a single glance. He watches you choose. He does not choose in your place. Boethius worked this out fifteen centuries ago; it is worth knowing only so you do not mistake an old answer for a new trick.
 
@@ -124,7 +120,7 @@ The heaviest verse of all reads like a roster carved in stone before the first m
 >
 > — Ephesians 1:4 (ESV)
 
-There it is in plain sight — chosen, and chosen before the world. But read the two words the argument always hurries past: in him. The choosing happens inside Christ. God did not, in eternity past, page down a list of names and check some off. He resolved, before there was a world, to have a people in his Son — holy, adopted, and his own. What he chose was a place and a people, not a handful of individuals drawn from a jar. And you get into that choice the way you get into anything that is in Christ: you come to Christ. The confession is the door into the chosen thing. Election was settled before the foundation of the world; your membership was settled the morning you called on the name. Both are true. They are answers to two different questions, asked from two different sides of the clock.
+There it is in plain sight — chosen, and chosen before the world. But read the two words the argument always hurries past: in him. The choosing happens inside Christ. God did not, in eternity past, page down a list of names and check some off. He resolved, before there was a world, to have a people in his Son — holy, adopted, and his own. What he chose was a place and a people, not a handful of individuals drawn from a jar. And you get into that choice the way you get into anything that is in Christ: you come to Christ. The confession is the door into the chosen thing. Election was settled as a process before the foundation of the world; your membership was settled the morning you called on the name. Both are true. They are answers to two different questions, asked from two different sides of the clock.
 
 Now the other one, the passage that sounds like souls assigned to heaven and hell in the womb — Jacob and Esau, loved and hated before either could walk:
 
@@ -135,6 +131,14 @@ Now the other one, the passage that sounds like souls assigned to heaven and hel
 But look where Paul is quoting from. "The older will serve the younger" is lifted straight out of Genesis, where the line just before it reads, "two nations are in your womb." And "Jacob I loved, but Esau I hated" comes from Malachi, written more than a thousand years after both men were dust — and Malachi is not talking about two babies. He is talking about their descendants, Israel and Edom, two peoples with a long and bitter history.[^jacob-esau] Paul's own citations are about nations. So is his potter, the one from Isaiah and Jeremiah who was always shaping peoples, never sorting individual souls.[^potter] Paul is not diagramming how one person is picked for glory. He is answering the question that breaks his heart in the chapter's opening lines: has God's promise to Israel failed, now that Gentiles are pouring in while so many of his own kinsmen stay out? His answer runs three chapters, and it is entirely about which peoples God is gathering into his one people — Jew and Gentile together. It ends not in a sealed courtroom but in a grafted olive tree, the door still open, Paul on his knees for his nation to come in.[^olive-tree]
 
 So the hardest verses never needed softening. Read them from God's side of the clock, and about the people he was forming all along, and they say exactly what they always said — with nothing left over to frighten anyone. The elect are the believers. Chosen in Christ from eternity, and gathered in time, one confession at a time.
+
+There is one verse left, and it is the one nobody had to be taught. If you have followed all of this and still cannot put down the sealed list, hold it up against the most familiar sentence in the book:
+
+> For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
+>
+> — John 3:16 (ESV)
+
+The world. Not a remnant lifted out of the world, not a number drawn from it and the rest passed over — the world. That is the reach of the love, and the election reaches exactly as far, because they are one act: God gave his Son for the whole of it. Then, in the very next breath, the one condition — whoever believes. The love is poured out on all; the life is held by the ones who reach up and take it. God so loved the world, and threw the door open to every soul in it. The team is everyone who walked through.
 
 Which brings us back to the stadium, and to the song.
 
@@ -156,8 +160,8 @@ So the elect was never the cold thing five centuries made of it. It is the saint
 
 ## References
 
-- *The Holy Bible, English Standard Version* (ESV). Crossway, 2001. Passages cited: 1 Corinthians 1:2; Ephesians 1:1, 1:4; Colossians 3:12; Romans 8:29–30, 9:11–13, 10:9–10, 10:13; Exodus 3:14; John 8:58; Revelation 7:9; with allusion to Genesis 1:1, 25:23; Malachi 1:2–3; Isaiah 45:9, 64:8; Jeremiah 18:1–6; Acts 9:2, 11:26, 16:30–33, 24:14; Romans 10:1, 11:17–24; 2 Peter 3:8; Revelation 22:13; and 1 John 4:15.
-- Boethius. *The Consolation of Philosophy*, Book V. The source of the classic resolution used here: eternity is "the whole, simultaneous, and perfect possession of unbounded life," so God's knowledge is not fore-knowledge but the knowledge of an ever-present now — and because it is sight rather than cause, it does not remove human freedom.
+- *The Holy Bible, English Standard Version* (ESV). Crossway, 2001. 
+- Boethius. *The Consolation of Philosophy*, Book V. The source of the classic resolution used here: eternity is "the whole, simultaneous, and perfect possession of unbounded life," so God's knowledge is not fore-knowledge but the all knowledge of an ever-present now — and because it is sight rather than cause, it does not remove human free will.
 - Augustine. *Confessions*, Book XI. On time as a created thing, with no "before" for creation to sit inside.
 - Thomas Aquinas. *Summa Theologiae* I, q. 14, a. 13. On God knowing contingent, freely chosen things as present to his eternity rather than as future.
 
