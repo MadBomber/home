@@ -18,7 +18,7 @@ The New Testament names one group a dozen ways too.
 
 ## One Group, a Dozen Names
 
-The New Testament has no single, official word for the people who follow Jesus. It reaches for whatever name fits the sentence. The church. Believers. Disciples. Brothers and sisters. The saints. The elect. The chosen. Outsiders in Antioch pinned a nickname on them that stuck — Christians — and before any of it, the movement called itself the Way. Different words, one people. A man could answer to all of them at once and never change congregations.
+Watch the writers do it. There is no single, official word for the people who follow Jesus, so they reach for whatever fits the sentence. The church. Believers. Disciples. Brothers and sisters. The saints. The elect. The chosen. Outsiders in Antioch pinned a nickname on them that stuck — Christians — and before any of it, the movement called itself the Way. Different words, one people. A man could answer to all of them at once and never change congregations.
 
 The word to test first is saints, because it is the one we are least confused about — or think we are. Set aside the stained glass. When Paul writes to a church, he opens by calling them saints, and he does it even when the church has given him nothing to be sentimental about. Consider Corinth.
 
@@ -26,7 +26,7 @@ The word to test first is saints, because it is the one we are least confused ab
 >
 > — 1 Corinthians 1:2 (ESV)
 
-Read the rest of the letter and you will meet those saints. They had split into factions. One of them was sleeping with his father's wife, and the congregation was proud of how tolerant that made them. They sued each other in front of pagans. They got drunk at the Lord's Table while the poor among them went hungry. This is the group Paul greets, in the second verse, as saints. Whatever the word means, it cannot mean the spiritual elite, and it plainly does not mean the canonized dead. It means the believers in Corinth — the actual, unfinished, embarrassing believers — and it means all of them.
+Read the rest of the letter and you will meet those saints. They had split into factions. One of them was sleeping with his father's wife, and the congregation was proud of how tolerant that made them. They sued each other in front of pagans. They got drunk at the communion table while the poor among them went hungry. This is the group Paul greets, in the second verse, as saints. Whatever the word means, it cannot mean the spiritual elite, and it plainly does not mean the canonized dead — the official, capital-S Saints of the church calendar. It means the believers in Corinth — the actual, unfinished, embarrassing believers — and it means all of them.
 
 Paul is not being loose with the word. He tells the Ephesians what it covers:
 
@@ -48,13 +48,13 @@ So here is the move the whole argument turns on. No one reads "saints" and pictu
 
 Somewhere along the way, one of the names got promoted.
 
-Readers came to "the elect" and decided it was different from the rest — that where "saints" and "brothers" and "believers" described the people in the pews, "the elect" described something behind them. A fixed list. A roster drawn up before the world was made, names entered in permanent ink, the rest left off. Not a jersey the believers wear, but a decision made about them in eternity past, before any of them drew a breath.
+Readers came to "the elect" and decided it was different from the rest — that where "saints" and "brothers" and "believers" described the congregation, "the elect" described something standing behind it. A fixed list. A roster drawn up before the world was made, names entered in permanent ink, the rest left off. Not a jersey the believers wear, but a decision made about them in eternity past, before any of them drew a breath.
 
 That reading launched a five-hundred-year argument. On one side, the followers of John Calvin: the list is God's alone, settled before creation, owing nothing to anything he foresaw in you. On the other, the followers of Jacob Arminius: God chose the ones he knew in advance would believe. Both sides can preach for an hour without repeating a verse.
 
-And if you have ever heard the argument run, you already know its shape, because it is sports radio. Two callers, one roster, a week to kill. Who is really on the team. How they made it. Whether the coach chose them before the season ever started, or watched them play first and chose them afterward. They cannot even agree on the play to run — drive the ball in by force, where the other side gets no say, or throw it downfield, where the pass only counts if the receiver reaches up and catches it.
+And if you have ever heard this argument, you already know its shape, because it is sports radio. Two callers, one roster, a week to kill. Who is really on the team. How they made it. Whether the coach chose them before the season ever started, or watched them play first and chose them afterward. They cannot even agree on the play — run the ball in, where the other side gets no say, or throw it downfield, where the pass only counts if the receiver reaches up and catches it.
 
-Strip away five centuries of it and the whole fight balances on a single word. Paul writes it once, in Romans, at the head of a chain that has held theologians for generations:
+Strip it all away and the whole fight balances on a single word. Paul writes it once, in Romans, at the head of a chain that has held theologians for generations:
 
 > For those whom he foreknew he also predestined to be conformed to the image of his Son... And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.
 >
@@ -66,7 +66,7 @@ Hold the word. We will come back to it, and when we do it will not survive the h
 
 ## How You Make the Team
 
-Before we go back to that word, ask the question the callers talk over: how do you actually get on the team? Not how the roster was set in eternity — how a person, today, gets in. The New Testament answers plainly, and the answer is short.
+The word can wait a moment. First, the question the callers talk right over: how do you actually get on the team? Not how the roster was set in eternity — how a person, today, gets in. The New Testament answers plainly, and the answer is short.
 
 > If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved.
 >
@@ -92,7 +92,9 @@ Look again at what everyone is reading. The word is foreknew, and the whole figh
 
 That is the thing they are both standing on without looking down. Before and after are not facts about God. They are facts about time, and time is a thing God made. In the beginning, the book says — and a beginning is the front edge of a clock. Behind it there is no earlier, because "earlier" is a reading on the very clock that has not started yet. The words the argument runs on — foreknew, predestined, before the foundation of the world — are all clock-words. They are ours. We were made inside the clock and cannot form a sentence without it.
 
-So God does not have foreknowledge. He has knowledge. The fore is not a description of God; it is a description of us, reaching for him with the only tense we own. He told us his name, and his name is not a past or a future:
+And it is not only our words that run on the clock. We do. We begin on a certain day and end on one, and the span between is short. When we reach for something to say about the God who has no beginning and no end, the only words in our hands are the words of creatures who have both. He is. We are, for a little while.
+
+So God does not have foreknowledge. He has all knowledge. The fore is not a description of God; it is a description of us, reaching for him with the only tense we own. He told us his name, and his name is not a past or a future:
 
 > God said to Moses, "I AM WHO I AM."
 >
@@ -108,15 +110,15 @@ He does not say before Abraham was, I was. He says I am, and the sentence buckle
 
 Now set the word back down and read it from both sides. From inside the clock — your side — the story runs in order, and every piece of it is real. You heard. You believed. You confessed. You were saved, on a morning you could name. A true sequence, a true choice, a thing that happened to you and not to someone else. From outside the clock — his side — there is no first and no then. He is not waiting to see what you will do, and he is not deciding it for you ahead of time, because waiting and ahead of time are clock-words, and he is not standing in the clock. He simply knows his people, the way you know what is in front of your face. The elect were never a list drawn up before the world. They are the believers, seen all at once by the One who sees all at once.
 
-Then comes the last worry, the one that makes the whole doctrine feel like a trap: if God already knows you will say yes, then you were never free to say no, and the game was fixed before you played it. But knowing is not causing. A man in the stands who sees the runner cross the goal line did not carry the ball there. He saw it; he did not spend it. God's knowledge of your yes is that kind of seeing — the sight of a witness who happens to take in the whole field at once, both end zones, the opening kickoff and the final whistle, in a single glance. He watches you choose. He does not choose in your place. Boethius worked this out fifteen centuries ago; it is worth knowing only so you do not mistake an old answer for a new trick.
+Then comes the last worry, the one that makes the whole doctrine feel like a trap: if God already knows you will say yes, then you were never free to say no, and the game was fixed before you played it. But knowing is not causing. A man in the stands who sees the runner cross the goal line did not carry the ball there. He saw it happen; he did not make it happen. God's knowledge of your yes is that kind of seeing — the sight of a witness who happens to take in the whole field at once, both end zones, the opening kickoff and the final whistle, in a single glance. He watches you choose. He does not choose in your place. Boethius worked this out fifteen centuries ago; it is worth knowing only so you do not mistake an old answer for a new trick.
 
 Some, to save the sequence, have said that God himself lives inside the clock and waits with the rest of us to learn what we will freely do. It is a serious view, held by serious people. But it keeps the clock by giving up the I AM, and that is far too much to trade. The argument was never really Calvin against Arminius. It was a God who lives in time against the God who made it.
 
-Which means the verses both sides swing hardest — the ones about a choice made before the foundation of the world — are not the problem they look like. We only have to read them knowing which language they are written in.
+Which means the verses that look most like predestination — the ones about a choice made before the foundation of the world — are not the problem they seem. We only have to read them knowing which language they are written in.
 
 ## The Verses They Swing Hardest
 
-Start with the heaviest one, the verse that seems to set the roster in stone before the first morning:
+The heaviest verse of all reads like a roster carved in stone before the first morning:
 
 > Even as he chose us in him before the foundation of the world, that we should be holy and blameless before him.
 >
@@ -138,23 +140,23 @@ Which brings us back to the stadium, and to the song.
 
 ## In That Number
 
-Go back to the Superdome one more time. Seventy thousand people on their feet, the band in full cry, and the old spiritual rolling down from the upper deck: I want to be in that number. They are singing it for a team. But the song was never written for a team.
+Seventy thousand people on their feet, the band in full cry, the old spiritual rolling down from the upper deck: I want to be in that number. They are singing it for a team. But the song was never written for a team.
 
 It came up out of the Black church and the funeral marches of New Orleans, sung by people who knew what it was to be counted out — who reached past every ledger that had ever left them off, toward a roll no one could revoke. When they sang about wanting to be in that number, they were not asking to make a team. They were asking to be counted among the redeemed, when the saints go marching in. The song is a prayer. And the prayer has an answer.
 
-John was shown the very number the song reaches for. He heard its size first — a hundred and forty-four thousand, a figure so exact it sounds like a closed door. Then he looked up:
+John was shown the very number the song reaches for. Here is what it looked like:
 
 > After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb.
 >
 > — Revelation 7:9 (ESV)
 
-A number, and past all counting, in the same breath. That is what "that number" is. Not a short list kept in a back office, not a roster sealed before the world with most of us left off — a crowd out of every nation that no one could tally if he tried. You do not have to wonder whether there is room. The number John saw is the size of the open door.
+A number no one could number. That is what "that number" is. Not a short list kept in a back office, not a roster sealed before the world with most of us left off — a crowd out of every nation that no one could tally if he tried. You do not have to wonder whether there is room. The number John saw is the size of the open door.
 
 So the elect was never the cold thing five centuries made of it. It is the saints and the believers and the brothers, the Way, the church — the team, wearing one more name. From your side of the clock it is a choice: believe, confess, call. From his side it is a people he has always known, seen whole, loved by name. And the door is still standing open, the way it was in Romans, the way it is in the song. There is a number. You can be in it. All you have to do is call.
 
 ## References
 
-- *The Holy Bible, English Standard Version* (ESV). Crossway, 2001. Passages cited: 1 Corinthians 1:2; Ephesians 1:1, 1:4; Colossians 3:12; Romans 8:29–30, 9:11–13, 10:9–10, 10:13; Exodus 3:14; John 8:58; Revelation 7:4, 7:9; with allusion to Genesis 25:23, Malachi 1:2–3, Acts 16:30–33, and 1 John 4:15.
+- *The Holy Bible, English Standard Version* (ESV). Crossway, 2001. Passages cited: 1 Corinthians 1:2; Ephesians 1:1, 1:4; Colossians 3:12; Romans 8:29–30, 9:11–13, 10:9–10, 10:13; Exodus 3:14; John 8:58; Revelation 7:9; with allusion to Genesis 25:23, Malachi 1:2–3, Acts 16:30–33, and 1 John 4:15.
 - Boethius. *The Consolation of Philosophy*, Book V. The source of the classic resolution used here: eternity is "the whole, simultaneous, and perfect possession of unbounded life," so God's knowledge is not fore-knowledge but the knowledge of an ever-present now — and because it is sight rather than cause, it does not remove human freedom.
 - Augustine. *Confessions*, Book XI. On time as a created thing, with no "before" for creation to sit inside.
 - Thomas Aquinas. *Summa Theologiae* I, q. 14, a. 13. On God knowing contingent, freely chosen things as present to his eternity rather than as future.
