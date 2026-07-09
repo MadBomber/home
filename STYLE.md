@@ -89,6 +89,13 @@ Scripture is always block-quoted. Short quotations — a phrase or clause — ma
 
 **Introduction:** The prose sets up the verse before it appears. The reader knows why they are about to read it. After the verse, the prose unpacks it — it does not assume the verse speaks for itself without engagement.
 
+**Paraphrases and allusions get a reference.** When the prose paraphrases or hints at a passage without quoting it — "the jailer at Philippi was told simply to believe," "In the beginning, the book says" — the passage is identified so the reader can find it. Two forms, chosen by density:
+
+- **Inline parenthetical** for an isolated allusion, placed at a natural pause: `...he was in before morning (Acts 16:30–33).`
+- **A footnote** when references would cluster and break the flow — several allusions in one sentence, or back-to-back short sentences that a parenthetical would clutter. Group the related citations into one note. See [Footnotes](#footnotes).
+
+The test is flow: if the inline references would pile up and interrupt the rhythm the prose is built on, move them to a footnote instead.
+
 ---
 
 ## Hebrew and Greek
@@ -151,6 +158,18 @@ Used occasionally, for elaborations that are worth making but would interrupt th
 
 Footnotes are not for pedantic sourcing. They are for the reader who wants to go deeper.
 
+**One exception — grouped Scripture citations.** When the prose leans on several paraphrased or alluded-to passages in a tight cluster (see [Scripture](#scripture)), a footnote collects the references so the inline text stays clean. Use a descriptive slug rather than a bare number, and give each citation a short parenthetical describing what it anchors:
+
+```markdown
+He is talking about their descendants, Israel and Edom.[^jacob-esau]
+
+[^jacob-esau]: Genesis 25:23 ("two nations are in your womb"); Malachi 1:2–3 ("Jacob I loved, but Esau I hated," spoken of the peoples Israel and Edom).
+```
+
+**Placement.** Kramdown renders every footnote as a single list at the very bottom of the page — *below* the References section — no matter where the `[^slug]:` definitions sit in the source. So an essay that uses footnotes must end with a `## Footnotes` section header, added as the last line of the file, to give that rendered list a heading. Put the definitions themselves under that header (source order then matches render order: essay → `## References` → `## Footnotes` → definitions).
+
+The References section still lists every passage the essay touches; the footnotes are the in-context pointer, References is the full ledger.
+
 ---
 
 ## Front Matter
@@ -181,6 +200,8 @@ Every essay ends with a references section:
 - *The Holy Bible, English Standard Version* (ESV). Crossway, 2001.
 - [Other sources as applicable]
 ```
+
+References is the last *prose* section — except when the essay uses footnotes, in which case a `## Footnotes` header follows it as the final line of the file (see [Footnotes](#footnotes)).
 
 ---
 

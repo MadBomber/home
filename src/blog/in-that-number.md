@@ -18,7 +18,7 @@ The New Testament names one group a dozen ways too.
 
 ## One Group, a Dozen Names
 
-Watch the writers do it. There is no single, official word for the people who follow Jesus, so they reach for whatever fits the sentence. The church. Believers. Disciples. Brothers and sisters. The saints. The elect. The chosen. Outsiders in Antioch pinned a nickname on them that stuck — Christians — and before any of it, the movement called itself the Way. Different words, one people. A man could answer to all of them at once and never change congregations.
+Watch the writers do it. There is no single, official word for the people who follow Jesus, so they reach for whatever fits the sentence. The church. Believers. Disciples. Brothers and sisters. The saints. The elect. The chosen. Outsiders in Antioch pinned a nickname on them that stuck — Christians — and before any of it, the movement called itself the Way.[^names] Different words, one people. A man could answer to all of them at once and never change congregations.
 
 The word to test first is saints, because it is the one we are least confused about — or think we are. Set aside the stained glass. When Paul writes to a church, he opens by calling them saints, and he does it even when the church has given him nothing to be sentimental about. Consider Corinth.
 
@@ -78,11 +78,11 @@ That is the whole requirement. Believe it, say it, mean it. Paul adds no waiting
 >
 > — Romans 10:13 (ESV)
 
-Everyone. Not the fast, not the gifted, not the ones who would have shined at a tryout. There is no tryout here — no stopwatch, no measuring tape, no coach clocking your speed or sizing you up to decide whether you are good enough. The jailer at Philippi asked what he must do, was told simply to believe, and he was in before morning. The requirement never narrows. It is a confession, and a confession is something anyone with a mouth and a heart can make.
+Everyone. Not the fast, not the gifted, not the ones who would have shined at a tryout. There is no tryout here — no stopwatch, no measuring tape, no coach clocking your speed or sizing you up to decide whether you are good enough. The jailer at Philippi asked what he must do, was told simply to believe, and he was in before morning (Acts 16:30–33). The requirement never narrows. It is a confession, and a confession is something anyone with a mouth and a heart can make.
 
 This is exactly where the football picture breaks — and the break is the point. A real team is closed. The coaches choose who is good enough, and most who want a place are cut before they ever pull on the jersey. If God ran his team that way, the Calvinist would be right: a sealed list, a closed door, the rest sent home. But he does not run it that way. He holds no tryouts and turns no one away for being slow. The one qualification is the confession, and it lies open on the table for anyone who will pick it up.
 
-Notice, too, that the confession is a person, not a password. Paul's version is that Jesus is Lord. John's letter puts the same confession in other words — that Jesus is the Son of God. The two are not identical because a confession was never meant to be an incantation. What you are confessing is not a phrase but an allegiance: whose you are, whose name you just called on. Say it however your own mouth says it. The door knows what you mean.
+Notice, too, that the confession is a person, not a password. Paul's version is that Jesus is Lord. John's letter puts the same confession in other words — that Jesus is the Son of God.[^confession] The two are not identical because a confession was never meant to be an incantation. What you are confessing is not a phrase but an allegiance: whose you are, whose name you just called on. Say it however your own mouth says it. The door knows what you mean.
 
 So the practical question turns out to have a plain answer, and the plainness is the problem. If the way in is this open — a confession, available to all, refused to none — then what were five centuries of callers fighting about? They were fighting about the word. Let us finally handle it.
 
@@ -90,7 +90,7 @@ So the practical question turns out to have a plain answer, and the plainness is
 
 Look again at what everyone is reading. The word is foreknew, and the whole fight lives in the first syllable — fore, before, ahead of. Both camps hear a sequence in it. Calvin: first God chose, then the faith came. Arminius: first God saw the faith, then he chose. They cannot agree on the order of events. Neither one questions that there was an order — a before and an after, a first and a then, with God moving through them the way we move through a Tuesday.
 
-That is the thing they are both standing on without looking down. Before and after are not facts about God. They are facts about time, and time is a thing God made. In the beginning, the book says — and a beginning is the front edge of a clock. Behind it there is no earlier, because "earlier" is a reading on the very clock that has not started yet. The words the argument runs on — foreknew, predestined, before the foundation of the world — are all clock-words. They are ours. We were made inside the clock and cannot form a sentence without it.
+That is the thing they are both standing on without looking down. Before and after are not facts about God. They are facts about time, and time is a thing God made. In the beginning, the book says (Genesis 1:1) — and a beginning is the front edge of a clock. Behind it there is no earlier, because "earlier" is a reading on the very clock that has not started yet. The words the argument runs on — foreknew, predestined, before the foundation of the world — are all clock-words. They are ours. We were made inside the clock and cannot form a sentence without it.
 
 And it is not only our words that run on the clock. We do. We begin on a certain day and end on one, and the span between is short. When we reach for something to say about the God who has no beginning and no end, the only words in our hands are the words of creatures who have both. He is. We are, for a little while.
 
@@ -106,7 +106,7 @@ Not I was. Not I will be. A present tense with no walls around it. And when Jesu
 >
 > — John 8:58 (ESV)
 
-He does not say before Abraham was, I was. He says I am, and the sentence buckles under the tense on purpose. That is the sound a timeless voice makes when it has to speak inside a temporal sentence. It is the same voice that calls a thousand years a single day, that names itself the first and the last, the Alpha and the Omega, and means both at once.
+He does not say before Abraham was, I was. He says I am, and the sentence buckles under the tense on purpose. That is the sound a timeless voice makes when it has to speak inside a temporal sentence. It is the same voice that calls a thousand years a single day, that names itself the first and the last, the Alpha and the Omega, and means both at once.[^timeless-voice]
 
 Now set the word back down and read it from both sides. From inside the clock — your side — the story runs in order, and every piece of it is real. You heard. You believed. You confessed. You were saved, on a morning you could name. A true sequence, a true choice, a thing that happened to you and not to someone else. From outside the clock — his side — there is no first and no then. He is not waiting to see what you will do, and he is not deciding it for you ahead of time, because waiting and ahead of time are clock-words, and he is not standing in the clock. He simply knows his people, the way you know what is in front of your face. The elect were never a list drawn up before the world. They are the believers, seen all at once by the One who sees all at once.
 
@@ -132,7 +132,7 @@ Now the other one, the passage that sounds like souls assigned to heaven and hel
 >
 > — Romans 9:11–13 (ESV)
 
-But look where Paul is quoting from. "The older will serve the younger" is lifted straight out of Genesis, where the line just before it reads, "two nations are in your womb." And "Jacob I loved, but Esau I hated" comes from Malachi, written more than a thousand years after both men were dust — and Malachi is not talking about two babies. He is talking about their descendants, Israel and Edom, two peoples with a long and bitter history. Paul's own citations are about nations. So is his potter, the one from Isaiah and Jeremiah who was always shaping peoples, never sorting individual souls. Paul is not diagramming how one person is picked for glory. He is answering the question that breaks his heart in the chapter's opening lines: has God's promise to Israel failed, now that Gentiles are pouring in while so many of his own kinsmen stay out? His answer runs three chapters, and it is entirely about which peoples God is gathering into his one people — Jew and Gentile together. It ends not in a sealed courtroom but in a grafted olive tree, the door still open, Paul on his knees for his nation to come in.
+But look where Paul is quoting from. "The older will serve the younger" is lifted straight out of Genesis, where the line just before it reads, "two nations are in your womb." And "Jacob I loved, but Esau I hated" comes from Malachi, written more than a thousand years after both men were dust — and Malachi is not talking about two babies. He is talking about their descendants, Israel and Edom, two peoples with a long and bitter history.[^jacob-esau] Paul's own citations are about nations. So is his potter, the one from Isaiah and Jeremiah who was always shaping peoples, never sorting individual souls.[^potter] Paul is not diagramming how one person is picked for glory. He is answering the question that breaks his heart in the chapter's opening lines: has God's promise to Israel failed, now that Gentiles are pouring in while so many of his own kinsmen stay out? His answer runs three chapters, and it is entirely about which peoples God is gathering into his one people — Jew and Gentile together. It ends not in a sealed courtroom but in a grafted olive tree, the door still open, Paul on his knees for his nation to come in.[^olive-tree]
 
 So the hardest verses never needed softening. Read them from God's side of the clock, and about the people he was forming all along, and they say exactly what they always said — with nothing left over to frighten anyone. The elect are the believers. Chosen in Christ from eternity, and gathered in time, one confession at a time.
 
@@ -156,7 +156,21 @@ So the elect was never the cold thing five centuries made of it. It is the saint
 
 ## References
 
-- *The Holy Bible, English Standard Version* (ESV). Crossway, 2001. Passages cited: 1 Corinthians 1:2; Ephesians 1:1, 1:4; Colossians 3:12; Romans 8:29–30, 9:11–13, 10:9–10, 10:13; Exodus 3:14; John 8:58; Revelation 7:9; with allusion to Genesis 25:23, Malachi 1:2–3, Acts 16:30–33, and 1 John 4:15.
+- *The Holy Bible, English Standard Version* (ESV). Crossway, 2001. Passages cited: 1 Corinthians 1:2; Ephesians 1:1, 1:4; Colossians 3:12; Romans 8:29–30, 9:11–13, 10:9–10, 10:13; Exodus 3:14; John 8:58; Revelation 7:9; with allusion to Genesis 1:1, 25:23; Malachi 1:2–3; Isaiah 45:9, 64:8; Jeremiah 18:1–6; Acts 9:2, 11:26, 16:30–33, 24:14; Romans 10:1, 11:17–24; 2 Peter 3:8; Revelation 22:13; and 1 John 4:15.
 - Boethius. *The Consolation of Philosophy*, Book V. The source of the classic resolution used here: eternity is "the whole, simultaneous, and perfect possession of unbounded life," so God's knowledge is not fore-knowledge but the knowledge of an ever-present now — and because it is sight rather than cause, it does not remove human freedom.
 - Augustine. *Confessions*, Book XI. On time as a created thing, with no "before" for creation to sit inside.
 - Thomas Aquinas. *Summa Theologiae* I, q. 14, a. 13. On God knowing contingent, freely chosen things as present to his eternity rather than as future.
+
+## Footnotes
+
+[^names]: Acts 11:26 (the disciples first called Christians at Antioch); Acts 9:2; 24:14 (the movement known as the Way).
+
+[^confession]: Romans 10:9 (that Jesus is Lord); 1 John 4:15 (that Jesus is the Son of God).
+
+[^timeless-voice]: 2 Peter 3:8 (a thousand years as a single day; cf. Psalm 90:4); Revelation 22:13 (the first and the last, the Alpha and the Omega; cf. Revelation 1:8).
+
+[^jacob-esau]: Genesis 25:23 ("two nations are in your womb" and "the older shall serve the younger"); Malachi 1:2–3 ("Jacob I loved, but Esau I hated," spoken of the peoples Israel and Edom).
+
+[^potter]: Isaiah 45:9; 64:8; Jeremiah 18:1–6 (God as the potter, shaping peoples rather than sorting individual souls).
+
+[^olive-tree]: Romans 11:17–24 (the grafted olive tree); Romans 10:1 (Paul's prayer for Israel's salvation).
