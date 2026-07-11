@@ -2,7 +2,7 @@
 layout: blog_post
 title: "In That Number"
 description: '"The elect" is not a sealed roster drawn up before creation with most of us left off. It is one more name for the believers (the saints, the brothers, the Way), a jersey the church wears. The five-century fight between Calvin and Arminius dissolves the moment you remember that God does not stand inside time: he has all knowledge, not foreknowledge. The door is still open, and everyone who calls is in.'
-date: 2026-07-19
+date: 2026-07-11
 author: Dewayne VanHoozer
 ---
 
