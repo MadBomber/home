@@ -62,7 +62,7 @@ It can be done well or poorly. The discipline you build over time isn't just aes
 
 We study because the Bible reveals the gospel. Jesus Himself said the Scriptures testify about Him (John 5:39; Luke 24:27). It is breathed out by God and sufficient to leave us complete, equipped for every good work (2 Timothy 3:16-17), and more necessary than daily bread (Matthew 4:4).
 
-We study because it grows us like newborn infants craving pure spiritual milk (1 Peter 2:2) and roots us like trees by streams of water (Psalm 1:2-3). The Bereans were commended as good workmen because they examined the Scriptures daily to see if what they were hearing was true (Acts 17:11).
+We study because it grows us like newborn infants craving pure spiritual milk (1 Peter 2:2) and roots us like trees by streams of water (Psalm 1:2-3). The Bereans were commended as good workmen because they examined the Scriptures daily to see if what they were hearing was true (Acts 17:10-11).
 
 We study because the word is living and active, sharper than any two-edged sword, bringing conviction (Hebrews 4:12), and because it lights our path (Psalm 119:105). Joshua was told to meditate on the Book of the Law day and night, and the promise of good success came attached to a condition: so that he would be careful to do what was written in it (Joshua 1:8). The meditating was never the point by itself. It was how the doing got done.
 
