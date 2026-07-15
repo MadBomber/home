@@ -1,0 +1,52 @@
+---
+layout: none
+permalink: /search-index.json
+---
+<%
+  # Search index for the Essays page. Covers only the essays in src/blog/*.md —
+  # the blog index itself and all study content are deliberately excluded, since
+  # this file is fetched by the reader on demand and its size is the whole point.
+  #
+  # Consumed by frontend/javascript/search.js, which fetches it lazily when a
+  # reader submits their first query.
+
+  is_production = Bridgetown.environment.to_s == "production"
+
+  # Same filter as src/blog/index.erb: matches /blog/<slug>/ only, so index.erb
+  # (which renders to /blog/) never lands in the index. Future-dated essays stay
+  # searchable in development and drop out of the production build.
+  posts = site.resources
+    .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
+    .reject  { |r| r.relative_url.to_s.end_with?("/blog/") }
+    .reject  { |r| is_production && r.data[:date] && r.data[:date].to_date > Date.today }
+    .sort_by { |r| r.data[:date] || Date.new(1970) }
+    .reverse
+
+  # Reduce Markdown (or rendered HTML, depending on where this runs in the build)
+  # down to bare prose. Search only ever matches words, so any syntax that
+  # survives is noise that inflates the payload.
+  plain_text = ->(raw) {
+    raw.to_s
+      .gsub(/^---\s*$.*?^---\s*$/m, " ")        # front matter, if still present
+      .gsub(/```.*?```/m, " ")                  # fenced code
+      .gsub(/`[^`]*`/, " ")                     # inline code
+      .gsub(/<[^>]+>/, " ")                     # html tags
+      .gsub(/!\[[^\]]*\]\([^)]*\)/, " ")        # images
+      .gsub(/\[([^\]]*)\]\([^)]*\)/, '\1')      # links -> link text
+      .gsub(/&[a-z]+;|&#\d+;/i, " ")            # html entities
+      .gsub(/[#*_>`~|\[\]()-]+/, " ")           # leftover markdown punctuation
+      .gsub(/\s+/, " ")
+      .strip
+  }
+
+  index = posts.map do |post|
+    {
+      "title"       => post.data[:title].to_s,
+      "url"         => post.relative_url.to_s,
+      "date"        => post.data[:date]&.strftime("%B %-d, %Y"),
+      "description" => post.data[:description].to_s,
+      "collection"  => post.data[:collection].to_s,
+      "content"     => plain_text.call(post.content),
+    }
+  end
+%><%== index.to_json %>

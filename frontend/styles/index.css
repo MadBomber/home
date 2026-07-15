@@ -1484,6 +1484,124 @@ tr:hover td {
   color: var(--purple-deep);
 }
 
+/* --- Search view --- */
+
+.blog-search-form {
+  margin-bottom: 2rem;
+}
+
+.blog-search-label {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--gold);
+  margin-bottom: 0.5rem;
+}
+
+.blog-search-controls {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.blog-search-input {
+  flex: 1 1 18rem;
+  min-width: 0;
+  padding: 0.65rem 0.9rem;
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  color: var(--text-primary);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.blog-search-input:focus {
+  outline: none;
+  border-color: var(--purple-light);
+  box-shadow: 0 0 0 3px var(--purple-faint);
+}
+
+.blog-search-input::placeholder {
+  color: var(--text-muted);
+}
+
+.blog-search-submit,
+.blog-search-clear {
+  padding: 0.65rem 1.4rem;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+/* Mirrors .day-complete-btn, the site's primary button: --purple-mid flips with
+   the theme on its own, so no per-theme override is needed here. */
+.blog-search-submit {
+  background: var(--purple-mid);
+  color: #fff;
+  border: 1px solid transparent;
+}
+
+.blog-search-submit:hover {
+  background: var(--purple-deep);
+}
+
+.blog-search-clear {
+  background: none;
+  color: var(--text-muted);
+  border: 1px solid var(--border-color);
+}
+
+.blog-search-clear:hover {
+  color: var(--text-secondary);
+  border-color: var(--text-muted);
+}
+
+.blog-search-hint {
+  margin: 0.6rem 0 0;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.search-result-count {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin: 0 0 1rem;
+}
+
+.search-result-snippet {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+}
+
+/* --gold-light stays a light tint in both palettes, so fixed dark text works
+   either way — the same approach as .day-complete-btn.completed. */
+.search-result-card mark {
+  background: var(--gold-light);
+  color: #1a1a1e;
+  padding: 0 0.1em;
+  border-radius: 2px;
+}
+
+.search-message {
+  font-style: italic;
+  color: var(--text-muted);
+}
+
 /* --- Footer --- */
 
 .site-footer {

@@ -75,6 +75,7 @@ description: Essays and articles on Scripture, theology, and the Christian life.
   <div class="blog-tabs" role="tablist">
     <button class="blog-tab active" data-tab="recent" role="tab" aria-selected="true">Recent</button>
     <button class="blog-tab" data-tab="collections" role="tab" aria-selected="false">Collections</button>
+    <button class="blog-tab" data-tab="search" role="tab" aria-selected="false">Search</button>
   </div>
 
   <div class="blog-view active" id="blog-view-recent" role="tabpanel">
@@ -166,6 +167,29 @@ description: Essays and articles on Scripture, theology, and the Christian life.
         <% end %>
       </div>
     <% end %>
+  </div>
+
+  <div class="blog-view" id="blog-view-search" role="tabpanel">
+    <form class="blog-search-form" id="blog-search-form" role="search">
+      <label class="blog-search-label" for="blog-search-input">Search the essays</label>
+      <div class="blog-search-controls">
+        <input
+          type="search"
+          id="blog-search-input"
+          class="blog-search-input"
+          placeholder="e.g. prayer, Calvin, the elect"
+          autocomplete="off"
+        >
+        <button type="submit" class="blog-search-submit">Search</button>
+        <button type="button" class="blog-search-clear" id="blog-search-clear">Clear</button>
+      </div>
+      <p class="blog-search-hint">
+        Searches the full text of every essay. An essay must contain <em>every</em> term to match &mdash;
+        put quotation marks around a phrase (&ldquo;Acts 17&rdquo;) to find those words together.
+      </p>
+    </form>
+
+    <div class="blog-search-results" id="blog-search-results" aria-live="polite"></div>
   </div>
 </section>
 
