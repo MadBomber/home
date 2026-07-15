@@ -68,6 +68,10 @@ We study because the word is living and active, sharper than any two-edged sword
 
 ## Read It Like You Mean It
 
+My wife was not doing anything novel that night. An entire industry has been built on what she knew by instinct. Alexander Scourby recorded the complete King James Version in the 1940s and 50s, and people still hunt down that voice to hear it. Max McLean has read the NIV, ESV, and KJV end to end.[^mclean] David Suchet spent more than two hundred hours in a studio to get through the NIV once. Then there are the full productions. The Word of Promise put Jim Caviezel, Richard Dreyfuss, and Gary Sinise in front of microphones with an original score and film-quality sound design across ninety hours of New King James. Inspired By... The Bible Experience cast Forest Whitaker as Moses, Blair Underwood as Jesus, and Samuel L. Jackson as the voice of God, backed them with a full orchestral score, and took Audiobook of the Year for its New Testament in 2007. Nobody spends that kind of money and talent on a boring book.
+
+None of it requires a purchase, either. Bible Gateway streams most of those same narrations for free, McLean's among them, with a dropdown to pick your version, your reader, and your chapter. Blue Letter Bible reads any chapter aloud right beside its Greek and Hebrew tools. ESV.org will stream the whole translation my wife was reading that night to anyone with a free account. Faith Comes By Hearing has given away fully dramatized recordings, voice actors and sound effects included, in more than two thousand languages, a catalog no studio has ever matched. The barrier was never access.
+
 So read it out loud. Use whatever acting ability you have. Give the characters voice. Treat the narrative asides ("he wept," "she said to him," "his heart was moved") as the stage directions they already are. You don't need a Hollywood production or a professional narrator. You can be just as excited for yourself, alone, with your own copy of the Scriptures.
 
 ## Every Aisle
@@ -80,3 +84,17 @@ The monotone teacher, the flat delivery, the failure to account for genre. Those
 
 - *The Holy Bible, English Standard Version* (ESV). Crossway, 2001.
 - Glenna Marshall, "6 Reasons to Study the Bible," Crossway, <https://www.crossway.org/articles/6-reasons-to-study-the-bible/>.
+- *The Alexander Scourby Audio Bible* (KJV), <https://audiobible.com/alexander-scourby-audio-bible-reading/>.
+- Max McLean, *The Listener's Bible* (NIV, ESV, KJV), <https://listenersbible.com/>. Highly recommended.
+- David Suchet, *Audio Bible* (NIV). Zondervan, <https://www.amazon.com/David-Suchet-Audio-Bible-International/dp/B013QI3SEC>.
+- *The Word of Promise Complete Audio Bible* (NKJV). Thomas Nelson, <https://www.thomasnelsonbibles.com/product/the-word-of-promise-audio-bible-nkjv/>.
+- *Inspired By... The Bible Experience* (TNIV). Zondervan, <https://www.audible.com/pd/Inspired-By-The-Bible-Experience-Audio-BibleTodays-New-International-Version-TNIV-Complete-Bible-Audiobook/B079VG7S1N>. Cast list: <https://www.thebiblesource.com/assets/pdf/The-Bible-Experience-Cast.pdf>.
+- *The Truth and Life Dramatized Audio Bible* (RSV-CE New Testament). Ignatius Press, <https://ignatius.com/the-truth-and-life-dramatized-audio-bible-tldabd/>.
+- Bible Gateway, Audio Bibles (free streaming, multiple versions and narrators), <https://www.biblegateway.com/resources/audio/>.
+- Blue Letter Bible (per-chapter audio alongside Greek and Hebrew study tools), <https://www.blueletterbible.org/>.
+- ESV.org, Audio Player (free account streams the ESV audio in a browser), <https://www.esv.org/resources/audio-player/>.
+- Faith Comes By Hearing, Bible.is (free dramatized audio Bibles in over two thousand languages), <https://www.bible.is/>.
+
+## Footnotes
+
+[^mclean]: My wife and I met Max at our church, Sagemont in Houston, Texas, and have attended several of his live performances. His work is highly recommended. Sagemont is the same church where I sat across from Voddie Baucham and Stuart Rothberg in the Bible study that opens [*Which Bible?*](/blog/which-bible/).
