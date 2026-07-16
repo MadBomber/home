@@ -1,8 +1,10 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
+<%# Merriweather is self-hosted from /fonts — see the @font-face block at the top
+    of frontend/styles/index.css. Do not reintroduce the Google Fonts <link>: it
+    hands every reader's IP address to Google on page load, which the privacy
+    section of src/documents/about.md says the site does not do. %>
+<link rel="preload" href="/fonts/merriweather-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
 <%
   resource_title   = strip_html(strip_newlines(title))
   page_title       = resource_title == "Index" ? "#{metadata.title}: #{metadata.tagline}" : "#{resource_title} | #{metadata.title}"
