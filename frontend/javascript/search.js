@@ -188,6 +188,38 @@ function resultCard(result, terms) {
   return card
 }
 
+// A phrase is shown quoted, so `“acts 17”` reads as one term rather than two.
+function termLabel(term) {
+  return term.type === "phrase" ? `“${term.value.join(" ")}”` : term.value
+}
+
+// "11 essays found containing acts AND 17" — spelling out the joins makes the
+// AND condition obvious without the reader having to find the hint text.
+// Built from nodes rather than a template string: these are the reader's own
+// words coming back out, and textContent can't inject anything.
+function countLine(total, terms) {
+  const line = document.createElement("p")
+  line.className = "search-result-count"
+  line.appendChild(
+    document.createTextNode(`${total} ${total === 1 ? "essay" : "essays"} found containing `)
+  )
+
+  terms.forEach((term, index) => {
+    if (index > 0) {
+      const join = document.createElement("span")
+      join.className = "search-count-and"
+      join.textContent = "AND"
+      line.append(" ", join, " ")
+    }
+    const label = document.createElement("span")
+    label.className = "search-count-term"
+    label.textContent = termLabel(term)
+    line.appendChild(label)
+  })
+
+  return line
+}
+
 function renderResults(container, results, query) {
   container.innerHTML = ""
   const terms = parseQuery(query)
@@ -200,10 +232,7 @@ function renderResults(container, results, query) {
     return
   }
 
-  const count = document.createElement("p")
-  count.className = "search-result-count"
-  count.textContent = `${results.length} ${results.length === 1 ? "essay" : "essays"} found`
-  container.appendChild(count)
+  container.appendChild(countLine(results.length, terms))
 
   const list = document.createElement("div")
   list.className = "blog-post-list"

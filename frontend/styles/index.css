@@ -1257,21 +1257,26 @@ tr:hover td {
   color: inherit;
 }
 
-[data-theme="auto"] .blog-post-card {
-  background: var(--bg-surface);
-  border-color: var(--border-color);
-}
+/* "auto" means "follow the system", so these dark overrides only apply when the
+   system is actually dark. Unscoped they also fired on light systems, forcing
+   the dark treatment onto a light page. */
+@media (prefers-color-scheme: dark) {
+  [data-theme="auto"] .blog-post-card {
+    background: var(--bg-surface);
+    border-color: var(--border-color);
+  }
 
-[data-theme="auto"] .blog-post-card-header {
-  background: #1e1235;
-}
+  [data-theme="auto"] .blog-post-card-header {
+    background: #1e1235;
+  }
 
-[data-theme="auto"] .blog-post-card-header h2 {
-  color: var(--gold-light);
-}
+  [data-theme="auto"] .blog-post-card-header h2 {
+    color: var(--gold-light);
+  }
 
-[data-theme="auto"] .blog-post-card:hover {
-  color: inherit;
+  [data-theme="auto"] .blog-post-card:hover {
+    color: inherit;
+  }
 }
 
 /* --- Blog Tabs --- */
@@ -1368,14 +1373,24 @@ tr:hover td {
   margin-bottom: 0.25rem;
 }
 
-[data-theme="dark"] .blog-tab.active,
-[data-theme="auto"] .blog-tab.active {
+[data-theme="dark"] .blog-tab.active {
   color: var(--gold-light);
 }
 
-[data-theme="dark"] .blog-collection-header h2,
-[data-theme="auto"] .blog-collection-header h2 {
+[data-theme="dark"] .blog-collection-header h2 {
   color: var(--gold-light);
+}
+
+/* Split out of the selectors above: pale gold is only legible on the dark
+   page background. On a light system "auto" left the active tab at 1.24:1. */
+@media (prefers-color-scheme: dark) {
+  [data-theme="auto"] .blog-tab.active {
+    color: var(--gold-light);
+  }
+
+  [data-theme="auto"] .blog-collection-header h2 {
+    color: var(--gold-light);
+  }
 }
 
 /* --- Collection blocks (Collections tab) --- */
@@ -1464,24 +1479,41 @@ tr:hover td {
   text-decoration: underline;
 }
 
-[data-theme="dark"] .blog-collection-block-header,
-[data-theme="auto"] .blog-collection-block-header {
+[data-theme="dark"] .blog-collection-block-header {
   background: #1e1235;
 }
 
-[data-theme="dark"] .blog-collection-block-header h2,
-[data-theme="auto"] .blog-collection-block-header h2 {
+[data-theme="dark"] .blog-collection-block-header h2 {
   color: var(--gold-light);
 }
 
-[data-theme="dark"] .blog-collection-block-description,
-[data-theme="auto"] .blog-collection-block-description {
+[data-theme="dark"] .blog-collection-block-description {
   color: var(--text-secondary);
 }
 
-[data-theme="dark"] .blog-collection-start:hover,
-[data-theme="auto"] .blog-collection-start:hover {
+[data-theme="dark"] .blog-collection-start:hover {
   color: var(--purple-deep);
+}
+
+/* Split out of the selectors above. --text-secondary is a dark grey in the light
+   palette, so on a light system "auto" painted the description #555 on the
+   #1e1235 header — 2.36:1, effectively invisible. */
+@media (prefers-color-scheme: dark) {
+  [data-theme="auto"] .blog-collection-block-header {
+    background: #1e1235;
+  }
+
+  [data-theme="auto"] .blog-collection-block-header h2 {
+    color: var(--gold-light);
+  }
+
+  [data-theme="auto"] .blog-collection-block-description {
+    color: var(--text-secondary);
+  }
+
+  [data-theme="auto"] .blog-collection-start:hover {
+    color: var(--purple-deep);
+  }
 }
 
 /* --- Search view --- */
@@ -1571,14 +1603,25 @@ tr:hover td {
   color: var(--text-muted);
 }
 
+/* No text-transform here: this line echoes the reader's own search terms, and
+   uppercasing them would both distort them and read as shouting. */
 .search-result-count {
   font-family: var(--font-sans);
-  font-size: 0.8rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
+  font-size: 0.85rem;
   color: var(--text-muted);
   margin: 0 0 1rem;
+}
+
+.search-count-term {
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.search-count-and {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--gold);
 }
 
 .search-result-snippet {
@@ -1600,6 +1643,22 @@ tr:hover td {
 .search-message {
   font-style: italic;
   color: var(--text-muted);
+}
+
+/* The dark palette inverts the purples into light accents, so white label text
+   on them only reaches 3.68:1 at rest and 2.40:1 on hover — hovering makes the
+   button harder to read. Dark text on the same fills gives 4.71:1 and 7.24:1,
+   matching how .day-complete-btn.completed handles a light accent background. */
+[data-theme="dark"] .blog-search-submit {
+  color: #1a1a1e;
+}
+
+/* Scoped to the media query so "auto" only picks this up when the reader's
+   system is actually dark — the same structure as .day-complete-btn. */
+@media (prefers-color-scheme: dark) {
+  [data-theme="auto"] .blog-search-submit {
+    color: #1a1a1e;
+  }
 }
 
 /* --- Footer --- */
