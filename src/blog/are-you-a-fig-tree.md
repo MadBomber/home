@@ -100,18 +100,6 @@ James asks the same question about people that Jesus had already asked of a tree
 
 Notice what James does not attack. He does not say the words were wrong. "Go in peace, be warmed and filled" is a fine thing to say to someone who is cold and hungry. It is close to a blessing. James's complaint is not the sentence. It is that the sentence was the whole transaction. Words spent, nothing given, the person walks away exactly as cold and exactly as hungry as they arrived. That is a fig tree in full leaf.
 
-## What Completes It
-
-Then James turns to the one man in Israel's history everyone in his audience would already claim as their own.
-
-> Was not Abraham our father justified by works when he offered up his son Isaac on the altar? You see that faith was active along with his works, and faith was completed by his works; and the Scripture was fulfilled that says, "Abraham believed God, and it was counted to him as righteousness"—and he was called a friend of God.
->
-> James 2:21-23 (ESV)
-
-James's justified is not Paul's justified. Paul uses the word for how a sinner is made right with God, by faith, apart from works (Romans 3:28). James is answering a different question: how you know a faith is the real thing. Abraham's faith was justified in that sense, shown to be what it claimed to be, by what it did next.
-
-Faith was completed by his works. Not replaced. Not proven to an audience. Completed, the way a sentence is completed by its verb. Abraham believed God decades before he ever climbed a mountain with a knife and his son (Genesis 15:6; 22:1-19). The belief was real long before the mountain. It was not finished growing. What happened on the mountain was not a different thing from the belief he already had. It was that belief arriving where belief was always headed.
-
 ## The Same Word
 
 James closes the argument on a single word, and it is the same word that already closed his first point.
@@ -124,53 +112,41 @@ Dead. Not incomplete. Not underdeveloped. Dead, the same word Mark did not even 
 
 ## What a Fig Tree Is For
 
-Dead is the diagnosis. It only lands as hard as it does because the tree was alive for a reason, and the reason is worth going back for.
+Dead is the diagnosis. It only lands because the tree was alive for a reason.
 
-Mark told you why Jesus was standing at the tree in the first sentence of the account. He was hungry (Mark 11:12). A fig tree is not planted to be admired from the road. It is planted to feed the one who comes to it hungry. That is the entire point of a fruit tree. The leaves, the height, the deep and stubborn roots, all of it exists to reach the one moment when someone hungry reaches up and finds something to eat. A tree that never reaches that moment has missed the only thing it was for.
+Mark gave the reason in the account's first sentence. Jesus was hungry (Mark 11:12). A fig tree is not planted to be admired from the road. It is planted to feed the one who comes to it hungry, and that is the point the temple had forgotten. Jesus walked off the road and into it, and the line He threw named the exact hunger the leaves had failed to meet. The place was built to be "a house of prayer for all the nations" (Mark 11:17), where a watching world could come and find the living God. It had become a marketplace instead. Leaves without figs, this time in stone.
 
-Watch where Jesus goes next, and listen to what He says when He gets there. He walks off the road and into the temple, and the line He throws at it names the exact hunger the tree had just failed to meet. The temple was supposed to be "a house of prayer for all the nations" (Mark 11:17), the place a watching world could come to and find the living God. It had become a marketplace instead. All the motion of religion, none of the thing the motion was for. A hungry world could walk straight up to it and leave carrying nothing. Leaves without figs, this time in stone.
+Feeding the nations was never a side errand. It was the whole assignment. Israel was planted to be "a light for the nations," so that God's salvation would "reach to the end of the earth" (Isaiah 49:6). Not a light for itself. A tree in full leaf carrying nothing is a people keeping the light to themselves, which is the tree Jesus cursed and the temple He cleared, the same barren thing twice.
 
-That was never a small failure, because feeding the nations was the whole assignment. It was what Israel had been planted for.
-
-> "It is too light a thing that you should be my servant to raise up the tribes of Jacob and to bring back the preserved of Israel; I will make you as a light for the nations, that my salvation may reach to the end of the earth."
->
-> Isaiah 49:6 (ESV)
-
-Not a light for itself. A light for the nations. Israel's fruit was always meant to grow outward, the one true and living God made visible to people who had never seen Him, until His salvation reached the end of the earth. A tree in full leaf carrying nothing is a people keeping the light to themselves. That is the tree Jesus cursed and the temple He cleared, the same barren thing twice, neither one producing the only fruit it was planted to grow.
-
-The assignment did not die with the temple. Days later, on a hill in Galilee, the risen Jesus handed it to the people who would carry His name.
+The assignment did not die with the temple. Days later the risen Jesus handed it to everyone who would carry His name.
 
 > And Jesus came and said to them, "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."
 >
 > Matthew 28:18-20 (ESV)
 
-Every word of it points outward. All authority is His, so go. Make disciples, not admirers. Of all the nations, the same nations the temple was built to gather and never did. The fruit a Christian is planted to bear is other people. Someone who did not know God brought to know Him. Someone who never worshiped learning how. One more life turned toward His glory. More believers, more worship, more of Him made known to a world that has not seen Him yet. That is the harvest. That is what the tree is for.
+Every word points outward. All authority is His, so go. Make disciples, not admirers, of all the nations, the same nations the temple was built to gather and never did. The fruit a Christian is planted to bear is other people. Someone who did not know God brought to know Him. More believers, more worship, more of Him made known to a world that has not seen Him yet. That is the harvest. That is what the tree is for.
 
-Which sounds like more than any one life could carry, until you see how the work is actually divided.
+It sounds like more than one life could carry, until you see how the work divides.
 
 > "I planted, Apollos watered, but God gave the growth. So neither he who plants nor he who waters is anything, but only God who gives the growth."
 >
 > 1 Corinthians 3:6-7 (ESV)
 
-No one is asked to grow the whole crop alone. One person plants a word that seems to fall on nothing. Another waters it years later, never knowing who planted it. Someone else is standing there on the day it finally breaks the surface. Not one of them made it grow. God did. Your part is real and your part is partial, and the pressure to personally produce the harvest was never yours to carry. You plant. You water. He gives the growth.
+No one grows the whole crop alone. One person plants a word that seems to land nowhere. Another waters it years later, never knowing who planted it. Someone else is there the day it breaks the surface. Each is paid for his own labor, and not one of them made it grow (1 Corinthians 3:8). God did. Your part is real and your part is partial. You plant. You water. He gives the growth.
 
 ## What You're Leafing Out With
 
-A tree. A temple. A whole nation. Every example so far has belonged to someone else. The question does not stay there. It asks what account you would give, right now, if someone came to you hungry. Not whether you believe the right things. Whether that belief has grown any fruit, in you and through you both.
-
-Scripture calls two different things fruit, and a living faith carries both. There is the fruit that grows through you, the harvest already named, people drawn toward God. And there is the fruit that grows in you.
+A tree. A temple. A whole nation. Every example so far has belonged to someone else. The question does not stay there. It comes for your own leaves. Not whether you believe the right things. Whether that belief has grown any fruit, in you and through you both. Start with the fruit that grows in you.
 
 > "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law."
 >
 > Galatians 5:22-23 (ESV)
 
-These are not the harvest. They are what makes a harvest possible. No one was ever drawn to the living God by a bitter, impatient, self-advertising witness. Love, joy, peace, patience, the whole list is the character the Spirit grows in a person until that person becomes something a hungry world can actually be fed by. It is how the light stops being a slogan and becomes something a watching stranger can see.
+Read the list again and notice whose portrait it is. Love, joy, peace, patience, kindness. That is Jesus. The Spirit grows this fruit to form Christ in you (Galatians 4:19), until you become a little Christ, which is all a Christian was ever meant to be. And a little Christ is the one thing a watching world cannot look away from. No one is argued into the kingdom by a bitter, impatient witness. People are drawn by someone who has started to look like the Lord they have never met.
 
-And this kind is not cheap either. Full leaf is easy. You can attend, volunteer for the visible tasks, say the right sentences at the right moments, tell the cold and hungry person to go in peace (James 2:16) and mean it every time you say it. None of that is fake, and none of it is fruit yet. It becomes fruit only when it costs you something a sentence does not: the afternoon you did not have, the money you were saving for something else, the apology you owed and had a good excuse not to give. That is love a hungry person can eat. It is also the only sermon most people will ever sit still for.
+Because the world is hungry. Under all the noise it is hungry for God, for a meaning it cannot manufacture and a salvation it cannot buy. We know what relieves that hunger. It is not us, and it is not our character. It is Jesus, and the God who so loved the world He gave His only Son (John 3:16). The fruit of the Spirit is what makes them willing to listen. Telling them is the harvest.
 
-And like all fruit, it is grown, not manufactured. A fig tree does not force its way into growing a fig. It grows one because its roots are doing what roots do. That is the word Paul chose on purpose. Not the works of the Spirit. Not the achievements of the Spirit. The fruit, produced the way fruit is always produced, slowly, by staying attached to something alive. You do not manufacture patience by gritting your teeth or love by trying harder. You stay attached, and it grows, and someone hungry is fed by what grew.
-
-The question is not whether you look like a fig tree in season. Most people who have spent any time near a church do. The question Jesus put to a barren tree on His way into Jerusalem, the same one Israel was handed and failed, the same one now hanging over everyone who carries His name, is hanging over your own leaves right now. If someone came looking, hungry, at exactly the wrong time of year for you to have an excuse ready, would they find anything. And if they did, would it be good enough to send them looking for the One who grew it.
+So the question Jesus put to a barren tree on His way into Jerusalem, the same one Israel was handed and failed, is hanging over your own leaves right now. If someone came looking, hungry, at exactly the wrong time of year for you to have an excuse ready, would they find anything. And if they did, would it send them looking for the One who grew it.
 
 ## Answering Her Now
 
@@ -183,10 +159,7 @@ Reading it whole instead of in pieces was not incidental to finding that out. It
 ## References
 
 - *The Holy Bible, English Standard Version* (ESV). Crossway, 2001.
-- OneForIsrael, "Fig Tree in the Bible: Symbolism, Meaning and Prophecy," <https://www.oneforisrael.org/bible-based-teaching-from-israel/figs-in-the-bible/>.
-- BiblePlaces.com, "Fig Trees," <https://www.bibleplaces.com/fig-trees/>.
 - FigBoss, "Breba Figs: A Fig Tree's First of Two Crops and the Varieties That Produce Them," <https://www.figboss.com/post/breba-figs>.
-- International Society for Horticultural Science, "The Optimal Density and Fig Tree (*Ficus carica* L.) Pruning for a Breba Crop in Israel," *Acta Horticulturae*, <https://www.actahort.org/books/480/480_22.htm>.
 - Eusebius of Caesarea. *Ecclesiastical History*, Book III, Chapter 39 (quoting Papias on Mark as Peter's interpreter). Translated in *Nicene and Post-Nicene Fathers*, Series II, Vol. I. <https://www.newadvent.org/fathers/250103.htm>.
 
 ## Footnotes
