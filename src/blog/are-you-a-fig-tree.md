@@ -80,7 +80,7 @@ Luke records a different fig tree, a parable this time, not an event, told earli
 
 Three years of nothing, and the owner is talked into one more. That parable is patience with a deadline attached, mercy that has not yet run out. Set it beside the tree Jesus curses on the road into Jerusalem, and the fig tree in Mark reads like the parable's ending, spoken instead of merely told. The extra year is over. The vinedresser came back one last time and found the same thing he found the first three years.
 
-## All Hat, No Cattle
+## Leaf Without Fruit
 
 Once you know the symbolism and the context, the account is not weird at all.
 
@@ -88,35 +88,25 @@ Mark set the fig tree beside the temple on purpose. A tree in full leaf promisin
 
 Which means the real question the account is asking was never "was Jesus fair to a fig tree." It is closer to "does your leaf match your fruit."
 
-That is the relationship Jesus does not want from the people who follow Him. All show and no go. Or, as they say in Texas, all hat and no cattle. Everything that looks like the real thing, standing in for nothing that is.
+That is the relationship Jesus does not want from the people who follow Him. All show and no go. Everything that looks like the real thing, standing in for nothing that is.
 
 ## Faith With Nothing Under It
 
-James asks the same question about people that Jesus had already asked of a tree.
+James asks of people the question Jesus asked of a tree.
 
 > What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him? If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, "Go in peace, be warmed and filled," without giving them the things needed for the body, what good is that? So also faith by itself, if it does not have works, is dead.
 >
 > James 2:14-17 (ESV)
 
-Notice what James does not attack. He does not say the words were wrong. "Go in peace, be warmed and filled" is a fine thing to say to someone who is cold and hungry. It is close to a blessing. James's complaint is not the sentence. It is that the sentence was the whole transaction. Words spent, nothing given, the person walks away exactly as cold and exactly as hungry as they arrived. That is a fig tree in full leaf.
-
-## The Same Word
-
-James closes the argument on a single word, and it is the same word that already closed his first point.
-
-> For as the body apart from the spirit is dead, so also faith apart from works is dead.
->
-> James 2:26 (ESV)
-
-Dead. Not incomplete. Not underdeveloped. Dead, the same word Mark did not even need to use, because he had already shown you a tree withered to its roots. James is not introducing a new problem in his letter. He is naming, in one sentence, what Jesus had already done in front of witnesses on the road out of Bethany.
+The complaint is not the words. "Go in peace, be warmed and filled" is close to a blessing. The complaint is that the words were the whole transaction. Nothing given, the person leaves as cold and as hungry as he came. That is a fig tree in full leaf. James names the failure in a single word, the one word Mark never needed because he had already shown you a tree withered to its roots. Dead. Faith with nothing under it is not weak faith. It is a dead thing wearing leaves.
 
 ## What a Fig Tree Is For
 
 Dead is the diagnosis. It only lands because the tree was alive for a reason.
 
-Mark gave the reason in the account's first sentence. Jesus was hungry (Mark 11:12). A fig tree is not planted to be admired from the road. It is planted to feed the one who comes to it hungry, and that is the point the temple had forgotten. Jesus walked off the road and into it, and the line He threw named the exact hunger the leaves had failed to meet. The place was built to be "a house of prayer for all the nations" (Mark 11:17), where a watching world could come and find the living God. It had become a marketplace instead. Leaves without figs, this time in stone.
+Mark gave the reason in the account's first sentence. Jesus was hungry (Mark 11:12). A fig tree is not planted to be admired from the road; it is planted to feed the one who comes to it hungry. That is the point the temple had forgotten. Jesus walked off the road and into it and named the exact hunger the leaves had failed to meet: the place was built to be "a house of prayer for all the nations" (Mark 11:17), where a watching world could come and find the living God. It had become a marketplace instead. Leaves without figs, this time in stone.
 
-Feeding the nations was never a side errand. It was the whole assignment. Israel was planted to be "a light for the nations," so that God's salvation would "reach to the end of the earth" (Isaiah 49:6). Not a light for itself. A tree in full leaf carrying nothing is a people keeping the light to themselves, which is the tree Jesus cursed and the temple He cleared, the same barren thing twice.
+Feeding the nations was the whole assignment. Israel was planted to be "a light for the nations," so God's salvation would "reach to the end of the earth" (Isaiah 49:6), and a tree in full leaf carrying nothing is a people keeping that light to themselves. That is the tree Jesus cursed and the temple He cleared, the same barren thing twice.
 
 The assignment did not die with the temple. Days later the risen Jesus handed it to everyone who would carry His name.
 
@@ -146,7 +136,7 @@ Read the list again and notice whose portrait it is. Love, joy, peace, patience,
 
 Because the world is hungry. Under all the noise it is hungry for God, for a meaning it cannot manufacture and a salvation it cannot buy. We know what relieves that hunger. It is not us, and it is not our character. It is Jesus, and the God who so loved the world He gave His only Son (John 3:16). The fruit of the Spirit is what makes them willing to listen. Telling them is the harvest.
 
-So the question Jesus put to a barren tree on His way into Jerusalem, the same one Israel was handed and failed, is hanging over your own leaves right now. If someone came looking, hungry, at exactly the wrong time of year for you to have an excuse ready, would they find anything. And if they did, would it send them looking for the One who grew it.
+So the question Jesus put to a barren tree on His way into Jerusalem, the same one Israel was handed and failed, is hanging over your own leaves right now. If God put someone in your path hungry for meaning in their life, would you be able to feed them, to point them to the answers they seek, to point them to Jesus? As Christians, that is why we were planted, nourished, and fed, so that we could go and do likewise (Luke 10:37).
 
 ## Answering Her Now
 
