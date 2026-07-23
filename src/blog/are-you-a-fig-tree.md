@@ -84,7 +84,7 @@ Three years of nothing, and the owner is talked into one more. That parable is p
 
 Once you know the symbolism and the context, the account is not weird at all.
 
-Mark set the fig tree beside the temple on purpose. A tree in full leaf promising fruit and delivering none was already a stock image, generations old, for a people going through the motions of faith with nothing behind it. Jesus walked from that tree straight into a building doing the exact same thing: a great show of activity with the fruit itself, justice, mercy, and faithfulness, "the weightier matters of the law" (Matthew 23:23), nowhere to be found. The curse was never really aimed at a plant. It was aimed at everything the plant had just finished pretending to be.
+Mark set the fig tree beside the temple on purpose. A tree in full leaf promising fruit and delivering none was already a stock image, generations old, for a people going through the motions of faith with nothing behind it. Jesus walked from that tree straight into a building doing the exact same thing: a great show of activity, delivering none of the fruit. Justice, mercy, and faithfulness, "the weightier matters of the law" (Matthew 23:23), were nowhere to be found. The curse was never really aimed at a plant. It was aimed at everything the plant had just finished pretending to be.
 
 Which means the real question the account is asking was never "was Jesus fair to a fig tree." It is closer to "does your leaf match your fruit."
 
@@ -98,7 +98,7 @@ James asks of people the question Jesus asked of a tree.
 >
 > James 2:14-17 (ESV)
 
-The complaint is not the words. "Go in peace, be warmed and filled" is close to a blessing. The complaint is that the words were the whole transaction. Nothing given, the person leaves as cold and as hungry as he came. That is a fig tree in full leaf. James names the failure in a single word, the one word Mark never needed because he had already shown you a tree withered to its roots. Dead. Faith with nothing under it is not weak faith. It is a dead thing wearing leaves.
+James's complaint is not the words. "Go in peace, be warmed and filled" is close to a blessing. His complaint is that the words were the whole transaction. Nothing given, the person leaves as cold and as hungry as he came. That is a fig tree in full leaf. James names the failure in a single word, the one word Mark never needed because he had already shown you a tree withered to its roots. Dead. Faith with nothing under it is not weak faith. It is a dead thing wearing leaves.
 
 ## What a Fig Tree Is For
 

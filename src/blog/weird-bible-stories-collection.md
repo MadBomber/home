@@ -47,6 +47,9 @@ That is the walk these essays take, one account at a time. Hear the whole thing.
 [Part 1: Are You a Fig Tree?](/blog/are-you-a-fig-tree/)
 Jesus curses a fig tree for having no fruit, and read alone it looks petty and unfair. Read whole, on the page Mark actually wrote it on, it was never about a tree. It is about the difference between leaves and figs, and what happens to anything that shows the one without the other.
 
+[Part 2: Just Trying to Help](/blog/just-trying-to-help/)
+God strikes a man dead for reaching out to steady the ark, and read alone the account looks arbitrary and cruel. Read whole, across the centuries it spans, the offense turns out to be in the reading, not in God. The hand that reached to hold God up had it exactly backwards.
+
 More accounts will join this collection as they are written.
 
 The collection begins with [*Are You a Fig Tree?*](/blog/are-you-a-fig-tree/).
