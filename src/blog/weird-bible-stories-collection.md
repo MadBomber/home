@@ -26,7 +26,7 @@ When an account strikes you as arbitrary or unfair, that verdict is being handed
 
 It would be easy to read that as a door closing. Stop asking. You will never understand, so do not try. It says the opposite. If His thoughts run higher than yours, then the answer to what looks arbitrary is not missing. It is up there, higher than your first reaction reached. Which means the reaction was never the last word on the matter. It was the first one, offered too early.
 
-> "If anyone gives an answer before he hears, it is his folly and shame."
+> "If one gives an answer before he hears, it is his folly and shame."
 >
 > Proverbs 18:13 (ESV)
 
@@ -49,6 +49,9 @@ Jesus curses a fig tree for having no fruit, and read alone it looks petty and u
 
 [Part 2: Just Trying to Help](/blog/just-trying-to-help/)
 God strikes a man dead for reaching out to steady the ark, and read alone the account looks arbitrary and cruel. Read whole, across the centuries it spans, the offense turns out to be in the reading, not in God. The hand that reached to hold God up had it exactly backwards.
+
+[Part 3: Elisha and the Two Bears](/blog/elisha-and-the-two-bears/)
+A crowd dares a prophet to vanish the way his master had that morning, and two bears come out of the woods. Read alone it looks like God backing a man's wounded pride. Read whole, the bears turn out to have a paper trail running back to Sinai, and the line that decides who gets bears and who gets bread is not age. It is how much you had been told.
 
 More accounts will join this collection as they are written.
 
