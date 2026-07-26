@@ -70,6 +70,11 @@ Precision over smoothness. The right word is chosen for its exact connotation, n
 - **Filler modifier phrases:** "for the whole collection," "actually," "in order to," "as we have seen," "building on this." These inflate sentence weight without earning it.
 - **Hedging phrases:** "but rather," "one might say," "perhaps," "it could be argued." They soften what should stand on its own.
 - **Transitional padding:** Do not announce what the essay is about to say. Say it.
+- **Self-reference:** "this essay," "this collection," "the previous section," "the point above," "you have already read," "from the first page to the last," "hold that thought for a few pages." Essay body prose must never acknowledge itself as a document with architecture, and it should not invoke "the reader" as a role. Self-reference breaks the frame: it reminds the reader they are holding a piece of writing instead of standing in the scene. Refer to the content, not the container. "The protection standing behind every account in the previous section" becomes "the protection that stood behind Elijah on his hilltop." "By every pattern this essay has traced" becomes "By every pattern running from Elijah's hilltop to Elisha's road." "That was the point above" is simply deleted; the point already landed. A callback works by naming the thing it calls back to, not by pointing at where it appeared.
+
+  Two things this does *not* forbid. Telling the reader how to read *Scripture* is fine ("Read that alone, with nothing around it," of a passage); the prohibition is on the essay referring to itself. And **collection intro pages are exempt.** Those pages exist to orient a reader across entries, so naming the collection and describing what it contains is their actual job ("More accounts will join this collection as they are written"). The rule governs essay body prose only.
+
+  Grep a finished essay for `this essay|this collection|previous section|already read|the point above|first page|the reader` as a lint pass. Run it on essays only; collection intro pages will trip it by design.
 
 ---
 

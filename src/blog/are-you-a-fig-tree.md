@@ -50,7 +50,7 @@ Then, the next morning:
 >
 > Mark 11:20-21 (ESV)
 
-Curse. Temple. Withered tree. Mark wrote it in that order on purpose. He opens the fig tree account, breaks away into the temple, then comes back and closes the fig tree account. That is not how you arrange events if you are simply recording what happened in the order it happened. It is how you arrange them if you want the reader to read the two scenes against each other.
+Curse. Temple. Withered tree. Mark wrote it in that order on purpose. He opens the fig tree account, breaks away into the temple, then comes back and closes the fig tree account. That is not how you arrange events if you are simply recording what happened in the order it happened. It is how you arrange them if you want those two scenes read against each other.
 
 This is not the only place Mark does this. He splits the account of Jairus's dying daughter the same way, opening it, breaking away into the woman who had been bleeding for twelve years, then closing it once her account lands (Mark 5:21-43). Mark is not a careless narrator. He is a precise one, using placement to say something he does not say outright.[^matthew-fig]
 
