@@ -258,6 +258,24 @@ Three times. Balaam asked twice. If repetition were the sin, Jesus sinned worse.
 
 The difference was never how many times. It was what each man carried into the asking. Every one of those prayers in the garden had the submission already inside it, before the answer came back, in the same breath as the request. Balaam's had a hope that the verdict would move.
 
+## I Wish I Had a Sword
+
+There was one more thing he asked for on that road, and he got that too. He said it to his donkey, in a temper, before he knew anyone else was listening.
+
+> Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you.
+>
+> Numbers 22:29 (ESV)
+
+He said that standing directly in front of a being holding a drawn sword who had come out to kill him. He wanted, in that moment, the exact instrument that was aimed at his own chest, and he had no idea it was there.
+
+Years later Israel goes to war against Midian, and the casualty list includes a name that does not belong to Midian.
+
+> And they also killed Balaam the son of Beor with the sword.
+>
+> Numbers 31:8 (ESV)
+
+He asked for a sword. It came from the other end.
+
 ## Too Small to Bother Him With
 
 Here is what makes Balaam dangerous rather than merely disappointing. His theology was correct.
@@ -366,34 +384,6 @@ I have thought about that answer for years, and what stays with me is not whethe
 
 Do you pray for a good parking spot?
 
-## I Wish I Had a Sword
-
-There is one more thing to say about the man, and it starts with something he said in anger to an animal.
-
-> Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you.
->
-> Numbers 22:29 (ESV)
-
-He said that standing directly in front of a being holding a drawn sword who had come out to kill him. He wanted, in that moment, the exact instrument that was aimed at his own chest, and he had no idea it was there.
-
-He got it. Israel goes to war against Midian, and the casualty list includes a name that does not belong to Midian.
-
-> And they also killed Balaam the son of Beor with the sword.
->
-> Numbers 31:8 (ESV)
-
-He asked for a sword. It came from the other end.
-
-And he had earned it in a way the oracles do not show. After the blessings were finished, after four attempts to curse Israel had come out of his mouth as praise, Balaam was not done. What he could not accomplish by cursing, he worked out how to accomplish by advice.
-
-> Behold, these, on Balaam's advice, caused the people of Israel to act treacherously against the LORD in the incident of Peor, and so the plague came among the congregation of the LORD.
->
-> Numbers 31:16 (ESV)
-
-The incident at Peor is in Numbers 25. Israel, camped and idle at the end of the wilderness, is drawn into the worship of Baal of Peor through the women of Moab, and the plague that follows kills twenty-four thousand people (Numbers 25:9). Balak paid for a curse and never got one. He got something that worked better, from a consultant who had discovered that you do not have to fight a protected people. You only have to give them a reason to walk out from under the protection themselves.
-
-That is the man. Not a bumbler who missed a sign in the road. A professional who, having been told no by God directly, and having been stopped by an angel, and having heard the word of the LORD come out of his own mouth four times in blessing, sat down afterward and figured out the workaround.
-
 ## Listen to Him
 
 Go back to the chapter that put Balaam's trade on a list with child sacrifice, because Moses does not stop there. Having told Israel what they may not do when they want to know something, he tells them what God will provide instead, and it is the next thing out of his mouth.
@@ -408,8 +398,6 @@ Peter names Him, standing in the temple courts and quoting that verse to a crowd
 
 Balaam saw Him. That is the thing that will not leave me alone about this account. Out on that hilltop with Balak's money in his tent, God put a word in his mouth and he heard himself describe a star coming out of Jacob and a scepter rising out of Israel. He prophesied the King, correctly, and then went down the mountain and taught Moab how to trip the King's people into ruin. A man can be given sight that far and still not follow what he has been shown.
 
-Compare the two answers, because they were given to the same offer.
-
 Balaam said that a house full of silver and gold could not move him past the command of the LORD his God. Well spoken, and untrue, and disproved within hours by his own feet.
 
 Then a second man, on a mountain, is offered rather more than Balak could raise.
@@ -422,13 +410,51 @@ Every kingdom on earth, against one man's house full of silver.
 
 One of them said the right words and kept bargaining. The other said them once, and the conversation was over.
 
-That is the difference between a prophet for hire and the Prophet Moses promised, and the instruction that comes attached to Him is not what Balaam lacked. Balaam did not lack information. He had more of it than almost anyone alive. What he never did, on the road or on the hilltop or afterward at Peor, was the one thing Moses said to do.
+That is the difference between a prophet for hire and the Prophet Moses promised. And the instruction that comes attached to Him is the one thing Balaam never did.
 
 Listen to him.
 
-Not hear Him. Balaam heard Him, twice in one week, clearly, in his own language, and then again through the mouth of a donkey who had better sense than her owner. Hearing was never his problem, and it may not be yours. Knowing God's word is not the same thing as submitting to it.
+Not hear Him. Balaam heard Him twice, in plain words, in his own language, and then again through the mouth of a donkey who had better sense than her owner. Hearing was never his problem, and it may not be yours. Knowing God's word is not the same thing as submitting to it.
 
-You came here for a talking animal. What was standing in that road was something else, and it is standing there still.
+A mule who talked his owner out of trouble. A horse with more sense than the man who fed him. A doctor who wanted nothing so much as to learn the language and hear what the animals would say.
+
+Balaam heard. He heard God twice, and an angel on the road, and a donkey in his own language. Every wish in every one of those pictures, granted to a man who would not do the one thing he was asked to do with it.
+
+He had been told. So have you.
+
+Balaam's confession came with a sword at his throat and a condition attached. Paul's came with neither, and it did not stop at the wretchedness. He asked who would deliver him, and then answered himself in the next breath.
+
+> Thanks be to God through Jesus Christ our Lord!
+>
+> Romans 7:25 (ESV)
+
+Not a better method for getting answers out of heaven. A Person, who has already done the delivering.
+
+There is a wedding at Cana where the wine runs out, and His mother, who cannot fix it and knows she cannot, turns to the staff with the only instruction that matters.
+
+> His mother said to the servants, "Do whatever he tells you."
+>
+> John 2:5 (ESV)
+
+Whatever he tells you. It is the phrase Moses used and Peter repeated in the temple courts.
+
+What He told them made no sense. The wine was gone and He said fill the jars with water, and they filled them to the brim. When the master of the feast tasted it he had no idea where it had come from, "though the servants who had drawn the water knew" (John 2:9).
+
+The servants knew. The man running the feast did not. They knew because they had done it, and not one moment before.
+
+Balaam knew, and would not do it. They did it, and then they knew.
+
+Listen to him.
+
+The invitation was written down for a church that had everything and knew it. I am rich, they said, I have prospered, and I need nothing (Revelation 3:17). That is the sentence I catch myself living most days, over all the things too small to bother Him with.
+
+> Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.
+>
+> Revelation 3:20 (ESV)
+
+Hears my voice, and opens the door. Two things: hear and submit.
+
+Balaam only ever did the first.
 
 ## References
 
