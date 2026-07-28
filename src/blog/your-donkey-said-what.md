@@ -8,6 +8,8 @@ collection: weird-bible-stories
 order: 4
 ---
 
+(_draft: beware its too long_)
+
 Francis the Talking Mule made seven pictures for Universal between 1950 and 1956. The premise never changed. A decent, bumbling man gets himself into a mess, and a mule with more sense than anyone in the cast talks him back out of it.
 
 Mister Ed ran a hundred and forty-three episodes across six seasons, first in syndication and then on CBS. A palomino who spoke to exactly one man, the one who owned him, and who was reliably the smarter of the two.
