@@ -88,7 +88,7 @@ He is not confused. He is not asking for clarification of an answer he failed to
 
 And this is where the account stops being about a talking animal and starts being about something that will follow you home. Balaam knew what God had said. Every disaster on that road happens to a man who knew. Knowing God's word is not the same thing as submitting to it, and the distance between those two things is wide enough to hide a career in.
 
-The rest of the answer is coming. But it will not make sense until you know who was in that saddle.
+The rest of the answer is coming. But before it can land, two things have to go: the lesson most people carry away from this account, and the reputation of the man in the saddle.
 
 ## God Can Use Anyone
 
@@ -258,23 +258,37 @@ Three times. Balaam asked twice. If repetition were the sin, Jesus sinned worse.
 
 The difference was never how many times. It was what each man carried into the asking. Every one of those prayers in the garden had the submission already inside it, before the answer came back, in the same breath as the request. Balaam's had a hope that the verdict would move.
 
-## I Wish I Had a Sword
+## Wretched Man That I Am
 
-There was one more thing he asked for on that road, and he got that too. He said it to his donkey, in a temper, before he knew anyone else was listening.
+Balaam is not the only man in Scripture who knew the right thing and did not do it. Paul says the same about himself, in writing, with no protection at all.
 
-> Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you.
+> For I do not do what I want, but I do the very thing I hate.
 >
-> Numbers 22:29 (ESV)
+> Romans 7:15 (ESV)
 
-He said that standing directly in front of a being holding a drawn sword who had come out to kill him. He wanted, in that moment, the exact instrument that was aimed at his own chest, and he had no idea it was there.
-
-Years later Israel goes to war against Midian, and the casualty list includes a name that does not belong to Midian.
-
-> And they also killed Balaam the son of Beor with the sword.
+> For I have the desire to do what is right, but not the ability to carry it out.
 >
-> Numbers 31:8 (ESV)
+> Romans 7:18 (ESV)
 
-He asked for a sword. It came from the other end.
+That is not Balaam. Be careful here, because this is an easy place to slip out a side door. Paul wants to obey and finds he cannot. Balaam did not want to obey; he wanted the fee, and the wanting never changed from the first delegation to the last. If those two get blurred together, Romans 7 turns into a permission slip, and the honest anguish of a man straining toward God gets used to excuse a man who was not straining at all.
+
+Put their confessions side by side and you will not blur them again. This is Balaam's, the only one he ever offers, spoken with an angel's sword six inches from his face.
+
+> I have sinned, for I did not know that you stood in the road against me. Now therefore, if it is evil in your sight, I will turn back.
+>
+> Numbers 22:34 (ESV)
+
+Three things in one sentence. He blames not knowing, when the whole trouble is that he knew and went anyway. He says if it is evil in your sight, which is a condition, which means he is still not conceding the point. And none of it arrives until there is a blade in front of him.
+
+Now Paul, with no sword anywhere in the room.
+
+> Wretched man that I am! Who will deliver me from this body of death?
+>
+> Romans 7:24 (ESV)
+
+No conditions. Nothing blamed. Nobody made him say it.
+
+So the test is not whether you fail. You will fail; Paul did, and said so in writing, and the man who wrote half the New Testament called himself wretched over it. The test is what your failure does to you. Paul is undone by the gap between what he knows and what he does. Balaam only says the words when there is steel in front of him, and even then he hedges.
 
 ## Too Small to Bother Him With
 
@@ -314,6 +328,12 @@ Anything. Everything. There is no size threshold. And when Jesus went after the 
 
 Two pennies bought five sparrows. God is keeping track of them. He is keeping a number no one else would ever have occasion to count.
 
+My wife and I used to work with a young woman who always seemed to find a parking space near the door. Every time. My wife finally asked her how she managed to be so lucky, and she said it was not luck. She prayed for a good parking spot.
+
+I have thought about that answer for years, and what stays with me is not whether the spaces were coming from God. It is that she assumed He would be interested. A Tuesday afternoon, a full lot, a small thing that would inconvenience her slightly and no one else at all, and it never occurred to her that this was beneath Him.
+
+Do you pray for a good parking spot?
+
 There is a second way self-reliance shows itself, and it is the one that looks most like a virtue.
 
 You are riding down the trail of life and you get stuck. Something is in the road. Everything you have ever been taught says to persevere, dig in, push through the obstacle, and men will admire you for it. Grit is the last virtue nearly everyone still agrees on.
@@ -348,41 +368,23 @@ None of which means the answer is to keep asking until you feel better about it.
 
 Lacks. The promise is for the man who does not have the answer, not the man who has one and wants another.
 
-Paul knew this gap from the inside, and he wrote about it with no protection at all.
+## I Wish I Had a Sword
 
-> For I do not do what I want, but I do the very thing I hate.
+Balaam got what he asked for. He got it more than once, and the last time was something he said to his donkey, in a temper, before he knew anyone else was listening.
+
+> Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you.
 >
-> Romans 7:15 (ESV)
+> Numbers 22:29 (ESV)
 
-> For I have the desire to do what is right, but not the ability to carry it out.
+He said that standing directly in front of a being holding a drawn sword who had come out to kill him. He wanted, in that moment, the exact instrument that was aimed at his own chest, and he had no idea it was there.
+
+Years later Israel goes to war against Midian, and the casualty list includes a name that does not belong to Midian.
+
+> And they also killed Balaam the son of Beor with the sword.
 >
-> Romans 7:18 (ESV)
+> Numbers 31:8 (ESV)
 
-That is not Balaam. Be careful here, because this is an easy place to slip out a side door. Paul wants to obey and finds he cannot. Balaam did not want to obey; he wanted the fee, and the wanting never changed from the first delegation to the last. If those two get blurred together, Romans 7 turns into a permission slip, and the honest anguish of a man straining toward God gets used to excuse a man who was not straining at all.
-
-Put their confessions side by side and you will not blur them again. This is Balaam's, the only one he ever offers, spoken with an angel's sword six inches from his face.
-
-> I have sinned, for I did not know that you stood in the road against me. Now therefore, if it is evil in your sight, I will turn back.
->
-> Numbers 22:34 (ESV)
-
-Three things in one sentence. He blames not knowing, when the whole trouble is that he knew and went anyway. He says if it is evil in your sight, which is a condition, which means he is still not conceding the point. And none of it arrives until there is a blade in front of him.
-
-Now Paul, with no sword anywhere in the room.
-
-> Wretched man that I am! Who will deliver me from this body of death?
->
-> Romans 7:24 (ESV)
-
-No conditions. Nothing blamed. Nobody made him say it.
-
-So the test is not whether you fail. You will fail; Paul did, and said so in writing, and the man who wrote half the New Testament called himself wretched over it. The test is what your failure does to you. Paul is undone by the gap between what he knows and what he does. Balaam only says the words when there is steel in front of him, and even then he hedges.
-
-My wife and I used to work with a young woman who always seemed to find a parking space near the door. Every time. My wife finally asked her how she managed to be so lucky, and she said it was not luck. She prayed for a good parking spot.
-
-I have thought about that answer for years, and what stays with me is not whether the spaces were coming from God. It is that she assumed He would be interested. A Tuesday afternoon, a full lot, a small thing that would inconvenience her slightly and no one else at all, and it never occurred to her that this was beneath Him.
-
-Do you pray for a good parking spot?
+He asked for a sword. It came from the other end.
 
 ## Listen to Him
 
