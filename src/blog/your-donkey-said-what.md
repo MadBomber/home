@@ -8,8 +8,6 @@ collection: weird-bible-stories
 order: 4
 ---
 
-(_draft: beware its too long_)
-
 Francis the Talking Mule made seven pictures for Universal between 1950 and 1956. The premise never changed. A decent, bumbling man gets himself into a mess, and a mule with more sense than anyone in the cast talks him back out of it.
 
 Mister Ed ran a hundred and forty-three episodes across six seasons, first in syndication and then on CBS. A palomino who spoke to exactly one man, the one who owned him, and who was reliably the smarter of the two.
@@ -418,20 +416,6 @@ Listen to him.
 
 Not hear Him. Balaam heard Him twice, in plain words, in his own language, and then again through the mouth of a donkey who had better sense than her owner. Hearing was never his problem, and it may not be yours. Knowing God's word is not the same thing as submitting to it.
 
-A mule who talked his owner out of trouble. A horse with more sense than the man who fed him. A doctor who wanted nothing so much as to learn the language and hear what the animals would say.
-
-Balaam heard. He heard God twice, and an angel on the road, and a donkey in his own language. Every wish in every one of those pictures, granted to a man who would not do the one thing he was asked to do with it.
-
-He had been told. So have you.
-
-Balaam's confession came with a sword at his throat and a condition attached. Paul's came with neither, and it did not stop at the wretchedness. He asked who would deliver him, and then answered himself in the next breath.
-
-> Thanks be to God through Jesus Christ our Lord!
->
-> Romans 7:25 (ESV)
-
-Not a better method for getting answers out of heaven. A Person, who has already done the delivering.
-
 There is a wedding at Cana where the wine runs out, and His mother, who cannot fix it and knows she cannot, turns to the staff with the only instruction that matters.
 
 > His mother said to the servants, "Do whatever he tells you."
@@ -446,17 +430,11 @@ The servants knew. The man running the feast did not. They knew because they had
 
 Balaam knew, and would not do it. They did it, and then they knew.
 
-Listen to him.
+A mule who talked his owner out of trouble. A horse with more sense than the man who fed him. A doctor who wanted nothing so much as to hear what the animals would say.
 
-The invitation was written down for a church that had everything and knew it. I am rich, they said, I have prospered, and I need nothing (Revelation 3:17). That is the sentence I catch myself living most days, over all the things too small to bother Him with.
+Every wish in every one of those pictures, granted to a man who would not do the one thing he was asked to do with it.
 
-> Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.
->
-> Revelation 3:20 (ESV)
-
-Hears my voice, and opens the door. Two things: hear and submit.
-
-Balaam only ever did the first.
+He had been told. So have you.
 
 ## References
 
