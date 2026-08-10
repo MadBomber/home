@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 19
 section: Passion and Resurrection
 title: The Cross

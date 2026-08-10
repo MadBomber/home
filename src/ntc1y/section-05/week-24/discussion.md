@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 24
 title: The Gospel to the Gentiles
 section: The Early Church

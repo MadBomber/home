@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 28
 section: The Early Church
 title: The Day of the Lord

@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 4
 section: The Coming of Christ
 title: Ministry Begins

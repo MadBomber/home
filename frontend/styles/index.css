@@ -2749,6 +2749,26 @@ button.toolbar-icon {
   border-color: #c62828;
 }
 
+.settings-progress-study {
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.settings-progress-study:last-child {
+  margin-bottom: 0;
+}
+
+.settings-progress-study-title {
+  font-size: 1rem;
+  margin: 0 0 0.4rem;
+}
+
+.settings-progress-study-info {
+  margin-bottom: 0.75rem;
+}
+
 .settings-status {
   text-align: center;
   font-family: var(--font-sans);
@@ -2968,14 +2988,20 @@ button.toolbar-icon {
   background: var(--bg-surface);
   border: 1px solid var(--border-color);
   transition: transform 0.2s, box-shadow 0.2s;
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
 }
 
 .study-card:hover {
   transform: translateY(-3px);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.study-card-link {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
 }
 
 .study-card-image img {
@@ -3022,8 +3048,41 @@ button.toolbar-icon {
 }
 
 .study-card-progress {
+  display: block;
   padding: 0 1.25rem;
   min-height: 0.25rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.study-card-progress[href] {
+  cursor: pointer;
+}
+
+.study-card-progress[href]:hover .study-progress-info {
+  text-decoration: underline;
+}
+
+.study-progress-info {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.4rem;
+}
+
+.study-progress-track {
+  height: 0.4rem;
+  background: var(--border-color);
+  border-radius: 0.2rem;
+  overflow: hidden;
+  margin-bottom: 0.75rem;
+}
+
+.study-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--purple-mid), var(--gold));
+  border-radius: 0.2rem;
+  transition: width 0.3s ease;
 }
 
 

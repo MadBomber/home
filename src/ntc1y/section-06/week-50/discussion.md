@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 50
 title: Walking in the Light
 section: Letters and Revelation

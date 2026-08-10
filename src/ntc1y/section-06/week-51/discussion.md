@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 51
 section: Letters and Revelation
 title: 'Revelation: Visions of Glory'

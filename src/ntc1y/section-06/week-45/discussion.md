@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 45
 title: Paul's Final Words
 section: Letters and Revelation

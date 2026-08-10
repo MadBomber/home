@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 9
 section: Galilean Ministry
 title: Bread of Life

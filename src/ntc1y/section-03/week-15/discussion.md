@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 15
 section: Road to Jerusalem
 title: The Final Week Begins

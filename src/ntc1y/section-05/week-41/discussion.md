@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 41
 section: The Early Church
 title: Prison Letters

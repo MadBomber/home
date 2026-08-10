@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 44
 title: Guarding the Faith
 section: Letters and Revelation

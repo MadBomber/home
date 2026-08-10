@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 43
 title: Pastoral Guidance
 section: Letters and Revelation

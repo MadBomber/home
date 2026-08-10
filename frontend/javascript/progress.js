@@ -144,33 +144,42 @@ function itemUrl(item) {
 }
 
 // --- Next reading ---
+//
+// Resumes right after whichever item was completed most recently in
+// reading order, rather than the first incomplete item overall — so
+// completing a day out of order (e.g. without marking its week/section
+// overview complete) still advances to the next day, not backward to
+// the skipped overview.
 
-function findNextReading() {
-  const progress = getProgress()
+function itemSequence() {
+  const items = []
   const sections = getSections()
 
   for (const section of sections) {
     const sNum = section.number
-
-    if (!progress[sectionKey(sNum)]) {
-      return { type: "section", section: sNum, label: `Section ${sNum} Overview` }
-    }
+    items.push({ type: "section", section: sNum, key: sectionKey(sNum), label: `Section ${sNum} Overview` })
 
     for (let w = section.weeks_start; w <= section.weeks_end; w++) {
-      if (!progress[weekOverviewKey(w)]) {
-        return { type: "overview", week: w, label: `Week ${w} Overview` }
-      }
+      items.push({ type: "overview", week: w, key: weekOverviewKey(w), label: `Week ${w} Overview` })
       for (let d = 1; d <= 5; d++) {
-        if (!progress[dayKey(w, d)]) {
-          return { type: "day", week: w, day: d, label: `Week ${w}, Day ${d}` }
-        }
+        items.push({ type: "day", week: w, day: d, key: dayKey(w, d), label: `Week ${w}, Day ${d}` })
       }
-      if (!progress[discussionKey(w)]) {
-        return { type: "discussion", week: w, label: `Week ${w} Discussion` }
-      }
+      items.push({ type: "discussion", week: w, key: discussionKey(w), label: `Week ${w} Discussion` })
     }
   }
-  return null
+  return items
+}
+
+function findNextReading() {
+  const progress = getProgress()
+  const items = itemSequence()
+
+  let lastCompletedIndex = -1
+  items.forEach((item, i) => {
+    if (progress[item.key]) lastCompletedIndex = i
+  })
+
+  return items[lastCompletedIndex + 1] || null
 }
 
 // --- UI helpers ---

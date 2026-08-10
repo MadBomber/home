@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 8
 section: Galilean Ministry
 title: Miracles and Mission

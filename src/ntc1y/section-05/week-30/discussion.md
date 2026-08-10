@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 30
 section: The Early Church
 title: Church Problems

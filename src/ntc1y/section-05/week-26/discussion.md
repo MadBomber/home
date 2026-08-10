@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 26
 section: The Early Church
 title: The Jerusalem Council

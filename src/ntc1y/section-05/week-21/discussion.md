@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 21
 title: Birth of the Church
 section: The Early Church

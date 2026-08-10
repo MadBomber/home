@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 3
 section: The Coming of Christ
 title: Tested and Called

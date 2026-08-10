@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 18
 section: Passion and Resurrection
 title: Gethsemane and Trial

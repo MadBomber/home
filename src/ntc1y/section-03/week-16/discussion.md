@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 16
 section: Road to Jerusalem
 title: Olivet Discourse

@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 39
 section: The Early Church
 title: Trials and Imprisonment

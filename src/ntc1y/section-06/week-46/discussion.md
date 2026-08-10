@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 46
 title: A Better Covenant
 section: Letters and Revelation

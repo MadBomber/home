@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 31
 section: The Early Church
 title: Worship and Gifts

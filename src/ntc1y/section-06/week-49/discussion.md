@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 49
 title: Stand Firm
 section: Letters and Revelation

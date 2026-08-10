@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 52
 title: 'Revelation: All Things New'
 section: Letters and Revelation

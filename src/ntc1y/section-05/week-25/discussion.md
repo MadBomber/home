@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 25
 title: Gospel of Freedom
 section: The Early Church

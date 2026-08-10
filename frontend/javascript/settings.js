@@ -1,8 +1,6 @@
 // NOTE: If you change storage_prefix in study_config.yml, update these keys to match.
 // Also update the inline FOUC-prevention script in src/_partials/_head.erb.
 const SETTINGS_KEY = "bst_settings"
-const JOURNAL_KEY = "bst_hear"
-const PROGRESS_KEY = "bst_progress"
 const GROUP_KEY = "bst_group"
 
 const DEFAULT_SETTINGS = {
@@ -73,18 +71,20 @@ function applyFeatureVisibility() {
   })
 }
 
-// --- Journal data helpers ---
+// --- Journal data helpers (scoped to a single study's storage_prefix) ---
 
-function getJournalData() {
+function journalKey(prefix) { return `${prefix}_hear` }
+
+function getJournalData(prefix) {
   try {
-    return JSON.parse(localStorage.getItem(JOURNAL_KEY) || "{}")
+    return JSON.parse(localStorage.getItem(journalKey(prefix)) || "{}")
   } catch {
     return {}
   }
 }
 
-function journalEntryCount() {
-  return Object.keys(getJournalData()).length
+function journalEntryCount(prefix) {
+  return Object.keys(getJournalData(prefix)).length
 }
 
 function validateJournalData(data) {
@@ -98,18 +98,26 @@ function validateJournalData(data) {
   return true
 }
 
-// --- Progress data helpers ---
+// --- Progress data helpers (scoped to a single study's storage_prefix) ---
 
-function getProgressData() {
+function progressKey(prefix) { return `${prefix}_progress` }
+
+function getProgressData(prefix) {
   try {
-    return JSON.parse(localStorage.getItem(PROGRESS_KEY) || "{}")
+    return JSON.parse(localStorage.getItem(progressKey(prefix)) || "{}")
   } catch {
     return {}
   }
 }
 
-function progressItemCount() {
-  return Object.keys(getProgressData()).length
+function progressItemCount(prefix) {
+  return Object.keys(getProgressData(prefix)).length
+}
+
+function progressTotalItems(studyConfig) {
+  const sections = studyConfig.sections || []
+  const totalWeeks = studyConfig.total_weeks || 0
+  return sections.length + (totalWeeks * 7)
 }
 
 function validateProgressData(data) {
@@ -135,19 +143,19 @@ function downloadJSON(data, filename) {
   URL.revokeObjectURL(url)
 }
 
-// --- Journal export/import/clear ---
+// --- Journal export/import/clear (scoped to a single study) ---
 
-function exportJournal() {
-  const data = getJournalData()
+function exportJournal(prefix, studyTitle) {
+  const data = getJournalData(prefix)
   const count = Object.keys(data).length
-  if (count === 0) { showStatus("No journal entries to export."); return }
+  if (count === 0) { showStatus(`No journal entries to export for ${studyTitle}.`); return }
 
   const today = new Date().toISOString().split("T")[0]
-  downloadJSON(data, `bst-journal-${today}.json`)
-  showStatus(`Exported ${count} journal ${count === 1 ? "entry" : "entries"}.`)
+  downloadJSON(data, `${prefix}-journal-${today}.json`)
+  showStatus(`Exported ${studyTitle} journal (${count} ${count === 1 ? "entry" : "entries"}).`)
 }
 
-function importJournal(file) {
+function importJournal(prefix, studyTitle, file, onImported) {
   const reader = new FileReader()
   reader.onload = function(e) {
     try {
@@ -157,14 +165,14 @@ function importJournal(file) {
       const count = Object.keys(data).length
       if (count === 0) { showStatus("The file contains no journal entries."); return }
 
-      const existing = journalEntryCount()
-      let msg = `Import ${count} journal ${count === 1 ? "entry" : "entries"}?`
+      const existing = journalEntryCount(prefix)
+      let msg = `Import ${studyTitle} journal (${count} ${count === 1 ? "entry" : "entries"})?`
       if (existing > 0) msg += ` This will replace your current ${existing} ${existing === 1 ? "entry" : "entries"}.`
 
       if (window.confirm(msg)) {
-        localStorage.setItem(JOURNAL_KEY, JSON.stringify(data))
-        showStatus(`Imported ${count} journal ${count === 1 ? "entry" : "entries"}.`)
-        updateJournalInfo()
+        localStorage.setItem(journalKey(prefix), JSON.stringify(data))
+        showStatus(`Imported ${studyTitle} journal (${count} ${count === 1 ? "entry" : "entries"}).`)
+        onImported()
         updateStorageInfo()
       }
     } catch {
@@ -174,32 +182,70 @@ function importJournal(file) {
   reader.readAsText(file)
 }
 
-function clearJournal() {
-  const count = journalEntryCount()
-  if (count === 0) { showStatus("No journal entries to clear."); return }
+function clearJournal(prefix, studyTitle, onCleared) {
+  const count = journalEntryCount(prefix)
+  if (count === 0) { showStatus(`No journal entries to clear for ${studyTitle}.`); return }
 
-  const msg = `This will permanently delete ${count} journal ${count === 1 ? "entry" : "entries"} from this browser. This cannot be undone.\n\nContinue?`
+  const msg = `This will permanently delete ${count} journal ${count === 1 ? "entry" : "entries"} for ${studyTitle} from this browser. This cannot be undone.\n\nContinue?`
   if (window.confirm(msg)) {
-    localStorage.removeItem(JOURNAL_KEY)
-    showStatus("All journal entries have been cleared.")
-    updateJournalInfo()
+    localStorage.removeItem(journalKey(prefix))
+    showStatus(`All journal entries for ${studyTitle} have been cleared.`)
+    onCleared()
     updateStorageInfo()
   }
 }
 
-// --- Progress export/import/clear ---
+function initJournalStudyBlocks() {
+  document.querySelectorAll(".settings-progress-study").forEach(block => {
+    const exportBtn = block.querySelector(".settings-export-journal")
+    const importBtn  = block.querySelector(".settings-import-journal")
+    const importFile = block.querySelector(".settings-import-journal-file")
+    const clearBtn   = block.querySelector(".settings-clear-journal")
+    if (!exportBtn && !importBtn && !clearBtn) return
 
-function exportProgress() {
-  const data = getProgressData()
-  const count = Object.keys(data).length
-  if (count === 0) { showStatus("No progress data to export."); return }
+    const prefix     = block.dataset.storagePrefix
+    const studyTitle = block.querySelector(".settings-progress-study-title")?.textContent || "this study"
+    const infoEl      = block.querySelector(".settings-progress-study-info")
 
-  const today = new Date().toISOString().split("T")[0]
-  downloadJSON(data, `bst-progress-${today}.json`)
-  showStatus(`Exported progress data (${count} ${count === 1 ? "item" : "items"}).`)
+    function refreshInfo() {
+      if (!infoEl) return
+      const count = journalEntryCount(prefix)
+      infoEl.textContent = count === 0
+        ? "No journal entries stored."
+        : `${count} journal ${count === 1 ? "entry" : "entries"} stored.`
+    }
+
+    if (exportBtn) exportBtn.addEventListener("click", () => exportJournal(prefix, studyTitle))
+
+    if (importBtn && importFile) {
+      importBtn.addEventListener("click", () => importFile.click())
+      importFile.addEventListener("change", () => {
+        if (importFile.files.length > 0) {
+          importJournal(prefix, studyTitle, importFile.files[0], refreshInfo)
+          importFile.value = ""
+        }
+      })
+    }
+
+    if (clearBtn) clearBtn.addEventListener("click", () => clearJournal(prefix, studyTitle, refreshInfo))
+
+    refreshInfo()
+  })
 }
 
-function importProgress(file) {
+// --- Progress export/import/clear (scoped to a single study) ---
+
+function exportProgress(prefix, studyTitle) {
+  const data = getProgressData(prefix)
+  const count = Object.keys(data).length
+  if (count === 0) { showStatus(`No progress data to export for ${studyTitle}.`); return }
+
+  const today = new Date().toISOString().split("T")[0]
+  downloadJSON(data, `${prefix}-progress-${today}.json`)
+  showStatus(`Exported ${studyTitle} progress (${count} ${count === 1 ? "item" : "items"}).`)
+}
+
+function importProgress(prefix, studyTitle, file, onImported) {
   const reader = new FileReader()
   reader.onload = function(e) {
     try {
@@ -209,14 +255,14 @@ function importProgress(file) {
       const count = Object.keys(data).length
       if (count === 0) { showStatus("The file contains no progress data."); return }
 
-      const existing = progressItemCount()
-      let msg = `Import progress for ${count} ${count === 1 ? "item" : "items"}?`
+      const existing = progressItemCount(prefix)
+      let msg = `Import progress for ${studyTitle} (${count} ${count === 1 ? "item" : "items"})?`
       if (existing > 0) msg += ` This will replace your current progress (${existing} ${existing === 1 ? "item" : "items"}).`
 
       if (window.confirm(msg)) {
-        localStorage.setItem(PROGRESS_KEY, JSON.stringify(data))
-        showStatus(`Imported progress for ${count} ${count === 1 ? "item" : "items"}.`)
-        updateProgressInfo()
+        localStorage.setItem(progressKey(prefix), JSON.stringify(data))
+        showStatus(`Imported ${studyTitle} progress (${count} ${count === 1 ? "item" : "items"}).`)
+        onImported()
         updateStorageInfo()
       }
     } catch {
@@ -226,17 +272,59 @@ function importProgress(file) {
   reader.readAsText(file)
 }
 
-function clearProgress() {
-  const count = progressItemCount()
-  if (count === 0) { showStatus("No progress data to clear."); return }
+function clearProgress(prefix, studyTitle, onCleared) {
+  const count = progressItemCount(prefix)
+  if (count === 0) { showStatus(`No progress data to clear for ${studyTitle}.`); return }
 
-  const msg = `This will permanently delete all progress tracking (${count} completed ${count === 1 ? "item" : "items"}) from this browser. This cannot be undone.\n\nContinue?`
+  const msg = `This will permanently delete all progress for ${studyTitle} (${count} completed ${count === 1 ? "item" : "items"}) from this browser. This cannot be undone.\n\nContinue?`
   if (window.confirm(msg)) {
-    localStorage.removeItem(PROGRESS_KEY)
-    showStatus("All progress data has been cleared.")
-    updateProgressInfo()
+    localStorage.removeItem(progressKey(prefix))
+    showStatus(`All progress for ${studyTitle} has been cleared.`)
+    onCleared()
     updateStorageInfo()
   }
+}
+
+function initProgressStudyBlocks() {
+  document.querySelectorAll(".settings-progress-study").forEach(block => {
+    const exportBtn  = block.querySelector(".settings-export-progress")
+    const importBtn  = block.querySelector(".settings-import-progress")
+    const importFile = block.querySelector(".settings-import-progress-file")
+    const clearBtn   = block.querySelector(".settings-clear-progress")
+    if (!exportBtn && !importBtn && !clearBtn) return
+
+    const prefix     = block.dataset.storagePrefix
+    const studyTitle = block.querySelector(".settings-progress-study-title")?.textContent || "this study"
+    const infoEl      = block.querySelector(".settings-progress-study-info")
+
+    let studyConfig = {}
+    try { studyConfig = JSON.parse(block.dataset.config) } catch {}
+
+    function refreshInfo() {
+      if (!infoEl) return
+      const count = progressItemCount(prefix)
+      const total = progressTotalItems(studyConfig)
+      infoEl.textContent = count === 0
+        ? "No progress recorded."
+        : `${count} of ${total} steps complete.`
+    }
+
+    if (exportBtn) exportBtn.addEventListener("click", () => exportProgress(prefix, studyTitle))
+
+    if (importBtn && importFile) {
+      importBtn.addEventListener("click", () => importFile.click())
+      importFile.addEventListener("change", () => {
+        if (importFile.files.length > 0) {
+          importProgress(prefix, studyTitle, importFile.files[0], refreshInfo)
+          importFile.value = ""
+        }
+      })
+    }
+
+    if (clearBtn) clearBtn.addEventListener("click", () => clearProgress(prefix, studyTitle, refreshInfo))
+
+    refreshInfo()
+  })
 }
 
 // --- Group member management ---
@@ -392,20 +480,6 @@ function showStatus(message) {
 
 // --- Info displays ---
 
-function updateJournalInfo() {
-  const infoEl = document.getElementById("settings-journal-info")
-  if (!infoEl) return
-  const count = journalEntryCount()
-  infoEl.textContent = count === 0 ? "No journal entries stored." : `${count} journal ${count === 1 ? "entry" : "entries"} stored in this browser.`
-}
-
-function updateProgressInfo() {
-  const infoEl = document.getElementById("settings-progress-info")
-  if (!infoEl) return
-  const count = progressItemCount()
-  infoEl.textContent = count === 0 ? "No progress data stored." : `${count} completed ${count === 1 ? "item" : "items"} stored in this browser.`
-}
-
 function updateStorageInfo() {
   const el = document.getElementById("settings-storage-info")
   if (!el) return
@@ -447,35 +521,8 @@ function initSettingsPage() {
     })
   }
 
-  const exportBtn = document.getElementById("settings-export-journal")
-  if (exportBtn) exportBtn.addEventListener("click", exportJournal)
-
-  const importBtn = document.getElementById("settings-import-journal")
-  const importFile = document.getElementById("settings-import-journal-file")
-  if (importBtn && importFile) {
-    importBtn.addEventListener("click", () => importFile.click())
-    importFile.addEventListener("change", () => {
-      if (importFile.files.length > 0) { importJournal(importFile.files[0]); importFile.value = "" }
-    })
-  }
-
-  const clearBtn = document.getElementById("settings-clear-journal")
-  if (clearBtn) clearBtn.addEventListener("click", clearJournal)
-
-  const exportProgressBtn = document.getElementById("settings-export-progress")
-  if (exportProgressBtn) exportProgressBtn.addEventListener("click", exportProgress)
-
-  const importProgressBtn = document.getElementById("settings-import-progress")
-  const importProgressFile = document.getElementById("settings-import-progress-file")
-  if (importProgressBtn && importProgressFile) {
-    importProgressBtn.addEventListener("click", () => importProgressFile.click())
-    importProgressFile.addEventListener("change", () => {
-      if (importProgressFile.files.length > 0) { importProgress(importProgressFile.files[0]); importProgressFile.value = "" }
-    })
-  }
-
-  const clearProgressBtn = document.getElementById("settings-clear-progress")
-  if (clearProgressBtn) clearProgressBtn.addEventListener("click", clearProgress)
+  initJournalStudyBlocks()
+  initProgressStudyBlocks()
 
   initGroupMemberForm()
   renderGroupMemberList()
@@ -540,8 +587,6 @@ function initSettingsPage() {
     })
   }
 
-  updateJournalInfo()
-  updateProgressInfo()
   updateGroupInfo()
   updateStorageInfo()
 }

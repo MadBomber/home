@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 34
 section: The Early Church
 title: Paul's Defense

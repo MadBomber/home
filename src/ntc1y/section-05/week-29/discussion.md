@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 29
 section: The Early Church
 title: Paul in Ephesus

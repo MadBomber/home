@@ -76,14 +76,27 @@ permalink: /settings/
 
   <section class="settings-section" data-feature="journal">
     <h2>Journal Data</h2>
-    <p id="settings-journal-info" class="settings-info"></p>
+    <p class="settings-info">H.E.A.R. journal entries are tracked separately for each Bible study. Export, import, or clear a single study's entries below.</p>
 
-    <div class="settings-actions">
-      <button id="settings-export-journal" class="settings-btn">Export</button>
-      <button id="settings-import-journal" class="settings-btn">Import</button>
-      <input type="file" id="settings-import-journal-file" accept=".json" style="display:none;" />
-      <button id="settings-clear-journal" class="settings-btn settings-btn-danger">Clear All Entries</button>
-    </div>
+    <% site.data.studies.reject { |s| s["hidden"] }.each do |study| %>
+      <%
+        data_key  = study["slug"].gsub('-', '_')
+        study_cfg = site.data.send(data_key).study_config
+      %>
+      <div class="settings-progress-study"
+           data-study-slug="<%= study["slug"] %>"
+           data-storage-prefix="<%= study_cfg["storage_prefix"] %>">
+        <h3 class="settings-progress-study-title"><%= study["title"] %></h3>
+        <p class="settings-progress-study-info settings-info"></p>
+
+        <div class="settings-actions">
+          <button class="settings-btn settings-export-journal">Export</button>
+          <button class="settings-btn settings-import-journal">Import</button>
+          <input type="file" class="settings-import-journal-file" accept=".json" style="display:none;" />
+          <button class="settings-btn settings-btn-danger settings-clear-journal">Clear Entries</button>
+        </div>
+      </div>
+    <% end %>
   </section>
 
   <section class="settings-section" data-feature="group" id="group-members">
@@ -108,14 +121,28 @@ permalink: /settings/
 
   <section class="settings-section">
     <h2>Progress Data</h2>
-    <p id="settings-progress-info" class="settings-info"></p>
+    <p class="settings-info">Progress is tracked separately for each Bible study. Export, import, or clear a single study's progress below.</p>
 
-    <div class="settings-actions">
-      <button id="settings-export-progress" class="settings-btn">Export</button>
-      <button id="settings-import-progress" class="settings-btn">Import</button>
-      <input type="file" id="settings-import-progress-file" accept=".json" style="display:none;" />
-      <button id="settings-clear-progress" class="settings-btn settings-btn-danger">Clear All Progress</button>
-    </div>
+    <% site.data.studies.reject { |s| s["hidden"] }.each do |study| %>
+      <%
+        data_key  = study["slug"].gsub('-', '_')
+        study_cfg = site.data.send(data_key).study_config
+      %>
+      <div class="settings-progress-study"
+           data-study-slug="<%= study["slug"] %>"
+           data-storage-prefix="<%= study_cfg["storage_prefix"] %>"
+           data-config="<%= study_cfg.to_json %>">
+        <h3 class="settings-progress-study-title"><%= study["title"] %></h3>
+        <p class="settings-progress-study-info settings-info"></p>
+
+        <div class="settings-actions">
+          <button class="settings-btn settings-export-progress">Export</button>
+          <button class="settings-btn settings-import-progress">Import</button>
+          <input type="file" class="settings-import-progress-file" accept=".json" style="display:none;" />
+          <button class="settings-btn settings-btn-danger settings-clear-progress">Clear Progress</button>
+        </div>
+      </div>
+    <% end %>
   </section>
 
   <section class="settings-section">

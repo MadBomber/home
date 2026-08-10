@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 12
 title: Conflict and Compassion
 section: Road to Jerusalem

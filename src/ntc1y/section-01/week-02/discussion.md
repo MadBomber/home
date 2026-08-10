@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 2
 section: The Coming of Christ
 title: A Child Is Born

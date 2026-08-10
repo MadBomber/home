@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 17
 section: Passion and Resurrection
 title: The Upper Room

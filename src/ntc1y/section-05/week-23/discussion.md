@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 23
 title: Faith That Works
 section: The Early Church

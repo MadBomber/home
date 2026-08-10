@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 27
 section: The Early Church
 title: Paul in Corinth

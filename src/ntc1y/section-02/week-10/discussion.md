@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 10
 section: Galilean Ministry
 title: Who Do You Say I Am?

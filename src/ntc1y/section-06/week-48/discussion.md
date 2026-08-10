@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 48
 section: Letters and Revelation
 title: Living Faith

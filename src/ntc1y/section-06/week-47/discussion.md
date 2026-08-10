@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 47
 title: The New and Living Way
 section: Letters and Revelation

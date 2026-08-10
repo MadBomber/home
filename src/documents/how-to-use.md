@@ -1,16 +1,16 @@
 ---
 layout: page
 title: How to Use This Study
+document_title: How to Use
+description: Practical guidance for working through a study individually or with a group.
 ---
 
 ## How to Use This Study
 
-Replace this content with practical guidance for participants.
-
 ### Daily Rhythm
 
 - Read the assigned passage for the day
-- Use the [H.E.A.R. method](/hear-method) to record your observations
+- Use the [H.E.A.R. method](/documents/hear-method/) to record your observations
 - Spend a few minutes in prayer
 
 ### Weekly Rhythm

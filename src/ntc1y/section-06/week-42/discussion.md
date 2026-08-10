@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 42
 title: Joy and Faithfulness
 section: Letters and Revelation

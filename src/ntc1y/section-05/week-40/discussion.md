@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 40
 section: The Early Church
 title: Paul in Rome

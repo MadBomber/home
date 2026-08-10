@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 32
 section: The Early Church
 title: Resurrection Hope

@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 5
 section: Galilean Ministry
 title: Authority Revealed

@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 35
 section: The Early Church
 title: The Letter to Rome (Part 1)

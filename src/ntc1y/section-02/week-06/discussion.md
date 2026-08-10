@@ -1,4 +1,5 @@
 ---
+type: discussion
 week: 6
 section: Galilean Ministry
 title: Words of Power

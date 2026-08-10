@@ -34,29 +34,30 @@ title: Home
         data_key   = study["slug"].gsub('-', '_')
         study_cfg  = site.data.send(data_key).study_config
       %>
-      <a class="study-card"
-         href="<%= relative_url "/#{study["slug"]}/" %>"
-         data-study-slug="<%= study["slug"] %>"
-         data-storage-prefix="<%= study_cfg["storage_prefix"] %>"
-         data-config="<%= study_cfg.to_json %>">
+      <div class="study-card"
+           data-study-slug="<%= study["slug"] %>"
+           data-storage-prefix="<%= study_cfg["storage_prefix"] %>"
+           data-config="<%= study_cfg.to_json %>">
 
-        <% if study["image"] && !study["image"].empty? %>
-          <div class="study-card-image">
-            <img src="<%= relative_url "/images/#{study["image"]}" %>" alt="<%= study["title"] %>">
-          </div>
-        <% end %>
-
-        <div class="study-card-body">
-          <h3 class="study-card-title"><%= study["title"] %></h3>
-          <% if study["tagline"] %>
-            <p class="study-card-tagline"><%= study["tagline"] %></p>
+        <a class="study-card-link" href="<%= relative_url "/#{study["slug"]}/" %>">
+          <% if study["image"] && !study["image"].empty? %>
+            <div class="study-card-image">
+              <img src="<%= relative_url "/images/#{study["image"]}" %>" alt="<%= study["title"] %>">
+            </div>
           <% end %>
-          <p class="study-card-description"><%= study["description"] %></p>
 
-          <%# JS hydrates progress bar %>
-          <div class="study-card-progress"></div>
-        </div>
-      </a>
+          <div class="study-card-body">
+            <h3 class="study-card-title"><%= study["title"] %></h3>
+            <% if study["tagline"] %>
+              <p class="study-card-tagline"><%= study["tagline"] %></p>
+            <% end %>
+            <p class="study-card-description"><%= study["description"] %></p>
+          </div>
+        </a>
+
+        <%# JS hydrates progress bar, linked to the next uncompleted step in this study %>
+        <div class="study-card-progress"></div>
+      </div>
     <% end %>
   </div>
 </section>
