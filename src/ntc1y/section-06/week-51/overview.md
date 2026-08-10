@@ -54,10 +54,3 @@ This week we read slowly through these opening five chapters, savoring the rich 
 - **Worship as reality** — Heaven's ceaseless worship reveals what is most real and most true about the universe
 - **Christ among the churches** — The risen Lord walks among his congregations, knowing them intimately
 
-## [Memory Verse](../memory-verse/)
-
-> "I am the Alpha and the Omega," says the Lord God, "who is, and who was, and who is to come, the Almighty." — Revelation 1:8
-
-*Or alternatively:*
-
-> "Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!" — Revelation 5:12

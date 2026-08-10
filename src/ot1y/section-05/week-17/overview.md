@@ -50,6 +50,3 @@ The name God reveals at the bush — "I AM" — is the name Jesus claims as his 
 
 And the mission itself — God descending to rescue a people groaning under bondage — is the architecture of the incarnation before the incarnation has a name. "I have surely seen the affliction of my people... I know their sufferings, and I have come down to deliver them." Paul will compress this entire movement into a single sentence: "Though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant" (Philippians 2:6-7). The God who came down to Egypt will come down further still — to a manger, to a cross, to a grave — and the deliverance he accomplishes will make the exodus look like a rehearsal.
 
-## [Memory Verse](../memory-verse/)
-
-> "God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: "I AM has sent me to you."'" — Exodus 3:14 (ESV)

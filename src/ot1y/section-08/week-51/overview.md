@@ -65,6 +65,3 @@ The Branch from Jesse's stump — the shoot from a dead dynasty — is the one P
 
 And the mountain Zechariah saw splitting — the Mount of Olives — is the mountain the disciples watched Jesus ascend from, and the mountain the angels identified as the site of his return: "This Jesus, who was taken up from you into heaven, will come in the same way as you saw him go into heaven" (Acts 1:11). The king who makes swords into plowshares is the one who told Peter to sheathe his sword in Gethsemane: "Put your sword back into its place. For all who take the sword will perish by the sword" (Matthew 26:52). He does not conquer by violence. He conquers by absorbing it — taking the sword into his own body so that one day every sword on earth can be reshaped into a tool for growing food. The kingdom he brings does not merely end war. It makes war incomprehensible.
 
-## [Memory Verse](../memory-verse/)
-
-> "And to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and his kingdom one that shall not be destroyed." — Daniel 7:14 (ESV)

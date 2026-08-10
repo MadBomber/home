@@ -56,6 +56,3 @@ The laying on of hands — the transfer of guilt from the worshiper to the subst
 
 And the blood that the priests carry into the holy place — through the curtain, past the lampstand and the incense altar, toward the mercy seat — is the same journey the author of Hebrews traces to its ultimate destination: "He entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption" (Hebrews 9:12). The Levitical priests entered repeatedly because the blood of animals could not permanently remove sin. Christ enters once because his blood can. The system Leviticus builds, Christ dismantles — not by contradiction but by completion. The shadows disappear when the body arrives.
 
-## [Memory Verse](../memory-verse/)
-
-> "He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him." — Leviticus 1:4 (ESV)

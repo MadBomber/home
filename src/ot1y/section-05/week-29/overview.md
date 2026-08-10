@@ -56,6 +56,3 @@ The cities of refuge — the shelters where the guilty flee from the avenger of 
 
 And Joshua's "choose this day" — the demand for undivided allegiance at Shechem — is the same demand the gospel makes of every hearer. Paul compresses it: "Behold, now is the favorable time; behold, now is the day of salvation" (2 Corinthians 6:2). The stone at Shechem witnessed Israel's choice. The cross witnesses the world's. And the question is the same: whom will you serve? The gods of the nations — comfort, security, self-determination — or the God who divided the sea, fed the hungry, toppled the walls, and kept every word he spoke?
 
-## [Memory Verse](../memory-verse/)
-
-> "But as for me and my house, we will serve the LORD." — Joshua 24:15 (ESV)

@@ -52,6 +52,3 @@ The self-revelation of Exodus 34:6-7 — the God who is simultaneously merciful 
 
 And the glory that fills the tabernacle at the end of Exodus — the *kavod* so overwhelming that even the mediator cannot enter — is the same glory that John saw when he looked at Christ. "The Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth" (John 1:14). "Full of grace and truth" — John's phrase is a deliberate echo of Exodus 34:6, where God is "abounding in steadfast love (*chesed*) and faithfulness (*emet*)." The glory that once filled a tent now fills a body. And this time, the glory does not keep the mediator out. The mediator *is* the glory.
 
-## [Memory Verse](../memory-verse/)
-
-> "The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin." — Exodus 34:6-7 (ESV)

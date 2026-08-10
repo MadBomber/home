@@ -53,6 +53,3 @@ The manna that fell each morning in the wilderness is the image Jesus claims mos
 
 And the battle with Amalek, where Moses stands on a hill with his arms raised while Joshua fights below — when Moses' arms are up, Israel prevails; when they drop, Amalek prevails (Exodus 17:11) — presents an image the early church could not miss. The outstretched arms. The battle won not by the sword in the valley but by the intercession on the hill. The deliverer lifted up, his posture holding the fate of his people. The cross stands on a hill too. And the arms stretched out there do not drop.
 
-## [Memory Verse](../memory-verse/)
-
-> "The LORD is my strength and my song, and he has become my salvation; this is my God, and I will praise him, my father's God, and I will exalt him." — Exodus 15:2 (ESV)

@@ -63,6 +63,3 @@ Enoch — the man who walked with God and did not die — is a preview of what t
 
 And Lamech's seventy-sevenfold — the war song of escalating revenge — finds its answer in Jesus' reply to Peter's question about forgiveness. "Lord, how often will my brother sin against me, and I forgive him? As many as seven times?" Jesus says, "I do not say to you seven times, but seventy-seven times" (Matthew 18:21-22). The same number. The opposite direction. Where Lamech multiplied vengeance, Christ multiplies mercy. Where the line of Cain calculated how much violence was justified, the line of the second Adam calculates how much forgiveness is possible — and the answer is: there is no limit.
 
-## [Memory Verse](../memory-verse/)
-
-> "If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is contrary to you, but you must rule over it." — Genesis 4:7 (ESV)

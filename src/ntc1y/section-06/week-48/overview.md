@@ -52,10 +52,3 @@ The transition from Hebrews 13 to 1 Peter is thematically seamless. Hebrews clos
 - **Royal priesthood** -- The corporate identity of God's people, fulfilling Israel's original calling
 - **Jesus outside the gate** -- Willingness to bear social reproach for identifying with Christ
 
-## [Memory Verse](../memory-verse/)
-
-> "Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead, and into an inheritance that can never perish, spoil or fade." -- 1 Peter 1:3-4
-
-*Or alternatively:*
-
-> "But you are a chosen people, a royal priesthood, a holy nation, God's special possession, that you may declare the praises of him who called you out of darkness into his wonderful light." -- 1 Peter 2:9

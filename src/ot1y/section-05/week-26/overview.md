@@ -54,6 +54,3 @@ The rock at Meribah speaks with a typological voice that Paul makes explicit: "T
 
 And Balaam's star prophecy — "A star shall come out of Jacob, and a scepter shall rise out of Israel" — reaches across fourteen centuries to a night in Bethlehem when magi from the east follow a star to a manger. Matthew does not cite Numbers 24:17 explicitly, but the connection was old by the time he wrote. A pagan prophet, hired to curse, saw the king who would come. Pagan wise men, following a star, find the king who has come. The star Balaam saw "but not now" shines over the place where the scepter lies wrapped in swaddling cloths.
 
-## [Memory Verse](../memory-verse/)
-
-> "God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?" — Numbers 23:19 (ESV)

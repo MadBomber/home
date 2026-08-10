@@ -55,6 +55,3 @@ The "clean heart" David begs for in Psalm 51 — the *bara* creation, the heart 
 
 And the threshing floor of Araunah — bought at cost, consecrated by sacrifice, built on the mountain where Abraham offered Isaac — points to the place where the final sacrifice will be offered. The geography does not change. The mountain remains. But the sacrifice that David offers to stop a plague is only a shadow of the sacrifice that will stop death itself. "For Christ, our Passover lamb, has been sacrificed" (1 Corinthians 5:7). The altar David built still stands — in a different form, on a different hill, bearing a different offering — but the logic is the same: blood shed to stop the curse, a sacrifice that costs everything, offered by a king.
 
-## [Memory Verse](../memory-verse/)
-
-> "Create in me a clean heart, O God, and renew a right spirit within me." — Psalm 51:10 (ESV)

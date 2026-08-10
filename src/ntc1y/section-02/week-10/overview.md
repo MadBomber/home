@@ -54,12 +54,3 @@ The Transfiguration, which follows six days later, provides divine confirmation 
 - **Faith amid failure** -- The disciples repeatedly misunderstand, yet Jesus continues to teach, correct, and include them
 - **True greatness** -- In the kingdom of God, the greatest is the servant of all, and welcoming a child is welcoming God himself
 
-## [Memory Verse](../memory-verse/)
-
-> "And he asked them, 'But who do you say that I am?' Peter answered him, 'You are the Christ.'"
-> -- Mark 8:29
-
-Or:
-
-> "If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it."
-> -- Mark 8:34-35

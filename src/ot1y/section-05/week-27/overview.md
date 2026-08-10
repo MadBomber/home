@@ -59,6 +59,3 @@ When asked to name the greatest commandment, Jesus does not hesitate. He quotes 
 
 And the prophet like Moses — the mediator greater than Moses, the one whom the LORD knows "face to face" — is Christ himself. What Moses could not accomplish — bringing the people into rest — Jesus does. The author of Hebrews makes the argument with devastating precision: "For if Joshua had given them rest, God would not have spoken of another day later on. So then, there remains a Sabbath rest for the people of God" (Hebrews 4:8-9). Moses could not enter. Joshua brought them in, but the rest was temporary. Jesus brings his people into the rest that is eternal. The name tells the story: *Yehoshua* — Joshua — Jesus. The same name. The same mission. The greater fulfillment. Moses dies on the mountain looking at a land he cannot reach. Jesus rises from a tomb and opens a kingdom that cannot be shaken.
 
-## [Memory Verse](../memory-verse/)
-
-> "Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your might." — Deuteronomy 6:4-5 (ESV)

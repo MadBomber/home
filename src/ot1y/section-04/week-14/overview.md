@@ -63,6 +63,3 @@ The wrestling at Peniel — a man grappling with God through the dark, refusing 
 
 And the twelve sons born this week — to four mothers, in rivalry and pain, carrying names that chronicle heartbreak — will become the twelve tribes from which the Messiah descends and which Jesus reconstitutes when he chooses twelve apostles (Luke 6:13). The number is not coincidental. It is a claim. Jesus is not merely building a movement. He is rebuilding Israel — gathering the scattered, reconstituting the fractured, forming a new people from the same number that named the old. The tribes born from a broken family become the template for a redeemed one.
 
-## [Memory Verse](../memory-verse/)
-
-> "Then he said, 'Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed.'" — Genesis 32:28 (ESV)

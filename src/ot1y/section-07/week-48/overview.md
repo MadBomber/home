@@ -59,6 +59,3 @@ Zechariah's oracles read like dispatches from Passion Week written five centurie
 
 And Malachi's final promise — "I will send you Elijah the prophet" — breaks the four-century silence when an angel appears to an elderly priest named Zechariah, burning incense in the very temple Haggai told the people to build, and announces: "Your wife Elizabeth will bear you a son, and you shall call his name John... and he will go before him in the spirit and power of Elijah" (Luke 1:13, 17). The silence ends. The messenger arrives. And the Lord whom the people seek suddenly comes to his temple — not in thunder, not in cloud, but as a forty-day-old infant carried in his mother's arms for the rite of purification.
 
-## [Memory Verse](../memory-verse/)
-
-> "Then he said to me, 'This is the word of the LORD to Zerubbabel: Not by might, nor by power, but by my Spirit, says the LORD of hosts.'" — Zechariah 4:6 (ESV)

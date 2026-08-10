@@ -54,6 +54,3 @@ Abraham's intercession for Sodom — "Will you indeed sweep away the righteous w
 
 And the fire that fell on Sodom — the sulfur and flame that obliterated the cities of the plain — anticipates both the fire of final judgment and its astonishing inversion at Pentecost. On the day of Pentecost, fire descends again — not to destroy but to indwell, not to consume the wicked but to empower the redeemed. "Divided tongues as of fire appeared to them and rested on each one of them" (Acts 2:3). The God who rained fire on Sodom sends fire on the church, and the fire that once meant annihilation now means the presence of his Spirit. Judgment is not revoked. It is redirected — absorbed at the cross, so that the fire that falls on believers is not the fire of wrath but the fire of God's indwelling life.
 
-## [Memory Verse](../memory-verse/)
-
-> "Shall not the Judge of all the earth do what is just?" — Genesis 18:25 (ESV)

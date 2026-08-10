@@ -52,6 +52,3 @@ And the veil. The barrier woven with cherubim, blocking the way to the Most Holy
 
 Christ enters "the greater and more perfect tent (not made with hands)" (Hebrews 9:11), carrying not the blood of bulls and goats but his own blood, securing "an eternal redemption." He is both the priest who enters and the sacrifice he carries. He is the mercy seat and the blood on it. He is the veil and the one who tears it. The tabernacle was never the destination. It was the rehearsal.
 
-## [Memory Verse](../memory-verse/)
-
-> "And let them make me a sanctuary, that I may dwell in their midst." — Exodus 25:8 (ESV)

@@ -60,6 +60,3 @@ Boaz the kinsman-redeemer is the Old Testament's clearest type of Christ as rede
 
 And Ruth — the Moabite widow who clings to a God she barely knows, who leaves her homeland with nothing, who gleans in the margins of someone else's field — is the gospel in narrative form. She is a foreigner, excluded by law from the assembly of Israel (Deuteronomy 23:3). Yet she enters the covenant by faith, not by birth. She is welcomed, redeemed, married into the line of promise, and placed in the genealogy of Christ (Matthew 1:5). Her story is the answer to every assumption that God's grace has boundaries. "Where you go I will go" is the confession of every person who has ever left their old life behind and followed an unfamiliar God into an unknown future — with nothing in their hands and everything at stake.
 
-## [Memory Verse](../memory-verse/)
-
-> "But Ruth said, 'Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God.'" — Ruth 1:16 (ESV)

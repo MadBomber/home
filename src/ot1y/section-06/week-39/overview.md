@@ -56,6 +56,3 @@ At the transfiguration, Elijah appears alongside Moses, speaking with Jesus abou
 
 And the still small voice of Horeb — the whisper God uses when the prophet is broken, exhausted, and ready to die — is the voice the gospel reveals in its fullest form. The God who thunders in judgment also whispers in mercy. The same God who sends fire from heaven will one day send his Son not with earthquake and wind but in the quietness of a manger, the humility of a servant, the silence before Pilate. "He will not quarrel or cry aloud, nor will anyone hear his voice in the streets" (Matthew 12:19, quoting Isaiah 42:2). The God of the whirlwind is also the God of the whisper — and both are the voice of Christ.
 
-## [Memory Verse](../memory-verse/)
-
-> "And Elijah came near to all the people and said, 'How long will you go limping between two different opinions? If the LORD is God, follow him; but if Baal, then follow him.'" — 1 Kings 18:21 (ESV)

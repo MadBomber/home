@@ -59,6 +59,3 @@ The pattern of the return itself prefigures Christ's work. The altar is rebuilt 
 
 And the weeping mingled with shouting at the foundation ceremony finds its echo in the upper room after the resurrection. The disciples see the risen Lord and rejoice — but the scars remain. Joy and grief, fulfillment and longing, the already and the not yet — this is the sound of a people living between the first coming and the second, between the foundation laid and the building completed. "For now we see in a mirror dimly, but then face to face" (1 Corinthians 13:12). The temple waits. The glory comes. And it comes not as a cloud that fills a room but as a person who fills everything in every way (Ephesians 1:23).
 
-## [Memory Verse](../memory-verse/)
-
-> "And they sang responsively, praising and giving thanks to the LORD, 'For he is good, for his steadfast love endures forever toward Israel.'" — Ezra 3:11 (ESV)

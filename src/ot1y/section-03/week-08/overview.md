@@ -52,6 +52,3 @@ The Table of Nations — that long genealogy of seventy peoples spreading across
 
 And the tower itself — humanity's attempt to build a stairway to heaven, to ascend by their own effort to the place where God dwells — stands in permanent contrast to the incarnation. Babel is the story of humanity reaching up. The gospel is the story of God coming down. The builders of Shinar tried to make a name for themselves and were scattered. The Son of God emptied himself of his name and gathered. "Let us make a name for ourselves" is the creed of Babel. "He humbled himself" (Philippians 2:8) is the creed of Christ. Every human project of self-exaltation ends in confusion. The divine project of self-emptying ends in a name "that is above every name" (Philippians 2:9).
 
-## [Memory Verse](../memory-verse/)
-
-> "Therefore its name was called Babel, because there the LORD confused the language of all the earth. And from there the LORD dispersed them over the face of all the earth." — Genesis 11:9 (ESV)

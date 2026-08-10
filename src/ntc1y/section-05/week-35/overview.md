@@ -54,9 +54,3 @@ Romans 1-4 constitutes the first major section of the letter, and its argument i
 - **The righteousness of God** -- God's righteousness is both his own attribute (his faithful justice) and his gift to those who believe
 - **Abraham as paradigm** -- Abraham was justified by faith before circumcision and before the law, establishing the pattern for both Jewish and Gentile believers
 
-## [Memory Verse](../memory-verse/)
-
-> "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile. For in the gospel the righteousness of God is revealed -- a righteousness that is by faith from first to last, just as it is written: 'The righteous will live by faith.'"
-> -- Romans 1:16-17
-
-*Note: Romans was written from Corinth approximately 57 AD, during Paul's three-month stay recorded in Acts 20:2-3.*

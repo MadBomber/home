@@ -52,6 +52,3 @@ Hannah's final word — *mashiach*, anointed — hangs over the entire narrative
 
 And Samuel's posture — "Speak, LORD, for your servant hears" — is the posture Christ himself will take in Gethsemane: "Not my will, but yours, be done" (Luke 22:42). The boy who listened in the dark becomes the pattern for the Son who will listen all the way to death.
 
-## [Memory Verse](../memory-verse/)
-
-> "The LORD will judge the ends of the earth; he will give strength to his king and exalt the horn of his anointed." — 1 Samuel 2:10 (ESV)

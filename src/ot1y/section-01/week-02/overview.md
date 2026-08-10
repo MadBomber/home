@@ -51,6 +51,3 @@ The Sabbath rest of Genesis 2:1-3 finds its fulfillment not in a day but in a pe
 
 The Wisdom of Proverbs 8 — present before the earth's foundations, rejoicing at God's side, delighting in humanity — is the figure Paul identifies without hesitation: "Christ the power of God and the wisdom of God" (1 Corinthians 1:24). And the marriage of Genesis 2 — "a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh" (Genesis 2:24) — is the image Paul reaches for when he needs to describe the deepest truth of the gospel: "This mystery is profound, and I am saying that it refers to Christ and the church" (Ephesians 5:32). The first wedding in Scripture is already pointing to the last — the marriage supper of the Lamb, where the bridegroom and his bride are united forever.
 
-## [Memory Verse](../memory-verse/)
-
-> "Then the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature." — Genesis 2:7 (ESV)

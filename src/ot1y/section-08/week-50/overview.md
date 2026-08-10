@@ -59,6 +59,3 @@ The sun of righteousness Malachi announces — rising with healing in its wings 
 
 And the Judge who makes the rivers clap and the hills sing — the one whose arrival creation celebrates — is the one who was himself judged on a Roman cross, condemned by human courts, executed between criminals. He absorbed the judgment so that his return as Judge could be not only perfectly just but perfectly merciful. "For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him" (John 3:17). The Judge came first as the judged. He will come again as the Judge. And when he does, the rivers will know. The hills will know. The trees of the forest will sing before him. Because the one who made them is the one who redeemed them — and he is coming to set everything right.
 
-## [Memory Verse](../memory-verse/)
-
-> "He will swallow up death forever; and the Lord GOD will wipe away tears from all faces, and the reproach of his people he will take away from all the earth, for the LORD has spoken." — Isaiah 25:8 (ESV)

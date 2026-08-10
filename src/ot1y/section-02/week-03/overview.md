@@ -57,6 +57,3 @@ The animal skins of Genesis 3:21 are the Bible's first picture of substitutionar
 
 The seed of Genesis 3:15 — the offspring who will crush the serpent at the cost of his own wounding — is the child Isaiah announces with names no human being could bear: "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace" (Isaiah 9:6). The heel-bruising occurred at Calvary, where the serpent struck with everything he had. The head-crushing began at the empty tomb, where the blow proved fatal — not to the seed but to the serpent. And Psalm 51's desperate prayer — "Create in me a clean heart, O God" — is the cry the fall produces in every honest sinner, and the new covenant of Ezekiel 36:26 is God's answer: "I will give you a new heart." The God who clothed Adam in skins will one day clothe his people in righteousness. The God who pursued Adam in the garden will one day pursue a thief on a cross and say, "Today you will be with me in paradise" (Luke 23:43).
 
-## [Memory Verse](../memory-verse/)
-
-> "I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel." — Genesis 3:15 (ESV)

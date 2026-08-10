@@ -52,6 +52,3 @@ Where Saul offers partial obedience and blames the people — "I feared the peop
 
 And Samuel's principle — "to obey is better than sacrifice" — finds its ultimate expression in the one whose sacrifice *is* obedience. "When Christ came into the world, he said... 'Behold, I have come to do your will, O God'" (Hebrews 10:5, 7). In Christ, sacrifice and obedience are no longer opposed. They are the same act. The offering and the will converge in a single body, given once for all.
 
-## [Memory Verse](../memory-verse/)
-
-> "Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to listen than the fat of rams." — 1 Samuel 15:22 (ESV)

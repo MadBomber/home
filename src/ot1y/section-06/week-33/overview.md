@@ -54,6 +54,3 @@ The shepherd boy who faces the giant alone while the armies of Israel watch from
 
 And Jonathan — the man who strips off his royal robes and hands them to the anointed one, who gives up his own rightful inheritance out of love — anticipates the one who will say of the coming king: "He must increase, but I must decrease" (John 3:30). Jonathan's self-emptying is not defeat. It is recognition. The truest royalty is the one that bows before God's chosen and counts the loss as gain.
 
-## [Memory Verse](../memory-verse/)
-
-> "For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart." — 1 Samuel 16:7 (ESV)

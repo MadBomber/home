@@ -54,6 +54,3 @@ The consecrated bread David eats at Nob becomes, in Jesus' hands, a hermeneutica
 
 And the psalms David writes in the caves — Psalms 34, 56, 57, 59, 63, 142 — become the prayer book of every suffering saint. But they reach their climax on the lips of Christ himself, who prays from the cross what the fugitive first prayed from the cave: "My God, my God, why have you forsaken me?" (Psalm 22:1, quoted in Matthew 27:46). The fugitive's prayers become the Savior's. The cave leads to the cross. And the cross leads to a throne David's cave could only anticipate.
 
-## [Memory Verse](../memory-verse/)
-
-> "The LORD is near to the brokenhearted and saves the crushed in spirit." — Psalm 34:18 (ESV)

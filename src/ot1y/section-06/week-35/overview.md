@@ -55,6 +55,3 @@ Peter stands at Pentecost and draws the line straight: "Being therefore a prophe
 
 And Mephibosheth at the king's table is the gospel before the gospel has a name. We are all Mephibosheth: crippled, hiding, living in a land of no pasture, descendants of the one who opposed the king. And the king sends for us — not to punish but to seat us at his table, not because of what we have done but because of a covenant we did not make. "While we were still sinners, Christ died for us" (Romans 5:8). The table was set before we knew we were invited.
 
-## [Memory Verse](../memory-verse/)
-
-> "And your house and your kingdom shall be made sure forever before me. Your throne shall be established forever." — 2 Samuel 7:16 (ESV)

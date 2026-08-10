@@ -55,6 +55,3 @@ The belief that was counted as righteousness — Abraham's bare trust in God's i
 
 And Isaac — the son born against all biological possibility to parents who laughed at the promise — is the first of many children in Scripture whose miraculous birth points toward the ultimate miraculous birth. A barren womb opens by divine command. A son arrives when nature says no. The pattern will repeat — with Jacob's wife Rachel, with Hannah, with the Shunammite woman, with Elizabeth — each birth a smaller rehearsal for the one birth that will shatter every category: a virgin conceives, and the son she bears is not merely the child of promise but the Promise itself, "Immanuel, God with us" (Matthew 1:23).
 
-## [Memory Verse](../memory-verse/)
-
-> "And he believed the LORD, and he counted it to him as righteousness." — Genesis 15:6 (ESV)

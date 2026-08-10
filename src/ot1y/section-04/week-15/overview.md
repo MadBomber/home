@@ -59,6 +59,3 @@ The twenty pieces of silver that bought Joseph's descent into slavery (Genesis 3
 
 And the refrain that holds the Joseph narrative together — "the LORD was with Joseph" — finds its ultimate expression in the name that will be given to the child born of a virgin: *Immanuel*, "God with us" (Matthew 1:23). The presence that sustained Joseph in slavery, in prison, in false accusation, and in the forgotten years is the same presence that Christ embodies permanently. He is not merely accompanied by God. He *is* God with us. The refrain of Genesis 39 becomes a name in Matthew 1 — and the name becomes a person, and the person enters the same pattern of descent and exaltation that Joseph traced in shadow, and this time the pattern is filled with the full weight of divine glory.
 
-## [Memory Verse](../memory-verse/)
-
-> "But the LORD was with Joseph and showed him steadfast love and gave him favor in the sight of the keeper of the prison." — Genesis 39:21 (ESV)

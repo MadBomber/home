@@ -52,6 +52,3 @@ The blood that God declares sacred in Genesis 9:6 — because the image of God r
 
 And the rainbow — God's sign that judgment has passed and patience reigns — appears one final time in Scripture, encircling the throne of God in Revelation 4:3. Even in the throne room of final judgment, the sign of the Noahic covenant frames the scene. Mercy surrounds the throne. The bow still hangs in the sky. The God who pledged patience to Noah has not revoked his commitment — he has fulfilled it, through a Lamb who stands in the center of that throne "as though it had been slain" (Revelation 5:6). The patience of Genesis 9 was never aimless. It was always aimed at him.
 
-## [Memory Verse](../memory-verse/)
-
-> "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth." — Genesis 9:13 (ESV)

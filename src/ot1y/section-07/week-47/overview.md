@@ -59,6 +59,3 @@ The new heart Ezekiel promised arrives through the Spirit Jesus sends. "You were
 
 And Joel's Spirit — poured out on all flesh — descends at Pentecost with fire and wind and languages no one has studied. Peter stands and declares: "This is what was uttered through the prophet Joel" (Acts 2:16). The servant Isaiah described, the one given as a covenant to the people and a light to the nations, stands in a synagogue in Nazareth, reads from Isaiah's scroll, and announces: "Today this Scripture has been fulfilled in your hearing" (Luke 4:21). The prophets spoke of a day when God would do a new thing — write on hearts, replace stone with flesh, pour out his Spirit without boundary, embody his covenant in a person. That day arrived. His name is Jesus.
 
-## [Memory Verse](../memory-verse/)
-
-> "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people." — Jeremiah 31:33 (ESV)

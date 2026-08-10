@@ -55,6 +55,3 @@ Melchizedek — king of Salem (which means peace), priest of God Most High — i
 
 And the failure of Abram in Egypt — the lie, the cowardice, the wife endangered — only sharpens the Christological point. The covenant requires a faithful representative, and every patriarch proves inadequate. Abraham lies. Isaac lies. Jacob lies. The pattern is relentless. The promise survives not because its bearers are worthy but because God has sworn, and God does not lie. The entire patriarchal narrative creates an ache for a covenant-keeper who will not falter — the "faithful and true" (Revelation 19:11) whom the text is building toward with every flawed generation.
 
-## [Memory Verse](../memory-verse/)
-
-> "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed." — Genesis 12:2-3 (ESV)

@@ -56,6 +56,3 @@ Rahab — the Canaanite prostitute saved by faith — appears in three New Testa
 
 And Jericho — the fortified city brought down not by military power but by obedient worship — previews the way Christ conquers. Not by the sword. Not by political force. Not by the methods the world respects. "For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds" (2 Corinthians 10:4). The walls of Jericho fell to trumpet blasts and a shout. The power of sin and death falls to a cross and an empty tomb. The strategy looks foolish. "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God" (1 Corinthians 1:18). God's method of conquest has always been the same: victory through what the world considers defeat.
 
-## [Memory Verse](../memory-verse/)
-
-> "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the LORD your God is with you wherever you go." — Joshua 1:9 (ESV)

@@ -58,6 +58,3 @@ Jeremiah's new covenant — the law written on hearts, sins remembered no more �
 
 And Ezekiel's shepherd — the one who searches for lost sheep, who binds up the injured, who feeds the flock himself through a Davidic figure — stands up in the temple courts and speaks the words every listener who knew Ezekiel 34 would recognize: "I am the good shepherd. The good shepherd lays down his life for the sheep" (John 10:11). The divine shepherd and the Davidic shepherd collapse into a single person standing in Jerusalem, claiming both identities in a single sentence. Ezekiel's impossible requirement — a shepherd who is both God and David's heir — is the claim Jesus makes without qualification.
 
-## [Memory Verse](../memory-verse/)
-
-> "But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed." — Isaiah 53:5 (ESV)

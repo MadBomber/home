@@ -59,6 +59,3 @@ When Jesus opens the Scriptures to two disciples on the road to Emmaus, "beginni
 
 Peter, preaching at Pentecost, quotes Psalm 16 and drives the argument home: "Brothers, I may say to you with confidence about the patriarch David that he both died and was buried, and his tomb is with us to this day... He foresaw and spoke about the resurrection of the Christ, that he was not abandoned to Hades, nor did his flesh see corruption. This Jesus God raised up, and of that we all are witnesses" (Acts 2:29, 31-32). And Philip, sitting beside a Ethiopian official on a desert road who is reading Isaiah 53 and asking "About whom does the prophet say this?", opens his mouth "and beginning with this Scripture he told him the good news about Jesus" (Acts 8:35). The passage has always been about Jesus. The Old Testament knew. It was waiting for someone to ask.
 
-## [Memory Verse](../memory-verse/)
-
-> "All we like sheep have gone astray; we have turned — every one — to his own way; and the LORD has laid on him the iniquity of us all." — Isaiah 53:6 (ESV)

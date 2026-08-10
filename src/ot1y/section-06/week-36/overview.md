@@ -54,6 +54,3 @@ Jesus himself takes Psalm 110 and turns it into the question that silences every
 
 And Psalm 89's unanswered cry — "How long, O LORD?" — receives its answer not in the restoration of the Davidic monarchy but in its transformation. The crown the psalmist saw in the dust is lifted and placed on a head that wears it forever. "Your throne, O God, is forever and ever" — the words of Psalm 45:6, applied by the author of Hebrews directly to the Son: "But of the Son he says, 'Your throne, O God, is forever and ever'" (Hebrews 1:8). The king addressed as God in the psalm is the Son addressed as God in the letter. The royal poetry was always more than poetry. It was prophecy waiting for a person.
 
-## [Memory Verse](../memory-verse/)
-
-> "The LORD says to my Lord: 'Sit at my right hand, until I make your enemies your footstool.'" — Psalm 110:1 (ESV)

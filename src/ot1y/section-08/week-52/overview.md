@@ -61,6 +61,3 @@ Every covenant reaches its completion in this person. The Creator who re-creates
 
 And from his throne comes the final promise of the Bible — the word that answers every exile's longing, every mourner's grief, every prophet's straining vision: "Behold, I am making all things new" (Revelation 21:5). Not some things. All things. The heavens and the earth of Isaiah 65. The river and the trees of Ezekiel 47. The feast and the wiped tears of Isaiah 25. The city whose light is God himself. "And they will see his face, and his name will be on their foreheads. And night will be no more. They will need no light of lamp or sun, for the Lord God will be their light, and they will reign forever and ever" (Revelation 22:4-5). The story that began with God speaking into darkness ends with God shining as light. The story that began with a garden ends with a city. The story that began with "In the beginning, God" ends with "Surely I am coming soon" (Revelation 22:20). And the only response the Bible leaves us is the one it gives: "Amen. Come, Lord Jesus!"
 
-## [Memory Verse](../memory-verse/)
-
-> "For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind." — Isaiah 65:17 (ESV)

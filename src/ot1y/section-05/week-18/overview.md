@@ -52,6 +52,3 @@ The timing confirms the typology. Jesus is crucified on Passover afternoon, at t
 
 And the meal continues. On the night before his crucifixion, seated at a Passover table, Jesus takes the unleavened bread and the cup and transforms the oldest liturgy in Israel into the newest: "This cup that is poured out for you is the new covenant in my blood" (Luke 22:20). The bread that remembered Egypt now remembers Calvary. The lamb that was eaten in haste by a people fleeing slavery is now the Lamb whose body is broken for a world fleeing death. The Passover has not been replaced. It has been completed.
 
-## [Memory Verse](../memory-verse/)
-
-> "The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt." — Exodus 12:13 (ESV)

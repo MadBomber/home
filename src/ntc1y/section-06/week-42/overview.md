@@ -55,10 +55,3 @@ Colossians then takes us into the cosmic dimensions of Christology. The Christ H
 - **Sufficiency of Christ** — No need to add philosophy, legalism, or mysticism to the gospel
 - **New identity in Christ** — "Put off" the old self, "put on" the new; master and slave become brothers
 
-## [Memory Verse](../memory-verse/)
-
-> "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus." — Philippians 4:6-7
-
-*Or alternatively:*
-
-> "The Son is the image of the invisible God, the firstborn over all creation. For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him." — Colossians 1:15-16

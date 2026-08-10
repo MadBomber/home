@@ -59,6 +59,3 @@ Jonah's three days in the fish become, in Jesus' own words, the sign that authen
 
 And Micah's ruler from Bethlehem — whose origins are from ancient days — arrives exactly where the prophet said he would. When Herod's scribes are asked where the Christ is to be born, they quote Micah 5:2 without hesitation (Matthew 2:5-6). The little town. The ancient ruler. The eternity compressed into an infant. Habakkuk's faith — the *emunah* that holds on when nothing makes sense — becomes the theological engine Paul drives through Romans and Galatians: "The righteous shall live by faith" (Romans 1:17; Galatians 3:11). The principle the prophet discovered on his watchtower, wrestling with an unjust world, is the principle by which the entire gospel operates: not by sight, not by answers, not by resolution — but by trust in the God who is working behind the silence.
 
-## [Memory Verse](../memory-verse/)
-
-> "But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days." — Micah 5:2 (ESV)

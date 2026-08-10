@@ -53,6 +53,3 @@ The God who "shut him in" (Genesis 7:16) — sealing Noah inside the ark with hi
 
 And the promise God makes after the flood — "never again" — anticipates the finality of the cross. The flood was a judgment so devastating it unmade the world. But it was not the final judgment. It was a rehearsal, a type, a warning. The cross is the judgment that need never be repeated: one sacrifice, once offered, sufficient for all time. The patience God pledged in Genesis 8:21 — the forbearance that keeps seedtime and harvest turning — is patience purchased by that promise, sustained across millennia, aimed at the day when the one greater than Noah would build not an ark of gopher wood but a kingdom of resurrected sons and daughters.
 
-## [Memory Verse](../memory-verse/)
-
-> "Then the LORD said to Noah, 'Go into the ark, you and all your household, for I have found you righteous before me in this generation.'" — Genesis 7:1 (ESV)

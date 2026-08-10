@@ -58,6 +58,3 @@ The throne emptied? The angel Gabriel delivers the words that complete the sente
 
 And the scattered people? Jesus looks beyond the boundaries the exile defined and says, "I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd" (John 10:16). The exile proved what every reform — Hezekiah's, Josiah's — could not erase: no human king can sustain the covenant. No human institution can bear the weight of God's presence permanently. Only the divine king can. And he is coming — not merely to restore the old kingdom but to establish a new one, built not on a temple of stone but on a body broken and raised, not on a human dynasty but on an eternal throne.
 
-## [Memory Verse](../memory-verse/)
-
-> "They despised his statutes and his covenant that he made with their fathers and the warnings that he gave them. They went after false idols and became false." — 2 Kings 17:15 (ESV)

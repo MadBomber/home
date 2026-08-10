@@ -59,6 +59,3 @@ Mordecai's unshakable conviction — "relief and deliverance will rise for the J
 
 And the reversal of Purim — death transformed into deliverance, the enemy's weapon turned against himself — finds its ultimate expression at Calvary. Paul names the logic with devastating clarity: "None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory" (1 Corinthians 2:8). The cross was meant to destroy. It became the instrument of salvation. The lots were cast for death. The name became a feast. What the enemy intended as his greatest victory became his irreversible defeat.
 
-## [Memory Verse](../memory-verse/)
-
-> "For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And who knows whether you have not come to the kingdom for such a time as this?" — Esther 4:14 (ESV)

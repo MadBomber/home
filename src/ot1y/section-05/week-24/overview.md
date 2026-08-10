@@ -54,6 +54,3 @@ The two goats find their union in a single person. Christ is the goat that dies 
 
 And the Jubilee — debts forgiven, captives freed, the oppressed released — is the announcement Jesus makes when he opens his public ministry. Standing in the synagogue at Nazareth, he reads from Isaiah's Jubilee prophecy and then says the most explosive sentence in the Gospels: "Today this Scripture has been fulfilled in your hearing" (Luke 4:21). The Jubilee is not a metaphor for the gospel. The gospel is the Jubilee — the real one, the final one, the one that releases not from financial debt but from the debt of sin itself, and not for a year but forever.
 
-## [Memory Verse](../memory-verse/)
-
-> "You shall be holy, for I the LORD your God am holy." — Leviticus 19:2 (ESV)

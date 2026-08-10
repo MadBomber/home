@@ -72,6 +72,3 @@ Genesis 50:20 is the Old Testament's clearest statement of what the cross accomp
 
 The scepter of Judah — "The scepter shall not depart from Judah... until tribute comes to him; and to him shall be the obedience of the peoples" (Genesis 49:10) — points directly to Christ, whom John identifies in heaven as "the Lion of the tribe of Judah, the Root of David" who alone is worthy to open the scroll of history (Revelation 5:5). The royal promise given to a repentant brother in a dying patriarch's tent finds its fulfillment in the one who holds "the key of David" and reigns forever. And Joseph's coffin — waiting in Egypt for a God who will "surely visit" — is the posture of the entire Old Testament. Waiting. Believing. Knowing that the bones will be carried home, that the promise is not dead, that the God who sent Joseph ahead to preserve life will send another ahead to conquer death. The coffin waits. The promise holds. And four hundred years of silence will end with a cry: "Let my people go."
 
-## [Memory Verse](../memory-verse/)
-
-> "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today." — Genesis 50:20 (ESV)

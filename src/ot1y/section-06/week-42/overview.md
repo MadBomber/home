@@ -56,6 +56,3 @@ Christ is the answer to Ecclesiastes — the one who breaks the *hevel*, the vap
 
 And Christ is the bridegroom of the Song — the beloved whose love is "strong as death," whose jealousy is "fierce as the grave," whose passion is "the very flame of the LORD." Paul takes the Song's logic and carries it to its destination: "Husbands, love your wives, as Christ loved the church and gave himself up for her" (Ephesians 5:25). The love poetry that made the rabbis blush is the love story the gospel completes. "I am my beloved's, and my beloved is mine" — the covenant formula of the Song — is the confession of every soul that belongs to Christ.
 
-## [Memory Verse](../memory-verse/)
-
-> "The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight." — Proverbs 9:10 (ESV)

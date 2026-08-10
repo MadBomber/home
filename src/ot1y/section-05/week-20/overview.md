@@ -53,6 +53,3 @@ The blood of the Mosaic covenant, thrown on the altar and the people, finds its 
 
 And the meal on the mountain — the elders eating and drinking in the presence of God, beholding him and yet living — is a foretaste so vivid it takes the breath. A meal. In God's presence. After the blood. After the covenant. This is what the Lord's Supper enacts. This is what the marriage supper of the Lamb will consummate. The table was set at Sinai. It has never been cleared.
 
-## [Memory Verse](../memory-verse/)
-
-> "Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine; and you shall be to me a kingdom of priests and a holy nation." — Exodus 19:5-6 (ESV)

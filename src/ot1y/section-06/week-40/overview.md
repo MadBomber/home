@@ -54,6 +54,3 @@ Naaman's healing in the Jordan carries a weight the New Testament makes explicit
 
 And Elijah's departure in the chariot of fire — ascending alive, taken up while his disciple watches — anticipates the ascension of the one who will depart in the same upward direction. "As they were looking on, he was lifted up, and a cloud took him out of their sight" (Acts 1:9). Elijah leaves a mantle. Christ leaves the Spirit. Elijah's departure commissions Elisha for prophetic work. Christ's departure commissions the church for the work of the kingdom. The pattern holds: the departure of the master is not the end of the mission. It is the expansion of it.
 
-## [Memory Verse](../memory-verse/)
-
-> "'Do not be afraid, for those who are with us are more than those who are with them.'" — 2 Kings 6:16 (ESV)

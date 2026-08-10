@@ -56,6 +56,3 @@ The birthright Esau despised — the right to carry the promise, to stand in the
 
 And Jacob himself — the deceiver, the heel-grasper, the man who schemes his way into the blessing — stands as evidence that God's purposes are accomplished not through human righteousness but through divine persistence. The covenant line runs through a liar. The promise is carried by a fraud. The nation of Israel descends from a man whose name means "supplanter." This is not an accident. It is the Bible's relentless insistence that grace chooses the unworthy — that the God who will one day hang between two thieves has always been comfortable working with material the world would reject.
 
-## [Memory Verse](../memory-verse/)
-
-> "And the LORD said to her, 'Two nations are in your womb, and two peoples from within you shall be divided; the one shall be stronger than the other, the older shall serve the younger.'" — Genesis 25:23 (ESV)

@@ -58,6 +58,3 @@ The Aaronic blessing — the face of God shining with grace and peace — finds 
 
 And the spies' failure — the refusal to enter the rest God had prepared — becomes the primary warning of the book of Hebrews. "Today, if you hear his voice, do not harden your hearts as in the rebellion" (Hebrews 3:15). The generation that died in the wilderness is held up not as an obscure historical footnote but as a living warning to every believer who hears the promise and hesitates. Kadesh-barnea is not ancient history. It is the daily crossroads where faith either enters the promise or turns back toward the desert.
 
-## [Memory Verse](../memory-verse/)
-
-> "The LORD bless you and keep you; the LORD make his face to shine upon you and be gracious to you; the LORD lift up his countenance upon you and give you peace." — Numbers 6:24-26 (ESV)

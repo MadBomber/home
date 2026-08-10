@@ -62,6 +62,3 @@ When Jesus says, "Abraham rejoiced that he would see my day. He saw it and was g
 
 And Isaac's question — "Where is the lamb?" — echoes across the centuries until it finds its answer. Not on Moriah. Not in the tabernacle. Not in Solomon's temple. The answer comes when John the Baptist points at a man walking toward the Jordan and says, "Behold, the Lamb of God, who takes away the sin of the world" (John 1:29). Abraham said, "God will provide for himself the lamb." A thousand years of sacrifice followed — millions of animals, rivers of blood, a system that the author of Hebrews says "can never take away sins" (Hebrews 10:11). And then, on a hill outside Jerusalem, within sight of Moriah, God provided. The lamb arrived. And the question Isaac asked his father was finally, fully, irrevocably answered.
 
-## [Memory Verse](../memory-verse/)
-
-> "So Abraham called the name of that place, 'The LORD will provide'; as it is said to this day, 'On the mount of the LORD it shall be provided.'" — Genesis 22:14 (ESV)

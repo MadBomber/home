@@ -57,6 +57,3 @@ The grief of God in Genesis 6:6 — the Creator wounded by the corruption of his
 
 And the grace that finds Noah — *chen*, unearned, preceding all obedience — is the grace Paul describes as the foundation of salvation itself: "By grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast" (Ephesians 2:8-9). Noah did not earn the ark. He entered it. The righteous do not build their own rescue. They receive it — from a God who designs the salvation, provides the materials, seals it with atonement, and opens the one door through which the condemned walk free.
 
-## [Memory Verse](../memory-verse/)
-
-> "But Noah found favor in the eyes of the LORD." — Genesis 6:8 (ESV)

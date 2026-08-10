@@ -56,6 +56,3 @@ Solomon asked for wisdom and received it as a gift. Christ does not merely recei
 
 And Solomon's prayer for the foreigner — "that all the peoples of the earth may know your name and fear you" (1 Kings 8:43) — finds its answer not in the temple's doors but in the gospel's reach. What Solomon envisioned, Christ accomplishes. The nations do not come to a building. They come to a person. "I, when I am lifted up from the earth, will draw all people to myself" (John 12:32). The temple's open doors were a preview. The cross is the fulfillment.
 
-## [Memory Verse](../memory-verse/)
-
-> "But will God indeed dwell on the earth? Behold, heaven and the highest heaven cannot contain you; how much less this house that I have built!" — 1 Kings 8:27 (ESV)

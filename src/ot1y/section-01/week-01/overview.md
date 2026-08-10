@@ -48,6 +48,3 @@ John's prologue reaches back to this very chapter and makes a claim that redefin
 
 And the light that God speaks into existence on the first day — before the sun, before the moon, before any natural source — is the same light John identifies with Christ: "In him was life, and the life was the light of men. The light shines in the darkness, and the darkness has not overcome it" (John 1:4-5). The first act of creation is a preview of the incarnation: light entering darkness, and the darkness unable to extinguish it. When Jesus says, "I am the light of the world" (John 8:12), he is not borrowing a metaphor. He is reclaiming an identity. He has been the light since before the world began.
 
-## [Memory Verse](../memory-verse/)
-
-> "In the beginning, God created the heavens and the earth." — Genesis 1:1 (ESV)
