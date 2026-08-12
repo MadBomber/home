@@ -1,0 +1,85 @@
+---
+title: Contact
+layout: default
+permalink: /contact/
+description: Write to LampLight.Guide. The message is composed in your own mail app and sent from your own account.
+---
+
+<%
+  # Contact page.
+  #
+  # There is no server here to receive a form post, so this composes a mailto:
+  # in the reader's own mail client — the same mechanism group-share.js uses to
+  # send a day's reading to a study group. Nothing is transmitted to this site,
+  # and no third-party form service sits in the middle.
+  #
+  # The address itself is assembled at runtime in contact.js rather than written
+  # into this markup, which keeps it out of reach of the crawlers that harvest
+  # mailto: hrefs. Everything below degrades to a plain "here is the address"
+  # page when JavaScript is off.
+
+  _topics = [
+    "A question about a study",
+    "A question about an essay",
+    "Something is broken on the site",
+    "Permission to reprint or reuse",
+    "Something else",
+  ]
+%>
+
+<article id="contact-page">
+  <h1>Contact</h1>
+
+  <p class="contact-intro">
+    Questions, corrections, and notes about how a study is going are all welcome.
+    Fill in the message below and your own mail app will open with it ready to
+    send — nothing is submitted to this site, and no outside service handles it.
+  </p>
+
+  <%# Filled in and revealed by contact.js when a reader arrives from an essay
+      byline or the footer link. Hidden otherwise, and never rendered with a
+      title taken from the URL. %>
+  <p id="contact-page-note" class="contact-page-note" hidden></p>
+
+  <form id="contact-form" class="settings-section" novalidate>
+    <div class="contact-field">
+      <label for="contact-name" class="contact-label">Your name <span class="contact-optional">(optional)</span></label>
+      <input type="text" id="contact-name" class="group-member-input contact-input" autocomplete="name" />
+    </div>
+
+    <div class="contact-field">
+      <label for="contact-topic" class="contact-label">What is this about?</label>
+      <select id="contact-topic" class="settings-select contact-input">
+        <% _topics.each do |topic| %>
+          <option value="<%= topic %>"><%= topic %></option>
+        <% end %>
+      </select>
+    </div>
+
+    <div class="contact-field">
+      <label for="contact-message" class="contact-label">Message</label>
+      <textarea id="contact-message" rows="8" class="group-member-input contact-input contact-textarea"
+                placeholder="Write as much or as little as you like."></textarea>
+    </div>
+
+    <div class="settings-actions">
+      <button type="submit" class="settings-btn">Open in my mail app</button>
+    </div>
+
+    <p id="contact-status" class="settings-status" role="status" aria-live="polite"></p>
+  </form>
+
+  <section class="settings-section">
+    <h2>Or write directly</h2>
+    <p class="settings-info">
+      If the button above does nothing — some browsers have no mail app to hand
+      it to — write to this address from wherever you read your mail:
+    </p>
+    <p>
+      <a href="#" id="contact-address-link" class="contact-address">loading&hellip;</a>
+    </p>
+    <div class="settings-actions">
+      <button type="button" id="contact-copy-address" class="settings-btn">Copy address</button>
+    </div>
+  </section>
+</article>

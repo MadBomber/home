@@ -1,6 +1,24 @@
+<%
+  # The Contact link carries the path of the page the reader is leaving, so the
+  # subject line arrives naming its address — the same trick the essay byline
+  # uses. contact.js pairs the path with the origin it is running on; see
+  # prefillTopicFromPage there.
+  #
+  # Two pages opt out: the contact page itself, whose own address says nothing,
+  # and the privacy policy, which is about the site rather than a thing a reader
+  # would write in about.
+  _here       = resource&.relative_url.to_s
+  _no_subject = %W[#{site.base_path}/contact/ #{site.base_path}/privacy_policy/].include?(_here)
+
+  _contact_href = relative_url("/contact/")
+  unless _here.empty? || _no_subject
+    _contact_href = "#{_contact_href}?about=#{ERB::Util.url_encode(_here)}"
+  end
+%>
 <footer class="site-footer">
   <p>&copy; <%= Time.now.year %> <%= metadata.author %>. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
   <p class="site-footer-links">
+    <a href="<%= _contact_href %>">Contact</a>
     <a href="<%= relative_url "/privacy_policy/" %>">Privacy Policy</a>
   </p>
 </footer>

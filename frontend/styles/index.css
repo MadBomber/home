@@ -1297,9 +1297,20 @@ tr:hover td {
   color: var(--text-muted);
 }
 
+/* The byline links to the contact page. It keeps the gold it has always had —
+   the underline on hover is what tells a reader it can be clicked. */
 .blog-post-author {
   color: var(--gold);
   font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s;
+}
+
+.blog-post-author:hover,
+.blog-post-author:focus {
+  color: var(--gold);
+  border-bottom-color: currentColor;
 }
 
 /* dark theme */
@@ -1740,6 +1751,10 @@ tr:hover td {
 
 .site-footer-links {
   margin: 0.4rem 0 0;
+}
+
+.site-footer-links a + a {
+  margin-left: 1.25rem;
 }
 
 /* --- Today's Bible Study Card --- */
@@ -3507,4 +3522,64 @@ button.toolbar-icon {
 
 [data-theme="dark"] .term::before {
   border-top-color: var(--purple-mid);
+}
+
+/* --- Contact --- */
+
+/* The inputs borrow .group-member-input and .settings-btn, which already carry
+   their own dark and auto overrides; everything added here resolves through a
+   custom property, so the themes follow along without a rule of their own. */
+
+.contact-intro {
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+}
+
+.contact-page-note {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  background: var(--purple-faint);
+  border-left: 3px solid var(--purple-light);
+  border-radius: var(--radius);
+  padding: 0.75rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.contact-field {
+  margin-bottom: 1.25rem;
+}
+
+.contact-label {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.4rem;
+}
+
+.contact-optional {
+  font-weight: 400;
+  color: var(--text-muted);
+}
+
+.contact-input {
+  width: 100%;
+  max-width: 32rem;
+}
+
+.contact-textarea {
+  resize: vertical;
+  line-height: 1.5;
+}
+
+/* On its own line so the address never breaks across two, which would leave a
+   reader copying it by eye with half of it on the wrong row. */
+.contact-address {
+  display: inline-block;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  margin-bottom: 1rem;
+  overflow-wrap: anywhere;
 }

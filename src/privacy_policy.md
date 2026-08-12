@@ -8,6 +8,10 @@ This site collects no personal data. All progress, journal entries, and preferen
 
 We count page visits to understand which studies and essays are being read, browser versions and country from which the request came. No IP addresses are stored. No cookie data is used. No personal identifiers are collected or retained. No information about you as an individual is shared with third parties.
 
+## Writing to Us
+
+The [contact page](/contact/) is not a form in the usual sense. What you type there never reaches this site. Your browser hands the message to whatever mail application you already use, and it is sent from your own account, so we receive your email address the same way any correspondent would. No outside form service is involved, and nothing you type is stored here — closing the page without sending discards it.
+
 ## Services Provided by Others
 
 Some features here are provided by outside companies. Your browser fetches their files directly, and any request your browser makes to another company tells that company your IP address, your browser and operating system, and which page you were reading. We send them nothing about you and we get nothing back about you, but we do not control what their servers do with what they see. Each is governed by its own privacy policy.

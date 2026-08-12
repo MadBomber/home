@@ -102,7 +102,10 @@ layout: default
     </h1>
     <p class="blog-post-meta">
       <% if data.date %><span class="blog-post-date"><%= data.date.strftime("%B %-d, %Y") %></span><% end %>
-      <% if data.author %><span class="blog-post-author"><%= data.author %></span><% end %>
+      <%# The byline is a way to write to the author. This essay's path rides
+          along in the query string so the contact page can prefill the subject
+          with its address — see prefillTopicFromPage in contact.js. %>
+      <% if data.author %><a class="blog-post-author" href="<%= relative_url '/contact/' %>?about=<%= ERB::Util.url_encode(resource.relative_url.to_s) %>" title="Write to <%= data.author %> about this essay"><%= data.author %></a><% end %>
     </p>
   </header>
 
