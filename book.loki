@@ -61,20 +61,7 @@ class BookCommands < Tasks
          default: false,
          desc:    "Rebuild the style template even if it already exists"
   def build(slug = nil)
-    slug = require_slug(slug)
-
-    # The style template rarely changes, so it is only built when missing --
-    # or when asked for explicitly after editing build_reference.rb.
-    if options[:reference] || !artifact(slug, "reference.docx").exist?
-      stage "build_reference.rb", slug
-    end
-
-    stage "build_draft.rb", slug
-    stage "build_docx.rb",  slug
-    stage "build_pdf.rb",   slug
-
-    puts ""
-    puts "  #{slug}: #{describe_pdf(slug)}"
+    build_study require_slug(slug), reference: options[:reference]
   end
 
   desc "all", "Build every study"
@@ -84,9 +71,12 @@ class BookCommands < Tasks
          default: false,
          desc:    "Rebuild the style templates too"
   def all
+    # Calls the helper rather than `invoke :build`: Thor runs a given command
+    # only once per invocation, so invoking build in a loop silently built the
+    # first study and skipped the rest.
     study_slugs.each do |slug|
       puts "\n\e[1;33m── #{slug}\e[0m"
-      invoke :build, [slug], reference: options[:reference]
+      build_study slug, reference: options[:reference]
     end
   end
 
@@ -157,6 +147,19 @@ class BookCommands < Tasks
   end
 
   no_commands do
+    def build_study(slug, reference: false)
+      # The style template rarely changes, so it is only built when missing --
+      # or when asked for explicitly after editing build_reference.rb.
+      stage "build_reference.rb", slug if reference || !artifact(slug, "reference.docx").exist?
+
+      stage "build_draft.rb", slug
+      stage "build_docx.rb",  slug
+      stage "build_pdf.rb",   slug
+
+      puts ""
+      puts "  #{slug}: #{describe_pdf(slug)}"
+    end
+
     # The .loki lives at the repo root, so walking up from the working directory
     # to find it locates the repo without asgard having to be run from there.
     def repo_root

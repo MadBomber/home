@@ -43,6 +43,19 @@ def officecli(*args)
   out
 end
 
+# Pandoc's title block is a run of paragraphs in these styles at the very top of
+# the body, followed by the table of contents. How many there are depends on
+# which metadata is set -- a subtitle adds one -- so the artwork is anchored to
+# the last of them rather than to a fixed /body/p[N].
+FRONT_MATTER_STYLES = %w[Title Subtitle Author Date Abstract AbstractTitle].freeze
+
+def front_matter_paragraph_count(docx)
+  officecli('get', docx, '/body', '--depth', '1').lines.count do |line|
+    line =~ %r{^/body/p\[\d+\]} &&
+      line[/(?<!\w)style=(\w+)/, 1].then { |s| s && FRONT_MATTER_STYLES.include?(s) }
+  end
+end
+
 # Drop any officecli resident still holding the previous build. pandoc is about
 # to overwrite this file behind officecli's back, and a live resident would
 # later flush its stale copy back over the new one -- which silently duplicated
@@ -73,39 +86,39 @@ elsif !image.exist?
   warn "note: title image missing at #{image} -- text-only title page"
 end
 
-if image&.exist?
+if image&.exist? || STUDY.byline
   officecli 'open', STUDY.docx
-  officecli 'add', STUDY.docx, '/body', '--type', 'paragraph',
-            '--after', '/body/p[1]', '--prop', 'align=center'
 
-  picture = ['add', STUDY.docx, '/body/p[2]', '--type', 'picture',
-             '--prop', "src=#{image}",
-             '--prop', "width=#{STUDY.title_image_width}"]
-  crop = STUDY.title_image_crop_bottom.to_i
-  picture += ['--prop', "cropBottom=#{crop}"] if crop.positive?
-  picture += ['--prop', "alt=#{STUDY.title_image_alt}"] unless STUDY.title_image_alt.empty?
-  officecli(*picture)
+  last = front_matter_paragraph_count(STUDY.docx)
+  abort 'no title block found in the generated docx' if last.zero?
 
-  if STUDY.byline
-    # At 5in the artwork reaches to within ~35pt of the bottom margin, so the
-    # byline already sits at the foot of the page. More than ~20pt of lead here
-    # pushes it onto page 2.
+  if image&.exist?
     officecli 'add', STUDY.docx, '/body', '--type', 'paragraph',
-              '--after', '/body/p[2]',
-              '--prop', 'align=right',
-              '--prop', "text=#{STUDY.byline}",
-              '--prop', 'spaceBefore=18pt'
+              '--after', "/body/p[#{last}]", '--prop', 'align=center'
+    last += 1
+
+    picture = ['add', STUDY.docx, "/body/p[#{last}]", '--type', 'picture',
+               '--prop', "src=#{image}",
+               '--prop', "width=#{STUDY.title_image_width}"]
+    crop = STUDY.title_image_crop_bottom.to_i
+    picture += ['--prop', "cropBottom=#{crop}"] if crop.positive?
+    picture += ['--prop', "alt=#{STUDY.title_image_alt}"] unless STUDY.title_image_alt.empty?
+    officecli(*picture)
   end
 
-  officecli 'save', STUDY.docx
-  officecli 'close', STUDY.docx
-elsif STUDY.byline
-  officecli 'open', STUDY.docx
-  officecli 'add', STUDY.docx, '/body', '--type', 'paragraph',
-            '--after', '/body/p[1]',
-            '--prop', 'align=right',
-            '--prop', "text=#{STUDY.byline}",
-            '--prop', 'spaceBefore=24pt'
+  if STUDY.byline
+    # With artwork at 5in the page is nearly full: it reaches to within ~35pt of
+    # the bottom margin, so the byline already sits at the foot of the page and
+    # more than ~20pt of lead here pushes it onto page 2. Without artwork there
+    # is room to set it further down.
+    lead = image&.exist? ? '18pt' : '24pt'
+    officecli 'add', STUDY.docx, '/body', '--type', 'paragraph',
+              '--after', "/body/p[#{last}]",
+              '--prop', 'align=right',
+              '--prop', "text=#{STUDY.byline}",
+              '--prop', "spaceBefore=#{lead}"
+  end
+
   officecli 'save', STUDY.docx
   officecli 'close', STUDY.docx
 end

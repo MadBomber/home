@@ -60,6 +60,27 @@ class Study
 
   # --- title page ---
 
+  # Book title. Falls back to the study's index.md frontmatter title, so the
+  # book matches the site unless the book deliberately differs (e.g. moving the
+  # "Old Testament" half of the site title down into the subtitle).
+  def title
+    configured = title_page['title']
+    return configured unless configured.nil? || configured.to_s.strip.empty?
+
+    index = source_dir + 'index.md'
+    return nil unless index.exist?
+
+    fm = index.read[/\A---\n(.*?)\n---\n/m, 1].to_s
+    (YAML.safe_load(fm) || {})['title']
+  end
+
+  def subtitle
+    value = title_page['subtitle']
+    return nil if value.nil? || value.to_s.strip.empty?
+
+    value
+  end
+
   def title_image
     name = title_page['image']
     return nil if name.nil? || name.to_s.strip.empty?

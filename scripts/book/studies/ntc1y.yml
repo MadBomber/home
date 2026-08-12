@@ -15,14 +15,24 @@ weeks: 52
 week_page_breaks: false
 
 title_page:
-  image: title-image-ntc1y.jpg
-  # The plate carries an engraved Latin caption quoting Luke 10:39 -- the verse
-  # behind the book title. Cropped off for the title page; cropping here rather
-  # than editing the JPEG keeps the download pristine and the amount obvious.
-  image_crop_bottom: 15
-  # 5in is the largest width that still leaves the byline on page 1; at 5.5in the
-  # byline pushed onto page 2.
-  image_width: 5in
+  # Both books share this title; the subtitle distinguishes them and prints on
+  # the line below it. `title` defaults to the study's index.md frontmatter
+  # title when omitted, which for this study is already what the book wants.
+  subtitle: "New Testament"
+
+  # Same artwork and size in both volumes, so the pair looks like a set.
+  # title-image.jpg is already cropped to the plate (890x1190, aspect 1.337);
+  # the engraved Latin caption below it is not in the file.
+  #
+  # Do NOT crop at build time instead. Setting cropBottom leaves the display box
+  # at the uncropped aspect while showing only part of the source, which made
+  # LibreOffice render the frame ~18% taller than the declared extent -- the
+  # artwork overflowed the top margin and pushed the byline onto page 2.
+  image: title-image.jpg
+  # 5.75in is the largest that keeps title, subtitle, artwork and byline on
+  # page 1; at 6in the byline spills onto page 2. Width is not the limit -- the
+  # text block is 6.75in wide -- the page height is.
+  image_width: 5.75in
   image_alt: >-
     Eighteenth-century French engraving: Christ seated at left teaching, Mary of
     Bethany seated on the floor at his feet looking up at him, Martha standing at

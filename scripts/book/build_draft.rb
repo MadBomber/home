@@ -179,9 +179,14 @@ end
 # body. Pandoc places the generated table of contents immediately after the
 # title block, which is the only way to get title page -> TOC -> body order in
 # docx; with the title as a plain heading the TOC lands ahead of it.
+#
+# The subtitle rides along as pandoc's `subtitle`, which the docx writer renders
+# in the Subtitle style on the line below the title.
 def render_title_metadata
-  fm, = split_frontmatter(SRC + 'index.md')
-  "---\ntitle: \"#{fm['title']}\"\n---"
+  lines = ['---', %(title: "#{STUDY.title}")]
+  lines << %(subtitle: "#{STUDY.subtitle}") if STUDY.subtitle
+  lines << '---'
+  lines.join("\n")
 end
 
 def render_intro

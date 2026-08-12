@@ -13,10 +13,21 @@ weeks: 52
 week_page_breaks: false
 
 title_page:
-  # No artwork yet. The engraving used for the New Testament book shows Martha
-  # and Mary, which does not fit an Old Testament volume. build_docx.rb warns
-  # and builds a text-only title page while this is unset.
-  image:
+  # The site calls this study "A Year at His Feet — Old Testament". The book puts
+  # the common title on one line and the distinguishing part below it, so `title`
+  # is set explicitly here rather than inherited from index.md.
+  title: "A Year at His Feet"
+  subtitle: "Old Testament"
+
+  # Same engraving, and the same width as the New Testament volume, so the two
+  # books look like a set. See ntc1y.yml for why the crop is baked into the JPEG
+  # rather than applied at build time.
+  image: title-image.jpg
+  image_width: 5.75in
+  image_alt: >-
+    Eighteenth-century French engraving: Christ seated at left teaching, Mary of
+    Bethany seated on the floor at his feet looking up at him, Martha standing at
+    right gesturing toward her work, four disciples behind.
   byline: "by Dewayne VanHoozer"
 
 # --- prose fixes ---
