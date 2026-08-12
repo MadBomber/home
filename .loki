@@ -1,0 +1,17 @@
+# frozen_string_literal: true
+# lamplight.guide/.loki
+# tasks to support building and testing resources
+#
+# Asgard loads only this file; everything else is pulled in explicitly below.
+# Run `asgard help` for the task list, `asgard help book` for the book builds.
+
+require "fileutils"
+require "pathname"
+require "yaml"
+
+import "book.loki"
+
+class Tasks
+  header "lamplight.guide — Bridgetown site and printable study books"
+  footer "Run `asgard help <task>` for usage details"
+end

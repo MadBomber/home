@@ -1,0 +1,258 @@
+# frozen_string_literal: true
+# book.loki — build the printable study books (see scripts/book/).
+#
+# Each study under src/<slug>/ becomes a PDF via four stages:
+#
+#   reference  ->  build/<slug>/reference.docx   style template
+#   draft      ->  build/<slug>/draft.md         concatenated weekly overviews
+#   docx       ->  build/<slug>/<slug>.docx      pandoc, with a real Word TOC field
+#   pdf        ->  build/<slug>/<slug>.pdf       headless LibreOffice
+#
+# Usage:
+#   asgard book studies              # list what can be built
+#   asgard book build ntc1y          # run the whole pipeline for one study
+#   asgard book all                  # build every study
+#   asgard book pdf ntc1y            # re-export just the PDF
+#   asgard book status               # what is built, how big, how many pages
+#   asgard book doctor               # check the external tools are present
+#
+# The study sources under src/ are read-only; everything lands in build/,
+# which is gitignored.
+
+class BookCommands < Tasks
+  desc "studies", "List the studies that can be built"
+  def studies
+    rows = study_slugs.map do |slug|
+      cfg = study_config(slug)
+      [slug, cfg["sections"], cfg["weeks"], book_title(slug)]
+    end
+
+    puts ""
+    puts format("  %-8s %8s %6s  %s", "STUDY", "SECTIONS", "WEEKS", "TITLE")
+    puts "  #{'─' * 68}"
+    rows.each { |r| puts format("  %-8s %8s %6s  %s", *r) }
+    puts ""
+  end
+
+  desc "reference SLUG", "Rebuild the .docx style template (fonts, margins, header, footer)"
+  def reference(slug = nil)
+    stage "build_reference.rb", require_slug(slug)
+  end
+
+  desc "draft SLUG", "Concatenate the study's weekly overviews into draft.md"
+  def draft(slug = nil)
+    stage "build_draft.rb", require_slug(slug)
+  end
+
+  desc "docx SLUG", "Build the Word document from draft.md (needs pandoc)"
+  def docx(slug = nil)
+    stage "build_docx.rb", require_slug(slug)
+  end
+
+  desc "pdf SLUG", "Export the PDF from the Word document (needs LibreOffice)"
+  def pdf(slug = nil)
+    stage "build_pdf.rb", require_slug(slug)
+  end
+
+  desc "build SLUG", "Run the whole pipeline for one study"
+  option :reference,
+         aliases: "-r",
+         type:    :boolean,
+         default: false,
+         desc:    "Rebuild the style template even if it already exists"
+  def build(slug = nil)
+    slug = require_slug(slug)
+
+    # The style template rarely changes, so it is only built when missing --
+    # or when asked for explicitly after editing build_reference.rb.
+    if options[:reference] || !artifact(slug, "reference.docx").exist?
+      stage "build_reference.rb", slug
+    end
+
+    stage "build_draft.rb", slug
+    stage "build_docx.rb",  slug
+    stage "build_pdf.rb",   slug
+
+    puts ""
+    puts "  #{slug}: #{describe_pdf(slug)}"
+  end
+
+  desc "all", "Build every study"
+  option :reference,
+         aliases: "-r",
+         type:    :boolean,
+         default: false,
+         desc:    "Rebuild the style templates too"
+  def all
+    study_slugs.each do |slug|
+      puts "\n\e[1;33m── #{slug}\e[0m"
+      invoke :build, [slug], reference: options[:reference]
+    end
+  end
+
+  desc "status", "Show which artifacts exist for each study"
+  def status
+    puts ""
+    puts format("  %-8s %-14s %10s  %s", "STUDY", "ARTIFACT", "SIZE", "DETAIL")
+    puts "  #{'─' * 68}"
+
+    study_slugs.each do |slug|
+      %w[draft.md reference.docx].each { |n| puts artifact_row(slug, n) }
+      puts artifact_row(slug, "#{slug}.docx")
+      puts artifact_row(slug, "#{slug}.pdf", detail: describe_pdf(slug))
+    end
+    puts ""
+  end
+
+  desc "clean [SLUG]", "Delete generated artifacts (all studies when SLUG is omitted)"
+  def clean(slug = nil)
+    targets = slug ? [require_slug(slug)] : study_slugs
+    targets.each do |s|
+      dir = build_dir(s)
+      if dir.directory?
+        FileUtils.rm_rf dir
+        puts "  removed #{dir.relative_path_from(repo_root)}"
+      else
+        puts "  nothing to remove for #{s}"
+      end
+    end
+  end
+
+  desc "open SLUG", "Open the built PDF in the default viewer"
+  def open(slug = nil)
+    slug = require_slug(slug)
+    pdf  = artifact(slug, "#{slug}.pdf")
+    abort "no PDF yet -- run: asgard book build #{slug}" unless pdf.exist?
+
+    sh "open #{pdf}"
+  end
+
+  desc "doctor", "Check that the external tools the pipeline needs are installed"
+  def doctor
+    checks = {
+      "pandoc"      => "markdown -> .docx",
+      "officecli"   => "styles, header/footer, title image",
+      "soffice"     => "headless .docx -> .pdf",
+      "mutool"      => "optional: PDF page counts for `status`"
+    }
+
+    puts ""
+    missing = []
+    checks.each do |tool, why|
+      path = which(tool)
+      mark = path ? "\e[32mok\e[0m  " : "\e[31mMISSING\e[0m"
+      puts format("  %-11s %-8s %-38s %s", tool, mark, why, path || "")
+      missing << tool unless path
+    end
+    puts ""
+
+    unless missing.empty?
+      puts "  install with:"
+      puts "    brew install pandoc" if missing.include?("pandoc")
+      puts "    brew install --cask libreoffice" if missing.include?("soffice")
+      puts "    brew install mupdf-tools" if missing.include?("mutool")
+      puts "    curl -fsSL https://d.officecli.ai/install.sh | bash" if missing.include?("officecli")
+      puts ""
+    end
+  end
+
+  no_commands do
+    # The .loki lives at the repo root, so walking up from the working directory
+    # to find it locates the repo without asgard having to be run from there.
+    def repo_root
+      @repo_root ||= begin
+        dir = Pathname.new(Dir.pwd).expand_path
+        dir = dir.parent until (dir + ".loki").exist? || dir.root?
+        dir
+      end
+    end
+
+    def scripts_dir = repo_root + "scripts/book"
+    def build_dir(slug) = repo_root + "build/#{slug}"
+    def artifact(slug, name) = build_dir(slug) + name
+
+    def study_slugs
+      @study_slugs ||= Dir.glob(scripts_dir + "studies/*.yml")
+                          .map { |f| File.basename(f, ".yml") }.sort
+    end
+
+    def study_config(slug)
+      (@study_configs ||= {})[slug] ||=
+        YAML.safe_load(File.read(scripts_dir + "studies/#{slug}.yml")) || {}
+    end
+
+    # Book titles live in the study's own index.md frontmatter, not in the
+    # build config, so the two cannot drift apart.
+    def book_title(slug)
+      index = repo_root + "src/#{slug}/index.md"
+      return "(no index.md)" unless index.exist?
+
+      fm = index.read[/\A---\n(.*?)\n---\n/m, 1].to_s
+      (YAML.safe_load(fm) || {})["title"] || "(untitled)"
+    rescue StandardError
+      "(unreadable)"
+    end
+
+    def require_slug(slug)
+      if slug.nil? || slug.to_s.strip.empty?
+        abort "which study? one of: #{study_slugs.join(', ')}"
+      end
+      unless study_slugs.include?(slug)
+        abort "unknown study #{slug.inspect} -- available: #{study_slugs.join(', ')}"
+      end
+
+      slug
+    end
+
+    def stage(script, slug)
+      sh "ruby #{scripts_dir + script} #{slug}"
+    end
+
+    def which(tool)
+      path = `which #{tool} 2>/dev/null`.strip
+      return path unless path.empty?
+      # LibreOffice often is not on PATH even when installed.
+      app = "/Applications/LibreOffice.app/Contents/MacOS/soffice"
+      tool == "soffice" && File.executable?(app) ? app : nil
+    end
+
+    def artifact_row(slug, name, detail: nil)
+      path = artifact(slug, name)
+      if path.exist?
+        format("  %-8s %-14s %10s  %s", slug, name, human_size(path.size), detail || "")
+      else
+        format("  %-8s %-14s %10s  %s", slug, name, "-", "not built")
+      end
+    end
+
+    def describe_pdf(slug)
+      path = artifact(slug, "#{slug}.pdf")
+      return "not built" unless path.exist?
+      return human_size(path.size) unless which("mutool")
+
+      pages = `mutool info #{path} 2>/dev/null`[/^Pages:\s*(\d+)/, 1]
+      pages ? "#{pages} pages, #{human_size(path.size)}" : human_size(path.size)
+    end
+
+    def human_size(bytes)
+      units = %w[B KB MB GB]
+      value = bytes.to_f
+      unit  = 0
+      while value >= 1024 && unit < units.size - 1
+        value /= 1024
+        unit  += 1
+      end
+      unit.zero? ? "#{bytes} B" : format("%.1f %s", value, units[unit])
+    end
+  end
+end
+
+class Tasks
+  desc "book SUBCOMMAND", "Build the printable study books"
+  subcommand "book", BookCommands
+end
+
+# BookCommands inherits Tasks for the Asgard DSL, which also inherits the
+# top-level commands. Drop them so `asgard book help` lists only book tasks.
+# Done after the subcommand registration above, since that is what adds `book`.
+BookCommands.remove_command :book, :tree
