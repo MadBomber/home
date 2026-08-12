@@ -1,9 +1,13 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Builds reference.docx -- the style template pandoc uses for ntc1y.docx.
+# Builds a .docx style template for pandoc: one for the book, one for the
+# handout. They share fonts, sizes and heading styles, and differ only in what
+# binding demands -- the book mirrors its margins and ranges its header left,
+# the handout has equal side margins and centers its header.
 #
 # Usage:  ruby scripts/book/build_reference.rb ntc1y
+#         ruby scripts/book/build_reference.rb ntc1y handout
 #
 # Run this only when the book's look needs to change (fonts, sizes, header,
 # footer). build_docx.rb consumes the result. reference.docx is a binary, so
@@ -20,9 +24,15 @@ require 'pathname'
 require_relative 'study'
 
 STUDY = Study.from_argv
+
+# Optional second argument selects which style template to build.
+KIND = (ARGV[1] || 'book').downcase
+abort "unknown kind #{KIND.inspect} -- use 'book' or 'handout'" unless %w[book handout].include?(KIND)
+HANDOUT = KIND == 'handout'
+
 BUILD = STUDY.build_dir
-OUT   = STUDY.reference
-WORK  = BUILD + '.reference_build'
+OUT   = HANDOUT ? STUDY.handout_reference : STUDY.reference
+WORK  = BUILD + ".reference_build_#{KIND}"
 
 BODY_FONT = 'Palatino'   # serif, ships with macOS, reads well at 10pt
 MONO_FONT = 'Menlo'      # macOS default monospace
@@ -31,10 +41,18 @@ BODY_SIZE = '10pt'
 # Dark navy: reads as a link on screen, prints at 21% grey (near-black).
 LINK_COLOR = '1F3864'
 
-# Two-sided printing: the narrow margin sits at the binding on both sides.
+# The book is bound, so its margins mirror: the narrow one always falls at the
+# binding, on both sides of the leaf.
 MARGIN_INSIDE     = '0.75in'
 MARGIN_OUTSIDE    = '1in'
 MARGIN_TOP_BOTTOM = '1in'
+
+# The handout is five stapled pages, printed double-sided but not bound, so its
+# side margins are equal and the text block sits centered on every page. 0.875in
+# is the average of the book's two, which keeps the text block the same 6.75in
+# width -- the grid lays out exactly as before, it just stops shifting side to
+# side between odd and even pages.
+HANDOUT_MARGIN_SIDE = '0.875in'
 
 # Fonts baked into pandoc's stock reference.docx that macOS does not have.
 FONT_SUBSTITUTIONS = {
@@ -94,11 +112,23 @@ officecli 'open', OUT
 officecli 'set', OUT, '/', "--prop", "docDefaults.font=#{BODY_FONT}"
 officecli 'set', OUT, '/', "--prop", "docDefaults.fontSize=#{BODY_SIZE}"
 
-# 4. Running header (current section title) and page-number footer. STYLEREF
-#    tracks the nearest Heading 1, so each page shows the section it is in.
-officecli 'add', OUT, '/', '--type', 'header', '--prop', 'type=default', '--prop', 'align=left'
-officecli 'add', OUT, '/header[1]/p[1]', '--type', 'field',
-          '--prop', 'fieldType=styleref', '--prop', 'styleName=Heading 1'
+# 4. Running header and page-number footer.
+#
+#    The book gets a running header: STYLEREF tracks the nearest Heading 1, so
+#    every page names the section it is in -- worth having across 87 pages.
+#
+#    The handout names the study instead. A STYLEREF header there would track
+#    its Heading 1, the quarter ("Weeks 1-13"), and so repeat the heading
+#    directly beneath it; the title and subtitle say something the page does not.
+if HANDOUT
+  banner = [STUDY.title, STUDY.subtitle].compact.reject(&:empty?).join(' — ')
+  officecli 'add', OUT, '/', '--type', 'header', '--prop', 'type=default', '--prop', 'align=center'
+  officecli 'set', OUT, '/header[1]', '--prop', "text=#{banner}"
+else
+  officecli 'add', OUT, '/', '--type', 'header', '--prop', 'type=default', '--prop', 'align=left'
+  officecli 'add', OUT, '/header[1]/p[1]', '--type', 'field',
+            '--prop', 'fieldType=styleref', '--prop', 'styleName=Heading 1'
+end
 
 officecli 'add', OUT, '/', '--type', 'footer', '--prop', 'type=default', '--prop', 'align=center'
 officecli 'add', OUT, '/footer[1]/p[1]', '--type', 'field', '--prop', 'fieldType=page'
@@ -132,20 +162,50 @@ officecli 'set', OUT, '/styles/Normal', '--prop', 'widowControl=true'
 # prints at 21%, effectively black, while still reading as a link on screen.
 officecli 'set', OUT, '/styles/Hyperlink', '--prop', "color=#{LINK_COLOR}"
 
-# 6. Two-sided (facing page) printing. With mirrorMargins on, marginLeft is the
-#    INSIDE edge and marginRight the OUTSIDE edge, and they swap on even pages
-#    so the narrow margin always falls at the binding.
-officecli 'set', OUT, '/', '--prop', 'mirrorMargins=true'
-officecli 'set', OUT, '/section[1]',
-          '--prop', "marginLeft=#{MARGIN_INSIDE}",
-          '--prop', "marginRight=#{MARGIN_OUTSIDE}",
-          '--prop', "marginTop=#{MARGIN_TOP_BOTTOM}",
-          '--prop', "marginBottom=#{MARGIN_TOP_BOTTOM}"
+# 6. Page margins. Both documents print double-sided; only the bound one needs
+#    its margins to mirror. With mirrorMargins on, marginLeft is the INSIDE edge
+#    and marginRight the OUTSIDE, and they swap on even pages so the narrow
+#    margin always falls at the binding. The handout keeps mirroring off and
+#    sets both sides the same, so the text block does not shift between pages.
+if HANDOUT
+  officecli 'set', OUT, '/section[1]',
+            '--prop', "marginLeft=#{HANDOUT_MARGIN_SIDE}",
+            '--prop', "marginRight=#{HANDOUT_MARGIN_SIDE}",
+            '--prop', "marginTop=#{MARGIN_TOP_BOTTOM}",
+            '--prop', "marginBottom=#{MARGIN_TOP_BOTTOM}"
+
+  # Vertically center the page content. Word honours this; LibreOffice ignores
+  # it on import (verified: a one-line document in a centered section still
+  # renders at the top), so it does nothing for the PDFs this pipeline builds.
+  # It is set anyway so the .docx carries the intent for anyone opening it in
+  # Word. In the PDF the grid lands centered on its own account -- it is 549pt
+  # tall in a 648pt block, and measures within 2pt of centered.
+  #
+  # Horizontal centering is set on the tables themselves, in build_handout.rb:
+  # the grid is 396pt wide in a 486pt block, so it does not fill the width.
+  officecli 'set', OUT, '/section[1]', '--prop', 'vAlign=center'
+else
+  officecli 'set', OUT, '/', '--prop', 'mirrorMargins=true'
+  officecli 'set', OUT, '/section[1]',
+            '--prop', "marginLeft=#{MARGIN_INSIDE}",
+            '--prop', "marginRight=#{MARGIN_OUTSIDE}",
+            '--prop', "marginTop=#{MARGIN_TOP_BOTTOM}",
+            '--prop', "marginBottom=#{MARGIN_TOP_BOTTOM}"
+end
 
 officecli 'save', OUT
 officecli 'close', OUT
 
-puts "Wrote #{OUT} (#{OUT.size} bytes)"
+puts "Wrote #{OUT} (#{OUT.size} bytes)  [#{KIND}]"
 replaced.each { |font, n| puts "  font: #{font} -> #{FONT_SUBSTITUTIONS[font]} (#{n} occurrences)" }
 puts "  body: #{BODY_FONT} #{BODY_SIZE}"
-puts '  header: STYLEREF "Heading 1"   footer: PAGE'
+puts(if HANDOUT
+       "  header: #{banner} (center)   footer: PAGE (center)"
+     else
+       '  header: STYLEREF "Heading 1" (left)   footer: PAGE (center)'
+     end)
+puts(if HANDOUT
+       "  margins: #{HANDOUT_MARGIN_SIDE} both sides, not mirrored"
+     else
+       "  margins: #{MARGIN_INSIDE} inside / #{MARGIN_OUTSIDE} outside, mirrored"
+     end)

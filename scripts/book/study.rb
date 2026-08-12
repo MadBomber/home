@@ -57,9 +57,12 @@ class Study
 
   # The handout is a separate, much shorter document: an overview page followed
   # by a quarter-per-page grid of just the weekly references.
-  def handout_draft = build_dir + 'handout.md'
-  def handout_docx  = build_dir + "#{slug}-handout.docx"
-  def handout_pdf   = build_dir + "#{slug}-handout.pdf"
+  def handout_draft     = build_dir + 'handout.md'
+  def handout_docx      = build_dir + "#{slug}-handout.docx"
+  def handout_pdf       = build_dir + "#{slug}-handout.pdf"
+  # The handout has its own style template: equal side margins rather than the
+  # book's mirrored ones, and a centered header.
+  def handout_reference = build_dir + 'reference-handout.docx'
 
   # Tracked inputs sit beside the scripts, not in the generated build dir.
   def filter      = SCRIPTS + 'pagebreak.lua'

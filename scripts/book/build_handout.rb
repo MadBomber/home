@@ -150,15 +150,19 @@ end
 # Pandoc grid tables need every line padded to the column width. A trailing
 # backslash makes a hard line break; the last line of a cell must not have one,
 # and neither may the empty lines used to pad a short cell to the row height.
+# Appends the hard line breaks. Done before the column width is measured: the
+# trailing backslash counts toward the line's width, and measuring without it
+# made the single longest line in the document overflow its column by one
+# character, pushing that row's "|" out of line and breaking the grid.
+def add_line_breaks(lines)
+  lines.each_with_index.map { |line, i| i < lines.size - 1 ? "#{line}\\" : line }
+end
+
 def render_row(cells, width)
   height = cells.map(&:size).max
 
   padded = cells.map do |lines|
-    broken = lines.each_with_index.map do |line, i|
-      i < lines.size - 1 ? "#{line}\\" : line
-    end
-    (broken + [''] * (height - broken.size))
-      .map { |l| l + ' ' * [width + 1 - l.length, 1].max }
+    (lines + [''] * (height - lines.size)).map { |l| l.ljust(width + 1) }
   end
 
   (0...height).map { |i| "| #{padded.map { |c| c[i] }.join('| ')}|" }
@@ -171,11 +175,16 @@ end
 # Cells are built once (so link ids are issued once, in order), then measured:
 # the source columns must be wide enough for the longest line including its
 # "[label][id]" markup, which is wider than what the reader sees.
-def render_grid(weeks, links)
-  cells = weeks.map { |w| cell_lines(w, links) }
-  width = [cells.flatten.map(&:length).max, CELL_WIDTH].max
-
-  rows = cells.each_slice(COLUMNS).map { |slice| render_row(slice, width) }
+# One width for every quarter, measured across the whole study, so all four
+# grids are the same size on the page instead of each sizing to its own longest
+# reference.
+def render_grid(cells, width)
+  rows = cells.each_slice(COLUMNS).map do |slice|
+    # 13 weeks in 3 columns leaves a partial last row. Every row still needs its
+    # full complement of cells, or the row has fewer "|" than the rule has "+"
+    # and pandoc has to guess at the missing ones.
+    render_row(slice + Array.new(COLUMNS - slice.size) { [] }, width)
+  end
   ([rule(width)] + rows.flat_map { |r| r + [rule(width)] }).join("\n")
 end
 
@@ -196,7 +205,9 @@ end
 
 abort "Study sources not found at #{STUDY.source_dir}" unless STUDY.source_dir.directory?
 abort 'pandoc not found (brew install pandoc)' if `which pandoc`.empty?
-abort "reference.docx not found -- run build_reference.rb #{STUDY.slug}" unless STUDY.reference.exist?
+unless STUDY.handout_reference.exist?
+  abort "reference-handout.docx not found -- run: build_reference.rb #{STUDY.slug} handout"
+end
 
 STUDY.prepare_build_dir
 
@@ -217,17 +228,48 @@ metadata << %(subtitle: "Reading Plan") unless STUDY.subtitle
 metadata << '---'
 
 links = LinkTable.new(LINK_REFERENCES)
+
+# Build every cell first, in week order, so link ids are issued in order and one
+# column width can be measured across the whole study.
+cells = weeks.map { |w| add_line_breaks(cell_lines(w, links)) }
+width = [cells.flatten.map(&:length).max, CELL_WIDTH].max
+
 parts = [render_overview]
 
-weeks.each_slice(WEEKS_PER_PAGE) do |page_weeks|
+weeks.each_slice(WEEKS_PER_PAGE).with_index do |page_weeks, page|
   heading = "# Weeks #{page_weeks.first[:number]}–#{page_weeks.last[:number]}"
-  parts << "#{heading}\n\n#{render_grid(page_weeks, links)}"
+  page_cells = cells[page * WEEKS_PER_PAGE, page_weeks.size]
+  parts << "#{heading}\n\n#{render_grid(page_cells, width)}"
 end
 
 # Reference-link definitions go after the tables, out of the cells.
 parts << links.definitions.join("\n") if links.any?
 
 md = "#{metadata.join("\n")}\n\n#{parts.join("\n\n")}\n"
+
+# Every line of a grid table must be exactly as wide as its rule, or pandoc
+# misreads the row and the cells come out scrambled. That is a silent failure --
+# the document still builds and only looks wrong in print -- so it is checked
+# here. Scoped to the grid blocks: the overview page holds an ordinary pipe
+# table whose rows are ragged by design.
+expected = rule(width).length
+seen_rule = false
+bad = []
+
+md.lines.map(&:chomp).each do |line|
+  seen_rule = true if line.start_with?('+--')
+  # The overview's pipe table precedes every grid, so anything before the first
+  # rule is not ours to police.
+  next unless seen_rule && line.start_with?('+--', '|')
+
+  bad << line unless line.length == expected
+end
+
+unless bad.empty?
+  abort "malformed grid: #{bad.size} line(s) are not #{expected} characters wide\n" +
+        bad.first(3).map { |l| "  #{l.length}: #{l[0, 110]}" }.join("\n")
+end
+
 STUDY.handout_draft.write md
 
 # Telling pandoc how wide the widest grid is makes it lay the table out at the
@@ -237,7 +279,7 @@ table_width = md.lines.filter_map { |l| l.strip.length if l.start_with?('+--') }
 cmd = ['pandoc', STUDY.handout_draft.to_s,
        '-o', STUDY.handout_docx.to_s,
        "--columns=#{table_width}",
-       "--reference-doc=#{STUDY.reference}"]
+       "--reference-doc=#{STUDY.handout_reference}"]
 
 output, status = Open3.capture2e(*cmd)
 abort "pandoc failed:\n#{output}" unless status.success?
@@ -259,7 +301,8 @@ if tables.any?
   tables.each do |path|
     officecli 'set', STUDY.handout_docx, path,
               '--prop', "border.all=#{CELL_BORDER}",
-              '--prop', "padding=#{CELL_PADDING}"
+              '--prop', "padding=#{CELL_PADDING}",
+              '--prop', 'align=center'
   end
   officecli 'save', STUDY.handout_docx
   officecli 'close', STUDY.handout_docx

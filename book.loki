@@ -65,7 +65,9 @@ class BookCommands < Tasks
   desc "handout SLUG", "Build the 5-page handout: overview plus a quarter-per-page reference calendar"
   def handout(slug = nil)
     slug = require_slug(slug)
-    stage "build_reference.rb", slug unless artifact(slug, "reference.docx").exist?
+    # The handout has its own style template: equal side margins instead of the
+    # book's mirrored ones, and a centered header.
+    stage "build_reference.rb", slug, "handout" unless artifact(slug, "reference-handout.docx").exist?
     stage "build_handout.rb", slug
     stage "build_pdf.rb", slug, "handout"
 
@@ -109,6 +111,7 @@ class BookCommands < Tasks
       %w[draft.md reference.docx].each { |n| puts artifact_row(slug, n) }
       puts artifact_row(slug, "#{slug}.docx")
       puts artifact_row(slug, "#{slug}.pdf", detail: describe_pdf(slug))
+      puts artifact_row(slug, "reference-handout.docx")
       puts artifact_row(slug, "#{slug}-handout.docx")
       puts artifact_row(slug, "#{slug}-handout.pdf", detail: describe_pdf(slug, handout: true))
     end
