@@ -13,12 +13,12 @@ A 52-week chronological journey through all 260 chapters of the New Testament. B
 
 | Section | Weeks | Theme |
 |---------|-------|-------|
-| [The Coming of Christ](<%= relative_url '/ntc1y/section-01/' %>) | 1–4 | Incarnation, birth narratives, John's prologue |
-| [Galilean Ministry](<%= relative_url '/ntc1y/section-02/' %>) | 5–11 | Sermon on the Mount, parables, miracles |
-| [Road to Jerusalem](<%= relative_url '/ntc1y/section-03/' %>) | 12–16 | Conflict, compassion, Olivet Discourse |
-| [Passion and Resurrection](<%= relative_url '/ntc1y/section-04/' %>) | 17–20 | Upper Room, trial, cross, resurrection |
-| [The Early Church](<%= relative_url '/ntc1y/section-05/' %>) | 21–41 | Acts, Paul's letters, missionary journeys |
-| [Letters and Revelation](<%= relative_url '/ntc1y/section-06/' %>) | 42–52 | General epistles, Hebrews, Revelation |
+| [1. The Coming of Christ](<%= relative_url '/ntc1y/section-01/' %>) | 1–4 | Incarnation, birth narratives, John's prologue |
+| [2. Galilean Ministry](<%= relative_url '/ntc1y/section-02/' %>) | 5–11 | Sermon on the Mount, parables, miracles |
+| [3. Road to Jerusalem](<%= relative_url '/ntc1y/section-03/' %>) | 12–16 | Conflict, compassion, Olivet Discourse |
+| [4. Passion and Resurrection](<%= relative_url '/ntc1y/section-04/' %>) | 17–20 | Upper Room, trial, cross, resurrection |
+| [5. The Early Church](<%= relative_url '/ntc1y/section-05/' %>) | 21–41 | Acts, Paul's letters, missionary journeys |
+| [6. Letters and Revelation](<%= relative_url '/ntc1y/section-06/' %>) | 42–52 | General epistles, Hebrews, Revelation |
 
 ### How to Use This Study
 

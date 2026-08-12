@@ -1,6 +1,6 @@
 ---
 section_number: 6
-title: "Letters & Revelation"
+title: "Letters and Revelation"
 weeks: "42–52"
 layout: page
 section: Letters and Revelation

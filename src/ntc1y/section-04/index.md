@@ -1,6 +1,6 @@
 ---
 section_number: 4
-title: "Passion & Resurrection"
+title: "Passion and Resurrection"
 weeks: "17–20"
 layout: page
 section: Passion and Resurrection
