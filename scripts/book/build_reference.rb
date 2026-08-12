@@ -38,6 +38,11 @@ BODY_FONT = 'Palatino'   # serif, ships with macOS, reads well at 10pt
 MONO_FONT = 'Menlo'      # macOS default monospace
 BODY_SIZE = '10pt'
 
+# The handout sets larger. Its grid is what constrains this: at 12pt a quarter
+# only fits a page once the memory verses move off the cards onto their own
+# page, which is why the two settings travel together.
+HANDOUT_BODY_SIZE = '12pt'
+
 # Dark navy: reads as a link on screen, prints at 21% grey (near-black).
 LINK_COLOR = '1F3864'
 
@@ -47,12 +52,14 @@ MARGIN_INSIDE     = '0.75in'
 MARGIN_OUTSIDE    = '1in'
 MARGIN_TOP_BOTTOM = '1in'
 
-# The handout is five stapled pages, printed double-sided but not bound, so its
-# side margins are equal and the text block sits centered on every page. 0.875in
-# is the average of the book's two, which keeps the text block the same 6.75in
-# width -- the grid lays out exactly as before, it just stops shifting side to
-# side between odd and even pages.
-HANDOUT_MARGIN_SIDE = '0.875in'
+# The handout is stapled, not bound, so its side margins are equal and the text
+# block sits centered on every page rather than shifting between odd and even.
+#
+# 0.75in on all four sides. The top and bottom are what matter: the constraint
+# on this document is vertical, and dropping them from 1in buys the 36pt that
+# lets the grid set at 12pt while a quarter still fits its page.
+HANDOUT_MARGIN_SIDE = '0.75in'
+HANDOUT_MARGIN_TOP_BOTTOM = '0.75in'
 
 # Fonts baked into pandoc's stock reference.docx that macOS does not have.
 FONT_SUBSTITUTIONS = {
@@ -110,7 +117,8 @@ FileUtils.rm_rf WORK
 # 3. Body font and size, applied as document defaults.
 officecli 'open', OUT
 officecli 'set', OUT, '/', "--prop", "docDefaults.font=#{BODY_FONT}"
-officecli 'set', OUT, '/', "--prop", "docDefaults.fontSize=#{BODY_SIZE}"
+body_size = HANDOUT ? HANDOUT_BODY_SIZE : BODY_SIZE
+officecli 'set', OUT, '/', '--prop', "docDefaults.fontSize=#{body_size}"
 
 # 4. Running header and page-number footer.
 #
@@ -171,8 +179,8 @@ if HANDOUT
   officecli 'set', OUT, '/section[1]',
             '--prop', "marginLeft=#{HANDOUT_MARGIN_SIDE}",
             '--prop', "marginRight=#{HANDOUT_MARGIN_SIDE}",
-            '--prop', "marginTop=#{MARGIN_TOP_BOTTOM}",
-            '--prop', "marginBottom=#{MARGIN_TOP_BOTTOM}"
+            '--prop', "marginTop=#{HANDOUT_MARGIN_TOP_BOTTOM}",
+            '--prop', "marginBottom=#{HANDOUT_MARGIN_TOP_BOTTOM}"
 
   # Vertically center the page content. Word honours this; LibreOffice ignores
   # it on import (verified: a one-line document in a centered section still
@@ -198,14 +206,14 @@ officecli 'close', OUT
 
 puts "Wrote #{OUT} (#{OUT.size} bytes)  [#{KIND}]"
 replaced.each { |font, n| puts "  font: #{font} -> #{FONT_SUBSTITUTIONS[font]} (#{n} occurrences)" }
-puts "  body: #{BODY_FONT} #{BODY_SIZE}"
+puts "  body: #{BODY_FONT} #{body_size}"
 puts(if HANDOUT
        "  header: #{banner} (center)   footer: PAGE (center)"
      else
        '  header: STYLEREF "Heading 1" (left)   footer: PAGE (center)'
      end)
 puts(if HANDOUT
-       "  margins: #{HANDOUT_MARGIN_SIDE} both sides, not mirrored"
+       "  margins: #{HANDOUT_MARGIN_SIDE} sides / #{HANDOUT_MARGIN_TOP_BOTTOM} top-bottom, not mirrored"
      else
        "  margins: #{MARGIN_INSIDE} inside / #{MARGIN_OUTSIDE} outside, mirrored"
      end)

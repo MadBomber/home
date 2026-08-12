@@ -68,7 +68,9 @@ def week_data(week_dir)
     number: fm['week'],
     title: fm['title'].to_s,
     section: fm['section'].to_s,
-    memory: BibleAbbrev.apply(fm['memory_verse'].to_s),
+    # Like the readings: the short form is shown, the full one builds the link.
+    memory: { label: BibleAbbrev.apply(fm['memory_verse'].to_s),
+              full: fm['memory_verse'].to_s },
     # Keep the full reference alongside the abbreviation: the link text is the
     # short form, but the URL is built from the full one so ESV.org never has to
     # understand an abbreviation.
@@ -112,8 +114,44 @@ def cell_lines(week, links)
     # Only the reference is linked; the day number stays plain text.
     lines << "#{i + 1}#{DAY_GAP}#{links.reference(reading[:label], reading[:full])}"
   end
-  lines << "*Memory: #{week[:memory]}*" unless week[:memory].empty?
+  # The memory verses are collected onto a page of their own. Carrying them in
+  # the cards cost a line each, and at 12pt that line is the difference between
+  # a quarter fitting its page and spilling onto a second.
   lines
+end
+
+# All the memory verses on one page: column-pairs of week number and reference,
+# filled down each column so a reader scans 1..26 then 27..52.
+#
+# Two pairs, not three. Three fitted the shorter Old Testament references but
+# not the New Testament ones -- "Matt 28:18-20" wrapped in a sixth-of-the-width
+# column, doubling those rows and pushing the page in two.
+MEMORY_COLUMNS = 2
+
+# Proportional widths: the week number needs a couple of characters, the
+# reference wants the rest.
+MEMORY_WEEK_DASHES = 4
+MEMORY_VERSE_DASHES = 46
+
+def render_memory_page(weeks, links)
+  rows = (weeks.size / MEMORY_COLUMNS.to_f).ceil
+  columns = weeks.each_slice(rows).to_a
+
+  header = (['Wk', 'Memory Verse'] * MEMORY_COLUMNS).join(' | ')
+  rule = ([('-' * MEMORY_WEEK_DASHES) + ':', ':' + ('-' * MEMORY_VERSE_DASHES)] * MEMORY_COLUMNS)
+         .join(' | ')
+
+  body = (0...rows).map do |i|
+    cells = columns.map do |column|
+      week = column[i]
+      next ['', ''] unless week
+
+      [week[:number].to_s, links.reference(week[:memory][:label], week[:memory][:full])]
+    end
+    "| #{cells.flatten.join(' | ')} |"
+  end
+
+  ["| #{header} |", "| #{rule} |", *body].join("\n")
 end
 
 # Collects reference-style Markdown links: the table cell holds a short
@@ -242,6 +280,8 @@ weeks.each_slice(WEEKS_PER_PAGE).with_index do |page_weeks, page|
   parts << "#{heading}\n\n#{render_grid(page_cells, width)}"
 end
 
+parts << "# Memory Verses\n\n#{render_memory_page(weeks, links)}"
+
 # Reference-link definitions go after the tables, out of the cells.
 parts << links.definitions.join("\n") if links.any?
 
@@ -253,14 +293,16 @@ md = "#{metadata.join("\n")}\n\n#{parts.join("\n\n")}\n"
 # here. Scoped to the grid blocks: the overview page holds an ordinary pipe
 # table whose rows are ragged by design.
 expected = rule(width).length
-seen_rule = false
+inside_grid = false
 bad = []
 
 md.lines.map(&:chomp).each do |line|
-  seen_rule = true if line.start_with?('+--')
-  # The overview's pipe table precedes every grid, so anything before the first
-  # rule is not ours to police.
-  next unless seen_rule && line.start_with?('+--', '|')
+  # A grid runs from its first rule until the blank line that closes it. The
+  # overview and the memory-verse page use ordinary pipe tables, whose rows are
+  # ragged by design, so only the grids are policed.
+  inside_grid = true if line.start_with?('+--')
+  inside_grid = false if line.strip.empty?
+  next unless inside_grid && line.start_with?('+--', '|')
 
   bad << line unless line.length == expected
 end
@@ -296,9 +338,16 @@ end
 tables = officecli('query', STUDY.handout_docx, 'table')
          .lines.filter_map { |l| l[%r{^(/body/tbl\[\d+\])}, 1] }
 
-if tables.any?
+# Tables in document order: the overview's "What You Will Study", then one grid
+# per quarter, then the memory verses. Only the grids are cards -- ruling and
+# padding the others cost 4pt a side on every row, which alone pushed the
+# 26-row memory table onto a second page.
+grid_count = (weeks.size / WEEKS_PER_PAGE.to_f).ceil
+grids = tables[1, grid_count] || []
+
+if grids.any?
   officecli 'open', STUDY.handout_docx
-  tables.each do |path|
+  grids.each do |path|
     officecli 'set', STUDY.handout_docx, path,
               '--prop', "border.all=#{CELL_BORDER}",
               '--prop', "padding=#{CELL_PADDING}",
