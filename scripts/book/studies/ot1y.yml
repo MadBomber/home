@@ -1,0 +1,47 @@
+# Book configuration for the Old Testament covenant study.
+#
+# Used by scripts/book/*.rb:  ruby scripts/book/build_draft.rb ot1y
+# The book title comes from src/<slug>/index.md frontmatter, not from here.
+
+slug: ot1y
+
+# Eight covenants rather than six sections, and the weeks are distributed very
+# unevenly across them (2, 2, 4, 8, 14, 14, 5, 3).
+sections: 8
+weeks: 52
+
+week_page_breaks: false
+
+title_page:
+  # No artwork yet. The engraving used for the New Testament book shows Martha
+  # and Mary, which does not fit an Old Testament volume. build_docx.rb warns
+  # and builds a text-only title page while this is unset.
+  image:
+  byline: "by Dewayne VanHoozer"
+
+# --- prose fixes ---
+
+# This study's prose already uses real em dashes; no spaced double hyphens exist
+# (verified: 0 occurrences). Harmless to leave on, but off is honest.
+fix_em_dashes: false
+
+# No "Phase N" labels in this study (verified: 0 occurrences).
+fix_phase_labels: false
+
+# Week headings are already consistent across all 52 weeks
+# (Overview / This Week's Readings / Key Themes / Christ in This Week).
+heading_aliases: {}
+
+section_page:
+  # full -- these section pages are substantial: a body H1, an Overview, then
+  # The Foundation, Key Old Testament Passages, Fulfilled in Christ, In Your
+  # Study, Looking Ahead, The Personal Dimension. All of it is reader content
+  # and is kept, demoted so it sits below the week headings.
+  mode: full
+  weeks_table: "Weeks in This Covenant"
+
+  # Authoring notes, not reader content: a bullet list of topics still to be
+  # developed ("deeper exploration of...", "tracing appearances of..."), present
+  # in all 8 section pages. Dropped from the book.
+  drop_headings:
+    - "Content Expansion"

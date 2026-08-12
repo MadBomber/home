@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE script:module PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "module.dtd">
+<script:module xmlns:script="http://openoffice.org/2000/script" script:name="BookExport" script:language="StarBasic">REM  *****  BASIC  *****
+REM
+REM  Added for the lamplight.guide book builds (scripts/book).
+REM  Opens a Writer document, refreshes its fields and indexes (so the table
+REM  of contents gets real page numbers), and exports it to PDF.
+REM
+REM  Called headlessly by scripts/book/build_pdf.rb:
+REM    soffice --headless --norestore \
+REM      "macro:///Standard.BookExport.UpdateAndExportPdf(/in.docx,/out.pdf)"
+REM
+REM  To remove: delete this file and its &lt;library:element&gt; line in script.xlb.
+
+Sub UpdateAndExportPdf(sInPath As String, sOutPath As String)
+    Dim oDoc As Object
+    Dim oLoadArgs(0) As New com.sun.star.beans.PropertyValue
+    Dim oSaveArgs(0) As New com.sun.star.beans.PropertyValue
+    Dim oIndexes As Object
+    Dim i As Integer
+
+    oLoadArgs(0).Name = "Hidden"
+    oLoadArgs(0).Value = True
+
+    oDoc = StarDesktop.loadComponentFromURL( _
+        ConvertToURL(sInPath), "_blank", 0, oLoadArgs())
+
+    REM Text fields first (PAGE, NUMPAGES, STYLEREF), then the indexes that
+    REM depend on final pagination (the table of contents).
+    On Error Resume Next
+    oDoc.getTextFields().refresh()
+    On Error Goto 0
+
+    oIndexes = oDoc.getDocumentIndexes()
+    For i = 0 To oIndexes.getCount() - 1
+        oIndexes.getByIndex(i).update()
+    Next i
+
+    REM Reflow, then update indexes once more: inserting the populated TOC
+    REM shifts pagination, which changes the very page numbers it lists.
+    oDoc.refresh()
+    For i = 0 To oIndexes.getCount() - 1
+        oIndexes.getByIndex(i).update()
+    Next i
+
+    oSaveArgs(0).Name = "FilterName"
+    oSaveArgs(0).Value = "writer_pdf_Export"
+    oDoc.storeToURL(ConvertToURL(sOutPath), oSaveArgs())
+
+    oDoc.close(False)
+End Sub
+</script:module>

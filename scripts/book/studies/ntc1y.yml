@@ -1,0 +1,51 @@
+# Book configuration for the New Testament chronological study.
+#
+# Used by scripts/book/*.rb:  ruby scripts/book/build_draft.rb ntc1y
+# The book title comes from src/<slug>/index.md frontmatter, not from here.
+
+slug: ntc1y
+
+# Expected counts. The build aborts if the sources do not match, which catches a
+# half-finished week or a section added without its config.
+sections: 6
+weeks: 52
+
+# Start every week on a fresh page? Measured cost when true: ~26 extra pages
+# out of 115, because the page before each break is usually half empty.
+week_page_breaks: false
+
+title_page:
+  image: title-image-ntc1y.jpg
+  # The plate carries an engraved Latin caption quoting Luke 10:39 -- the verse
+  # behind the book title. Cropped off for the title page; cropping here rather
+  # than editing the JPEG keeps the download pristine and the amount obvious.
+  image_crop_bottom: 15
+  # 5in is the largest width that still leaves the byline on page 1; at 5.5in the
+  # byline pushed onto page 2.
+  image_width: 5in
+  image_alt: >-
+    Eighteenth-century French engraving: Christ seated at left teaching, Mary of
+    Bethany seated on the floor at his feet looking up at him, Martha standing at
+    right gesturing toward her work, four disciples behind.
+  byline: "by Dewayne VanHoozer"
+
+# --- prose fixes, all specific to how this study's text was authored ---
+
+# This study writes em dashes as a spaced double hyphen (997 occurrences).
+fix_em_dashes: true
+
+# This study's prose calls sections "Phase N" in 3 places (leftover naming).
+fix_phase_labels: true
+
+# Inconsistent H2 wording across weeks; normalize to the majority variant.
+heading_aliases:
+  "## Big Picture": "## The Big Picture"
+  "## Key Characters This Week": "## Key Characters"
+  "## Daily Readings": "## This Week's Readings"
+  "## Readings": "## This Week's Readings"
+
+section_page:
+  # overview_only -- the section index is essentially one essay under an
+  # "## Overview" heading; keep that prose and drop the rest.
+  mode: overview_only
+  weeks_table: "Weeks in This Section"

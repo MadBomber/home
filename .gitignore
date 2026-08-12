@@ -31,3 +31,6 @@ yarn-debug.log*
 # Ignore all tempfiles.
 /tmp/*
 !/tmp/.keep
+
+# Generated book artifacts (scripts/book rebuilds these)
+build
