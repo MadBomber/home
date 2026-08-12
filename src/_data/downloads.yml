@@ -1,0 +1,67 @@
+# Registry for the global Downloads page (/downloads/).
+#
+# The files themselves live in src/downloads/ and are copied straight through to
+# output/downloads/ as static assets. Each item's `file:` is therefore a bare
+# filename, never a path.
+#
+# Adding a download is two steps:
+#   1. Drop the file into src/downloads/
+#   2. Add an item below, with the filename in `file:`
+#
+# Format and file size are read off the file on disk at build time, so they are
+# never recorded here and cannot go stale. A `file:` naming something that is not
+# in src/downloads/ logs a build warning and is skipped in production, so a
+# broken download link never ships.
+#
+# Top level is a list of groups, rendered in the order written:
+#
+#   title       — group heading. Omit it for an ungrouped list of files.
+#   description — optional sentence under the heading
+#   items       — the files in the group
+#
+# Each item:
+#
+#   title       — display name for the file (required)
+#   file        — filename within src/downloads/ (required)
+#   description — optional sentence under the name
+#
+# Example, ready to uncomment once the files are in place:
+#
+# - title: "Study Books"
+#   description: >-
+#     The complete study in one printable volume, plus a short reference handout.
+#   items:
+#     - title: "New Testament Chronological Journey"
+#       file: "ntc1y.pdf"
+#       description: >-
+#         All 52 weeks in one volume, formatted for letter paper.
+#     - title: "New Testament Reading Calendar"
+#       file: "ntc1y-handout.pdf"
+#       description: >-
+#         Five pages: the weekly readings as a calendar, a quarter to a page.
+#
+# - title: "Worksheets"
+#   items:
+#     - title: "H.E.A.R. Journal Page"
+#       file: "hear-journal-page.pdf"
+#       description: >-
+#         A blank journal page to print and fill in by hand.
+
+- title: Study Books
+  description: Each study as one printable volume, plus a short reference handout
+    you can keep in your Bible.
+  items:
+  - title: New Testament Chronological Journey
+    description: All 52 weeks in one volume, formatted for letter paper.
+    file: ntc1y.pdf
+  - title: New Testament Chronological Journey (Reading Calendar)
+    description: 'Five pages: an overview, plus every week''s readings as a calendar,
+      a quarter to a page.'
+    file: ntc1y-handout.pdf
+  - title: 'Jesus: From Genesis to Revelation'
+    description: All 52 weeks in one volume, formatted for letter paper.
+    file: ot1y.pdf
+  - title: 'Jesus: From Genesis to Revelation (Reading Calendar)'
+    description: 'Five pages: an overview, plus every week''s readings as a calendar,
+      a quarter to a page.'
+    file: ot1y-handout.pdf

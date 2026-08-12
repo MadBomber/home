@@ -1,0 +1,141 @@
+---
+title: Downloads
+layout: default
+permalink: /downloads/
+description: Files from LampLight.Guide you can save to your own device.
+---
+
+<%
+  # Global downloads page.
+  #
+  # The registry is src/_data/downloads.yml; the files are static assets under
+  # src/downloads/, which Bridgetown copies to output/downloads/ untouched. See
+  # the comments at the top of downloads.yml for the shape of an entry.
+  #
+  # Format and size come off the file on disk at build time rather than out of
+  # YAML, so neither can drift away from the file it describes.
+
+  _in_dev = Bridgetown.environment.to_s != "production"
+
+  # Extension to badge label. Anything unlisted falls back to the bare extension,
+  # upcased, which is right often enough not to need a rule of its own.
+  _formats = {
+    "pdf"  => "PDF",   "docx" => "DOCX", "doc"  => "DOC",
+    "epub" => "EPUB",  "mobi" => "MOBI", "zip"  => "ZIP",
+    "csv"  => "CSV",   "txt"  => "TXT",  "md"   => "MD",
+    "mp3"  => "MP3",   "m4a"  => "M4A",  "jpg"  => "JPG",
+    "jpeg" => "JPG",   "png"  => "PNG",  "svg"  => "SVG",
+  }
+
+  _human_size = ->(bytes) {
+    return nil if bytes.nil?
+    return "#{bytes} B" if bytes < 1024
+
+    size = bytes.to_f
+    %w[KB MB GB].each do |unit|
+      size /= 1024
+      return format(size < 10 ? "%.1f %s" : "%.0f %s", size, unit) if size < 1024
+    end
+    format("%.0f TB", size / 1024)
+  }
+
+  _groups = Array(site.data.downloads).map { |group|
+    items = Array(group["items"]).filter_map { |item|
+      filename = item["file"].to_s.strip
+      next if filename.empty?
+
+      path   = site.in_source_dir("downloads", filename)
+      exists = File.file?(path)
+
+      unless exists
+        Bridgetown.logger.warn "Downloads:",
+          "#{filename} is listed in downloads.yml but is not in src/downloads/"
+        next unless _in_dev
+      end
+
+      extension = File.extname(filename).delete_prefix(".").downcase
+
+      {
+        "title"       => item["title"].to_s.empty? ? filename : item["title"],
+        "description" => item["description"],
+        "format"      => _formats[extension] || extension.upcase,
+        "size"        => exists ? _human_size.(File.size(path)) : nil,
+        "href"        => relative_url("/downloads/#{filename}"),
+        "exists"      => exists,
+      }
+    }
+
+    group.merge("items" => items)
+  }.reject { |group| group["items"].empty? }
+
+  _download_icon = <<~SVG
+    <svg class="download-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+         stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M12 3v12" />
+      <polyline points="7 11 12 16 17 11" />
+      <path d="M4 20h16" />
+    </svg>
+  SVG
+%>
+
+<article id="downloads-page">
+  <h1>Downloads</h1>
+  <p class="downloads-intro">
+    Everything here is yours to keep. Choose a file and it saves to your device,
+    where you can read it, print it, or carry it with you offline.
+  </p>
+
+  <% if _groups.empty? %>
+    <p class="downloads-empty">No files are available for download yet. Please check back.</p>
+  <% end %>
+
+  <% _groups.each do |group| %>
+    <section class="download-group">
+      <% if group["title"] %>
+        <h2><%= group["title"] %></h2>
+      <% end %>
+      <% if group["description"] %>
+        <p class="download-group-desc"><%= group["description"] %></p>
+      <% end %>
+
+      <ul class="download-list">
+        <% group["items"].each do |item| %>
+          <li>
+            <% if item["exists"] %>
+              <a class="download-card" href="<%= item["href"] %>" download>
+            <% else %>
+              <div class="download-card download-card-missing">
+            <% end %>
+
+              <span class="download-format"><%= item["format"] %></span>
+
+              <span class="download-body">
+                <span class="download-title"><%= item["title"] %></span>
+                <% if item["description"] %>
+                  <span class="download-desc"><%= item["description"] %></span>
+                <% end %>
+                <% unless item["exists"] %>
+                  <span class="download-desc download-warning">
+                    Missing from src/downloads/ (this notice appears in development only)
+                  </span>
+                <% end %>
+              </span>
+
+              <span class="download-meta">
+                <% if item["size"] %>
+                  <span class="download-size"><%= item["size"] %></span>
+                <% end %>
+                <%== _download_icon if item["exists"] %>
+              </span>
+
+            <% if item["exists"] %>
+              </a>
+            <% else %>
+              </div>
+            <% end %>
+          </li>
+        <% end %>
+      </ul>
+    </section>
+  <% end %>
+</article>

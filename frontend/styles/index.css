@@ -2285,26 +2285,51 @@ tr:hover td {
 
 /* --- Page Toolbar (in site header) --- */
 
+/* The two groups wrap rather than overflow. On a wide screen there is free
+   space, so `flex-wrap` never engages and the row looks exactly as it always
+   has. As the screen narrows the right group drops to its own line first, and
+   only if a single group still cannot fit does that group wrap internally. */
 .page-toolbar {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 0.15rem;
   background: var(--purple-deep);
   padding: 0.25rem 1rem;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+/* `flex: 1 1 auto` rather than `flex: 1` (basis 0): with free space the computed
+   width is identical, but a content-sized basis makes the group-level wrap above
+   happen before this group collapses toward its narrowest column. */
 .toolbar-center {
-  flex: 1;
+  flex: 1 1 auto;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   gap: 0.25rem;
+  min-width: 0;
 }
 
 .toolbar-right {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
   gap: 0.25rem;
+  min-width: 0;
+}
+
+@media (max-width: 600px) {
+  .page-toolbar {
+    padding: 0.25rem 0.5rem;
+  }
+
+  .toolbar-icon {
+    padding: 0.35rem 0.5rem;
+  }
 }
 
 .toolbar-icon {
@@ -3208,6 +3233,148 @@ button.toolbar-icon {
 
 .dmv-icon-btn.speaking {
   color: var(--gold);
+}
+
+/* --- Downloads --- */
+
+/* Every color here resolves through a custom property, so the dark and auto
+   themes follow along without a rule of their own. */
+
+.downloads-intro {
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+}
+
+.downloads-empty {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.download-group {
+  margin-bottom: 2.5rem;
+}
+
+.download-group h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.4rem;
+}
+
+.download-group-desc {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin: 0 0 1rem;
+}
+
+.download-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.download-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  background: var(--bg-surface-alt);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--text-primary);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.download-card:hover {
+  border-color: var(--purple-light);
+  box-shadow: var(--shadow-md);
+  color: var(--text-primary);
+}
+
+.download-format {
+  flex: 0 0 auto;
+  min-width: 3.4rem;
+  padding: 0.3rem 0.5rem;
+  border: 1px solid var(--gold);
+  border-radius: var(--radius);
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-align: center;
+  color: var(--gold);
+}
+
+.download-body {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-width: 0;
+}
+
+.download-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--purple-deep);
+}
+
+.download-desc {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+.download-meta {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: var(--text-muted);
+}
+
+.download-size {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+.download-arrow {
+  width: 20px;
+  height: 20px;
+  color: var(--purple-light);
+}
+
+.download-card:hover .download-arrow {
+  color: var(--gold);
+}
+
+/* Development-only state for a registry entry whose file is not on disk. */
+.download-card-missing {
+  border-style: dashed;
+  opacity: 0.75;
+}
+
+.download-warning {
+  color: var(--gold);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+}
+
+@media (max-width: 550px) {
+  .download-card {
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.9rem 1rem;
+  }
+
+  .download-meta {
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.3rem;
+  }
 }
 
 /* --- Print --- */

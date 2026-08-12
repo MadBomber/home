@@ -22,10 +22,14 @@
 #   asgard book pdf ntc1y            # re-export just the PDF
 #   asgard book status               # what is built, how big, how many pages
 #   asgard book open ntc1y handout   # open a built PDF
+#   asgard book publish              # copy the PDFs into src/downloads/
 #   asgard book doctor               # check the external tools are present
 #
-# The study sources under src/ are read-only; everything lands in build/,
-# which is gitignored.
+# The study sources under src/ are read-only and everything the pipeline
+# generates lands in build/, which is gitignored. `publish` is the one exception:
+# it copies finished PDFs into src/downloads/ and registers them in
+# src/_data/downloads.yml so the site can serve them, and those copies are meant
+# to be committed. Nothing else writes under src/.
 
 class BookCommands < Tasks
   desc "studies", "List the studies that can be built"
@@ -147,6 +151,27 @@ class BookCommands < Tasks
     sh "open #{pdf}"
   end
 
+  desc "publish [SLUG]", "Copy the built book and handout PDFs into src/downloads/ and register them in downloads.yml"
+  option :docx,
+         type:    :boolean,
+         default: false,
+         desc:    "Publish the Word versions alongside the PDFs"
+  def publish(slug = nil)
+    targets = slug ? [require_slug(slug)] : study_slugs
+
+    FileUtils.mkdir_p downloads_dir
+    puts ""
+    published = targets.flat_map { |s| publish_study(s, docx: options[:docx]) }
+
+    if published.empty?
+      puts ""
+      puts "  nothing published -- build the artifacts first: asgard book all"
+      return
+    end
+
+    register_downloads published
+  end
+
   desc "doctor", "Check that the external tools the pipeline needs are installed"
   def doctor
     checks = {
@@ -203,6 +228,152 @@ class BookCommands < Tasks
     def scripts_dir = repo_root + "scripts/book"
     def build_dir(slug) = repo_root + "build/#{slug}"
     def artifact(slug, name) = build_dir(slug) + name
+
+    # Where `publish` writes. The site serves src/downloads/ as static files and
+    # reads src/_data/downloads.yml to decide what to list.
+    def downloads_dir  = repo_root + "src/downloads"
+    def downloads_yaml = repo_root + "src/_data/downloads.yml"
+
+    # The group in downloads.yml that publish owns. Anything a human adds under a
+    # different heading is never touched.
+    DOWNLOADS_GROUP = "Study Books"
+    DOWNLOADS_GROUP_DESCRIPTION =
+      "Each study as one printable volume, plus a short reference handout you can " \
+      "keep in your Bible."
+
+    # Copy one study's finished artifacts into src/downloads/. Returns a
+    # descriptor per file that made it, for register_downloads to list.
+    def publish_study(slug, docx: false)
+      wanted = [
+        { kind: :book,    name: "#{slug}.pdf" },
+        { kind: :handout, name: "#{slug}-handout.pdf" },
+      ]
+      if docx
+        wanted << { kind: :book,    name: "#{slug}.docx" }
+        wanted << { kind: :handout, name: "#{slug}-handout.docx" }
+      end
+
+      wanted.filter_map do |spec|
+        source = artifact(slug, spec[:name])
+
+        unless source.exist?
+          task = spec[:kind] == :handout ? "handout" : "build"
+          puts format("  %-8s %-24s %s", slug, spec[:name],
+                      "not built -- run: asgard book #{task} #{slug}")
+          next
+        end
+
+        dest = downloads_dir + spec[:name]
+
+        # Skip the copy when the published file already matches, so a routine
+        # publish leaves the working tree alone and git stays quiet.
+        if dest.exist? && dest.size == source.size && dest.mtime >= source.mtime
+          puts format("  %-8s %-24s %10s  %s", slug, spec[:name],
+                      human_size(dest.size), "already current")
+        else
+          FileUtils.cp source, dest
+          puts format("  %-8s %-24s %10s  %s", slug, spec[:name],
+                      human_size(dest.size), "published")
+        end
+
+        spec.merge(slug: slug)
+      end
+    end
+
+    # Add an entry to downloads.yml for anything not already listed.
+    #
+    # Titles and descriptions are only ever written for a file that is new to the
+    # registry, so editing the wording by hand survives every later publish. The
+    # file is left untouched when there is nothing to add, which also keeps any
+    # comments written inside the data intact -- a rewrite preserves the comment
+    # header at the top of the file but not comments among the entries.
+    def register_downloads(entries)
+      raw    = downloads_yaml.exist? ? downloads_yaml.read : ""
+      header = raw[/\A(?:[ \t]*(?:#.*)?\n)*/].to_s
+
+      # A registry that does not parse is a hand-editing mistake, not something to
+      # guess at: rewriting it from what little parsed would throw away entries.
+      # The files above are already copied and valid, so only this step stops.
+      begin
+        groups = YAML.safe_load(raw)
+      rescue Psych::SyntaxError => e
+        puts ""
+        abort "  src/_data/downloads.yml does not parse (line #{e.line}): #{e.problem}.\n" \
+              "  The files were copied; fix the YAML and run publish again to register them."
+      end
+      groups = [] unless groups.is_a?(Array)
+
+      group = groups.find { |g| g.is_a?(Hash) && g["title"] == DOWNLOADS_GROUP }
+      unless group
+        group = {
+          "title"       => DOWNLOADS_GROUP,
+          "description" => DOWNLOADS_GROUP_DESCRIPTION,
+          "items"       => [],
+        }
+        groups << group
+      end
+      group["items"] = [] unless group["items"].is_a?(Array)
+
+      listed = groups.flat_map { |g| Array(g["items"]) }
+                     .filter_map { |i| i["file"] if i.is_a?(Hash) }
+
+      added = entries.reject { |e| listed.include?(e[:name]) }
+      added.each { |e| group["items"] << registry_entry(e) }
+
+      puts ""
+      if added.empty?
+        puts "  downloads.yml: every published file is already listed"
+        return
+      end
+
+      body = YAML.dump(groups).sub(/\A---\s*\n/, "")
+      downloads_yaml.write("#{header}#{body}")
+
+      puts "  downloads.yml: added #{added.size} #{added.size == 1 ? 'entry' : 'entries'}"
+      added.each { |e| puts "    #{e[:name]}" }
+    end
+
+    # The default wording for a newly registered file. Deliberately plain: it is a
+    # starting point to edit on the page, not final copy.
+    def registry_entry(entry)
+      word    = File.extname(entry[:name]).delete_prefix(".").downcase == "docx"
+      name    = study_name(entry[:slug])
+      handout = entry[:kind] == :handout
+
+      qualifiers = []
+      qualifiers << "Reading Calendar" if handout
+      qualifiers << "Word" if word
+
+      description = if handout
+        "Five pages: an overview, plus every week's readings as a calendar, " \
+        "a quarter to a page."
+      else
+        "All #{study_config(entry[:slug])['weeks']} weeks in one volume, " \
+        "formatted for letter paper."
+      end
+      description += " Word format, for anyone who wants to edit or reformat it." if word
+
+      {
+        "title"       => qualifiers.empty? ? name : "#{name} (#{qualifiers.join(', ')})",
+        "description" => description,
+        "file"        => entry[:name],
+      }
+    end
+
+    # The reader-facing study name, taken from the same registry the landing page
+    # cards use so a download is called what the site calls it. Falls back to the
+    # book title in index.md frontmatter.
+    def study_name(slug)
+      @study_names ||= begin
+        path = repo_root + "src/_data/studies.yml"
+        list = path.exist? ? YAML.safe_load(path.read) : nil
+        Array(list).each_with_object({}) do |study, names|
+          names[study["slug"]] = study["title"] if study.is_a?(Hash)
+        end
+      end
+
+      @study_names[slug] || book_title(slug)
+    end
 
     def study_slugs
       @study_slugs ||= Dir.glob(scripts_dir + "studies/*.yml")
