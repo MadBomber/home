@@ -28,6 +28,13 @@ require_relative 'study'
 
 STUDY = Study.from_argv
 
+# Optional second argument selects the handout instead of the book.
+KIND = (ARGV[1] || 'book').downcase
+abort "unknown document #{KIND.inspect} -- use 'book' or 'handout'" unless %w[book handout].include?(KIND)
+
+SOURCE_DOCX = KIND == 'handout' ? STUDY.handout_docx : STUDY.docx
+TARGET_PDF  = KIND == 'handout' ? STUDY.handout_pdf : STUDY.pdf
+
 MACRO_NAME   = 'BookExport'
 MACRO        = "Standard.#{MACRO_NAME}.UpdateAndExportPdf"
 MACRO_SOURCE = Study::SCRIPTS + "#{MACRO_NAME}.xba"
@@ -100,7 +107,10 @@ end
 
 bin = soffice_path
 abort 'LibreOffice not found (expected soffice on PATH or in /Applications)' unless bin
-abort "docx not found -- run build_docx.rb #{STUDY.slug} first" unless STUDY.docx.exist?
+unless SOURCE_DOCX.exist?
+  builder = KIND == "handout" ? "build_handout.rb #{STUDY.slug}" : "build_docx.rb #{STUDY.slug}"
+  abort "#{SOURCE_DOCX.basename} not found -- run #{builder} first"
+end
 
 # LibreOffice refuses to run a headless macro while a desktop instance holds
 # the profile lock, and silently produces nothing.
@@ -115,13 +125,13 @@ when :missing_profile
 when :no_source then abort "macro source missing: #{MACRO_SOURCE}"
 end
 
-STUDY.pdf.delete if STUDY.pdf.exist?
+TARGET_PDF.delete if TARGET_PDF.exist?
 
 cmd = [bin, '--headless', '--norestore',
-       "macro:///#{MACRO}(#{STUDY.docx},#{STUDY.pdf})"]
+       "macro:///#{MACRO}(#{SOURCE_DOCX},#{TARGET_PDF})"]
 
 output, status = Open3.capture2e(*cmd)
 abort "LibreOffice failed:\n#{output}" unless status.success?
-abort "LibreOffice reported success but wrote no PDF:\n#{output}" unless STUDY.pdf.exist?
+abort "LibreOffice reported success but wrote no PDF:\n#{output}" unless TARGET_PDF.exist?
 
-puts "Wrote #{STUDY.pdf} (#{STUDY.pdf.size} bytes)"
+puts "Wrote #{TARGET_PDF} (#{TARGET_PDF.size} bytes)"

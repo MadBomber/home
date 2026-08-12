@@ -8,12 +8,20 @@
 #   docx       ->  build/<slug>/<slug>.docx      pandoc, with a real Word TOC field
 #   pdf        ->  build/<slug>/<slug>.pdf       headless LibreOffice
 #
+# Each study also has a 5-page handout: an overview page plus the weekly Bible
+# references as a calendar, a quarter (13 weeks) to a page, with book names
+# abbreviated to fit the cells.
+#
+#   handout    ->  build/<slug>/<slug>-handout.pdf
+#
 # Usage:
 #   asgard book studies              # list what can be built
 #   asgard book build ntc1y          # run the whole pipeline for one study
+#   asgard book handout ntc1y        # build the short reference handout
 #   asgard book all                  # build every study
 #   asgard book pdf ntc1y            # re-export just the PDF
 #   asgard book status               # what is built, how big, how many pages
+#   asgard book open ntc1y handout   # open a built PDF
 #   asgard book doctor               # check the external tools are present
 #
 # The study sources under src/ are read-only; everything lands in build/,
@@ -54,6 +62,17 @@ class BookCommands < Tasks
     stage "build_pdf.rb", require_slug(slug)
   end
 
+  desc "handout SLUG", "Build the 5-page handout: overview plus a quarter-per-page reference calendar"
+  def handout(slug = nil)
+    slug = require_slug(slug)
+    stage "build_reference.rb", slug unless artifact(slug, "reference.docx").exist?
+    stage "build_handout.rb", slug
+    stage "build_pdf.rb", slug, "handout"
+
+    puts ""
+    puts "  #{slug} handout: #{describe_pdf(slug, handout: true)}"
+  end
+
   desc "build SLUG", "Run the whole pipeline for one study"
   option :reference,
          aliases: "-r",
@@ -83,13 +102,15 @@ class BookCommands < Tasks
   desc "status", "Show which artifacts exist for each study"
   def status
     puts ""
-    puts format("  %-8s %-14s %10s  %s", "STUDY", "ARTIFACT", "SIZE", "DETAIL")
+    puts format("  %-8s %-20s %10s  %s", "STUDY", "ARTIFACT", "SIZE", "DETAIL")
     puts "  #{'─' * 68}"
 
     study_slugs.each do |slug|
       %w[draft.md reference.docx].each { |n| puts artifact_row(slug, n) }
       puts artifact_row(slug, "#{slug}.docx")
       puts artifact_row(slug, "#{slug}.pdf", detail: describe_pdf(slug))
+      puts artifact_row(slug, "#{slug}-handout.docx")
+      puts artifact_row(slug, "#{slug}-handout.pdf", detail: describe_pdf(slug, handout: true))
     end
     puts ""
   end
@@ -108,11 +129,17 @@ class BookCommands < Tasks
     end
   end
 
-  desc "open SLUG", "Open the built PDF in the default viewer"
-  def open(slug = nil)
+  desc "open SLUG [KIND]", "Open a built PDF in the default viewer; KIND is book (default) or handout"
+  def open(slug = nil, kind = "book")
     slug = require_slug(slug)
-    pdf  = artifact(slug, "#{slug}.pdf")
-    abort "no PDF yet -- run: asgard book build #{slug}" unless pdf.exist?
+    unless %w[book handout].include?(kind)
+      abort "unknown kind #{kind.inspect} -- use book or handout"
+    end
+
+    name = kind == "handout" ? "#{slug}-handout.pdf" : "#{slug}.pdf"
+    pdf  = artifact(slug, name)
+    task = kind == "handout" ? "handout" : "build"
+    abort "no #{name} yet -- run: asgard book #{task} #{slug}" unless pdf.exist?
 
     sh "open #{pdf}"
   end
@@ -207,8 +234,9 @@ class BookCommands < Tasks
       slug
     end
 
-    def stage(script, slug)
-      sh "ruby #{scripts_dir + script} #{slug}"
+    # Extra arguments are passed through, e.g. build_pdf.rb <slug> handout.
+    def stage(script, slug, *extra)
+      sh "ruby #{scripts_dir + script} #{slug} #{extra.join(' ')}".strip
     end
 
     def which(tool)
@@ -222,14 +250,14 @@ class BookCommands < Tasks
     def artifact_row(slug, name, detail: nil)
       path = artifact(slug, name)
       if path.exist?
-        format("  %-8s %-14s %10s  %s", slug, name, human_size(path.size), detail || "")
+        format("  %-8s %-20s %10s  %s", slug, name, human_size(path.size), detail || "")
       else
-        format("  %-8s %-14s %10s  %s", slug, name, "-", "not built")
+        format("  %-8s %-20s %10s  %s", slug, name, "-", "not built")
       end
     end
 
-    def describe_pdf(slug)
-      path = artifact(slug, "#{slug}.pdf")
+    def describe_pdf(slug, handout: false)
+      path = artifact(slug, handout ? "#{slug}-handout.pdf" : "#{slug}.pdf")
       return "not built" unless path.exist?
       return human_size(path.size) unless which("mutool")
 

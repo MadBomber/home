@@ -55,6 +55,12 @@ class Study
   def docx        = build_dir + "#{slug}.docx"
   def pdf         = build_dir + "#{slug}.pdf"
 
+  # The handout is a separate, much shorter document: an overview page followed
+  # by a quarter-per-page grid of just the weekly references.
+  def handout_draft = build_dir + 'handout.md'
+  def handout_docx  = build_dir + "#{slug}-handout.docx"
+  def handout_pdf   = build_dir + "#{slug}-handout.pdf"
+
   # Tracked inputs sit beside the scripts, not in the generated build dir.
   def filter      = SCRIPTS + 'pagebreak.lua'
 
