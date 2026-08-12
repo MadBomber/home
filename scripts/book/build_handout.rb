@@ -21,6 +21,7 @@ require 'pathname'
 require 'yaml'
 require_relative 'study'
 require_relative 'bible_abbrev'
+require_relative 'esv_link'
 
 STUDY = Study.from_argv
 
@@ -38,6 +39,13 @@ READING_INDENT = " " * 3
 # Card borders and interior padding, applied after pandoc (see below).
 CELL_BORDER  = 'single;0.5pt;AAAAAA'
 CELL_PADDING = 80 # twips, ~4pt
+
+# Link each reading to the passage on ESV.org. The link annotation itself prints
+# nothing (LibreOffice writes it with no border and no appearance stream); what
+# prints is the Hyperlink style's colour, which build_reference.rb sets to a dark
+# navy that reproduces at 21% grey -- near-black, so a printed handout still
+# reads as plain text.
+LINK_REFERENCES = true
 
 def split_frontmatter(path)
   raw = path.read
@@ -61,7 +69,10 @@ def week_data(week_dir)
     title: fm['title'].to_s,
     section: fm['section'].to_s,
     memory: BibleAbbrev.apply(fm['memory_verse'].to_s),
-    readings: refs.map { |r| BibleAbbrev.apply(r) }
+    # Keep the full reference alongside the abbreviation: the link text is the
+    # short form, but the URL is built from the full one so ESV.org never has to
+    # understand an abbreviation.
+    readings: refs.map { |r| { label: BibleAbbrev.apply(r), full: r } }
   }
 end
 
@@ -90,41 +101,82 @@ end
 # space, joined by hard line breaks.
 GAP = ' '
 
-def cell_lines(week)
+def cell_lines(week, links)
   lines = ["**WEEK #{week[:number]}**"]
   lines += wrap(week[:title], CELL_WIDTH)
   lines << GAP
-  week[:readings].each_with_index do |ref, i|
-    lines += wrap("#{i + 1}#{DAY_GAP}#{ref}", CELL_WIDTH, hanging: READING_INDENT)
+  week[:readings].each_with_index do |reading, i|
+    # Every abbreviated reference fits one line (the longest is 27 characters,
+    # and 5 + two spaces + 27 is inside the cell), so a reading never has to
+    # wrap -- which matters because link markup must not straddle a line break.
+    # Only the reference is linked; the day number stays plain text.
+    lines << "#{i + 1}#{DAY_GAP}#{links.reference(reading[:label], reading[:full])}"
   end
   lines << "*Memory: #{week[:memory]}*" unless week[:memory].empty?
   lines
 end
 
+# Collects reference-style Markdown links: the table cell holds a short
+# "[label][id]" and the URLs are defined after the tables. An inline link would
+# put the whole URL in the cell, and a grid-table source line cannot be wider
+# than its column.
+class LinkTable
+  def initialize(enabled)
+    @enabled = enabled
+    @definitions = []
+  end
+
+  def reference(label, citation)
+    return label unless @enabled
+
+    url = EsvLink.url_for(citation)
+    return label unless url
+
+    id = "r#{@definitions.size + 1}"
+    @definitions << "[#{id}]: #{url}"
+    "[#{label}][#{id}]"
+  end
+
+  def definitions = @definitions
+  def any? = @definitions.any?
+end
+
+# The visible width of a source line, ignoring Markdown markup, so cells are
+# padded by what the reader sees rather than by what the source spends on links.
+def visible_width(line)
+  line.gsub(/\[([^\]]*)\]\[[^\]]*\]/, '\1').gsub(/\*+/, '').length
+end
+
 # Pandoc grid tables need every line padded to the column width. A trailing
 # backslash makes a hard line break; the last line of a cell must not have one,
 # and neither may the empty lines used to pad a short cell to the row height.
-def render_row(weeks)
-  cells = weeks.map { |w| w ? cell_lines(w) : [] }
+def render_row(cells, width)
   height = cells.map(&:size).max
 
   padded = cells.map do |lines|
     broken = lines.each_with_index.map do |line, i|
       i < lines.size - 1 ? "#{line}\\" : line
     end
-    (broken + [''] * (height - broken.size)).map { |l| l.ljust(CELL_WIDTH + 1) }
+    (broken + [''] * (height - broken.size))
+      .map { |l| l + ' ' * [width + 1 - l.length, 1].max }
   end
 
   (0...height).map { |i| "| #{padded.map { |c| c[i] }.join('| ')}|" }
 end
 
-def rule
-  "+#{Array.new(COLUMNS) { '-' * (CELL_WIDTH + 2) }.join('+')}+"
+def rule(width)
+  "+#{Array.new(COLUMNS) { '-' * (width + 2) }.join('+')}+"
 end
 
-def render_grid(weeks)
-  rows = weeks.each_slice(COLUMNS).map { |slice| render_row(slice) }
-  ([rule] + rows.flat_map { |r| r + [rule] }).join("\n")
+# Cells are built once (so link ids are issued once, in order), then measured:
+# the source columns must be wide enough for the longest line including its
+# "[label][id]" markup, which is wider than what the reader sees.
+def render_grid(weeks, links)
+  cells = weeks.map { |w| cell_lines(w, links) }
+  width = [cells.flatten.map(&:length).max, CELL_WIDTH].max
+
+  rows = cells.each_slice(COLUMNS).map { |slice| render_row(slice, width) }
+  ([rule(width)] + rows.flat_map { |r| r + [rule(width)] }).join("\n")
 end
 
 # The overview page. Its headings deliberately stay below H1: Heading 1 carries
@@ -164,19 +216,23 @@ metadata << %(subtitle: "#{STUDY.subtitle}") if STUDY.subtitle
 metadata << %(subtitle: "Reading Plan") unless STUDY.subtitle
 metadata << '---'
 
+links = LinkTable.new(LINK_REFERENCES)
 parts = [render_overview]
 
 weeks.each_slice(WEEKS_PER_PAGE) do |page_weeks|
   heading = "# Weeks #{page_weeks.first[:number]}–#{page_weeks.last[:number]}"
-  parts << "#{heading}\n\n#{render_grid(page_weeks)}"
+  parts << "#{heading}\n\n#{render_grid(page_weeks, links)}"
 end
+
+# Reference-link definitions go after the tables, out of the cells.
+parts << links.definitions.join("\n") if links.any?
 
 md = "#{metadata.join("\n")}\n\n#{parts.join("\n\n")}\n"
 STUDY.handout_draft.write md
 
-# The grid table is this many characters wide; telling pandoc so makes it lay the
-# table out at the full text width instead of scaling it down proportionally.
-table_width = rule.length
+# Telling pandoc how wide the widest grid is makes it lay the table out at the
+# full text width instead of scaling it down proportionally.
+table_width = md.lines.filter_map { |l| l.strip.length if l.start_with?('+--') }.max || 72
 
 cmd = ['pandoc', STUDY.handout_draft.to_s,
        '-o', STUDY.handout_docx.to_s,

@@ -28,6 +28,9 @@ BODY_FONT = 'Palatino'   # serif, ships with macOS, reads well at 10pt
 MONO_FONT = 'Menlo'      # macOS default monospace
 BODY_SIZE = '10pt'
 
+# Dark navy: reads as a link on screen, prints at 21% grey (near-black).
+LINK_COLOR = '1F3864'
+
 # Two-sided printing: the narrow margin sits at the binding on both sides.
 MARGIN_INSIDE     = '0.75in'
 MARGIN_OUTSIDE    = '1in'
@@ -121,6 +124,13 @@ officecli 'set', OUT, '/styles/Heading1', '--prop', 'pageBreakBefore=true'
 
 # Avoid single lines stranded across page boundaries throughout the book.
 officecli 'set', OUT, '/styles/Normal', '--prop', 'widowControl=true'
+
+# Hyperlink colour matters for print, because a PDF link annotation itself draws
+# nothing -- LibreOffice writes it with no border and no appearance stream, so
+# the only ink is the character style's colour. Pandoc's stock 4F81BD prints at
+# 47% grey, washing out every reference in the handout's dense grid. This navy
+# prints at 21%, effectively black, while still reading as a link on screen.
+officecli 'set', OUT, '/styles/Hyperlink', '--prop', "color=#{LINK_COLOR}"
 
 # 6. Two-sided (facing page) printing. With mirrorMargins on, marginLeft is the
 #    INSIDE edge and marginRight the OUTSIDE edge, and they swap on even pages
