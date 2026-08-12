@@ -34,3 +34,6 @@ yarn-debug.log*
 
 # Generated book artifacts (scripts/book rebuilds these)
 build
+
+# Screenshots and console logs from browser automation
+.playwright-mcp/
