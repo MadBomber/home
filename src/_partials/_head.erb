@@ -43,7 +43,8 @@
 <link rel="stylesheet" href="<%= asset_path :css %>" />
 <script>
 // Apply theme and feature visibility before first paint to prevent FOUC
-// NOTE: update "bst_settings" if you change storage_prefix in study_config.yml
+// NOTE: this runs before the bundle loads, so it cannot import SETTINGS_KEY.
+// It is the one hand-kept copy of "bst_settings" — see storage-keys.js.
 (function() {
   try {
     var s = JSON.parse(localStorage.getItem("bst_settings") || "{}");

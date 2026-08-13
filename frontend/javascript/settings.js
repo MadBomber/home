@@ -5,11 +5,7 @@ import {
   findMethod,
   methodPlaceholder,
 } from "./journal-prompt.js"
-
-// NOTE: If you change storage_prefix in study_config.yml, update these keys to match.
-// Also update the inline FOUC-prevention script in src/_partials/_head.erb.
-const SETTINGS_KEY = "bst_settings"
-const GROUP_KEY = "bst_group"
+import { GROUP_KEY, SETTINGS_KEY } from "./storage-keys.js"
 
 const DEFAULT_SETTINGS = {
   features: {
@@ -155,9 +151,35 @@ function initJournalPlaceholder() {
 
 function journalKey(prefix) { return `${prefix}_journal` }
 
+function entryText(entry) {
+  return typeof entry === "object" && entry !== null && typeof entry.text === "string"
+    ? entry.text
+    : ""
+}
+
+// The single text field is the whole entry, so an entry with no text in it is
+// nothing — an emptied text box leaves one behind. Counting, exporting and
+// importing all ignore them.
+function normalizeJournalData(data) {
+  const normalized = {}
+  for (const [key, entry] of Object.entries(data)) {
+    const text = entryText(entry)
+    if (!text.trim()) continue
+
+    const clean = { text }
+    if (typeof entry.reading === "string") clean.reading = entry.reading
+    if (typeof entry.title === "string") clean.title = entry.title
+    if (typeof entry.updated === "string") clean.updated = entry.updated
+    normalized[key] = clean
+  }
+  return normalized
+}
+
 function getJournalData(prefix) {
   try {
-    return JSON.parse(localStorage.getItem(journalKey(prefix)) || "{}")
+    const data = JSON.parse(localStorage.getItem(journalKey(prefix)) || "{}")
+    if (typeof data !== "object" || data === null || Array.isArray(data)) return {}
+    return normalizeJournalData(data)
   } catch {
     return {}
   }
@@ -169,7 +191,7 @@ function journalEntryCount(prefix) {
 
 function validateJournalData(data) {
   if (typeof data !== "object" || data === null || Array.isArray(data)) return false
-  for (const [key, entry] of Object.entries(data)) {
+  for (const entry of Object.values(data)) {
     if (typeof entry !== "object" || entry === null) return false
     if (typeof entry.text !== "string") return false
   }
@@ -237,9 +259,10 @@ function importJournal(prefix, studyTitle, file, onImported) {
   const reader = new FileReader()
   reader.onload = function(e) {
     try {
-      const data = JSON.parse(e.target.result)
-      if (!validateJournalData(data)) { showStatus("Invalid journal file."); return }
+      const parsed = JSON.parse(e.target.result)
+      if (!validateJournalData(parsed)) { showStatus("Invalid journal file."); return }
 
+      const data = normalizeJournalData(parsed)
       const count = Object.keys(data).length
       if (count === 0) { showStatus("The file contains no journal entries."); return }
 
@@ -262,7 +285,16 @@ function importJournal(prefix, studyTitle, file, onImported) {
 
 function clearJournal(prefix, studyTitle, onCleared) {
   const count = journalEntryCount(prefix)
-  if (count === 0) { showStatus(`No journal entries to clear for ${studyTitle}.`); return }
+
+  // Emptied text boxes can still occupy storage with nothing to show for it,
+  // so those are swept out without asking.
+  if (count === 0) {
+    localStorage.removeItem(journalKey(prefix))
+    showStatus(`No journal entries to clear for ${studyTitle}.`)
+    onCleared()
+    updateStorageInfo()
+    return
+  }
 
   const msg = `This will permanently delete ${count} journal ${count === 1 ? "entry" : "entries"} for ${studyTitle} from this browser. This cannot be undone.\n\nContinue?`
   if (window.confirm(msg)) {

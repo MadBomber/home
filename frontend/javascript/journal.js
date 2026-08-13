@@ -51,10 +51,17 @@ function getEntry(week, day) {
   return getJournal()[entryKey(week, day)] || null
 }
 
+// The text is the whole entry now, so an entry emptied of text is no entry at
+// all: it is removed rather than stored blank, which keeps the export, the
+// entry counts on the settings page and the week picker honest.
 function saveEntry(week, day, entry) {
   const journal = getJournal()
-  entry.updated = new Date().toISOString()
-  journal[entryKey(week, day)] = entry
+  if (hasText(entry)) {
+    entry.updated = new Date().toISOString()
+    journal[entryKey(week, day)] = entry
+  } else {
+    delete journal[entryKey(week, day)]
+  }
   saveJournal(journal)
 }
 
@@ -79,6 +86,27 @@ function buildEntry(existing, text, reading, title) {
 function autosize(textarea) {
   textarea.style.height = "auto"
   textarea.style.height = `${textarea.scrollHeight}px`
+}
+
+// --- Entry timestamp ---
+
+// Every entry carries the moment it was last written, stored as ISO in the
+// entry's "updated" field. An entry not yet written reads as now, so the
+// header always shows a date and time.
+function entryTimestamp(entry) {
+  const stored = entry && typeof entry.updated === "string" ? new Date(entry.updated) : null
+  return stored && !Number.isNaN(stored.getTime()) ? stored : new Date()
+}
+
+function formatTimestamp(date) {
+  return date.toLocaleString(undefined, { dateStyle: "long", timeStyle: "short" })
+}
+
+function showTimestamp(el, entry) {
+  if (!el) return
+  const date = entryTimestamp(entry)
+  el.setAttribute("datetime", date.toISOString())
+  el.textContent = formatTimestamp(date)
 }
 
 // --- Prompt menu ---
@@ -236,12 +264,18 @@ function initDayForm(week, day, reading, title) {
   const textarea = document.getElementById("journal-text")
   if (!textarea) return
 
+  const timestampEl = document.getElementById("journal-timestamp")
+
   textarea.placeholder = getJournalPlaceholder()
   textarea.value = entryText(getEntry(week, day))
+  showTimestamp(timestampEl, getEntry(week, day))
   autosize(textarea)
 
   function save() {
     saveEntry(week, day, buildEntry(getEntry(week, day), textarea.value, dReading, dTitle))
+    // Read back rather than trust the entry just built: an emptied box deletes
+    // it, and the header falls back to the current date and time.
+    showTimestamp(timestampEl, getEntry(week, day))
     showStatus(statusEl, "Saved")
   }
 
@@ -314,6 +348,11 @@ function initWeekView(week) {
       panel.appendChild(readingEl)
     }
 
+    const timestampEl = document.createElement("time")
+    timestampEl.classList.add("journal-timestamp")
+    showTimestamp(timestampEl, entry)
+    panel.appendChild(timestampEl)
+
     const statusEl = document.createElement("div")
     statusEl.classList.add("journal-status")
 
@@ -333,9 +372,11 @@ function initWeekView(week) {
     panel.appendChild(statusEl)
 
     function saveDay() {
-      saveEntry(week, d, buildEntry(getEntry(week, d), textarea.value, dReading, dTitle))
+      const edited = buildEntry(getEntry(week, d), textarea.value, dReading, dTitle)
+      saveEntry(week, d, edited)
+      showTimestamp(timestampEl, getEntry(week, d))
       showStatus(statusEl, "Saved")
-      tab.classList.add("has-entry")
+      tab.classList.toggle("has-entry", hasText(edited))
     }
 
     let saveTimeout = null
@@ -387,7 +428,7 @@ function initNoParams() {
     opt.value = w
     let hasEntry = false
     for (let d = 1; d <= 5; d++) {
-      if (journal[entryKey(w, d)]) { hasEntry = true; break }
+      if (hasText(journal[entryKey(w, d)])) { hasEntry = true; break }
     }
     opt.textContent = `Week ${w}${hasEntry ? " *" : ""}`
     select.appendChild(opt)

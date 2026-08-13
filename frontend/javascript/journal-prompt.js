@@ -3,8 +3,7 @@
 // an entry to organize it. settings.js lets the reader choose; journal.js paints
 // the result. Nothing else should hardcode these strings.
 
-// NOTE: keep "bst_settings" in step with SETTINGS_KEY in settings.js.
-const SETTINGS_KEY = "bst_settings"
+import { SETTINGS_KEY } from "./storage-keys.js"
 
 export const DEFAULT_JOURNAL_PLACEHOLDER = "Enter your observation here."
 export const CUSTOM_METHOD = "custom"

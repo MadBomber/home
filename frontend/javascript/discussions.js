@@ -3,13 +3,15 @@
 // under a `discussions:` key. If the current study has no discussions
 // config, the widget is silently skipped.
 
+import { SETTINGS_KEY } from "./storage-keys.js"
+
 function loadGiscus() {
   const container = document.querySelector(".page-discussions .giscus")
   if (!container) return
 
   let theme = "light"
   try {
-    const settings = JSON.parse(localStorage.getItem("bst_settings") || "{}")
+    const settings = JSON.parse(localStorage.getItem(SETTINGS_KEY) || "{}")
     if (settings.features?.discussions !== true) return
     const themeMap = { light: "light", dark: "dark", auto: "preferred_color_scheme" }
     theme = themeMap[settings.siteTheme] || "light"

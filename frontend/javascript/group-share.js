@@ -1,4 +1,6 @@
-// --- Storage keys (derived from injected study config) ---
+import { GROUP_KEY } from "./storage-keys.js"
+
+// --- Storage keys ---
 
 function getStoragePrefix() {
   try {
@@ -8,8 +10,10 @@ function getStoragePrefix() {
   } catch { return "bst" }
 }
 
-function getGroupKey() { return `${getStoragePrefix()}_group` }
-function getJournalKey()  { return `${getStoragePrefix()}_journal` }
+// The journal is per-study; the group is not. Deriving a group key from the
+// prefix read a key the settings page never writes, so the share button saw an
+// empty group on every study page and bounced the reader to settings.
+function getJournalKey() { return `${getStoragePrefix()}_journal` }
 
 function getStudySlug() {
   try {
@@ -32,7 +36,7 @@ function entryExcerpt(entry, limit = 280) {
 }
 
 function getGroupMembers() {
-  try { return JSON.parse(localStorage.getItem(getGroupKey()) || "[]") } catch { return [] }
+  try { return JSON.parse(localStorage.getItem(GROUP_KEY) || "[]") } catch { return [] }
 }
 
 function buildMailtoLink() {
