@@ -2565,6 +2565,58 @@ button.toolbar-icon {
   margin: 0 auto;
 }
 
+/* --- Journal print view --- */
+
+.journal-print-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.journal-print-summary {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: 0.5rem;
+}
+
+.journal-print-actions {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.journal-print-hint {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-top: 0.75rem;
+}
+
+.journal-print-entry {
+  max-width: 42rem;
+  margin: 0 auto 2.5rem;
+}
+
+.journal-print-entry h2 {
+  margin-bottom: 0.25rem;
+}
+
+.journal-print-meta {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin: 0 0 0.75rem;
+}
+
+/* The entry is inserted as text, so the reader's own line breaks are all the
+   structure there is. pre-wrap keeps them without turning the text into HTML. */
+.journal-print-text {
+  white-space: pre-wrap;
+  line-height: 1.65;
+}
+
+.journal-print-empty {
+  text-align: center;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
 .journal-backup-note {
   max-width: 42rem;
   margin: 2.5rem auto 0;
@@ -2809,15 +2861,20 @@ button.toolbar-icon {
   gap: 0.75rem;
 }
 
+/* Also used on anchors — "View Journal" navigates rather than acting in place,
+   so it is a link wearing the button's clothes. */
 .settings-btn {
+  display: inline-block;
   font-family: var(--font-sans);
   font-size: 0.9rem;
   font-weight: 600;
+  line-height: 1.4;
   padding: 0.5rem 1.25rem;
   border: 1px solid var(--border-color);
   border-radius: var(--radius);
   background: var(--bg-surface);
   color: var(--purple-mid);
+  text-decoration: none;
   cursor: pointer;
   transition: background 0.15s, border-color 0.15s;
 }
@@ -2825,6 +2882,7 @@ button.toolbar-icon {
 .settings-btn:hover {
   background: var(--purple-faint);
   border-color: var(--purple-light);
+  text-decoration: none;
 }
 
 .settings-btn-danger {
@@ -3512,8 +3570,37 @@ button.toolbar-icon {
   .day-complete-container,
   .page-nav,
   .week-nav,
-  .blog-post-nav {
+  .blog-post-nav,
+  .breadcrumb,
+  .journal-print-actions {
     display: none !important;
+  }
+
+  @page {
+    margin: 18mm 16mm;
+  }
+
+  /* Keep an entry whole on one page where it fits, and never leave its heading
+     stranded at the foot of a page. */
+  .journal-print-entry {
+    break-inside: avoid;
+    margin-bottom: 1.5rem;
+  }
+
+  .journal-print-entry h2 {
+    break-after: avoid;
+  }
+
+  .journal-print-meta,
+  .journal-print-summary {
+    color: #444;
+  }
+
+  /* RefTagger linkifies the reference in the meta line. On paper a link is
+     just noise, so it prints as plain text. */
+  .journal-print-meta a {
+    color: inherit !important;
+    text-decoration: none !important;
   }
 
   body {

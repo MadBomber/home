@@ -6,6 +6,12 @@ import {
   methodInsertText,
   randomPrompt,
 } from "./journal-prompt.js"
+import {
+  entryText,
+  entryTimestamp,
+  formatTimestamp,
+  hasText,
+} from "./journal-entry.js"
 
 // --- Storage keys (derived from injected study config) ---
 
@@ -67,14 +73,6 @@ function saveEntry(week, day, entry) {
 
 // --- Entry text ---
 
-function entryText(entry) {
-  return entry && typeof entry.text === "string" ? entry.text : ""
-}
-
-function hasText(entry) {
-  return entryText(entry).trim().length > 0
-}
-
 function buildEntry(existing, text, reading, title) {
   const entry = Object.assign({}, existing)
   entry.text = text
@@ -89,18 +87,6 @@ function autosize(textarea) {
 }
 
 // --- Entry timestamp ---
-
-// Every entry carries the moment it was last written, stored as ISO in the
-// entry's "updated" field. An entry not yet written reads as now, so the
-// header always shows a date and time.
-function entryTimestamp(entry) {
-  const stored = entry && typeof entry.updated === "string" ? new Date(entry.updated) : null
-  return stored && !Number.isNaN(stored.getTime()) ? stored : new Date()
-}
-
-function formatTimestamp(date) {
-  return date.toLocaleString(undefined, { dateStyle: "long", timeStyle: "short" })
-}
 
 function showTimestamp(el, entry) {
   if (!el) return

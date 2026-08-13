@@ -1,4 +1,5 @@
 import { GROUP_KEY } from "./storage-keys.js"
+import { entryText } from "./journal-entry.js"
 
 // --- Storage keys ---
 
@@ -21,10 +22,6 @@ function getStudySlug() {
     if (!el) return ""
     return JSON.parse(el.textContent) || ""
   } catch { return "" }
-}
-
-function entryText(entry) {
-  return entry && typeof entry.text === "string" ? entry.text : ""
 }
 
 // An excerpt, not the whole entry — the journal is private by default and

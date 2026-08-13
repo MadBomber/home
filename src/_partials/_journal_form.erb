@@ -38,8 +38,10 @@
 
   <%# Sits outside the three view containers so it shows under whichever one is
       open, once, rather than once per day panel in the week view. %>
+  <% _print_path = data.study_slug ? "/#{data.study_slug}/journal/print/" : "/journal/print/" %>
   <p class="journal-backup-note">
-    Clearing your browser data will erase these entries. Use the Export button on the
+    <a href="<%= relative_url _print_path %>">View the whole journal</a> to read, print, or save it as a PDF.
+    Clearing your browser data will erase these entries — use the Export button on the
     <a href="<%= relative_url '/settings/' %>">Settings</a> page to keep a copy.
   </p>
 </article>

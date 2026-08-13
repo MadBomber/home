@@ -6,6 +6,7 @@ import {
   methodPlaceholder,
 } from "./journal-prompt.js"
 import { GROUP_KEY, SETTINGS_KEY } from "./storage-keys.js"
+import { entryText } from "./journal-entry.js"
 
 const DEFAULT_SETTINGS = {
   features: {
@@ -151,12 +152,6 @@ function initJournalPlaceholder() {
 
 function journalKey(prefix) { return `${prefix}_journal` }
 
-function entryText(entry) {
-  return typeof entry === "object" && entry !== null && typeof entry.text === "string"
-    ? entry.text
-    : ""
-}
-
 // The single text field is the whole entry, so an entry with no text in it is
 // nothing — an emptied text box leaves one behind. Counting, exporting and
 // importing all ignore them.
@@ -255,6 +250,7 @@ function exportJournal(prefix, studyTitle) {
   showStatus(`Exported ${studyTitle} journal (${count} ${count === 1 ? "entry" : "entries"}).`)
 }
 
+
 function importJournal(prefix, studyTitle, file, onImported) {
   const reader = new FileReader()
   reader.onload = function(e) {
@@ -307,7 +303,7 @@ function clearJournal(prefix, studyTitle, onCleared) {
 
 function initJournalStudyBlocks() {
   document.querySelectorAll(".settings-progress-study").forEach(block => {
-    const exportBtn = block.querySelector(".settings-export-journal")
+    const exportBtn  = block.querySelector(".settings-export-journal")
     const importBtn  = block.querySelector(".settings-import-journal")
     const importFile = block.querySelector(".settings-import-journal-file")
     const clearBtn   = block.querySelector(".settings-clear-journal")

@@ -1,0 +1,19 @@
+<%# The whole journal for one study, filled in by journal-print.js from
+    localStorage. Everything outside #journal-print-entries is hidden when the
+    page is printed — see the @media print block in frontend/styles/index.css. %>
+
+<article class="journal-print" id="journal-print">
+  <header class="journal-print-header">
+    <h1><%= data.print_heading || "Journal" %></h1>
+    <p class="journal-print-summary" id="journal-print-summary"></p>
+  </header>
+
+  <div class="journal-print-actions" id="journal-print-actions">
+    <button type="button" class="settings-btn" id="journal-print-button">Print / Save as PDF</button>
+    <p class="journal-print-hint">
+      Your browser's print dialog can save this page as a PDF — choose “Save as PDF” as the destination.
+    </p>
+  </div>
+
+  <div id="journal-print-entries"></div>
+</article>
