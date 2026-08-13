@@ -51,7 +51,7 @@ Everything you do on this site — notes, journal entries, progress, settings �
 ### Bible Study Features
 
 - **Daily Readings** — structured day-by-day study pages with the week's scripture
-- **H.E.A.R. Journal** — a four-step journaling method: Highlight, Explain, Apply, Respond
+- **Journal** — a private place to write down what you make of the day's reading
 - **Reading Plan** — a full overview of every week and day across the study
 - **Memory Verses** — weekly verses to hide in your heart
 - **Group Discussion Guides** — questions designed for small group use

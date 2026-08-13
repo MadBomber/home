@@ -1,0 +1,33 @@
+<%# Prompt library for the "Another prompt" button. Journal pages only: no other
+    page needs it, and it is the same data the Journaling document lists. %>
+<script id="journal-prompts-data" type="application/json"><%== site.data.journal_prompts.groups.flat_map { |g| g["prompts"] }.to_json %></script>
+
+<article class="journal" id="journal">
+  <div class="journal-header">
+    <h1 id="journal-title">Journal</h1>
+    <p id="journal-context" class="journal-context"></p>
+    <p class="journal-privacy">Your journal is stored privately in this browser. Nothing leaves your device.</p>
+  </div>
+
+  <div id="journal-day-form" class="journal-form-body" style="display:none;">
+    <div class="journal-field">
+      <%# Ghost text comes from the reader's setting; journal.js fills it in. %>
+      <textarea id="journal-text" class="journal-entry" rows="14"
+                aria-label="Journal entry"></textarea>
+    </div>
+
+    <div id="journal-status" class="journal-status"></div>
+  </div>
+
+  <div id="journal-week-view" class="journal-week-view" style="display:none;">
+    <div id="journal-week-entries"></div>
+  </div>
+
+  <div id="journal-no-params" style="display:none;">
+    <p>Select a week to view or add journal entries:</p>
+    <div class="journal-week-selector">
+      <select id="journal-week-select"></select>
+      <button id="journal-week-go" class="journal-week-go-btn">Go</button>
+    </div>
+  </div>
+</article>

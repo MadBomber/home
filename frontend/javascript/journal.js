@@ -1,3 +1,12 @@
+import {
+  PROMPT_METHODS,
+  findMethod,
+  getJournalPlaceholder,
+  getPromptLibrary,
+  methodInsertText,
+  randomPrompt,
+} from "./journal-prompt.js"
+
 // --- Storage keys (derived from injected study config) ---
 
 function getStoragePrefix() {
@@ -8,7 +17,7 @@ function getStoragePrefix() {
   } catch { return "bst" }
 }
 
-function getHearKey() { return `${getStoragePrefix()}_hear` }
+function getJournalKey() { return `${getStoragePrefix()}_journal` }
 
 function getStudySlug() {
   try {
@@ -18,11 +27,12 @@ function getStudySlug() {
   } catch { return "" }
 }
 
+
 // --- Storage ---
 
 function getJournal() {
   try {
-    const data = localStorage.getItem(getHearKey())
+    const data = localStorage.getItem(getJournalKey())
     return data ? JSON.parse(data) : {}
   } catch {
     return {}
@@ -30,7 +40,7 @@ function getJournal() {
 }
 
 function saveJournal(journal) {
-  localStorage.setItem(getHearKey(), JSON.stringify(journal))
+  localStorage.setItem(getJournalKey(), JSON.stringify(journal))
 }
 
 function entryKey(week, day) {
@@ -46,6 +56,100 @@ function saveEntry(week, day, entry) {
   entry.updated = new Date().toISOString()
   journal[entryKey(week, day)] = entry
   saveJournal(journal)
+}
+
+// --- Entry text ---
+
+function entryText(entry) {
+  return entry && typeof entry.text === "string" ? entry.text : ""
+}
+
+function hasText(entry) {
+  return entryText(entry).trim().length > 0
+}
+
+function buildEntry(existing, text, reading, title) {
+  const entry = Object.assign({}, existing)
+  entry.text = text
+  if (reading) entry.reading = reading
+  if (title) entry.title = title
+  return entry
+}
+
+function autosize(textarea) {
+  textarea.style.height = "auto"
+  textarea.style.height = `${textarea.scrollHeight}px`
+}
+
+// --- Prompt menu ---
+
+// Ghost text vanishes at the first keystroke, which is exactly when a prompt is
+// still needed. This menu puts the questions into the entry as real text.
+// An empty entry is replaced; an entry with writing in it is appended to, so
+// nothing the reader wrote is ever lost.
+function addPromptMenu(textarea, onChange) {
+  const hasLibrary = getPromptLibrary().length > 0
+
+  const select = document.createElement("select")
+  select.className = "journal-prompt-menu"
+  select.setAttribute("aria-label", "Insert a prompt into this entry")
+
+  const options = [
+    { value: "", label: "Insert a prompt…" },
+    ...PROMPT_METHODS.map(method => ({ value: `method:${method.id}`, label: method.name })),
+  ]
+  if (hasLibrary) options.push({ value: "random", label: "Random question" })
+
+  for (const option of options) {
+    const el = document.createElement("option")
+    el.value = option.value
+    el.textContent = option.label
+    select.appendChild(el)
+  }
+
+  let inserted = ""
+  let lastPrompt = ""
+
+  function untouched() {
+    return textarea.value.trim() === "" || textarea.value === inserted
+  }
+
+  function insert(text) {
+    let cursorAt
+    if (untouched()) {
+      textarea.value = text
+      inserted = text
+      cursorAt = text.indexOf("\n") + 1
+    } else {
+      const existing = textarea.value.replace(/\s+$/, "")
+      textarea.value = `${existing}\n\n${text}`
+      inserted = ""
+      cursorAt = textarea.value.length
+    }
+
+    autosize(textarea)
+    textarea.focus()
+    textarea.setSelectionRange(cursorAt, cursorAt)
+    onChange()
+  }
+
+  select.addEventListener("change", () => {
+    const choice = select.value
+    select.value = "" // so the same choice can be picked again
+
+    if (choice === "random") {
+      const prompt = randomPrompt(lastPrompt)
+      if (!prompt) return
+      lastPrompt = prompt
+      insert(`${prompt}\n\n`)
+      return
+    }
+
+    const method = findMethod(choice.replace("method:", ""))
+    if (method) insert(methodInsertText(method))
+  })
+
+  return select
 }
 
 // --- Study config (injected by default.erb) ---
@@ -118,10 +222,10 @@ function getParams() {
 // --- Day form ---
 
 function initDayForm(week, day, reading, title) {
-  const titleEl = document.getElementById("hear-journal-title")
-  const contextEl = document.getElementById("hear-journal-context")
-  const form = document.getElementById("hear-journal-day-form")
-  const statusEl = document.getElementById("hear-status")
+  const titleEl = document.getElementById("journal-title")
+  const contextEl = document.getElementById("journal-context")
+  const form = document.getElementById("journal-day-form")
+  const statusEl = document.getElementById("journal-status")
 
   const dTitle = title || dayTitle(week, day) || "Journal Entry"
   const dReading = reading || dayReading(week, day)
@@ -129,37 +233,26 @@ function initDayForm(week, day, reading, title) {
   if (dReading) contextEl.textContent = `Reading: ${dReading}`
   form.style.display = "block"
 
-  const fields = ["hear-h", "hear-e", "hear-a", "hear-r"]
-  const fieldKeys = ["h", "e", "a", "r"]
+  const textarea = document.getElementById("journal-text")
+  if (!textarea) return
 
-  const existing = getEntry(week, day)
-  if (existing) {
-    fieldKeys.forEach((key, i) => {
-      const el = document.getElementById(fields[i])
-      if (el && existing[key]) el.value = existing[key]
-    })
+  textarea.placeholder = getJournalPlaceholder()
+  textarea.value = entryText(getEntry(week, day))
+  autosize(textarea)
+
+  function save() {
+    saveEntry(week, day, buildEntry(getEntry(week, day), textarea.value, dReading, dTitle))
+    showStatus(statusEl, "Saved")
   }
 
   let saveTimeout = null
-  fields.forEach((fieldId, i) => {
-    const el = document.getElementById(fieldId)
-    if (!el) return
-
-    el.addEventListener("input", () => {
-      clearTimeout(saveTimeout)
-      saveTimeout = setTimeout(() => {
-        const entry = existing || {}
-        fieldKeys.forEach((key, j) => {
-          const field = document.getElementById(fields[j])
-          entry[key] = field ? field.value : ""
-        })
-        entry.reading = reading
-        entry.title = title
-        saveEntry(week, day, entry)
-        showStatus(statusEl, "Saved")
-      }, 800)
-    })
+  textarea.addEventListener("input", () => {
+    autosize(textarea)
+    clearTimeout(saveTimeout)
+    saveTimeout = setTimeout(save, 800)
   })
+
+  textarea.parentNode.insertBefore(addPromptMenu(textarea, save), textarea)
 }
 
 function showStatus(el, message) {
@@ -171,27 +264,20 @@ function showStatus(el, message) {
 // --- Week view ---
 
 function initWeekView(week) {
-  const titleEl = document.getElementById("hear-journal-title")
-  const weekView = document.getElementById("hear-journal-week-view")
-  const entriesEl = document.getElementById("hear-week-entries")
+  const titleEl = document.getElementById("journal-title")
+  const weekView = document.getElementById("journal-week-view")
+  const entriesEl = document.getElementById("journal-week-entries")
 
   const wTitle = weekTitle(week)
   titleEl.textContent = `Week ${week} Journal`
   if (wTitle) {
-    const contextEl = document.getElementById("hear-journal-context")
+    const contextEl = document.getElementById("journal-context")
     contextEl.textContent = wTitle
   }
   weekView.style.display = "block"
 
-  const fieldDefs = [
-    { key: "h", label: "Highlight", hint: "What verse or phrase stood out?", rows: 3 },
-    { key: "e", label: "Explain", hint: "What did this mean to its original audience?", rows: 4 },
-    { key: "a", label: "Apply", hint: "What does this mean for your life today?", rows: 4 },
-    { key: "r", label: "Respond", hint: "A specific action step and a written prayer.", rows: 4 },
-  ]
-
   const tabBar = document.createElement("div")
-  tabBar.classList.add("hear-tabs")
+  tabBar.classList.add("journal-tabs")
 
   const panels = []
 
@@ -199,18 +285,18 @@ function initWeekView(week) {
     const entry = getEntry(week, d) || {}
     const dTitle = dayTitle(week, d) || entry.title || `Day ${d}`
     const dReading = dayReading(week, d) || entry.reading || ""
-    const hasContent = !!(entry.h || entry.e || entry.a || entry.r)
+    const hasContent = hasText(entry)
 
     const tab = document.createElement("button")
-    tab.classList.add("hear-tab")
+    tab.classList.add("journal-tab")
     tab.setAttribute("role", "tab")
     tab.setAttribute("aria-selected", d === 1 ? "true" : "false")
-    tab.innerHTML = `<span class="hear-tab-num">Day ${d}</span>`
+    tab.innerHTML = `<span class="journal-tab-num">Day ${d}</span>`
     if (hasContent) tab.classList.add("has-entry")
     tabBar.appendChild(tab)
 
     const panel = document.createElement("div")
-    panel.classList.add("hear-tab-panel")
+    panel.classList.add("journal-tab-panel")
     panel.setAttribute("role", "tabpanel")
     if (d !== 1) panel.style.display = "none"
 
@@ -223,55 +309,48 @@ function initWeekView(week) {
 
     if (dReading) {
       const readingEl = document.createElement("p")
-      readingEl.classList.add("hear-week-reading")
+      readingEl.classList.add("journal-week-reading")
       readingEl.textContent = dReading
       panel.appendChild(readingEl)
     }
 
     const statusEl = document.createElement("div")
-    statusEl.classList.add("hear-status")
+    statusEl.classList.add("journal-status")
 
-    const textareas = {}
+    const fieldDiv = document.createElement("div")
+    fieldDiv.classList.add("journal-field")
 
-    for (const def of fieldDefs) {
-      const fieldDiv = document.createElement("div")
-      fieldDiv.classList.add("hear-field")
+    const textarea = document.createElement("textarea")
+    textarea.classList.add("journal-entry")
+    textarea.rows = 12
+    textarea.setAttribute("aria-label", `Journal entry for day ${d}`)
+    textarea.placeholder = getJournalPlaceholder()
+    textarea.value = entryText(entry)
 
-      const label = document.createElement("label")
-      label.innerHTML = `<strong>${def.key.toUpperCase()}</strong> — ${def.label} <span class="hear-field-hint">${def.hint}</span>`
-
-      const textarea = document.createElement("textarea")
-      textarea.rows = def.rows
-      textarea.value = entry[def.key] || ""
-      textareas[def.key] = textarea
-
-      fieldDiv.appendChild(label)
-      fieldDiv.appendChild(textarea)
-      panel.appendChild(fieldDiv)
-    }
-
+    fieldDiv.appendChild(addPromptMenu(textarea, saveDay))
+    fieldDiv.appendChild(textarea)
+    panel.appendChild(fieldDiv)
     panel.appendChild(statusEl)
 
-    let saveTimeout = null
-    for (const def of fieldDefs) {
-      textareas[def.key].addEventListener("input", () => {
-        clearTimeout(saveTimeout)
-        saveTimeout = setTimeout(() => {
-          const current = getEntry(week, d) || {}
-          for (const fd of fieldDefs) { current[fd.key] = textareas[fd.key].value }
-          current.reading = dReading
-          current.title = dTitle
-          saveEntry(week, d, current)
-          showStatus(statusEl, "Saved")
-          tab.classList.add("has-entry")
-        }, 800)
-      })
+    function saveDay() {
+      saveEntry(week, d, buildEntry(getEntry(week, d), textarea.value, dReading, dTitle))
+      showStatus(statusEl, "Saved")
+      tab.classList.add("has-entry")
     }
+
+    let saveTimeout = null
+    textarea.addEventListener("input", () => {
+      autosize(textarea)
+      clearTimeout(saveTimeout)
+      saveTimeout = setTimeout(saveDay, 800)
+    })
+
+
 
     panels.push(panel)
 
     tab.addEventListener("click", () => {
-      tabBar.querySelectorAll(".hear-tab").forEach(t => {
+      tabBar.querySelectorAll(".journal-tab").forEach(t => {
         t.classList.remove("active")
         t.setAttribute("aria-selected", "false")
       })
@@ -279,21 +358,27 @@ function initWeekView(week) {
       tab.setAttribute("aria-selected", "true")
       panels.forEach(p => p.style.display = "none")
       panel.style.display = "block"
+      autosize(textarea)
     })
   }
 
-  tabBar.querySelector(".hear-tab").classList.add("active")
+  tabBar.querySelector(".journal-tab").classList.add("active")
   entriesEl.appendChild(tabBar)
   panels.forEach(p => entriesEl.appendChild(p))
+
+  // A textarea has no scrollHeight until it is both in the DOM and visible,
+  // so the first panel is sized here and the rest on tab activation.
+  const firstTextarea = panels[0].querySelector("textarea")
+  if (firstTextarea) autosize(firstTextarea)
 }
 
 // --- No params view ---
 
 function initNoParams() {
-  const noParams = document.getElementById("hear-journal-no-params")
+  const noParams = document.getElementById("journal-no-params")
   noParams.style.display = "block"
 
-  const select = document.getElementById("hear-week-select")
+  const select = document.getElementById("journal-week-select")
   const journal = getJournal()
   const totalWeeks = getTotalWeeks()
 
@@ -308,7 +393,7 @@ function initNoParams() {
     select.appendChild(opt)
   }
 
-  document.getElementById("hear-week-go").addEventListener("click", () => {
+  document.getElementById("journal-week-go").addEventListener("click", () => {
     const week = select.value
     if (week) window.location.search = `?week=${week}`
   })
@@ -317,7 +402,7 @@ function initNoParams() {
 // --- Init ---
 
 document.addEventListener("DOMContentLoaded", () => {
-  const journalEl = document.getElementById("hear-journal")
+  const journalEl = document.getElementById("journal")
   if (!journalEl) return
 
   const { week, day, reading, title } = getParams()

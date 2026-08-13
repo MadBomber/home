@@ -1,3 +1,11 @@
+import {
+  CUSTOM_METHOD,
+  DEFAULT_JOURNAL_PLACEHOLDER,
+  PROMPT_METHODS,
+  findMethod,
+  methodPlaceholder,
+} from "./journal-prompt.js"
+
 // NOTE: If you change storage_prefix in study_config.yml, update these keys to match.
 // Also update the inline FOUC-prevention script in src/_partials/_head.erb.
 const SETTINGS_KEY = "bst_settings"
@@ -12,6 +20,8 @@ const DEFAULT_SETTINGS = {
   },
   siteTheme: "light",
   fontSize: 18,
+  journalPromptMethod: CUSTOM_METHOD,
+  journalPlaceholder: DEFAULT_JOURNAL_PLACEHOLDER,
 }
 
 // --- Settings storage ---
@@ -23,6 +33,12 @@ function getSettings() {
       features: { ...DEFAULT_SETTINGS.features, ...(stored.features || {}) },
       siteTheme: stored.siteTheme || DEFAULT_SETTINGS.siteTheme,
       fontSize: parseInt(stored.fontSize, 10) || DEFAULT_SETTINGS.fontSize,
+      journalPromptMethod: findMethod(stored.journalPromptMethod)
+        ? stored.journalPromptMethod
+        : DEFAULT_SETTINGS.journalPromptMethod,
+      journalPlaceholder: typeof stored.journalPlaceholder === "string"
+        ? stored.journalPlaceholder
+        : DEFAULT_SETTINGS.journalPlaceholder,
     }
   } catch {
     return { ...DEFAULT_SETTINGS }
@@ -71,9 +87,73 @@ function applyFeatureVisibility() {
   })
 }
 
+// --- Journal entry prompt (the ghost text in an empty entry box) ---
+
+function initJournalPlaceholder() {
+  const select = document.getElementById("setting-journal-method")
+  const field = document.getElementById("setting-journal-placeholder")
+  if (!select || !field) return
+
+  const options = [
+    { id: CUSTOM_METHOD, name: "Write my own" },
+    ...PROMPT_METHODS.map(method => ({ id: method.id, name: method.name })),
+  ]
+
+  for (const option of options) {
+    const el = document.createElement("option")
+    el.value = option.id
+    el.textContent = option.name
+    select.appendChild(el)
+  }
+
+  field.placeholder = DEFAULT_JOURNAL_PLACEHOLDER
+
+  // The one textarea does double duty: it previews a chosen method (read only,
+  // since the method owns its wording) and edits the reader's own prompt.
+  function showMethod(id) {
+    const method = findMethod(id)
+    field.readOnly = !!method
+    field.classList.toggle("settings-textarea-readonly", !!method)
+    field.value = method ? methodPlaceholder(method) : getSettings().journalPlaceholder
+    field.rows = method ? method.steps.length : 4
+  }
+
+  const settings = getSettings()
+  select.value = settings.journalPromptMethod
+  showMethod(settings.journalPromptMethod)
+
+  select.addEventListener("change", () => {
+    const s = getSettings()
+    s.journalPromptMethod = select.value
+    saveSettings(s)
+    showMethod(select.value)
+    const method = findMethod(select.value)
+    showStatus(method ? `Journal prompt set to ${method.name}` : "Journal prompt set to your own wording.")
+  })
+
+  let saveTimeout = null
+  field.addEventListener("input", () => {
+    if (field.readOnly) return
+    clearTimeout(saveTimeout)
+    saveTimeout = setTimeout(() => {
+      // A blank field falls back to the default rather than leaving an empty
+      // box with no prompt at all.
+      const text = field.value.trim() || DEFAULT_JOURNAL_PLACEHOLDER
+      const s = getSettings()
+      s.journalPlaceholder = text
+      saveSettings(s)
+      showStatus("Journal prompt saved.")
+    }, 600)
+  })
+
+  field.addEventListener("blur", () => {
+    if (!field.readOnly && !field.value.trim()) field.value = DEFAULT_JOURNAL_PLACEHOLDER
+  })
+}
+
 // --- Journal data helpers (scoped to a single study's storage_prefix) ---
 
-function journalKey(prefix) { return `${prefix}_hear` }
+function journalKey(prefix) { return `${prefix}_journal` }
 
 function getJournalData(prefix) {
   try {
@@ -91,9 +171,7 @@ function validateJournalData(data) {
   if (typeof data !== "object" || data === null || Array.isArray(data)) return false
   for (const [key, entry] of Object.entries(data)) {
     if (typeof entry !== "object" || entry === null) return false
-    const fields = ["h", "e", "a", "r"]
-    const hasField = fields.some(f => typeof entry[f] === "string")
-    if (!hasField) return false
+    if (typeof entry.text !== "string") return false
   }
   return true
 }
@@ -521,6 +599,7 @@ function initSettingsPage() {
     })
   }
 
+  initJournalPlaceholder()
   initJournalStudyBlocks()
   initProgressStudyBlocks()
 

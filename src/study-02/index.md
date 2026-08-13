@@ -23,4 +23,4 @@ See [How to Use](/documents/how-to-use/) for practical guidance on working throu
 ### Study Documents
 
 - [How to Use](/documents/how-to-use/)
-- [The H.E.A.R. Method](/documents/hear-method/)
+- [Journaling](/documents/journaling/)

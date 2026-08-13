@@ -46,7 +46,7 @@ src/
     index.md
     memory-verses.erb
     reading-plan.erb
-    hear-journal.erb
+    journal.erb
     group-settings.erb
     documents/             # study-specific document overrides
     {section-slug}/
@@ -65,7 +65,7 @@ src/
 **Display order** for the documents menu is controlled by `PREFERRED_ORDER` in the resolver:
 
 ```
-choose-jesus → how-to-use → hear-method → about
+choose-jesus → how-to-use → about
 ```
 
 Any document with a slug not in that list appears after those four, in alphabetical order.
@@ -232,14 +232,14 @@ permalink: /your-slug/memory-verses/
 ---
 ```
 
-#### `hear-journal.erb`
+#### `journal.erb`
 
 ```yaml
 ---
-title: H.E.A.R. Journal
+title: Journal
 layout: default
 study_slug: your-slug
-permalink: /your-slug/hear-journal/
+permalink: /your-slug/journal/
 ---
 ```
 
@@ -360,7 +360,7 @@ type: memory_verse
 - [ ] `src/_data/{slug}/week_phases.yml` has one entry per week
 - [ ] `src/_data/{slug}/study_titles.json` created
 - [ ] `src/{slug}/index.md` created
-- [ ] `src/{slug}/reading-plan.erb`, `memory-verses.erb`, `hear-journal.erb`, `group-settings.erb` created
+- [ ] `src/{slug}/reading-plan.erb`, `memory-verses.erb`, `journal.erb`, `group-settings.erb` created
 - [ ] Each section has `src/{slug}/{section-slug}/index.md`
 - [ ] Each week has all seven files with correct zero-padded directory name
 - [ ] `storage_prefix` does not collide with any other study

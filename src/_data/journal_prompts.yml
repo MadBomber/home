@@ -1,0 +1,63 @@
+# Journal prompts, offered by the "Another prompt" button on an empty journal
+# entry and listed on /documents/journaling/. Both read this file, so adding a
+# prompt here is all that is needed.
+#
+# Each group needs an id (stable, used in markup), a name (shown to readers),
+# and a list of prompts. Groups may be added or removed freely.
+
+groups:
+- id: daily
+  name: To Start the Day
+  prompts:
+  - What is God saying to you in this passage?
+  - Which word or phrase stood out, and why that one?
+  - Where does this passage challenge something you believe or something you do?
+  - Write the key verse again in your own words.
+  - What is one thing you can do today because of this?
+  - Where have you already seen this to be true in your own life?
+  - What surprised you?
+  - What did you not understand?
+- id: hard-season
+  name: In a Hard Season
+  prompts:
+  - What does God promise here that you need to hold onto right now?
+  - How does this passage speak to what you are carrying at the moment?
+  - Write a prayer asking Him to help you trust this while it is still hard.
+  - What would it look like to hand this situation over entirely?
+  - Write about a time He proved faithful before. What does that say about now?
+- id: gratitude
+  name: For Gratitude and Praise
+  prompts:
+  - List ten things God has done for you this week, and find a verse for each.
+  - Write your own psalm of praise, modeled on Psalm 103.
+  - Which part of His character are you most grateful for today?
+  - Which prayer has He answered that you had forgotten praying?
+  - Write about someone He put in your life on purpose.
+- id: growth
+  name: For Growth
+  prompts:
+  - Which fruit of the Spirit (Galatians 5:22-23) do you most need to grow in, and
+    why that one?
+  - Who are you being asked to forgive? Write about it honestly.
+  - What does this passage expose that you would rather not look at?
+  - How would Jesus answer the situation you are facing?
+  - Write about a sin you keep returning to, and what Scripture says about it.
+  - Is there anything here you would rather not be true?
+  - What would change if you believed this today?
+- id: study
+  name: For Deeper Study
+  prompts:
+  - What was happening when this was written, and how does that change what it means?
+  - Read the passage in a second translation. What does the difference reveal?
+  - Find three cross-references. What pattern runs through them?
+  - What does the underlying Hebrew or Greek word carry that English leaves out?
+  - Where does this passage sit in the story the whole Bible is telling?
+- id: prayer
+  name: For Prayer
+  prompts:
+  - Rewrite the passage as a prayer in your own words.
+  - Who needs to hear this verse? Write a prayer for them.
+  - Work through the passage using Adoration, Confession, Thanksgiving, and Supplication
+    (ACTS).
+  - What is the Holy Spirit pressing you to pray about after this reading?
+  - Write God a letter about what this passage stirred up.

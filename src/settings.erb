@@ -15,7 +15,7 @@ permalink: /settings/
       <label class="settings-toggle-label">
         <input type="checkbox" id="setting-journal" />
         <span class="settings-toggle-text">
-          <strong>H.E.A.R. Journaling</strong>
+          <strong>Journaling</strong>
           <span class="settings-toggle-desc">Show the journal icon on day pages</span>
         </span>
       </label>
@@ -76,7 +76,18 @@ permalink: /settings/
 
   <section class="settings-section" data-feature="journal">
     <h2>Journal Data</h2>
-    <p class="settings-info">H.E.A.R. journal entries are tracked separately for each Bible study. Export, import, or clear a single study's entries below.</p>
+
+    <div class="settings-field">
+      <label class="settings-field-label" for="setting-journal-method">Journal entry prompt</label>
+      <p class="settings-info">
+        The faint text shown in an empty journal entry. Choose a method to be prompted through it step by step,
+        or write your own. See <a href="<%= relative_url '/documents/journaling/' %>">Journaling</a> for what each method asks.
+      </p>
+      <select id="setting-journal-method" class="settings-select"></select>
+      <textarea id="setting-journal-placeholder" class="settings-textarea" rows="4"></textarea>
+    </div>
+
+    <p class="settings-info">Journal entries are tracked separately for each Bible study. Export, import, or clear a single study's entries below.</p>
 
     <% site.data.studies.reject { |s| s["hidden"] }.each do |study| %>
       <%

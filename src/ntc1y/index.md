@@ -27,4 +27,4 @@ See [How to Use](<%= relative_url '/documents/how-to-use/' %>) for practical gui
 ### Study Documents
 
 - [How to Use](<%= relative_url '/documents/how-to-use/' %>)
-- [The H.E.A.R. Method](<%= relative_url '/documents/hear-method/' %>)
+- [Journaling](<%= relative_url '/documents/journaling/' %>)

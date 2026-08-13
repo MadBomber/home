@@ -9,7 +9,7 @@ function getStoragePrefix() {
 }
 
 function getGroupKey() { return `${getStoragePrefix()}_group` }
-function getHearKey()  { return `${getStoragePrefix()}_hear` }
+function getJournalKey()  { return `${getStoragePrefix()}_journal` }
 
 function getStudySlug() {
   try {
@@ -17,6 +17,18 @@ function getStudySlug() {
     if (!el) return ""
     return JSON.parse(el.textContent) || ""
   } catch { return "" }
+}
+
+function entryText(entry) {
+  return entry && typeof entry.text === "string" ? entry.text : ""
+}
+
+// An excerpt, not the whole entry — the journal is private by default and
+// the share button should not quietly mail all of it.
+function entryExcerpt(entry, limit = 280) {
+  const text = entryText(entry).trim()
+  if (text.length <= limit) return text
+  return `${text.slice(0, limit).trimEnd()}…`
 }
 
 function getGroupMembers() {
@@ -57,15 +69,15 @@ function buildMailtoLink() {
   parts.push(window.location.href)
   parts.push("")
 
-  // Include H.E.A.R. Highlight if available for this day
+  // Include an excerpt of the journal entry for this day, if there is one
   if (article && article.dataset.week && article.dataset.day) {
     try {
-      const journal = JSON.parse(localStorage.getItem(getHearKey()) || "{}")
+      const journal = JSON.parse(localStorage.getItem(getJournalKey()) || "{}")
       const key = `w${article.dataset.week}-d${article.dataset.day}`
-      const entry = journal[key]
-      if (entry && entry.h && entry.h.trim()) {
-        parts.push("What stood out to me:")
-        parts.push(entry.h.trim())
+      const excerpt = entryExcerpt(journal[key])
+      if (excerpt) {
+        parts.push("From my journal:")
+        parts.push(excerpt)
         parts.push("")
       }
     } catch {}

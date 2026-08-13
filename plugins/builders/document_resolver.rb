@@ -1,5 +1,5 @@
 class Builders::DocumentResolver < SiteBuilder
-  PREFERRED_ORDER = %w[choose-jesus how-to-use hear-method about].freeze
+  PREFERRED_ORDER = %w[choose-jesus how-to-use journaling about].freeze
 
   def build
     hook :site, :post_read do

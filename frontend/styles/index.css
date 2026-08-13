@@ -246,14 +246,22 @@
   border-color: var(--border-color);
 }
 
-[data-theme="dark"] .hear-field textarea {
+[data-theme="dark"] .journal-field textarea {
   background: var(--bg-surface-alt);
   border-color: var(--border-color);
   color: var(--text-primary);
 }
 
-[data-theme="dark"] .hear-field textarea::placeholder {
+[data-theme="dark"] .journal-field textarea::placeholder {
   color: var(--text-muted);
+}
+
+[data-theme="dark"] .settings-textarea,
+[data-theme="dark"] .settings-select,
+[data-theme="dark"] .journal-prompt-menu {
+  background: var(--bg-surface-alt);
+  border-color: var(--border-color);
+  color: var(--text-primary);
 }
 
 [data-theme="dark"] .progress-checkbox {
@@ -427,14 +435,22 @@
     border-color: var(--border-color);
   }
 
-  [data-theme="auto"] .hear-field textarea {
+  [data-theme="auto"] .journal-field textarea {
     background: var(--bg-surface-alt);
     border-color: var(--border-color);
     color: var(--text-primary);
   }
 
-  [data-theme="auto"] .hear-field textarea::placeholder {
+  [data-theme="auto"] .journal-field textarea::placeholder {
     color: var(--text-muted);
+  }
+
+  [data-theme="auto"] .settings-textarea,
+  [data-theme="auto"] .settings-select,
+  [data-theme="auto"] .journal-prompt-menu {
+    background: var(--bg-surface-alt);
+    border-color: var(--border-color);
+    color: var(--text-primary);
   }
 
   [data-theme="auto"] .progress-checkbox {
@@ -2517,52 +2533,36 @@ button.toolbar-icon {
   text-align: center;
 }
 
-/* --- H.E.A.R. Journal --- */
+/* --- Journal --- */
 
-.hear-journal-header {
+.journal-header {
   text-align: center;
   margin-bottom: 2rem;
 }
 
-.hear-journal-context {
+.journal-context {
   font-size: 1.1rem;
   color: var(--text-secondary);
   margin: 0.5rem 0;
 }
 
-.hear-journal-privacy {
+.journal-privacy {
   font-size: 0.85rem;
   color: var(--text-muted);
   font-style: italic;
   margin-top: 0.75rem;
 }
 
-.hear-journal-form {
+.journal-form-body {
   max-width: 42rem;
   margin: 0 auto;
 }
 
-.hear-field {
+.journal-field {
   margin-bottom: 1.75rem;
 }
 
-.hear-field label {
-  display: block;
-  font-family: var(--font-serif);
-  font-size: 1.1rem;
-  color: var(--purple-deep);
-  margin-bottom: 0.4rem;
-}
-
-.hear-field-hint {
-  display: block;
-  font-size: 0.85rem;
-  color: var(--text-muted);
-  font-weight: normal;
-  margin-top: 0.15rem;
-}
-
-.hear-field textarea {
+.journal-field textarea {
   width: 100%;
   font-family: var(--font-serif);
   font-size: 1rem;
@@ -2576,18 +2576,45 @@ button.toolbar-icon {
   transition: border-color 0.15s, box-shadow 0.15s;
 }
 
-.hear-field textarea:focus {
+.journal-field textarea:focus {
   outline: none;
   border-color: var(--purple-light);
   box-shadow: 0 0 0 3px rgba(124, 77, 255, 0.15);
 }
 
-.hear-field textarea::placeholder {
+.journal-field textarea::placeholder {
   color: var(--text-muted);
   font-style: italic;
 }
 
-.hear-status {
+/* Single free-form entry box; JS grows it to fit its content. */
+.journal-entry {
+  min-height: 18rem;
+  overflow-y: hidden;
+}
+
+/* Sits above the entry box; inserts a method's questions or a single one */
+.journal-prompt-menu {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.35rem 0.6rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  color: var(--purple-deep);
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.journal-prompt-menu:hover {
+  background: var(--purple-faint);
+  border-color: var(--purple-light);
+}
+
+.journal-status {
   text-align: center;
   font-size: 0.9rem;
   color: var(--gold);
@@ -2597,27 +2624,27 @@ button.toolbar-icon {
   margin-top: 0.5rem;
 }
 
-.hear-status.visible {
+.journal-status.visible {
   opacity: 1;
 }
 
 /* Week review view */
 
-.hear-journal-week-view {
+.journal-week-view {
   max-width: 42rem;
   margin: 0 auto;
 }
 
 /* Day tabs */
 
-.hear-tabs {
+.journal-tabs {
   display: flex;
   gap: 0.25rem;
   border-bottom: 2px solid var(--purple-faint);
   margin-bottom: 1.5rem;
 }
 
-.hear-tab {
+.journal-tab {
   flex: 1;
   padding: 0.75rem 0.5rem;
   border: none;
@@ -2633,17 +2660,17 @@ button.toolbar-icon {
   position: relative;
 }
 
-.hear-tab:hover {
+.journal-tab:hover {
   color: var(--text-primary);
   background: var(--purple-faint);
 }
 
-.hear-tab.active {
+.journal-tab.active {
   color: var(--purple-deep);
   border-bottom-color: var(--gold);
 }
 
-.hear-tab.has-entry::after {
+.journal-tab.has-entry::after {
   content: "";
   display: inline-block;
   width: 6px;
@@ -2654,11 +2681,11 @@ button.toolbar-icon {
   vertical-align: middle;
 }
 
-.hear-tab-panel h3 {
+.journal-tab-panel h3 {
   margin-bottom: 0.25rem;
 }
 
-.hear-tab-panel .hear-week-reading {
+.journal-tab-panel .journal-week-reading {
   font-size: 0.9rem;
   color: var(--text-muted);
   margin: 0 0 1rem;
@@ -2666,7 +2693,7 @@ button.toolbar-icon {
 
 /* No-params landing */
 
-.hear-week-selector {
+.journal-week-selector {
   display: flex;
   gap: 0.75rem;
   align-items: center;
@@ -2674,7 +2701,7 @@ button.toolbar-icon {
   margin-top: 1rem;
 }
 
-.hear-week-selector select {
+.journal-week-selector select {
   font-family: var(--font-sans);
   font-size: 1rem;
   padding: 0.5rem 0.75rem;
@@ -2684,7 +2711,7 @@ button.toolbar-icon {
   color: var(--text-primary);
 }
 
-.hear-week-go-btn {
+.journal-week-go-btn {
   font-family: var(--font-sans);
   font-size: 0.95rem;
   font-weight: 600;
@@ -2697,7 +2724,7 @@ button.toolbar-icon {
   transition: background 0.15s;
 }
 
-.hear-week-go-btn:hover {
+.journal-week-go-btn:hover {
   background: var(--purple-mid);
 }
 
@@ -2931,6 +2958,61 @@ button.toolbar-icon {
   outline: none;
   border-color: var(--purple-light);
   box-shadow: 0 0 0 3px rgba(124, 77, 255, 0.15);
+}
+
+/* Free-text settings field (the journal entry prompt) */
+
+.settings-field {
+  margin-bottom: 1.5rem;
+}
+
+.settings-field-label {
+  display: block;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+
+.settings-textarea {
+  width: 100%;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  color: var(--text-primary);
+  resize: vertical;
+}
+
+.settings-textarea:focus {
+  outline: none;
+  border-color: var(--purple-light);
+  box-shadow: 0 0 0 3px rgba(124, 77, 255, 0.15);
+}
+
+.settings-textarea::placeholder {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Previewing a method rather than editing your own wording */
+.settings-textarea-readonly {
+  color: var(--text-secondary);
+  cursor: default;
+}
+
+.settings-select {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.6rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  color: var(--text-primary);
 }
 
 .group-member-input-email {

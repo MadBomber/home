@@ -10,7 +10,7 @@ description: Practical guidance for working through a study individually or with
 ### Daily Rhythm
 
 - Read the assigned passage for the day
-- Use the [H.E.A.R. method](/documents/hear-method/) to record your observations
+- Write down what stood out to you in the [journal](/documents/journaling/)
 - Spend a few minutes in prayer
 
 ### Weekly Rhythm

@@ -20,7 +20,7 @@
           <a href="../memory-verse/" class="toolbar-icon">Verse</a>
         <% end %>
         <% if @resource.data[:week] && @resource.data[:day] %>
-          <a href="<%= relative_url "#{study_prefix}/hear-journal/" %>?week=<%= @resource.data[:week] %>&day=<%= @resource.data[:day] %>&reading=<%= ERB::Util.url_encode(@resource.data[:reading].to_s) %>&title=<%= ERB::Util.url_encode(@resource.data[:title].to_s) %>" target="_blank" class="toolbar-icon" data-feature="journal">Journal</a>
+          <a href="<%= relative_url "#{study_prefix}/journal/" %>?week=<%= @resource.data[:week] %>&day=<%= @resource.data[:day] %>&reading=<%= ERB::Util.url_encode(@resource.data[:reading].to_s) %>&title=<%= ERB::Util.url_encode(@resource.data[:title].to_s) %>" target="_blank" class="toolbar-icon" data-feature="journal">Journal</a>
         <% end %>
         <button class="toolbar-icon toolbar-speak-btn" data-feature="speak">Speak</button>
         <a href="#" id="toolbar-share-email" class="toolbar-icon" data-feature="group">Share</a>
