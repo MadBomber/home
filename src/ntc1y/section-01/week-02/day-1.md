@@ -25,7 +25,7 @@ study_slug: ntc1y
 
 Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Luke.2" target="_blank" rel="noopener">Luke chapter 2</a>
 
-> *"For my eyes have seen your salvation that you have prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to your people Israel."* -- Luke 2:30-32 (ESV)
+> *"Did you not know that I must be in my Father's house?"* -- Luke 2:49 (ESV)
 
 ---
 

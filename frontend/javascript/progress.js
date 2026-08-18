@@ -230,10 +230,8 @@ function addMarkCompleteButton(container, storageKey) {
   wrapper.appendChild(btn)
   wrapper.appendChild(dateSpan)
 
-  const hr = container.querySelector("hr")
-  const weekNav = container.querySelector(".week-nav")
-  if (hr) { hr.parentNode.insertBefore(wrapper, hr) }
-  else if (weekNav) { weekNav.parentNode.insertBefore(wrapper, weekNav) }
+  const bottomNav = container.querySelector(".week-nav, .section-nav")
+  if (bottomNav) { bottomNav.parentNode.insertBefore(wrapper, bottomNav) }
   else { container.appendChild(wrapper) }
 }
 
