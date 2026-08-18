@@ -25,17 +25,8 @@ document.addEventListener("DOMContentLoaded", () => {
     if (e.key === "Escape") closeMenu()
   })
 
-  // Accordion section toggles — each opens/closes independently
-  menu.querySelectorAll(".nav-accordion-toggle").forEach(toggle => {
-    toggle.addEventListener("click", (e) => {
-      e.stopPropagation()
-      const expanded = toggle.getAttribute("aria-expanded") === "true"
-      toggle.setAttribute("aria-expanded", String(!expanded))
-    })
-  })
-
-  // Leaf links (not accordion toggles) close the whole menu
-  menu.querySelectorAll("a").forEach(link => {
-    link.addEventListener("click", closeMenu)
+  // Any link or button tap in the menu closes it
+  menu.querySelectorAll("a, button").forEach(el => {
+    el.addEventListener("click", closeMenu)
   })
 })

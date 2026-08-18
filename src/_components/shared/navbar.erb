@@ -10,9 +10,17 @@
       <% else %>
         <a href="<%= relative_url '/' %>" class="site-brand"><%= @metadata.title %></a>
       <% end %>
+
+      <button type="button" class="hamburger-btn" aria-expanded="false" aria-controls="page-toolbar" aria-label="Menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </button>
     </header>
 
-    <div class="page-toolbar">
+    <div class="page-toolbar hamburger-menu" id="page-toolbar">
       <div class="toolbar-center">
         <a href="<%= relative_url '/' %>" class="toolbar-icon">Home</a>
         <a href="<%= relative_url '/blog/' %>" class="toolbar-icon">Essays</a>

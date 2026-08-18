@@ -624,6 +624,7 @@ a:hover {
 .site-top-right {
   flex: 1;
   min-width: 0;
+  position: relative;
 }
 
 .site-header {
@@ -632,6 +633,32 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.hamburger-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  border: none;
+  border-radius: var(--radius);
+  background: none;
+  color: var(--gold-light);
+  cursor: pointer;
+}
+
+.hamburger-btn svg {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.hamburger-btn:hover,
+.hamburger-btn[aria-expanded="true"] {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.15);
 }
 
 .site-brand {
@@ -2353,16 +2380,6 @@ tr:hover td {
   min-width: 0;
 }
 
-@media (max-width: 600px) {
-  .page-toolbar {
-    padding: 0.25rem 0.5rem;
-  }
-
-  .toolbar-icon {
-    padding: 0.35rem 0.5rem;
-  }
-}
-
 .toolbar-icon {
   display: flex;
   align-items: center;
@@ -2426,105 +2443,65 @@ button.toolbar-icon {
   opacity: 1;
 }
 
-/* --- Hamburger Menu --- */
+/* --- Phone menu ---
+   Below 600px the toolbar collapses behind the hamburger button in
+   .site-header and reflows as a full-width dropdown under it. iPads
+   (>= 744px CSS width, portrait or landscape) and desktop keep the
+   normal horizontal .page-toolbar row untouched. */
 
-.hamburger-wrapper {
-  position: relative;
-}
+@media (max-width: 600px) {
+  .site-logo {
+    width: 64px;
+    height: 72px;
+  }
 
-.hamburger-menu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  margin-top: 0.4rem;
-  min-width: 200px;
-  background: var(--purple-deep);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  border-radius: var(--radius);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
-  z-index: 1000;
-  padding: 0.5rem 0;
-}
+  .site-header {
+    padding: 0.6rem 0.75rem 0.6rem 1rem;
+    justify-content: space-between;
+  }
 
-.hamburger-menu.open {
-  display: block;
-}
+  .site-brand {
+    font-size: 1.4rem;
+  }
 
-.hamburger-menu ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
+  .hamburger-btn {
+    display: flex;
+  }
 
-.hamburger-menu li a {
-  display: block;
-  padding: 0.6rem 1.25rem;
-  color: rgba(255, 255, 255, 0.85);
-  text-decoration: none;
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-  font-weight: 500;
-  transition: background 0.15s, color 0.15s;
-}
+  .page-toolbar.hamburger-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: stretch;
+    row-gap: 0;
+    background: var(--purple-deep);
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    z-index: 1000;
+    padding: 0.5rem 0;
+  }
 
-.hamburger-menu li a:hover {
-  background: rgba(255, 255, 255, 0.1);
-  color: #fff;
-}
+  .page-toolbar.hamburger-menu.open {
+    display: flex;
+  }
 
-.nav-separator {
-  height: 1px;
-  background: rgba(255, 255, 255, 0.12);
-  margin: 0.4rem 0;
-  padding: 0;
-}
+  .toolbar-center,
+  .toolbar-right {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    gap: 0;
+  }
 
-/* Accordion toggle button — styled like a nav link */
-.nav-accordion-toggle {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  padding: 0.6rem 1.25rem;
-  background: none;
-  border: none;
-  color: rgba(255, 255, 255, 0.85);
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-  font-weight: 500;
-  cursor: pointer;
-  transition: background 0.15s, color 0.15s;
-  text-align: left;
-}
-
-.nav-accordion-toggle:hover {
-  background: rgba(255, 255, 255, 0.1);
-  color: #fff;
-}
-
-.nav-accordion-icon {
-  width: 14px;
-  height: 14px;
-  flex-shrink: 0;
-  margin-left: 0.5rem;
-  transition: transform 0.2s ease;
-}
-
-.nav-accordion-toggle[aria-expanded="true"] .nav-accordion-icon {
-  transform: rotate(180deg);
-}
-
-/* Accordion panel hidden by default, shown when toggle is expanded */
-.nav-accordion-panel {
-  display: none;
-  padding-left: 0.75rem;
-  border-left: 2px solid rgba(255, 255, 255, 0.15);
-  margin: 0 0.75rem 0.25rem;
-}
-
-.nav-accordion-toggle[aria-expanded="true"] + .nav-accordion-panel {
-  display: block;
+  .toolbar-icon {
+    justify-content: flex-start;
+    width: 100%;
+    padding: 0.6rem 1.25rem;
+    border-radius: 0;
+  }
 }
 
 /* --- Utility --- */
