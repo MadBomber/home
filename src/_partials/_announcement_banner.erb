@@ -1,0 +1,10 @@
+<% if site.data.announcement %>
+<%
+  _ann = site.data.announcement
+  _ann_href = _ann["link"].to_s.empty? ? relative_url(_ann["url"]) : _ann["link"]
+%>
+<div class="announcement-banner" id="announcement-banner" role="region" aria-label="Announcement" hidden>
+  <a href="<%= _ann_href %>" class="announcement-banner-link" id="announcement-banner-link"><%= _ann["title"] %></a>
+  <button type="button" class="announcement-banner-dismiss" id="announcement-banner-dismiss" aria-label="Dismiss announcement">&times;</button>
+</div>
+<% end %>

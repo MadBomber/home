@@ -584,6 +584,58 @@ a:hover {
   color: var(--purple-deep);
 }
 
+/* --- Announcement Banner --- */
+
+.announcement-banner[hidden] {
+  display: none;
+}
+
+.announcement-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  border-left: 4px solid var(--gold);
+  background: var(--purple-faint);
+  color: var(--text-primary);
+  padding: 0.6rem 1rem;
+  text-align: center;
+}
+
+.announcement-banner-link {
+  color: var(--text-primary);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.announcement-banner-link:hover {
+  color: var(--gold);
+  text-decoration: underline;
+}
+
+.announcement-banner-dismiss {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  margin: -0.5rem -0.5rem -0.5rem 0;
+  border: none;
+  border-radius: var(--radius);
+  background: none;
+  color: var(--text-secondary);
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.announcement-banner-dismiss:hover {
+  color: var(--gold);
+}
+
 /* --- Site Header & Nav --- */
 
 .site-top {
@@ -2450,6 +2502,16 @@ button.toolbar-icon {
    normal horizontal .page-toolbar row untouched. */
 
 @media (max-width: 600px) {
+  .announcement-banner {
+    text-align: left;
+    align-items: flex-start;
+  }
+
+  .announcement-banner-link {
+    flex: 1;
+    min-width: 0;
+  }
+
   .site-logo {
     width: 64px;
     height: 72px;
@@ -3538,6 +3600,7 @@ button.toolbar-icon {
 }
 
 @media print {
+  .announcement-banner,
   .site-top,
   .site-header,
   .site-logo-link,

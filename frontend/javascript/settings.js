@@ -5,7 +5,7 @@ import {
   findMethod,
   methodPlaceholder,
 } from "./journal-prompt.js"
-import { GROUP_KEY, SETTINGS_KEY } from "./storage-keys.js"
+import { BANNER_KEY, GROUP_KEY, SETTINGS_KEY } from "./storage-keys.js"
 import { entryText } from "./journal-entry.js"
 
 const DEFAULT_SETTINGS = {
@@ -691,6 +691,14 @@ function initSettingsPage() {
 
     fontSizeInput.addEventListener("change", () => {
       applyAndSaveFontSize(clampFontSize(parseInt(fontSizeInput.value, 10) || 18))
+    })
+  }
+
+  const resetBannerBtn = document.getElementById("settings-reset-banner")
+  if (resetBannerBtn) {
+    resetBannerBtn.addEventListener("click", () => {
+      localStorage.removeItem(BANNER_KEY)
+      showStatus("Announcement banner reset. Reload any page to see it again.")
     })
   }
 

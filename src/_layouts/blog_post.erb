@@ -28,6 +28,7 @@ layout: default
   blog_posts = site.resources
     .select { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
     .reject { |r| r.relative_url.to_s.end_with?('/blog/') }
+    .reject { |r| r.relative_url.to_s.end_with?('/blog/announcement/') }
 
   current_collection = data[:collection]
 

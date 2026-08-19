@@ -12,3 +12,8 @@
 
 export const SETTINGS_KEY = "bst_settings"
 export const GROUP_KEY = "bst_group"
+
+// The announcement banner's dismissed-state marker. Stores the announcement's
+// own front-matter date, not a dismissal timestamp — bumping that date in
+// announcement.md resurfaces the banner for readers who already dismissed it.
+export const BANNER_KEY = "bst_banner_dismissed"
