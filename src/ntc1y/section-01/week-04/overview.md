@@ -27,7 +27,7 @@ This week marks the explosive beginning of Jesus' public ministry in Galilee. Af
 
 By the end of this week, the pattern of Jesus' ministry is firmly established: teaching with unprecedented authority, healing diseases and casting out demons, calling ordinary people to follow him, and confronting the assumptions of the religious establishment. The calling of fishermen and tax collectors signals that this Kingdom operates by different rules than the religious system of the day. The miracles are not mere spectacles but signs that the long-awaited reign of God has arrived. And the controversies that begin this week -- over forgiveness of sins, table fellowship with sinners, and the proper interpretation of Sabbath traditions -- will escalate steadily until they reach their deadly climax in Jerusalem.
 
-This week bridges Phase 1 and Phase 2 of our study. The coming of Christ -- his birth, preparation, and testing -- gives way to the full Galilean ministry. Everything we have studied so far has been prologue; now the main drama begins. The eternal Word who became flesh, who was baptized in the Jordan and tested in the wilderness, now steps onto the public stage and begins to reveal what the Kingdom of God looks like when it breaks into a broken world.
+This week bridges section 1 and section 2 of our study. The coming of Christ -- his birth, preparation, and testing -- gives way to the full Galilean ministry. Everything we have studied so far has been prologue; now the main drama begins. The eternal Word who became flesh, who was baptized in the Jordan and tested in the wilderness, now steps onto the public stage and begins to reveal what the Kingdom of God looks like when it breaks into a broken world.
 
 ## This Week's Readings
 
@@ -60,4 +60,3 @@ This week bridges Phase 1 and Phase 2 of our study. The coming of Christ -- his 
 - **Calling and Discipleship** -- Jesus does not wait for students to come to him, as rabbis typically did. He goes to them -- on the lakeshore, at the tax booth -- and issues a summons that demands everything: "Follow me." The response is always immediate and total.
 - **Controversy with Religious Leaders** -- The seeds of the final conflict are planted this week. Jesus claims divine prerogatives (forgiving sins), violates social boundaries (eating with sinners), and challenges accepted practices (fasting). The Pharisees begin asking hostile questions, and the trajectory toward the cross becomes visible.
 - **New Wine in New Wineskins** -- Jesus' parable at the end of Mark 2 signals that what he brings cannot be contained within the existing religious structures. The old forms must give way to something radically new.
-

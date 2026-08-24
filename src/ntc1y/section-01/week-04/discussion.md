@@ -88,7 +88,7 @@ This week we read accounts from Matthew, Luke, and Mark covering many of the sam
 
 ## Looking Ahead
 
-Next week we move into Phase 2: The Galilean Ministry. The public ministry that began this week will expand dramatically as Jesus delivers the Sermon on the Mount (Matthew 5-7), appoints the Twelve, and teaches through parables. The authority and controversy we have witnessed in these opening scenes will only intensify. The pattern is set: the Kingdom of God has arrived, and nothing will ever be the same.
+Next week we move into section 2: The Galilean Ministry. The public ministry that began this week will expand dramatically as Jesus delivers the Sermon on the Mount (Matthew 5-7), appoints the Twelve, and teaches through parables. The authority and controversy we have witnessed in these opening scenes will only intensify. The pattern is set: the Kingdom of God has arrived, and nothing will ever be the same.
 
 ## Closing Prayer
 
