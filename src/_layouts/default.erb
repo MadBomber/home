@@ -5,6 +5,7 @@
   </head>
   <body class="<%= data.layout %> <%= data.page_class %>" data-base-path="<%= site.base_path.to_s %>">
     <%= render "announcement_banner" %>
+    <%= render "tip_of_week" %>
     <%= render Shared::Navbar.new(
       metadata:           site.metadata,
       resource:           resource,
@@ -31,6 +32,7 @@
     <script id="study-config-data" type="application/json"><%== _study_cfg.to_json %></script>
     <script id="study-titles-data" type="application/json"><%== _study_titles.to_json %></script>
     <script id="announcement-data" type="application/json"><%== site.data.announcement.to_json %></script>
+    <script id="tips-data" type="application/json"><%== (site.data.tips_ordered || []).to_json %></script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

@@ -135,6 +135,17 @@
   color: var(--purple-deep);
 }
 
+/* Beats the a-color override above: the tip banner sits on a fixed pale
+   background (see the .tip-banner rule) and needs fixed dark ink regardless
+   of theme, not the light link color dark mode gives every other anchor. */
+[data-theme="dark"] .tip-banner-link {
+  color: #1a1a1e;
+}
+
+[data-theme="dark"] .tip-banner-link:hover {
+  color: #311b92;
+}
+
 [data-theme="dark"] h1,
 [data-theme="dark"] h2,
 [data-theme="dark"] h3,
@@ -324,6 +335,14 @@
     color: var(--purple-deep);
   }
 
+  [data-theme="auto"] .tip-banner-link {
+    color: #1a1a1e;
+  }
+
+  [data-theme="auto"] .tip-banner-link:hover {
+    color: #311b92;
+  }
+
   [data-theme="auto"] h1,
   [data-theme="auto"] h2,
   [data-theme="auto"] h3,
@@ -495,6 +514,16 @@
   text-decoration-style: solid;
 }
 
+.blog-post-body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem auto;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+}
+
 .rtTooltip {
   background: var(--bg-surface);
   color: var(--text-primary);
@@ -634,6 +663,71 @@ a:hover {
 
 .announcement-banner-dismiss:hover {
   color: var(--gold);
+}
+
+/* --- Tip of the Week Banner ---
+   Same shape as the announcement banner, colors swapped (gold-tinted
+   background, purple border) so the two read as distinct message types
+   when both are showing. */
+
+.tip-banner[hidden] {
+  display: none;
+}
+
+/* --gold-light stays a pale tint in both palettes (same as the .search-result-card
+   mark and .day-complete-btn.completed precedent), so this banner is set in fixed
+   dark ink and a fixed dark purple rather than the --text- and --purple- variables,
+   which invert to light colors in dark mode and go unreadable on this background. */
+.tip-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  border-left: 4px solid #311b92;
+  background: var(--gold-light);
+  color: #1a1a1e;
+  padding: 0.6rem 1rem;
+  text-align: center;
+}
+
+.tip-banner-link {
+  color: #1a1a1e;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.tip-banner-link::before {
+  content: "Tip: ";
+  font-weight: 400;
+  color: rgba(26, 26, 30, 0.65);
+}
+
+.tip-banner-link:hover {
+  color: #311b92;
+  text-decoration: underline;
+}
+
+.tip-banner-dismiss {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  margin: -0.5rem -0.5rem -0.5rem 0;
+  border: none;
+  border-radius: var(--radius);
+  background: none;
+  color: rgba(26, 26, 30, 0.65);
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.tip-banner-dismiss:hover {
+  color: #311b92;
 }
 
 /* --- Site Header & Nav --- */
@@ -1194,6 +1288,12 @@ tr:hover td {
   line-height: 1.5;
 }
 
+.tips-group-desc {
+  margin: 0 0 1rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
 /* --- Blog Index --- */
 
 .blog-index {
@@ -1367,6 +1467,25 @@ tr:hover td {
 .blog-post-nav-date {
   color: var(--text-muted);
   font-size: 0.8rem;
+}
+
+.tip-nav-random {
+  flex-shrink: 0;
+  align-self: center;
+  padding: 0.3rem 0.8rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: none;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--purple-light);
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.tip-nav-random:hover {
+  border-color: var(--purple-light);
+  color: var(--purple-deep);
 }
 
 .blog-post-nav-link:hover .blog-post-nav-title {
@@ -2502,12 +2621,14 @@ button.toolbar-icon {
    normal horizontal .page-toolbar row untouched. */
 
 @media (max-width: 600px) {
-  .announcement-banner {
+  .announcement-banner,
+  .tip-banner {
     text-align: left;
     align-items: flex-start;
   }
 
-  .announcement-banner-link {
+  .announcement-banner-link,
+  .tip-banner-link {
     flex: 1;
     min-width: 0;
   }
@@ -3601,6 +3722,7 @@ button.toolbar-icon {
 
 @media print {
   .announcement-banner,
+  .tip-banner,
   .site-top,
   .site-header,
   .site-logo-link,

@@ -17,3 +17,10 @@ export const GROUP_KEY = "bst_group"
 // own front-matter date, not a dismissal timestamp — bumping that date in
 // announcement.md resurfaces the banner for readers who already dismissed it.
 export const BANNER_KEY = "bst_banner_dismissed"
+
+// The tip banner's dismissed-state marker. A different tip is picked at
+// random on every page load, so this does not name a tip — it stores the
+// ISO year-week (e.g. "2026-W35") the reader dismissed it in. Dismissing
+// silences the banner, whichever tip is showing, for the rest of that week;
+// it reappears on its own once the week rolls over.
+export const TIP_DISMISSED_KEY = "bst_tip_dismissed"

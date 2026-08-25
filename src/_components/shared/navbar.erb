@@ -24,6 +24,7 @@
       <div class="toolbar-center">
         <a href="<%= relative_url '/' %>" class="toolbar-icon">Home</a>
         <a href="<%= relative_url '/blog/' %>" class="toolbar-icon">Essays</a>
+        <a href="<%= relative_url '/tips/' %>" class="toolbar-icon" data-feature="tips">Tips</a>
         <% if @resource.data[:week] %>
           <a href="../memory-verse/" class="toolbar-icon">Verse</a>
         <% end %>

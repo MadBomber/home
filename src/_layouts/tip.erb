@@ -1,0 +1,67 @@
+---
+layout: default
+---
+<%
+  tips     = site.data.tips_ordered || []
+  idx      = tips.index { |t| t["url"] == resource.relative_url.to_s }
+  prev_tip = idx && idx > 0 ? tips[idx - 1] : nil
+  next_tip = idx && idx < tips.length - 1 ? tips[idx + 1] : nil
+%>
+
+<article class="blog-post">
+  <nav class="blog-post-nav">
+    <% if prev_tip %>
+      <a href="<%= relative_url prev_tip["url"] %>" class="blog-post-nav-link blog-post-nav-older">
+        <span class="blog-post-nav-arrow">&larr;</span>
+        <span class="blog-post-nav-title"><%= prev_tip["title"] %></span>
+      </a>
+    <% else %>
+      <span></span>
+    <% end %>
+    <% if tips.length > 1 %>
+      <button type="button" class="tip-nav-random" data-tip-random>Random Tip</button>
+    <% else %>
+      <span></span>
+    <% end %>
+    <% if next_tip %>
+      <a href="<%= relative_url next_tip["url"] %>" class="blog-post-nav-link blog-post-nav-newer">
+        <span class="blog-post-nav-title"><%= next_tip["title"] %></span>
+        <span class="blog-post-nav-arrow">&rarr;</span>
+      </a>
+    <% else %>
+      <span></span>
+    <% end %>
+  </nav>
+
+  <header class="blog-post-header">
+    <h1><%= data.title %></h1>
+  </header>
+
+  <div class="blog-post-body">
+    <%= yield %>
+  </div>
+
+  <nav class="blog-post-nav blog-post-nav-bottom">
+    <% if prev_tip %>
+      <a href="<%= relative_url prev_tip["url"] %>" class="blog-post-nav-link blog-post-nav-older">
+        <span class="blog-post-nav-arrow">&larr;</span>
+        <span class="blog-post-nav-title"><%= prev_tip["title"] %></span>
+      </a>
+    <% else %>
+      <span></span>
+    <% end %>
+    <% if tips.length > 1 %>
+      <button type="button" class="tip-nav-random" data-tip-random>Random Tip</button>
+    <% else %>
+      <span></span>
+    <% end %>
+    <% if next_tip %>
+      <a href="<%= relative_url next_tip["url"] %>" class="blog-post-nav-link blog-post-nav-newer">
+        <span class="blog-post-nav-title"><%= next_tip["title"] %></span>
+        <span class="blog-post-nav-arrow">&rarr;</span>
+      </a>
+    <% else %>
+      <span></span>
+    <% end %>
+  </nav>
+</article>

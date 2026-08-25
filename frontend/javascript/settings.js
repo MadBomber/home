@@ -5,7 +5,7 @@ import {
   findMethod,
   methodPlaceholder,
 } from "./journal-prompt.js"
-import { BANNER_KEY, GROUP_KEY, SETTINGS_KEY } from "./storage-keys.js"
+import { BANNER_KEY, GROUP_KEY, SETTINGS_KEY, TIP_DISMISSED_KEY } from "./storage-keys.js"
 import { entryText } from "./journal-entry.js"
 
 const DEFAULT_SETTINGS = {
@@ -14,6 +14,7 @@ const DEFAULT_SETTINGS = {
     speak: true,
     group: false,
     discussions: false,
+    tips: true,
   },
   siteTheme: "light",
   fontSize: 18,
@@ -73,15 +74,28 @@ function applyFontSize() {
 }
 
 // --- Feature visibility ---
+//
+// Rewrites the same !important stylesheet the FOUC-prevention script in
+// _head.erb injects before paint (id="feature-visibility-style"), rather
+// than toggling each element's inline style. That script's rule has to be
+// !important to reliably beat page-specific CSS, and an inline style can't
+// outrank an !important stylesheet rule — so turning a feature back on
+// mid-page used to leave it hidden until the next full page load.
 
 function applyFeatureVisibility() {
   const settings = getSettings()
-  document.querySelectorAll("[data-feature]").forEach(el => {
-    const feature = el.dataset.feature
-    if (feature in settings.features) {
-      el.style.display = settings.features[feature] ? "" : "none"
-    }
-  })
+  const css = Object.entries(settings.features)
+    .filter(([, enabled]) => !enabled)
+    .map(([feature]) => `[data-feature="${feature}"]{display:none!important}`)
+    .join("")
+
+  let style = document.getElementById("feature-visibility-style")
+  if (!style) {
+    style = document.createElement("style")
+    style.id = "feature-visibility-style"
+    document.head.appendChild(style)
+  }
+  style.textContent = css
 }
 
 // --- Journal entry prompt (the ghost text in an empty entry box) ---
@@ -614,6 +628,7 @@ function initSettingsPage() {
     "setting-speak": "speak",
     "setting-group": "group",
     "setting-discussions": "discussions",
+    "setting-tips": "tips",
   }
 
   for (const [id, feature] of Object.entries(toggles)) {
@@ -699,6 +714,14 @@ function initSettingsPage() {
     resetBannerBtn.addEventListener("click", () => {
       localStorage.removeItem(BANNER_KEY)
       showStatus("Announcement banner reset. Reload any page to see it again.")
+    })
+  }
+
+  const resetTipBtn = document.getElementById("settings-reset-tip")
+  if (resetTipBtn) {
+    resetTipBtn.addEventListener("click", () => {
+      localStorage.removeItem(TIP_DISMISSED_KEY)
+      showStatus("Tip of the week reset. Reload any page to see it again.")
     })
   }
 

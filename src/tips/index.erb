@@ -1,0 +1,61 @@
+---
+layout: default
+title: Tips
+description: Short tips to help you get the most out of these Bible studies.
+permalink: /tips/
+---
+
+<%
+  tips = site.data.tips_ordered || []
+
+  groups = [
+    { "slug" => "study", "title" => "How to Study", "description" => "Habits for reading Scripture itself, wherever you read it." },
+    { "slug" => "site",  "title" => "Using This Site", "description" => "Features built into these studies that are easy to miss." },
+  ].filter_map { |g|
+    items = tips.select { |t| t["category"] == g["slug"] }
+    items.empty? ? nil : g.merge("items" => items)
+  }
+
+  grouped_slugs = groups.flat_map { |g| g["items"].map { |t| t["url"] } }
+  ungrouped = tips.reject { |t| grouped_slugs.include?(t["url"]) }
+%>
+
+<section class="blog-index">
+  <div class="blog-index-hero">
+    <h1>Tips</h1>
+    <p>Short tips to help you get the most out of these Bible studies. A different one greets you on every page, until you dismiss it for the week.</p>
+  </div>
+
+  <% if tips.empty? %>
+    <p class="blog-empty">No tips yet. Check back soon.</p>
+  <% end %>
+
+  <% groups.each do |group| %>
+    <div class="tips-group">
+      <h2><%= group["title"] %></h2>
+      <p class="tips-group-desc"><%= group["description"] %></p>
+      <div class="guide-cards">
+        <% group["items"].each do |tip| %>
+          <a href="<%= relative_url tip["url"] %>" class="guide-card">
+            <h3><%= tip["title"] %></h3>
+            <% if tip["description"] %><p><%= tip["description"] %></p><% end %>
+          </a>
+        <% end %>
+      </div>
+    </div>
+  <% end %>
+
+  <% unless ungrouped.empty? %>
+    <div class="tips-group">
+      <% if groups.any? %><h2>More Tips</h2><% end %>
+      <div class="guide-cards">
+        <% ungrouped.each do |tip| %>
+          <a href="<%= relative_url tip["url"] %>" class="guide-card">
+            <h3><%= tip["title"] %></h3>
+            <% if tip["description"] %><p><%= tip["description"] %></p><% end %>
+          </a>
+        <% end %>
+      </div>
+    </div>
+  <% end %>
+</section>
