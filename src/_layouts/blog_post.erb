@@ -25,6 +25,7 @@ layout: default
 
 <%
   is_production = Bridgetown.environment.to_s == "production"
+  is_draft      = data.date && data.date.to_date > Date.today
 
   # Selector shared by all post-list queries. Future-dated posts are excluded
   # in production so prev/next nav never links a reader to an unpublished
@@ -75,6 +76,25 @@ layout: default
 %>
 
 <article class="blog-post">
+  <% if is_draft %>
+    <div class="blog-post-draft-notice" role="note">
+      <svg class="blog-post-draft-notice-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z"></path>
+        <line x1="12" y1="9" x2="12" y2="13"></line>
+        <line x1="12" y1="17" x2="12.01" y2="17"></line>
+      </svg>
+      <div class="blog-post-draft-notice-text">
+        <strong>Draft &mdash; not yet published</strong>
+        <p>
+          This essay is dated <%= data.date.strftime("%B %-d, %Y") %>, which hasn&rsquo;t arrived yet.
+          It&rsquo;s still a work in progress: the wording, structure, or conclusions may change
+          substantially before then, and it&rsquo;s possible this page won&rsquo;t be published in its
+          current form at all.
+        </p>
+      </div>
+    </div>
+  <% end %>
+
   <nav class="blog-post-nav">
     <% if older_post %>
       <a href="<%= relative_url older_post.relative_url %>" class="blog-post-nav-link blog-post-nav-older">
