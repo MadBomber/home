@@ -1735,7 +1735,10 @@ tr:hover td {
   bottom: 100%;
   margin-bottom: 0.35rem;
   padding: 0.6rem 0.85rem;
-  background: var(--text-primary);
+  /* Fixed dark ink/background rather than var(--text-primary): that variable
+     inverts to a light color in dark theme, which left white text on a
+     near-white background — unreadable. Same reasoning as .tip-banner. */
+  background: #1a1a1e;
   color: #fff;
   font-family: var(--font-sans);
   font-size: 0.82rem;
