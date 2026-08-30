@@ -1,0 +1,41 @@
+<%
+  # Locals: collection, display_title, escape_attr
+  # Shared by the Essay index's Recent and Collections tabs so a collection
+  # looks identical everywhere it's listed.
+%>
+<div class="blog-post-card blog-post-card-collection-unit">
+  <div class="blog-post-card-header">
+    <h2>
+      <% if collection["entry_url"] %>
+        <a href="<%= relative_url collection["entry_url"] %>"><%= collection["title"] %></a>
+      <% else %>
+        <%= collection["title"] %>
+      <% end %>
+    </h2>
+    <span class="blog-post-card-collection">Collection<% if collection["part_count"] > 0 %> &middot; <%= collection["part_count"] %> parts<% end %></span>
+  </div>
+  <div class="blog-post-card-body">
+    <% if collection["description"] %>
+      <p class="blog-post-card-description"><%= collection["description"] %></p>
+    <% end %>
+    <% if collection["parts"] && collection["parts"].any? %>
+      <table class="blog-collection-card-table">
+        <tbody>
+          <% collection["parts"].each do |post| %>
+            <%
+              part_url         = relative_url post.relative_url
+              part_description = post.data[:description]
+            %>
+            <tr class="blog-collection-card-row"<% if part_description %> data-tooltip="<%= escape_attr.call(part_description) %>"<% end %>>
+              <td class="blog-collection-card-date"><a href="<%= part_url %>"><%= post.data[:date] ? post.data[:date].strftime("%b %d, %y") : "" %></a></td>
+              <td class="blog-collection-card-title"><a href="<%= part_url %>"><%= display_title.call(post) %></a></td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+    <% end %>
+    <% if collection["entry_url"] %>
+      <a href="<%= relative_url collection["entry_url"] %>" class="blog-post-card-read">Begin reading &rarr;</a>
+    <% end %>
+  </div>
+</div>

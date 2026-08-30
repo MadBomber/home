@@ -43,8 +43,18 @@ description: Essays and articles on Scripture, theology, and the Christian life.
         "latest_date" => dates.max,
         "entry_url"   => intro ? intro.relative_url : (parts.first && parts.first.relative_url),
         "part_count"  => parts.length,
+        "parts"       => parts,
       }
     }
+
+  display_title = ->(post) {
+    title_parts = post.data[:title].to_s.split(' — ', 2)
+    title_parts.length == 2 ? title_parts[1] : title_parts[0]
+  }
+
+  escape_attr = ->(s) {
+    s.to_s.gsub('&', '&amp;').gsub('"', '&quot;').gsub('<', '&lt;').gsub('>', '&gt;')
+  }
 
   collections_by_date = collections_data
     .sort_by { |c| c["first_date"] || Date.new(1970) }
@@ -65,6 +75,11 @@ description: Essays and articles on Scripture, theology, and the Christian life.
   recent_units = (standalone_units + collection_units)
     .sort_by { |u| u["date"] || Date.new(1970) }
     .reverse
+
+  # All tab: every essay (standalone or part of a collection), newest first.
+  all_posts_by_date = all_posts
+    .sort_by { |r| r.data[:date] || Date.new(1970) }
+    .reverse
 %>
 
 <section class="blog-index">
@@ -74,12 +89,36 @@ description: Essays and articles on Scripture, theology, and the Christian life.
   </div>
 
   <div class="blog-tabs" role="tablist">
-    <button class="blog-tab active" data-tab="recent" role="tab" aria-selected="true">Recent</button>
+    <button class="blog-tab active" data-tab="all" role="tab" aria-selected="true">All</button>
+    <button class="blog-tab" data-tab="recent" role="tab" aria-selected="false">Recent</button>
     <button class="blog-tab" data-tab="collections" role="tab" aria-selected="false">Collections</button>
     <button class="blog-tab" data-tab="search" role="tab" aria-selected="false">Search</button>
   </div>
 
-  <div class="blog-view active" id="blog-view-recent" role="tabpanel">
+  <div class="blog-view active" id="blog-view-all" role="tabpanel">
+    <% if all_posts_by_date.empty? %>
+      <p class="blog-empty">No posts yet. Check back soon.</p>
+    <% else %>
+      <div class="blog-all-card">
+        <table class="blog-collection-card-table blog-all-table">
+          <tbody>
+            <% all_posts_by_date.each do |post| %>
+              <%
+                post_url         = relative_url post.relative_url
+                post_description = post.data[:description]
+              %>
+              <tr class="blog-collection-card-row"<% if post_description %> data-tooltip="<%= escape_attr.call(post_description) %>"<% end %>>
+                <td class="blog-collection-card-date"><a href="<%= post_url %>"><%= post.data[:date] ? post.data[:date].strftime("%b %d, %y") : "" %></a></td>
+                <td class="blog-collection-card-title"><a href="<%= post_url %>"><%= post.data[:title] %></a></td>
+              </tr>
+            <% end %>
+          </tbody>
+        </table>
+      </div>
+    <% end %>
+  </div>
+
+  <div class="blog-view" id="blog-view-recent" role="tabpanel">
     <div class="blog-post-list">
       <% recent_units.each do |unit| %>
         <% if unit["type"] == "post" %>
@@ -100,22 +139,7 @@ description: Essays and articles on Scripture, theology, and the Christian life.
             </div>
           </a>
         <% else %>
-          <% collection = unit["collection"] %>
-          <a href="<%= relative_url collection["entry_url"] %>" class="blog-post-card blog-post-card-collection-unit">
-            <div class="blog-post-card-header">
-              <h2><%= collection["title"] %></h2>
-              <span class="blog-post-card-collection">Collection<% if collection["part_count"] > 0 %> &middot; <%= collection["part_count"] %> parts<% end %></span>
-            </div>
-            <div class="blog-post-card-body">
-              <p class="blog-post-card-meta">
-                <% if collection["latest_date"] %><span class="blog-post-card-date"><%= collection["latest_date"].strftime("%B %-d, %Y") %></span><% end %>
-              </p>
-              <% if collection["description"] %>
-                <p class="blog-post-card-description"><%= collection["description"] %></p>
-              <% end %>
-              <span class="blog-post-card-read">Begin reading &rarr;</span>
-            </div>
-          </a>
+          <%= render "blog_collection_card", collection: unit["collection"], display_title: display_title, escape_attr: escape_attr %>
         <% end %>
       <% end %>
 
@@ -129,42 +153,9 @@ description: Essays and articles on Scripture, theology, and the Christian life.
     <% if collections_by_date.empty? %>
       <p class="blog-empty">No collections yet.</p>
     <% else %>
-      <div class="blog-collection-list">
+      <div class="blog-post-list">
         <% collections_by_date.each do |collection| %>
-          <% col_posts = posts_for_collection.call(collection["slug"]) %>
-          <% next if col_posts.empty? %>
-          <%
-            parts     = col_posts.select { |p| p.data[:order].to_i > 0 }
-            entry_url = collection["entry_url"]
-          %>
-          <div class="blog-collection-block">
-            <div class="blog-collection-block-header">
-              <h2>
-                <% if entry_url %>
-                  <a href="<%= relative_url entry_url %>"><%= collection["title"] %></a>
-                <% else %>
-                  <%= collection["title"] %>
-                <% end %>
-              </h2>
-              <% if collection["description"] %>
-                <p class="blog-collection-block-description"><%= collection["description"] %></p>
-              <% end %>
-            </div>
-            <% if parts.any? %>
-              <ol class="blog-collection-essay-list">
-                <% parts.each do |post| %>
-                  <%
-                    title_parts   = post.data[:title].to_s.split(' — ', 2)
-                    display_title = title_parts.length == 2 ? title_parts[1] : title_parts[0]
-                  %>
-                  <li><a href="<%= relative_url post.relative_url %>"><%= display_title %></a></li>
-                <% end %>
-              </ol>
-            <% end %>
-            <% if entry_url %>
-              <a href="<%= relative_url entry_url %>" class="blog-collection-start">Begin reading &rarr;</a>
-            <% end %>
-          </div>
+          <%= render "blog_collection_card", collection: collection, display_title: display_title, escape_attr: escape_attr %>
         <% end %>
       </div>
     <% end %>

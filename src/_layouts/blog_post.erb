@@ -24,11 +24,16 @@ layout: default
 </script>
 
 <%
-  # Selector shared by all post-list queries
+  is_production = Bridgetown.environment.to_s == "production"
+
+  # Selector shared by all post-list queries. Future-dated posts are excluded
+  # in production so prev/next nav never links a reader to an unpublished
+  # essay ahead of its date, matching the same rule blog/index.erb applies.
   blog_posts = site.resources
     .select { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
     .reject { |r| r.relative_url.to_s.end_with?('/blog/') }
     .reject { |r| r.relative_url.to_s.end_with?('/blog/announcement/') }
+    .reject { |r| is_production && r.data[:date] && r.data[:date].to_date > Date.today }
 
   current_collection = data[:collection]
 
