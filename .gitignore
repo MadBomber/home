@@ -37,3 +37,6 @@ build
 
 # Screenshots and console logs from browser automation
 .playwright-mcp/
+
+# Pre-publication notes and drafts
+/notes/
