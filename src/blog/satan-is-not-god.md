@@ -12,7 +12,7 @@ Every story needs its villain to be a real threat, which usually means a near ma
 
 That instinct gets carried, unexamined, straight into how a lot of people picture Satan. Cosmic rival. Dark mirror. The being closest to God's own power, just aimed the other way, the way a comic book universe needs its greatest hero to have a villain built from roughly the same materials, close enough in strength that the outcome of any given fight is genuinely in doubt until the final panel. It feels like the same kind of story, so it gets read with the same kind of expectation: a genuinely uncertain contest, decided late, between two beings roughly built to the same scale.
 
-That expectation is not a small mistake sitting off to the side of the real theology. A great deal of the fear that gets attached to Satan depends on it, because an evenly matched opponent is exactly the kind of opponent worth losing sleep over. A mismatch is not. Nobody spends the night anxious about losing a fight to someone who was never in their weight class to begin with.
+That expectation is not a small mistake sitting off to the side of the real theology. A great deal of the fear that gets attached to Satan depends on it, because an evenly matched opponent is exactly the kind that ought to keep you up at night. A mismatch shouldn't. Nobody spends the night anxious about losing a fight to someone who was never in their weight class to begin with.
 
 Scripture was never writing that story. It does not treat Satan as God's equal and opposite. It treats him as a creature, full stop, in the same basic category as everything else God made and nothing else God is. Ezekiel's oracle against the king of Tyre, read since the early church as reaching past the human king to something behind him, puts the word plainly on the page:
 
@@ -82,7 +82,7 @@ A test like that only makes sense in a world where failed predictions from non-d
 
 ## He Reads a Book He Did Not Write
 
-None of this means Satan operates with zero information about what is coming. That claim would overreach in the other direction, and Scripture does not make it. What it shows instead is narrower and worth naming precisely.
+None of this means Satan operates with zero information about what is coming. That claim would overreach in the other direction, and Scripture does not make it. What it shows instead is narrower, and precision matters here:
 
 > "But woe to you, O earth and sea, for the devil has come down to you in great wrath, because he knows that his time is short!"
 >

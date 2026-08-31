@@ -32,7 +32,7 @@ Both readers are present at the same time. The craft challenge is holding both w
 
 ## Sentence Structure
 
-The prose mixes short declarative sentences with longer analytical ones. This is intentional and load-bearing, not a stylistic accident.
+The prose mixes short declarative sentences with longer analytical ones. This is intentional, not a stylistic accident, and the essay depends on it.
 
 **Short sentences deliver the blow.** They land like periods, not like ellipses. The reader pauses after each one.
 
@@ -45,6 +45,8 @@ Those three sentences are doing what a poet does with line breaks. Each period i
 Two sentences. Two beats. The contrast is structural, not just verbal.
 
 **Fragments are intentional, not errors.** When a sentence is grammatically incomplete, it is because completion would slow it down. "Not about Romeo. About names." is complete in the only way that matters: it delivers the meaning with the right weight.
+
+**A one-line negating fragment ("It is not.") is a tool, but never reuse the exact wording across essays.** Setting up an expectation and knocking it down in three words is a real device ("...even odds. It is not."). The failure mode is not the device, it is copying the identical sentence into a second and third essay in the same collection. Vary the wording every time: "The promise isn't built that way," "Look closer and the symmetry breaks," "It never happened" — same beat, different sentence, so the move reads as a choice made fresh each time rather than a template being filled in.
 
 **Avoid the em dash.** Where a sentence reaches for one, restructure it instead. Most of the work an em dash does can be carried by a comma, a parenthetical, or a full stop, and the result usually reads cleaner. If a thought needs to extend, a comma will often hold it: "He asked a question, and embedded inside the question was a mischaracterization." If it needs to interrupt, parentheses will contain it. If it needs weight, give it its own sentence. Reserve the dash for the rare case where none of these will do the work.
 
@@ -71,6 +73,7 @@ Precision over smoothness. The right word is chosen for its exact connotation, n
 - **Hedging phrases:** "but rather," "one might say," "perhaps," "it could be argued." They soften what should stand on its own.
 - **Transitional padding:** Do not announce what the essay is about to say. Say it.
 - **Overused words:** "hinge," "shape" (as a verb — "shapes our understanding," "shapes the argument"), and "load-bearing" have crept into the corpus and now read as tics rather than deliberate choices. Do not use any of them. Name the specific mechanism instead: what turns on what, what forms what, what the argument actually depends on, and how.
+- **The "worth [gerund]" hinge:** "worth sitting with," "worth naming," "worth naming plainly," "worth losing sleep over." Flagging an important detail this way once or twice in an essay is fine; leaning on it as the default connective between an observation and its payoff is not. If a detail matters, show that it matters by what the next sentence does with it, not by prefacing it with "worth." Watch especially for the same idiom recurring across *different* essays in a collection ("worth losing sleep over" showing up twice was the tell) — that is the surest sign it has become a reflex rather than a choice.
 - **Self-reference:** "this essay," "this collection," "the previous section," "the point above," "you have already read," "from the first page to the last," "hold that thought for a few pages." Essay body prose must never acknowledge itself as a document with architecture, and it should not invoke "the reader" as a role. Self-reference breaks the frame: it reminds the reader they are holding a piece of writing instead of standing in the scene. Refer to the content, not the container. "The protection standing behind every account in the previous section" becomes "the protection that stood behind Elijah on his hilltop." "By every pattern this essay has traced" becomes "By every pattern running from Elijah's hilltop to Elisha's road." "That was the point above" is simply deleted; the point already landed. A callback works by naming the thing it calls back to, not by pointing at where it appeared.
 
   Two things this does *not* forbid. Telling the reader how to read *Scripture* is fine ("Read that alone, with nothing around it," of a passage); the prohibition is on the essay referring to itself. And **collection intro pages are exempt.** Those pages exist to orient a reader across entries, so naming the collection and describing what it contains is their actual job ("More accounts will join this collection as they are written"). The rule governs essay body prose only.
