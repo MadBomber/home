@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: "How to Argue with the Devil"
-description: "Jesus met the devil hungry, alone, and exhausted, and won three times in a row without hesitating once. This essay reads the wilderness temptation as a fight, move by move, and asks what made one side improvise and the other side sure."
+description: "Jesus met the devil hungry, alone, and exhausted, and won three times in a row without hesitating once. The wilderness was a fight, round by round, and only one side had already done the work before it started."
 date: 2026-09-26
 author: Dewayne VanHoozer
 collection: gods-devil
