@@ -12,7 +12,7 @@ order: 4
 
 The most religious place on earth, at the most religious time of year, and Jesus drove everyone out.
 
-Jerusalem at Passover was the apex of Israel's devotional calendar. The Temple courts were full. The sacrifices were being prepared. Pilgrims had traveled hundreds of miles to be present for the feast. And the man who had entered the city to crowds waving palm branches and shouting a coronation psalm walked into the Temple, made a whip of cords, and overturned the tables of the money-changers.
+Jerusalem at Passover was the apex of Israel's devotional calendar. The Temple courts were full. The sacrifices were being prepared. Pilgrims had traveled hundreds of miles to be present for the feast. And the man who had entered the city to crowds waving palm branches and shouting a coronation psalm walked into the Temple, made a whip of cords, and overturned the tables of the money-changers.[^triumphal-entry-whip]
 
 > And Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. He said to them, "It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers."
 >
@@ -30,7 +30,7 @@ God did not need to create. The act of creation was not a necessity but a choice
 >
 > Genesis 2:15, ESV
 
-Before there was a commandment, there was a relationship. Adam and Eve knew God directly: not through a priest, not through a ritual, not through an intermediary. They walked with him in the cool of the day. The relationship preceded every rule.
+Before there was a commandment, there was a relationship. Adam and Eve knew God directly: not through a priest, not through a ritual, not through an intermediary. They walked with him in the cool of the day (Genesis 3:8). The relationship preceded every rule.
 
 The first rule did eventually come, and it is worth reading exactly what it was:
 
@@ -106,7 +106,7 @@ Jesus quoted this directly when the Pharisees challenged him over ritual hand-wa
 
 *In vain.* The worship was real. The activity was immense. The heart was somewhere else entirely. Religion had replaced relationship so thoroughly that those who knew the law best were farthest from the God the law pointed to. The external performance had become an end in itself rather than a path toward something more.
 
-Consider the contrast. Isaiah says the fear Israel had for God had become *a commandment taught by men*, a performance, learned and rehearsed, the correct way to act in the presence of the Almighty. Yet across both Testaments, God's single most repeated instruction is the precise opposite of that. *Do not be afraid. Fear not. Have no fear.* The phrase appears hundreds of times, by some counts, once for every day of the year. He says it to Abraham, to Moses, to Gideon, to the exiles in Babylon, to the disciples on the water, to every frightened person who has ever come face to face with him. Religion taught people how to perform fear before God. God kept telling them to stop.
+Consider the contrast. Isaiah says the fear Israel had for God had become *a commandment taught by men*, a performance, learned and rehearsed, the correct way to act in the presence of the Almighty. Yet across both Testaments, God's single most repeated instruction is the precise opposite of that. *Do not be afraid. Fear not. Have no fear.* The phrase appears hundreds of times, by some counts, once for every day of the year. He says it to Abraham, to Moses, to Gideon, to the exiles in Babylon, to the disciples on the water, to every frightened person who has ever come face to face with him.[^fear-not-refrain] Religion taught people how to perform fear before God. God kept telling them to stop.
 
 ---
 
@@ -114,7 +114,7 @@ Consider the contrast. Isaiah says the fear Israel had for God had become *a com
 
 When Jesus arrived in Jerusalem for the last week of his earthly ministry, he taught this lesson not with words first, but with two images placed deliberately side by side.
 
-On Monday morning, walking from Bethany toward the city, he saw a fig tree in full leaf, and found no fruit on it. He cursed it and moved on. Then he entered the Temple and drove out the money-changers. The next morning, the disciples noticed the fig tree had withered from its roots. Mark wraps these two events around each other deliberately:
+On Monday morning, walking from Bethany toward the city, he saw a fig tree in full leaf, and found no fruit on it. He cursed it and moved on. Then he entered the Temple and drove out the money-changers. The next morning, the disciples noticed the fig tree had withered from its roots (Mark 11:20). Mark wraps these two events around each other deliberately:
 
 > On the following day, when they came from Bethany, he was hungry. And seeing in the distance a fig tree in leaf, he went to see if he could find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs. And he said to it, "May no one ever eat fruit from you again."
 >
@@ -130,13 +130,13 @@ Spiritual institutions are capable of exactly this. The external markers (attend
 
 ## Religion Cannot Answer Its Own Questions
 
-Through the middle days of Passover week, Jerusalem's religious establishment came at Jesus with one challenge after another. Who gave you this authority? Should we pay taxes to Caesar? What happens to marriage at the resurrection? Which commandment is the greatest? Each question was designed to trap him within the framework of existing religious debate, to force him to take a position in one of the disputes the system had been having with itself for generations.
+Through the middle days of Passover week, Jerusalem's religious establishment came at Jesus with one challenge after another. Who gave you this authority (Matthew 21:23-27)? Should we pay taxes to Caesar? What happens to marriage at the resurrection? Which commandment is the greatest? Each question was designed to trap him within the framework of existing religious debate, to force him to take a position in one of the disputes the system had been having with itself for generations.
 
 He stepped outside every single one.
 
 The tax question, which looked like a political trap, became a statement about the difference between earthly and divine claims on human life (Matthew 22:15-22). The resurrection question, posed by Sadducees who did not believe in resurrection, became an argument drawn from the Pentecost they did believe in (*"I am the God of Abraham"*, present tense, not past), revealing a dimension of covenant relationship their theology had foreclosed (Matthew 22:23-33). The greatest commandment question, which was a genuine debate among the rabbis, he resolved not by picking a side but by revealing that all the sides were asking the wrong question. The law was never a competition between competing obligations. It was always one thing: love.
 
-After a week of these exchanges, Jesus turned the questions around. He asked the Pharisees whose son the Messiah was. They said David's. He quoted Psalm 110 (*"The Lord said to my Lord..."*) and asked how David could call his own descendant *Lord*. They had no answer.
+After a week of these exchanges, Jesus turned the questions around. He asked the Pharisees whose son the Messiah was. They said David's. He quoted Psalm 110 (*"The Lord said to my Lord..."*) and asked how David could call his own descendant *Lord* (Matthew 22:41-45). They had no answer.
 
 > And no one was able to answer him a word, nor from that day did anyone dare to ask him any more questions.
 >
@@ -228,3 +228,9 @@ The invitation that stood at the beginning of the story (*where are you?*) still
 - Wright, N.T. *The Day the Revolution Began: Reconsidering the Meaning of Jesus's Crucifixion*. HarperOne, 2016.
 - Keener, Craig S. *The Gospel of Matthew: A Socio-Rhetorical Commentary*. Eerdmans, 2009.
 - Heschel, Abraham Joshua. *God in Search of Man: A Philosophy of Judaism*. Farrar, Straus and Giroux, 1955.
+
+## Footnotes
+
+[^triumphal-entry-whip]: John 12:12-13; Matthew 21:8-9 (the crowds meeting him with palm branches and the coronation cry, "Hosanna to the Son of David"); John 2:15 (the whip of cords).
+
+[^fear-not-refrain]: Genesis 15:1 (Abraham); Numbers 21:34 (Moses); Judges 6:23 (Gideon); Jeremiah 30:10 (the exiles in Babylon); Matthew 14:27 (the disciples on the water).

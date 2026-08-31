@@ -74,7 +74,7 @@ The first is concealment. False teaching does not arrive announced.
 >
 > 2 Peter 2:1 (ESV)
 
-Secretly. Brought in. The error is smuggled, not declared, folded into language designed to sound right. Jude describes the same quiet entry (people who "crept in unnoticed") and the same gap between appearance and substance: waterless clouds, fruitless trees, wandering stars, every image a thing that looks like what it is not.
+Secretly. Brought in. The error is smuggled, not declared, folded into language designed to sound right. Jude describes the same quiet entry (people who "crept in unnoticed") and the same gap between appearance and substance: waterless clouds, fruitless trees, wandering stars, every image a thing that looks like what it is not (Jude 1:4, 12-13).
 
 The second feature is the offer itself. It is almost always liberation.
 
@@ -118,7 +118,7 @@ None of this rests on a single set of shoulders. Scripture never asks the indivi
 >
 > 1 Corinthians 14:29 (ESV)
 
-Let the others weigh it. The community has a collective function: not the leader alone, not the recipient alone, but the body testing together what is taught. Paul's instruction to the Thessalonians draws the line precisely: do not despise prophecy, but test everything; hold fast what is good. The answer to a dangerous teaching is not to stop listening to all teaching. It is to examine, and to keep only what survives examination.
+Let the others weigh it. The community has a collective function: not the leader alone, not the recipient alone, but the body testing together what is taught. Paul's instruction to the Thessalonians draws the line precisely: do not despise prophecy, but test everything; hold fast what is good (1 Thessalonians 5:20-21). The answer to a dangerous teaching is not to stop listening to all teaching. It is to examine, and to keep only what survives examination.
 
 And when a church does this, Jesus commends it.
 

@@ -28,7 +28,7 @@ Israel is camped in the plains of Moab, across the Jordan from Jericho, at the e
 
 The man's name is Balaam. He takes the job. And on the road, this happens.
 
-God stations an angel in the road with a drawn sword. The donkey sees it and swerves into a field, and Balaam beats her back onto the path. The angel moves ahead to a narrow place between two vineyard walls. The donkey sees it again and presses against the wall, crushing Balaam's foot, and he beats her again. The angel moves once more, to a place too narrow to turn at all. The donkey lies down underneath him. He beats her a third time, with his staff.
+God stations an angel in the road with a drawn sword. The donkey sees it and swerves into a field, and Balaam beats her back onto the path. The angel moves ahead to a narrow place between two vineyard walls. The donkey sees it again and presses against the wall, crushing Balaam's foot, and he beats her again. The angel moves once more, to a place too narrow to turn at all. The donkey lies down underneath him. He beats her a third time, with his staff (Numbers 22:22-27).
 
 > Then the LORD opened the mouth of the donkey, and she said to Balaam, "What have I done to you, that you have struck me these three times?" And Balaam said to the donkey, "Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you." And the donkey said to Balaam, "Am I not your donkey, on which you have ridden all your life long to this day? Is it my habit to treat you this way?" And he said, "No."
 >
@@ -66,7 +66,7 @@ Balak sends a second delegation, more distinguished than the first, with a bette
 >
 > Numbers 22:20 (ESV)
 
-So he goes. He saddles his own donkey in the morning and rides out with the princes of Moab. And then:
+So he goes. He saddles his own donkey in the morning and rides out with the princes of Moab (Numbers 22:21). And then:
 
 > But God's anger was kindled because he went, and the angel of the LORD took his stand in the way as his adversary.
 >
@@ -302,9 +302,9 @@ James puts a name on the gap.
 >
 > James 4:17 (ESV)
 
-That is the same charge laid against Uzzah, who grew up in the house where the ark of the covenant sat and reached out to steady it anyway. It is not a different failure. It is the identical one, and it is available only to people who already know the answer.
+That is the same charge laid against Uzzah, who grew up in the house where the ark of the covenant sat and reached out to steady it anyway (1 Samuel 7:1; 2 Samuel 6:6-7). It is not a different failure. It is the identical one, and it is available only to people who already know the answer.
 
-Watch, too, what Balak does when the first no comes back. He does not change the request. He changes the messengers. More princes, more honorable, better terms. If the answer will not move, find someone who will hand you a different one.
+Watch, too, what Balak does when the first no comes back. He does not change the request. He changes the messengers. More princes, more honorable, better terms (Numbers 22:15-17). If the answer will not move, find someone who will hand you a different one.
 
 I would like to tell you I read this account as a stranger. I do not.
 
@@ -426,7 +426,7 @@ There is a wedding at Cana where the wine runs out, and His mother, who cannot f
 
 Whatever he tells you. It is the phrase Moses used and Peter repeated in the temple courts.
 
-What He told them made no sense. The wine was gone and He said fill the jars with water, and they filled them to the brim. When the master of the feast tasted it he had no idea where it had come from, "though the servants who had drawn the water knew" (John 2:9).
+What He told them made no sense. The wine was gone and He said fill the jars with water, and they filled them to the brim (John 2:7). When the master of the feast tasted it he had no idea where it had come from, "though the servants who had drawn the water knew" (John 2:9).
 
 The servants knew. The man running the feast did not. They knew because they had done it, and not one moment before.
 

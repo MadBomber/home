@@ -1,20 +1,20 @@
 ---
 layout: blog_post
 title: "God's Devil: Introduction"
-description: "Fiction gives Satan a mind that reads yours, a body that is everywhere at once, and a future he already knows. The Bible gives him none of that. This introduction lays out the premise behind a six-part collection: every scene where Satan appears, he appears inside a boundary someone else drew."
+description: "Fiction gives Satan a mind that reads yours, a body that is everywhere at once, and a future he already knows. The Bible gives him none of that. This introduction lays out the premise behind a six-part collection: every scene where Satan appears, he appears inside a boundary God drew."
 date: 2026-09-01
 author: Dewayne VanHoozer
 collection: gods-devil
 order: 0
 ---
 
-Ask someone to describe the devil and you get a strange composite. A mind that reads yours before you finish forming the thought. A body that can be tempting a stockbroker in Tokyo and a teenager in Ohio at the same hour. A memory of a future he has already watched, long before you get to live it.
+Ask anyone to describe the devil and you get a strange composite. A mind that reads yours before you finish forming the thought. A body that can be tempting a stockbroker in Tokyo and a teenager in Ohio at the same hour. A memory of a future he has already watched, long before you get to live it.
 
 Almost none of that comes from the Bible. Most of it comes from horror movies, half-remembered sermons, and a vague sense that the enemy of God must, at some level, be God's equal and opposite.
 
 He is not. And the gap between the borrowed image and the biblical one is not a technicality. It is the difference between a threat you can only run from and a threat you can actually stand against.
 
-Open a Bible instead of a movie screen and a smaller, stranger figure walks out. He tempts, but cannot force a hand he has not already found willing. He roams, but does not occupy two places at once. He schemes, but does not know tomorrow any better than the humans he schemes against. Every scene in Scripture where he appears, he appears inside a boundary someone else drew first.
+Open a Bible instead of a movie screen and a smaller, stranger figure walks out. He tempts, but cannot force a hand he has not already found willing. He roams, but does not occupy two places at once. He schemes, but does not know tomorrow any better than the humans he schemes against. Every scene in Scripture where he appears, he appears inside a boundary God drew first.
 
 > "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour."
 >
@@ -22,7 +22,7 @@ Open a Bible instead of a movie screen and a smaller, stranger figure walks out.
 
 That verse gets quoted as a warning, and it is one. It is also, on a closer read, a description of an animal that has to hunt. A lion that could simply help itself would not need to prowl, and it would not need to seek. The verse meant to put a reader on guard ends up conceding, in the same breath, that the guard has real ground to stand on.
 
-That concession runs through the whole Bible, not just one verse. Before Satan can touch anything of Job's, he has to ask, and God draws the line before he leaves the room. Before he can lay a hand on Jesus in the wilderness, the Spirit is the one who put Jesus there. Before he can claim a throne, he has to admit the throne was delivered to him rather than built by him. He is dangerous. He is also, everywhere the text shows him working, on someone else's leash.
+That concession runs through the whole Bible, not just one verse. Before Satan can touch anything of Job's, he has to ask, and God draws the line before he leaves the room. Before he can lay a hand on Jesus in the wilderness, the Spirit is the one who put Jesus there. Before he can claim a throne, he has to admit the throne was delivered to him rather than built by him. He is dangerous. He is also, everywhere the text shows him working, on God's leash.
 
 That has a name, and it is a promise, not just an observation.
 
@@ -31,6 +31,14 @@ That has a name, and it is a promise, not just an observation.
 > John 10:28-29 (ESV)
 
 The reason the leash matters is not that it makes Satan harmless. He does not need to be harmless for that promise to hold. He needs to be smaller than the hand holding you, and Scripture never once measures him against God's size. It measures him against God's permission.
+
+That still leaves a question. If the leash means Satan was never the real danger, what is? Jesus told His own followers directly, and He did not soften it.
+
+> "And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell."
+>
+> Matthew 10:28 (ESV)
+
+The devil, on his best day, reaches only the body, and only as far as his leash allows. He was never a candidate for what that verse describes. The one who can destroy soul and body was always God, not Satan. But that is the same God who promises that nothing snatches you out of His hand. He is the only one with the power to end you completely, and He spent His own Son on a cross to make sure He never would. That is what happens once the fear is aimed correctly. It does not disappear. It comes to rest in the one hand strong enough to hold it.
 
 This collection follows that boundary through six scenes: what the text says he cannot do, what he can only counterfeit, why the sin he offers still has to be your own, how one man in a wilderness argued him down, and why an already-defeated enemy still gets to keep fighting for a while. Fear of Satan usually comes from believing he is bigger than he is. What follows is an attempt to see him at his actual size.
 

@@ -51,7 +51,7 @@ Here is where the physics becomes diagnostic.
 
 You cannot generate gravity without mass. You cannot acquire mass by performing weight. The two are not the same thing, and no amount of performance converts one into the other.
 
-The Pharisees were the most visibly religious people in first-century Israel. They prayed in public, fasted twice a week, tithed down to the herb garden, memorized Scripture, and maintained strict ritual purity. They were the ones the average person looked at and thought: if anyone has GLORY, it is them. Jesus looked at them and said:
+The Pharisees were the most visibly religious people in first-century Israel. They prayed in public, fasted twice a week, tithed down to the herb garden, memorized Scripture, and maintained strict ritual purity.[^pharisee-practices] They were the ones the average person looked at and thought: if anyone has GLORY, it is them. Jesus looked at them and said:
 
 > "Beware of practicing your righteousness before other people in order to be seen by them, for then you will have no reward from your Father who is in heaven."
 >
@@ -103,7 +103,7 @@ We began with a useless word.
 
 "Glory" spread across too many domains and became general duty for anything impressive or divine-sounding. Glory days. Old Glory. Glorious weather. To God be the glory. The word that should have carried the weight of the most substantial reality in existence had been diluted to the point where it could mean a pleasant afternoon or a football championship.
 
-The problem was never God. The problem was never the reality the word points at. God did not become less glorious while the English word was losing its definition. The GLORY that filled the Tabernacle and drove out the priests, that blazed from Moses's face and overwhelmed the seraphim, that walked roads in Galilee and died on a Roman cross and rose on the third day and will illuminate the new Jerusalem without need of sun or moon: that has not diminished by a single unit. It is the same yesterday, today, and forever (Hebrews 13:8).
+The problem was never God. The problem was never the reality the word points at. God did not become less glorious while the English word was losing its definition. The GLORY that filled the Tabernacle and drove out the priests, that blazed from Moses's face and overwhelmed the seraphim, that walked roads in Galilee and died on a Roman cross and rose on the third day and will illuminate the new Jerusalem without need of sun or moon: that has not diminished by a single unit.[^glory-manifestations] It is the same yesterday, today, and forever (Hebrews 13:8).
 
 The word became useless. The reality it names did not.
 
@@ -111,7 +111,7 @@ When you say "to God be the glory" from now on, mean GLORY. Mean the weight of t
 
 When you sing "glory to God" on Sunday morning, remember the shepherds filled with great fear in a dark field outside Bethlehem (Luke 2:9–10). Remember that the Shekinah had not appeared for six hundred years and then it appeared to people who were not in a Temple, not performing religious duty, not qualified by any standard the religious establishment would have recognized. It appeared to them because that is what GLORY does: it goes where it goes, it arrives when it arrives, it does not wait for the qualified and the prepared.
 
-When you read "we have seen his glory" (John 1:14), remember that Moses could not walk into the room.
+When you read "we have seen his glory" (John 1:14), remember that Moses could not walk into the room (Exodus 40:35).
 
 The apple is still falling. God is still heavy. The only question is whether you are close enough to feel it.
 
@@ -120,3 +120,9 @@ The apple is still falling. God is still heavy. The only question is whether you
 ## References
 
 - The Holy Bible, English Standard Version (ESV). Crossway, 2001.
+
+## Footnotes
+
+[^pharisee-practices]: Luke 18:12 (the Pharisee in Jesus's parable fasts twice a week); Matthew 23:23 (Jesus rebukes the Pharisees for tithing mint, dill, and cumin, down to the herb garden).
+
+[^glory-manifestations]: 1 Kings 8:10-11 (the glory cloud fills the Tabernacle and drives the priests out); Exodus 34:29-35 (the glory blazes from Moses's face after he speaks with God); Isaiah 6:1-4 (the seraphim are overwhelmed, covering their faces before the glory of the LORD); Revelation 21:23 (the glory of God illuminates the new Jerusalem without need of sun or moon).

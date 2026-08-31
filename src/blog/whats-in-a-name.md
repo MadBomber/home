@@ -63,7 +63,7 @@ When Gabriel appeared to Zechariah in the temple, the first instruction was a na
 >
 > Luke 1:13 (ESV)
 
-The family objected at circumcision. John had no relatives by that name. Zechariah asked for a writing tablet, wrote the name God had given, and his locked voice returned immediately (Luke 1:63).
+The family objected at circumcision. John had no relatives by that name (Luke 1:59-61). Zechariah asked for a writing tablet, wrote the name God had given, and his locked voice returned immediately (Luke 1:63).
 
 Then Gabriel came to Mary.
 
@@ -97,7 +97,7 @@ At a burning bush in the Sinai wilderness, Moses asked for His name.
 
 The Hebrew, *ehyeh asher ehyeh*, resists translation. The literal force is something like "I will be what I will be", not an evasion, but a declaration of existence so total that nothing outside of God can serve as its definition. The name explains nothing because nothing is large enough to explain it.
 
-Three centuries later, Manoah and his wife received a visit from the same Angel of the Lord, announcing the birth of Samson. Manoah, wanting to honor this messenger, asked for His name.
+Three centuries later, Manoah and his wife received a visit from the same Angel of the Lord, announcing the birth of Samson (Judges 13:2-5). Manoah, wanting to honor this messenger, asked for His name.
 
 The answer stopped the question cold.
 
@@ -109,7 +109,7 @@ The Hebrew word rendered "wonderful" is *peli*: extraordinary, beyond comprehens
 
 The one who stood before Manoah and refused to give His name was the same one Isaiah would name. He was already, at that moment, the Wonderful Counselor. Manoah could not yet read the sign.
 
-When the offering burned and the Angel ascended in the flame, Manoah was certain they would die, telling his wife they had seen God. She was wiser: if God had meant to kill them, He would not have accepted the offering and shown them all this. She understood that the encounter was grace, not threat. But Manoah's instinct was correct about one thing. He had seen God.
+When the offering burned and the Angel ascended in the flame, Manoah was certain they would die, telling his wife they had seen God. She was wiser: if God had meant to kill them, He would not have accepted the offering and shown them all this. She understood that the encounter was grace, not threat. But Manoah's instinct was correct about one thing. He had seen God (Judges 13:20-23).
 
 Both answers say the same thing: the name you are reaching for is not a name any human can hold.
 
@@ -119,7 +119,7 @@ Jesus claimed it directly.
 >
 > John 8:58 (ESV)
 
-The religious leaders understood immediately: He had claimed the name of God. They picked up stones to kill Him for His blasphemy.
+The religious leaders understood immediately: He had claimed the name of God. They picked up stones to kill Him for His blasphemy (John 8:59).
 
 ---
 
@@ -209,7 +209,7 @@ Every name so far has been shared: spoken over crowds, pressed into prophecy, an
 
 Every deep marriage carries a private vocabulary: names that belong to that relationship and exist nowhere else. Not the names on legal documents. Something that emerged from shared history, from a moment no one outside that room witnessed, from years of proximity that produced their own language. Outsiders hear the name and it means nothing. Between the two people it means everything. The more private the name, the deeper the bond it marks. The name is not decoration. It is the intimacy made audible.
 
-Scripture does not borrow this pattern from human experience. Human experience reflects something that was always true of God. From Hosea's relentless return to a wayward bride, to Paul's teaching that human marriage is itself an image of Christ and the Church (Ephesians 5:25–32), to the final vision of Revelation where history ends at a wedding (Revelation 19:7), Scripture has been building the same picture across every century. God and His people as husband and wife. The exchange of names in Revelation 2–3 is not borrowed language. It is the original.
+Scripture does not borrow this pattern from human experience. Human experience reflects something that was always true of God. From Hosea's relentless return to a wayward bride (Hosea 3:1-3), to Paul's teaching that human marriage is itself an image of Christ and the Church (Ephesians 5:25–32), to the final vision of Revelation where history ends at a wedding (Revelation 19:7), Scripture has been building the same picture across every century. God and His people as husband and wife. The exchange of names in Revelation 2–3 is not borrowed language. It is the original.
 
 > "Fear not, for I have redeemed you; I have called you by name, you are mine."
 >

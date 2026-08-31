@@ -28,9 +28,9 @@ Which would matter enormously if age were important. It is not. The account turn
 
 ## The Man They Were Yelling At
 
-Years before any of this, God sent Elijah to anoint "Elisha the son of Shaphat of Abel-meholah" to be "prophet in your place" (1 Kings 19:16). Elijah found him plowing a field with twelve yoke of oxen, threw his cloak across his shoulders, and kept walking. That was the whole ceremony. Elisha slaughtered his oxen, burned the yokes to cook them, fed the meat to his neighbors, and followed the man for the rest of his life.
+Years before any of this, God sent Elijah to anoint "Elisha the son of Shaphat of Abel-meholah" to be "prophet in your place" (1 Kings 19:16). Elijah found him plowing a field with twelve yoke of oxen, threw his cloak across his shoulders, and kept walking. That was the whole ceremony. Elisha slaughtered his oxen, burned the yokes to cook them, fed the meat to his neighbors, and followed the man for the rest of his life (1 Kings 19:19-21).
 
-Then Elijah was taken. Elisha stood on the far side of the Jordan and watched the man he called Father carried into heaven in a whirlwind, and he tore his own clothes in two where he stood (2 Kings 2:11-12). What he had asked for, just before it happened, was a double portion of Elijah's spirit. That is inheritance language, the share that names which heir an estate passes to (Deuteronomy 21:17). He was asking to be the successor, and Elijah told him he would have it if he saw the departure with his own eyes. He saw it.
+Then Elijah was taken. Elisha stood on the far side of the Jordan and watched the man he called Father carried into heaven in a whirlwind, and he tore his own clothes in two where he stood (2 Kings 2:11-12). What he had asked for, just before it happened, was a double portion of Elijah's spirit (2 Kings 2:9). That is inheritance language, the share that names which heir an estate passes to (Deuteronomy 21:17). He was asking to be the successor, and Elijah told him he would have it if he saw the departure with his own eyes. He saw it (2 Kings 2:10).
 
 So he picked up the cloak, walked back down to the water alone, and struck the Jordan, saying, "Where is the LORD, the God of Elijah?" The river opened and let him cross the way it had opened for Elijah (2 Kings 2:14). Notice what he did not say. Not where is my power. Not watch what I can do. The only question he asked at that river was where God was, and God answered it in front of witnesses. Fifty men of the sons of the prophets, a resident guild of prophets-in-training, had come out and were standing at a distance, watching (2 Kings 2:7). Their verdict was immediate: "The spirit of Elijah rests on Elisha." They came to meet him and bowed to the ground in front of him (2 Kings 2:15).
 
@@ -100,13 +100,13 @@ That distinction runs through the whole Bible, and it does not start with Elisha
 
 God does not send a message and walk away from it. He watches over what He has said until it is finished, and the people He sends to carry that word are how it travels from Him to everyone else. Get in the way of the messenger, and you are not dealing with a man. You are dealing with a word God has promised to guard.
 
-Two chapters before Elisha reaches Bethel, in the very same book, a king sends a captain and fifty soldiers to arrest Elijah. The captain finds him on a hilltop and orders him down. Elijah's answer is short:
+Two chapters before Elisha reaches Bethel, in the very same book, a king sends a captain and fifty soldiers to arrest Elijah. The captain finds him on a hilltop and orders him down (2 Kings 1:9). Elijah's answer is short:
 
 > "If I am a man of God, let fire come down from heaven and consume you and your fifty."
 >
 > 2 Kings 1:10 (ESV)
 
-Fire falls. It happens again with a second captain and his fifty, word for word. A third captain arrives, and instead of a command he offers a plea, on his knees, asking that his life be precious in Elijah's sight. That captain lives. Whatever this is, it answers hostility with fire and humility with mercy, and it does this two chapters before the crowd at Bethel ever opens its mouth. Elisha did not invent what happened to him. He inherited it.
+Fire falls. It happens again with a second captain and his fifty, word for word. A third captain arrives, and instead of a command he offers a plea, on his knees, asking that his life be precious in Elijah's sight. That captain lives.[^third-captain] Whatever this is, it answers hostility with fire and humility with mercy, and it does this two chapters before the crowd at Bethel ever opens its mouth. Elisha did not invent what happened to him. He inherited it.
 
 It does not stay inside the book of Kings. Two angels lodging with a man named Lot are nearly seized by a mob at his door, and it is the angels who strike the men blind before the city's own judgment falls. Miriam challenges whether Moses is really the only one the LORD speaks through, and God summons all three of them to the tent and answers her Himself; when the cloud lifts, she is leprous.[^messenger-parallels]
 
@@ -116,13 +116,13 @@ Then notice the detail that breaks any reading of this as impersonal. Aaron said
 
 If judgment were the whole of it, you might reasonably conclude that God's messengers travel with a hair trigger. They do not. The same prophet who called down the Old Covenant at Bethel is the clearest proof of that, a few chapters later, in the same book.
 
-The king of Syria wants Elisha dead or captured badly enough to send an army after him personally, and it surrounds the city by night. Elisha's servant panics at the sight of it. Elisha prays instead, and the servant's eyes are opened to see what was already there the whole time:
+The king of Syria wants Elisha dead or captured badly enough to send an army after him personally, and it surrounds the city by night. Elisha's servant panics at the sight of it (2 Kings 6:13-15). Elisha prays instead, and the servant's eyes are opened to see what was already there the whole time:
 
 > "The mountain was full of horses and chariots of fire all around Elisha."
 >
 > 2 Kings 6:17 (ESV)
 
-This is the protection that stood behind Elijah on his hilltop and behind Elisha on the road to Bethel, visible for once instead of only implied. And here is the part that matters most. When the army advances, Elisha does not call down fire. He does not call down bears. He asks God to strike them blind, temporarily, and personally leads the whole disarmed army into the heart of Israel's own capital. When the king of Israel asks whether he can finally kill them, Elisha tells him no, and orders a feast instead, then sends every one of them home.
+This is the protection that stood behind Elijah on his hilltop and behind Elisha on the road to Bethel, visible for once instead of only implied. And here is the part that matters most. When the army advances, Elisha does not call down fire. He does not call down bears. He asks God to strike them blind, temporarily, and personally leads the whole disarmed army into the heart of Israel's own capital. When the king of Israel asks whether he can finally kill them, Elisha tells him no, and orders a feast instead, then sends every one of them home.[^disarmed-army]
 
 So what separates a Syrian soldier who gets fed from a Bethel crowd that gets bears?
 
@@ -217,3 +217,7 @@ He stayed. And when He finally did go up, forty days after the tomb came up empt
 [^ignorance]: This is not Jesus being generous with the facts. The New Testament makes the same assessment twice more, on the same event, and neither time as a courtesy. Peter, preaching to a Jerusalem crowd weeks afterward: "And now, brothers, I know that you acted in ignorance, as did also your rulers" (Acts 3:17). Paul, writing about the crucifixion: "None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory" (1 Corinthians 2:8). Informed past all excuse, and still, at the one moment that counted, not knowing what they were doing.
 
 [^luke-elijah]: Luke 9:51-56. Later manuscripts, followed by the KJV, make the reference explicit by adding "even as Elias did" to the end of the disciples' question, and add a line to Jesus's rebuke that the ESV carries in a footnote: "You do not know what manner of spirit you are of; for the Son of Man came not to destroy people's lives but to save them." Whether or not either addition was original, the two men are plainly working from 2 Kings 1.
+
+[^third-captain]: 2 Kings 1:11-15. The second captain's demand and Elijah's answer repeat the first exchange almost word for word; the third captain instead falls on his knees and begs for his life, and Elijah goes down with him unharmed.
+
+[^disarmed-army]: 2 Kings 6:18-23. Elisha asks God to strike the Syrian army with blindness, leads them into Samaria, and has the king of Israel set bread and water before them and send them home rather than kill them.

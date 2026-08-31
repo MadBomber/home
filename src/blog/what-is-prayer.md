@@ -45,7 +45,7 @@ The Hebrew word for walking here, *mithallek*, is a reflexive form that implies 
 
 And here is what the text shows when you read it carefully: Adam and Eve never initiate a conversation with God in the garden. Not once. Go through every exchange in Genesis 2 and 3: God speaks first every time. He commands, He observes, He gives, He assigns. Adam and Eve receive, respond, and act on what they are given. The posture of the garden is not urgent petition. It is presence and availability. They were simply there when God came walking.
 
-The tasks came from God as well. Naming the animals, tending the garden: these were not requests Adam made. They were assignments God gave. The relationship was one of receiving wisdom and direction, then living it out.
+The tasks came from God as well. Naming the animals, tending the garden: these were not requests Adam made. They were assignments God gave (Genesis 2:15, 19-20). The relationship was one of receiving wisdom and direction, then living it out.
 
 This pattern (God walking, humans present and available, communication flowing from His initiative to their response) did not disappear from Scripture. It became the defining phrase for the closest relationship a person could have with God. Enoch "walked with God" and God took him (Genesis 5:24). Noah "walked with God" in a generation that had abandoned Him (Genesis 6:9). Centuries later, the prophet Micah would distill the whole of what God requires into a single line:
 
@@ -85,7 +85,7 @@ A holy God and sinful humans cannot simply continue walking together as before. 
 
 But God did not go silent.
 
-What follows across the Old Testament is the story of God holding the door open through every available mechanism, working through intermediaries because the direct relationship had become painful for sinful humans to sustain. He spoke through angels: to Hagar in the wilderness, to Abraham at the altar, to Moses in a burning bush. He spoke through prophets who carried His words to people who had drifted from Him. He appeared through theophanies (pillar of fire, thick cloud, the overwhelming presence at Sinai), maintaining communication across the gap He did not create.
+What follows across the Old Testament is the story of God holding the door open through every available mechanism, working through intermediaries because the direct relationship had become painful for sinful humans to sustain. He spoke through angels: to Hagar in the wilderness, to Abraham at the altar, to Moses in a burning bush. He spoke through prophets who carried His words to people who had drifted from Him. He appeared through theophanies (pillar of fire, thick cloud, the overwhelming presence at Sinai), maintaining communication across the gap He did not create.[^gods-messengers]
 
 And He gave Israel the sacrificial system, not as the goal, but as the mechanism. A holy God cannot simply receive the approach of sinful people. The sin barrier had to be dealt with first. Blood was shed, the offering was made, and then prayer could happen. The altar of incense in the tabernacle (positioned just outside the veil, as near to the presence of God as any altar could be placed) made the connection visible. Its smoke rising toward heaven was the visual theology of prayer ascending. David made the equation explicit:
 
@@ -117,13 +117,13 @@ Across all of this (the garden, the fall, the long bridge of the Old Testament),
 
 ### Verbal Prayer
 
-This is the form most people recognize. The Psalms are Israel's prayer book: 150 prayers covering the full range of human experience, from soaring praise to raw despair. The Lord's Prayer in Matthew 6 gives the components of spoken prayer in a single paragraph. Elijah on Mount Carmel prays one direct, relational paragraph and fire falls from heaven. Verbal prayer is real, it is primary, and it is not the whole picture.
+This is the form most people recognize. The Psalms are Israel's prayer book: 150 prayers covering the full range of human experience, from soaring praise to raw despair. The Lord's Prayer in Matthew 6 gives the components of spoken prayer in a single paragraph. Elijah on Mount Carmel prays one direct, relational paragraph and fire falls from heaven (1 Kings 18:36-38). Verbal prayer is real, it is primary, and it is not the whole picture.
 
 ### Silent Prayer
 
-In 1 Samuel 1, Hannah stands before the tabernacle in anguish over her barrenness, pouring out her soul to God. The text says she was "praying in her heart": lips moving, no sound coming out. The priest Eli thought she was drunk. The text calls it prayer. No voice required.
+In 1 Samuel 1, Hannah stands before the tabernacle in anguish over her barrenness, pouring out her soul to God. The text says she was "praying in her heart": lips moving, no sound coming out. The priest Eli thought she was drunk (1 Samuel 1:12-14). The text calls it prayer. No voice required.
 
-Nehemiah shows us something even more compressed. Standing before King Artaxerxes, asked what he wants, Nehemiah "prayed to the God of heaven," in the space of a breath, between the king's question and his own answer. A silent, instantaneous turning toward God in a moment of pressure. That reflex is what a life of unceasing prayer looks like in practice.
+Nehemiah shows us something even more compressed. Standing before King Artaxerxes, asked what he wants, Nehemiah "prayed to the God of heaven" (Nehemiah 2:4), in the space of a breath, between the king's question and his own answer. A silent, instantaneous turning toward God in a moment of pressure. That reflex is what a life of unceasing prayer looks like in practice.
 
 ### Groaning Without Words
 
@@ -173,9 +173,9 @@ Prayer was woven into the fabric of corporate worship, not an add-on but a defin
 >
 > Acts 4:24 (ESV)
 
-The place where they were gathered was shaken.
+The place where they were gathered was shaken (Acts 4:31).
 
-The church prayed corporately not only in praise but in urgent intercession. When Herod imprisoned Peter, Acts 12:5 records simply: "earnest prayer for him was made to God by the church." The community gathered at Mary's house and prayed through the night. God sent an angel. The chains fell off Peter's wrists. He walked past the guards and through the iron gate, and showed up at the door. When Rhoda recognized his voice and ran back to tell the others, they told her she was out of her mind. When Peter kept knocking and they finally opened the door, they saw him and were amazed.
+The church prayed corporately not only in praise but in urgent intercession. When Herod imprisoned Peter, Acts 12:5 records simply: "earnest prayer for him was made to God by the church." The community gathered at Mary's house and prayed through the night. God sent an angel. The chains fell off Peter's wrists. He walked past the guards and through the iron gate, and showed up at the door (Acts 12:7-10). When Rhoda recognized his voice and ran back to tell the others, they told her she was out of her mind. When Peter kept knocking and they finally opened the door, they saw him and were amazed.
 
 > And when he knocked at the door of the gateway, a servant girl named Rhoda came to answer. When she recognized Peter's voice, in her joy she did not open the gate but ran in and reported that Peter was standing at the gate. They said to her, "You are out of your mind." But she kept insisting that it was so, and they kept saying, "It is his angel." But Peter continued knocking, and when they opened, they saw him and were amazed.
 >
@@ -442,3 +442,7 @@ You are already through the door. The invitation is to live fully in what is alr
 
 - The Holy Bible, English Standard Version. Crossway, 2001.
 - *Didache* (The Teaching of the Twelve Apostles), c. 96–150 AD.
+
+## Footnotes
+
+[^gods-messengers]: Genesis 16:7-12 (the angel of the LORD finds Hagar in the wilderness); Genesis 22:11-12 (the angel of the LORD calls to Abraham at the altar); Exodus 3:2-6 (God speaks to Moses from the burning bush); Exodus 13:21-22 (the pillar of cloud by day and fire by night); Exodus 19:9, 16 (the thick cloud and God's presence at Sinai).

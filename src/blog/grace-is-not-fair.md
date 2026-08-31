@@ -52,7 +52,7 @@ Assyria was the empire that would eventually come down on Israel and take it apa
 
 The fish is the part everybody remembers. The part almost nobody quotes is what he prayed inside it.
 
-Chapter 2 is a psalm of thanksgiving. It is not grudging. Jonah, drowned and hauled back, sounds genuinely grateful, and he ends the prayer by declaring that salvation belongs to the LORD. But before he gets there, he says this.
+Chapter 2 is a psalm of thanksgiving. It is not grudging. Jonah, drowned and hauled back, sounds genuinely grateful, and he ends the prayer by declaring that salvation belongs to the LORD (Jonah 2:9). But before he gets there, he says this.
 
 > "Those who pay regard to vain idols forsake their hope of steadfast love."
 >
@@ -60,7 +60,7 @@ Chapter 2 is a psalm of thanksgiving. It is not grudging. Jonah, drowned and hau
 
 Sit with the position that sentence stakes out. He is inside a rescue he did not earn, did not ask for, and actively fled from. And from inside it, his considered theological view is that idolaters have forfeited any claim on God's steadfast love. He is thankful for grace and certain that other people have disqualified themselves from it, in the same breath, in the same prayer.
 
-Two chapters later, Nineveh repents. God relents. And Jonah, who has just watched an entire city receive what he received, files his objection.
+Two chapters later, Nineveh repents. God relents (Jonah 3:5-10). And Jonah, who has just watched an entire city receive what he received, files his objection.
 
 > "O LORD, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster."
 >
@@ -72,7 +72,7 @@ He is not an unusual case. He is just an honest one. Balaam had three separate m
 
 ## This Son of Yours
 
-The younger son takes his inheritance early, spends it, ends up feeding pigs, and comes home rehearsing a speech he never gets to finish. The father sees him a long way off and runs. Ring, robe, sandals, calf, party. Everyone knows this half.
+The younger son takes his inheritance early, spends it, ends up feeding pigs, and comes home rehearsing a speech he never gets to finish. The father sees him a long way off and runs. Ring, robe, sandals, calf, party (Luke 15:11-24). Everyone knows this half.
 
 The other half happens in a field.
 
@@ -148,7 +148,7 @@ If no definition works, the question is where anyone was supposed to get one.
 
 God supplies it Himself, once, and the circumstances are the point.
 
-Israel is roughly six weeks out from the covenant at Sinai. Moses is up the mountain. At the foot of it the people take the gold out of their own ears, melt it into a calf, and hold a festival for it. This is not a slow drift or a lapse under pressure. It is the fastest betrayal recorded in the book.
+Israel is roughly six weeks out from the covenant at Sinai. Moses is up the mountain. At the foot of it the people take the gold out of their own ears, melt it into a calf, and hold a festival for it (Exodus 32:1-6). This is not a slow drift or a lapse under pressure. It is the fastest betrayal recorded in the book.
 
 What happens next is that God renews the covenant. And on His way to renewing it, He introduces Himself.
 
@@ -168,7 +168,7 @@ Which means Jonah had it word perfect. He was not confused about God's character
 
 One piece of background, because without it the next account reads as a nice gesture instead of a stay of execution. When a new dynasty took a throne in the ancient world, the previous king's family was killed. Not out of cruelty, particularly. Out of policy. A surviving heir was a rebellion waiting for a sponsor.
 
-Saul is dead. David is on his throne. Somewhere out past the Jordan, in a town called Lo-debar, there is a man named Mephibosheth who is Saul's grandson and Jonathan's son, and who has been lame in both feet since he was five years old, when the household fled and someone dropped him. He has spent his entire adult life being exactly the sort of person a king goes looking for.
+Saul is dead. David is on his throne. Somewhere out past the Jordan, in a town called Lo-debar, there is a man named Mephibosheth who is Saul's grandson and Jonathan's son, and who has been lame in both feet since he was five years old, when the household fled and someone dropped him (2 Samuel 4:4). He has spent his entire adult life being exactly the sort of person a king goes looking for.
 
 David goes looking for him.
 
@@ -232,7 +232,7 @@ He began by looking at other people. He ended up looking at himself. And the las
 
 ## Today
 
-Three crosses. One of the two criminals is mocking Jesus along with the crowd. The other one answers him.
+Three crosses. One of the two criminals is mocking Jesus along with the crowd (Luke 23:39). The other one answers him.
 
 > "Do you not fear God, since you are under the same sentence of condemnation? And we indeed justly, for we are receiving the due reward of our deeds; but this man has done nothing wrong."
 >

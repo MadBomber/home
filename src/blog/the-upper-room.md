@@ -42,13 +42,13 @@ He then makes explicit what they are to draw from it: *"If I then, your Lord and
 
 ## The Institution of the Eucharist: A Passover Remade
 
-The Passover meal followed a liturgical structure centuries old. There was a set order (the Seder) with prescribed words, four cups of wine, unleavened bread, bitter herbs, and the retelling of the Exodus narrative. Every element of the meal was saturated with meaning, pointing backward to the night in Egypt when the blood of a lamb on the doorposts caused the angel of death to pass over the households of Israel.
+The Passover meal followed a liturgical structure centuries old. There was a set order (the Seder) with prescribed words, four cups of wine, unleavened bread, bitter herbs, and the retelling of the Exodus narrative. Every element of the meal was saturated with meaning, pointing backward to the night in Egypt when the blood of a lamb on the doorposts caused the angel of death to pass over the households of Israel (Exodus 12:21-23).
 
 Jesus takes this ancient structure and, in the middle of it, does something new.
 
 He takes the bread, blesses it, breaks it, and says: *"This is my body, which is given for you. Do this in remembrance of me"* (Luke 22:19). After the meal he takes the cup: *"This cup that is poured out for you is the new covenant in my blood"* (Luke 22:20). The word *new* translates the Greek *kainos*, not merely renewed or refreshed, but of a different kind altogether. Paul, writing to Corinth, will later preserve this same tradition and add the phrase: *"For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes"* (1 Corinthians 11:26). The meal looks backward to the cross and forward to the return: it is an act performed in the middle of history by people who know how the story ends.
 
-What Jesus does with the Passover elements is breathtaking in its precision. The Passover lamb's blood protected Israel from physical death in Egypt. Jesus identifies himself as the true Paschal Lamb, *"Christ, our Passover lamb, has been sacrificed"* (1 Corinthians 5:7), whose blood establishes a new covenant that protects from something far worse than Pharaoh. The old Passover was a remembrance of deliverance from slavery. The new Passover is a participation in the one through whom all slavery (to sin, to death, to the power of the accuser) has been broken.
+What Jesus does with the Passover elements is breathtaking in its precision. The Passover lamb's blood protected Israel from physical death in Egypt (Exodus 12:21-23). Jesus identifies himself as the true Paschal Lamb, *"Christ, our Passover lamb, has been sacrificed"* (1 Corinthians 5:7), whose blood establishes a new covenant that protects from something far worse than Pharaoh. The old Passover was a remembrance of deliverance from slavery. The new Passover is a participation in the one through whom all slavery (to sin, to death, to the power of the accuser) has been broken.
 
 The Upper Room is the place where Passover is not abolished but *fulfilled*, and in being fulfilled, transfigured into something the disciples will spend the rest of their lives trying to comprehend.
 

@@ -21,7 +21,7 @@ Image. Likeness. The Hebrew words mean image and resemblance. God made human bei
 
 The stars declare the glory of God (Psalm 19:1). The seraphim announce that the whole earth is full of it (Isaiah 6:3). But only human beings were made in the image of the one who has GLORY. Only human beings were designed to carry derived weight: not self-existent like God's, not underived, but real. Substantiality given, not generated. The image of God is not a flattering description of human dignity. It is an assignment: bear the weight of the one whose image you carry into the creation that does not yet know His name.
 
-In the Garden, before the rupture, this was the condition. Unmediated proximity to the source of all GLORY. The text says God walked in the garden in the cool of the day (Genesis 3:8). Not thunder and fire, not the Shekinah cloud, not the overwhelming manifestation that drove priests out of the Temple. Walking. The weight of infinite GLORY calibrated to something a human being could stand in the presence of. Adam and Eve were the most substantial creatures on the earth because they were nearest to the one who is the source of all substance.
+In the Garden, before the rupture, this was the condition. Unmediated proximity to the source of all GLORY. The text says God walked in the garden in the cool of the day (Genesis 3:8). Not thunder and fire, not the Shekinah cloud, not the overwhelming manifestation that drove priests out of the Temple (1 Kings 8:10-11). Walking. The weight of infinite GLORY calibrated to something a human being could stand in the presence of. Adam and Eve were the most substantial creatures on the earth because they were nearest to the one who is the source of all substance.
 
 ## The Catastrophic Exchange
 
@@ -55,7 +55,7 @@ Ecclesiastes is this condition written as a life. The Preacher is not a failure.
 
 This is not a man despairing. It is a man making a physics observation about a world that has confused mass with weight, that has confused the derived substance God gave with the accumulated things that substance was meant to govern.
 
-Isaiah adds the image: all flesh is grass, and all its beauty is like the flower of the field (Isaiah 40:6). God breathes on it and it withers. The flower fades. Grass has no lasting GLORY. The most celebrated human achievement in history (the beauty, the empires, the reputations, the monuments) is grass in the presence of what breathes.
+Isaiah adds the image: all flesh is grass, and all its beauty is like the flower of the field (Isaiah 40:6). God breathes on it and it withers. The flower fades (Isaiah 40:7). Grass has no lasting GLORY. The most celebrated human achievement in history (the beauty, the empires, the reputations, the monuments) is grass in the presence of what breathes.
 
 > "The word of our God will stand forever."
 >
@@ -67,7 +67,7 @@ The word has mass. The grass does not.
 
 Into this condition God sent His Son.
 
-What happened at the Incarnation is almost too large to say directly. The second person of the Trinity, the one through whom all things were made (Colossians 1:16), the one in whom all things hold together (Colossians 1:17), the one whose GLORY filled the Temple and drove out the priests, took on a human body. The word John chooses means to pitch a tent, to tabernacle among us. The Tabernacle was not replaced by Jesus. It was fulfilled. The portable dwelling in the wilderness was always pointing forward to the moment when God's GLORY would not merely visit a tent in the camp but would wear a face and walk on roads.
+What happened at the Incarnation is almost too large to say directly. The second person of the Trinity, the one through whom all things were made (Colossians 1:16), the one in whom all things hold together (Colossians 1:17), the one whose GLORY filled the Temple and drove out the priests (1 Kings 8:10-11), took on a human body. The word John chooses means to pitch a tent, to tabernacle among us (John 1:14). The Tabernacle was not replaced by Jesus. It was fulfilled. The portable dwelling in the wilderness was always pointing forward to the moment when God's GLORY would not merely visit a tent in the camp but would wear a face and walk on roads.
 
 The Cross is where this becomes paradox.
 
@@ -79,7 +79,7 @@ The night before his crucifixion, Jesus prayed:
 
 He is asking to be glorified. The next twelve hours will be arrest, mock trial, public humiliation, flogging, and death by crucifixion, the Roman method chosen precisely because it degraded as well as killed. The condemned man carried his own instrument of execution through the streets so that everyone could see his defeat. And Jesus calls this hour the hour of glorification.
 
-Paul explains what was happening beneath the surface of it in Philippians 2. Before the Incarnation, Christ existed in the form of God, in the full weight of divine GLORY.
+Paul explains what was happening beneath the surface of it in Philippians 2. Before the Incarnation, Christ existed in the form of God, in the full weight of divine GLORY (Philippians 2:6).
 
 > "But emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross."
 >
@@ -103,7 +103,7 @@ Then the Father responded.
 
 Maximum voluntary hevel answered by maximum GLORY. The resurrection is not merely the return of a dead man to life. It is the Father's public declaration: this is what weight looks like. The scars remain. Thomas puts his fingers into them (John 20:27). But the body that carries them is no longer subject to decay, no longer limited by matter, no longer capable of dying. The wounds did not diminish the GLORY of the risen Christ. They became part of it. Battle scars are permanent GLORY. Earned weight that cannot be taken away.
 
-In Revelation 5, the apostle John sees a vision of the throne room of heaven. He weeps because no one is found worthy to open the scroll. Then the elders tell him to look: the Lion of Judah has conquered. He turns and sees a Lamb, standing as though it had been slain, and the four living creatures and the twenty-four elders fall before Him, and then ten thousand times ten thousand angels join them, and the song they sing is:
+In Revelation 5, the apostle John sees a vision of the throne room of heaven. He weeps because no one is found worthy to open the scroll. Then the elders tell him to look: the Lion of Judah has conquered. He turns and sees a Lamb, standing as though it had been slain, and the four living creatures and the twenty-four elders fall before Him, and then ten thousand times ten thousand angels join them,[^revelation-5-throne-room] and the song they sing is:
 
 > "Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!"
 >
@@ -117,7 +117,7 @@ Something happened at Pentecost that had never happened before.
 
 Every previous manifestation of God's GLORY had been external. The cloud over the Tabernacle. The fire on the mountain. The radiance in the Temple. The glory was always out there: something you approached, something that filled a building, something you stood before. The movement of the entire Old Testament is toward God's presence, with the curtain always there, the priest always between you and it, the access always mediated.
 
-On the day of Pentecost, the Spirit came and filled the disciples: not the room, not the building, the people. What had dwelt in tents and temples moved inside. Paul draws the implication out plainly in his first letter to the Corinthians:
+On the day of Pentecost, the Spirit came and filled the disciples: not the room, not the building, the people (Acts 2:1-4). What had dwelt in tents and temples moved inside. Paul draws the implication out plainly in his first letter to the Corinthians:
 
 > "Do you not know that you are God's temple and that God's Spirit dwells in you?"
 >
@@ -157,7 +157,7 @@ Paul addresses this directly in 1 Corinthians 15, the great resurrection chapter
 
 He uses the doxa word for the resurrection body. Raised in glory: raised in GLORY. The body that goes into the ground has no weight that lasts. The body that comes out carries GLORY permanently.
 
-Jesus is the pattern. His resurrection body was the same body (the wounds were still there, Thomas verified them) but it was no longer subject to decay, no longer bound by the limits of our finite 4D spacetime. He could eat. He could be touched. He moved through locked doors. He appeared and disappeared. The disciples on the road to Emmaus didn't recognize his face, but their hearts burned within them (Luke 24:30–32): the weight was felt before the identity was known. More real, not less. The resurrection body does not transcend the physical. It fulfills it. Hevel clothing itself in GLORY.
+Jesus is the pattern. His resurrection body was the same body (the wounds were still there, Thomas verified them) but it was no longer subject to decay, no longer bound by the limits of our finite 4D spacetime. He could eat. He could be touched. He moved through locked doors. He appeared and disappeared.[^resurrection-body-appearances] The disciples on the road to Emmaus didn't recognize his face, but their hearts burned within them (Luke 24:30–32): the weight was felt before the identity was known. More real, not less. The resurrection body does not transcend the physical. It fulfills it. Hevel clothing itself in GLORY.
 
 Paul tells the Philippians what awaits the body:
 
@@ -208,3 +208,9 @@ That is the subject of [*Fake Heavy*](/blog/fake-heavy/).
 ## References
 
 - The Holy Bible, English Standard Version (ESV). Crossway, 2001.
+
+## Footnotes
+
+[^revelation-5-throne-room]: Revelation 5:1-4 (the sealed scroll and John's weeping); Revelation 5:5 (the Lion of Judah); Revelation 5:6 (the Lamb standing as though slain); Revelation 5:8 (the four living creatures and the elders fall before Him); Revelation 5:11 (ten thousand times ten thousand angels join them).
+
+[^resurrection-body-appearances]: Luke 24:41-43 (he eats broiled fish in front of the disciples); Luke 24:39 (he invites them to touch him, flesh and bones); John 20:19, 26 (he appears inside a room with the doors locked); Luke 24:31, 36 (he vanishes from the two on the road to Emmaus and then appears among the Eleven).

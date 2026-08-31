@@ -88,7 +88,7 @@ That word *hate* is deliberate. Jesus does not say he disapproves of the Nicolai
 >
 > Revelation 2:15 (ESV)
 
-The connection between the Nicolaitans and the later Gnostic movements is debated: the identification is traditional, not settled. What is not disputed is the pattern Jesus names: insider knowledge, private authority, teachings claiming to reach behind the public record. The same pattern appears in the Balaam reference of Revelation 2:14 and in Thyatira, a prophetess Jesus calls Jezebel, whose teaching he names the deep things of Satan.
+The connection between the Nicolaitans and the later Gnostic movements is debated: the identification is traditional, not settled. What is not disputed is the pattern Jesus names: insider knowledge, private authority, teachings claiming to reach behind the public record. The same pattern appears in the Balaam reference of Revelation 2:14 and in Thyatira, a prophetess Jesus calls Jezebel, whose teaching he names the deep things of Satan (Revelation 2:20, 24).
 
 John's first letter was written against the same movement.
 

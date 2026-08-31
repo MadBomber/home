@@ -34,7 +34,7 @@ The weed does not announce itself as a weed. It grows like everything else grows
 
 It is finished. Nothing remains to be added to it. The weed grows in front of both the light and the finished work, and everyone in its shadow sees less of Jesus, not more.
 
-And it does not stop at the light. A weed in a sidewalk seam sends its roots into the crack, and as they thicken they pry the crack wider, until the slab that looked solid is broken through. False teaching works the same seam. It takes a genuine silence (a small, survivable gap) and drives it into a chasm, widening the distance between the believer and God. This is the oldest move there is. In the garden, the serpent did not begin with a lie. He began with a question that pried at a hairline of doubt ([*Did God really say...?*](/blog/did-god-really-say/)) and split the first people from the God who had only ever told them the truth.
+And it does not stop at the light. A weed in a sidewalk seam sends its roots into the crack, and as they thicken they pry the crack wider, until the slab that looked solid is broken through. False teaching works the same seam. It takes a genuine silence (a small, survivable gap) and drives it into a chasm, widening the distance between the believer and God. This is the oldest move there is. In the garden, the serpent did not begin with a lie. He began with a question that pried at a hairline of doubt ([*Did God really say...?*](/blog/did-god-really-say/)) and split the first people from the God who had only ever told them the truth (Genesis 3:1-7).
 
 ## Heaven's Gate
 

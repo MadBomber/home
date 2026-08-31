@@ -27,7 +27,7 @@ Jesus was teaching in Aramaic, but the Gospel of Matthew was written in Greek. T
 
 The Hebrew word beneath the concept is *tamim*. The same root that appears when God calls Abraham to walk before Him and "be blameless" (Genesis 17:1). Translators reach for *blameless* and *perfect* and *whole* and *upright* because they are capturing a concept English does not carry cleanly: integrity in the sense of being undivided, consistent, oriented in one direction.
 
-David is described as a man after God's own heart (1 Samuel 13:14). David committed adultery. David arranged a murder. His record, examined honestly, is not a record of sinlessness. But his heart was not divided: not permanently, not finally, not without deep and genuine return. He sinned. He came back. His whole self moved toward God even when his actions moved against God's commands. That is the shape of *teleios*.
+David is described as a man after God's own heart (1 Samuel 13:14). David committed adultery (2 Samuel 11:2-5). David arranged a murder (2 Samuel 11:14-17). His record, examined honestly, is not a record of sinlessness. But his heart was not divided: not permanently, not finally, not without deep and genuine return. He sinned. He came back. His whole self moved toward God even when his actions moved against God's commands. That is the shape of *teleios*.
 
 ---
 

@@ -10,7 +10,7 @@ order: 0
 
 Some accounts in the Bible are just weird.
 
-Jesus curses a fig tree for having no fruit, and it dies. God strikes a man dead for reaching out to steady the ark of the covenant. A prophet is jeered by a crowd of boys, curses them, and two bears come out of the woods and maul forty-two of them. Read cold, with nothing around them, these land somewhere between baffling and disturbing. The reflex is to file them all under one heading, the Bible is strange, and move along. Or worse, to feel a quiet embarrassment about them, the way you might about a relative who says things you would rather not have to explain to your friends.
+Jesus curses a fig tree for having no fruit, and it dies. God strikes a man dead for reaching out to steady the ark of the covenant. A prophet is jeered by a crowd of boys, curses them, and two bears come out of the woods and maul forty-two of them.[^weird-openers] Read cold, with nothing around them, these land somewhere between baffling and disturbing. The reflex is to file them all under one heading, the Bible is strange, and move along. Or worse, to feel a quiet embarrassment about them, the way you might about a relative who says things you would rather not have to explain to your friends.
 
 There is a better response than either one, and it begins by taking the strangeness seriously instead of managing it.
 
@@ -45,14 +45,18 @@ That is the walk these essays take, one account at a time. Hear the whole thing.
 **Weird Bible Stories: Collection Contents**
 
 [Part 1: Are You a Fig Tree?](/blog/are-you-a-fig-tree/)
-Jesus curses a fig tree for having no fruit, and read alone it looks petty and unfair. Read whole, on the page Mark actually wrote it on, it was never about a tree. It is about the difference between leaves and figs, and what happens to anything that shows the one without the other.
+Jesus curses a fig tree for having no fruit (Mark 11:12-14, 20-21), and read alone it looks petty and unfair. Read whole, on the page Mark actually wrote it on, it was never about a tree. It is about the difference between leaves and figs, and what happens to anything that shows the one without the other.
 
 [Part 2: Just Trying to Help](/blog/just-trying-to-help/)
-God strikes a man dead for reaching out to steady the ark, and read alone the account looks arbitrary and cruel. Read whole, across the centuries it spans, the offense turns out to be in the reading, not in God. The hand that reached to hold God up had it exactly backwards.
+God strikes a man dead for reaching out to steady the ark (2 Samuel 6:6-7), and read alone the account looks arbitrary and cruel. Read whole, across the centuries it spans, the offense turns out to be in the reading, not in God. The hand that reached to hold God up had it exactly backwards.
 
 [Part 3: Elisha and the Two Bears](/blog/elisha-and-the-two-bears/)
-A crowd dares a prophet to vanish the way his master had that morning, and two bears maul them for it. Read alone it looks like God backing a man's wounded pride. Read whole, the bears turn out to be the Old Covenant's own terms, agreed to at Sinai centuries earlier, and the line dividing bears from bread is not age but how much a person had been told. The same dare returns once more, at a cross, where the answer is mercy instead of fire.
+A crowd dares a prophet to vanish the way his master had that morning, and two bears maul them for it (2 Kings 2:23-24). Read alone it looks like God backing a man's wounded pride. Read whole, the bears turn out to be the Old Covenant's own terms, agreed to at Sinai centuries earlier, and the line dividing bears from bread is not age but how much a person had been told. The same dare returns once more, at a cross, where the answer is mercy instead of fire.
 
 More accounts will join this collection as they are written.
 
 The collection begins with [*Are You a Fig Tree?*](/blog/are-you-a-fig-tree/).
+
+## Footnotes
+
+[^weird-openers]: Mark 11:12-14, 20-21 (Jesus curses the fig tree and it withers); 2 Samuel 6:6-7 (Uzzah struck down for reaching out to steady the ark); 2 Kings 2:23-24 (the boys who jeer Elisha and the two bears that maul them).

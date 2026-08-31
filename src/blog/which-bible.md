@@ -27,7 +27,7 @@ The late Dr. Baucham was fond of stating his own answer plainly:
 
 > "I choose to believe the Bible because it is a reliable collection of historical documents written by eyewitnesses during the lifetime of other eyewitnesses. They report supernatural events that took place in fulfillment of specific prophecies and claimed their writings are divine rather than human in origin."
 
-The Apostle Paul (himself a man trained in the rabbinical tradition who met Jesus on a road rather than in a synagogue) stated the divine claim directly:
+The Apostle Paul (himself a man trained in the rabbinical tradition who met Jesus on a road rather than in a synagogue (Acts 9:3-9)) stated the divine claim directly:
 
 > All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.
 >

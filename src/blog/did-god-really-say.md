@@ -37,7 +37,7 @@ There it is. The restriction is not from goodness. It is from self-protection. G
 
 Centuries later, Satan tried the same approach on the Son of God.
 
-After Jesus was baptized by John in the Jordan and the Spirit descended on Him, He was led immediately into the wilderness. Forty days. No food. And then the test.
+After Jesus was baptized by John in the Jordan and the Spirit descended on Him, He was led immediately into the wilderness. Forty days. No food (Matthew 3:16-4:2). And then the test.
 
 What is remarkable about the temptations in Matthew 4 and Luke 4 is not what Satan said but how he said it. He quoted Scripture. Accurately.
 

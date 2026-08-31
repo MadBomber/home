@@ -52,7 +52,7 @@ One word. She knew. *"Rabboni"*: Teacher. She took hold of him. He sent her to t
 
 The risen Jesus's first appearance was to a woman who loved him enough to come to the tomb before sunrise, and his first word to her was her name. The personal, specific, name-knowing Jesus. That is who walked out of the grave.
 
-*(John 20:11-18)*
+*(John 20:1-18)*
 
 ---
 
@@ -72,7 +72,7 @@ They came to him and took hold of his feet and worshipped him. He told them not 
 
 Paul records it without narrating it: *"He appeared to Cephas"* (1 Corinthians 15:5). Luke confirms it: *"The Lord has risen indeed, and has appeared to Simon"* (Luke 24:34).
 
-No account of what passed between them is preserved. We only know it happened, and we know what Peter was carrying into that meeting. Three denials. A courtyard fire. The sound of a rooster. The look on Jesus's face as they led him away.
+No account of what passed between them is preserved. We only know it happened, and we know what Peter was carrying into that meeting. Three denials. A courtyard fire. The sound of a rooster. The look on Jesus's face as they led him away (Luke 22:54-62).
 
 Whatever Jesus said to Peter in that private appearance, Peter spent the rest of his life proclaiming the resurrection at the cost of everything he had. He died for it upside down on a cross in Rome.
 
@@ -176,7 +176,7 @@ Something happened between them.
 
 *"Last of all, as to one untimely born, he appeared also to me"* (1 Corinthians 15:8, ESV).
 
-Paul (then known as Saul) was not a grieving follower hoping for good news. He was an enemy. He stood and watched approvingly as Stephen was stoned to death for proclaiming the resurrection. He went house to house in Jerusalem dragging Christians to prison. He was traveling to Damascus with letters authorizing him to arrest followers of Jesus there as well.
+Paul (then known as Saul) was not a grieving follower hoping for good news. He was an enemy. He stood and watched approvingly as Stephen was stoned to death for proclaiming the resurrection. He went house to house in Jerusalem dragging Christians to prison. He was traveling to Damascus with letters authorizing him to arrest followers of Jesus there as well (Acts 7:58-8:3).
 
 On that road, a light from heaven flashed around him. He fell to the ground. A voice spoke.
 
@@ -186,7 +186,7 @@ On that road, a light from heaven flashed around him. He fell to the ground. A v
 
 *"I am Jesus, whom you are persecuting."*
 
-He arrived in Damascus blind. Three days later his sight was restored, he was baptized, and he began proclaiming in the synagogues that Jesus was the Son of God. The people who heard him were astonished. Was this not the man who had come to arrest these people?
+He arrived in Damascus blind. Three days later his sight was restored, he was baptized, and he began proclaiming in the synagogues that Jesus was the Son of God (Acts 9:1-22). The people who heard him were astonished. Was this not the man who had come to arrest these people?
 
 Paul never recovered from that road. He was beaten, stoned, shipwrecked, imprisoned, and eventually executed, all for the name of the one he had come to destroy. He wrote more of the New Testament than any other author. He planted churches across the Roman Empire. And he went to his death proclaiming what he had seen outside Damascus.
 

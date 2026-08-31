@@ -21,13 +21,13 @@ The question itself, had it been asked, would not have deserved silence as an an
 
 There are two kinds of people who ask hard questions about the Bible. The first is the honest seeker: genuinely wrestling, wanting to understand, asking because they need to know. That person deserves your full attention and your most honest answer, including "I do not know" when that is the truth. The second is the show-off: not seeking truth, but trying to trap you, score points, or demonstrate superiority. Jesus said do not cast your pearls before swine (Matthew 7:6). You do not owe the show-off an answer. Playing their game on their terms is not faithfulness.
 
-Jesus faced both kinds regularly. To honest questioners he gave patient, direct teaching. To his opponents he gave something else entirely. A woman marries seven brothers in succession under the law. In the resurrection, whose wife will she be? The Sadducees brought this scenario not to understand the resurrection but to ridicule it. Jesus did not answer the question as posed. He exposed the premise.
+Jesus faced both kinds regularly. To honest questioners he gave patient, direct teaching. To his opponents he gave something else entirely. A woman marries seven brothers in succession under the law. In the resurrection, whose wife will she be? The Sadducees brought this scenario not to understand the resurrection but to ridicule it (Matthew 22:23-28). Jesus did not answer the question as posed. He exposed the premise.
 
 > "You are wrong, because you know neither the Scriptures nor the power of God. For in the resurrection they neither marry nor are given in marriage, but are like angels in heaven."
 >
 > Matthew 22:29–30 (ESV)
 
-The question revealed what the questioner assumed, not a gap in what God revealed. When asked whether it was lawful to pay taxes to Caesar, Jesus did the same: dissolved the assumed conflict rather than choosing a side. Render to Caesar what belongs to Caesar. Render to God what belongs to God. The trap closed on no one.
+The question revealed what the questioner assumed, not a gap in what God revealed. When asked whether it was lawful to pay taxes to Caesar, Jesus did the same: dissolved the assumed conflict rather than choosing a side (Matthew 22:15-21). Render to Caesar what belongs to Caesar. Render to God what belongs to God. The trap closed on no one.
 
 Proverbs holds both responses in tension without apology.
 
@@ -117,7 +117,7 @@ Deuteronomy 29:29 draws the line precisely: the secret things belong to the Lord
 
 The most dramatic illustration of that decision is the four hundred years between the last word of the Old Testament and the first word of the New.
 
-Malachi closes. The prophets go silent. For four centuries (longer than the United States has existed as a nation) there is no word from God. No vision. No prophet. No burning bush. The people of Israel waited, and the silence held. By the time an angel appeared to a priest named Zechariah in the temple to announce the birth of John the Baptist, four hundred years had passed without a single recorded word from heaven.
+Malachi closes. The prophets go silent. For four centuries (longer than the United States has existed as a nation) there is no word from God. No vision. No prophet. No burning bush. The people of Israel waited, and the silence held. By the time an angel appeared to a priest named Zechariah in the temple to announce the birth of John the Baptist (Luke 1:11-13), four hundred years had passed without a single recorded word from heaven.
 
 That silence was not abandonment. It was preparation. God was not absent. He was working. The silence had a purpose no one living inside it could see.
 
@@ -129,7 +129,7 @@ The incompleteness is visible even inside the passages that do speak. The prophe
 >
 > Ezekiel 1:26–28 (ESV)
 
-Ezekiel stacks simile upon simile not because he was a poor writer but because he was an honest one. He saw something that exceeded the language available to him and reported it as faithfully as he could. Daniel saw his visions and said twice he was troubled and alarmed by them. Isaiah saw the Lord high and lifted up and his first word was "I am undone." John in Revelation described locusts with faces like human faces, hair like women's hair, teeth like lions' teeth, building a picture out of known things for something he had never seen.
+Ezekiel stacks simile upon simile not because he was a poor writer but because he was an honest one. He saw something that exceeded the language available to him and reported it as faithfully as he could. Daniel saw his visions and said twice he was troubled and alarmed by them. Isaiah saw the Lord high and lifted up and his first word was "I am undone." John in Revelation described locusts with faces like human faces, hair like women's hair, teeth like lions' teeth, building a picture out of known things for something he had never seen.[^prophetic-visions]
 
 These writers were not failing to communicate. They were communicating at the edge of what communication could hold. The incompleteness was present in the original encounter. It was not introduced later by translation or transmission. The vision exceeded the vessel from the moment it was received.
 
@@ -141,9 +141,9 @@ This is not a problem to solve. It is the shape of finite creatures receiving th
 
 Some questions disappear when you read more carefully. Others arrive only when you do.
 
-A child hears the story of Cain and Abel for the first time. Cain kills his brother. God marks him. Cain goes out into the land of Nod, and finds a wife. The hand goes up. Where did she come from? Genesis 4:17 introduces her without introduction. She has no name, no origin, no explanation. The text that brought her into the story never tells us who she was.
+A child hears the story of Cain and Abel for the first time. Cain kills his brother (Genesis 4:8). God marks him (Genesis 4:15). Cain goes out into the land of Nod (Genesis 4:16), and finds a wife. The hand goes up. Where did she come from? Genesis 4:17 introduces her without introduction. She has no name, no origin, no explanation. The text that brought her into the story never tells us who she was.
 
-The Garden raises the same kind of questions before you even reach chapter five. How long were Adam and Eve there before the fall? Days? Centuries? Genesis gives no timeline. Were they married? God brought Eve to Adam, Adam named her bone of his bone and flesh of his flesh, and Genesis 2:24 establishes the principle of one flesh, but no ceremony is described. Why did the lions not eat them? Genesis 1:29–30 suggests all creatures ate plants before the fall, and Paul is explicit that creation itself fell under the curse.
+The Garden raises the same kind of questions before you even reach chapter five. How long were Adam and Eve there before the fall? Days? Centuries? Genesis gives no timeline. Were they married? God brought Eve to Adam, Adam named her bone of his bone and flesh of his flesh (Genesis 2:22-23), and Genesis 2:24 establishes the principle of one flesh, but no ceremony is described. Why did the lions not eat them? Genesis 1:29–30 suggests all creatures ate plants before the fall, and Paul is explicit that creation itself fell under the curse.
 
 > "For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God."
 >
@@ -151,7 +151,7 @@ The Garden raises the same kind of questions before you even reach chapter five.
 
 But the exact shape of the pre-fall world (what the animals were like, what it felt like to be human before everything broke) remains unspecified.
 
-Move to the Gospels and the silences are equally striking. Luke shows Jesus at twelve years old in the temple, astonishing the teachers with his questions and answers. Then nothing. Eighteen years pass before Jesus appears again at the Jordan River to be baptized. What did he do in those years? The text does not say. John 8 shows Jesus stooping to write something in the dirt while a crowd waits with stones. Whatever he wrote, the accusers dropped their stones and left. We will never know what it was.
+Move to the Gospels and the silences are equally striking. Luke shows Jesus at twelve years old in the temple, astonishing the teachers with his questions and answers (Luke 2:46-47). Then nothing. Eighteen years pass before Jesus appears again at the Jordan River to be baptized. What did he do in those years? The text does not say. John 8 shows Jesus stooping to write something in the dirt while a crowd waits with stones. Whatever he wrote, the accusers dropped their stones and left. We will never know what it was.
 
 The personal questions run deeper. What happens to an infant who dies before they can profess faith? The Bible does not say. Do we recognize our loved ones in heaven? Do we retain memory, personality, the particular shape of a relationship? What does eternity feel like from the inside? And then there is the child standing in front of you, face wet with tears, asking if the dog they loved is in heaven with Jesus. That question deserves a child's answer. Not a citation. The honest answer is the only one you have: I do not know. But I trust God, and I know that Jesus loves you. Ecclesiastes 3:21 arrives at the same place ("Who knows whether the spirit of man goes upward and the spirit of the beast goes down into the earth?"), but you do not quote that to a grieving child. You hold the same truth in a form they can receive. I do not know. But I trust God, and I know that Jesus loves you.
 
@@ -187,7 +187,7 @@ The book of Job makes this concrete. Job spends thirty-seven chapters asking his
 >
 > Job 38:4–5 (ESV)
 
-The questions run for four chapters: the foundations of the earth, the gates of death, the storehouses of snow, the Pleiades, the lion's prey, the mountain goat's birth. God is not being cruel. He is revealing the frame of reference Job was missing. Job was asking about his suffering inside a human frame. God's frame includes the architecture of the cosmos.
+The questions run for four chapters: the foundations of the earth, the gates of death, the storehouses of snow, the Pleiades, the lion's prey, the mountain goat's birth.[^job-questions] God is not being cruel. He is revealing the frame of reference Job was missing. Job was asking about his suffering inside a human frame. God's frame includes the architecture of the cosmos.
 
 Job's questions were not wrong. They were simply not the right questions, not at the level where the answer actually lives.
 
@@ -243,7 +243,7 @@ The first is authority laundering. Opinion borrows the weight of Scripture witho
 
 The second is escalation. It starts small: a reasonable guess about something Scripture leaves open. Someone with influence says it with enough confidence that it becomes teaching. Teaching repeated becomes tradition. Tradition hardens into doctrine. Doctrine becomes a boundary. The boundary becomes a test of fellowship. By the end, people are being excluded from community for rejecting what started as one person's unauthorized speculation. No one in the room knows that is what happened. The original qualifier ("I think," "perhaps," "it seems to me") was dropped three generations back.
 
-The third is pastoral harm. The unanswerable questions arrive with greatest force in the moments of greatest need: in grief, in crisis, in the middle of the night when a person cannot sleep and the silence is unbearable. A confident wrong answer given in that moment does not just misinform. It becomes load-bearing in someone's faith. The grieving parent who is told with certainty what happened to their child builds something on that answer. When the answer is later challenged (by a harder question, a different teacher, or simply by life) the faith built on it can come down with it. That damage belongs to whoever gave the confident answer.
+The third is pastoral harm. The unanswerable questions arrive with greatest force in the moments of greatest need: in grief, in crisis, in the middle of the night when a person cannot sleep and the silence is unbearable. A confident wrong answer given in that moment does not just misinform. The grieving parent who is told with certainty what happened to their child builds something on that answer. When the answer is later challenged (by a harder question, a different teacher, or simply by life) the faith built on it can come down with it. That damage belongs to whoever gave the confident answer.
 
 The fourth is that the search ends. Proverbs 25:2 commands the searching. Manufactured certainty stops it. The person who has an answer does not look further. The question that needed to be wrestled with gets settled instead by someone else's conclusion. The wrestling was where the growth was.
 
@@ -294,3 +294,9 @@ For now. Then. The silence is not permanent. Every honest question you carry to 
 - Harrison, Peter. "Angels on Pinheads and Needles' Points." *Notes and Queries*, 2016. Peer-reviewed study of the Chillingworth attribution and the absence of the angels-on-a-pin question in actual medieval texts.
 - Carson, D.A. "When the Bible Is Silent." The Gospel Coalition. [thegospelcoalition.org](https://www.thegospelcoalition.org/sermon/when-the-bible-is-silent-q-a/)
 - Koukl, Gregory. "Why Didn't God Clearly Explain Every Theological Issue?" Stand to Reason. [str.org](https://www.str.org/w/why-didn-t-god-clearly-explain-every-theological-issue-)
+
+## Footnotes
+
+[^prophetic-visions]: Daniel 7:15, 28 (Daniel troubled and alarmed by his visions); Isaiah 6:1-5 (Isaiah sees the Lord high and lifted up and says "I am undone"); Revelation 9:7-8 (John describes locusts with faces like human faces, hair like women's hair, teeth like lions' teeth).
+
+[^job-questions]: Job 38:17 (the gates of death); Job 38:22 (the storehouses of snow); Job 38:31 (the Pleiades); Job 38:39 (the lion's prey); Job 39:1 (the mountain goat's birth).

@@ -56,9 +56,9 @@ Jesus answered with a story.
 
 ## The Enemy in the Ditch
 
-A man was traveling from Jerusalem to Jericho and was beaten, robbed, and left for dead. A priest came by and crossed to the other side. A Levite came by and did the same. Then a third traveler came.
+A man was traveling from Jerusalem to Jericho and was beaten, robbed, and left for dead. A priest came by and crossed to the other side. A Levite came by and did the same. Then a third traveler came (Luke 10:30-32).
 
-Jesus told his audience that the third man was a Samaritan.
+Jesus told his audience that the third man was a Samaritan (Luke 10:33).
 
 That detail landed like a stone. Jews and Samaritans had despised each other for centuries. The hostility was ethnic, religious, and political, rooted in a history of occupation, intermarriage, competing temples, and mutual contempt. Jews considered Samaritans half-breeds and heretics. Samaritans had no love for Jews either. They did not travel together. They did not share vessels (John 4:9). They did not help each other.
 

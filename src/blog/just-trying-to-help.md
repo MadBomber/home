@@ -134,9 +134,9 @@ One piece is still missing. A wrong method explains the death. It does not yet e
 
 Uzzah was no stranger to the ark. He had grown up with it in his house.
 
-When the Philistines sent the ark back on their cart, it came to rest in a town called Kiriath-jearim, in the home of a man named Abinadab, and there it stayed. Not for a week. For most of a lifetime. Armies moved on, a king rose and fell, and the ark sat in that house the whole time, largely forgotten by the nation that owned it. Uzzah was of that household. The text calls him a son of Abinadab; whether that means a literal son or, across so many years, a descendant, it does not much matter. Either way, the throne of God was a fixture of the room he grew up in. He may never have known a single day without it under his roof.
+When the Philistines sent the ark back on their cart, it came to rest in a town called Kiriath-jearim, in the home of a man named Abinadab, and there it stayed (1 Samuel 7:1). Not for a week. For most of a lifetime. Armies moved on, a king rose and fell, and the ark sat in that house the whole time, largely forgotten by the nation that owned it. Uzzah was of that household. The text calls him a son of Abinadab (2 Samuel 6:3); whether that means a literal son or, across so many years, a descendant, it does not much matter. Either way, the throne of God was a fixture of the room he grew up in. He may never have known a single day without it under his roof.
 
-People sometimes say the ark sat there twenty years, but that number counts only the stretch until one early turning point. It stayed far longer, through the whole reign of Saul, until David finally came for it, something closer to seventy years in all. However old Uzzah was, he had lived his entire life beside it.
+People sometimes say the ark sat there twenty years, but that number counts only the stretch until one early turning point (1 Samuel 7:2). It stayed far longer, through the whole reign of Saul, until David finally came for it, something closer to seventy years in all. However old Uzzah was, he had lived his entire life beside it.
 
 Which makes him the last man in Israel who could claim he did not know.
 

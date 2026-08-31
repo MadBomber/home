@@ -134,7 +134,7 @@ That is not a rhetorical trick. It is a genuine invitation, and the answer is se
 
 The Protestant Bible contains 66 books. The Catholic Bible contains 73. The difference is seven books: all in the Old Testament, all Deuterocanonical, all traceable to the single principled argument about Hebrew versus Greek textual authority. The New Testament is identical across all three major traditions: Catholic, Orthodox, Protestant.
 
-Wherever you open any of those Bibles (in whatever tradition, in whatever century, on whatever continent) you meet the same Jesus. Born of a virgin in Bethlehem. Baptized in the Jordan. Teaching on hillsides and in synagogues. Healing the sick, raising the dead, eating with sinners. Arrested, tried, crucified under Pontius Pilate. Buried. Risen on the third day. Ascended. Coming again.
+Wherever you open any of those Bibles (in whatever tradition, in whatever century, on whatever continent) you meet the same Jesus. Born of a virgin in Bethlehem. Baptized in the Jordan. Teaching on hillsides and in synagogues. Healing the sick, raising the dead, eating with sinners. Arrested, tried, crucified under Pontius Pilate. Buried. Risen on the third day. Ascended. Coming again.[^gospel-portrait]
 
 That portrait has not changed. The councils did not alter it. The Reformation did not alter it. The discovery of the Nag Hammadi library did not alter it. The disagreements between traditions are real, and they live entirely outside that portrait.
 
@@ -170,3 +170,7 @@ The following books are recommended for readers who want to go deeper into the q
 - **Lee Martin McDonald, *The Biblical Canon: Its Origin, Transmission, and Authority*** (Hendrickson, 2007): more detailed treatment of how the canon developed historically
 - **Michael J. Kruger, *Canon Revisited: Establishing the Origins and Authority of the New Testament Books*** (Crossway, 2012): examines the theological and historical basis for the NT canon; written for general readers
 - **Bart Ehrman, *The Lost Christianities: The Battles for Scripture and the Faiths We Never Knew*** (Oxford, 2003): represents the skeptical position with scholarly rigor; worth reading to understand the best version of the critical argument
+
+## Footnotes
+
+[^gospel-portrait]: Virgin birth (Matthew 1:18-23; Luke 1:26-38); baptism in the Jordan (Matthew 3:13-17); teaching on hillsides and in synagogues (Matthew 5; Luke 4:15-21); healing the sick, raising the dead, and eating with sinners (Matthew 9:10-13; John 11); arrest, trial, and crucifixion under Pontius Pilate, then burial (Matthew 26-27); risen on the third day (1 Corinthians 15:3-4); ascension and the promise of his return (Acts 1:9-11).

@@ -86,7 +86,7 @@ Moses had been on the mountain for forty days. He had received the law, the desi
 >
 > Exodus 33:18 (ESV)
 
-God's response is striking. He does not show Moses a blinding light or a display of power. He says: I will make all my *goodness* pass before you and proclaim my name before you (Exodus 33:19). He hides Moses in the cleft of a rock and lets His back pass by, because His face (the full weight of His presence) would destroy Moses where he stood. When Moses comes down from the mountain his face is shining with reflected GLORY, and the people cannot look at him. He veils himself (Exodus 34:29–35). Reflected glory, secondhand weight, is more than human faces can bear.
+God's response is striking. He does not show Moses a blinding light or a display of power. He says: I will make all my *goodness* pass before you and proclaim my name before you (Exodus 33:19). He hides Moses in the cleft of a rock and lets His back pass by, because His face (the full weight of His presence) would destroy Moses where he stood (Exodus 33:20-23). When Moses comes down from the mountain his face is shining with reflected GLORY, and the people cannot look at him. He veils himself (Exodus 34:29–35). Reflected glory, secondhand weight, is more than human faces can bear.
 
 When the Tabernacle was completed and the Shekinah cloud descended to fill it, Moses could not enter the tent.
 

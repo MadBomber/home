@@ -151,11 +151,11 @@ God's verdict, delivered through the prophets, is not softened:
 >
 > 2 Kings 21:11-12 (ESV)
 
-The book of Kings holds Manasseh responsible for the eventual fall of Jerusalem. His sin was the reason the city could not be spared.
+The book of Kings holds Manasseh responsible for the eventual fall of Jerusalem. His sin was the reason the city could not be spared (2 Kings 24:3-4).
 
 2 Chronicles records what happened next.
 
-The Assyrians came. They took Manasseh captive, bound him with hooks and chains of bronze, and brought him to Babylon. In a foreign prison, at the end of a documented life of deliberate destruction:
+The Assyrians came. They took Manasseh captive, bound him with hooks and chains of bronze, and brought him to Babylon (2 Chronicles 33:11). In a foreign prison, at the end of a documented life of deliberate destruction:
 
 > "And when he was in distress, he entreated the favor of the LORD his God and humbled himself greatly before the God of his fathers. He prayed to him, and God was moved by his entreaty and heard his plea and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the LORD was God."
 >

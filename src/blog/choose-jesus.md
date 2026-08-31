@@ -92,7 +92,7 @@ The God who made you deliberately did not then step back and go silent.
 
 He is not a distant architect who drew the blueprint, handed it off, and moved on to other projects. He is faithful, not occasionally, not when conditions are favorable, but *always*, because faithfulness is not something he practices. It is something he *is*. His character does not shift with the seasons. His reliability does not depend on your performance. When he makes a promise, the promise stands.
 
-He is not waiting for you to clean yourself up before he comes close. He is the father in the parable who sees the returning son *while he is still far off*, and runs. He seeks you out where you are. Not where you think you should be. Not where you wish you were. *Where you are.*
+He is not waiting for you to clean yourself up before he comes close. He is the father in the parable who sees the returning son *while he is still far off*, and runs (Luke 15:20). He seeks you out where you are. Not where you think you should be. Not where you wish you were. *Where you are.*
 
 And so he reached. *"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life"* (John 3:16). That verse is so familiar it has nearly lost its weight. Read it again slowly. God loved. He gave. His only Son. *Whoever.* There is no asterisk on that word. No fine print about what kind of person qualifies. Whoever.
 
