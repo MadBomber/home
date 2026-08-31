@@ -10,11 +10,9 @@ order: 1
 
 The dog comes off the porch at a dead sprint, barking low and constant, and for half a second every animal instinct in your body agrees with it: run. Then the chain catches. It snaps taut a few feet short of the sidewalk, and the dog is jerked backward mid-stride, still barking, still lunging, still meaning every bit of it. Nothing about the dog changed in that instant. What changed is what you now know: exactly how far it can reach, and that the distance between you and it was decided before you ever walked past.
 
-That is not a bad way to think about the fear a lot of believers carry around Satan. The instinct is right. Something dangerous is there, and pretending otherwise is not faith. It is just poor observation. But the instinct usually stops at "dangerous" and never asks the second question, the one that decides how you live: how far does the chain reach, and who decided that?
+That is not a bad way to think about the fear a lot of believers carry around Satan. The instinct is right: something dangerous is there, and pretending otherwise is not faith, just poor observation. But the instinct usually stops at "dangerous" and never asks the second question, the one that decides how you live: how far does the chain reach, and who decided that? Scripture asks that second question constantly, and answers it the same way every time: not "he is not dangerous," but "he is dangerous, and here is exactly where that danger ends."
 
-Scripture asks the second question constantly. It rarely answers "he is not dangerous." It answers, every time, "he is dangerous, and here is exactly where that danger ends."
-
-That distinction gets lost easily, because the two fears feel identical from the inside. Standing on the sidewalk with a dog charging toward you, "how dangerous is this" and "how far can it reach" produce the exact same spike of adrenaline for the first half second. Only the second question, though, tells you anything you can use once the spike passes. The first question just repeats the danger back to you. The second one locates it.
+That distinction gets lost easily, because the two fears feel identical from the inside. Standing on the sidewalk with a dog charging toward you, "how dangerous is this" and "how far can it reach" produce the exact same spike of adrenaline for the first half second. Only once that spike passes does the difference matter: the first question just repeats the danger back to you. The second one locates it.
 
 ## A Lion That Has to Hunt
 
@@ -27,6 +25,8 @@ That distinction gets lost easily, because the two fears feel identical from the
 Read the verse again for the verbs, and you get the second half, the half that usually gets skipped. "Prowls" translates *peripatei*, a word that simply means walking about, covering ground on foot. "Seeking" translates a participle built on the ordinary Greek verb for searching. Neither word describes a being who can just take what he wants. Both describe an animal that has to work for a kill. A lion who could help himself to any prey in the field would not need to stalk anything. He would just take it. The verse meant to put you on guard concedes, in its own grammar, that the guard has real ground to stand on.
 
 Even the word "roaring" carries more of the same admission than it first appears to. A lion in the middle of an actual hunt does not roar. Roaring announces a position, warns off rivals, calls a scattered pride back together, and none of that is what a predator wants broadcast while it is closing the last few yards on prey that could still bolt. The roar comes before the stalk or after the kill, not during it. A "roaring lion, seeking someone to devour" is a picture of a hunter who has already given something away, working by intimidation as much as by ambush, counting on the noise itself to do work that a silent, successful hunter would never need noise to do.
+
+## Resist, Not Run
 
 Peter does not stop at the warning. The very next verse gives the response:
 
@@ -68,6 +68,8 @@ Everything that follows in that chapter happens inside that one sentence, and th
 
 Job's response to all of it is not numb resignation. He tears his robe, shaves his head, falls to the ground, and worships (Job 1:20), saying, "The LORD gave, and the LORD has taken away; blessed be the name of the LORD" (Job 1:21). That is not a man who has been told the loss was small. It is a man who still knows whose hand the account was ultimately in.
 
+## Two Rounds, Two Ceilings
+
 When Job survives that first round with his integrity intact, Satan comes back with a new theory, cynical enough to have the ring of proverbial wisdom: "Skin for skin! All that a man has he will give for his life" (Job 2:4). Job kept his faith when it only cost him property and children, the accusation runs. Touch his own body, and the story will end differently (Job 2:5). God permits the second test, and the boundary moves, but it does not vanish:
 
 > "Behold, he is in your hand; only spare his life."
@@ -88,7 +90,7 @@ Go back to the dog for a moment. A chain does not sometimes hold and sometimes n
 
 Satan being limited, in general, is a true and useful fact. It is not yet a promise about you specifically. That is the next question, and it has a sharper answer than "in general."
 
-There is also a piece of 1 Peter 5:9 worth doubling back for, because it answers a smaller but real fear sitting underneath the larger one. Peter does not just say resist. He says resist "knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world." Whatever is straining at the end of the chain in front of you right now is not a custom attack built for your specific weaknesses, run nowhere else, by an enemy who has singled you out. It is the same pressure other believers are standing against in the same way, in other places, at the same time. That does not make the pressure smaller. It does take away the isolating half of the fear, the sense that this particular struggle marks you as uniquely targeted or uniquely weak. The chain reaches the same distance for everyone standing at it.
+There is also a piece of 1 Peter 5:9 worth doubling back for, because it answers a smaller but real fear sitting underneath the larger one. Peter does not just say resist. He says resist "knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world." Whatever is straining at the end of the chain in front of you right now is not a custom attack built for your specific weaknesses by an enemy who has singled you out. It is the same pressure other believers are standing against, in other places, at the same time. That does not make the pressure smaller. It does take away the isolating half of the fear. The chain reaches the same distance for everyone standing at it.
 
 ## No One Can Take You
 
@@ -100,13 +102,15 @@ Scripture answers that fear by name, not just in general terms.
 >
 > John 10:28-29 (ESV)
 
-Read that twice. It does not say Satan will never try. It says the trying cannot succeed, because the hand doing the holding was never yours to begin with. If your own grip were the whole security system, "I do not feel strong enough today" would be a real problem, and a permanent one, since some days genuinely are weaker than others, and a security system that depended entirely on how strong you felt on the weak days would fail exactly when it mattered most. It is not the whole security system. It was never designed to be. The verse names two hands, not one: yours holding on, and a Father's holding you, and it is careful to specify which one the promise rests on. Paul pushes the same claim as wide as language will go. "If God is for us, who can be against us?" (Romans 8:31), he asks, and then answers it without leaving a gap anywhere in the question:
+Read that twice. It does not say Satan will never try. It says the trying cannot succeed, because the hand doing the holding was never yours to begin with. If your own grip were the whole security system, "I do not feel strong enough today" would be a real problem, and a permanent one: some days genuinely are weaker than others, and a system that depended entirely on how strong you felt on the weak days would fail exactly when it mattered most. It is not. The verse names two hands, not one: yours holding on, and a Father's holding you, and it is careful to specify which one the promise rests on. Paul pushes the same claim as wide as language will go. "If God is for us, who can be against us?" (Romans 8:31), he asks, and then answers it without leaving a gap anywhere in the question:
 
 > "For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
 >
 > Romans 8:38-39 (ESV)
 
-John answers whether Satan can take you: no, you are held. Romans answers whether there is some angle he could come from that is not already covered: no, the list is built to be exhaustive on purpose, not just Satan by name but rulers, powers, anything else in all creation, named and then generalized past naming. Read the list slowly and notice what it is ruling out. "Angels" and "rulers" and "powers" are not filler words reaching for poetic weight. They are the same vocabulary Scripture uses elsewhere for exactly the kind of spiritual authority Satan holds and commands, named specifically so the promise cannot be read as covering everything except the one threat you are afraid of. Then Paul widens it past even that list, to "anything else in all creation," so there is no possible category left over to worry about, no exception clause tucked into the fine print. The chain does not merely keep his reach shorter than it looks from the sidewalk. It excludes you specifically, already, before the question of how strong you feel today ever gets asked.
+John answers whether Satan can take you: no, you are held. Romans answers whether there is some angle he could come from that is not already covered: no. Read the list slowly and notice what it is ruling out. "Angels" and "rulers" and "powers" are not filler words reaching for poetic weight. They are the same vocabulary Scripture uses elsewhere for exactly the kind of spiritual authority Satan holds and commands, named specifically so the promise cannot be read as covering everything except the one threat you are afraid of. Then Paul widens it past even that list, to "anything else in all creation." The chain does not merely keep his reach shorter than it looks from the sidewalk. It excludes you specifically, already, before the question of how strong you feel today ever gets asked.
+
+## Farther Than He Can Reach
 
 None of this changes what the three in the morning thought was, or removes it from the room. It changes what the thought gets to mean. A believer who wakes up replaying the same struggle for the tenth time is not thereby proven to be losing some private contest with an opponent who has finally found the crack in the wall. James 4:7 was never conditioned on winning every round without effort, and it was never revoked the ninth time the same fight showed up. "Resist" is not a word for people who have already secured an easy victory. It is a word for people still standing in front of a real, loud, straining animal, told plainly what happens when they do not run: it flees. Not because the tenth round is easier than the first. Because the chain was never any longer on round ten than it was on round one.
 
