@@ -40,7 +40,7 @@ That still leaves a question. If the leash means Satan was never the real danger
 
 The devil, on his best day, reaches only the body, and only as far as his leash allows. He was never a candidate for what that verse describes. The one who can destroy soul and body was always God, not Satan. But that is the same God who promises that nothing snatches you out of His hand. He is the only one with the power to end you completely, and He spent His own Son on a cross to make sure He never would. That is what happens once the fear is aimed correctly. It does not disappear. It comes to rest in the one hand strong enough to hold it.
 
-This collection follows that boundary through six scenes: what the text says he cannot do, what he can only counterfeit, why the sin he offers still has to be your own, how one man in a wilderness argued him down, and why an already-defeated enemy still gets to keep fighting for a while. Fear of Satan usually comes from believing he is bigger than he is. What follows is an attempt to see him at his actual size.
+This collection follows that boundary through six scenes: how far the leash reaches and who holds it, what the text says he cannot do, what he can only counterfeit, why the sin he offers still has to be your own, how one man in a wilderness argued him down, and why an already-defeated enemy still gets to keep fighting for a while. Fear of Satan usually comes from believing he is bigger than he is. What follows is an attempt to see him at his actual size.
 
 ---
 

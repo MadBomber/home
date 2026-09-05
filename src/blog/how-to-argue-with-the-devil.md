@@ -12,7 +12,7 @@ The French have a phrase for it, *esprit de l'escalier*, staircase wit: the perf
 
 The frustrating part is never the lack of a good answer. Most of the time, given a week and a quiet room, the good answer is not actually that hard to find. The frustrating part is that the moment does not wait for the week or the quiet room. It asks its question once, on its own schedule, and the only answer that counts is the one ready to speak before the moment moves on to something else.
 
-There is a scene where none of that happens. Forty days into a fast, alone, in open desert, physically as depleted as a human body gets without dying, someone faces three arguments in a row, each one aimed at a real, specific weak point, and answers every single one without a pause long enough to notice. No groping. No forty-minutes-later realization. The perfect answer, every time, on the spot, under conditions worse than any performance review or holiday table could produce. That is Jesus in the wilderness, and the question worth asking is not whether he was right. Obviously he was right. The question is how he was ready.
+There is a scene where none of that happens. Forty days into a fast, alone, in open desert, physically as depleted as a human body gets without dying, someone faces three arguments in a row, each one aimed at a real, specific weak point, and answers every single one without a pause long enough to notice. No groping. No forty-minutes-later realization. The perfect answer, every time, on the spot, under conditions worse than any performance review or holiday table could produce. That is Jesus in the wilderness, and the question is not whether he was right. Obviously he was right. The question is how he was ready.
 
 ## Sent In, Not Ambushed
 
@@ -28,7 +28,7 @@ The first move goes straight at the most obvious weak point in the room.
 >
 > Matthew 4:3 (ESV)
 
-Not a trivial want. A real physical need, forty days deep, aimed at a real physical body. Jesus answers immediately, and the choice of text is worth more attention than the words alone:
+Not a trivial want. A real physical need, forty days deep, aimed at a real physical body. Jesus answers immediately, and the choice of text does as much work as the words themselves:
 
 > "And he humbled you and let you hunger and fed you with manna, which you did not know, nor did your fathers know, that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the LORD."
 >
@@ -36,17 +36,17 @@ Not a trivial want. A real physical need, forty days deep, aimed at a real physi
 
 That verse is not a general platitude about trusting God reached for under pressure. It is Moses' own explanation of why an earlier generation was made to hunger in a wilderness of their own, centuries before this one, in the exact same book Jesus is about to keep quoting from twice more. Jesus does not improvise a spiritual-sounding answer to a physical problem. He reaches for the specific text that already explains the exact category of test he is standing inside, and reaches for it instantly, with no visible search.
 
-Notice what the temptation actually targets. It is not simply "are you hungry." It opens with "if you are the Son of God," an identity question dressed up as a hunger question. Turning stones to bread would not just end the fast. It would answer a question about who Jesus is by performing a trick to prove it, on demand, to an audience of one. Jesus refuses the performance and answers the hunger honestly instead, which is the first lesson worth taking from the scene: knowing the actual text, not a vague approximation of its general spirit, is what makes an answer arrive instantly instead of getting groped for, and it is also what keeps the real question, the identity question underneath the hunger, from getting answered on someone else's terms.
+Notice what the temptation actually targets. It is not simply "are you hungry." It opens with "if you are the Son of God," an identity question dressed up as a hunger question. Turning stones to bread would not just end the fast. It would answer a question about who Jesus is by performing a trick to prove it, on demand, to an audience of one. Jesus refuses the performance and answers the hunger honestly instead, which is the first lesson the scene teaches: knowing the actual text, not a vague approximation of its general spirit, is what makes an answer arrive instantly instead of getting groped for, and it is also what keeps the real question, the identity question underneath the hunger, from getting answered on someone else's terms.
 
 ## When Scripture Is the Weapon
 
-Round two changes tactics, and the change is worth noticing on its own. This time the attack quotes Scripture back:
+Round two changes tactics. This time the attack quotes Scripture back:
 
 > "for it is written, 'He will command his angels concerning you, to guard you,' and 'On their hands they will bear you up, lest you strike your foot against a stone.'"
 >
 > Luke 4:10-11 (ESV)
 
-Real words, Psalm 91:11, cited accurately as far as they go. What gets left out is the clause a moment before it in the psalm, the part that makes the promise conditional: protection for the one who walks "in all your ways" (Psalm 91:11), meaning obedient ways, not protection for anyone willing to jump. Why Satan is capable of quoting something true and using it dishonestly is an argument for elsewhere; what matters here is practical: a quotation with a piece missing still sounds complete to anyone who does not already know the piece that is gone. Jesus answers from the same source he has been standing in since round one:
+Real words, Psalm 91:11, cited accurately as far as they go. What gets left out is the clause a moment before it in the psalm, the part that makes the promise conditional: protection for the one who walks "in all your ways" (Psalm 91:11), meaning obedient ways, not protection for anyone willing to jump. How a being can hold true words in his mouth and still lie with them is the counterfeiter's whole trade, real material spent dishonestly; what matters here is practical: a quotation with a piece missing still sounds complete to anyone who does not already know the piece that is gone. Jesus answers from the same source he has been standing in since round one:
 
 > "And Jesus answered him, 'It is said, You shall not put the Lord your God to the test.'"
 >
@@ -70,9 +70,9 @@ Pull back from all three rounds and a pattern comes into view that no single rou
 
 That is not a coincidence available only to Jesus. It describes a specific kind of readiness: not a general familiarity with the Bible as a whole, spread thin across every book, but a depth of knowledge in the exact place a specific pressure was going to land. Israel had the same chapters available in the same wilderness, centuries earlier, and failed the same three shapes of test that Jesus passed: grumbling for bread, testing God at Massah, chasing other gods for a shortcut to security.[^israel-failures] The difference was never access to the material. It was whether the material had actually been loaded before the test arrived. That is the actual mechanism behind the staircase-wit contrast from the opening. The perfect answer never arrives late here because it was never being searched for in the moment. It was already loaded, long before the wilderness, by someone who had spent enough time in that specific text that it came up first, every time, without a search.
 
-It is worth noting, briefly, that Matthew and Luke do not tell the three rounds in the same order. Matthew runs bread, pinnacle, kingdoms; Luke runs bread, kingdoms, pinnacle. Neither Gospel is careless about it. The most commonly offered explanation is that each writer is arranging the climax to fit the shape of his own book, Matthew building toward the temple's authority in a Gospel written with a Jewish audience's frame of reference in view, Luke building toward Jerusalem in a Gospel that opens in the temple and closes there as well. The order is not the point worth losing sleep over. What both writers agree on, without variation, is which texts Jesus reaches for and how fast.
+One detail should be named before it becomes a distraction: Matthew and Luke do not tell the three rounds in the same order. Matthew runs bread, pinnacle, kingdoms; Luke runs bread, kingdoms, pinnacle. Neither Gospel is careless about it. The most commonly offered explanation is that each writer is arranging the climax to fit the shape of his own book, Matthew building toward the temple's authority in a Gospel written with a Jewish audience's frame of reference in view, Luke building toward Jerusalem in a Gospel that opens in the temple and closes there as well. The order is not the point. What both writers agree on, without variation, is which texts Jesus reaches for and how fast.
 
-One more detail deserves a single honest paragraph rather than a full digression. Exactly how Satan relocated Jesus to the temple pinnacle and to a high mountain is not something the text spells out; the verbs Matthew and Luke use for the movement are ordinary ones, not the language Scripture uses elsewhere to flag a vision. That question has a fuller answer elsewhere. What matters for the fight itself is simpler: whatever the mechanism, Jesus went along voluntarily, which fits exactly what Hebrews says about the whole encounter, that he was "one who in every respect has been tempted as we are, yet without sin" (Hebrews 4:15). Nothing about the scene shows a will being overridden, even in its stranger mechanical details.
+One more detail deserves a single honest paragraph rather than a full digression. Exactly how Satan relocated Jesus to the temple pinnacle and to a high mountain is not something the text spells out; the verbs Matthew and Luke use for the movement are ordinary ones, not the language Scripture uses elsewhere to flag a vision. What matters for the fight itself is simpler: whatever the mechanism, Jesus went along voluntarily, which fits exactly what Hebrews says about the whole encounter, that he was "one who in every respect has been tempted as we are, yet without sin" (Hebrews 4:15). Nothing about the scene shows a will being overridden, even in its stranger mechanical details.
 
 ## Round Over
 
@@ -80,7 +80,7 @@ One more detail deserves a single honest paragraph rather than a full digression
 >
 > Luke 4:13 (ESV)
 
-One beat, not a new argument: the fight ends, for now. He did not win the entire war standing in that wilderness. He won the round in front of him, decisively, on the strength of a text he had already made his own long before the Spirit ever drove him out there, and the method that won it, not the outcome alone, is the thing worth carrying away from the scene.
+One beat, not a new argument: the fight ends, for now. He did not win the entire war standing in that wilderness. He won the round in front of him, decisively, on the strength of a text he had already made his own long before the Spirit ever drove him out there, and the method that won it, not the outcome alone, is the thing to carry away from the scene.
 
 ## Before the Stairs
 
