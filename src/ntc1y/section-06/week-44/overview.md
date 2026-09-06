@@ -41,9 +41,10 @@ This week traverses an extraordinary range of pastoral territory. First Timothy 
 - **Lois and Eunice** — Timothy's grandmother and mother, who nurtured his faith from childhood
 
 ## Key Locations
-- **Ephesus** — Timothy's assignment, major city in Asia Minor
-- **Crete** — Large Mediterranean island where Titus is organizing churches
-- **Rome** — Paul's location during the writing of 2 Timothy, imprisoned for the second and final time
+
+- **[Ephesus](/locations/ephesus/)** -- Timothy's assignment, major city in Asia Minor.
+- **[Crete](/locations/crete/)** -- Large Mediterranean island where Titus is organizing churches.
+- **[Rome](/locations/rome/)** -- Paul's location during the writing of 2 Timothy, imprisoned for the second and final time.
 
 ## Key Themes
 - **Contentment vs. the love of money** — True wealth is godliness with contentment; the pursuit of riches leads to ruin and spiritual destruction

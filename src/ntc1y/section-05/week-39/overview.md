@@ -45,10 +45,11 @@ Then comes the sea. Luke's account of the voyage to Rome in Acts 27 is the most 
 - **Julius** -- The Roman centurion of the Augustan Cohort who treated Paul kindly during the voyage
 
 ## Key Locations
-- **Jerusalem** -- The Antonia Fortress where Paul is held; the site of the assassination plot
-- **Caesarea Maritima** -- The Roman administrative capital of Judea, where Paul is imprisoned for two years
-- **The Mediterranean Sea** -- The setting for the dramatic voyage, storm, and shipwreck
-- **Malta (Melita)** -- The island where the ship runs aground and the survivors winter
+
+- **[Jerusalem](/locations/jerusalem/)** -- The Antonia Fortress where Paul is held; the site of the assassination plot.
+- **[Caesarea Maritima](/locations/caesarea/)** -- The Roman administrative capital of Judea, where Paul is imprisoned for two years.
+- **[The Mediterranean Sea](/locations/mediterranean-sea/)** -- The setting for the dramatic voyage, storm, and shipwreck.
+- **[Malta (Melita)](/locations/malta/)** -- The island where the ship runs aground and the survivors winter.
 
 ## Key Themes
 - **God's sovereignty over human schemes** -- Neither assassination plots, corrupt governors, nor Mediterranean storms can thwart God's plan

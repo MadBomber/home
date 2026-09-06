@@ -43,10 +43,11 @@ Chapter 12 contains the astonishing account of Paul's visionary experience -- ca
 - **Satan** -- Named as the source of Paul's "thorn in the flesh" (12:7) and the power behind false apostles who disguise themselves as "angels of light" (11:14)
 
 ## Key Locations
-- **Corinth** -- Wealthy Greek port city; the troubled church receiving this letter
-- **Macedonia** -- Northern Greek province where the generous churches set the example Paul holds before Corinth
-- **Jerusalem** -- Destination of the collection; the mother church struggling with poverty
-- **Third heaven / Paradise** -- The realm of God's presence to which Paul was caught up in his visionary experience
+
+- **[Corinth](/locations/corinth/)** -- Wealthy Greek port city; the troubled church receiving this letter.
+- **[Macedonia](/locations/macedonia/)** -- Northern Greek province where the generous churches set the example Paul holds before Corinth.
+- **[Jerusalem](/locations/jerusalem/)** -- Destination of the collection; the mother church struggling with poverty.
+- **[The Third Heaven / Paradise](/locations/heaven/)** -- The realm of God's presence to which Paul was caught up in his visionary experience.
 
 ## Key Themes
 - **Cheerful generosity** -- God's own nature as the ultimate giver provides both the model and the power for human generosity

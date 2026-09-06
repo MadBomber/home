@@ -44,9 +44,10 @@ Second and Third John are the two shortest books in the New Testament -- each co
 - **Demetrius** -- A man well spoken of by everyone and by the truth itself (3 John)
 
 ## Key Locations
-- **Ephesus** -- The probable base of John's ministry and the center of the Johannine community
-- **Asia Minor** -- The broader region of house churches addressed by John's circular letters
-- **The house church of "the chosen lady"** -- The specific congregation warned in 2 John about false teachers
+
+- **[Ephesus](/locations/ephesus/)** -- The probable base of John's ministry and the center of the Johannine community.
+- **[Asia Minor](/locations/asia-minor/)** -- The broader region of house churches addressed by John's circular letters.
+- **[The House Church of "the Chosen Lady"](/locations/asia-minor/)** -- The specific congregation warned in 2 John about false teachers.
 
 ## Key Themes
 - **God is light** -- The fundamental character of God as pure, radiant holiness with no darkness at all, establishing the moral framework for authentic Christian living

@@ -44,9 +44,10 @@ These five days take us from Paul's deathbed to the theological heights of Hebre
 - **Jesus Christ** -- The Son through whom God has spoken, superior to angels
 
 ## Key Locations
-- **Rome** -- Paul's second imprisonment, likely the Mamertine Prison
-- **Ephesus** -- Where Timothy was serving as pastor
-- **Troas** -- Where Paul left his cloak and scrolls with Carpus
+
+- **[Rome](/locations/rome/)** -- Paul's second imprisonment, likely the Mamertine Prison.
+- **[Ephesus](/locations/ephesus/)** -- Where Timothy was serving as pastor.
+- **[Troas](/locations/troas/)** -- Where Paul left his cloak and scrolls with Carpus.
 
 ## Key Themes
 - **Perseverance in suffering** -- The Christian life demands endurance through hardship

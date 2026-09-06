@@ -44,9 +44,10 @@ Chapter 7 brings emotional resolution. The godly sorrow that Paul's tearful lett
 - **The Macedonian churches** -- Impoverished congregations (Philippi, Thessalonica, Berea) whose generosity shamed wealthier Corinth
 
 ## Key Locations
-- **Corinth** -- Wealthy, cosmopolitan port city; the troubled church Paul addresses
-- **Macedonia** -- Northern province (modern Greece) where Paul waited for Titus and where the generous churches were located
-- **Troas** -- Coastal city where Paul had hoped to meet Titus but could not rest (2:12-13)
+
+- **[Corinth](/locations/corinth/)** -- Wealthy, cosmopolitan port city; the troubled church Paul addresses.
+- **[Macedonia](/locations/macedonia/)** -- Northern province (modern Greece) where Paul waited for Titus and where the generous churches were located.
+- **[Troas](/locations/troas/)** -- Coastal city where Paul had hoped to meet Titus but could not rest (2:12-13).
 
 ## Key Themes
 - **Power through weakness** -- God's strength is displayed most clearly through human frailty and suffering

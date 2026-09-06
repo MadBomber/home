@@ -41,12 +41,14 @@ By the end of the week, we encounter the full spectrum of responses to Jesus: th
 - **Jairus** -- Synagogue ruler whose daughter Jesus raises from death
 
 ## Key Locations
-- **Galilee** -- The broader region of Jesus' itinerant ministry
-- **Capernaum** -- Jesus' home base and site of many confrontations
-- **Chorazin, Bethsaida** -- Cities denounced for unrepentance
-- **Nazareth** -- Jesus' hometown, site of rejection
-- **Sea of Galilee** -- Setting for the teaching from the boat and the storm miracle
-- **Region of the Gerasenes** -- Gentile territory east of the Sea of Galilee
+
+- **[Galilee](/locations/galilee/)** -- The broader region of Jesus' itinerant ministry.
+- **[Capernaum](/locations/capernaum/)** -- Jesus' home base and site of many confrontations.
+- **[Chorazin](/locations/chorazin/)** -- A basalt hill town denounced for unrepentance despite the mighty works done there.
+- **[Bethsaida](/locations/bethsaida/)** -- The fishermen's town denounced alongside Chorazin for its unbelief.
+- **[Nazareth](/locations/nazareth/)** -- Jesus' hometown, site of rejection.
+- **[The Sea of Galilee](/locations/sea-of-galilee/)** -- Setting for the teaching from the boat and the storm miracle.
+- **[The Region of the Gerasenes](/locations/gerasenes/)** -- Gentile territory east of the Sea of Galilee.
 
 ## Key Themes
 - **The mystery of the kingdom** -- God's reign advances in hidden, unexpected ways

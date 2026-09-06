@@ -45,10 +45,11 @@ The opening chapters of 1 Corinthians (1-4) lay the theological foundation for e
 - **Demetrius** -- Silversmith in Ephesus who incites a riot to protect his trade in Artemis shrines
 
 ## Key Locations
-- **Ephesus** -- Major city in Asia Minor, center of the Artemis cult and a hub of magic and commerce
-- **Hall of Tyrannus** -- Lecture hall where Paul teaches daily during the heat of the day
-- **Temple of Artemis** -- One of the Seven Wonders, center of Ephesian civic and religious identity
-- **Corinth** -- The church Paul is writing to, now plagued by divisions and moral confusion
+
+- **[Ephesus](/locations/ephesus/)** -- Major city in Asia Minor, center of the Artemis cult and a hub of magic and commerce.
+- **[The Hall of Tyrannus](/locations/ephesus/)** -- Lecture hall where Paul teaches daily during the heat of the day.
+- **[The Temple of Artemis](/locations/ephesus/)** -- One of the Seven Wonders, center of Ephesian civic and religious identity.
+- **[Corinth](/locations/corinth/)** -- The church Paul is writing to, now plagued by divisions and moral confusion.
 
 ## Key Themes
 - **The power of the gospel over the powers of darkness** -- In Ephesus, the gospel confronts and defeats magic, idolatry, and demonic forces

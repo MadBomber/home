@@ -43,10 +43,11 @@ What emerges across these readings is a portrait of a community utterly unlike t
 - **The Unmerciful Servant** -- A debtor forgiven everything who refuses to forgive anything
 
 ## Key Locations
-- **Capernaum** -- Setting for the discourse on greatness and forgiveness in Matthew 18
-- **The road from Jerusalem to Jericho** -- The dangerous descent where the Good Samaritan parable is set
-- **Bethany** -- The village of Mary and Martha, near Jerusalem
-- **Various towns in Galilee and beyond** -- The expanding mission territory of the Twelve and the Seventy-Two
+
+- **[Capernaum](/locations/capernaum/)** -- Setting for the discourse on greatness and forgiveness in Matthew 18.
+- **[The Road from Jerusalem to Jericho](/locations/jericho/)** -- The dangerous descent where the Good Samaritan parable is set.
+- **[Bethany](/locations/bethany/)** -- The village of Mary and Martha, near Jerusalem.
+- **[The Towns of Galilee and Beyond](/locations/galilee/)** -- The expanding mission territory of the Twelve and the Seventy-Two.
 
 ## Key Themes
 - **Humility and childlikeness** -- Kingdom greatness is measured by lowliness and dependence, not by power or status

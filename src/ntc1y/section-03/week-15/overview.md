@@ -42,11 +42,12 @@ The religious leaders respond immediately. They challenge Jesus' authority, aski
 - **The Poor Widow** -- An unnamed woman whose offering embodies total devotion
 
 ## Key Locations
-- **Bethphage and Bethany** -- Villages on the Mount of Olives where Jesus stages his entry
-- **Mount of Olives** -- The ridge east of Jerusalem with profound prophetic associations (Zechariah 14:4)
-- **Jerusalem** -- The holy city, swollen with Passover pilgrims
-- **The Temple** -- Center of Jewish worship, commerce, and political power
-- **Court of the Gentiles** -- The outer court where money changers and merchants operated
+
+- **[Bethphage and Bethany](/locations/bethany/)** -- Villages on the Mount of Olives where Jesus stages his entry.
+- **[The Mount of Olives](/locations/mount-of-olives/)** -- The ridge east of Jerusalem with profound prophetic associations (Zechariah 14:4).
+- **[Jerusalem](/locations/jerusalem/)** -- The holy city, swollen with Passover pilgrims.
+- **[The Temple](/locations/temple-jerusalem/)** -- Center of Jewish worship, commerce, and political power.
+- **[The Court of the Gentiles](/locations/temple-jerusalem/)** -- The outer court where money changers and merchants operated.
 
 ## Key Themes
 - **Messianic kingship** -- Jesus publicly claims his identity through prophetic actions, not political force

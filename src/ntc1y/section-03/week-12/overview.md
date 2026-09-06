@@ -50,9 +50,9 @@ The juxtaposition is deliberate. John shows us Jesus confronting religious hypoc
 
 ## Key Locations
 
-- **Jerusalem / The Temple Courts** -- Where Jesus teaches publicly during the Festival of Tabernacles, making his great claims in the most public forum in Israel.
-- **The Pool of Siloam (referenced)** -- Connected to the water-pouring ceremony of Tabernacles, the backdrop for Jesus' offer of living water.
-- **The Road to Jerusalem** -- Luke's extended travel narrative places much of Jesus' teaching in this journey context.
+- **[Jerusalem / The Temple Courts](/locations/temple-jerusalem/)** -- Where Jesus teaches publicly during the Festival of Tabernacles, making his great claims in the most public forum in Israel.
+- **[The Pool of Siloam](/locations/pool-of-siloam/)** -- Connected to the water-pouring ceremony of Tabernacles, the backdrop for Jesus' offer of living water.
+- **[The Road to Jerusalem](/locations/jerusalem/)** -- Luke's extended travel narrative places much of Jesus' teaching in this journey context.
 
 ## Key Themes
 

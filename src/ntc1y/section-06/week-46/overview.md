@@ -49,9 +49,10 @@ These five chapters are not merely academic theology. They are pastoral pleading
 - **Abraham** -- The patriarch who received God's oath and paid tithes to Melchizedek
 
 ## Key Locations
-- **The wilderness** -- Israel's forty years of wandering, used as a warning against unbelief
-- **Canaan** -- The promised land that proved to be only a shadow of the true rest God offers
-- **Salem** -- Ancient name for Jerusalem, where Melchizedek served as both king and priest
+
+- **[The Wilderness](/locations/mount-sinai/)** -- Israel's forty years of wandering, used as a warning against unbelief.
+- **[Canaan](/locations/canaan/)** -- The promised land that proved to be only a shadow of the true rest God offers.
+- **[Salem](/locations/jerusalem/)** -- Ancient name for Jerusalem, where Melchizedek served as both king and priest.
 
 ## Key Themes
 - **Greater than Moses** -- Jesus surpasses the greatest figure of the old covenant as builder surpasses building

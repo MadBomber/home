@@ -43,11 +43,12 @@ The thread connecting these diverse chapters is hope -- the certain hope of bodi
 - **Moses** -- Whose veiled face provides the typological basis for Paul's new covenant theology
 
 ## Key Locations
-- **Corinth** -- The church struggling with denial of bodily resurrection and strained relations with Paul
-- **Ephesus** -- Where Paul wrote 1 Corinthians and where he suffered a crisis that brought him near death
-- **Macedonia** -- Where Paul wrote 2 Corinthians after receiving Titus's encouraging report
-- **Jerusalem** -- The destination of the collection Paul is organizing from his Gentile churches
-- **Troas** -- Where Paul hoped to meet Titus but could not rest when he did not find him
+
+- **[Corinth](/locations/corinth/)** -- The church struggling with denial of bodily resurrection and strained relations with Paul.
+- **[Ephesus](/locations/ephesus/)** -- Where Paul wrote 1 Corinthians and where he suffered a crisis that brought him near death.
+- **[Macedonia](/locations/macedonia/)** -- Where Paul wrote 2 Corinthians after receiving Titus's encouraging report.
+- **[Jerusalem](/locations/jerusalem/)** -- The destination of the collection Paul is organizing from his Gentile churches.
+- **[Troas](/locations/troas/)** -- Where Paul hoped to meet Titus but could not rest when he did not find him.
 
 ## Key Themes
 - **The bodily resurrection of Christ** -- The historical foundation of the Christian faith, attested by multiple eyewitnesses and forming the basis of all Christian hope

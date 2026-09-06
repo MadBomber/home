@@ -48,9 +48,9 @@ Binding these readings together is the theme of authority. In Mark 3, Jesus demo
 
 ## Key Locations
 
-- **Mountain near Capernaum** -- The traditional site where Jesus delivered the Sermon on the Mount, likely a hillside in the rolling terrain above the northern shore of the Sea of Galilee.
-- **Sea of Galilee Region** -- The broader area around the lake where Jesus conducted much of his Galilean ministry, moving between towns and open countryside.
-- **Capernaum** -- Jesus' adopted home base during the Galilean ministry, a fishing village on the northwest shore of the Sea of Galilee.
+- **[The Mount of Beatitudes](/locations/mount-of-beatitudes/)** -- The traditional site of the Sermon on the Mount, a hillside above the northern shore of the Sea of Galilee.
+- **[The Sea of Galilee Region](/locations/sea-of-galilee/)** -- The broader area around the lake where Jesus conducted much of his Galilean ministry, moving between towns and open countryside.
+- **[Capernaum](/locations/capernaum/)** -- Jesus' adopted home base during the Galilean ministry, a fishing village on the northwest shore of the Sea of Galilee.
 
 ## Key Themes
 

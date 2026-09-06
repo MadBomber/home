@@ -42,10 +42,11 @@ Romans 1-4 constitutes the first major section of the letter, and its argument i
 - **Paul's travel companions** -- Sopater, Aristarchus, Secundus, Gaius, Timothy, Tychicus, and Trophimus, representing the Gentile churches
 
 ## Key Locations
-- **Corinth** -- Where Paul writes Romans during his three-month stay (~57 AD)
-- **Rome** -- The capital of the empire and home to the church Paul hopes to visit
-- **Macedonia and Greece** -- Paul's travel route as he collects the offering for Jerusalem
-- **Troas** -- Where the group reassembles before sailing to Jerusalem
+
+- **[Corinth](/locations/corinth/)** -- Where Paul writes Romans during his three-month stay (~57 AD).
+- **[Rome](/locations/rome/)** -- The capital of the empire and home to the church Paul hopes to visit.
+- **[Macedonia](/locations/macedonia/) and Greece** -- Paul's travel route as he collects the offering for Jerusalem.
+- **[Troas](/locations/troas/)** -- Where the group reassembles before sailing to Jerusalem.
 
 ## Key Themes
 - **The gospel as God's power** -- The gospel is not merely information about salvation but the active power of God that accomplishes salvation for everyone who believes

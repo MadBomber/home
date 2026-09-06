@@ -42,9 +42,10 @@ The teaching culminates in three extended parables -- the Ten Virgins, the Talen
 - **"The Least of These"** -- The hungry, thirsty, stranger, naked, sick, and imprisoned in whom Christ is encountered
 
 ## Key Locations
-- **The Temple** -- Setting for the final debates and the Seven Woes, and the building whose destruction Jesus predicts
-- **The Mount of Olives** -- The ridge east of Jerusalem where Jesus delivers the eschatological discourse
-- **Jerusalem** -- The city that kills the prophets, over which Jesus weeps
+
+- **[The Temple](/locations/temple-jerusalem/)** -- Setting for the final debates and the Seven Woes, and the building whose destruction Jesus predicts.
+- **[The Mount of Olives](/locations/mount-of-olives/)** -- The ridge east of Jerusalem where Jesus delivers the eschatological discourse.
+- **[Jerusalem](/locations/jerusalem/)** -- The city that kills the prophets, over which Jesus weeps.
 
 ## Key Themes
 - **Prophetic judgment** -- The Seven Woes and the Olivet Discourse declare that God's patience with corrupt leadership has reached its end

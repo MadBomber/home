@@ -54,12 +54,12 @@ Together, these two accounts form a breathtaking composite. We see the full huma
 
 ## Key Locations
 
-- **Gethsemane / Mount of Olives** -- The olive grove east of Jerusalem where Jesus prays in agony and is arrested. The name means "oil press," an image heavy with symbolism as Jesus is "pressed" under the weight of the world's sin.
-- **The High Priest's House** -- Where Jesus faces the Sanhedrin's preliminary hearing and Peter denies him in the courtyard below.
-- **Pilate's Praetorium** -- The Roman governor's headquarters in Jerusalem, likely the former palace of Herod the Great, where Jesus is tried and sentenced.
-- **Herod's Palace** -- Where Herod Antipas interrogates Jesus during Passover week.
-- **Golgotha / Calvary** -- "The Place of the Skull," outside the city walls, where Jesus is crucified between two criminals.
-- **The Garden Tomb** -- The new tomb belonging to Joseph of Arimathea, hewn from rock, where Jesus' body is laid before the Sabbath.
+- **[Gethsemane / Mount of Olives](/locations/gethsemane/)** -- The olive grove east of Jerusalem where Jesus prays in agony and is arrested; the name means "oil press."
+- **[The High Priest's House](/locations/high-priests-house/)** -- Where Jesus faces the Sanhedrin's preliminary hearing and Peter denies him in the courtyard below.
+- **[Pilate's Praetorium](/locations/praetorium/)** -- The Roman governor's headquarters in Jerusalem, likely the former palace of Herod the Great, where Jesus is tried and sentenced.
+- **[Herod's Palace](/locations/praetorium/)** -- Where Herod Antipas interrogates Jesus during Passover week.
+- **[Golgotha / Calvary](/locations/golgotha/)** -- "The Place of the Skull," outside the city walls, where Jesus is crucified between two criminals.
+- **[The Garden Tomb](/locations/garden-tomb/)** -- The new tomb belonging to Joseph of Arimathea, hewn from rock, where Jesus' body is laid before the Sabbath.
 
 ## Key Themes
 

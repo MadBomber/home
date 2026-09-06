@@ -43,9 +43,10 @@ The Farewell Discourse also introduces the Paraclete -- the Holy Spirit whom the
 - **Philip** -- The disciple whose request to see the Father reveals how much they still do not understand
 
 ## Key Locations
-- **The Upper Room** -- A large furnished room in Jerusalem, possibly in the home of John Mark's family, where the Last Supper takes place
-- **Jerusalem** -- The city preparing for Passover, filled with pilgrims and political tension
-- **The Temple** -- The backdrop against which the chief priests and scribes plot Jesus' arrest
+
+- **[The Upper Room](/locations/upper-room/)** -- A large furnished room in Jerusalem, possibly in the home of John Mark's family, where the Last Supper takes place.
+- **[Jerusalem](/locations/jerusalem/)** -- The city preparing for Passover, filled with pilgrims and political tension.
+- **[The Temple](/locations/temple-jerusalem/)** -- The backdrop against which the chief priests and scribes plot Jesus' arrest.
 
 ## Key Themes
 - **Servant leadership** -- Jesus redefines greatness by washing feet and breaking bread, overturning every human hierarchy

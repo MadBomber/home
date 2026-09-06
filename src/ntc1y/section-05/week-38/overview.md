@@ -45,11 +45,12 @@ Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- A
 - **Claudius Lysias** -- Roman tribune who arrests Paul in the Temple and discovers his Roman citizenship
 
 ## Key Locations
-- **Corinth/Cenchreae** -- Where Romans was written and where Phoebe served as deacon
-- **Troas** -- Where Eutychus fell and was restored; the site of Paul's all-night teaching
-- **Miletus** -- Port city south of Ephesus where Paul delivered his farewell to the elders
-- **Jerusalem** -- The Temple where Paul was arrested after completing the Nazarite vow
-- **The Antonia Fortress** -- The Roman garrison overlooking the Temple, from whose steps Paul addressed the crowd
+
+- **[Corinth / Cenchreae](/locations/corinth/)** -- Where Romans was written and where Phoebe served as deacon.
+- **[Troas](/locations/troas/)** -- Where Eutychus fell and was restored; the site of Paul's all-night teaching.
+- **[Miletus](/locations/miletus/)** -- Port city south of Ephesus where Paul delivered his farewell to the elders.
+- **[Jerusalem](/locations/jerusalem/)** -- The Temple where Paul was arrested after completing the Nazirite vow.
+- **[The Antonia Fortress](/locations/praetorium/)** -- The Roman garrison overlooking the Temple, from whose steps Paul addressed the crowd.
 
 ## Key Themes
 - **The gospel creates community** -- Romans 15-16 reveal a network of relationships spanning cities, ethnicities, and social classes, all united by the gospel

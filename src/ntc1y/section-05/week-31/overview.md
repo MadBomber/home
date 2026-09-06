@@ -41,10 +41,11 @@ These chapters are among the most debated in Pauline scholarship, touching on qu
 - **The "weaker" and "stronger" members** -- Those with differing levels of spiritual maturity whose mutual care is essential to the body's health
 
 ## Key Locations
-- **Corinth** -- Wealthy port city teeming with pagan temples and idol feasts
-- **The wilderness** -- Israel's forty-year sojourn, used typologically as a warning to the church
-- **The house churches** -- Private homes where the Corinthian believers gathered for worship and the Lord's Supper
-- **Pagan temples** -- Sites of idol feasts that some Corinthian believers continued to attend
+
+- **[Corinth](/locations/corinth/)** -- Wealthy port city teeming with pagan temples and idol feasts.
+- **[The Wilderness](/locations/mount-sinai/)** -- Israel's forty-year sojourn, used typologically as a warning to the church.
+- **[The House Churches](/locations/corinth/)** -- Private homes where the Corinthian believers gathered for worship and the Lord's Supper.
+- **[Pagan Temples](/locations/corinth/)** -- Sites of idol feasts that some Corinthian believers continued to attend.
 
 ## Key Themes
 - **Idol feasts and the Lord's Table** -- Participation in pagan worship is incompatible with participation in the body and blood of Christ

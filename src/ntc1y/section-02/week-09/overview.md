@@ -43,13 +43,14 @@ The week's narratives extend this boundary-crossing logic into practice. Jesus h
 - **Herodias and her daughter** -- Instigators of John's beheading
 
 ## Key Locations
-- **Capernaum synagogue** -- Where Jesus delivers the bread of life discourse
-- **Sea of Galilee** -- Site of the feeding of the 5000 and Jesus walking on water
-- **Gennesaret** -- Where Jesus lands after walking on water
-- **Region of Tyre and Sidon** -- Gentile territory where Jesus encounters the Syrophoenician woman
-- **The Decapolis** -- Gentile region east of the Sea of Galilee, site of healings
-- **Bethsaida** -- Village where the blind man is healed in stages
-- **Machaerus** -- Herod's fortress where John the Baptist was imprisoned and executed
+
+- **[The Capernaum Synagogue](/locations/capernaum/)** -- Where Jesus delivers the bread of life discourse.
+- **[The Sea of Galilee](/locations/sea-of-galilee/)** -- Site of the feeding of the 5000 and Jesus walking on water.
+- **[Gennesaret](/locations/sea-of-galilee/)** -- The fertile plain on the lake's northwest shore where Jesus lands after walking on water.
+- **[The Region of Tyre and Sidon](/locations/tyre-sidon/)** -- Gentile territory where Jesus encounters the Syrophoenician woman.
+- **[The Decapolis](/locations/decapolis/)** -- Gentile region east of the Sea of Galilee, site of healings.
+- **[Bethsaida](/locations/bethsaida/)** -- Village where the blind man is healed in stages.
+- **[Machaerus](/locations/machaerus/)** -- Herod's fortress where John the Baptist was imprisoned and executed.
 
 ## Key Themes
 - **Jesus as the bread of life** -- The feeding miracles point beyond physical sustenance to spiritual nourishment that only Christ can provide

@@ -43,10 +43,11 @@ The scattering that follows Stephen's death is one of the great ironies of redem
 - **James** -- The half-brother of Jesus and leader of the Jerusalem church, author of the letter
 
 ## Key Locations
-- **Jerusalem** -- Site of Stephen's trial and martyrdom, center of the initial persecution
-- **Samaria** -- Region of mixed Jewish-Gentile heritage where Philip brings the gospel
-- **The Gaza Road** -- Desert route where Philip meets the Ethiopian eunuch
-- **The Diaspora** -- The scattered communities of Jewish believers to whom James writes
+
+- **[Jerusalem](/locations/jerusalem/)** -- Site of Stephen's trial and martyrdom, center of the initial persecution.
+- **[Samaria](/locations/sychar/)** -- Region of mixed Jewish-Gentile heritage where Philip brings the gospel.
+- **[The Gaza Road](/locations/gaza-road/)** -- Desert route where Philip meets the Ethiopian eunuch.
+- **[The Diaspora](/locations/diaspora/)** -- The scattered communities of Jewish believers to whom James writes.
 
 ## Key Themes
 - **Servant leadership** -- The appointment of the seven demonstrates that practical ministry requires spiritual qualifications

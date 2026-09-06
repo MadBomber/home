@@ -45,10 +45,11 @@ The book's final chapters (21-22) bring the entire biblical narrative to its bre
 - **The Bride** -- The New Jerusalem, the holy city, the people of God prepared for eternal union with the Lamb
 
 ## Key Locations
-- **Heaven's Throne Room** -- The cosmic center from which all judgment and salvation flow
-- **Babylon the Great** -- The symbolic city representing human civilization organized in rebellion against God
-- **Armageddon (Har-Magedon)** -- The symbolic battlefield of the final confrontation
-- **The New Jerusalem** -- The holy city descending from heaven, God's eternal dwelling with his people
+
+- **[Heaven's Throne Room](/locations/heaven/)** -- The cosmic center from which all judgment and salvation flow.
+- **[Babylon the Great](/locations/babylon-the-great/)** -- The symbolic city representing human civilization organized in rebellion against God.
+- **[Armageddon (Har-Magedon)](/locations/armageddon/)** -- The symbolic battlefield of the final confrontation.
+- **[The New Jerusalem](/locations/new-jerusalem/)** -- The holy city descending from heaven, God's eternal dwelling with his people.
 
 ## Key Themes
 - **The Lamb's victory** -- The central message of Revelation is that the slain Lamb has already won the decisive victory, and all the judgments and battles flow from his accomplished work

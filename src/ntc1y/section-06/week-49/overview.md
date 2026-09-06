@@ -44,9 +44,10 @@ Yet these letters do not end in despair. Second Peter closes with the breathtaki
 - **Michael the Archangel** -- Referenced in Jude's account of the dispute over Moses' body, modeling restraint even against the devil
 
 ## Key Locations
-- **Rome ("Babylon")** -- Peter's location, where the growing hostility of the Roman state looms over his pastoral instruction
-- **The churches of Asia Minor** -- The scattered communities receiving Peter's letters, under both social pressure and internal doctrinal threat
-- **New heavens and new earth** -- The ultimate destination, the renewed creation where righteousness dwells
+
+- **[Rome ("Babylon")](/locations/rome/)** -- Peter's location, where the growing hostility of the Roman state looms over his pastoral instruction.
+- **[The Churches of Asia Minor](/locations/asia-minor/)** -- The scattered communities receiving Peter's letters, under both social pressure and internal doctrinal threat.
+- **[New Heavens and New Earth](/locations/new-jerusalem/)** -- The ultimate destination, the renewed creation where righteousness dwells.
 
 ## Key Themes
 - **Faithful shepherding** -- Elders are called to lead by example rather than compulsion, serving willingly and looking forward to the Chief Shepherd's reward

@@ -50,10 +50,11 @@ The week closes in Jericho with Zacchaeus, the chief tax collector who climbed a
 - **Zacchaeus** -- The chief tax collector whose encounter with Jesus produces radical, spontaneous generosity
 
 ## Key Locations
-- **Perea ("beyond the Jordan")** -- The region where Jesus teaches about marriage and encounters the rich young man
-- **Bethany** -- The village two miles from Jerusalem where Lazarus, Martha, and Mary live
-- **Ephraim** -- The remote village where Jesus withdraws after the Sanhedrin decides to kill him
-- **Jericho** -- The ancient city where Jesus meets Zacchaeus on the road to Jerusalem
+
+- **[Perea ("beyond the Jordan")](/locations/perea/)** -- The region where Jesus teaches about marriage and encounters the rich young man.
+- **[Bethany](/locations/bethany/)** -- The village two miles from Jerusalem where Lazarus, Martha, and Mary live.
+- **[Ephraim](/locations/ephraim/)** -- The remote village where Jesus withdraws after the Sanhedrin decides to kill him.
+- **[Jericho](/locations/jericho/)** -- The ancient city where Jesus meets Zacchaeus on the road to Jerusalem.
 
 ## Key Themes
 - **The cost of discipleship** -- The rich young man's inability to part with his wealth reveals that following Jesus requires releasing whatever competes for ultimate allegiance

@@ -3,105 +3,245 @@
   # passed as the local `d`:  render "location_map", d: data
   #
   # Front matter keys read here:
+  #   map_region          — "holy-land" (default) or "mediterranean"
   #   map_lat / map_lon   — marker position (decimal degrees)
   #   map_label           — marker label (defaults to the page title)
   #   map_label_side      — "left" when the default right-side label would
   #                         collide with water or the map edge
-  #   map_feature         — highlight a drawn feature instead of a point:
-  #                         jordan-river | sea-of-galilee | judean-wilderness |
-  #                         egypt-arrow
+  #   map_feature         — highlight a drawn feature instead of a point.
+  #                         Holy Land: jordan-river | sea-of-galilee |
+  #                           judean-wilderness | galilee | perea | decapolis |
+  #                           gaza-road | egypt-arrow | sinai-arrow
+  #                         Mediterranean: macedonia | galatia | asia-minor |
+  #                           voyage-route | spain-arrow
   #   map_alt             — spoken description of the location's position,
   #                         used as the figure's aria-label
   #
-  # Geometry is stored as [lat, lon] pairs and projected onto the viewBox
-  # below. The viewBox height was chosen so one degree of longitude and one
-  # degree of latitude keep their true proportions at ~32 N.
+  # Geometry is stored as [lat, lon] pairs and projected onto the viewBox.
+  # Each viewBox height keeps one degree of longitude and one degree of
+  # latitude in true proportion at the map's central latitude, so a mile
+  # measures the same on both axes and the scale bar is honest.
 
-  lon_min, lon_max = 34.0, 36.2
-  lat_min, lat_max = 30.8, 33.5
-  vw, vh = 300.0, 434.0
+  region = d.map_region || "holy-land"
+  med    = region == "mediterranean"
+
+  if med
+    lon_min, lon_max = 10.0, 37.0
+    lat_min, lat_max = 30.5, 43.5
+    vw, vh = 420.0, 257.0
+    scale_miles = 200
+  else
+    lon_min, lon_max = 34.0, 36.2
+    lat_min, lat_max = 30.8, 33.5
+    vw, vh = 300.0, 434.0
+    scale_miles = 25
+  end
 
   px = ->(lon) { ((lon - lon_min) / (lon_max - lon_min) * vw).round(1) }
   py = ->(lat) { ((lat_max - lat) / (lat_max - lat_min) * vh).round(1) }
   poly = ->(pts) { pts.map { |la, lo| "#{px.(lo)},#{py.(la)}" }.join(" L ") }
 
-  coast = [
-    [33.50, 35.31], [33.27, 35.19], [33.05, 35.10], [32.92, 35.07],
-    [32.87, 35.03], [32.83, 34.97], [32.60, 34.92], [32.50, 34.89],
-    [32.30, 34.84], [32.05, 34.74], [31.80, 34.63], [31.67, 34.55],
-    [31.50, 34.45], [31.30, 34.33], [31.10, 34.24], [30.95, 34.15],
-    [30.80, 34.08],
-  ]
-  sea_fill = coast + [[30.80, lon_min], [33.50, lon_min]]
-
-  galilee_lake = [
-    [32.88, 35.585], [32.86, 35.62], [32.80, 35.65], [32.73, 35.63],
-    [32.70, 35.58],  [32.73, 35.54], [32.80, 35.52], [32.85, 35.54],
-  ]
-  dead_sea = [
-    [31.77, 35.53], [31.70, 35.59], [31.45, 35.60], [31.25, 35.57],
-    [31.10, 35.54], [31.03, 35.48], [31.10, 35.43], [31.35, 35.42],
-    [31.55, 35.44], [31.70, 35.47],
-  ]
-  jordan_upper = [
-    [33.40, 35.63], [33.20, 35.61], [33.05, 35.60], [32.95, 35.59], [32.88, 35.585],
-  ]
-  jordan_lower = [
-    [32.70, 35.58], [32.55, 35.55], [32.40, 35.56], [32.25, 35.58],
-    [32.10, 35.56], [31.95, 35.54], [31.84, 35.53], [31.77, 35.53],
-  ]
-  wilderness = [
-    [31.95, 35.28], [31.88, 35.45], [31.60, 35.40], [31.15, 35.40],
-    [31.05, 35.32], [31.35, 35.24], [31.75, 35.22],
-  ]
-
-  jer_lat, jer_lon = 31.778, 35.236
-
-  # Scale bar: 25 miles, drawn as an L so both axes are shown. One degree of
-  # latitude is 69.05 miles, and the projection above keeps horizontal and
-  # vertical pixels-per-mile equal, so a single length serves both legs.
-  scale_px = (25 / 69.05 * vh / (lat_max - lat_min)).round(1)
-  sc_x, sc_y = vw - 18, vh - 16
-
   feature    = d.map_feature
   label      = d.map_label || d.title
   label_side = d.map_label_side || "right"
-  alt        = d.map_alt || "Map of the Holy Land showing the location of #{label}."
+  alt        = d.map_alt || "Map showing the location of #{label}."
 
   mx = d.map_lat ? px.(d.map_lon) : nil
   my = d.map_lat ? py.(d.map_lat) : nil
 
-  # Jerusalem is drawn as a reference point on every map, except when the
-  # marker sits close enough that dot and label would collide.
-  jx, jy = px.(jer_lon), py.(jer_lat)
-  show_jerusalem = mx.nil? || Math.hypot(mx - jx, my - jy) >= 12
-%>
-<figure class="location-map" role="img" aria-label="<%= alt %>">
-  <svg viewBox="0 0 <%= vw.to_i %> <%= vh.to_i %>" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-    <path class="lm-sea"   d="M <%= poly.(sea_fill) %> Z" />
-    <path class="lm-coast" d="M <%= poly.(coast) %>" />
-    <path class="lm-lake"  d="M <%= poly.(galilee_lake) %> Z" />
-    <path class="lm-lake"  d="M <%= poly.(dead_sea) %> Z" />
-    <path class="lm-river" d="M <%= poly.(jordan_upper) %>" />
-    <path class="lm-river" d="M <%= poly.(jordan_lower) %>" />
+  # Reference cities, drawn as hollow dots for orientation — suppressed when
+  # the page's own marker sits close enough that dot and label would collide.
+  refs = med ? [["Rome", 41.89, 12.49, "right"], ["Jerusalem", 31.778, 35.236, "left"]] \
+             : [["Jerusalem", 31.778, 35.236, "left"]]
 
-    <text class="lm-region" x="<%= px.(35.28) %>" y="<%= py.(33.18) %>" text-anchor="middle">Galilee</text>
-    <text class="lm-region" x="<%= px.(35.20) %>" y="<%= py.(32.25) %>" text-anchor="middle">Samaria</text>
-    <% unless feature == "judean-wilderness" %>
-      <text class="lm-region" x="<%= px.(35.00) %>" y="<%= py.(31.45) %>" text-anchor="middle">Judea</text>
+  # 25 mi (Holy Land) / 200 mi (Mediterranean) in projected pixels; one degree
+  # of latitude is 69.05 miles and both axes share the same pixels-per-mile.
+  scale_px = (scale_miles / 69.05 * vh / (lat_max - lat_min)).round(1)
+  if med
+    sc_x, sc_y = 22 + scale_px, vh - 16   # bottom-left, clear of Jerusalem
+  else
+    sc_x, sc_y = vw - 18, vh - 16         # bottom-right
+  end
+
+  if med
+    italy = [
+      [43.5, 10.4], [42.9, 10.7], [42.4, 11.4], [41.9, 12.2], [41.4, 12.8],
+      [41.2, 13.2], [40.8, 14.1], [40.4, 15.0], [40.0, 15.5], [38.9, 16.2],
+      [38.1, 15.7], [37.95, 16.1], [38.45, 16.6], [38.95, 17.2], [39.5, 16.9],
+      [39.8, 16.5], [40.35, 17.2], [40.1, 18.4], [40.55, 18.5], [41.15, 16.9],
+      [41.55, 16.1], [41.8, 16.2], [42.2, 14.9], [42.9, 14.0], [43.5, 13.7],
+    ]
+    sicily = [
+      [38.25, 15.65], [37.1, 15.1], [36.7, 14.6], [37.3, 13.0], [38.0, 12.7], [38.25, 13.8],
+    ]
+    balkan = [
+      [43.5, 16.8], [42.6, 18.4], [41.9, 19.3], [40.9, 19.4], [39.8, 20.0],
+      [39.2, 20.2], [38.9, 20.8], [38.35, 21.1], [38.45, 22.1], [38.05, 22.95],
+      [38.15, 22.2], [38.35, 21.5], [37.9, 21.2], [37.3, 21.4], [36.7, 21.9],
+      [36.4, 22.5], [36.5, 23.1], [36.9, 23.1], [37.5, 23.2], [37.95, 23.05],
+      [37.9, 23.75], [38.3, 24.05], [38.85, 23.2], [39.5, 22.9], [40.0, 22.6],
+      [40.45, 22.65], [40.3, 23.2], [40.2, 23.8], [40.6, 24.1], [40.8, 24.8],
+      [40.85, 25.7], [40.55, 26.25], [40.98, 28.0], [41.1, 29.0], [41.9, 28.1],
+      [42.8, 27.9], [43.4, 28.4], [43.5, 28.7],
+    ]
+    mainland_east = [
+      [41.0, 37.0], [41.15, 36.3], [41.35, 36.1], [42.0, 35.2], [41.9, 34.0],
+      [41.3, 31.4], [41.15, 29.1], [40.9, 29.1], [40.4, 28.9], [40.4, 27.8],
+      [40.05, 26.4], [39.55, 26.1], [39.3, 26.7], [39.0, 26.9], [38.6, 26.8],
+      [38.4, 26.4], [38.0, 26.9], [37.95, 27.25], [37.7, 27.05], [37.3, 27.25],
+      [36.9, 27.3], [36.65, 28.0], [36.55, 29.0], [36.2, 29.6], [36.25, 30.6],
+      [36.1, 32.5], [36.3, 33.7], [36.55, 34.6], [36.75, 36.15], [36.4, 36.2],
+      [35.9, 35.95], [35.4, 35.8], [34.6, 35.85], [33.9, 35.5], [33.27, 35.2],
+      [32.83, 34.97], [32.5, 34.9], [31.9, 34.65], [31.5, 34.48], [31.2, 34.25],
+      [31.1, 33.5], [31.3, 32.3], [31.5, 31.9], [31.45, 31.0], [31.2, 30.1],
+      [30.9, 28.8], [31.15, 27.2], [31.55, 25.15], [32.1, 24.0], [32.5, 23.1],
+      [32.9, 21.7], [32.4, 20.5], [31.7, 20.1], [30.6, 19.5], [30.9, 17.4],
+      [31.9, 15.3], [32.8, 13.2], [33.3, 11.6], [33.9, 10.4], [34.9, 11.05],
+      [35.8, 10.65], [36.5, 10.5], [37.05, 10.25], [37.25, 10.0],
+    ]
+    crete_i = [
+      [35.5, 23.6], [35.35, 24.7], [35.4, 25.7], [35.25, 26.25], [34.95, 26.1],
+      [34.9, 24.75], [35.15, 23.5],
+    ]
+    cyprus_i = [
+      [35.4, 32.9], [35.65, 34.35], [35.35, 33.9], [34.85, 33.6], [34.7, 32.45], [35.15, 32.3],
+    ]
+    malta_i  = [[36.0, 14.35], [35.9, 14.6], [35.8, 14.45], [35.9, 14.2]]
+    patmos_i = [[37.4, 26.5], [37.3, 26.65], [37.2, 26.5], [37.3, 26.4]]
+
+    d_italy    = "M #{poly.(italy)} Z"
+    d_sicily   = "M #{poly.(sicily)} Z"
+    d_balkan   = "M #{poly.(balkan)} Z"
+    d_mainland = "M #{poly.(mainland_east)} L #{px.(10.0)},#{py.(30.5)} L #{px.(37.0)},#{py.(30.5)} L #{px.(37.0)},#{py.(41.0)} Z"
+    d_crete    = "M #{poly.(crete_i)} Z"
+    d_cyprus   = "M #{poly.(cyprus_i)} Z"
+    d_malta    = "M #{poly.(malta_i)} Z"
+    d_patmos   = "M #{poly.(patmos_i)} Z"
+    d_searect  = "M 0,0 L #{vw.to_i},0 L #{vw.to_i},#{vh.to_i} L 0,#{vh.to_i} Z"
+    land_paths = [d_italy, d_sicily, d_balkan, d_mainland, d_crete, d_cyprus, d_malta, d_patmos]
+
+    macedonia_r = [
+      [42.2, 21.0], [42.2, 25.6], [41.3, 26.3], [40.6, 25.8], [40.55, 24.0],
+      [40.6, 22.7], [40.1, 22.3], [40.2, 21.2],
+    ]
+    galatia_r = [
+      [40.0, 31.0], [40.0, 34.3], [38.6, 34.5], [37.3, 33.6], [37.2, 31.8], [38.3, 30.6],
+    ]
+    asia_r = [
+      [40.6, 27.5], [40.8, 30.5], [39.8, 31.5], [38.3, 30.8], [37.0, 30.0],
+      [36.7, 28.2], [37.4, 27.4], [38.5, 26.6], [39.6, 26.4],
+    ]
+    voyage = [
+      [32.5, 34.89], [33.56, 35.3], [34.6, 34.0], [35.4, 33.0], [36.0, 30.0],
+      [36.5, 27.8], [35.8, 26.0], [34.85, 24.7], [34.5, 21.0], [35.3, 16.5],
+      [35.9, 14.55], [37.0, 15.3], [38.1, 15.65], [40.0, 14.5], [40.83, 14.1],
+      [41.5, 12.8], [41.89, 12.49],
+    ]
+  else
+    coast = [
+      [33.50, 35.31], [33.27, 35.19], [33.05, 35.10], [32.92, 35.07],
+      [32.87, 35.03], [32.83, 34.97], [32.60, 34.92], [32.50, 34.89],
+      [32.30, 34.84], [32.05, 34.74], [31.80, 34.63], [31.67, 34.55],
+      [31.50, 34.45], [31.30, 34.33], [31.10, 34.24], [30.95, 34.15],
+      [30.80, 34.08],
+    ]
+    sea_fill = coast + [[30.80, lon_min], [33.50, lon_min]]
+
+    galilee_lake = [
+      [32.88, 35.585], [32.86, 35.62], [32.80, 35.65], [32.73, 35.63],
+      [32.70, 35.58],  [32.73, 35.54], [32.80, 35.52], [32.85, 35.54],
+    ]
+    dead_sea = [
+      [31.77, 35.53], [31.70, 35.59], [31.45, 35.60], [31.25, 35.57],
+      [31.10, 35.54], [31.03, 35.48], [31.10, 35.43], [31.35, 35.42],
+      [31.55, 35.44], [31.70, 35.47],
+    ]
+    jordan_upper = [
+      [33.40, 35.63], [33.20, 35.61], [33.05, 35.60], [32.95, 35.59], [32.88, 35.585],
+    ]
+    jordan_lower = [
+      [32.70, 35.58], [32.55, 35.55], [32.40, 35.56], [32.25, 35.58],
+      [32.10, 35.56], [31.95, 35.54], [31.84, 35.53], [31.77, 35.53],
+    ]
+    wilderness = [
+      [31.95, 35.28], [31.88, 35.45], [31.60, 35.40], [31.15, 35.40],
+      [31.05, 35.32], [31.35, 35.24], [31.75, 35.22],
+    ]
+    galilee_r = [
+      [33.05, 35.12], [33.05, 35.52], [32.88, 35.52], [32.70, 35.50],
+      [32.62, 35.33], [32.62, 35.10], [32.85, 35.06],
+    ]
+    perea_r = [
+      [32.35, 35.60], [32.30, 35.95], [31.75, 35.95], [31.45, 35.75],
+      [31.60, 35.60], [31.95, 35.56],
+    ]
+    decapolis_r = [
+      [32.85, 35.68], [32.75, 36.12], [32.28, 36.12], [31.95, 35.85],
+      [32.05, 35.62], [32.45, 35.60],
+    ]
+    gaza_road_l = [
+      [31.78, 35.22], [31.70, 35.05], [31.60, 34.85], [31.53, 34.60], [31.50, 34.47],
+    ]
+  end
+
+  show_refs = refs.map do |(name, rla, rlo, side)|
+    rx, ry = px.(rlo), py.(rla)
+    visible = mx.nil? || Math.hypot(mx - rx, my - ry) >= 12
+    [name, rx, ry, side, visible]
+  end
+%>
+<figure class="location-map<%= " lm-med" if med %>" role="img" aria-label="<%= alt %>">
+  <svg viewBox="0 0 <%= vw.to_i %> <%= vh.to_i %>" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <% if med %>
+      <path class="lm-sea" fill-rule="evenodd" d="<%= d_searect %> <%= land_paths.join(" ") %>" />
+      <% land_paths.each do |lp| %>
+        <path class="lm-coast" d="<%= lp %>" />
+      <% end %>
+
+      <text class="lm-region" x="<%= px.(13.2) %>" y="<%= py.(42.5) %>" text-anchor="middle">Italia</text>
+      <% unless feature == "macedonia" %>
+        <text class="lm-region" x="<%= px.(22.3) %>" y="<%= py.(41.5) %>" text-anchor="middle">Macedonia</text>
+      <% end %>
+      <% unless feature == "asia-minor" %>
+        <text class="lm-region" x="<%= px.(29.5) %>" y="<%= py.(38.9) %>" text-anchor="middle">Asia</text>
+      <% end %>
+      <% unless feature == "galatia" %>
+        <text class="lm-region" x="<%= px.(32.8) %>" y="<%= py.(39.3) %>" text-anchor="middle">Galatia</text>
+      <% end %>
+      <text class="lm-region lm-region-sea" x="<%= px.(17.5) %>" y="<%= py.(34.3) %>" text-anchor="middle">The Great Sea</text>
+    <% else %>
+      <path class="lm-sea"   d="M <%= poly.(sea_fill) %> Z" />
+      <path class="lm-coast" d="M <%= poly.(coast) %>" />
+      <path class="lm-lake"  d="M <%= poly.(galilee_lake) %> Z" />
+      <path class="lm-lake"  d="M <%= poly.(dead_sea) %> Z" />
+      <path class="lm-river" d="M <%= poly.(jordan_upper) %>" />
+      <path class="lm-river" d="M <%= poly.(jordan_lower) %>" />
+
+      <% unless feature == "galilee" %>
+        <text class="lm-region" x="<%= px.(35.28) %>" y="<%= py.(33.18) %>" text-anchor="middle">Galilee</text>
+      <% end %>
+      <text class="lm-region" x="<%= px.(35.20) %>" y="<%= py.(32.25) %>" text-anchor="middle">Samaria</text>
+      <% unless feature == "judean-wilderness" %>
+        <text class="lm-region" x="<%= px.(35.00) %>" y="<%= py.(31.45) %>" text-anchor="middle">Judea</text>
+      <% end %>
+      <text class="lm-region lm-region-sea" x="<%= px.(34.36) %>" y="<%= py.(31.95) %>" text-anchor="middle">The Great Sea</text>
     <% end %>
-    <text class="lm-region lm-region-sea" x="<%= px.(34.36) %>" y="<%= py.(31.95) %>" text-anchor="middle">The Great Sea</text>
 
     <g class="lm-scale">
       <path d="M <%= sc_x - scale_px %>,<%= sc_y %> L <%= sc_x %>,<%= sc_y %> L <%= sc_x %>,<%= sc_y - scale_px %>" />
       <path d="M <%= sc_x - scale_px %>,<%= sc_y - 4 %> V <%= sc_y + 4 %> M <%= sc_x - 4 %>,<%= sc_y - scale_px %> H <%= sc_x + 4 %>" />
-      <text x="<%= sc_x - scale_px / 2 %>" y="<%= sc_y - 6 %>" text-anchor="middle">25 mi</text>
-      <text x="<%= sc_x - 6 %>" y="<%= sc_y - scale_px / 2 %>" text-anchor="middle" transform="rotate(-90 <%= sc_x - 6 %> <%= sc_y - scale_px / 2 %>)">25 mi</text>
+      <text x="<%= sc_x - scale_px / 2 %>" y="<%= sc_y - 6 %>" text-anchor="middle"><%= scale_miles %> mi</text>
+      <text x="<%= sc_x - 6 %>" y="<%= sc_y - scale_px / 2 %>" text-anchor="middle" transform="rotate(-90 <%= sc_x - 6 %> <%= sc_y - scale_px / 2 %>)"><%= scale_miles %> mi</text>
     </g>
 
-    <% if show_jerusalem %>
-      <circle class="lm-ref" cx="<%= jx %>" cy="<%= jy %>" r="3" />
-      <text class="lm-ref-label" x="<%= jx - 6 %>" y="<%= jy + 3 %>" text-anchor="end">Jerusalem</text>
+    <% show_refs.each do |(name, rx, ry, side, visible)| %>
+      <% next unless visible %>
+      <circle class="lm-ref" cx="<%= rx %>" cy="<%= ry %>" r="3" />
+      <% if side == "left" %>
+        <text class="lm-ref-label" x="<%= rx - 6 %>" y="<%= ry + 3 %>" text-anchor="end"><%= name %></text>
+      <% else %>
+        <text class="lm-ref-label" x="<%= rx + 6 %>" y="<%= ry + 3 %>"><%= name %></text>
+      <% end %>
     <% end %>
 
     <% case feature %>
@@ -115,10 +255,42 @@
     <% when "judean-wilderness" %>
       <path class="lm-highlight-area" d="M <%= poly.(wilderness) %> Z" />
       <text class="lm-marker-label" x="<%= px.(35.18) %>" y="<%= py.(31.45) %>" text-anchor="end"><%= label %></text>
+    <% when "galilee" %>
+      <path class="lm-highlight-area" d="M <%= poly.(galilee_r) %> Z" />
+      <text class="lm-marker-label" x="<%= px.(35.29) %>" y="<%= py.(32.82) %>" text-anchor="middle"><%= label %></text>
+    <% when "perea" %>
+      <path class="lm-highlight-area" d="M <%= poly.(perea_r) %> Z" />
+      <text class="lm-marker-label" x="<%= px.(35.77) %>" y="<%= py.(31.90) %>" text-anchor="middle"><%= label %></text>
+    <% when "decapolis" %>
+      <path class="lm-highlight-area" d="M <%= poly.(decapolis_r) %> Z" />
+      <text class="lm-marker-label" x="<%= px.(35.87) %>" y="<%= py.(32.40) %>" text-anchor="middle"><%= label %></text>
+    <% when "gaza-road" %>
+      <path class="lm-arrow" d="M <%= poly.(gaza_road_l) %>" />
+      <text class="lm-marker-label" x="<%= px.(34.85) %>" y="<%= py.(31.42) %>" text-anchor="middle"><%= label %></text>
     <% when "egypt-arrow" %>
       <path class="lm-arrow" d="M <%= px.(35.18) %>,<%= py.(31.68) %> Q <%= px.(34.6) %>,<%= py.(31.1) %> <%= px.(34.22) %>,<%= py.(30.88) %>" />
       <polygon class="lm-arrowhead" points="<%= px.(34.22) - 7 %>,<%= py.(30.88) - 8 %> <%= px.(34.22) + 3 %>,<%= py.(30.88) - 2 %> <%= px.(34.22) - 9 %>,<%= py.(30.88) + 1 %>" />
       <text class="lm-marker-label" x="<%= px.(34.42) %>" y="<%= py.(31.02) %>">to Egypt</text>
+    <% when "sinai-arrow" %>
+      <path class="lm-arrow" d="M <%= px.(34.95) %>,<%= py.(31.40) %> Q <%= px.(34.55) %>,<%= py.(31.0) %> <%= px.(34.30) %>,<%= py.(30.83) %>" />
+      <polygon class="lm-arrowhead" points="<%= px.(34.30) - 7 %>,<%= py.(30.83) - 8 %> <%= px.(34.30) + 3 %>,<%= py.(30.83) - 2 %> <%= px.(34.30) - 9 %>,<%= py.(30.83) + 1 %>" />
+      <text class="lm-marker-label" x="<%= px.(34.63) %>" y="<%= py.(31.12) %>">to Sinai</text>
+    <% when "macedonia" %>
+      <path class="lm-highlight-area" d="M <%= poly.(macedonia_r) %> Z" />
+      <text class="lm-marker-label" x="<%= px.(23.3) %>" y="<%= py.(41.45) %>" text-anchor="middle"><%= label %></text>
+    <% when "galatia" %>
+      <path class="lm-highlight-area" d="M <%= poly.(galatia_r) %> Z" />
+      <text class="lm-marker-label" x="<%= px.(32.6) %>" y="<%= py.(38.85) %>" text-anchor="middle"><%= label %></text>
+    <% when "asia-minor" %>
+      <path class="lm-highlight-area" d="M <%= poly.(asia_r) %> Z" />
+      <text class="lm-marker-label" x="<%= px.(29.0) %>" y="<%= py.(38.85) %>" text-anchor="middle"><%= label %></text>
+    <% when "voyage-route" %>
+      <path class="lm-arrow" d="M <%= poly.(voyage) %>" />
+      <text class="lm-marker-label" x="<%= px.(20.5) %>" y="<%= py.(32.8) %>" text-anchor="middle"><%= label %></text>
+    <% when "spain-arrow" %>
+      <path class="lm-arrow" d="M <%= px.(12.49) %>,<%= py.(41.89) %> Q <%= px.(10.9) %>,<%= py.(41.0) %> <%= px.(10.2) %>,<%= py.(40.6) %>" />
+      <polygon class="lm-arrowhead" points="<%= px.(10.2) - 2 %>,<%= py.(40.6) - 8 %> <%= px.(10.2) + 8 %>,<%= py.(40.6) - 4 %> <%= px.(10.2) + 2 %>,<%= py.(40.6) + 5 %>" />
+      <text class="lm-marker-label" x="<%= px.(11.6) %>" y="<%= py.(40.0) %>">to Spain</text>
     <% else %>
       <circle class="lm-marker-halo" cx="<%= mx %>" cy="<%= my %>" r="9" />
       <circle class="lm-marker" cx="<%= mx %>" cy="<%= my %>" r="5" />

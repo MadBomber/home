@@ -41,10 +41,11 @@ This week we encounter Paul at his most direct and his most pastoral. In chapter
 - **Barnabas** -- Mentioned alongside Paul as an apostle who worked for a living
 
 ## Key Locations
-- **Corinth** -- Wealthy, cosmopolitan port city on the isthmus between mainland Greece and the Peloponnese
-- **Ephesus** -- City in Asia Minor from which Paul writes this letter
-- **Pagan temples** -- Sites where meat was sacrificed to idols before being sold in the marketplace
-- **Roman courts** -- The judicial system before which Corinthian believers were suing one another
+
+- **[Corinth](/locations/corinth/)** -- Wealthy, cosmopolitan port city on the isthmus between mainland Greece and the Peloponnese.
+- **[Ephesus](/locations/ephesus/)** -- City in Asia Minor from which Paul writes this letter.
+- **[Pagan Temples](/locations/corinth/)** -- Sites where meat was sacrificed to idols before being sold in the marketplace.
+- **[Roman Courts](/locations/corinth/)** -- The judicial system before which Corinthian believers were suing one another.
 
 ## Key Themes
 - **Church discipline and holiness** -- Paul insists that the community must address blatant sin rather than ignoring it in the name of tolerance

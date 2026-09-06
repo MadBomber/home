@@ -43,9 +43,10 @@ This week we read slowly through these opening five chapters, savoring the rich 
 - **The Lamb** — The central figure of Revelation: the Lion of Judah who conquers by being slain
 
 ## Key Locations
-- **Patmos** — Small, rocky island in the Aegean Sea, used by Rome for political exile
-- **The Seven Cities of Asia Minor** — Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea, forming a circuit in western modern-day Turkey
-- **The Throne Room of Heaven** — The cosmic center of all reality, from which God governs the universe
+
+- **[Patmos](/locations/patmos/)** -- Small, rocky island in the Aegean Sea, used by Rome for political exile.
+- **[The Seven Cities of Asia Minor](/locations/asia-minor/)** -- Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea, forming a circuit in western modern-day Turkey.
+- **[The Throne Room of Heaven](/locations/heaven/)** -- The cosmic center of all reality, from which God governs the universe.
 
 ## Key Themes
 - **The sovereignty of God** — The throne is the central image; God reigns over all history and all powers

@@ -43,10 +43,11 @@ The week closes with Acts 18:18-28, which narrates Paul's departure from Corinth
 - **The Man of Lawlessness** -- Mysterious eschatological figure who must appear before the Day of the Lord
 
 ## Key Locations
-- **Corinth** -- Where Paul writes 2 Thessalonians and eventually departs from
-- **Cenchreae** -- Eastern port of Corinth, where Paul cuts his hair in fulfillment of a vow
-- **Ephesus** -- Major city in Asia Minor where Paul briefly stops and leaves Priscilla and Aquila
-- **Caesarea & Antioch** -- Paul's route back to his sending church before beginning the third journey
+
+- **[Corinth](/locations/corinth/)** -- Where Paul writes 2 Thessalonians and eventually departs from.
+- **[Cenchreae](/locations/corinth/)** -- Eastern port of Corinth, where Paul cuts his hair in fulfillment of a vow.
+- **[Ephesus](/locations/ephesus/)** -- Major city in Asia Minor where Paul briefly stops and leaves Priscilla and Aquila.
+- **[Caesarea](/locations/caesarea/) & [Antioch](/locations/antioch/)** -- Paul's route back to his sending church before beginning the third journey.
 
 ## Key Themes
 - **The Day of the Lord** -- A central Old Testament concept now reinterpreted through the lens of Christ's return

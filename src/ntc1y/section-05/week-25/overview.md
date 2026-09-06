@@ -43,11 +43,12 @@ The final two chapters move from theology to ethics. Christian freedom is not a 
 - **Hagar and Sarah** -- Used allegorically to represent the covenants of slavery and freedom
 
 ## Key Locations
-- **Jerusalem** -- Site of the private meeting where Paul's gospel was affirmed by the apostolic pillars
-- **Antioch (Syria)** -- Where the confrontation between Paul and Peter took place over table fellowship
-- **The Galatian churches** -- The communities in southern Asia Minor (Pisidian Antioch, Iconium, Lystra, Derbe) to whom the letter is addressed
-- **Mount Sinai / Arabia** -- Allegorically linked to the covenant of slavery under the law
-- **The Jerusalem above** -- Allegorically linked to the covenant of freedom through promise
+
+- **[Jerusalem](/locations/jerusalem/)** -- Site of the private meeting where Paul's gospel was affirmed by the apostolic pillars.
+- **[Antioch (Syria)](/locations/antioch/)** -- Where the confrontation between Paul and Peter took place over table fellowship.
+- **[The Galatian Churches](/locations/galatia/)** -- The communities in southern Asia Minor (Pisidian Antioch, Iconium, Lystra, Derbe) to whom the letter is addressed.
+- **[Mount Sinai / Arabia](/locations/mount-sinai/)** -- Allegorically linked to the covenant of slavery under the law.
+- **[The Jerusalem Above](/locations/new-jerusalem/)** -- Allegorically linked to the covenant of freedom through promise.
 
 ## Key Themes
 - **Justification by faith alone** -- Righteousness before God comes through trusting in Christ, not through observing the Mosaic law

@@ -43,9 +43,10 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 - **The "strong" and the "weak"** -- Believers in Rome who differ on food and holy days, representing Jewish and Gentile sensibilities
 
 ## Key Locations
-- **Rome** -- The multi-ethnic capital of the empire, home to a church composed of both Jewish and Gentile believers
-- **Spain** -- Paul's intended western mission field, representing the furthest reaches of the known world
-- **The olive tree** -- Paul's metaphorical image for the people of God, rooted in the patriarchs, with branches both natural and grafted
+
+- **[Rome](/locations/rome/)** -- The multi-ethnic capital of the empire, home to a church composed of both Jewish and Gentile believers.
+- **[Spain](/locations/spain/)** -- Paul's intended western mission field, representing the furthest reaches of the known world.
+- **[The Olive Tree](/locations/olive-tree/)** -- Paul's metaphorical image for the people of God, rooted in the patriarchs, with branches both natural and grafted.
 
 ## Key Themes
 - **Israel's stumble and future salvation** -- Israel rejected the gospel by pursuing law-righteousness, but God has not rejected his people; a future ingathering is promised

@@ -37,8 +37,9 @@ The Pastoral Epistles occupy a unique place in the Pauline corpus. While letters
 - **Ephesian false teachers** — Promoting myths, genealogies, and speculative teachings
 
 ## Key Locations
-- **Ephesus** — Major port city in Asia Minor, home of the Temple of Artemis, one of the Seven Wonders of the Ancient World
-- **Macedonia** — Where Paul was when he wrote to Timothy (1 Timothy 1:3)
+
+- **[Ephesus](/locations/ephesus/)** -- Major port city in Asia Minor, home of the Temple of Artemis, one of the Seven Wonders of the Ancient World.
+- **[Macedonia](/locations/macedonia/)** -- Where Paul was when he wrote to Timothy (1 Timothy 1:3).
 
 ## Key Themes
 - **Sound doctrine vs. false teaching** — The healthy teaching of the gospel contrasted with myths, genealogies, and speculative theology

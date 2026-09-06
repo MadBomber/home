@@ -4135,3 +4135,7 @@ button.toolbar-icon {
   font-size: 9px;
   fill: var(--text-muted);
 }
+
+.location-map.lm-med {
+  max-width: 420px;
+}

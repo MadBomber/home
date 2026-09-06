@@ -44,9 +44,10 @@ Colossians then takes us into the cosmic dimensions of Christology. The Christ H
 - **Archippus** — A ministry leader in Colossae, possibly Philemon's son
 
 ## Key Locations
-- **Rome** — Paul's location, under house arrest
-- **Philippi** — Church in Macedonia, Paul's first European church plant
-- **Colossae** — Small city in the Lycus Valley (modern Turkey), near Laodicea and Hierapolis
+
+- **[Rome](/locations/rome/)** -- Paul's location, under house arrest.
+- **[Philippi](/locations/philippi/)** -- Church in Macedonia, Paul's first European church plant.
+- **[Colossae](/locations/colossae/)** -- Small city in the Lycus Valley (modern Turkey), near Laodicea and Hierapolis.
 
 ## Key Themes
 - **Joy and contentment** — Not dependent on circumstances but rooted in Christ

@@ -42,9 +42,10 @@ These five chapters form the theological backbone not only of Romans but of the 
 - **The Holy Spirit** -- The agent of the believer's new life, who intercedes with groanings too deep for words
 
 ## Key Locations
-- **Rome** -- The capital of the empire, home to multiple house churches of both Jewish and Gentile believers
-- **Corinth** -- The city from which Paul writes, during his third missionary journey (around 57 AD)
-- **Eden** -- The background setting for the Adam-Christ typology of chapter 5
+
+- **[Rome](/locations/rome/)** -- The capital of the empire, home to multiple house churches of both Jewish and Gentile believers.
+- **[Corinth](/locations/corinth/)** -- The city from which Paul writes, during his third missionary journey (around 57 AD).
+- **[Eden](/locations/eden/)** -- The background setting for the Adam-Christ typology of chapter 5.
 
 ## Key Themes
 - **Justification and its fruits** -- Peace with God, access to grace, hope of glory, and love poured out by the Holy Spirit

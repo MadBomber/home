@@ -46,13 +46,14 @@ The week concludes in two of the great intellectual centers of the ancient world
 - **Jason** -- Paul's host in Thessalonica, who is dragged before the city authorities
 
 ## Key Locations
-- **Jerusalem** -- Site of the apostolic council that resolved the Gentile question
-- **Lystra** -- Timothy's hometown, where Paul recruits him for the journey
-- **Troas** -- The port city where Paul receives the Macedonian vision
-- **Philippi** -- A Roman colony in Macedonia, the first European city to receive the gospel
-- **Thessalonica** -- Capital of the Roman province of Macedonia, where riots erupt over Paul's preaching
-- **Berea** -- A city whose Jewish community is praised for examining Scripture
-- **Athens** -- The intellectual capital of the Greek world, site of the Areopagus speech
+
+- **[Jerusalem](/locations/jerusalem/)** -- Site of the apostolic council that resolved the Gentile question.
+- **[Lystra](/locations/lystra/)** -- Timothy's hometown, where Paul recruits him for the journey.
+- **[Troas](/locations/troas/)** -- The port city where Paul receives the Macedonian vision.
+- **[Philippi](/locations/philippi/)** -- A Roman colony in Macedonia, the first European city to receive the gospel.
+- **[Thessalonica](/locations/thessalonica/)** -- Capital of the Roman province of Macedonia, where riots erupt over Paul's preaching.
+- **[Berea](/locations/berea/)** -- A city whose Jewish community is praised for examining Scripture.
+- **[Athens](/locations/athens/)** -- The intellectual capital of the Greek world, site of the Areopagus speech.
 
 ## Key Themes
 - **Grace alone for salvation** -- The Jerusalem Council definitively settles that Gentiles are saved by grace through faith, not by works of the law

@@ -56,12 +56,12 @@ What strikes the careful reader is the diversity of these accounts within their 
 
 ## Key Locations
 
-- **Golgotha** -- The crucifixion site, revisited in Matthew's and Mark's accounts, completing the full four-Gospel witness to the cross.
-- **The Garden Tomb** -- The new tomb of Joseph of Arimathea, where Jesus was buried and from which he rose, located in a garden setting that evokes Eden.
-- **The Road to Emmaus** -- Approximately seven miles from Jerusalem, the setting for Luke's masterful narrative of the risen Christ opening the Scriptures to two disciples.
-- **The Upper Room** -- Where the risen Jesus appeared to the gathered disciples, passing through locked doors, showing his wounds, and breathing the Holy Spirit upon them.
-- **The Sea of Galilee (Tiberias)** -- Where Jesus appeared to seven disciples, cooked breakfast on the shore, and restored Peter with the threefold commission to "feed my sheep."
-- **A Mountain in Galilee** -- Where the Great Commission was given, the risen Christ sending his followers to make disciples of all nations.
+- **[Golgotha](/locations/golgotha/)** -- The crucifixion site, revisited in Matthew's and Mark's accounts, completing the full four-Gospel witness to the cross.
+- **[The Garden Tomb](/locations/garden-tomb/)** -- The new tomb of Joseph of Arimathea, where Jesus was buried and from which he rose.
+- **[The Road to Emmaus](/locations/emmaus/)** -- About seven miles from Jerusalem, the setting for Luke's narrative of the risen Christ opening the Scriptures to two disciples.
+- **[The Upper Room](/locations/upper-room/)** -- Where the risen Jesus appeared to the gathered disciples, showing his wounds and breathing the Holy Spirit upon them.
+- **[The Sea of Galilee (Tiberias)](/locations/sea-of-galilee/)** -- Where Jesus appeared to seven disciples, cooked breakfast on the shore, and restored Peter.
+- **[A Mountain in Galilee](/locations/galilee/)** -- Where the Great Commission was given, the risen Christ sending his followers to make disciples of all nations.
 
 ## Key Themes
 

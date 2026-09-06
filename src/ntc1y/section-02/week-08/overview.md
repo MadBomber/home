@@ -45,13 +45,14 @@ John's Gospel adds theological depth to the miraculous events, recording Jesus' 
 - **The invalid at Bethesda** -- Thirty-eight years of waiting, healed by a word
 
 ## Key Locations
-- **Region of the Gerasenes** -- Gentile territory east of the Sea of Galilee
-- **Nazareth** -- Jesus' hometown, site of rejection
-- **Machaerus** -- Herod's fortress east of the Dead Sea where John was executed
-- **Bethsaida** -- Near the site of the feeding of the 5000
-- **Sea of Galilee** -- Setting for the walking on water
-- **Pool of Bethesda** -- Jerusalem site of the invalid's healing, near the Sheep Gate
-- **Capernaum** -- Synagogue where the Bread of Life discourse begins
+
+- **[The Region of the Gerasenes](/locations/gerasenes/)** -- Gentile territory east of the Sea of Galilee.
+- **[Nazareth](/locations/nazareth/)** -- Jesus' hometown, site of rejection.
+- **[Machaerus](/locations/machaerus/)** -- Herod's fortress east of the Dead Sea where John was executed.
+- **[Bethsaida](/locations/bethsaida/)** -- Near the site of the feeding of the 5000.
+- **[The Sea of Galilee](/locations/sea-of-galilee/)** -- Setting for the walking on water.
+- **[The Pool of Bethesda](/locations/pool-of-bethesda/)** -- Jerusalem site of the invalid's healing, near the Sheep Gate.
+- **[Capernaum](/locations/capernaum/)** -- Synagogue where the Bread of Life discourse begins.
 
 ## Key Themes
 - **Jesus' identity** -- Every miracle forces the question of who Jesus is

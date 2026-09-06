@@ -42,10 +42,11 @@ The Transfiguration, which follows six days later, provides divine confirmation 
 - **The Twelve** -- Disciples who argue about greatness while Jesus speaks of death
 
 ## Key Locations
-- **Caesarea Philippi** -- A pagan city at the base of Mount Hermon, site of a temple to Pan, where Peter confesses Jesus as the Christ
-- **The high mountain** -- Traditionally identified as Mount Tabor or Mount Hermon, site of the Transfiguration
-- **Capernaum** -- Where Jesus teaches about greatness and pays the temple tax
-- **Galilee** -- The broader region through which Jesus passes while giving the second passion prediction
+
+- **[Caesarea Philippi](/locations/caesarea-philippi/)** -- A pagan city at the base of Mount Hermon, site of a temple to Pan, where Peter confesses Jesus as the Christ.
+- **[The Mount of Transfiguration](/locations/mount-of-transfiguration/)** -- Traditionally identified as Mount Tabor or Mount Hermon, site of the Transfiguration.
+- **[Capernaum](/locations/capernaum/)** -- Where Jesus teaches about greatness and pays the temple tax.
+- **[Galilee](/locations/galilee/)** -- The broader region through which Jesus passes while giving the second passion prediction.
 
 ## Key Themes
 - **Messianic identity redefined** -- Jesus is the Christ, but not the kind of Christ anyone expected; he is a suffering, dying, rising Messiah

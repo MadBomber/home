@@ -53,9 +53,10 @@ Philippians 1 introduces the theme of gospel partnership and Paul's famous dilem
 - **Epaphroditus** -- The Philippians' messenger to Paul, who nearly died from illness while serving the apostle
 
 ## Key Locations
-- **Ephesus** -- The great city of Asia Minor whose church receives Paul's cosmic vision of the body of Christ
-- **Philippi** -- A Roman colony in Macedonia, site of Paul and Silas's imprisonment and the earthquake that freed them (Acts 16)
-- **Rome (or place of imprisonment)** -- Where Paul writes both letters, chained to members of the imperial guard (praetorium)
+
+- **[Ephesus](/locations/ephesus/)** -- The great city of Asia Minor whose church receives Paul's cosmic vision of the body of Christ.
+- **[Philippi](/locations/philippi/)** -- A Roman colony in Macedonia, site of Paul and Silas's imprisonment and the earthquake that freed them (Acts 16).
+- **[Rome (or place of imprisonment)](/locations/rome/)** -- Where Paul writes both letters, chained to members of the imperial guard (praetorium).
 
 ## Key Themes
 - **Walking in light and love** -- The ethical life flows from identity in Christ, not from mere moral effort

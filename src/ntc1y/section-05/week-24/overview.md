@@ -45,13 +45,14 @@ The week concludes with the opening chapter of Galatians, likely written from An
 - **Bar-Jesus/Elymas** -- Jewish sorcerer who opposes Paul on Cyprus
 
 ## Key Locations
-- **Antioch (Syria)** -- Third-largest city in the Roman Empire; the first predominantly Gentile church and missionary sending base
-- **Jerusalem** -- Center of the Jewish-Christian mother church
-- **Cyprus** -- Island in the eastern Mediterranean; Barnabas' homeland and first missionary destination
-- **Pisidian Antioch** -- Roman colony in the interior of Asia Minor; site of Paul's programmatic sermon
-- **Iconium** -- City in the region of Lycaonia/Phrygia where Paul and Barnabas faced fierce opposition
-- **Lystra** -- Lycaonian city where Paul was stoned and left for dead
-- **Derbe** -- Easternmost point of the first missionary journey
+
+- **[Antioch (Syria)](/locations/antioch/)** -- Third-largest city in the Roman Empire; the first predominantly Gentile church and missionary sending base.
+- **[Jerusalem](/locations/jerusalem/)** -- Center of the Jewish-Christian mother church.
+- **[Cyprus](/locations/cyprus/)** -- Island in the eastern Mediterranean; Barnabas' homeland and first missionary destination.
+- **[Pisidian Antioch](/locations/pisidian-antioch/)** -- Roman colony in the interior of Asia Minor; site of Paul's programmatic sermon.
+- **[Iconium](/locations/iconium/)** -- City in the region of Lycaonia/Phrygia where Paul and Barnabas faced fierce opposition.
+- **[Lystra](/locations/lystra/)** -- Lycaonian city where Paul was stoned and left for dead.
+- **[Derbe](/locations/derbe/)** -- Easternmost point of the first missionary journey.
 
 ## Key Themes
 - **The Gentile mission authorized** -- God's initiative in bringing Gentiles to faith without requiring Jewish conversion

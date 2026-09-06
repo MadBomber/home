@@ -51,10 +51,11 @@ Then we turn to Acts 9-10, and the pace shifts from pastoral instruction to dram
 - **Elijah** — Referenced by James as a model of effective, fervent prayer
 
 ## Key Locations
-- **Jerusalem** — Home base of the early church and the community James addresses
-- **Damascus** — Where Saul encounters Christ and begins preaching in the synagogues
-- **Caesarea** — Roman administrative capital where Cornelius is stationed
-- **Joppa** — Where Peter receives the vision of the sheet with unclean animals
+
+- **[Jerusalem](/locations/jerusalem/)** -- Home base of the early church and the community James addresses.
+- **[Damascus](/locations/damascus/)** -- Where Saul encounters Christ and begins preaching in the synagogues.
+- **[Caesarea](/locations/caesarea/)** -- Roman administrative capital where Cornelius is stationed.
+- **[Joppa](/locations/joppa/)** -- Where Peter receives the vision of the sheet with unclean animals.
 
 ## Key Themes
 - **The power of speech** — The tongue has the power of life and death; teachers bear greater accountability

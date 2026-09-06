@@ -44,9 +44,10 @@ Chapter 4 then pivots with a single word: "therefore." Everything that follows -
 - **The Ephesian church** -- The community (or communities) to whom Paul writes, possibly a circular letter to multiple churches
 
 ## Key Locations
-- **Malta** -- The island where Paul's ship ran aground, where he was bitten by a viper and healed the sick
-- **Rome** -- The capital of the empire, Paul's destination since Acts 19:21, where he finally arrives as a prisoner
-- **Ephesus** -- The city in Asia Minor where Paul spent three years, though Ephesians may have been a circular letter
+
+- **[Malta](/locations/malta/)** -- The island where Paul's ship ran aground, where he was bitten by a viper and healed the sick.
+- **[Rome](/locations/rome/)** -- The capital of the empire, Paul's destination since Acts 19:21, where he finally arrives as a prisoner.
+- **[Ephesus](/locations/ephesus/)** -- The city in Asia Minor where Paul spent three years, though Ephesians may have been a circular letter.
 
 ## Key Themes
 - **The unstoppable gospel** -- Acts ends with Paul preaching "without hindrance" in the heart of the empire; chains cannot silence the word

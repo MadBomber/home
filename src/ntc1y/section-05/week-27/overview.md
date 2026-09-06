@@ -42,10 +42,11 @@ It is during this Corinthian stay, around 50-51 AD, that Paul writes his two let
 - **Gallio** -- Roman proconsul of Achaia who dismisses the Jewish charges against Paul
 
 ## Key Locations
-- **Corinth** -- Major port city on the isthmus, capital of Roman Achaia
-- **Synagogue in Corinth** -- Where Paul initially preaches every Sabbath
-- **Gallio's Judgment Seat (Bema)** -- The raised platform in the Corinthian agora where the proconsul heard cases
-- **Thessalonica** -- The Macedonian city whose young church Paul addresses by letter
+
+- **[Corinth](/locations/corinth/)** -- Major port city on the isthmus, capital of Roman Achaia.
+- **[The Synagogue in Corinth](/locations/corinth/)** -- Where Paul initially preaches every Sabbath.
+- **[Gallio's Judgment Seat (Bema)](/locations/corinth/)** -- The raised platform in the Corinthian agora where the proconsul heard cases.
+- **[Thessalonica](/locations/thessalonica/)** -- The Macedonian city whose young church Paul addresses by letter.
 
 ## Key Themes
 - **The gospel in a pagan city** -- Paul brings the message of Christ into one of the most morally and religiously diverse cities in the empire

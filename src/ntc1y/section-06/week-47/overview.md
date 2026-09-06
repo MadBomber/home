@@ -44,9 +44,10 @@ Chapter 12 then draws the practical conclusion. With such a "great cloud of witn
 - **Rahab** -- The Canaanite prostitute whose faith saved her family and placed her in Israel's story
 
 ## Key Locations
-- **The Heavenly Tabernacle** -- The true sanctuary where Christ ministers, of which the earthly tabernacle was merely a copy and shadow
-- **Mount Sinai** -- Where the old covenant was given in thunder, fire, and terror
-- **Mount Zion** -- The heavenly Jerusalem, the city of the living God, to which believers have already come through Christ
+
+- **[The Heavenly Tabernacle](/locations/heavenly-tabernacle/)** -- The true sanctuary where Christ ministers, of which the earthly tabernacle was merely a copy and shadow.
+- **[Mount Sinai](/locations/mount-sinai/)** -- Where the old covenant was given in thunder, fire, and terror.
+- **[Mount Zion](/locations/new-jerusalem/)** -- The heavenly Jerusalem, the city of the living God, to which believers have already come through Christ.
 
 ## Key Themes
 - **New covenant superiority** -- The new covenant, prophesied by Jeremiah, replaces the old with internal transformation rather than external regulation

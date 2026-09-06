@@ -41,9 +41,10 @@ The transition from Hebrews 13 to 1 Peter is thematically seamless. Hebrews clos
 - **The author of Hebrews** -- Unknown writer concluding with pastoral exhortations and greetings mentioning Timothy
 
 ## Key Locations
-- **Rome ("Babylon")** -- Peter's location, the imperial capital increasingly hostile to Christians
-- **Asia Minor** -- The five Roman provinces whose scattered believers receive Peter's letter
-- **Jerusalem** -- The "outside the camp" imagery of Hebrews 13 evokes Christ's crucifixion outside the city walls
+
+- **[Rome ("Babylon")](/locations/rome/)** -- Peter's location, the imperial capital increasingly hostile to Christians.
+- **[Asia Minor](/locations/asia-minor/)** -- The five Roman provinces whose scattered believers receive Peter's letter.
+- **[Jerusalem](/locations/jerusalem/)** -- The "outside the camp" imagery of Hebrews 13 evokes Christ's crucifixion outside the city walls.
 
 ## Key Themes
 - **Living hope** -- A hope grounded in Christ's resurrection, not in earthly circumstances

@@ -44,10 +44,11 @@ The arrest, trials, and denials that follow expose the worst of human nature in 
 - **The unnamed woman at Bethany** -- The anointer whose extravagant act Jesus declares will be remembered wherever the gospel is preached
 
 ## Key Locations
-- **The Upper Room** -- Where the High Priestly Prayer is spoken and the Last Supper observed
-- **Gethsemane** -- The olive garden on the Mount of Olives where Jesus agonizes in prayer
-- **The High Priest's Courtyard** -- Where Peter denies Jesus as the Sanhedrin trial proceeds within
-- **The Praetorium** -- Pilate's official residence in Jerusalem, likely the Antonia Fortress or Herod's palace, where the Roman trial takes place
+
+- **[The Upper Room](/locations/upper-room/)** -- Where the High Priestly Prayer is spoken and the Last Supper observed.
+- **[Gethsemane](/locations/gethsemane/)** -- The olive garden on the Mount of Olives where Jesus agonizes in prayer.
+- **[The High Priest's Courtyard](/locations/high-priests-house/)** -- Where Peter denies Jesus as the Sanhedrin trial proceeds within.
+- **[The Praetorium](/locations/praetorium/)** -- Pilate's official residence in Jerusalem, likely the Antonia Fortress or Herod's palace, where the Roman trial takes place.
 
 ## Key Themes
 - **Intercessory prayer** -- Jesus' High Priestly Prayer reveals the Son's ongoing ministry of intercession for his people

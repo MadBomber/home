@@ -43,11 +43,12 @@ By the end of the week, we see the pattern that will define the early church's e
 - **Gamaliel** -- Pharisee and respected teacher who counsels caution toward the apostles
 
 ## Key Locations
-- **Mount of Olives** -- Site of Jesus' ascension, east of Jerusalem
-- **Upper Room** -- Where the 120 gathered for prayer before Pentecost
-- **Temple (Solomon's Portico)** -- Where Peter preaches and healing occurs
-- **Beautiful Gate** -- Temple entrance where the lame man is healed
-- **Sanhedrin** -- The Jewish ruling council before which the apostles are tried
+
+- **[The Mount of Olives](/locations/mount-of-olives/)** -- Site of Jesus' ascension, east of Jerusalem.
+- **[The Upper Room](/locations/upper-room/)** -- Where the 120 gathered for prayer before Pentecost.
+- **[The Temple (Solomon's Portico)](/locations/temple-jerusalem/)** -- Where Peter preaches and healing occurs.
+- **[The Beautiful Gate](/locations/temple-jerusalem/)** -- Temple entrance where the lame man is healed.
+- **[The Sanhedrin](/locations/temple-jerusalem/)** -- The Jewish ruling council before which the apostles are tried.
 
 ## Key Themes
 - **The Holy Spirit's power** -- The promised Comforter arrives and transforms fearful disciples into bold witnesses
