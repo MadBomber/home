@@ -49,11 +49,11 @@ From the quiet reverence of the temple, we are thrust into political danger. Mat
 
 ## Key Locations
 
-- **The Temple in Jerusalem** -- Where Jesus is presented according to the Law, where Simeon and Anna encounter him, and where the twelve-year-old Jesus is found among the teachers.
-- **Bethlehem** -- The birthplace of Jesus and the site of Herod's massacre of the innocents.
-- **Egypt** -- Where Joseph, Mary, and Jesus flee to escape Herod, fulfilling Hosea 11:1: "Out of Egypt I called my son."
-- **Nazareth** -- The town in Galilee where Jesus grows up after the family returns from Egypt.
-- **The Jordan River** -- Where John the Baptist preaches and baptizes, and where Jesus is baptized, marking the beginning of his public ministry.
+- **[The Temple in Jerusalem](/locations/temple-jerusalem/)** -- Where Jesus is presented according to the Law, where Simeon and Anna encounter him, and where the twelve-year-old Jesus is found among the teachers.
+- **[Bethlehem](/locations/bethlehem/)** -- The birthplace of Jesus and the site of Herod's massacre of the innocents.
+- **[Egypt](/locations/egypt/)** -- Where Joseph, Mary, and Jesus flee to escape Herod, fulfilling Hosea 11:1: "Out of Egypt I called my son."
+- **[Nazareth](/locations/nazareth/)** -- The town in Galilee where Jesus grows up after the family returns from Egypt.
+- **[The Jordan River](/locations/jordan-river/)** -- Where John the Baptist preaches and baptizes, and where Jesus is baptized, marking the beginning of his public ministry.
 
 ## Key Themes
 

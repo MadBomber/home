@@ -1,0 +1,46 @@
+---
+layout: page
+title: Key Locations
+---
+
+<!-- Index of all location pages. Pages register themselves by carrying a
+     location_type (geographic | symbolic) in their front matter. -->
+
+<p>
+  Every week's overview lists the key locations for that week's readings. The
+  pages gathered here go deeper: what each place was in the first century, what
+  happened there, and a photograph of the site as it looks today. Locations that
+  are not places on a map -- visions, heavenly settings, figures of speech --
+  are illustrated with historic artwork instead, always labeled as an artist's
+  interpretation.
+</p>
+
+<%
+  locs = site.collections.pages.resources
+             .select { |r| r.data.location_type }
+             .sort_by { |r| r.data.title.to_s }
+  geographic = locs.select { |r| r.data.location_type == "geographic" }
+  symbolic   = locs.select { |r| r.data.location_type == "symbolic" }
+%>
+
+<h2>Places</h2>
+<ul class="location-index">
+  <% geographic.each do |loc| %>
+    <li>
+      <a href="<%= relative_url loc.relative_url %>"><strong><%= loc.data.title %></strong></a>
+      <% if loc.data.blurb %><span class="location-index-blurb"><%= loc.data.blurb %></span><% end %>
+    </li>
+  <% end %>
+</ul>
+
+<% unless symbolic.empty? %>
+<h2>Beyond the Map</h2>
+<ul class="location-index">
+  <% symbolic.each do |loc| %>
+    <li>
+      <a href="<%= relative_url loc.relative_url %>"><strong><%= loc.data.title %></strong></a>
+      <% if loc.data.blurb %><span class="location-index-blurb"><%= loc.data.blurb %></span><% end %>
+    </li>
+  <% end %>
+</ul>
+<% end %>

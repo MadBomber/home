@@ -52,11 +52,11 @@ Together, these readings form a bridge between the preparations of Weeks 1-2 and
 
 ## Key Locations
 
-- **The Judean Wilderness** -- The barren, rocky desert between Jerusalem and the Dead Sea, where Jesus fasts for 40 days and faces Satan's temptations.
-- **Bethany Beyond the Jordan** -- Not the Bethany near Jerusalem, but a location on the eastern bank of the Jordan River where John the Baptist was baptizing.
-- **Cana of Galilee** -- A village in Galilee (exact location debated) where Jesus performs his first sign at a wedding feast.
-- **The Jerusalem Temple** -- The center of Jewish worship, where Jesus drives out the money changers in what John presents as an early temple cleansing.
-- **Samaria / Sychar** -- The region between Judea and Galilee, and the specific town near Jacob's well where Jesus encounters the Samaritan woman.
+- **[The Judean Wilderness](/locations/judean-wilderness/)** -- The barren, rocky desert between Jerusalem and the Dead Sea, where Jesus fasts for 40 days and faces Satan's temptations.
+- **[Bethany Beyond the Jordan](/locations/bethany-beyond-jordan/)** -- Not the Bethany near Jerusalem, but a location on the eastern bank of the Jordan River where John the Baptist was baptizing.
+- **[Cana of Galilee](/locations/cana/)** -- A village in Galilee (exact location debated) where Jesus performs his first sign at a wedding feast.
+- **[The Temple in Jerusalem](/locations/temple-jerusalem/)** -- The center of Jewish worship, where Jesus drives out the money changers in what John presents as an early temple cleansing.
+- **[Samaria / Sychar](/locations/sychar/)** -- The region between Judea and Galilee, and the specific town near Jacob's well where Jesus encounters the Samaritan woman.
 
 ## Key Themes
 

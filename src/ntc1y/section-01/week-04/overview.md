@@ -49,9 +49,9 @@ This week bridges section 1 and section 2 of our study. The coming of Christ -- 
 
 ## Key Locations
 
-- **Sea of Galilee** -- A freshwater lake about 13 miles long and 8 miles wide, the economic heart of the region. Its fishing industry supported a significant population and connected Galilee to wider trade networks.
-- **Capernaum** -- A prosperous fishing village on the northwest shore of the Sea of Galilee that becomes Jesus' adopted hometown and the base of his Galilean ministry. It sat on the Via Maris trade route and had a customs station (where Levi worked) and a synagogue.
-- **Nazareth Synagogue** -- The local synagogue in Jesus' hometown, where he reads from Isaiah and makes the stunning claim that this Scripture is fulfilled "in your hearing." The violent rejection that follows is one of the most dramatic scenes in Luke's Gospel.
+- **[The Sea of Galilee](/locations/sea-of-galilee/)** -- The freshwater lake at the economic heart of the region, whose fishing industry connected Galilee to wider trade networks.
+- **[Capernaum](/locations/capernaum/)** -- A prosperous fishing village on the northwest shore of the Sea of Galilee that becomes Jesus' adopted hometown and the base of his Galilean ministry.
+- **[The Nazareth Synagogue](/locations/nazareth/)** -- The synagogue in Jesus' hometown, where he declares Isaiah's Scripture fulfilled "in your hearing" and is violently rejected.
 
 ## Key Themes
 

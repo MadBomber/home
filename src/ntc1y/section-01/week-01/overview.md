@@ -50,11 +50,11 @@ Matthew adds his own essential perspective, tracing Jesus' lineage through the r
 
 ## Key Locations
 
-- **Heaven / Eternity** -- Where the prologue of John begins, before time and space existed.
-- **The Temple in Jerusalem** -- Where Zechariah receives the angelic announcement while serving at the altar of incense.
-- **Nazareth** -- The small Galilean town where Mary lives and receives Gabriel's visit.
-- **The Hill Country of Judea** -- Where Elizabeth lives and where Mary visits, prompting the Magnificat.
-- **Bethlehem** -- The city of David, where Jesus is born in fulfillment of Micah 5:2.
+- **[Heaven / Eternity](/locations/heaven/)** -- Where the prologue of John begins, before time and space existed.
+- **[The Temple in Jerusalem](/locations/temple-jerusalem/)** -- Where Zechariah receives the angelic announcement while serving at the altar of incense.
+- **[Nazareth](/locations/nazareth/)** -- The small Galilean town where Mary lives and receives Gabriel's visit.
+- **[The Hill Country of Judea](/locations/hill-country-judea/)** -- Where Elizabeth lives and where Mary visits, prompting the Magnificat.
+- **[Bethlehem](/locations/bethlehem/)** -- The city of David, where Jesus is born in fulfillment of Micah 5:2.
 
 ## Key Themes
 
