@@ -3,12 +3,17 @@ layout: page
 title: Cana of Galilee
 location_type: geographic
 blurb: The Galilean village where Jesus performed his first sign, turning water to wine at a wedding.
+map_lat: 32.746
+map_lon: 35.339
+map_alt: "Map marking Cana in the hills of Galilee, a few miles north of Nazareth and west of the Sea of Galilee."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/cana-wedding-church.jpg" alt="The Franciscan Wedding Church at Kafr Kanna: a pale stone facade with twin towers capped in green domes, statues above the balustrade, against a deep blue sky." loading="lazy">
   <figcaption>The Franciscan "Wedding Church" at Kafr Kanna, the traditional site of the wedding at Cana. Photo: Jayme del Rosario, CC BY 2.0, via <a href="https://commons.wikimedia.org/wiki/File:Catholic_Wedding_Church_of_Cana.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 Cana was a small Galilean village a few hours' walk from Nazareth -- close enough that Jesus' mother was involved in a local wedding and Jesus and his new disciples were on the guest list. Its exact site is debated: pilgrims have long honored Kafr Kanna, on the road from Nazareth toward the Sea of Galilee, while many archaeologists favor the ruin of Khirbet Qana a few miles north. Either way, it was an unremarkable farm town -- which is precisely the kind of stage John's Gospel loves.
 

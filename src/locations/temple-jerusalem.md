@@ -3,12 +3,18 @@ layout: page
 title: The Temple in Jerusalem
 location_type: geographic
 blurb: The center of Israel's worship, rebuilt on a massive scale by Herod the Great.
+map_lat: 31.778
+map_lon: 35.236
+map_label: Jerusalem
+map_alt: "Map of the Holy Land marking Jerusalem, in the Judean hills roughly midway between the Mediterranean coast and the north end of the Dead Sea."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/temple-jerusalem-model.jpg" alt="Scale model of Herod's Temple: a white stone sanctuary with gold trim standing in a broad colonnaded court, surrounded by the packed rooftops of first-century Jerusalem." loading="lazy">
   <figcaption>The Second Temple as Jesus knew it, from the 1:50 scale model of first-century Jerusalem at the Israel Museum. Photo: Berthold Werner, public domain, via <a href="https://commons.wikimedia.org/wiki/File:Jerusalem_Modell_BW_2.JPG">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 The temple that stands behind nearly every Jerusalem scene in the Gospels was the Second Temple, begun after the return from Babylonian exile and rebuilt on a staggering scale by Herod the Great starting around 20 BC. Herod doubled the size of the temple mount, ringed it with colonnades, and faced the sanctuary in white stone and gold. The rabbis said that whoever had not seen Herod's temple had never seen a beautiful building. Work continued for decades after Jesus' ministry, and the whole complex stood finished for only a few years before Rome destroyed it in AD 70 -- exactly as Jesus had foretold (Mark 13:2).
 

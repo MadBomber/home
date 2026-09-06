@@ -4015,3 +4015,123 @@ button.toolbar-icon {
   color: var(--text-secondary);
   margin-top: 0.15rem;
 }
+
+/* --- Location locator maps (inline SVG, see _partials/_location_map.erb) ---
+   Every color resolves through a theme variable, so light and dark mode both
+   work without dedicated overrides, and the map background stays transparent. */
+
+.location-map {
+  margin: 0 auto 2rem;
+  max-width: 300px;
+}
+
+.location-map svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.lm-sea {
+  fill: var(--purple-faint);
+}
+
+.lm-coast {
+  fill: none;
+  stroke: var(--purple-light);
+  stroke-width: 1.2;
+}
+
+.lm-lake {
+  fill: var(--purple-faint);
+  stroke: var(--purple-light);
+  stroke-width: 1;
+}
+
+.lm-river {
+  fill: none;
+  stroke: var(--purple-light);
+  stroke-width: 1.4;
+}
+
+.lm-region {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  fill: var(--text-muted);
+}
+
+.lm-region-sea {
+  font-style: italic;
+  text-transform: none;
+  letter-spacing: 0.02em;
+}
+
+.lm-ref {
+  fill: none;
+  stroke: var(--text-secondary);
+  stroke-width: 1.5;
+}
+
+.lm-ref-label {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  fill: var(--text-secondary);
+}
+
+.lm-marker {
+  fill: var(--gold);
+  stroke: var(--bg-surface);
+  stroke-width: 1.5;
+}
+
+.lm-marker-halo {
+  fill: none;
+  stroke: var(--gold);
+  stroke-width: 1.5;
+  opacity: 0.5;
+}
+
+.lm-marker-label {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  fill: var(--text-primary);
+}
+
+.lm-highlight-line {
+  fill: none;
+  stroke: var(--gold);
+  stroke-width: 3;
+  stroke-linecap: round;
+}
+
+.lm-highlight-area {
+  fill: var(--gold);
+  fill-opacity: 0.35;
+  stroke: var(--gold);
+  stroke-width: 1.5;
+}
+
+.lm-arrow {
+  fill: none;
+  stroke: var(--gold);
+  stroke-width: 2;
+  stroke-dasharray: 6 4;
+}
+
+.lm-arrowhead {
+  fill: var(--gold);
+}
+
+.lm-scale path {
+  fill: none;
+  stroke: var(--text-muted);
+  stroke-width: 1.2;
+}
+
+.lm-scale text {
+  font-family: var(--font-sans);
+  font-size: 9px;
+  fill: var(--text-muted);
+}

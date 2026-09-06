@@ -3,12 +3,18 @@ layout: page
 title: Capernaum
 location_type: geographic
 blurb: The fishing town on the lake's north shore that became Jesus' adopted home base.
+map_lat: 32.881
+map_lon: 35.575
+map_label_side: left
+map_alt: "Map marking Capernaum on the northwest shore of the Sea of Galilee."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/capernaum-synagogue-ruins.jpg" alt="Excavated black basalt walls of ancient Capernaum's houses in the foreground, with palms and cypresses behind them and the Sea of Galilee and far hills in the distance." loading="lazy">
   <figcaption>The excavated basalt houses of Capernaum, looking south toward the Sea of Galilee. Photo: zeevveez, CC BY 2.0, via <a href="https://commons.wikimedia.org/wiki/File:Capernaum_Synagogue_Ruins.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 Capernaum ("village of Nahum") was a prosperous fishing town on the northwest shore of the Sea of Galilee, sitting on the Via Maris trade route near the border between Herod Antipas' Galilee and Philip's territory -- which is why it had a customs station (Levi's tax booth, Mark 2:14) and a Roman centurion in residence. After Nazareth rejected him, Jesus "went and lived in Capernaum" (Matthew 4:13); Matthew can even call it "his own city" (Matthew 9:1).
 

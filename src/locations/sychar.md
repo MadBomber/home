@@ -3,12 +3,18 @@ layout: page
 title: Samaria / Sychar
 location_type: geographic
 blurb: The Samaritan town at Jacob's well, where Jesus offered a foreign woman living water.
+map_lat: 32.211
+map_lon: 35.285
+map_label: Sychar
+map_alt: "Map marking Sychar in Samaria, in the central hill country between Galilee and Judea."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/sychar-jacobs-well.jpg" alt="The crypt beneath the Church of St. Photina in Nablus: Jacob's Well, a carved stone wellhead fitted with a winch and metal bucket, surrounded by hanging oil lamps and icons." loading="lazy">
   <figcaption>Jacob's Well, in the crypt of the Greek Orthodox Church of St. Photina near Nablus. The shaft still reaches groundwater more than a hundred feet down. Photo: Jeremiah K Garrett, CC BY-SA 3.0, via <a href="https://commons.wikimedia.org/wiki/File:Jacob%27s_Well_in_2013.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 Samaria was the hill country between Judea and Galilee, and the shortest road north ran straight through it -- yet many Jews took the long way around. The estrangement went back centuries: after Assyria deported the northern tribes in 722 BC, the region was resettled with mixed peoples (2 Kings 17), and the Samaritans who emerged kept their own version of the Torah and their own holy mountain, Gerizim, rejecting Jerusalem's temple. By Jesus' day, "Jews have no dealings with Samaritans" (John 4:9) was simple fact.
 

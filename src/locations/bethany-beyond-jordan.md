@@ -3,12 +3,18 @@ layout: page
 title: Bethany Beyond the Jordan
 location_type: geographic
 blurb: The place on the east bank of the Jordan where John was baptizing when he pointed to the Lamb of God.
+map_lat: 31.837
+map_lon: 35.567
+map_label: Bethany
+map_alt: "Map marking Bethany Beyond the Jordan, on the east bank of the Jordan River just north of the Dead Sea."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/bethany-beyond-jordan-baptism-site.jpg" alt="Excavated stone steps descending into a spring-fed green pool at the Al-Maghtas baptism site, with modern wooden shelters protecting the ruins." loading="lazy">
   <figcaption>Excavated baptism pools at Al-Maghtas in Jordan, identified as Bethany Beyond the Jordan and inscribed as a UNESCO World Heritage Site in 2015. Photo: Producer, CC BY 2.5, via <a href="https://commons.wikimedia.org/wiki/File:Bethany_(5).JPG">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 John's Gospel is careful with its Bethanys. This one is not the village of Mary, Martha, and Lazarus near Jerusalem, but a spot "across the Jordan" -- on the river's east bank -- "where John was baptizing" (John 1:28). The name may mean "house of the ford": a crossing place, which fits both the Baptist's message and the location's older echoes. Nearby tradition places Israel's crossing under Joshua and Elijah's departure in the whirlwind (2 Kings 2), and John came "in the spirit and power of Elijah" (Luke 1:17).
 

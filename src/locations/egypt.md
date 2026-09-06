@@ -3,12 +3,16 @@ layout: page
 title: Egypt
 location_type: geographic
 blurb: The land of refuge where the holy family fled from Herod, fulfilling "Out of Egypt I called my son."
+map_feature: egypt-arrow
+map_alt: "Map of the Holy Land with a dashed arrow leading southwest from Judea off the map toward Egypt."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/egypt-rest-on-flight-lorrain.jpg" alt="Oil painting: Mary sits with the infant Jesus beneath tall trees while an angel kneels before them and Joseph rests nearby; a river, an arched bridge, and hazy hills stretch into the distance." loading="lazy">
   <figcaption><em>Rest on the Flight into Egypt</em> by Claude Lorrain (17th century) -- an artist's imagining of the journey, set in an idealized landscape. Public domain, via <a href="https://commons.wikimedia.org/wiki/File:Claude_-_Rest_on_the_Flight_into_Egypt_-_Google_Art_Project.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 Warned in a dream that Herod meant to destroy the child, Joseph took Mary and Jesus by night and fled to Egypt, staying until Herod's death (Matthew 2:13-15). The journey was not as strange as it may sound. Egypt lay outside Herod's jurisdiction, a few days' travel down the coastal road, and it had sheltered refugees from Israel for centuries -- Jeroboam fled there from Solomon, Uriah the prophet from Jehoiakim, and by the first century Alexandria held one of the largest Jewish communities in the world.
 

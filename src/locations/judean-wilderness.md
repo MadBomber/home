@@ -3,12 +3,17 @@ layout: page
 title: The Judean Wilderness
 location_type: geographic
 blurb: The barren desert between Jerusalem and the Dead Sea where Jesus fasted forty days and faced the tempter.
+map_feature: judean-wilderness
+map_label: Judean Wilderness
+map_alt: "Map highlighting the Judean wilderness, the desert strip between Jerusalem's ridge and the Dead Sea."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/judean-wilderness-wadi-qelt.jpg" alt="Bare, sun-bleached hills of the Judean wilderness cut by the deep ravine of Wadi Qelt, with a thin footpath tracing the slope and no building in sight." loading="lazy">
   <figcaption>The Judean wilderness at Wadi Qelt, on the ancient descent from Jerusalem to Jericho. Photo: Fallaner, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Holy_Land_2016_P0915_Judean_Desert_Wadi_Qelt.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 East of Jerusalem the land falls nearly four thousand feet in fifteen miles, dropping from the olive terraces of the hill country to the shores of the Dead Sea. The ridge blocks the rain, and what remains is the Judean wilderness: chalky hills, plunging ravines, blistering heat, and silence. It is desolate, but never far away -- a person can stand in Jerusalem's bustle and see the desert from the city's edge. Scripture's wilderness is like that: not a remote exile but the empty place just past the noise, where there is nothing left to lean on but God.
 

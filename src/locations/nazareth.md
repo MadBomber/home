@@ -3,12 +3,17 @@ layout: page
 title: Nazareth
 location_type: geographic
 blurb: The small Galilean hill town where Jesus grew up, so obscure it is never named in the Old Testament.
+map_lat: 32.702
+map_lon: 35.298
+map_alt: "Map marking Nazareth in the hills of Galilee, about 15 miles west of the Sea of Galilee and 65 miles north of Jerusalem."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/nazareth-panorama.jpg" alt="Modern Nazareth climbing its hillside, dense with stone houses and church towers; the dark cone-shaped dome of the Basilica of the Annunciation rises at the lower left." loading="lazy">
   <figcaption>Nazareth today, spread across the hills of Lower Galilee. The cone-shaped dome at lower left belongs to the Basilica of the Annunciation, built over the traditional site of Mary's home. Photo: Ronen Marcus (רונן מרקוס), CC BY 2.5, via <a href="https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_51454_panorama_of_the_city_of_nazareth.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 First-century Nazareth was a farming village of perhaps a few hundred people, tucked into a bowl of hills in Lower Galilee about four miles from the regional capital of Sepphoris. It appears nowhere in the Old Testament, in Josephus, or in the rabbinic writings -- a silence that makes Nathanael's sneer feel entirely natural: "Can anything good come out of Nazareth?" (John 1:46). That obscurity is the point. When God chose an address for his Son's childhood, he chose one nobody had heard of.
 

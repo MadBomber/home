@@ -3,12 +3,19 @@ layout: page
 title: The Hill Country of Judea
 location_type: geographic
 blurb: The terraced hills west of Jerusalem where Mary visited Elizabeth and the Magnificat was sung.
+map_lat: 31.765
+map_lon: 35.16
+map_label: Ein Karem
+map_label_side: left
+map_alt: "Map marking Ein Karem in the Judean hill country, about five miles west of Jerusalem."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/hill-country-ein-karem.jpg" alt="The village of Ein Karem on a terraced hillside: stone houses among cypress and pine trees, with a red-roofed church and its tower rising at the center." loading="lazy">
   <figcaption>Ein Karem, the traditional home of Zechariah and Elizabeth, in the hill country west of Jerusalem. Photo: Tombah, CC0, via <a href="https://commons.wikimedia.org/wiki/File:Ein_Kerem_Panoramic_View.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 Luke tells us that after the annunciation, Mary "went with haste into the hill country, to a town in Judah" (Luke 1:39). The hill country is the spine of high, terraced ridges that runs through Judea around Jerusalem -- olive and vine country, dotted with small villages, a journey of several days on foot from Nazareth.
 

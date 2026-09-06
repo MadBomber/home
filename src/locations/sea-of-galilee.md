@@ -3,12 +3,17 @@ layout: page
 title: The Sea of Galilee
 location_type: geographic
 blurb: The freshwater lake at the heart of Jesus' ministry, ringed by fishing towns and sudden storms.
+map_feature: sea-of-galilee
+map_label: Sea of Galilee
+map_alt: "Map highlighting the Sea of Galilee, the freshwater lake in the north through which the Jordan River flows."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/sea-of-galilee-beatitudes-view.jpg" alt="The Sea of Galilee seen through the arched stone colonnade of the Church of the Beatitudes, palm trees and gardens below and the hills of the far shore across the blue water." loading="lazy">
   <figcaption>The Sea of Galilee from the Mount of Beatitudes, the traditional hillside of the Sermon on the Mount. Photo: gugganij, CC BY-SA 3.0, via <a href="https://commons.wikimedia.org/wiki/File:Mount_of_Beatitudes_View_Sea_of_Galilee_200704.JPG">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 The "sea" is really a freshwater lake, about thirteen miles long and eight miles wide, lying nearly seven hundred feet below sea level in the Jordan rift. Scripture calls it by several names -- Chinnereth in the Old Testament, Gennesaret, the Sea of Tiberias -- and its surrounding hills funnel cold air down onto the warm surface without warning, whipping up the sudden violent storms the Gospels describe.
 

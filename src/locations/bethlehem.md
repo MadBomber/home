@@ -3,12 +3,18 @@ layout: page
 title: Bethlehem
 location_type: geographic
 blurb: The city of David, where Jesus was born in fulfillment of Micah's prophecy.
+map_lat: 31.705
+map_lon: 35.207
+map_label_side: left
+map_alt: "Map marking Bethlehem in the Judean hills, about six miles south of Jerusalem."
 ---
 
 <figure class="location-figure">
   <img src="/images/locations/bethlehem-nativity-church.jpg" alt="The fortress-like stone facade of the Church of the Nativity across a wide paved square, a bell tower rising on the right and a lone person crossing the pavement." loading="lazy">
   <figcaption>The Church of the Nativity in Bethlehem, one of the oldest continuously used churches in the world, built over the cave venerated as Jesus' birthplace. Photo: Neil Ward, CC BY 2.0, via <a href="https://commons.wikimedia.org/wiki/File:Church_of_the_Nativity_(7703592746).jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
+
+<%= render "location_map", d: data %>
 
 Bethlehem ("house of bread") sits on a ridge about six miles south of Jerusalem, on the edge where farmland gives way to the Judean wilderness. Long before the manger, it carried a heavy history: Rachel was buried nearby (Genesis 35:19), Ruth gleaned in its fields, and its most famous son, David, was anointed king there while still a shepherd boy (1 Samuel 16). That is why Micah's prophecy lands with such precision: "But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days" (Micah 5:2).
 

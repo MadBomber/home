@@ -1,0 +1,132 @@
+<%
+  # Locator map for location pages. Render with the page's front matter
+  # passed as the local `d`:  render "location_map", d: data
+  #
+  # Front matter keys read here:
+  #   map_lat / map_lon   — marker position (decimal degrees)
+  #   map_label           — marker label (defaults to the page title)
+  #   map_label_side      — "left" when the default right-side label would
+  #                         collide with water or the map edge
+  #   map_feature         — highlight a drawn feature instead of a point:
+  #                         jordan-river | sea-of-galilee | judean-wilderness |
+  #                         egypt-arrow
+  #   map_alt             — spoken description of the location's position,
+  #                         used as the figure's aria-label
+  #
+  # Geometry is stored as [lat, lon] pairs and projected onto the viewBox
+  # below. The viewBox height was chosen so one degree of longitude and one
+  # degree of latitude keep their true proportions at ~32 N.
+
+  lon_min, lon_max = 34.0, 36.2
+  lat_min, lat_max = 30.8, 33.5
+  vw, vh = 300.0, 434.0
+
+  px = ->(lon) { ((lon - lon_min) / (lon_max - lon_min) * vw).round(1) }
+  py = ->(lat) { ((lat_max - lat) / (lat_max - lat_min) * vh).round(1) }
+  poly = ->(pts) { pts.map { |la, lo| "#{px.(lo)},#{py.(la)}" }.join(" L ") }
+
+  coast = [
+    [33.50, 35.31], [33.27, 35.19], [33.05, 35.10], [32.92, 35.07],
+    [32.87, 35.03], [32.83, 34.97], [32.60, 34.92], [32.50, 34.89],
+    [32.30, 34.84], [32.05, 34.74], [31.80, 34.63], [31.67, 34.55],
+    [31.50, 34.45], [31.30, 34.33], [31.10, 34.24], [30.95, 34.15],
+    [30.80, 34.08],
+  ]
+  sea_fill = coast + [[30.80, lon_min], [33.50, lon_min]]
+
+  galilee_lake = [
+    [32.88, 35.585], [32.86, 35.62], [32.80, 35.65], [32.73, 35.63],
+    [32.70, 35.58],  [32.73, 35.54], [32.80, 35.52], [32.85, 35.54],
+  ]
+  dead_sea = [
+    [31.77, 35.53], [31.70, 35.59], [31.45, 35.60], [31.25, 35.57],
+    [31.10, 35.54], [31.03, 35.48], [31.10, 35.43], [31.35, 35.42],
+    [31.55, 35.44], [31.70, 35.47],
+  ]
+  jordan_upper = [
+    [33.40, 35.63], [33.20, 35.61], [33.05, 35.60], [32.95, 35.59], [32.88, 35.585],
+  ]
+  jordan_lower = [
+    [32.70, 35.58], [32.55, 35.55], [32.40, 35.56], [32.25, 35.58],
+    [32.10, 35.56], [31.95, 35.54], [31.84, 35.53], [31.77, 35.53],
+  ]
+  wilderness = [
+    [31.95, 35.28], [31.88, 35.45], [31.60, 35.40], [31.15, 35.40],
+    [31.05, 35.32], [31.35, 35.24], [31.75, 35.22],
+  ]
+
+  jer_lat, jer_lon = 31.778, 35.236
+
+  # Scale bar: 25 miles, drawn as an L so both axes are shown. One degree of
+  # latitude is 69.05 miles, and the projection above keeps horizontal and
+  # vertical pixels-per-mile equal, so a single length serves both legs.
+  scale_px = (25 / 69.05 * vh / (lat_max - lat_min)).round(1)
+  sc_x, sc_y = vw - 18, vh - 16
+
+  feature    = d.map_feature
+  label      = d.map_label || d.title
+  label_side = d.map_label_side || "right"
+  alt        = d.map_alt || "Map of the Holy Land showing the location of #{label}."
+
+  mx = d.map_lat ? px.(d.map_lon) : nil
+  my = d.map_lat ? py.(d.map_lat) : nil
+
+  # Jerusalem is drawn as a reference point on every map, except when the
+  # marker sits close enough that dot and label would collide.
+  jx, jy = px.(jer_lon), py.(jer_lat)
+  show_jerusalem = mx.nil? || Math.hypot(mx - jx, my - jy) >= 12
+%>
+<figure class="location-map" role="img" aria-label="<%= alt %>">
+  <svg viewBox="0 0 <%= vw.to_i %> <%= vh.to_i %>" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path class="lm-sea"   d="M <%= poly.(sea_fill) %> Z" />
+    <path class="lm-coast" d="M <%= poly.(coast) %>" />
+    <path class="lm-lake"  d="M <%= poly.(galilee_lake) %> Z" />
+    <path class="lm-lake"  d="M <%= poly.(dead_sea) %> Z" />
+    <path class="lm-river" d="M <%= poly.(jordan_upper) %>" />
+    <path class="lm-river" d="M <%= poly.(jordan_lower) %>" />
+
+    <text class="lm-region" x="<%= px.(35.28) %>" y="<%= py.(33.18) %>" text-anchor="middle">Galilee</text>
+    <text class="lm-region" x="<%= px.(35.20) %>" y="<%= py.(32.25) %>" text-anchor="middle">Samaria</text>
+    <% unless feature == "judean-wilderness" %>
+      <text class="lm-region" x="<%= px.(35.00) %>" y="<%= py.(31.45) %>" text-anchor="middle">Judea</text>
+    <% end %>
+    <text class="lm-region lm-region-sea" x="<%= px.(34.36) %>" y="<%= py.(31.95) %>" text-anchor="middle">The Great Sea</text>
+
+    <g class="lm-scale">
+      <path d="M <%= sc_x - scale_px %>,<%= sc_y %> L <%= sc_x %>,<%= sc_y %> L <%= sc_x %>,<%= sc_y - scale_px %>" />
+      <path d="M <%= sc_x - scale_px %>,<%= sc_y - 4 %> V <%= sc_y + 4 %> M <%= sc_x - 4 %>,<%= sc_y - scale_px %> H <%= sc_x + 4 %>" />
+      <text x="<%= sc_x - scale_px / 2 %>" y="<%= sc_y - 6 %>" text-anchor="middle">25 mi</text>
+      <text x="<%= sc_x - 6 %>" y="<%= sc_y - scale_px / 2 %>" text-anchor="middle" transform="rotate(-90 <%= sc_x - 6 %> <%= sc_y - scale_px / 2 %>)">25 mi</text>
+    </g>
+
+    <% if show_jerusalem %>
+      <circle class="lm-ref" cx="<%= jx %>" cy="<%= jy %>" r="3" />
+      <text class="lm-ref-label" x="<%= jx - 6 %>" y="<%= jy + 3 %>" text-anchor="end">Jerusalem</text>
+    <% end %>
+
+    <% case feature %>
+    <% when "jordan-river" %>
+      <path class="lm-highlight-line" d="M <%= poly.(jordan_upper) %>" />
+      <path class="lm-highlight-line" d="M <%= poly.(jordan_lower) %>" />
+      <text class="lm-marker-label" x="<%= px.(35.66) %>" y="<%= py.(32.30) %>"><%= label %></text>
+    <% when "sea-of-galilee" %>
+      <path class="lm-highlight-area" d="M <%= poly.(galilee_lake) %> Z" />
+      <text class="lm-marker-label" x="<%= px.(35.585) %>" y="<%= py.(32.62) %>" text-anchor="middle"><%= label %></text>
+    <% when "judean-wilderness" %>
+      <path class="lm-highlight-area" d="M <%= poly.(wilderness) %> Z" />
+      <text class="lm-marker-label" x="<%= px.(35.18) %>" y="<%= py.(31.45) %>" text-anchor="end"><%= label %></text>
+    <% when "egypt-arrow" %>
+      <path class="lm-arrow" d="M <%= px.(35.18) %>,<%= py.(31.68) %> Q <%= px.(34.6) %>,<%= py.(31.1) %> <%= px.(34.22) %>,<%= py.(30.88) %>" />
+      <polygon class="lm-arrowhead" points="<%= px.(34.22) - 7 %>,<%= py.(30.88) - 8 %> <%= px.(34.22) + 3 %>,<%= py.(30.88) - 2 %> <%= px.(34.22) - 9 %>,<%= py.(30.88) + 1 %>" />
+      <text class="lm-marker-label" x="<%= px.(34.42) %>" y="<%= py.(31.02) %>">to Egypt</text>
+    <% else %>
+      <circle class="lm-marker-halo" cx="<%= mx %>" cy="<%= my %>" r="9" />
+      <circle class="lm-marker" cx="<%= mx %>" cy="<%= my %>" r="5" />
+      <% if label_side == "left" %>
+        <text class="lm-marker-label" x="<%= mx - 10 %>" y="<%= my + 4 %>" text-anchor="end"><%= label %></text>
+      <% else %>
+        <text class="lm-marker-label" x="<%= mx + 10 %>" y="<%= my + 4 %>"><%= label %></text>
+      <% end %>
+    <% end %>
+  </svg>
+</figure>
