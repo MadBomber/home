@@ -42,12 +42,13 @@ The week closes in Jericho with Zacchaeus, the chief tax collector who climbed a
 | 5 | Luke 19:1-27  | [Zacchaeus, Parable of Ten Minas](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- The one who raises the dead, weeps at the grave, and declares himself the resurrection and the life
-- **The Rich Young Man** -- A moral exemplar who cannot release his wealth and walks away from Jesus sorrowful
-- **Lazarus** -- The dead man Jesus calls back to life, the seventh and greatest sign in John
-- **Martha and Mary** -- Sisters who each confront Jesus about Lazarus' death with the same words but different postures
-- **Caiaphas** -- The high priest whose political calculation becomes an unwitting prophecy of substitutionary atonement
-- **Zacchaeus** -- The chief tax collector whose encounter with Jesus produces radical, spontaneous generosity
+
+- **[Jesus](/characters/jesus/)** -- The one who raises the dead, weeps at the grave, and declares himself the resurrection and the life.
+- **[The Rich Young Man](/characters/rich-young-man/)** -- A moral exemplar who cannot release his wealth and walks away from Jesus sorrowful.
+- **[Lazarus](/characters/lazarus/)** -- The dead man Jesus calls back to life, the seventh and greatest sign in John.
+- **[Martha and Mary](/characters/mary-and-martha/)** -- Sisters who each confront Jesus about Lazarus' death with the same words but different postures.
+- **[Caiaphas](/characters/caiaphas/)** -- The high priest whose political calculation becomes an unwitting prophecy of substitutionary atonement.
+- **[Zacchaeus](/characters/zacchaeus/)** -- The chief tax collector whose encounter with Jesus produces radical, spontaneous generosity.
 
 ## Key Locations
 

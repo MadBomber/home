@@ -35,14 +35,15 @@ The week concludes with the opening chapter of Galatians, likely written from An
 | 5 | Galatians 1  | [No Other Gospel, Paul's Calling and Conversion Testimony](../day-5/) |
 
 ## Key Characters
-- **Peter** -- Defends his Gentile ministry before the Jerusalem church and is later miraculously delivered from prison
-- **Barnabas** -- "Son of Encouragement" who becomes the senior partner in the first missionary journey
-- **Saul/Paul** -- Transitions from junior partner to lead spokesman; his Pisidian Antioch sermon establishes his theological framework
-- **Herod Agrippa I** -- Grandson of Herod the Great who persecutes the church and dies under divine judgment
-- **James (son of Zebedee)** -- The first apostle martyred, killed by Herod's sword
-- **John Mark** -- Accompanies Barnabas and Paul but later withdraws from the mission
-- **Sergius Paulus** -- Roman proconsul of Cyprus who believes the gospel
-- **Bar-Jesus/Elymas** -- Jewish sorcerer who opposes Paul on Cyprus
+
+- **[Peter](/characters/peter/)** -- Defends his Gentile ministry before the Jerusalem church and is later miraculously delivered from prison.
+- **[Barnabas](/characters/barnabas/)** -- "Son of Encouragement" who becomes the senior partner in the first missionary journey.
+- **[Saul/Paul](/characters/paul/)** -- Transitions from junior partner to lead spokesman; his Pisidian Antioch sermon establishes his theological framework.
+- **[Herod Agrippa I](/characters/herod-agrippa-i/)** -- Grandson of Herod the Great who persecutes the church and dies under divine judgment.
+- **[James (son of Zebedee)](/characters/james/)** -- The first apostle martyred, killed by Herod's sword.
+- **[John Mark](/characters/john-mark/)** -- Accompanies Barnabas and Paul but later withdraws from the mission.
+- **[Sergius Paulus](/characters/sergius-paulus/)** -- Roman proconsul of Cyprus who believes the gospel.
+- **[Bar-Jesus/Elymas](/characters/elymas/)** -- Jewish sorcerer who opposes Paul on Cyprus.
 
 ## Key Locations
 

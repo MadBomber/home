@@ -2,7 +2,7 @@
 layout: page
 title: Spain
 location_type: geographic
-blurb: Paul's intended western frontier — the edge of the known world, and the measure of his unfinished ambition.
+blurb: Paul's intended western frontier -- the edge of the known world, and the measure of his unfinished ambition.
 map_region: mediterranean
 map_feature: spain-arrow
 map_label: to Spain

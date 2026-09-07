@@ -34,12 +34,13 @@ The teaching culminates in three extended parables -- the Ten Virgins, the Talen
 | 5 | Matthew 25:31-46 + Luke 21  | [Sheep and Goats, Luke's Olivet Discourse](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- Prophet, judge, and coming King who pronounces woes, foretells destruction, and describes the final judgment
-- **The Pharisees and Scribes** -- Targets of the Seven Woes, representatives of a corrupt religious system
-- **The Disciples** -- Private audience for the Olivet Discourse, struggling to comprehend the scope of what Jesus describes
-- **The Wise and Foolish Virgins** -- Parabolic figures representing prepared and unprepared believers
-- **The Servants with Talents** -- Stewards whose faithfulness or fear determines their master's judgment
-- **"The Least of These"** -- The hungry, thirsty, stranger, naked, sick, and imprisoned in whom Christ is encountered
+
+- **[Jesus](/characters/jesus/)** -- Prophet, judge, and coming King who pronounces woes, foretells destruction, and describes the final judgment.
+- **[The Pharisees and Scribes](/characters/pharisees/)** -- Targets of the Seven Woes, representatives of a corrupt religious system.
+- **[The Disciples](/characters/the-twelve/)** -- Private audience for the Olivet Discourse, struggling to comprehend the scope of what Jesus describes.
+- **[The Wise and Foolish Virgins](/characters/wise-and-foolish-virgins/)** -- Parabolic figures representing prepared and unprepared believers.
+- **[The Servants with Talents](/characters/servants-with-talents/)** -- Stewards whose faithfulness or fear determines their master's judgment.
+- **["The Least of These"](/characters/least-of-these/)** -- The hungry, thirsty, stranger, naked, sick, and imprisoned in whom Christ is encountered.
 
 ## Key Locations
 

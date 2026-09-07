@@ -2,7 +2,7 @@
 layout: page
 title: Rome
 location_type: geographic
-blurb: The capital of the empire — Paul's destination, his prison, and the "Babylon" from which Peter wrote.
+blurb: The capital of the empire -- Paul's destination, his prison, and the "Babylon" from which Peter wrote.
 map_region: mediterranean
 map_lat: 41.890
 map_lon: 12.490

@@ -2,7 +2,7 @@
 layout: page
 title: The Mount of Olives
 location_type: geographic
-blurb: The ridge east of Jerusalem — route of the triumphal entry, seat of the Olivet Discourse, and place of the ascension.
+blurb: The ridge east of Jerusalem -- route of the triumphal entry, seat of the Olivet Discourse, and place of the ascension.
 map_lat: 31.778
 map_lon: 35.245
 map_label: Mount of Olives

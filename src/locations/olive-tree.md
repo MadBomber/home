@@ -2,7 +2,7 @@
 layout: page
 title: The Olive Tree
 location_type: symbolic
-blurb: Paul's image for the one people of God — natural branches, wild grafts, and a root that carries them all.
+blurb: Paul's image for the one people of God -- natural branches, wild grafts, and a root that carries them all.
 ---
 
 <figure class="location-figure">

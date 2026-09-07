@@ -45,13 +45,13 @@ What strikes the careful reader is the diversity of these accounts within their 
 
 ## Key Characters This Week
 
-- **Jesus** -- Crucified, buried, and risen. He appears to multiple witnesses over forty days, eats and drinks with them, teaches them from the Scriptures, restores Peter, and commissions his followers to take the gospel to every nation.
-- **Mary Magdalene** -- The first witness to the risen Christ in John's account, she initially mistakes him for the gardener until he speaks her name. She becomes the "apostle to the apostles," carrying the news to the disciples.
-- **Peter** -- Runs to the empty tomb, encounters the risen Christ, and is restored through a threefold dialogue that mirrors and heals his threefold denial.
-- **Thomas** -- Absent during the first appearance to the disciples, he refuses to believe without physical evidence, then makes the highest christological confession in the Gospels: "My Lord and my God!"
-- **The Two on the Road to Emmaus** -- Cleopas and an unnamed companion whose hearts burn within them as Jesus opens the Scriptures, and whose eyes are opened in the breaking of bread.
-- **Judas Iscariot** -- His suicide in Matthew 27 provides a devastating contrast to Peter's restoration: both betrayed Jesus, but only Peter returned in repentance.
-- **Joseph of Arimathea** -- Provides the tomb for Jesus' burial, unwittingly fulfilling prophecy and establishing the verifiable location of the resurrection.
+- **[Jesus](/characters/jesus/)** -- Crucified, buried, and risen. He appears to multiple witnesses over forty days, eats and drinks with them, teaches them from the Scriptures, restores Peter, and commissions his followers to take the gospel to every nation.
+- **[Mary Magdalene](/characters/mary-magdalene/)** -- The first witness to the risen Christ in John's account, she initially mistakes him for the gardener until he speaks her name. She becomes the "apostle to the apostles," carrying the news to the disciples.
+- **[Peter](/characters/peter/)** -- Runs to the empty tomb, encounters the risen Christ, and is restored through a threefold dialogue that mirrors and heals his threefold denial.
+- **[Thomas](/characters/thomas/)** -- Absent during the first appearance to the disciples, he refuses to believe without physical evidence, then makes the highest christological confession in the Gospels: "My Lord and my God!"
+- **[The Two on the Road to Emmaus](/locations/emmaus/)** -- Cleopas and an unnamed companion whose hearts burn within them as Jesus opens the Scriptures, and whose eyes are opened in the breaking of bread.
+- **[Judas Iscariot](/characters/judas-iscariot/)** -- His suicide in Matthew 27 provides a devastating contrast to Peter's restoration: both betrayed Jesus, but only Peter returned in repentance.
+- **[Joseph of Arimathea](/characters/joseph-of-arimathea/)** -- Provides the tomb for Jesus' burial, unwittingly fulfilling prophecy and establishing the verifiable location of the resurrection.
 - **The Roman Guards** -- Posted at the tomb to prevent theft of the body, they become unwilling witnesses to the resurrection and are bribed to spread the first counter-narrative.
 
 ## Key Locations

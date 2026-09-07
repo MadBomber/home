@@ -40,12 +40,12 @@ From the quiet reverence of the temple, we are thrust into political danger. Mat
 
 ## Key Characters This Week
 
-- **Simeon** -- A devout man in Jerusalem who had been promised by the Holy Spirit that he would not die before seeing the Lord's Messiah. His prophecy (the Nunc Dimittis) announces Jesus as a light to the Gentiles and the glory of Israel.
-- **Anna** -- An 84-year-old prophetess from the tribe of Asher who never left the temple, worshiping night and day with fasting and prayer. She immediately recognized the infant Jesus and spoke about him to all who were waiting for redemption.
-- **The Magi** -- Wise men from the East, likely Persia or Babylon, who followed a star to find the newborn king. Their gifts of gold, frankincense, and myrrh carry deep symbolic significance.
-- **Herod the Great** -- The paranoid Roman client-king of Judea who ordered the massacre of male infants in Bethlehem in a desperate attempt to eliminate a rival to his throne.
-- **John the Baptist** -- The forerunner of Jesus, son of Zechariah and Elizabeth, who preached a baptism of repentance in the wilderness of Judea and baptized Jesus in the Jordan River.
-- **Jesus** -- Seen this week as an infant in the temple, a boy of twelve astonishing the teachers, and a man of about thirty stepping into the Jordan to be baptized and begin his public ministry.
+- **[Simeon](/characters/simeon/)** -- A devout man in Jerusalem who had been promised by the Holy Spirit that he would not die before seeing the Lord's Messiah. His prophecy (the Nunc Dimittis) announces Jesus as a light to the Gentiles and the glory of Israel.
+- **[Anna](/characters/anna/)** -- An 84-year-old prophetess from the tribe of Asher who never left the temple, worshiping night and day with fasting and prayer. She immediately recognized the infant Jesus and spoke about him to all who were waiting for redemption.
+- **[The Magi](/characters/magi/)** -- Wise men from the East, likely Persia or Babylon, who followed a star to find the newborn king. Their gifts of gold, frankincense, and myrrh carry deep symbolic significance.
+- **[Herod the Great](/characters/herod-the-great/)** -- The paranoid Roman client-king of Judea who ordered the massacre of male infants in Bethlehem in a desperate attempt to eliminate a rival to his throne.
+- **[John the Baptist](/characters/john-the-baptist/)** -- The forerunner of Jesus, son of Zechariah and Elizabeth, who preached a baptism of repentance in the wilderness of Judea and baptized Jesus in the Jordan River.
+- **[Jesus](/characters/jesus/)** -- Seen this week as an infant in the temple, a boy of twelve astonishing the teachers, and a man of about thirty stepping into the Jordan to be baptized and begin his public ministry.
 
 ## Key Locations
 

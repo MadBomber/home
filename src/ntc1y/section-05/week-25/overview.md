@@ -34,13 +34,14 @@ The final two chapters move from theology to ethics. Christian freedom is not a 
 | 5 | Galatians 6  | [Bear One Another's Burdens, Sow to the Spirit, New Creation](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle to the Gentiles, passionately defending the gospel of grace against legalistic distortion
-- **Peter (Cephas)** -- Fellow apostle who affirmed Paul's gospel but wavered under social pressure at Antioch
-- **James** -- The Lord's brother, leader of the Jerusalem church, whose emissaries inadvertently triggered the Antioch crisis
-- **John** -- One of the three "pillars" who endorsed Paul's Gentile mission
-- **Barnabas** -- Paul's missionary partner, who was "carried away" by Peter's hypocrisy at Antioch
-- **Abraham** -- The patriarch whose faith-based righteousness is Paul's primary Old Testament argument
-- **Hagar and Sarah** -- Used allegorically to represent the covenants of slavery and freedom
+
+- **[Paul](/characters/paul/)** -- Apostle to the Gentiles, passionately defending the gospel of grace against legalistic distortion.
+- **[Peter (Cephas)](/characters/peter/)** -- Fellow apostle who affirmed Paul's gospel but wavered under social pressure at Antioch.
+- **[James](/characters/james-brother-of-jesus/)** -- The Lord's brother, leader of the Jerusalem church, whose emissaries inadvertently triggered the Antioch crisis.
+- **[John](/characters/john/)** -- One of the three "pillars" who endorsed Paul's Gentile mission.
+- **[Barnabas](/characters/barnabas/)** -- Paul's missionary partner, who was "carried away" by Peter's hypocrisy at Antioch.
+- **[Abraham](/characters/abraham/)** -- The patriarch whose faith-based righteousness is Paul's primary Old Testament argument.
+- **[Hagar and Sarah](/characters/abraham/)** -- Used allegorically to represent the covenants of slavery and freedom.
 
 ## Key Locations
 

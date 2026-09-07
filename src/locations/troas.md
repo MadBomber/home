@@ -2,7 +2,7 @@
 layout: page
 title: Troas
 location_type: geographic
-blurb: The Aegean port where Paul saw the Macedonian vision — and where Eutychus fell from the window.
+blurb: The Aegean port where Paul saw the Macedonian vision -- and where Eutychus fell from the window.
 map_region: mediterranean
 map_lat: 39.750
 map_lon: 26.160

@@ -41,14 +41,14 @@ Together, these readings form a bridge between the preparations of Weeks 1-2 and
 
 ## Key Characters This Week
 
-- **Satan / The Devil** -- The adversary who tests Jesus in the wilderness, attempting to divert him from God's appointed path through appeals to appetite, power, and spectacle.
-- **Andrew** -- One of the first disciples called, originally a follower of John the Baptist, who immediately brings his brother Simon to Jesus.
-- **Simon Peter** -- Andrew's brother, renamed "Cephas" (Aramaic for "rock") by Jesus at their very first meeting, signaling his future role.
-- **Philip** -- From Bethsaida, the same city as Andrew and Peter; called directly by Jesus with the simple command "Follow me."
-- **Nathanael** -- Also called Bartholomew, from Cana; initially skeptical ("Can anything good come from Nazareth?") but won over by Jesus' supernatural knowledge.
-- **Mary (Jesus' mother)** -- Present at the wedding at Cana, where she prompts Jesus' first sign despite his enigmatic response about his "hour."
-- **Nicodemus** -- A Pharisee and member of the Jewish ruling council (Sanhedrin), who comes to Jesus at night seeking understanding.
-- **The Samaritan Woman** -- An unnamed woman at Jacob's well whose encounter with Jesus breaks every social convention and leads to the conversion of her entire village.
+- **[Satan / The Devil](/characters/satan/)** -- The adversary who tests Jesus in the wilderness, attempting to divert him from God's appointed path through appeals to appetite, power, and spectacle.
+- **[Andrew](/characters/andrew/)** -- One of the first disciples called, originally a follower of John the Baptist, who immediately brings his brother Simon to Jesus.
+- **[Simon Peter](/characters/peter/)** -- Andrew's brother, renamed "Cephas" (Aramaic for "rock") by Jesus at their very first meeting, signaling his future role.
+- **[Philip](/characters/philip/)** -- From Bethsaida, the same city as Andrew and Peter; called directly by Jesus with the simple command "Follow me."
+- **[Nathanael](/characters/nathanael/)** -- Also called Bartholomew, from Cana; initially skeptical ("Can anything good come from Nazareth?") but won over by Jesus' supernatural knowledge.
+- **[Mary (Jesus' mother)](/characters/mary/)** -- Present at the wedding at Cana, where she prompts Jesus' first sign despite his enigmatic response about his "hour."
+- **[Nicodemus](/characters/nicodemus/)** -- A Pharisee and member of the Jewish ruling council (Sanhedrin), who comes to Jesus at night seeking understanding.
+- **[The Samaritan Woman](/characters/samaritan-woman/)** -- An unnamed woman at Jacob's well whose encounter with Jesus breaks every social convention and leads to the conversion of her entire village.
 
 ## Key Locations
 

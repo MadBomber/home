@@ -5,7 +5,7 @@ location_type: geographic
 blurb: The old port of Jerusalem, where Peter raised Tabitha and saw the vision of the sheet.
 map_lat: 32.052
 map_lon: 34.752
-map_alt: "Map marking Joppa on the Mediterranean coast due west of Jerusalem — the ancient port, modern Jaffa."
+map_alt: "Map marking Joppa on the Mediterranean coast due west of Jerusalem -- the ancient port, modern Jaffa."
 ---
 
 <figure class="location-figure">

@@ -41,14 +41,15 @@ Then we turn to Acts 9-10, and the pace shifts from pastoral instruction to dram
 | 5 | Acts 10  | [Cornelius' Vision, the Gospel to the Gentiles](../day-5/) |
 
 ## Key Characters
-- **James** — The Lord's brother, author of this practical letter, pastor of the Jerusalem church
-- **Saul/Paul** — The church's fiercest persecutor, transformed by an encounter with the risen Christ on the Damascus road
-- **Ananias** — A disciple in Damascus who overcomes fear to deliver God's commission to Saul
-- **Barnabas** — "Son of Encouragement," who vouches for the converted Saul before the skeptical Jerusalem church
-- **Peter** — Apostle who receives the rooftop vision and carries the gospel to Cornelius's household
-- **Cornelius** — A Roman centurion, God-fearer, whose conversion opens the door for Gentile inclusion
-- **Job** — Referenced by James as a model of patient endurance through suffering
-- **Elijah** — Referenced by James as a model of effective, fervent prayer
+
+- **[James](/characters/james-brother-of-jesus/)** -- The Lord's brother, author of this practical letter, pastor of the Jerusalem church.
+- **[Saul/Paul](/characters/paul/)** -- The church's fiercest persecutor, transformed by an encounter with the risen Christ on the Damascus road.
+- **[Ananias](/characters/ananias-of-damascus/)** -- A disciple in Damascus who overcomes fear to deliver God's commission to Saul.
+- **[Barnabas](/characters/barnabas/)** -- "Son of Encouragement," who vouches for the converted Saul before the skeptical Jerusalem church.
+- **[Peter](/characters/peter/)** -- Apostle who receives the rooftop vision and carries the gospel to Cornelius's household.
+- **[Cornelius](/characters/cornelius/)** -- A Roman centurion, God-fearer, whose conversion opens the door for Gentile inclusion.
+- **[Job](/characters/job/)** -- Referenced by James as a model of patient endurance through suffering.
+- **[Elijah](/characters/elijah/)** -- Referenced by James as a model of effective, fervent prayer.
 
 ## Key Locations
 

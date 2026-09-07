@@ -2,7 +2,7 @@
 layout: page
 title: The Praetorium
 location_type: geographic
-blurb: The Roman governor's headquarters in Jerusalem, where Pilate tried Jesus — and later the garrison that held Paul.
+blurb: The Roman governor's headquarters in Jerusalem, where Pilate tried Jesus -- and later the garrison that held Paul.
 map_lat: 31.777
 map_lon: 35.234
 map_label: Jerusalem

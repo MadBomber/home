@@ -33,13 +33,14 @@ The religious leaders respond immediately. They challenge Jesus' authority, aski
 | 5 | Mark 12:28-44  | [Greatest Commandment, David's Son, Widow's Offering](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- Messianic king who enters Jerusalem with prophetic intentionality and confronts the Temple establishment
-- **The Twelve** -- Disciples who witness the unfolding drama but struggle to grasp its significance
-- **Chief Priests and Elders** -- Temple authorities who challenge Jesus' right to teach and act
-- **The Pharisees and Herodians** -- Unlikely allies united in their desire to trap Jesus
-- **The Sadducees** -- Temple aristocracy who pose the resurrection question
-- **The Scribe** -- A Torah scholar who sincerely engages Jesus about the greatest commandment
-- **The Poor Widow** -- An unnamed woman whose offering embodies total devotion
+
+- **[Jesus](/characters/jesus/)** -- Messianic king who enters Jerusalem with prophetic intentionality and confronts the Temple establishment.
+- **[The Twelve](/characters/the-twelve/)** -- Disciples who witness the unfolding drama but struggle to grasp its significance.
+- **[Chief Priests and Elders](/characters/sadducees/)** -- Temple authorities who challenge Jesus' right to teach and act.
+- **[The Pharisees and Herodians](/characters/pharisees/)** -- Unlikely allies united in their desire to trap Jesus.
+- **[The Sadducees](/characters/sadducees/)** -- Temple aristocracy who pose the resurrection question.
+- **[The Scribe](/characters/pharisees/)** -- A Torah scholar who sincerely engages Jesus about the greatest commandment.
+- **[The Poor Widow](/characters/poor-widow/)** -- An unnamed woman whose offering embodies total devotion.
 
 ## Key Locations
 

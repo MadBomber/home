@@ -35,12 +35,13 @@ By the end of the week, we see the pattern that will define the early church's e
 | 5 | Acts 5  | [Ananias & Sapphira, Signs & Wonders, Apostles Arrested & Freed](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- Risen Lord who gives final instructions and ascends to the Father
-- **Peter** -- Transformed denier who becomes the leading voice of the early church
-- **John** -- Peter's companion in healing, preaching, and arrest
-- **The Twelve** -- Now reconstituted with Matthias replacing Judas
-- **Ananias & Sapphira** -- Couple whose deception about their offering leads to sudden death
-- **Gamaliel** -- Pharisee and respected teacher who counsels caution toward the apostles
+
+- **[Jesus](/characters/jesus/)** -- Risen Lord who gives final instructions and ascends to the Father.
+- **[Peter](/characters/peter/)** -- Transformed denier who becomes the leading voice of the early church.
+- **[John](/characters/john/)** -- Peter's companion in healing, preaching, and arrest.
+- **[The Twelve](/characters/the-twelve/)** -- Now reconstituted with Matthias replacing Judas.
+- **[Ananias & Sapphira](/characters/ananias-and-sapphira/)** -- Couple whose deception about their offering leads to sudden death.
+- **[Gamaliel](/characters/gamaliel/)** -- Pharisee and respected teacher who counsels caution toward the apostles.
 
 ## Key Locations
 

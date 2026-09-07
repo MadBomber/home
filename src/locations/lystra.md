@@ -2,7 +2,7 @@
 layout: page
 title: Lystra
 location_type: geographic
-blurb: The Lycaonian town that hailed Paul as a god, then stoned him — and gave him Timothy.
+blurb: The Lycaonian town that hailed Paul as a god, then stoned him -- and gave him Timothy.
 map_region: mediterranean
 map_lat: 37.580
 map_lon: 32.450

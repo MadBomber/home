@@ -34,11 +34,12 @@ This week traverses an extraordinary range of pastoral territory. First Timothy 
 | 5 | 2 Timothy 1  | [Fan Into Flame, Spirit of Power/Love/Self-Discipline, Guard the Good Deposit](../day-5/) |
 
 ## Key Characters
-- **Paul** — Apostle, moving from relative freedom (1 Timothy, Titus) to his final imprisonment (2 Timothy)
-- **Timothy** — Paul's delegate in Ephesus, recipient of Paul's final letter
-- **Titus** — Paul's delegate in Crete, a Gentile convert and trusted co-worker
-- **Onesiphorus** — A faithful friend who searched for Paul in Rome and was not ashamed of his chains
-- **Lois and Eunice** — Timothy's grandmother and mother, who nurtured his faith from childhood
+
+- **[Paul](/characters/paul/)** -- Apostle, moving from relative freedom (1 Timothy, Titus) to his final imprisonment (2 Timothy).
+- **[Timothy](/characters/timothy/)** -- Paul's delegate in Ephesus, recipient of Paul's final letter.
+- **[Titus](/characters/titus/)** -- Paul's delegate in Crete, a Gentile convert and trusted co-worker.
+- **[Onesiphorus](/characters/onesiphorus/)** -- A faithful friend who searched for Paul in Rome and was not ashamed of his chains.
+- **[Lois and Eunice](/characters/lois-and-eunice/)** -- Timothy's grandmother and mother, who nurtured his faith from childhood.
 
 ## Key Locations
 

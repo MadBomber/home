@@ -36,11 +36,12 @@ The week closes with Acts 18:18-28, which narrates Paul's departure from Corinth
 | 5 | Acts 18:18-28  | [Paul Returns to Antioch via Ephesus, Third Journey Begins, Apollos](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Writing from Corinth to address confusion about the Day of the Lord and problems of idleness
-- **Silas & Timothy** -- Co-senders of both Thessalonian letters
-- **Priscilla & Aquila** -- Travel with Paul to Ephesus, where they instruct Apollos
-- **Apollos** -- Eloquent Alexandrian Jew, mighty in the Scriptures, who learns "the way of God more accurately"
-- **The Man of Lawlessness** -- Mysterious eschatological figure who must appear before the Day of the Lord
+
+- **[Paul](/characters/paul/)** -- Writing from Corinth to address confusion about the Day of the Lord and problems of idleness.
+- **[Silas](/characters/silas/) & [Timothy](/characters/timothy/)** -- Co-senders of both Thessalonian letters.
+- **[Priscilla & Aquila](/characters/priscilla-and-aquila/)** -- Travel with Paul to Ephesus, where they instruct Apollos.
+- **[Apollos](/characters/apollos/)** -- Eloquent Alexandrian Jew, mighty in the Scriptures, who learns "the way of God more accurately."
+- **The Man of Lawlessness** -- Mysterious eschatological figure who must appear before the Day of the Lord.
 
 ## Key Locations
 

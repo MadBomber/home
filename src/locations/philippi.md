@@ -2,7 +2,7 @@
 layout: page
 title: Philippi
 location_type: geographic
-blurb: The Roman colony in Macedonia — Lydia, the jailer, the midnight hymns, and Paul's most joyful letter.
+blurb: The Roman colony in Macedonia -- Lydia, the jailer, the midnight hymns, and Paul's most joyful letter.
 map_region: mediterranean
 map_lat: 41.010
 map_lon: 24.290

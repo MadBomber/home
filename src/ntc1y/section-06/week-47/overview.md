@@ -37,11 +37,12 @@ Chapter 12 then draws the practical conclusion. With such a "great cloud of witn
 | 5 | Hebrews 12  | [Run the Race, Fix Eyes on Jesus, Mount Sinai vs Mount Zion](../day-5/) |
 
 ## Key Characters
-- **Jesus Christ** -- The mediator of the new covenant, the great High Priest who entered the heavenly sanctuary with his own blood
-- **Abel, Enoch, Noah** -- The earliest faith heroes, each demonstrating a different dimension of trust in God
-- **Abraham and Sarah** -- The paradigmatic couple of faith, who obeyed God's call into the unknown and believed in impossible promises
-- **Moses** -- The deliverer who chose suffering with God's people over the treasures of Egypt
-- **Rahab** -- The Canaanite prostitute whose faith saved her family and placed her in Israel's story
+
+- **[Jesus Christ](/characters/jesus/)** -- The mediator of the new covenant, the great High Priest who entered the heavenly sanctuary with his own blood.
+- **[Abel, Enoch, Noah](/characters/heroes-of-faith/)** -- The earliest faith heroes, each demonstrating a different dimension of trust in God.
+- **[Abraham and Sarah](/characters/abraham/)** -- The paradigmatic couple of faith, who obeyed God's call into the unknown and believed in impossible promises.
+- **[Moses](/characters/moses/)** -- The deliverer who chose suffering with God's people over the treasures of Egypt.
+- **[Rahab](/characters/heroes-of-faith/)** -- The Canaanite prostitute whose faith saved her family and placed her in Israel's story.
 
 ## Key Locations
 

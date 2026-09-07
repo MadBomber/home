@@ -2,7 +2,7 @@
 layout: page
 title: The New Jerusalem
 location_type: symbolic
-blurb: The holy city coming down out of heaven — the Jerusalem above, Mount Zion, God's eternal dwelling with his people.
+blurb: The holy city coming down out of heaven -- the Jerusalem above, Mount Zion, God's eternal dwelling with his people.
 ---
 
 <figure class="location-figure">

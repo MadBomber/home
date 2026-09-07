@@ -33,14 +33,15 @@ The week's narratives extend this boundary-crossing logic into practice. Jesus h
 | 5 | Mark 8:1-26  | [Feeding 4000, Pharisees Demand Sign, Blind Man at Bethsaida](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- The bread of life who feeds, heals, and reveals his divine identity
-- **The Twelve** -- Confronted with the cost of following a Messiah who defies expectations
-- **Peter** -- Spokesperson who declares, "Lord, to whom shall we go? You have the words of eternal life"
-- **Judas** -- Identified proleptically as a betrayer, even as the others remain
-- **The Pharisees and scribes** -- Challengers of Jesus on purity laws and tradition
-- **The Syrophoenician/Canaanite woman** -- A Gentile whose faith persists despite apparent rebuff
-- **Herod Antipas** -- The ruler who executes John the Baptist under political pressure
-- **Herodias and her daughter** -- Instigators of John's beheading
+
+- **[Jesus](/characters/jesus/)** -- The bread of life who feeds, heals, and reveals his divine identity.
+- **[The Twelve](/characters/the-twelve/)** -- Confronted with the cost of following a Messiah who defies expectations.
+- **[Peter](/characters/peter/)** -- Spokesperson who declares, "Lord, to whom shall we go? You have the words of eternal life."
+- **[Judas](/characters/judas-iscariot/)** -- Identified proleptically as a betrayer, even as the others remain.
+- **[The Pharisees and scribes](/characters/pharisees/)** -- Challengers of Jesus on purity laws and tradition.
+- **[The Syrophoenician/Canaanite woman](/characters/syrophoenician-woman/)** -- A Gentile whose faith persists despite apparent rebuff.
+- **[Herod Antipas](/characters/herod-antipas/)** -- The ruler who executes John the Baptist under political pressure.
+- **[Herodias and her daughter](/characters/herodias/)** -- Instigators of John's beheading.
 
 ## Key Locations
 

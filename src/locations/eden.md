@@ -2,7 +2,7 @@
 layout: page
 title: Eden
 location_type: symbolic
-blurb: The garden where the story began — the backdrop for Paul's Adam-and-Christ theology.
+blurb: The garden where the story began -- the backdrop for Paul's Adam-and-Christ theology.
 ---
 
 <figure class="location-figure">

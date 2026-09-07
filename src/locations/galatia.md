@@ -2,7 +2,7 @@
 layout: page
 title: Galatia
 location_type: geographic
-blurb: The Anatolian province whose churches — Antioch, Iconium, Lystra, Derbe — received Paul's fieriest letter.
+blurb: The Anatolian province whose churches -- Antioch, Iconium, Lystra, Derbe -- received Paul's fieriest letter.
 map_region: mediterranean
 map_feature: galatia
 map_label: Galatia

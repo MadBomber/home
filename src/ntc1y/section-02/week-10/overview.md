@@ -33,13 +33,14 @@ The Transfiguration, which follows six days later, provides divine confirmation 
 | 5 | Mark 9:30-50  | [Second Passion Prediction, Who Is Greatest, Salt](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- The Christ who redefines messiahship through suffering
-- **Peter** -- The disciple who confesses rightly but understands wrongly, blessed and rebuked in the same conversation
-- **James and John** -- Inner-circle witnesses of the Transfiguration
-- **Moses** -- Representative of the Law, appearing at the Transfiguration
-- **Elijah** -- Representative of the Prophets, appearing at the Transfiguration
-- **The father of the epileptic boy** -- A man whose desperate cry "I believe; help my unbelief!" captures the reality of imperfect faith
-- **The Twelve** -- Disciples who argue about greatness while Jesus speaks of death
+
+- **[Jesus](/characters/jesus/)** -- The Christ who redefines messiahship through suffering.
+- **[Peter](/characters/peter/)** -- The disciple who confesses rightly but understands wrongly, blessed and rebuked in the same conversation.
+- **[James](/characters/james/) and [John](/characters/john/)** -- Inner-circle witnesses of the Transfiguration.
+- **[Moses](/characters/moses/)** -- Representative of the Law, appearing at the Transfiguration.
+- **[Elijah](/characters/elijah/)** -- Representative of the Prophets, appearing at the Transfiguration.
+- **[The father of the epileptic boy](/characters/father-of-the-epileptic-boy/)** -- A man whose desperate cry "I believe; help my unbelief!" captures the reality of imperfect faith.
+- **[The Twelve](/characters/the-twelve/)** -- Disciples who argue about greatness while Jesus speaks of death.
 
 ## Key Locations
 

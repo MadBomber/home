@@ -1,0 +1,30 @@
+---
+layout: page
+title: Key Characters
+---
+
+<!-- Index of all character pages: anything under /characters/ except this
+     index itself. Titles and blurbs come from each page's front matter. -->
+
+<p>
+  Every week's overview lists the key characters for that week's readings. The
+  pages gathered here go deeper: who each person was, what Scripture records of
+  them, artwork from the church's long tradition of picturing them -- always an
+  artist's interpretation, never a photograph -- and links to the places where
+  their stories unfolded.
+</p>
+
+<%
+  chars = site.collections.pages.resources
+              .select { |r| r.relative_url.start_with?("/characters/") && r.relative_url != "/characters/" }
+              .sort_by { |r| r.data.title.to_s.sub(/\AThe /, "") }
+%>
+
+<ul class="location-index">
+  <% chars.each do |ch| %>
+    <li>
+      <a href="<%= relative_url ch.relative_url %>"><strong><%= ch.data.title %></strong></a>
+      <% if ch.data.blurb %><span class="location-index-blurb"><%= ch.data.blurb %></span><% end %>
+    </li>
+  <% end %>
+</ul>

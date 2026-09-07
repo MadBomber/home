@@ -2,7 +2,7 @@
 layout: page
 title: Asia Minor
 location_type: geographic
-blurb: The peninsula of modern Turkey — Paul's mission field, Peter's readers, and the seven churches of Revelation.
+blurb: The peninsula of modern Turkey -- Paul's mission field, Peter's readers, and the seven churches of Revelation.
 map_region: mediterranean
 map_feature: asia-minor
 map_label: Asia Minor

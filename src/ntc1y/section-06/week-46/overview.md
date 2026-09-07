@@ -41,12 +41,13 @@ These five chapters are not merely academic theology. They are pastoral pleading
 | 5 | Hebrews 7  | [Melchizedek and the Permanent Priesthood](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- Greater than Moses, greater than Joshua, high priest after the order of Melchizedek, source of eternal salvation
-- **Moses** -- The faithful servant in God's house, surpassed by the Son who built the house
-- **Joshua** -- The successor to Moses who led Israel into Canaan but could not provide true rest
-- **Aaron** -- The first Levitical high priest, representing the priesthood Jesus supersedes
-- **Melchizedek** -- The mysterious priest-king of Salem from Genesis 14, prototype of Christ's eternal priesthood
-- **Abraham** -- The patriarch who received God's oath and paid tithes to Melchizedek
+
+- **[Jesus](/characters/jesus/)** -- Greater than Moses, greater than Joshua, high priest after the order of Melchizedek, source of eternal salvation.
+- **[Moses](/characters/moses/)** -- The faithful servant in God's house, surpassed by the Son who built the house.
+- **[Joshua](/locations/canaan/)** -- The successor to Moses who led Israel into Canaan but could not provide true rest.
+- **[Aaron](/characters/moses/)** -- The first Levitical high priest, representing the priesthood Jesus supersedes.
+- **[Melchizedek](/characters/melchizedek/)** -- The mysterious priest-king of Salem from Genesis 14, prototype of Christ's eternal priesthood.
+- **[Abraham](/characters/abraham/)** -- The patriarch who received God's oath and paid tithes to Melchizedek.
 
 ## Key Locations
 

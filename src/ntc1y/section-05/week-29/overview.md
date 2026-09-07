@@ -37,12 +37,13 @@ The opening chapters of 1 Corinthians (1-4) lay the theological foundation for e
 | 5 | 1 Corinthians 4  | [Servants of Christ, Fools for Christ, Kingdom of Power](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle ministering in Ephesus and writing to Corinth to address divisions and confusion
-- **Apollos** -- Gifted teacher whose work in Corinth inadvertently became a rallying point for factions
-- **Cephas (Peter)** -- Another figure around whom Corinthian factions have formed
-- **Chloe's people** -- Messengers from Corinth who report the divisions to Paul
-- **Sons of Sceva** -- Jewish exorcists whose failed attempt to invoke Jesus' name exposes the difference between genuine faith and magical manipulation
-- **Demetrius** -- Silversmith in Ephesus who incites a riot to protect his trade in Artemis shrines
+
+- **[Paul](/characters/paul/)** -- Apostle ministering in Ephesus and writing to Corinth to address divisions and confusion.
+- **[Apollos](/characters/apollos/)** -- Gifted teacher whose work in Corinth inadvertently became a rallying point for factions.
+- **[Cephas (Peter)](/characters/peter/)** -- Another figure around whom Corinthian factions have formed.
+- **Chloe's people** -- Messengers from Corinth who report the divisions to Paul.
+- **Sons of Sceva** -- Jewish exorcists whose failed attempt to invoke Jesus' name exposes the difference between genuine faith and magical manipulation.
+- **[Demetrius](/characters/demetrius/)** -- Silversmith in Ephesus who incites a riot to protect his trade in Artemis shrines.
 
 ## Key Locations
 

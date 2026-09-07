@@ -36,10 +36,11 @@ Romans 1-4 constitutes the first major section of the letter, and its argument i
 | 5 | Romans 4  | [Abraham Justified by Faith, Promise Through Faith to All](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle writing from Corinth to introduce himself and his gospel to the Roman church he has never visited
-- **Abraham** -- The father of Israel whose justification by faith (Genesis 15:6) provides the paradigm for all believers
-- **David** -- Cited as a second witness to justification apart from works (Psalm 32:1-2)
-- **Paul's travel companions** -- Sopater, Aristarchus, Secundus, Gaius, Timothy, Tychicus, and Trophimus, representing the Gentile churches
+
+- **[Paul](/characters/paul/)** -- Apostle writing from Corinth to introduce himself and his gospel to the Roman church he has never visited.
+- **[Abraham](/characters/abraham/)** -- The father of Israel whose justification by faith (Genesis 15:6) provides the paradigm for all believers.
+- **[David](/characters/david/)** -- Cited as a second witness to justification apart from works (Psalm 32:1-2).
+- **Paul's travel companions** -- Sopater, Aristarchus, Secundus, Gaius, Timothy, Tychicus, and Trophimus, representing the Gentile churches.
 
 ## Key Locations
 

@@ -35,15 +35,16 @@ The week concludes in two of the great intellectual centers of the ancient world
 | 5 | Acts 17:16-34  | [Athens -- Paul Distressed by Idols, Areopagus Speech, "Unknown God", Some Believe](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle to the Gentiles, now embarking on his second missionary journey with the Jerusalem Council's endorsement
-- **Barnabas** -- Paul's former partner, who parts ways over the question of taking John Mark
-- **Silas (Silvanus)** -- Paul's new traveling companion, a prophet and Roman citizen from the Jerusalem church
-- **Timothy** -- A young disciple from Lystra with a Jewish mother and Greek father, who becomes Paul's protege
-- **James** -- The Lord's brother, who presides over the Jerusalem Council and renders its final judgment
-- **Peter** -- Whose testimony about the Cornelius episode provides decisive evidence at the council
-- **Lydia** -- A dealer in purple cloth from Thyatira, the first European convert
-- **The Philippian Jailer** -- A Roman official who converts with his household after an earthquake
-- **Jason** -- Paul's host in Thessalonica, who is dragged before the city authorities
+
+- **[Paul](/characters/paul/)** -- Apostle to the Gentiles, now embarking on his second missionary journey with the Jerusalem Council's endorsement.
+- **[Barnabas](/characters/barnabas/)** -- Paul's former partner, who parts ways over the question of taking John Mark.
+- **[Silas (Silvanus)](/characters/silas/)** -- Paul's new traveling companion, a prophet and Roman citizen from the Jerusalem church.
+- **[Timothy](/characters/timothy/)** -- A young disciple from Lystra with a Jewish mother and Greek father, who becomes Paul's protege.
+- **[James](/characters/james-brother-of-jesus/)** -- The Lord's brother, who presides over the Jerusalem Council and renders its final judgment.
+- **[Peter](/characters/peter/)** -- Whose testimony about the Cornelius episode provides decisive evidence at the council.
+- **[Lydia](/characters/lydia/)** -- A dealer in purple cloth from Thyatira, the first European convert.
+- **[The Philippian Jailer](/characters/philippian-jailer/)** -- A Roman official who converts with his household after an earthquake.
+- **Jason** -- Paul's host in Thessalonica, who is dragged before the city authorities.
 
 ## Key Locations
 

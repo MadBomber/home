@@ -39,14 +39,14 @@ Matthew adds his own essential perspective, tracing Jesus' lineage through the r
 
 ## Key Characters This Week
 
-- **The Word (Logos)** -- The pre-existent second person of the Trinity, the agent of all creation, who becomes flesh in Jesus of Nazareth.
-- **John the Baptist** -- Introduced in John's prologue as a witness to the light; his birth story is told in Luke 1.
-- **Zechariah** -- An elderly priest of the division of Abijah, husband of Elizabeth, father of John the Baptist.
-- **Elizabeth** -- A descendant of Aaron, barren in old age, who miraculously conceives John the Baptist.
-- **Mary** -- A young virgin from Nazareth, betrothed to Joseph, chosen to bear the Messiah.
-- **Joseph** -- A righteous man of the house of David, who obeys God's command to take Mary as his wife.
-- **Gabriel** -- The angel who delivers God's announcements to both Zechariah and Mary.
-- **The Shepherds** -- The first to receive the news of Jesus' birth, representing the humble and marginalized.
+- **[The Word (Logos)](/characters/jesus/)** -- The pre-existent second person of the Trinity, the agent of all creation, who becomes flesh in Jesus of Nazareth.
+- **[John the Baptist](/characters/john-the-baptist/)** -- Introduced in John's prologue as a witness to the light; his birth story is told in Luke 1.
+- **[Zechariah](/characters/zechariah/)** -- An elderly priest of the division of Abijah, husband of Elizabeth, father of John the Baptist.
+- **[Elizabeth](/characters/elizabeth/)** -- A descendant of Aaron, barren in old age, who miraculously conceives John the Baptist.
+- **[Mary](/characters/mary/)** -- A young virgin from Nazareth, betrothed to Joseph, chosen to bear the Messiah.
+- **[Joseph](/characters/joseph/)** -- A righteous man of the house of David, who obeys God's command to take Mary as his wife.
+- **[Gabriel](/characters/gabriel/)** -- The angel who delivers God's announcements to both Zechariah and Mary.
+- **[The Shepherds](/characters/shepherds/)** -- The first to receive the news of Jesus' birth, representing the humble and marginalized.
 
 ## Key Locations
 

@@ -34,11 +34,12 @@ This week we encounter Paul at his most direct and his most pastoral. In chapter
 | 5 | 1 Corinthians 9  | [Paul's Rights as an Apostle, "I Become All Things to All People"](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle and church planter writing from Ephesus to address urgent pastoral crises
-- **The immoral brother** -- Unnamed man living in sexual immorality with his father's wife
-- **Chloe's people** -- Members of Chloe's household who reported the Corinthian problems to Paul
-- **Apollos** -- Alexandrian teacher whose eloquence attracted a faction in Corinth
-- **Barnabas** -- Mentioned alongside Paul as an apostle who worked for a living
+
+- **[Paul](/characters/paul/)** -- Apostle and church planter writing from Ephesus to address urgent pastoral crises.
+- **The immoral brother** -- Unnamed man living in sexual immorality with his father's wife.
+- **Chloe's people** -- Members of Chloe's household who reported the Corinthian problems to Paul.
+- **[Apollos](/characters/apollos/)** -- Alexandrian teacher whose eloquence attracted a faction in Corinth.
+- **[Barnabas](/characters/barnabas/)** -- Mentioned alongside Paul as an apostle who worked for a living.
 
 ## Key Locations
 

@@ -38,10 +38,11 @@ Yet these letters do not end in despair. Second Peter closes with the breathtaki
 | 5 | Jude  | [Contending for the Faith, False Teachers Condemned, The Great Doxology](../day-5/) |
 
 ## Key Characters
-- **Peter** -- Apostle, eyewitness of Christ's transfiguration, writing near the end of his life (c. 64-67 AD)
-- **Jude** -- Brother of James and half-brother of Jesus, a leader in the early church who identifies himself humbly as "a servant of Jesus Christ"
-- **Balaam** -- The Old Testament prophet-for-hire, cited in both letters as a type of the false teacher who corrupts God's people for profit
-- **Michael the Archangel** -- Referenced in Jude's account of the dispute over Moses' body, modeling restraint even against the devil
+
+- **[Peter](/characters/peter/)** -- Apostle, eyewitness of Christ's transfiguration, writing near the end of his life (c. 64-67 AD).
+- **[Jude](/characters/jude/)** -- Brother of James and half-brother of Jesus, a leader in the early church who identifies himself humbly as "a servant of Jesus Christ."
+- **[Balaam](/characters/balaam/)** -- The Old Testament prophet-for-hire, cited in both letters as a type of the false teacher who corrupts God's people for profit.
+- **[Michael the Archangel](/characters/michael/)** -- Referenced in Jude's account of the dispute over Moses' body, modeling restraint even against the devil.
 
 ## Key Locations
 

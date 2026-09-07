@@ -31,10 +31,11 @@ The Pastoral Epistles occupy a unique place in the Pauline corpus. While letters
 | 5 | 1 Timothy 5  | [Treat Church as Family, Widows' List, Elders Deserve Double Honor](../day-5/) |
 
 ## Key Characters
-- **Paul** — Apostle, writing between his first and second Roman imprisonments (~62-67 AD)
-- **Timothy** — Paul's "true son in the faith," apostolic delegate in Ephesus, young leader with a Jewish mother and Greek father
-- **Hymenaeus and Alexander** — False teachers Paul has "handed over to Satan" as discipline
-- **Ephesian false teachers** — Promoting myths, genealogies, and speculative teachings
+
+- **[Paul](/characters/paul/)** -- Apostle, writing between his first and second Roman imprisonments (~62-67 AD).
+- **[Timothy](/characters/timothy/)** -- Paul's "true son in the faith," apostolic delegate in Ephesus, young leader with a Jewish mother and Greek father.
+- **Hymenaeus and Alexander** -- False teachers Paul has "handed over to Satan" as discipline.
+- **Ephesian false teachers** -- Promoting myths, genealogies, and speculative teachings.
 
 ## Key Locations
 

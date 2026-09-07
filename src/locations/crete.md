@@ -2,7 +2,7 @@
 layout: page
 title: Crete
 location_type: geographic
-blurb: The great island of Fair Havens and the storm — and of Titus' hard assignment.
+blurb: The great island of Fair Havens and the storm -- and of Titus' hard assignment.
 map_region: mediterranean
 map_lat: 35.240
 map_lon: 24.900

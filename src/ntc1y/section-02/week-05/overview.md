@@ -41,10 +41,10 @@ Binding these readings together is the theme of authority. In Mark 3, Jesus demo
 
 ## Key Characters This Week
 
-- **The Twelve Apostles** -- Formally appointed by Jesus in Mark 3: Simon Peter, James son of Zebedee, John son of Zebedee, Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot.
+- **[The Twelve Apostles](/characters/the-twelve/)** -- Formally appointed by Jesus in Mark 3: Simon Peter, James son of Zebedee, John son of Zebedee, Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot.
 - **The Crowds** -- Large gatherings from Galilee, Judea, Jerusalem, Idumea, beyond the Jordan, and the region of Tyre and Sidon who come to hear Jesus teach and to be healed.
-- **The Scribes and Pharisees** -- Religious leaders who accuse Jesus of casting out demons by the power of Beelzebul, representing the growing opposition to his ministry.
-- **Jesus' Family** -- His mother and brothers who come seeking him, prompting his redefinition of family around obedience to God's will.
+- **[The Scribes and Pharisees](/characters/pharisees/)** -- Religious leaders who accuse Jesus of casting out demons by the power of Beelzebul, representing the growing opposition to his ministry.
+- **[Jesus' Family](/characters/family-of-jesus/)** -- His mother and brothers who come seeking him, prompting his redefinition of family around obedience to God's will.
 
 ## Key Locations
 

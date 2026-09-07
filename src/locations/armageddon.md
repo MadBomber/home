@@ -2,7 +2,7 @@
 layout: page
 title: Armageddon
 location_type: geographic
-blurb: Har-Magedon, the "mount of Megiddo" — an ancient battlefield lending its name to the last battle.
+blurb: Har-Magedon, the "mount of Megiddo" -- an ancient battlefield lending its name to the last battle.
 map_lat: 32.585
 map_lon: 35.184
 map_label: Megiddo

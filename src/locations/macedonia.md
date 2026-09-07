@@ -2,7 +2,7 @@
 layout: page
 title: Macedonia
 location_type: geographic
-blurb: The northern Greek province — Philippi, Thessalonica, Berea — famous for generosity out of poverty.
+blurb: The northern Greek province -- Philippi, Thessalonica, Berea -- famous for generosity out of poverty.
 map_region: mediterranean
 map_feature: macedonia
 map_label: Macedonia

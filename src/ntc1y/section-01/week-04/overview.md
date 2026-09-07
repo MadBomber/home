@@ -41,11 +41,11 @@ This week bridges section 1 and section 2 of our study. The coming of Christ -- 
 
 ## Key Characters This Week
 
-- **Simon Peter** -- A Galilean fisherman from Bethsaida, later based in Capernaum, who becomes the first called disciple and the leader of the Twelve. His impulsive faith and human frailty make him one of the most vivid personalities in the Gospels.
-- **Andrew** -- Simon Peter's brother, also a fisherman, who in John's account was first a disciple of John the Baptist before following Jesus. He is consistently portrayed as the one who brings others to Jesus.
-- **James and John (Sons of Zebedee)** -- Partners in the fishing business with Simon and Andrew. Jesus will later name them *Boanerges*, "Sons of Thunder," suggesting passionate temperaments. They form, with Peter, the inner circle of the Twelve.
-- **Levi/Matthew** -- A tax collector sitting at his booth in Capernaum, called to follow Jesus in a scene that scandalizes the Pharisees. He represents the social outcasts whom Jesus deliberately seeks out.
-- **The Paralytic's Friends** -- Four unnamed men whose determination to bring their paralyzed friend to Jesus leads them to dig through a roof. Their faith becomes the occasion for Jesus' most provocative claim yet: the authority to forgive sins.
+- **[Simon Peter](/characters/peter/)** -- A Galilean fisherman from Bethsaida, later based in Capernaum, who becomes the first called disciple and the leader of the Twelve. His impulsive faith and human frailty make him one of the most vivid personalities in the Gospels.
+- **[Andrew](/characters/andrew/)** -- Simon Peter's brother, also a fisherman, who in John's account was first a disciple of John the Baptist before following Jesus. He is consistently portrayed as the one who brings others to Jesus.
+- **[James](/characters/james/) and [John](/characters/john/) (Sons of Zebedee)** -- Partners in the fishing business with Simon and Andrew. Jesus will later name them *Boanerges*, "Sons of Thunder," suggesting passionate temperaments. They form, with Peter, the inner circle of the Twelve.
+- **[Levi/Matthew](/characters/levi-matthew/)** -- A tax collector sitting at his booth in Capernaum, called to follow Jesus in a scene that scandalizes the Pharisees. He represents the social outcasts whom Jesus deliberately seeks out.
+- **[The Paralytic's Friends](/characters/paralytics-friends/)** -- Four unnamed men whose determination to bring their paralyzed friend to Jesus leads them to dig through a roof. Their faith becomes the occasion for Jesus' most provocative claim yet: the authority to forgive sins.
 
 ## Key Locations
 

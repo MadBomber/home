@@ -36,13 +36,14 @@ Then comes the sea. Luke's account of the voyage to Rome in Acts 27 is the most 
 | 5 | Acts 27  | [Voyage to Rome, Storm at Sea, Shipwreck on Malta](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle and Roman citizen, navigating the legal system with theological brilliance and unshakable trust in God's promise
-- **Claudius Lysias** -- Roman tribune in Jerusalem who rescues Paul and transfers him to Caesarea
-- **Felix** -- Roman governor of Judea (52-59 AD), notoriously corrupt, who kept Paul imprisoned hoping for a bribe
-- **Festus** -- Felix's successor, who inherited Paul's case and was bewildered by the theological charges
-- **King Agrippa II** -- The last of the Herodian dynasty, knowledgeable in Jewish law, who heard Paul's defense
-- **Bernice** -- Agrippa's sister, present at the hearing, a figure of considerable political influence
-- **Julius** -- The Roman centurion of the Augustan Cohort who treated Paul kindly during the voyage
+
+- **[Paul](/characters/paul/)** -- Apostle and Roman citizen, navigating the legal system with theological brilliance and unshakable trust in God's promise.
+- **[Claudius Lysias](/characters/claudius-lysias/)** -- Roman tribune in Jerusalem who rescues Paul and transfers him to Caesarea.
+- **[Felix](/characters/felix/)** -- Roman governor of Judea (52-59 AD), notoriously corrupt, who kept Paul imprisoned hoping for a bribe.
+- **[Festus](/characters/festus/)** -- Felix's successor, who inherited Paul's case and was bewildered by the theological charges.
+- **[King Agrippa II](/characters/agrippa-ii/)** -- The last of the Herodian dynasty, knowledgeable in Jewish law, who heard Paul's defense.
+- **[Bernice](/characters/agrippa-ii/)** -- Agrippa's sister, present at the hearing, a figure of considerable political influence.
+- **[Julius](/characters/julius/)** -- The Roman centurion of the Augustan Cohort who treated Paul kindly during the voyage.
 
 ## Key Locations
 

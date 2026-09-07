@@ -5,7 +5,7 @@ location_type: geographic
 blurb: The desert road toward Gaza where Philip baptized the Ethiopian eunuch.
 map_feature: gaza-road
 map_label: Gaza road
-map_alt: "Map showing the road running southwest from Jerusalem down toward Gaza on the coast — the desert route of Acts 8."
+map_alt: "Map showing the road running southwest from Jerusalem down toward Gaza on the coast -- the desert route of Acts 8."
 ---
 
 <figure class="location-figure">

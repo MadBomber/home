@@ -35,10 +35,11 @@ The transition from Hebrews 13 to 1 Peter is thematically seamless. Hebrews clos
 | 5 | 1 Peter 4  | [Live for God Not Human Desires, Suffering as a Christian, Fiery Ordeal](../day-5/) |
 
 ## Key Characters
-- **Peter** -- Apostle, eyewitness of Christ, writing from Rome near the end of his life (c. 62-64 AD)
-- **Silvanus (Silas)** -- Peter's amanuensis (secretary), who helped compose the letter (1 Peter 5:12)
-- **Mark** -- John Mark, whom Peter calls "my son," likely present in Rome (1 Peter 5:13)
-- **The author of Hebrews** -- Unknown writer concluding with pastoral exhortations and greetings mentioning Timothy
+
+- **[Peter](/characters/peter/)** -- Apostle, eyewitness of Christ, writing from Rome near the end of his life (c. 62-64 AD).
+- **[Silvanus (Silas)](/characters/silas/)** -- Peter's amanuensis (secretary), who helped compose the letter (1 Peter 5:12).
+- **[Mark](/characters/john-mark/)** -- John Mark, whom Peter calls "my son," likely present in Rome (1 Peter 5:13).
+- **The author of Hebrews** -- Unknown writer concluding with pastoral exhortations and greetings mentioning Timothy.
 
 ## Key Locations
 

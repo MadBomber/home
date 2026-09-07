@@ -35,12 +35,13 @@ The thread connecting these diverse chapters is hope -- the certain hope of bodi
 | 5 | 2 Corinthians 3  | [Ministers of New Covenant, Unveiled Faces Reflecting Glory](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle writing from Ephesus (1 Cor) and later from Macedonia (2 Cor), deeply vulnerable about his sufferings
-- **Cephas (Peter)** -- Listed among the eyewitnesses of the risen Christ in the creedal formula
-- **James** -- The Lord's brother, also an eyewitness of the resurrection
-- **The five hundred** -- A large group who saw the risen Christ, most of whom were still alive when Paul wrote
-- **Titus** -- Paul's trusted emissary who carried the "severe letter" to Corinth and brought back good news
-- **Moses** -- Whose veiled face provides the typological basis for Paul's new covenant theology
+
+- **[Paul](/characters/paul/)** -- Apostle writing from Ephesus (1 Cor) and later from Macedonia (2 Cor), deeply vulnerable about his sufferings.
+- **[Cephas (Peter)](/characters/peter/)** -- Listed among the eyewitnesses of the risen Christ in the creedal formula.
+- **[James](/characters/james-brother-of-jesus/)** -- The Lord's brother, also an eyewitness of the resurrection.
+- **The five hundred** -- A large group who saw the risen Christ, most of whom were still alive when Paul wrote.
+- **[Titus](/characters/titus/)** -- Paul's trusted emissary who carried the "severe letter" to Corinth and brought back good news.
+- **[Moses](/characters/moses/)** -- Whose veiled face provides the typological basis for Paul's new covenant theology.
 
 ## Key Locations
 

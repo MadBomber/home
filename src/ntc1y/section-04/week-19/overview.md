@@ -42,15 +42,15 @@ Together, these two accounts form a breathtaking composite. We see the full huma
 
 ## Key Characters This Week
 
-- **Jesus** -- The sinless Son of God who willingly submits to arrest, unjust trials, and crucifixion, fulfilling the Father's plan of redemption while demonstrating sovereign composure and boundless mercy.
-- **Peter** -- The most vocal of the disciples, who follows Jesus to the high priest's courtyard only to deny him three times, exactly as Jesus predicted.
-- **Pontius Pilate** -- The Roman governor who finds no guilt in Jesus yet lacks the moral courage to release him, choosing political expediency over justice.
-- **Herod Antipas** -- The tetrarch of Galilee who treats Jesus as entertainment, hoping to see a miracle, then mocks him and sends him back to Pilate.
-- **Barabbas** -- An insurrectionist and murderer released in place of Jesus, a living picture of substitutionary atonement.
-- **Simon of Cyrene** -- Compelled by Roman soldiers to carry Jesus' cross, a witness conscripted into the Passion narrative.
-- **Joseph of Arimathea** -- A wealthy member of the Sanhedrin who requests Jesus' body and provides his own new tomb for the burial.
-- **Nicodemus** -- Mentioned in John's account, he brings seventy-five pounds of burial spices, finally stepping out of the shadows to honor Jesus publicly.
-- **Mary, Mother of Jesus** -- Standing at the foot of the cross in John's account, entrusted by Jesus to the care of the beloved disciple.
+- **[Jesus](/characters/jesus/)** -- The sinless Son of God who willingly submits to arrest, unjust trials, and crucifixion, fulfilling the Father's plan of redemption while demonstrating sovereign composure and boundless mercy.
+- **[Peter](/characters/peter/)** -- The most vocal of the disciples, who follows Jesus to the high priest's courtyard only to deny him three times, exactly as Jesus predicted.
+- **[Pontius Pilate](/characters/pilate/)** -- The Roman governor who finds no guilt in Jesus yet lacks the moral courage to release him, choosing political expediency over justice.
+- **[Herod Antipas](/characters/herod-antipas/)** -- The tetrarch of Galilee who treats Jesus as entertainment, hoping to see a miracle, then mocks him and sends him back to Pilate.
+- **[Barabbas](/characters/barabbas/)** -- An insurrectionist and murderer released in place of Jesus, a living picture of substitutionary atonement.
+- **[Simon of Cyrene](/characters/simon-of-cyrene/)** -- Compelled by Roman soldiers to carry Jesus' cross, a witness conscripted into the Passion narrative.
+- **[Joseph of Arimathea](/characters/joseph-of-arimathea/)** -- A wealthy member of the Sanhedrin who requests Jesus' body and provides his own new tomb for the burial.
+- **[Nicodemus](/characters/nicodemus/)** -- Mentioned in John's account, he brings seventy-five pounds of burial spices, finally stepping out of the shadows to honor Jesus publicly.
+- **[Mary, Mother of Jesus](/characters/mary/)** -- Standing at the foot of the cross in John's account, entrusted by Jesus to the care of the beloved disciple.
 
 ## Key Locations
 

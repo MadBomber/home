@@ -33,12 +33,13 @@ By the end of the week, we encounter the full spectrum of responses to Jesus: th
 | 5 | Luke 8  | [Women Followers, Parable of Sower, Storm Stilled, Legion, Jairus' Daughter](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- Teacher and miracle-worker whose methods shift in response to growing opposition
-- **John the Baptist** -- Imprisoned prophet wrestling with doubts about Jesus' identity
-- **The Pharisees** -- Religious leaders whose opposition escalates to accusations of demonic alliance
-- **The Twelve** -- Disciples who receive private explanations of the parables
-- **Women followers** -- Mary Magdalene, Joanna, Susanna, and others who financially support the ministry
-- **Jairus** -- Synagogue ruler whose daughter Jesus raises from death
+
+- **[Jesus](/characters/jesus/)** -- Teacher and miracle-worker whose methods shift in response to growing opposition.
+- **[John the Baptist](/characters/john-the-baptist/)** -- Imprisoned prophet wrestling with doubts about Jesus' identity.
+- **[The Pharisees](/characters/pharisees/)** -- Religious leaders whose opposition escalates to accusations of demonic alliance.
+- **[The Twelve](/characters/the-twelve/)** -- Disciples who receive private explanations of the parables.
+- **[Women followers](/characters/mary-magdalene/)** -- Mary Magdalene, Joanna, Susanna, and others who financially support the ministry.
+- **[Jairus](/characters/jairus/)** -- Synagogue ruler whose daughter Jesus raises from death.
 
 ## Key Locations
 

@@ -35,12 +35,13 @@ The scattering that follows Stephen's death is one of the great ironies of redem
 | 5 | James 2  | [No Favoritism, Faith Without Works Is Dead, Abraham & Rahab](../day-5/) |
 
 ## Key Characters
-- **Stephen** -- One of the seven deacons, the first Christian martyr, whose speech reinterprets Israel's history
-- **Philip** -- Another of the seven, who becomes the first evangelist to Samaria and to an African court official
-- **Saul of Tarsus** -- Introduced as a zealous persecutor who approves Stephen's execution
-- **Simon the Sorcerer** -- A Samaritan magician whose response to the gospel reveals mixed motives
-- **The Ethiopian Eunuch** -- A court official from the kingdom of Meroe who encounters the gospel through Isaiah 53
-- **James** -- The half-brother of Jesus and leader of the Jerusalem church, author of the letter
+
+- **[Stephen](/characters/stephen/)** -- One of the seven deacons, the first Christian martyr, whose speech reinterprets Israel's history.
+- **[Philip](/characters/philip-the-evangelist/)** -- Another of the seven, who becomes the first evangelist to Samaria and to an African court official.
+- **[Saul of Tarsus](/characters/paul/)** -- Introduced as a zealous persecutor who approves Stephen's execution.
+- **[Simon the Sorcerer](/characters/simon-the-sorcerer/)** -- A Samaritan magician whose response to the gospel reveals mixed motives.
+- **[The Ethiopian Eunuch](/characters/ethiopian-eunuch/)** -- A court official from the kingdom of Meroe who encounters the gospel through Isaiah 53.
+- **[James](/characters/james-brother-of-jesus/)** -- The half-brother of Jesus and leader of the Jerusalem church, author of the letter.
 
 ## Key Locations
 

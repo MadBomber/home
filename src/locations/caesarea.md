@@ -2,11 +2,11 @@
 layout: page
 title: Caesarea Maritima
 location_type: geographic
-blurb: Herod's harbor city, Rome's capital in Judea — home of Cornelius, Philip, and Paul's two-year imprisonment.
+blurb: Herod's harbor city, Rome's capital in Judea -- home of Cornelius, Philip, and Paul's two-year imprisonment.
 map_lat: 32.500
 map_lon: 34.892
 map_label: Caesarea
-map_alt: "Map marking Caesarea Maritima on the Mediterranean coast, northwest of Jerusalem — the Roman administrative capital of Judea."
+map_alt: "Map marking Caesarea Maritima on the Mediterranean coast, northwest of Jerusalem -- the Roman administrative capital of Judea."
 ---
 
 <figure class="location-figure">

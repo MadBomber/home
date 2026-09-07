@@ -36,11 +36,12 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 | 5 | Romans 14  | [Don't Judge on Disputable Matters, Don't Cause Stumbling](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle whose heart's desire is Israel's salvation, now also laying out the ethical vision of the gospel
-- **Israel** -- The covenant people who have stumbled over Christ but whom God has not abandoned
-- **The remnant** -- The Jewish believers who, like Paul, have embraced Christ and demonstrate that God's promises have not failed
-- **Elijah** -- Prophet who despaired that he was alone, to whom God revealed the seven thousand faithful
-- **The "strong" and the "weak"** -- Believers in Rome who differ on food and holy days, representing Jewish and Gentile sensibilities
+
+- **[Paul](/characters/paul/)** -- Apostle whose heart's desire is Israel's salvation, now also laying out the ethical vision of the gospel.
+- **[Israel](/locations/olive-tree/)** -- The covenant people who have stumbled over Christ but whom God has not abandoned.
+- **The remnant** -- The Jewish believers who, like Paul, have embraced Christ and demonstrate that God's promises have not failed.
+- **[Elijah](/characters/elijah/)** -- Prophet who despaired that he was alone, to whom God revealed the seven thousand faithful.
+- **The "strong" and the "weak"** -- Believers in Rome who differ on food and holy days, representing Jewish and Gentile sensibilities.
 
 ## Key Locations
 

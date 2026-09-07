@@ -34,13 +34,14 @@ The Farewell Discourse also introduces the Paraclete -- the Holy Spirit whom the
 | 5 | John 16  | [The Spirit's Work, Grief Will Turn to Joy, "I Have Overcome the World"](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- Host of the final Passover meal who transforms a farewell into a foundation for the new covenant
-- **Peter** -- Impulsive disciple whose denial is foretold even as Jesus prays for his restoration
-- **Judas Iscariot** -- The betrayer who departs into the night after receiving the morsel
-- **The Twelve** -- Disciples who dispute about greatness even at this solemn hour
-- **The Holy Spirit (Paraclete)** -- The promised Advocate who will continue Jesus' work after his departure
-- **Thomas** -- The questioner whose honest doubt elicits "I am the way, the truth, and the life"
-- **Philip** -- The disciple whose request to see the Father reveals how much they still do not understand
+
+- **[Jesus](/characters/jesus/)** -- Host of the final Passover meal who transforms a farewell into a foundation for the new covenant.
+- **[Peter](/characters/peter/)** -- Impulsive disciple whose denial is foretold even as Jesus prays for his restoration.
+- **[Judas Iscariot](/characters/judas-iscariot/)** -- The betrayer who departs into the night after receiving the morsel.
+- **[The Twelve](/characters/the-twelve/)** -- Disciples who dispute about greatness even at this solemn hour.
+- **[The Holy Spirit (Paraclete)](/characters/holy-spirit/)** -- The promised Advocate who will continue Jesus' work after his departure.
+- **[Thomas](/characters/thomas/)** -- The questioner whose honest doubt elicits "I am the way, the truth, and the life."
+- **[Philip](/characters/philip/)** -- The disciple whose request to see the Father reveals how much they still do not understand.
 
 ## Key Locations
 

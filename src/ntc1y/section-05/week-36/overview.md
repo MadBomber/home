@@ -35,11 +35,12 @@ These five chapters form the theological backbone not only of Romans but of the 
 | 5 | Romans 9  | [God's Sovereign Choice, Potter and Clay, Israel's Rejection](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle writing from Corinth to the Roman churches, laying out the most systematic presentation of the gospel in all his letters
-- **Adam** -- The first man whose disobedience brought sin and death to all humanity, the antitype of Christ
-- **Christ** -- The second Adam whose obedience and sacrifice bring justification and life to all who believe
-- **Israel** -- God's covenant people whose rejection of the Messiah raises profound questions about God's faithfulness
-- **The Holy Spirit** -- The agent of the believer's new life, who intercedes with groanings too deep for words
+
+- **[Paul](/characters/paul/)** -- Apostle writing from Corinth to the Roman churches, laying out the most systematic presentation of the gospel in all his letters.
+- **[Adam](/characters/adam/)** -- The first man whose disobedience brought sin and death to all humanity, the antitype of Christ.
+- **[Christ](/characters/jesus/)** -- The second Adam whose obedience and sacrifice bring justification and life to all who believe.
+- **[Israel](/locations/olive-tree/)** -- God's covenant people whose rejection of the Messiah raises profound questions about God's faithfulness.
+- **[The Holy Spirit](/characters/holy-spirit/)** -- The agent of the believer's new life, who intercedes with groanings too deep for words.
 
 ## Key Locations
 

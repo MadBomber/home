@@ -38,10 +38,11 @@ Chapter 7 brings emotional resolution. The godly sorrow that Paul's tearful lett
 | 5 | 2 Corinthians 8  | [Macedonian Generosity, Grace of Giving, Jesus Became Poor](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle writing with raw vulnerability, defending his ministry through the lens of weakness
-- **Titus** -- Paul's trusted delegate who carried the tearful letter to Corinth and returned with good news
-- **The "super-apostles"** -- False teachers who challenged Paul's authority and impressed the Corinthians with polished rhetoric
-- **The Macedonian churches** -- Impoverished congregations (Philippi, Thessalonica, Berea) whose generosity shamed wealthier Corinth
+
+- **[Paul](/characters/paul/)** -- Apostle writing with raw vulnerability, defending his ministry through the lens of weakness.
+- **[Titus](/characters/titus/)** -- Paul's trusted delegate who carried the tearful letter to Corinth and returned with good news.
+- **The "super-apostles"** -- False teachers who challenged Paul's authority and impressed the Corinthians with polished rhetoric.
+- **[The Macedonian churches](/locations/macedonia/)** -- Impoverished congregations (Philippi, Thessalonica, Berea) whose generosity shamed wealthier Corinth.
 
 ## Key Locations
 

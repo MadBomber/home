@@ -41,12 +41,12 @@ The week culminates with Jesus sending out the Twelve on their first mission. Ha
 
 ## Key Characters This Week
 
-- **The Roman Centurion** -- A Gentile military officer whose understanding of authority leads to extraordinary faith that astonishes even Jesus. He recognizes that Jesus can heal with a word, just as a centurion commands soldiers with a word.
-- **The Widow of Nain** -- An unnamed woman in the midst of burying her only son, whom Jesus raises from the dead in an act of unsolicited compassion.
-- **John the Baptist (in prison)** -- Imprisoned by Herod Antipas, John sends disciples to ask whether Jesus is truly the expected Messiah, prompting one of Jesus' most revealing self-descriptions.
-- **Jairus** -- A synagogue ruler who falls at Jesus' feet begging him to heal his dying daughter, and whose faith is tested when the child dies before Jesus arrives.
-- **The Twelve Apostles** -- Now sent out on their first independent mission, carrying Jesus' authority to preach, heal, and cast out demons in the villages of Galilee.
-- **Matthew (Levi)** -- A tax collector called from his booth to follow Jesus, who then hosts a dinner party that scandalizes the Pharisees.
+- **[The Roman Centurion](/characters/centurion/)** -- A Gentile military officer whose understanding of authority leads to extraordinary faith that astonishes even Jesus. He recognizes that Jesus can heal with a word, just as a centurion commands soldiers with a word.
+- **[The Widow of Nain](/characters/widow-of-nain/)** -- An unnamed woman in the midst of burying her only son, whom Jesus raises from the dead in an act of unsolicited compassion.
+- **[John the Baptist (in prison)](/characters/john-the-baptist/)** -- Imprisoned by Herod Antipas, John sends disciples to ask whether Jesus is truly the expected Messiah, prompting one of Jesus' most revealing self-descriptions.
+- **[Jairus](/characters/jairus/)** -- A synagogue ruler who falls at Jesus' feet begging him to heal his dying daughter, and whose faith is tested when the child dies before Jesus arrives.
+- **[The Twelve Apostles](/characters/the-twelve/)** -- Now sent out on their first independent mission, carrying Jesus' authority to preach, heal, and cast out demons in the villages of Galilee.
+- **[Matthew (Levi)](/characters/levi-matthew/)** -- A tax collector called from his booth to follow Jesus, who then hosts a dinner party that scandalizes the Pharisees.
 
 ## Key Locations
 

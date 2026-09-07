@@ -2,7 +2,7 @@
 layout: page
 title: Babylon the Great
 location_type: symbolic
-blurb: Revelation's symbolic city — human power and luxury organized against God, destined to fall in a single hour.
+blurb: Revelation's symbolic city -- human power and luxury organized against God, destined to fall in a single hour.
 ---
 
 <figure class="location-figure">

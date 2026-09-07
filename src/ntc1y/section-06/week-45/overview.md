@@ -36,12 +36,13 @@ These five days take us from Paul's deathbed to the theological heights of Hebre
 | 5 | Hebrews 2  | [Don't Drift Away, Jesus Made Lower Than Angels, Pioneer of Salvation](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle writing his final letter from Roman imprisonment
-- **Timothy** -- Paul's spiritual son and ministry partner, pastor at Ephesus
-- **Demas** -- Former companion who deserted Paul, "having loved this present world"
-- **Luke** -- The only companion remaining with Paul
-- **Mark** -- Restored to Paul's good graces after the earlier rift with Barnabas
-- **Jesus Christ** -- The Son through whom God has spoken, superior to angels
+
+- **[Paul](/characters/paul/)** -- Apostle writing his final letter from Roman imprisonment.
+- **[Timothy](/characters/timothy/)** -- Paul's spiritual son and ministry partner, pastor at Ephesus.
+- **[Demas](/characters/demas/)** -- Former companion who deserted Paul, "having loved this present world."
+- **[Luke](/characters/luke/)** -- The only companion remaining with Paul.
+- **[Mark](/characters/john-mark/)** -- Restored to Paul's good graces after the earlier rift with Barnabas.
+- **[Jesus Christ](/characters/jesus/)** -- The Son through whom God has spoken, superior to angels.
 
 ## Key Locations
 

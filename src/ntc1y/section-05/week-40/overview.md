@@ -38,10 +38,11 @@ Chapter 4 then pivots with a single word: "therefore." Everything that follows -
 | 5 | Ephesians 4  | [Walk Worthy -- Unity, Gifts, and the New Self](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle and prisoner, preaching the kingdom from a rented house in Rome and writing his most exalted letter
-- **The Jewish leaders in Rome** -- Those who come to hear Paul's message, some believing and some refusing
-- **Luke** -- Paul's traveling companion and the narrator of Acts, present throughout the Malta sojourn and the arrival in Rome
-- **The Ephesian church** -- The community (or communities) to whom Paul writes, possibly a circular letter to multiple churches
+
+- **[Paul](/characters/paul/)** -- Apostle and prisoner, preaching the kingdom from a rented house in Rome and writing his most exalted letter.
+- **The Jewish leaders in Rome** -- Those who come to hear Paul's message, some believing and some refusing.
+- **[Luke](/characters/luke/)** -- Paul's traveling companion and the narrator of Acts, present throughout the Malta sojourn and the arrival in Rome.
+- **[The Ephesian church](/locations/ephesus/)** -- The community (or communities) to whom Paul writes, possibly a circular letter to multiple churches.
 
 ## Key Locations
 

@@ -2,7 +2,7 @@
 layout: page
 title: The Mediterranean Sea
 location_type: geographic
-blurb: The Great Sea — highway of the missionary journeys, and the stage of Paul's storm and shipwreck.
+blurb: The Great Sea -- highway of the missionary journeys, and the stage of Paul's storm and shipwreck.
 map_region: mediterranean
 map_feature: voyage-route
 map_label: The voyage to Rome

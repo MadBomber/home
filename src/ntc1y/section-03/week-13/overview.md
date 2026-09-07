@@ -42,12 +42,12 @@ Together, these readings paint a picture of a God who defies every category we c
 
 ## Key Characters This Week
 
-- **The Shrewd Manager** -- A dishonest steward whose worldly wisdom Jesus paradoxically commends, not for his dishonesty but for his strategic urgency.
-- **The Rich Man and Lazarus** -- Characters in Jesus' most vivid parable about the eternal consequences of ignoring the poor at your gate.
-- **The Ten Lepers** -- Healed by Jesus, but only one -- a Samaritan -- returns to give thanks, highlighting the theme of gratitude.
-- **The Pharisee and the Tax Collector** -- Two men at prayer, one confident in his own righteousness and one throwing himself on God's mercy. Only one goes home justified.
-- **The Man Born Blind** -- A man whose physical healing becomes a journey of spiritual illumination, ultimately leading to worship of Jesus and expulsion from the synagogue.
-- **Jesus as the Good Shepherd** -- Using the most beloved pastoral image of the Old Testament, Jesus claims to be the shepherd prophesied in Ezekiel 34 who lays down his life for his flock.
+- **[The Shrewd Manager](/characters/shrewd-manager/)** -- A dishonest steward whose worldly wisdom Jesus paradoxically commends, not for his dishonesty but for his strategic urgency.
+- **[The Rich Man and Lazarus](/characters/rich-man-and-lazarus/)** -- Characters in Jesus' most vivid parable about the eternal consequences of ignoring the poor at your gate.
+- **[The Ten Lepers](/characters/ten-lepers/)** -- Healed by Jesus, but only one -- a Samaritan -- returns to give thanks, highlighting the theme of gratitude.
+- **[The Pharisee and the Tax Collector](/characters/pharisee-and-tax-collector/)** -- Two men at prayer, one confident in his own righteousness and one throwing himself on God's mercy. Only one goes home justified.
+- **[The Man Born Blind](/characters/man-born-blind/)** -- A man whose physical healing becomes a journey of spiritual illumination, ultimately leading to worship of Jesus and expulsion from the synagogue.
+- **[Jesus as the Good Shepherd](/characters/jesus/)** -- Using the most beloved pastoral image of the Old Testament, Jesus claims to be the shepherd prophesied in Ezekiel 34 who lays down his life for his flock.
 
 ## Key Locations
 

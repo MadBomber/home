@@ -35,10 +35,11 @@ These chapters are among the most debated in Pauline scholarship, touching on qu
 | 5 | 1 Corinthians 14  | [Prophecy > Tongues for Edification, Orderly Worship](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle writing from Ephesus to correct serious worship disorders in the Corinthian church
-- **Moses** -- Leader of Israel through the wilderness, whose generation serves as a warning example
-- **The Corinthian factions** -- Competing groups within the church who have turned worship into a display of spiritual superiority
-- **The "weaker" and "stronger" members** -- Those with differing levels of spiritual maturity whose mutual care is essential to the body's health
+
+- **[Paul](/characters/paul/)** -- Apostle writing from Ephesus to correct serious worship disorders in the Corinthian church.
+- **[Moses](/characters/moses/)** -- Leader of Israel through the wilderness, whose generation serves as a warning example.
+- **The Corinthian factions** -- Competing groups within the church who have turned worship into a display of spiritual superiority.
+- **The "weaker" and "stronger" members** -- Those with differing levels of spiritual maturity whose mutual care is essential to the body's health.
 
 ## Key Locations
 

@@ -34,12 +34,13 @@ It is during this Corinthian stay, around 50-51 AD, that Paul writes his two let
 | 5 | 1 Thessalonians 4  | [Live to Please God, Sexual Purity, Those Who Have Fallen Asleep](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle to the Gentiles, now planting a church in one of the Roman Empire's most important cities
-- **Aquila & Priscilla** -- Jewish couple, tentmakers, expelled from Rome, who become Paul's close co-workers
-- **Silas & Timothy** -- Paul's traveling companions who arrive from Macedonia with support and news
-- **Crispus** -- Synagogue ruler in Corinth who believes in Christ
-- **Titius Justus** -- God-fearer whose house becomes Paul's base after leaving the synagogue
-- **Gallio** -- Roman proconsul of Achaia who dismisses the Jewish charges against Paul
+
+- **[Paul](/characters/paul/)** -- Apostle to the Gentiles, now planting a church in one of the Roman Empire's most important cities.
+- **[Aquila & Priscilla](/characters/priscilla-and-aquila/)** -- Jewish couple, tentmakers, expelled from Rome, who become Paul's close co-workers.
+- **[Silas](/characters/silas/) & [Timothy](/characters/timothy/)** -- Paul's traveling companions who arrive from Macedonia with support and news.
+- **Crispus** -- Synagogue ruler in Corinth who believes in Christ.
+- **Titius Justus** -- God-fearer whose house becomes Paul's base after leaving the synagogue.
+- **[Gallio](/characters/gallio/)** -- Roman proconsul of Achaia who dismisses the Jewish charges against Paul.
 
 ## Key Locations
 

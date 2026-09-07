@@ -35,13 +35,14 @@ Colossians then takes us into the cosmic dimensions of Christology. The Christ H
 | 5 | Colossians 4 + Philemon  | [Prayer, Wisdom with Outsiders, Greetings; Appeal for Onesimus](../day-5/) |
 
 ## Key Characters
-- **Paul** — Apostle, writing from Roman imprisonment (c. 60-62 AD)
-- **Euodia and Syntyche** — Two women in the Philippian church experiencing conflict
-- **Epaphras** — Founder of the Colossian church, currently with Paul in Rome
-- **Tychicus** — Paul's messenger carrying the letters to Colossae
-- **Onesimus** — A runaway slave from Colossae who became a believer through Paul
-- **Philemon** — Onesimus's master, a Christian leader in the Colossian church
-- **Archippus** — A ministry leader in Colossae, possibly Philemon's son
+
+- **[Paul](/characters/paul/)** -- Apostle, writing from Roman imprisonment (c. 60-62 AD).
+- **[Euodia and Syntyche](/characters/euodia-and-syntyche/)** -- Two women in the Philippian church experiencing conflict.
+- **[Epaphras](/characters/epaphras/)** -- Founder of the Colossian church, currently with Paul in Rome.
+- **[Tychicus](/characters/tychicus/)** -- Paul's messenger carrying the letters to Colossae.
+- **[Onesimus](/characters/philemon-and-onesimus/)** -- A runaway slave from Colossae who became a believer through Paul.
+- **[Philemon](/characters/philemon-and-onesimus/)** -- Onesimus's master, a Christian leader in the Colossian church.
+- **[Archippus](/characters/philemon-and-onesimus/)** -- A ministry leader in Colossae, possibly Philemon's son.
 
 ## Key Locations
 

@@ -1,0 +1,32 @@
+<%
+  # "Key Locations" cross-link block for character pages. Render with the
+  # page's front matter passed as the local `d`:  render "character_locations", d: data
+  #
+  # The page lists location slugs in its front matter:
+  #
+  #   locations: [bethsaida, capernaum, rome]
+  #
+  # Each slug is resolved against the pages under /locations/; the title and
+  # blurb shown here come from the location page itself, so the two features
+  # can never drift apart. Unknown slugs are skipped silently at render time
+  # (and caught by eye on review, since the entry simply will not appear).
+
+  slugs = d.locations || []
+%>
+<% unless slugs.empty? %>
+<section class="character-locations">
+  <h2>Key Locations</h2>
+  <ul class="location-index">
+    <% slugs.each do |slug| %>
+      <%
+        loc = site.collections.pages.resources.find { |r| r.relative_url == "/locations/#{slug}/" }
+        next unless loc
+      %>
+      <li>
+        <a href="<%= relative_url loc.relative_url %>"><strong><%= loc.data.title %></strong></a>
+        <% if loc.data.blurb %><span class="location-index-blurb"><%= loc.data.blurb %></span><% end %>
+      </li>
+    <% end %>
+  </ul>
+</section>
+<% end %>

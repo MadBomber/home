@@ -34,14 +34,15 @@ The arrest, trials, and denials that follow expose the worst of human nature in 
 | 5 | Mark 15:1-20  | [Trial Before Pilate, Barabbas Released, Mocking by Soldiers](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- The suffering Messiah who prays, agonizes, submits, and endures injustice in obedience to the Father's will
-- **Judas Iscariot** -- The disciple who betrays Jesus with a kiss for thirty pieces of silver
-- **Peter** -- The rock who crumbles, denying Jesus three times before the rooster crows
-- **Caiaphas** -- The high priest who orchestrates an illegal trial and unwittingly prophesies (John 11:49-52)
-- **Pontius Pilate** -- The Roman governor who finds no guilt in Jesus but condemns him anyway
-- **Barabbas** -- The insurrectionist and murderer released in Jesus' place
-- **The Roman soldiers** -- Instruments of imperial cruelty who mock the King of kings
-- **The unnamed woman at Bethany** -- The anointer whose extravagant act Jesus declares will be remembered wherever the gospel is preached
+
+- **[Jesus](/characters/jesus/)** -- The suffering Messiah who prays, agonizes, submits, and endures injustice in obedience to the Father's will.
+- **[Judas Iscariot](/characters/judas-iscariot/)** -- The disciple who betrays Jesus with a kiss for thirty pieces of silver.
+- **[Peter](/characters/peter/)** -- The rock who crumbles, denying Jesus three times before the rooster crows.
+- **[Caiaphas](/characters/caiaphas/)** -- The high priest who orchestrates an illegal trial and unwittingly prophesies (John 11:49-52).
+- **[Pontius Pilate](/characters/pilate/)** -- The Roman governor who finds no guilt in Jesus but condemns him anyway.
+- **[Barabbas](/characters/barabbas/)** -- The insurrectionist and murderer released in Jesus' place.
+- **The Roman soldiers** -- Instruments of imperial cruelty who mock the King of kings.
+- **[The unnamed woman at Bethany](/characters/mary-and-martha/)** -- The anointer whose extravagant act Jesus declares will be remembered wherever the gospel is preached.
 
 ## Key Locations
 

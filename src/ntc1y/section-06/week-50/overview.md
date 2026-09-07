@@ -37,11 +37,12 @@ Second and Third John are the two shortest books in the New Testament -- each co
 | 5 | 1 John 5 + 2 John + 3 John  | [Overcoming Faith, Eternal Life, Walking in Truth, Hospitality and Leadership](../day-5/) |
 
 ## Key Characters
-- **John ("the Elder")** -- The beloved disciple, last surviving apostle, writing from Ephesus near the end of his life (c. 85-95 AD)
-- **The secessionists** -- Former members of the community who denied the incarnation and departed, prompting John's letters
-- **Gaius** -- A faithful believer commended by John for his hospitality to traveling missionaries (3 John)
-- **Diotrephes** -- A church leader who loves to be first and refuses to acknowledge John's authority (3 John)
-- **Demetrius** -- A man well spoken of by everyone and by the truth itself (3 John)
+
+- **[John ("the Elder")](/characters/john/)** -- The beloved disciple, last surviving apostle, writing from Ephesus near the end of his life (c. 85-95 AD).
+- **The secessionists** -- Former members of the community who denied the incarnation and departed, prompting John's letters.
+- **[Gaius](/characters/third-john/)** -- A faithful believer commended by John for his hospitality to traveling missionaries (3 John).
+- **[Diotrephes](/characters/third-john/)** -- A church leader who loves to be first and refuses to acknowledge John's authority (3 John).
+- **[Demetrius](/characters/third-john/)** -- A man well spoken of by everyone and by the truth itself (3 John).
 
 ## Key Locations
 

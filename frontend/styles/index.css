@@ -4139,3 +4139,14 @@ button.toolbar-icon {
 .location-map.lm-med {
   max-width: 420px;
 }
+
+/* --- Character pages --- */
+
+/* Portrait-format artwork would fill the whole column width and tower over
+   the page; cap it and center it instead. Landscape figures keep using the
+   plain .location-figure rules. */
+.location-figure--portrait {
+  max-width: 24rem;
+  margin-left: auto;
+  margin-right: auto;
+}

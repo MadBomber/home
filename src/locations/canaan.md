@@ -2,7 +2,7 @@
 layout: page
 title: Canaan
 location_type: symbolic
-blurb: The promised land — and, in Hebrews, the shadow of a better rest still open to the people of God.
+blurb: The promised land -- and, in Hebrews, the shadow of a better rest still open to the people of God.
 ---
 
 <figure class="location-figure">

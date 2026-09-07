@@ -2,7 +2,7 @@
 layout: page
 title: Ephesus
 location_type: geographic
-blurb: The great city of Asia — Artemis' temple, Paul's three-year ministry, and the first church of Revelation.
+blurb: The great city of Asia -- Artemis' temple, Paul's three-year ministry, and the first church of Revelation.
 map_region: mediterranean
 map_lat: 37.940
 map_lon: 27.340

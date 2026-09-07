@@ -37,10 +37,11 @@ Chapter 12 contains the astonishing account of Paul's visionary experience -- ca
 | 5 | 2 Corinthians 13  | [Final Warnings, Examine Yourselves, Trinitarian Benediction](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle making his most passionate and personal defense, boasting in weakness as the paradoxical proof of authentic ministry
-- **The "super-apostles"** -- False teachers whose polished rhetoric, demand for financial support, and triumphalist theology directly contradicted Paul's gospel of the cross
-- **Titus** -- Paul's trusted emissary who helped organize the Jerusalem collection and carried Paul's correspondence
-- **Satan** -- Named as the source of Paul's "thorn in the flesh" (12:7) and the power behind false apostles who disguise themselves as "angels of light" (11:14)
+
+- **[Paul](/characters/paul/)** -- Apostle making his most passionate and personal defense, boasting in weakness as the paradoxical proof of authentic ministry.
+- **The "super-apostles"** -- False teachers whose polished rhetoric, demand for financial support, and triumphalist theology directly contradicted Paul's gospel of the cross.
+- **[Titus](/characters/titus/)** -- Paul's trusted emissary who helped organize the Jerusalem collection and carried Paul's correspondence.
+- **[Satan](/characters/satan/)** -- Named as the source of Paul's "thorn in the flesh" (12:7) and the power behind false apostles who disguise themselves as "angels of light" (11:14).
 
 ## Key Locations
 

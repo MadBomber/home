@@ -2,7 +2,7 @@
 layout: page
 title: Mount Sinai
 location_type: geographic
-blurb: The mountain of the law and the wilderness around it — the covenant the New Testament reads Christ against.
+blurb: The mountain of the law and the wilderness around it -- the covenant the New Testament reads Christ against.
 map_feature: sinai-arrow
 map_label: to Sinai
 map_alt: "Map of the Holy Land with an arrow pointing south off the map toward Mount Sinai, far to the south in the Sinai peninsula."

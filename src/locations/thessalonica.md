@@ -2,7 +2,7 @@
 layout: page
 title: Thessalonica
 location_type: geographic
-blurb: Macedonia's capital, where a few weeks of preaching planted a model church — and a riot.
+blurb: Macedonia's capital, where a few weeks of preaching planted a model church -- and a riot.
 map_region: mediterranean
 map_lat: 40.640
 map_lon: 22.940

@@ -34,15 +34,16 @@ John's Gospel adds theological depth to the miraculous events, recording Jesus' 
 | 5 | John 6:1-40  | [Feeding 5000, Walking on Water, Bread of Life Discourse begins](../day-5/) |
 
 ## Key Characters
-- **Jesus** -- Miracle-worker whose signs point to his divine identity and messianic mission
-- **The Twelve** -- Sent on their first independent mission with authority over unclean spirits
-- **John the Baptist** -- Martyred by Herod Antipas, his death foreshadowing Jesus' own
-- **Herod Antipas** -- Tetrarch whose guilt and political weakness lead to John's execution
-- **Herodias and Salome** -- The wife and stepdaughter whose grudge and dance seal John's fate
-- **Jairus** -- Synagogue ruler whose faith is tested by delay and death
-- **The hemorrhaging woman** -- Twelve years of suffering end with a touch of faith
-- **The Gerasene demoniac** -- Liberated man who becomes the first Gentile evangelist
-- **The invalid at Bethesda** -- Thirty-eight years of waiting, healed by a word
+
+- **[Jesus](/characters/jesus/)** -- Miracle-worker whose signs point to his divine identity and messianic mission.
+- **[The Twelve](/characters/the-twelve/)** -- Sent on their first independent mission with authority over unclean spirits.
+- **[John the Baptist](/characters/john-the-baptist/)** -- Martyred by Herod Antipas, his death foreshadowing Jesus' own.
+- **[Herod Antipas](/characters/herod-antipas/)** -- Tetrarch whose guilt and political weakness lead to John's execution.
+- **[Herodias and Salome](/characters/herodias/)** -- The wife and stepdaughter whose grudge and dance seal John's fate.
+- **[Jairus](/characters/jairus/)** -- Synagogue ruler whose faith is tested by delay and death.
+- **[The hemorrhaging woman](/characters/hemorrhaging-woman/)** -- Twelve years of suffering end with a touch of faith.
+- **[The Gerasene demoniac](/characters/gerasene-demoniac/)** -- Liberated man who becomes the first Gentile evangelist.
+- **[The invalid at Bethesda](/locations/pool-of-bethesda/)** -- Thirty-eight years of waiting, healed by a word.
 
 ## Key Locations
 

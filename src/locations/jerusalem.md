@@ -2,7 +2,7 @@
 layout: page
 title: Jerusalem
 location_type: geographic
-blurb: The holy city — David's capital, the temple's home, the stage of the crucifixion, resurrection, and Pentecost.
+blurb: The holy city -- David's capital, the temple's home, the stage of the crucifixion, resurrection, and Pentecost.
 map_lat: 31.778
 map_lon: 35.236
 map_alt: "Map marking Jerusalem in the Judean hills, roughly midway between the Mediterranean coast and the north end of the Dead Sea."

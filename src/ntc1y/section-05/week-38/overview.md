@@ -35,14 +35,15 @@ Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- A
 | 5 | Acts 22  | [Paul's Defense -- Conversion Testimony in Hebrew](../day-5/) |
 
 ## Key Characters
-- **Paul** -- Apostle completing his letter to Rome and traveling toward Jerusalem with full knowledge that suffering awaits
-- **Phoebe** -- Deacon of the church at Cenchreae, entrusted with delivering the letter to the Romans
-- **Priscilla and Aquila** -- Paul's co-workers, who risked their own necks for his life
-- **Eutychus** -- Young man in Troas who fell from a window during Paul's sermon and was raised
-- **Agabus** -- Prophet from Judea who foretold Paul's arrest with a dramatic symbolic action
-- **The Ephesian Elders** -- Overseers summoned to Miletus for Paul's farewell address
-- **James** -- Leader of the Jerusalem church who advises Paul to take a Nazarite vow
-- **Claudius Lysias** -- Roman tribune who arrests Paul in the Temple and discovers his Roman citizenship
+
+- **[Paul](/characters/paul/)** -- Apostle completing his letter to Rome and traveling toward Jerusalem with full knowledge that suffering awaits.
+- **[Phoebe](/characters/phoebe/)** -- Deacon of the church at Cenchreae, entrusted with delivering the letter to the Romans.
+- **[Priscilla and Aquila](/characters/priscilla-and-aquila/)** -- Paul's co-workers, who risked their own necks for his life.
+- **[Eutychus](/characters/eutychus/)** -- Young man in Troas who fell from a window during Paul's sermon and was raised.
+- **[Agabus](/characters/agabus/)** -- Prophet from Judea who foretold Paul's arrest with a dramatic symbolic action.
+- **[The Ephesian Elders](/locations/miletus/)** -- Overseers summoned to Miletus for Paul's farewell address.
+- **[James](/characters/james-brother-of-jesus/)** -- Leader of the Jerusalem church who advises Paul to take a Nazirite vow.
+- **[Claudius Lysias](/characters/claudius-lysias/)** -- Roman tribune who arrests Paul in the Temple and discovers his Roman citizenship.
 
 ## Key Locations
 

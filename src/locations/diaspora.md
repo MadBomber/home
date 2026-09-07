@@ -2,7 +2,7 @@
 layout: page
 title: The Diaspora
 location_type: symbolic
-blurb: The Jewish communities scattered among the nations — the "twelve tribes in the Dispersion" to whom James wrote.
+blurb: The Jewish communities scattered among the nations -- the "twelve tribes in the Dispersion" to whom James wrote.
 ---
 
 <figure class="location-figure">

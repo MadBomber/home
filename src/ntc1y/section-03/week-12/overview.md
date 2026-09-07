@@ -41,11 +41,11 @@ The juxtaposition is deliberate. John shows us Jesus confronting religious hypoc
 
 ## Key Characters This Week
 
-- **Jesus** -- Publicly teaching in Jerusalem during the Festival of Tabernacles, making explosive claims about his identity while also revealing God's boundless compassion through parables.
-- **The Pharisees** -- Growing increasingly hostile to Jesus, attempting to trap him with the woman caught in adultery and challenging his claims to divine authority.
-- **The Woman Caught in Adultery** -- Brought before Jesus as a test case, she becomes a living illustration of grace triumphing over condemnation.
-- **The Prodigal Son** -- The younger son in Jesus' most famous parable, who squanders his inheritance but is welcomed home by his father's extravagant love.
-- **The Elder Brother** -- Represents the self-righteous who resent God's grace extended to sinners, a mirror held up to the Pharisees.
+- **[Jesus](/characters/jesus/)** -- Publicly teaching in Jerusalem during the Festival of Tabernacles, making explosive claims about his identity while also revealing God's boundless compassion through parables.
+- **[The Pharisees](/characters/pharisees/)** -- Growing increasingly hostile to Jesus, attempting to trap him with the woman caught in adultery and challenging his claims to divine authority.
+- **[The Woman Caught in Adultery](/characters/woman-caught-in-adultery/)** -- Brought before Jesus as a test case, she becomes a living illustration of grace triumphing over condemnation.
+- **[The Prodigal Son](/characters/prodigal-son/)** -- The younger son in Jesus' most famous parable, who squanders his inheritance but is welcomed home by his father's extravagant love.
+- **[The Elder Brother](/characters/prodigal-son/)** -- Represents the self-righteous who resent God's grace extended to sinners, a mirror held up to the Pharisees.
 - **The Crowds** -- Divided over Jesus' identity, some believing and others wanting him arrested.
 
 ## Key Locations
