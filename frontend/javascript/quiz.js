@@ -1,11 +1,25 @@
-// The warm-up quiz. /{study}/quiz/?week=N asks questions drawn from weeks
-// 1..N-1 of the pool injected by _quiz.erb from src/_data/{study}/quiz.yml.
-// With no parameters the page offers a quiz over everything read so far
-// (judged from the reader's progress) and a week picker. Nothing is graded
-// or recorded beyond a personal best kept in localStorage under
-// `<storage_prefix>_quiz`.
+// The warm-up quiz. /{study}/quiz/?week=N asks questions drawn from the
+// weeks just before week N, out of the pool injected by _quiz.erb from
+// src/_data/{study}/quiz.yml. With no parameters the page offers a quiz on
+// the weeks just read (judged from the reader's progress) and a week
+// picker. Nothing is graded and nothing is recorded: the score exists only
+// on screen, for the moment.
 
-const QUIZ_LENGTH = 8
+import { SETTINGS_KEY } from "./storage-keys.js"
+
+// How many questions per quiz and how many weeks back to draw from are the
+// reader's to set on the settings page. Clamped here as well as there, so a
+// hand-edited localStorage value cannot break the draw.
+function getQuizSettings() {
+  let stored = {}
+  try { stored = JSON.parse(localStorage.getItem(SETTINGS_KEY) || "{}") } catch { /* fall through */ }
+  const length = parseInt(stored.quizLength, 10)
+  const lookback = parseInt(stored.quizLookback, 10)
+  return {
+    length: Number.isInteger(length) ? Math.min(20, Math.max(5, length)) : 10,
+    lookback: Number.isInteger(lookback) ? Math.min(6, Math.max(1, lookback)) : 4,
+  }
+}
 
 // --- Injected data (same pattern as journal.js / progress.js) ---
 
@@ -46,11 +60,12 @@ function authoredWeeks(pool) {
     .sort((a, b) => a - b)
 }
 
-// Every question from weeks 1..upTo, each tagged with the week it came from.
-function questionsThrough(pool, upTo) {
+// Every question from weeks from..upTo, each tagged with the week it came from.
+function questionsBetween(pool, from, upTo) {
   const questions = []
   for (const w of authoredWeeks(pool)) {
     if (w > upTo) break
+    if (w < from) continue
     for (const q of pool[String(w)]) questions.push(Object.assign({ week: w }, q))
   }
   return questions
@@ -65,11 +80,12 @@ function shuffle(items) {
   return a
 }
 
-// "weeks 1 to 4", or "week 1" when only one week has questions.
-function coverageLabel(pool, upTo) {
-  const weeks = authoredWeeks(pool).filter(w => w <= upTo)
+// "weeks 5 to 8", or "week 8" when only one week in the range has questions.
+function coverageLabel(pool, from, upTo) {
+  const weeks = authoredWeeks(pool).filter(w => w >= from && w <= upTo)
+  const lo = weeks[0]
   const hi = weeks[weeks.length - 1]
-  return weeks.length > 1 ? `weeks 1 to ${hi}` : `week ${hi}`
+  return weeks.length > 1 ? `weeks ${lo} to ${hi}` : `week ${hi}`
 }
 
 // --- Reading progress (read-only; progress.js owns this key) ---
@@ -92,26 +108,6 @@ function highestWeekTouched() {
   return highest
 }
 
-// --- Personal bests ---
-
-function getBestKey() { return `${getStoragePrefix()}_quiz` }
-
-function getBests() {
-  try {
-    const data = localStorage.getItem(getBestKey())
-    return data ? JSON.parse(data) : {}
-  } catch { return {} }
-}
-
-function getBest(quizId) { return getBests()[quizId] || null }
-
-function saveBestIfBetter(quizId, correct, total) {
-  const bests = getBests()
-  const prev = bests[quizId]
-  if (prev && prev.correct / prev.total >= correct / total) return
-  bests[quizId] = { correct, total, date: new Date().toISOString() }
-  try { localStorage.setItem(getBestKey(), JSON.stringify(bests)) } catch { /* storage full or blocked */ }
-}
 
 // --- Views ---
 
@@ -229,7 +225,7 @@ function buildPrintSheet(questions, contextLine) {
 
 // --- The quiz itself ---
 
-function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
+function runQuiz(pool, fromWeek, upToWeek, contextLine, onward) {
   const els = viewEls()
   els.context.textContent = contextLine
   els.start.style.display = "none"
@@ -238,8 +234,8 @@ function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
 
   // Choices are shuffled once per draw, here, so the printed worksheet and
   // the on-screen quiz show every question's choices in the same order.
-  const questions = shuffle(questionsThrough(pool, upToWeek))
-    .slice(0, QUIZ_LENGTH)
+  const questions = shuffle(questionsBetween(pool, fromWeek, upToWeek))
+    .slice(0, getQuizSettings().length)
     .map(q => Object.assign({}, q, { order: shuffle(q.choices || []) }))
   buildPrintSheet(questions, contextLine)
   const progressEl = document.getElementById("quiz-progress")
@@ -308,10 +304,6 @@ function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
   function showResults() {
     els.play.style.display = "none"
 
-    const prev = getBest(quizId)
-    const isNewBest = !prev || correctCount / questions.length > prev.correct / prev.total
-    saveBestIfBetter(quizId, correctCount, questions.length)
-
     els.results.innerHTML = ""
 
     const heading = document.createElement("h2")
@@ -322,18 +314,6 @@ function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
     line.textContent = scoreLine(correctCount, questions.length)
     els.results.appendChild(line)
 
-    if (prev && isNewBest) {
-      const best = document.createElement("p")
-      best.classList.add("quiz-best")
-      best.textContent = `A new personal best. Your old mark was ${prev.correct} of ${prev.total}.`
-      els.results.appendChild(best)
-    } else if (prev) {
-      const best = document.createElement("p")
-      best.classList.add("quiz-best")
-      best.textContent = `Your best on this quiz: ${prev.correct} of ${prev.total}.`
-      els.results.appendChild(best)
-    }
-
     const actions = document.createElement("p")
     actions.classList.add("quiz-actions")
 
@@ -342,7 +322,7 @@ function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
     again.classList.add("quiz-go-btn")
     again.textContent = "Try again"
     again.addEventListener("click", () => {
-      runQuiz(pool, upToWeek, quizId, contextLine, onward)
+      runQuiz(pool, fromWeek, upToWeek, contextLine, onward)
     })
     actions.appendChild(again)
 
@@ -371,16 +351,17 @@ function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
 
 function startWeekQuiz(pool, week) {
   const upTo = week - 1
-  if (questionsThrough(pool, upTo).length === 0) {
-    showEmpty("Questions for the earlier weeks haven't been written yet.")
+  const from = Math.max(1, week - getQuizSettings().lookback)
+  if (questionsBetween(pool, from, upTo).length === 0) {
+    showEmpty("Questions for those weeks haven't been written yet.")
     return
   }
 
-  const contextLine = `Starting week ${week}: questions from ${coverageLabel(pool, upTo)}.`
+  const contextLine = `Starting week ${week}: questions from ${coverageLabel(pool, from, upTo)}.`
   const onward = week <= getTotalWeeks()
     ? { url: `${weekPath(week)}/overview/`, label: `On to week ${week}` }
     : null
-  runQuiz(pool, upTo, `week-${week}`, contextLine, onward)
+  runQuiz(pool, from, upTo, contextLine, onward)
 }
 
 // --- No-params view ---
@@ -391,15 +372,17 @@ function initStart(pool) {
   els.start.style.display = "block"
 
   // "Quiz me on what I've read": only shown once progress reaches a week
-  // that has questions behind it.
+  // with questions, and scoped by the same look-back setting as the weekly
+  // quizzes, counted back from the latest week the reader has touched.
   const touched = highestWeekTouched()
-  if (touched >= 1 && questionsThrough(pool, touched).length > 0) {
+  const from = Math.max(1, touched - getQuizSettings().lookback + 1)
+  if (touched >= 1 && questionsBetween(pool, from, touched).length > 0) {
     const soFar = document.getElementById("quiz-so-far")
-    soFar.textContent = `Quiz me on what I've read (${coverageLabel(pool, touched)})`
+    soFar.textContent = `Quiz me on what I've read (${coverageLabel(pool, from, touched)})`
     soFar.style.display = "inline-block"
     soFar.addEventListener("click", () => {
-      const contextLine = `Everything so far: questions from ${coverageLabel(pool, touched)}.`
-      runQuiz(pool, touched, `through-${touched}`, contextLine, null)
+      const contextLine = `Looking back: questions from ${coverageLabel(pool, from, touched)}.`
+      runQuiz(pool, from, touched, contextLine, null)
     })
   }
 

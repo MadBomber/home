@@ -19,8 +19,20 @@ const DEFAULT_SETTINGS = {
   },
   siteTheme: "light",
   fontSize: 18,
+  quizLength: 10,
+  quizLookback: 4,
   journalPromptMethod: CUSTOM_METHOD,
   journalPlaceholder: DEFAULT_JOURNAL_PLACEHOLDER,
+}
+
+// Quiz settings are clamped on read as well as on entry, so a hand-edited
+// localStorage value cannot break the draw. quiz.js applies the same limits.
+function clampQuizLength(n) {
+  return Number.isInteger(n) ? Math.min(20, Math.max(5, n)) : DEFAULT_SETTINGS.quizLength
+}
+
+function clampQuizLookback(n) {
+  return Number.isInteger(n) ? Math.min(6, Math.max(1, n)) : DEFAULT_SETTINGS.quizLookback
 }
 
 // --- Settings storage ---
@@ -32,6 +44,8 @@ function getSettings() {
       features: { ...DEFAULT_SETTINGS.features, ...(stored.features || {}) },
       siteTheme: stored.siteTheme || DEFAULT_SETTINGS.siteTheme,
       fontSize: parseInt(stored.fontSize, 10) || DEFAULT_SETTINGS.fontSize,
+      quizLength: clampQuizLength(parseInt(stored.quizLength, 10)),
+      quizLookback: clampQuizLookback(parseInt(stored.quizLookback, 10)),
       journalPromptMethod: findMethod(stored.journalPromptMethod)
         ? stored.journalPromptMethod
         : DEFAULT_SETTINGS.journalPromptMethod,
@@ -708,6 +722,30 @@ function initSettingsPage() {
 
     fontSizeInput.addEventListener("change", () => {
       applyAndSaveFontSize(clampFontSize(parseInt(fontSizeInput.value, 10) || 18))
+    })
+  }
+
+  const quizLengthInput = document.getElementById("setting-quiz-length")
+  if (quizLengthInput) {
+    quizLengthInput.value = settings.quizLength
+    quizLengthInput.addEventListener("change", () => {
+      const s = getSettings()
+      s.quizLength = clampQuizLength(parseInt(quizLengthInput.value, 10))
+      saveSettings(s)
+      quizLengthInput.value = s.quizLength
+      showStatus(`Warm-up quizzes will ask ${s.quizLength} questions.`)
+    })
+  }
+
+  const quizLookbackInput = document.getElementById("setting-quiz-lookback")
+  if (quizLookbackInput) {
+    quizLookbackInput.value = settings.quizLookback
+    quizLookbackInput.addEventListener("change", () => {
+      const s = getSettings()
+      s.quizLookback = clampQuizLookback(parseInt(quizLookbackInput.value, 10))
+      saveSettings(s)
+      quizLookbackInput.value = s.quizLookback
+      showStatus(`Warm-up quizzes will draw from the ${s.quizLookback === 1 ? "week" : `${s.quizLookback} weeks`} before the one you are starting.`)
     })
   }
 

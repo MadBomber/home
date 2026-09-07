@@ -3208,6 +3208,28 @@ button.toolbar-icon {
   background: var(--purple-faint);
 }
 
+/* Standalone number fields on the settings page (the quiz settings). Unlike
+   .font-size-input, these are not inside a bordered stepper, so they carry
+   their own border and keep the native spin buttons. */
+.settings-number-input {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  width: 4.5rem;
+  text-align: center;
+  color: var(--text-primary);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  padding: 0.45rem 0.25rem;
+}
+
+.settings-number-input:focus {
+  outline: none;
+  border-color: var(--purple-light);
+  background: var(--purple-faint);
+}
+
 
 /* --- Group Member Editor --- */
 
@@ -4645,11 +4667,6 @@ button.toolbar-icon {
 
 .quiz-results h2 {
   margin-bottom: 0.5rem;
-}
-
-.quiz-best {
-  font-family: var(--font-sans);
-  color: var(--text-secondary);
 }
 
 .quiz-actions {
