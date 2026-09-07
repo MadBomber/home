@@ -3799,6 +3799,131 @@ button.toolbar-icon {
     text-decoration: none !important;
   }
 
+  /* The warm-up quiz prints as a worksheet: the whole draw with checkbox
+     choices (built into #quiz-print by quiz.js), swapped in for the
+     one-at-a-time view. quiz-print-ready is set only once a draw exists,
+     so the week picker still prints as itself. */
+  .quiz-print-ready #quiz-start,
+  .quiz-print-ready #quiz-play,
+  .quiz-print-ready #quiz-results,
+  .quiz-print-ready #quiz-empty,
+  .quiz-print-ready .quiz-header {
+    display: none !important;
+  }
+
+  .quiz-print-ready .quiz-print {
+    display: block;
+  }
+
+  /* The sheet is a table so its thead and tfoot repeat as a running header
+     and footer on every printed page (the one repetition mechanism browsers
+     support). Every page then names the quiz's week, so a dropped stack can
+     be reordered. */
+  .quiz-print-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .quiz-print-table thead {
+    display: table-header-group;
+  }
+
+  .quiz-print-table tfoot {
+    display: table-footer-group;
+  }
+
+  .quiz-print-table td {
+    padding: 0;
+  }
+
+  .quiz-print-pagehead {
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #333;
+    border-bottom: 1pt solid #999;
+    padding: 0 0 0.3rem !important;
+  }
+
+  .quiz-print-pagefoot {
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    color: #555;
+    text-align: center;
+    border-top: 1pt solid #999;
+    padding: 0.3rem 0 0 !important;
+  }
+
+  /* A question and its choices stay together on one page. Engines differ
+     on whether they honor break-inside on table rows (Safari ignores it),
+     so the rule sits on the row AND on the block inside it, and the block
+     is an inline-block, which no engine splits across pages. */
+  .quiz-print-row {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .quiz-print-q,
+  .quiz-print-answers {
+    display: inline-block;
+    width: 100%;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .quiz-print-q {
+    margin: 0.9rem 0 0;
+  }
+
+  /* And never end a page on a bare question line. */
+  .quiz-print-question {
+    font-weight: 600;
+    margin: 0 0 0.25rem;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .quiz-print-choice {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.55em;
+    margin: 0 0 0.15rem 1.4rem;
+  }
+
+  .quiz-print-box {
+    flex: none;
+    width: 0.85em;
+    height: 0.85em;
+    margin-top: 0.22em;
+    border: 1.5pt solid #333;
+    border-radius: 2px;
+  }
+
+  /* The answer key always begins on a fresh page, after the questions. */
+  .quiz-print-answers-row {
+    break-before: page;
+    page-break-before: always;
+  }
+
+  .quiz-print-answers {
+    margin-top: 0.9rem;
+  }
+
+  .quiz-print-answers h2 {
+    margin: 0 0 0.75rem;
+  }
+
+  .quiz-print-answer {
+    margin: 0 0 0.3rem;
+  }
+
+  /* RefTagger linkifies the verse references in the key; print them as
+     plain text, as the journal print page does. */
+  .quiz-print-answer a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+
   body {
     background: #fff;
     color: #000;
@@ -4375,7 +4500,7 @@ button.toolbar-icon {
 }
 
 /* Adjacent lines read as one block; keep only the last one's full gap. */
-.week-when + .week-quiz {
+.week-quiz + .week-when {
   margin-top: -1rem;
 }
 
@@ -4537,6 +4662,11 @@ button.toolbar-icon {
 .quiz-empty {
   font-family: var(--font-sans);
   color: var(--text-secondary);
+}
+
+/* The print worksheet exists only on paper; see the @media print block. */
+.quiz-print {
+  display: none;
 }
 
 /* Dark themes swap --purple-deep to a light lavender, so the button text

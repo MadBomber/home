@@ -139,6 +139,94 @@ function scoreLine(correct, total) {
   return "The readings will feel like old friends the second time through."
 }
 
+// --- Print worksheet ---
+
+// Fills #quiz-print with the whole current draw: numbered questions, each
+// choice behind an empty checkbox, then an answer key. Only the print
+// stylesheet ever shows it; the quiz-print-ready class tells that
+// stylesheet to hide the one-at-a-time view in its favor.
+//
+// The sheet is a table because that is the one structure browsers repeat
+// on every printed page: the thead (quiz title and week) becomes a running
+// page header and the tfoot a running footer, so a dropped stack of pages
+// can be put back in order. One tbody row per question keeps each question
+// whole on a page.
+function buildPrintSheet(questions, contextLine) {
+  const sheet = document.getElementById("quiz-print")
+  if (!sheet) return
+  sheet.innerHTML = ""
+
+  const table = document.createElement("table")
+  table.classList.add("quiz-print-table")
+
+  const thead = table.createTHead()
+  const headCell = document.createElement("td")
+  headCell.classList.add("quiz-print-pagehead")
+  headCell.textContent = contextLine ? `Warm-Up Quiz · ${contextLine}` : "Warm-Up Quiz"
+  thead.insertRow().appendChild(headCell)
+
+  const tfoot = table.createTFoot()
+  const footCell = document.createElement("td")
+  footCell.classList.add("quiz-print-pagefoot")
+  const siteName = (document.title.split("|").pop() || "").trim()
+  const printedOn = new Date().toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" })
+  footCell.textContent = [siteName, `printed ${printedOn}`].filter(Boolean).join(" · ")
+  tfoot.insertRow().appendChild(footCell)
+
+  const tbody = document.createElement("tbody")
+  table.appendChild(tbody)
+
+  function addRow(content) {
+    const row = tbody.insertRow()
+    row.classList.add("quiz-print-row")
+    row.insertCell().appendChild(content)
+    return row
+  }
+
+  questions.forEach((q, i) => {
+    const block = document.createElement("section")
+    block.classList.add("quiz-print-q")
+
+    const question = document.createElement("p")
+    question.classList.add("quiz-print-question")
+    question.textContent = `${i + 1}. ${q.question}`
+    block.appendChild(question)
+
+    for (const choice of q.order) {
+      const line = document.createElement("p")
+      line.classList.add("quiz-print-choice")
+      const box = document.createElement("span")
+      box.classList.add("quiz-print-box")
+      line.appendChild(box)
+      line.append(choice)
+      block.appendChild(line)
+    }
+
+    addRow(block)
+  })
+
+  // The answer key starts on its own page (break-before in the print CSS)
+  // so it can be kept back or handed out separately from the questions.
+  const key = document.createElement("section")
+  key.classList.add("quiz-print-answers")
+
+  const keyHeading = document.createElement("h2")
+  keyHeading.textContent = "Answer Key"
+  key.appendChild(keyHeading)
+
+  questions.forEach((q, i) => {
+    const line = document.createElement("p")
+    line.classList.add("quiz-print-answer")
+    line.textContent = `${i + 1}. ${q.answer} (${q.ref}, Week ${q.week}, Day ${q.day})`
+    key.appendChild(line)
+  })
+
+  addRow(key).classList.add("quiz-print-answers-row")
+
+  sheet.appendChild(table)
+  document.getElementById("quiz").classList.add("quiz-print-ready")
+}
+
 // --- The quiz itself ---
 
 function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
@@ -148,7 +236,12 @@ function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
   els.results.style.display = "none"
   els.play.style.display = "block"
 
-  const questions = shuffle(questionsThrough(pool, upToWeek)).slice(0, QUIZ_LENGTH)
+  // Choices are shuffled once per draw, here, so the printed worksheet and
+  // the on-screen quiz show every question's choices in the same order.
+  const questions = shuffle(questionsThrough(pool, upToWeek))
+    .slice(0, QUIZ_LENGTH)
+    .map(q => Object.assign({}, q, { order: shuffle(q.choices || []) }))
+  buildPrintSheet(questions, contextLine)
   const progressEl = document.getElementById("quiz-progress")
   const questionEl = document.getElementById("quiz-question")
   const choicesEl = document.getElementById("quiz-choices")
@@ -166,11 +259,12 @@ function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
     feedbackEl.innerHTML = ""
     nextBtn.style.display = "none"
 
-    for (const choice of shuffle(q.choices || [])) {
+    for (const choice of q.order) {
       const btn = document.createElement("button")
       btn.type = "button"
       btn.classList.add("quiz-choice")
       btn.textContent = choice
+      btn.setAttribute("data-speak-pause", "")
       btn.addEventListener("click", () => answer(q, choice, btn))
       choicesEl.appendChild(btn)
     }
@@ -195,6 +289,7 @@ function runQuiz(pool, upToWeek, quizId, contextLine, onward) {
 
     const ref = document.createElement("p")
     ref.classList.add("quiz-ref")
+    ref.setAttribute("data-speak-pause", "")
     ref.append(`That's from ${q.ref}. `)
     if (q.day) {
       ref.append("Read it again: ")

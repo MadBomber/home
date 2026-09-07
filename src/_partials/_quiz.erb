@@ -34,7 +34,7 @@
   </div>
 
   <div id="quiz-play" style="display:none;">
-    <p id="quiz-progress" class="quiz-progress"></p>
+    <p id="quiz-progress" class="quiz-progress" data-speak-pause></p>
     <%# tabindex="-1" so each new question can take focus and be announced. %>
     <h2 id="quiz-question" class="quiz-question" tabindex="-1"></h2>
     <div id="quiz-choices" class="quiz-choices"></div>
@@ -45,4 +45,9 @@
   <div id="quiz-results" class="quiz-results" style="display:none;" aria-live="polite"></div>
 
   <p id="quiz-empty" class="quiz-empty" style="display:none;"></p>
+
+  <%# Print-only worksheet: quiz.js fills this with every question of the
+      current draw (checkbox choices, no answers). Hidden on screen; the
+      print stylesheet shows it in place of the one-at-a-time view. %>
+  <div id="quiz-print" class="quiz-print"></div>
 </article>

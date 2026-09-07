@@ -25,7 +25,26 @@ document.addEventListener("DOMContentLoaded", () => {
     const skips = speakTarget.querySelectorAll("svg, [data-nospeak]")
     const saved = []
     skips.forEach((el) => { saved.push(el.style.display); el.style.display = "none" })
+
+    // Buttons and other short blocks (the quiz's answer choices) reach
+    // innerText separated only by newlines, which voices read straight
+    // through. Elements marked data-speak-pause get a period appended for
+    // the snapshot, unless they already end in punctuation, so each is
+    // spoken as its own sentence. Restored before the browser repaints,
+    // like the SVG hiding above.
+    const pauses = speakTarget.querySelectorAll("[data-speak-pause]")
+    const dots = []
+    pauses.forEach((el) => {
+      const spoken = el.innerText.trim()
+      if (spoken && !/[.!?:;]$/.test(spoken)) {
+        const dot = document.createTextNode(".")
+        el.appendChild(dot)
+        dots.push(dot)
+      }
+    })
+
     const text = speakTarget.innerText
+    dots.forEach((dot) => dot.remove())
     skips.forEach((el, i) => { el.style.display = saved[i] })
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.rate = 0.95
