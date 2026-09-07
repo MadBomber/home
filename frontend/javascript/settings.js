@@ -15,6 +15,7 @@ const DEFAULT_SETTINGS = {
     group: false,
     discussions: false,
     tips: true,
+    quiz: false,
   },
   siteTheme: "light",
   fontSize: 18,
@@ -629,6 +630,7 @@ function initSettingsPage() {
     "setting-group": "group",
     "setting-discussions": "discussions",
     "setting-tips": "tips",
+    "setting-quiz": "quiz",
   }
 
   for (const [id, feature] of Object.entries(toggles)) {

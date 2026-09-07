@@ -1,0 +1,48 @@
+<%# The warm-up quiz. One page per study (src/{slug}/quiz.erb renders this),
+    with the views chosen by query string and built by quiz.js:
+      ?week=N   -> quiz drawn from weeks 1..N-1 ("I am starting week N")
+      no params -> a quiz over everything read so far, or a week picker
+    The question pool comes from src/_data/{slug}/quiz.yml; a study without
+    that file renders an empty pool and quiz.js shows a friendly notice. %>
+<%
+  _qz_key  = data.study_slug&.gsub("-", "_")
+  _qz_data = _qz_key ? site.data.send(_qz_key) : nil
+  _qz_pool = _qz_data && _qz_data[:quiz] && _qz_data[:quiz][:weeks]
+%>
+<script id="quiz-data" type="application/json"><%== (_qz_pool || {}).to_json %></script>
+
+<article class="quiz" id="quiz">
+  <div class="quiz-header">
+    <h1 id="quiz-title">Warm-Up Quiz</h1>
+    <p id="quiz-context" class="quiz-context"></p>
+  </div>
+
+  <div id="quiz-start" style="display:none;">
+    <p>
+      A few quick questions to reconnect you with the story before you read
+      on. There are no grades and no record of misses -- every answer points
+      back to the passage it came from.
+    </p>
+    <p>
+      <button id="quiz-so-far" class="quiz-go-btn" style="display:none;"></button>
+    </p>
+    <p id="quiz-picker-label">Or pick the week you are about to start:</p>
+    <div class="quiz-week-selector">
+      <select id="quiz-week-select" aria-label="The week you are about to start"></select>
+      <button id="quiz-week-go" class="quiz-go-btn">Start quiz</button>
+    </div>
+  </div>
+
+  <div id="quiz-play" style="display:none;">
+    <p id="quiz-progress" class="quiz-progress"></p>
+    <%# tabindex="-1" so each new question can take focus and be announced. %>
+    <h2 id="quiz-question" class="quiz-question" tabindex="-1"></h2>
+    <div id="quiz-choices" class="quiz-choices"></div>
+    <div id="quiz-feedback" class="quiz-feedback" aria-live="polite"></div>
+    <button id="quiz-next" class="quiz-go-btn quiz-next-btn" style="display:none;"></button>
+  </div>
+
+  <div id="quiz-results" class="quiz-results" style="display:none;" aria-live="polite"></div>
+
+  <p id="quiz-empty" class="quiz-empty" style="display:none;"></p>
+</article>

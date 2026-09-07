@@ -7,9 +7,9 @@ description: Every feature on this site has an off switch. Use Settings to show 
 
 This site does more than show you the text. It can track your progress, read a page aloud, hold your journal entries, share your notes with a study group, host a comment thread under an essay, and feature this weekly tip. Not everyone wants all of that running at once.
 
-Open Settings from the menu and look for Features. Each one is a simple switch: Journaling, Read Aloud, Group Sharing, Community Discussions, Tip of the Week.
+Open Settings from the menu and look for Features. Each one is a simple switch: Journaling, Read Aloud, Group Sharing, Community Discussions, Tip of the Week, Warm-Up Quiz.
 
-![The Features section of the Settings page, showing five toggles: Journaling on, Read Aloud on, Group Sharing off, Community Discussions off, and Tip of the Week on.](/images/tips/settings-features.png)
+![The Features section of the Settings page, showing six toggles: Journaling on, Read Aloud on, Group Sharing off, Community Discussions off, Tip of the Week on, and Warm-Up Quiz off.](/images/tips/settings-features.png)
 
 Turn off what you do not use and the corresponding button or section disappears from every page, immediately, no reload required.
 

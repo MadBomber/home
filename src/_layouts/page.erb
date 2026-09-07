@@ -45,6 +45,27 @@ layout: default
     </p>
   <% end %>
 
+  <%
+    # "Remember?" -- weekly overviews link to the study's warm-up quiz, which
+    # draws its questions from the weeks already read. Same contract as the
+    # timeline line above: driven by src/_data/{study}/quiz.yml, and a study
+    # without that file (or a week with nothing authored behind it) gets no
+    # line.
+    _qz_url = nil
+    if data.week && data.day.nil? && data.type.nil? && data.study_slug
+      _qz_data  = site.data.send(data.study_slug.gsub("-", "_"))
+      _qz_weeks = _qz_data && _qz_data[:quiz] && _qz_data[:quiz][:weeks]
+      _qz_any   = _qz_weeks && _qz_weeks.keys.any? { |k| k.to_i < data.week.to_i }
+      _qz_url   = _qz_any ? "#{relative_url("/#{data.study_slug}/quiz/")}?week=#{data.week.to_i}" : nil
+    end
+  %>
+  <% if _qz_url %>
+    <p class="week-quiz" data-feature="quiz">
+      <em>Remember?</em> Reconnect with the story before you read on --
+      <a href="<%= _qz_url %>">take the warm-up quiz</a> on the weeks behind you.
+    </p>
+  <% end %>
+
   <%= yield %>
 
   <% if (data.day || (data.week && data.day.nil? && data.type.nil?)) && _mv %>

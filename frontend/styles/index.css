@@ -79,6 +79,8 @@
   --bg-surface: #ffffff;
   --bg-surface-alt: #f5f3f0;
   --border-color: #e0dcd5;
+  --quiz-correct: #2e7d32;
+  --quiz-wrong: #b3402a;
   --font-serif: "Merriweather", Georgia, "Times New Roman", serif;
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --max-width: 56rem;
@@ -103,6 +105,8 @@
   --bg-surface: #242428;
   --bg-surface-alt: #2e2e33;
   --border-color: #3a3a40;
+  --quiz-correct: #81c784;
+  --quiz-wrong: #e08a76;
   --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
   --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
 }
@@ -303,6 +307,8 @@
     --bg-surface: #242428;
     --bg-surface-alt: #2e2e33;
     --border-color: #3a3a40;
+    --quiz-correct: #81c784;
+    --quiz-wrong: #e08a76;
     --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
     --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
   }
@@ -4357,11 +4363,186 @@ button.toolbar-icon {
   fill: var(--gold);
 }
 
-/* The "When am I?" line at the top of each weekly overview (see page.erb) */
+/* The "When am I?" and "Remember?" lines at the top of each weekly overview
+   (see page.erb) */
 
-.week-when {
+.week-when,
+.week-quiz {
   font-family: var(--font-sans);
   font-size: 0.9rem;
   color: var(--text-secondary);
   margin-bottom: 1.5rem;
+}
+
+/* Adjacent lines read as one block; keep only the last one's full gap. */
+.week-when + .week-quiz {
+  margin-top: -1rem;
+}
+
+/* --- Warm-Up Quiz (see _partials/_quiz.erb and quiz.js) --- */
+
+.quiz {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+.quiz-context {
+  font-family: var(--font-sans);
+  color: var(--text-secondary);
+  margin-top: 0.25rem;
+}
+
+.quiz-progress {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.25rem;
+}
+
+.quiz-question {
+  margin: 0.25rem 0 1.25rem;
+}
+
+.quiz-question:focus {
+  outline: none;
+}
+
+.quiz-choices {
+  display: grid;
+  gap: 0.6rem;
+}
+
+.quiz-choice {
+  text-align: left;
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.4;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.quiz-choice:hover:not(:disabled) {
+  border-color: var(--purple-light);
+  background: var(--purple-faint);
+}
+
+.quiz-choice:disabled {
+  cursor: default;
+  opacity: 0.6;
+}
+
+/* The reveal never relies on color alone: the verdict line under the
+   choices says "Correct!" or names the right answer in words. */
+.quiz-choice.correct {
+  border-color: var(--quiz-correct);
+  border-width: 2px;
+  font-weight: 600;
+  opacity: 1;
+}
+
+.quiz-choice.incorrect {
+  border-color: var(--quiz-wrong);
+  border-width: 2px;
+  opacity: 1;
+}
+
+.quiz-feedback {
+  font-family: var(--font-sans);
+  margin-top: 1rem;
+}
+
+.quiz-verdict {
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.quiz-verdict.correct {
+  color: var(--quiz-correct);
+}
+
+.quiz-verdict.incorrect {
+  color: var(--quiz-wrong);
+}
+
+.quiz-ref {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
+.quiz-go-btn {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding: 0.5rem 1.25rem;
+  background: var(--purple-deep);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.quiz-go-btn:hover {
+  background: var(--purple-mid);
+}
+
+[data-theme="dark"] .quiz-go-btn {
+  color: #1a1a1e;
+}
+
+.quiz-next-btn {
+  margin-top: 1rem;
+}
+
+.quiz-week-selector {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.quiz-week-selector select {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  color: var(--text-primary);
+}
+
+.quiz-results h2 {
+  margin-bottom: 0.5rem;
+}
+
+.quiz-best {
+  font-family: var(--font-sans);
+  color: var(--text-secondary);
+}
+
+.quiz-actions {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.quiz-empty {
+  font-family: var(--font-sans);
+  color: var(--text-secondary);
+}
+
+/* Dark themes swap --purple-deep to a light lavender, so the button text
+   flips dark to keep its contrast. */
+@media (prefers-color-scheme: dark) {
+  [data-theme="auto"] .quiz-go-btn {
+    color: #1a1a1e;
+  }
 }

@@ -1,0 +1,234 @@
+# Question pool for the warm-up quiz at /{study-slug}/quiz/ (rendered by
+# _partials/_quiz.erb and quiz.js).
+#
+# Keyed by week number. The quiz at the start of week N draws randomly
+# from the pools of weeks 1 through N-1, so questions are filed under
+# the week whose reading they come from.
+#
+# Fields per question:
+#   question — the prompt shown to the reader
+#   choices  — four options; the renderer should shuffle them
+#   answer   — the correct choice, repeated verbatim
+#   ref      — the passage the answer comes from (shown on reveal)
+#   day      — which day of the week that reading was
+weeks:
+  "1":
+    - question: "John's Gospel opens by calling Jesus 'the ___'."
+      choices:
+        - "Lamb of God"
+        - "Word"
+        - "Good Shepherd"
+        - "Son of David"
+      answer: "Word"
+      ref: "John 1:1"
+      day: 1
+    - question: "When Zechariah doubted the angel's promise of a son, what happened to him?"
+      choices:
+        - "He was struck blind"
+        - "He was unable to speak until the baby was born"
+        - "He was removed from the priesthood"
+        - "He was told to fast for forty days"
+      answer: "He was unable to speak until the baby was born"
+      ref: "Luke 1:20"
+      day: 2
+    - question: "Which angel announced to Mary that she would bear a son?"
+      choices:
+        - "Michael"
+        - "Gabriel"
+        - "An unnamed angel of the Lord"
+        - "A multitude of the heavenly host"
+      answer: "Gabriel"
+      ref: "Luke 1:26-27"
+      day: 2
+    - question: "What happened the moment Mary's greeting reached Elizabeth?"
+      choices:
+        - "Elizabeth fell to her knees"
+        - "The baby leaped in Elizabeth's womb"
+        - "Zechariah's speech returned"
+        - "A bright light filled the house"
+      answer: "The baby leaped in Elizabeth's womb"
+      ref: "Luke 1:41"
+      day: 3
+    - question: "In Joseph's dream, why did the angel say the baby should be named Jesus?"
+      choices:
+        - "It was the name of Joseph's father"
+        - "He will save his people from their sins"
+        - "He will sit on David's throne forever"
+        - "It was the name Mary had chosen"
+      answer: "He will save his people from their sins"
+      ref: "Matthew 1:21"
+      day: 4
+    - question: "Who were the first people the angels told about Jesus' birth?"
+      choices:
+        - "The Magi from the east"
+        - "Shepherds keeping watch over their flock"
+        - "The priests in Jerusalem"
+        - "The innkeeper and his family"
+      answer: "Shepherds keeping watch over their flock"
+      ref: "Luke 2:8-11"
+      day: 5
+  "2":
+    - question: "Who was the man at the temple who had been promised he would not die before seeing the Lord's Christ?"
+      choices:
+        - "Zechariah"
+        - "Simeon"
+        - "Annas"
+        - "Nicodemus"
+      answer: "Simeon"
+      ref: "Luke 2:25-26"
+      day: 1
+    - question: "What three gifts did the Magi bring to the child Jesus?"
+      choices:
+        - "Gold, silver, and bronze"
+        - "Gold, frankincense, and myrrh"
+        - "Bread, wine, and oil"
+        - "Gold, incense, and fine linen"
+      answer: "Gold, frankincense, and myrrh"
+      ref: "Matthew 2:11"
+      day: 2
+    - question: "Why did Joseph take Mary and Jesus and flee to Egypt?"
+      choices:
+        - "A famine had struck Judea"
+        - "An angel warned him that Herod would seek to destroy the child"
+        - "The Magi invited them to travel east"
+        - "Caesar's census required it"
+      answer: "An angel warned him that Herod would seek to destroy the child"
+      ref: "Matthew 2:13"
+      day: 2
+    - question: "After searching three days, where did Mary and Joseph find twelve-year-old Jesus?"
+      choices:
+        - "In the temple, sitting among the teachers"
+        - "At a relative's house in Jerusalem"
+        - "On the road back to Nazareth"
+        - "In the synagogue at Capernaum"
+      answer: "In the temple, sitting among the teachers"
+      ref: "Luke 2:46"
+      day: 1
+    - question: "What did John the Baptist eat in the wilderness?"
+      choices:
+        - "Bread and fish"
+        - "Locusts and wild honey"
+        - "Figs and dates"
+        - "Whatever the crowds brought him"
+      answer: "Locusts and wild honey"
+      ref: "Mark 1:6"
+      day: 3
+    - question: "At Jesus' baptism, the Holy Spirit descended on him in bodily form like a ___."
+      choices:
+        - "Dove"
+        - "Flame of fire"
+        - "Cloud"
+        - "Rushing wind"
+      answer: "Dove"
+      ref: "Luke 3:22"
+      day: 4
+  "3":
+    - question: "How did Jesus answer each of the devil's temptations in the wilderness?"
+      choices:
+        - "By quoting Scripture — 'It is written'"
+        - "By calling on angels"
+        - "By remaining silent"
+        - "By performing a miracle"
+      answer: "By quoting Scripture — 'It is written'"
+      ref: "Luke 4:1-13"
+      day: 1
+    - question: "What did John the Baptist call Jesus when he saw him coming toward him?"
+      choices:
+        - "The Son of David"
+        - "The Lamb of God, who takes away the sin of the world"
+        - "The King of Israel"
+        - "The Prophet like Moses"
+      answer: "The Lamb of God, who takes away the sin of the world"
+      ref: "John 1:29"
+      day: 2
+    - question: "Nathanael was skeptical when Philip told him about Jesus. What did he ask?"
+      choices:
+        - "Can anything good come out of Nazareth?"
+        - "Is this not the carpenter's son?"
+        - "How can a man be born when he is old?"
+        - "What sign do you show us?"
+      answer: "Can anything good come out of Nazareth?"
+      ref: "John 1:46"
+      day: 2
+    - question: "At the wedding in Cana, what did the master of the feast say when he tasted the water made wine?"
+      choices:
+        - "You have kept the good wine until now"
+        - "This wine is not fit for the guests"
+        - "Where did this wine come from?"
+        - "Bring more of the same"
+      answer: "You have kept the good wine until now"
+      ref: "John 2:10"
+      day: 3
+    - question: "Nicodemus came to Jesus at night. What did Jesus tell him he must do to see the kingdom of God?"
+      choices:
+        - "Keep the whole law"
+        - "Be born again"
+        - "Sell all his possessions"
+        - "Be baptized by John"
+      answer: "Be born again"
+      ref: "John 3:3"
+      day: 4
+    - question: "What did the Samaritan woman leave behind when she hurried to tell her town about Jesus?"
+      choices:
+        - "Her sandals"
+        - "Her water jar"
+        - "Her cloak"
+        - "Her sheep"
+      answer: "Her water jar"
+      ref: "John 4:28"
+      day: 5
+  "4":
+    - question: "What did Jesus promise Peter and Andrew when he called them from their fishing nets?"
+      choices:
+        - "I will make you fishers of men"
+        - "You will sit on twelve thrones"
+        - "You will never hunger again"
+        - "I will give you the keys of the kingdom"
+      answer: "I will make you fishers of men"
+      ref: "Matthew 4:19"
+      day: 1
+    - question: "In the Nazareth synagogue, Jesus stood up to read from which prophet?"
+      choices:
+        - "Jeremiah"
+        - "Isaiah"
+        - "Ezekiel"
+        - "Daniel"
+      answer: "Isaiah"
+      ref: "Luke 4:17"
+      day: 2
+    - question: "How did the people of Nazareth respond to Jesus' words in their synagogue?"
+      choices:
+        - "They asked him to stay and teach"
+        - "They drove him out of town to throw him off a cliff"
+        - "They brought their sick to be healed"
+        - "They sent word to the priests in Jerusalem"
+      answer: "They drove him out of town to throw him off a cliff"
+      ref: "Luke 4:28-29"
+      day: 2
+    - question: "After the miraculous catch of fish, what did Peter say to Jesus?"
+      choices:
+        - "Lord, teach us to fish like that"
+        - "Depart from me, for I am a sinful man, O Lord"
+        - "Truly you are the Son of God"
+        - "Lord, to whom shall we go?"
+      answer: "Depart from me, for I am a sinful man, O Lord"
+      ref: "Luke 5:8"
+      day: 3
+    - question: "How did the paralyzed man's friends get him to Jesus in the crowded house?"
+      choices:
+        - "They waited at the door until evening"
+        - "They lowered him through an opening in the roof"
+        - "They passed him over the heads of the crowd"
+        - "They called Jesus to come outside"
+      answer: "They lowered him through an opening in the roof"
+      ref: "Mark 2:4"
+      day: 5
+    - question: "What did Jesus say to the paralyzed man first, before telling him to rise and walk?"
+      choices:
+        - "Your faith has made you well"
+        - "Son, your sins are forgiven"
+        - "Do you want to be healed?"
+        - "Go and show yourself to the priest"
+      answer: "Son, your sins are forgiven"
+      ref: "Mark 2:5"
+      day: 5
