@@ -232,3 +232,2643 @@ weeks:
       answer: "Son, your sins are forgiven"
       ref: "Mark 2:5"
       day: 5
+  "5":
+    - question: "When the scribes saw Jesus casting out demons, what did they claim?"
+      choices:
+        - "He was a prophet like Elijah"
+        - "He was possessed by Beelzebul, the prince of demons"
+        - "He had learned magic in Egypt"
+        - "He was John the Baptist raised from the dead"
+      answer: "He was possessed by Beelzebul, the prince of demons"
+      ref: "Mark 3:22"
+      day: 1
+    - question: "In the Sermon on the Mount, Jesus called his followers the salt of the earth and the ___ of the world."
+      choices:
+        - "Light"
+        - "Hope"
+        - "Leaven"
+        - "Shepherds"
+      answer: "Light"
+      ref: "Matthew 5:13-14"
+      day: 2
+    - question: "'Blessed are the meek, for they shall ___.'"
+      choices:
+        - "See God"
+        - "Inherit the earth"
+        - "Be called sons of God"
+        - "Receive mercy"
+      answer: "Inherit the earth"
+      ref: "Matthew 5:5"
+      day: 2
+    - question: "What did Jesus point to as proof that God feeds and clothes his creatures?"
+      choices:
+        - "The manna in the wilderness"
+        - "The birds of the air and the lilies of the field"
+        - "The rain that falls on the just and the unjust"
+        - "The sparrows sold for a penny"
+      answer: "The birds of the air and the lilies of the field"
+      ref: "Matthew 6:26-28"
+      day: 3
+    - question: "The wise man in Jesus' closing parable built his house on what?"
+      choices:
+        - "A hilltop"
+        - "The rock"
+        - "Good soil"
+        - "A foundation of cedar beams"
+      answer: "The rock"
+      ref: "Matthew 7:24-25"
+      day: 4
+    - question: "In the Sermon on the Plain, what did Jesus command toward enemies?"
+      choices:
+        - "Avoid them and keep the peace"
+        - "Love them and do good to those who hate you"
+        - "Rebuke them, then forgive them"
+        - "Leave them to God's judgment"
+      answer: "Love them and do good to those who hate you"
+      ref: "Luke 6:27"
+      day: 5
+  "6":
+    - question: "What did the centurion say that made Jesus marvel at his faith?"
+      choices:
+        - "Only say the word, and my servant will be healed"
+        - "Come quickly and lay your hand on him"
+        - "I have loved your nation and built your synagogue"
+        - "My household and I will serve the Lord"
+      answer: "Only say the word, and my servant will be healed"
+      ref: "Matthew 8:8"
+      day: 1
+    - question: "What happened when Jesus met a funeral procession at the town of Nain?"
+      choices:
+        - "He wept with the mourners and passed by"
+        - "He raised the widow's only son from the dead"
+        - "He healed the widow of her blindness"
+        - "He told the parable of the rich fool"
+      answer: "He raised the widow's only son from the dead"
+      ref: "Luke 7:11-15"
+      day: 2
+    - question: "What was Matthew doing when Jesus called him?"
+      choices:
+        - "Mending his nets"
+        - "Sitting at the tax booth"
+        - "Teaching in the synagogue"
+        - "Guarding the city gate"
+      answer: "Sitting at the tax booth"
+      ref: "Matthew 9:9"
+      day: 3
+    - question: "In the parable of the sower, what chokes the seed sown among thorns?"
+      choices:
+        - "The birds of the air"
+        - "The cares of the world and the deceitfulness of riches"
+        - "The scorching heat of persecution"
+        - "The hardness of the path"
+      answer: "The cares of the world and the deceitfulness of riches"
+      ref: "Mark 4:18-19"
+      day: 4
+    - question: "Where was Jesus while the storm raged on the sea?"
+      choices:
+        - "Standing at the bow rebuking the wind"
+        - "Asleep in the stern on a cushion"
+        - "Praying alone on the mountain"
+        - "Walking on the water toward the boat"
+      answer: "Asleep in the stern on a cushion"
+      ref: "Mark 4:38"
+      day: 4
+    - question: "When Jesus first sent out the Twelve, to whom did he tell them to go?"
+      choices:
+        - "The Samaritan villages"
+        - "The lost sheep of the house of Israel"
+        - "The Gentiles of the Decapolis"
+        - "The synagogues of Asia"
+      answer: "The lost sheep of the house of Israel"
+      ref: "Matthew 10:5-6"
+      day: 5
+  "7":
+    - question: "'Come to me, all who labor and are heavy laden, and I will give you ___.'"
+      choices:
+        - "Rest"
+        - "Peace"
+        - "Wisdom"
+        - "Strength"
+      answer: "Rest"
+      ref: "Matthew 11:28"
+      day: 1
+    - question: "What did Jesus call himself when challenged about the Sabbath?"
+      choices:
+        - "The Light of the world"
+        - "Lord of the Sabbath"
+        - "The Great Physician"
+        - "The Son of David"
+      answer: "Lord of the Sabbath"
+      ref: "Matthew 12:8"
+      day: 2
+    - question: "What sign did Jesus say would be given to an evil and adulterous generation?"
+      choices:
+        - "The sign of Moses"
+        - "The sign of the prophet Jonah"
+        - "Fire from heaven"
+        - "The darkening of the sun"
+      answer: "The sign of the prophet Jonah"
+      ref: "Matthew 12:39"
+      day: 2
+    - question: "Why did Jesus say he spoke to the crowds in parables?"
+      choices:
+        - "So everyone could easily understand"
+        - "Because the secrets of the kingdom were given to the disciples, not to the crowds"
+        - "Because the prophets had commanded it"
+        - "To hold the attention of those who gathered"
+      answer: "Because the secrets of the kingdom were given to the disciples, not to the crowds"
+      ref: "Matthew 13:11-13"
+      day: 3
+    - question: "What did the man do who found treasure hidden in a field?"
+      choices:
+        - "Reported it to the field's owner"
+        - "Sold all he had and bought the field"
+        - "Buried it deeper for safekeeping"
+        - "Divided it with his brothers"
+      answer: "Sold all he had and bought the field"
+      ref: "Matthew 13:44"
+      day: 4
+    - question: "Which woman, delivered from seven demons, traveled with Jesus and helped support his ministry?"
+      choices:
+        - "Joanna"
+        - "Mary Magdalene"
+        - "Susanna"
+        - "Mary the mother of James"
+      answer: "Mary Magdalene"
+      ref: "Luke 8:2"
+      day: 5
+  "8":
+    - question: "When Jesus asked the unclean spirit its name, what was the reply?"
+      choices:
+        - "Legion, for we are many"
+        - "Apollyon the destroyer"
+        - "A messenger of Beelzebul"
+        - "The spirit refused to give a name"
+      answer: "Legion, for we are many"
+      ref: "Mark 5:9"
+      day: 1
+    - question: "How was the woman who had bled for twelve years healed?"
+      choices:
+        - "Jesus laid his hands on her"
+        - "She touched Jesus' garment in the crowd"
+        - "She washed in the pool of Siloam"
+        - "Jesus spoke a word from far away"
+      answer: "She touched Jesus' garment in the crowd"
+      ref: "Mark 5:27-29"
+      day: 1
+    - question: "How did John the Baptist die?"
+      choices:
+        - "Stoned outside Jerusalem"
+        - "Beheaded at Herod's birthday feast"
+        - "Crucified beside two robbers"
+        - "Killed by bandits in the wilderness"
+      answer: "Beheaded at Herod's birthday feast"
+      ref: "Mark 6:27"
+      day: 2
+    - question: "What food did the disciples have when Jesus fed the five thousand?"
+      choices:
+        - "Seven loaves and a few small fish"
+        - "Five loaves and two fish"
+        - "Twelve baskets of barley"
+        - "Bread and roasted grain from the villages"
+      answer: "Five loaves and two fish"
+      ref: "Mark 6:38"
+      day: 3
+    - question: "How long had the man lain ill at the pool of Bethesda?"
+      choices:
+        - "Twelve years"
+        - "Thirty-eight years"
+        - "Forty years"
+        - "Since birth"
+      answer: "Thirty-eight years"
+      ref: "John 5:5"
+      day: 4
+    - question: "'I am the bread of ___.'"
+      choices:
+        - "Heaven"
+        - "Life"
+        - "Angels"
+        - "The covenant"
+      answer: "Life"
+      ref: "John 6:35"
+      day: 5
+  "9":
+    - question: "When many disciples turned back, Jesus asked the Twelve if they would leave too. What did Peter answer?"
+      choices:
+        - "Lord, to whom shall we go? You have the words of eternal life"
+        - "We will never fall away"
+        - "Increase our faith"
+        - "We have left everything to follow you"
+      answer: "Lord, to whom shall we go? You have the words of eternal life"
+      ref: "John 6:68"
+      day: 1
+    - question: "Who stepped out of the boat to walk toward Jesus on the water?"
+      choices:
+        - "John"
+        - "Peter"
+        - "Andrew"
+        - "James"
+      answer: "Peter"
+      ref: "Matthew 14:29"
+      day: 2
+    - question: "How did the Canaanite woman answer when Jesus spoke of the children's bread?"
+      choices:
+        - "Even the dogs eat the crumbs that fall from their masters' table"
+        - "I too am a daughter of Abraham"
+        - "The bread of God belongs to all nations"
+        - "Give me this bread always"
+      answer: "Even the dogs eat the crumbs that fall from their masters' table"
+      ref: "Matthew 15:27"
+      day: 3
+    - question: "What did Jesus say truly defiles a person?"
+      choices:
+        - "Eating with unwashed hands"
+        - "What comes out of a person, from the heart"
+        - "Touching what is unclean"
+        - "Breaking the traditions of the elders"
+      answer: "What comes out of a person, from the heart"
+      ref: "Mark 7:15"
+      day: 4
+    - question: "How many loaves did the disciples have at the feeding of the four thousand?"
+      choices:
+        - "Five"
+        - "Seven"
+        - "Twelve"
+        - "Three"
+      answer: "Seven"
+      ref: "Mark 8:5"
+      day: 5
+    - question: "After Jesus' first touch, what did the blind man at Bethsaida say he saw?"
+      choices:
+        - "Nothing at all"
+        - "People who looked like trees, walking"
+        - "A bright light from heaven"
+        - "Everything clearly"
+      answer: "People who looked like trees, walking"
+      ref: "Mark 8:24"
+      day: 5
+  "10":
+    - question: "At Caesarea Philippi, Jesus asked the disciples who they said he was. What did Peter answer?"
+      choices:
+        - "You are the Christ"
+        - "You are Elijah who was to come"
+        - "You are the greatest of the prophets"
+        - "You are John the Baptist raised from the dead"
+      answer: "You are the Christ"
+      ref: "Mark 8:29"
+      day: 1
+    - question: "Moments after his great confession, Peter was rebuked with what words?"
+      choices:
+        - "O you of little faith"
+        - "Get behind me, Satan"
+        - "Why did you doubt?"
+        - "Could you not watch one hour?"
+      answer: "Get behind me, Satan"
+      ref: "Matthew 16:23"
+      day: 2
+    - question: "Who appeared talking with Jesus at the transfiguration?"
+      choices:
+        - "Abraham and Isaac"
+        - "Moses and Elijah"
+        - "Enoch and Noah"
+        - "David and Isaiah"
+      answer: "Moses and Elijah"
+      ref: "Mark 9:4"
+      day: 3
+    - question: "What did the father of the boy with the unclean spirit cry out?"
+      choices:
+        - "I believe; help my unbelief"
+        - "Son of David, have mercy on me"
+        - "Lord, if you will, you can make him clean"
+        - "Speak the word only, and he will be healed"
+      answer: "I believe; help my unbelief"
+      ref: "Mark 9:24"
+      day: 3
+    - question: "Where did Jesus tell Peter to find the coin for the temple tax?"
+      choices:
+        - "In the money box Judas kept"
+        - "In the mouth of a fish"
+        - "Under the altar stone"
+        - "Among the offerings at the treasury"
+      answer: "In the mouth of a fish"
+      ref: "Matthew 17:27"
+      day: 4
+    - question: "When the disciples argued about who was greatest, whom did Jesus place among them?"
+      choices:
+        - "A poor widow"
+        - "A child"
+        - "A leper"
+        - "A Roman soldier"
+      answer: "A child"
+      ref: "Mark 9:36-37"
+      day: 5
+  "11":
+    - question: "How many times did Jesus tell Peter to forgive a brother who sins against him?"
+      choices:
+        - "Seven times"
+        - "Seventy-seven times"
+        - "Three times, as the teachers taught"
+        - "Once, if he repents"
+      answer: "Seventy-seven times"
+      ref: "Matthew 18:22"
+      day: 1
+    - question: "'Foxes have holes, and birds of the air have nests, but the Son of Man has ___.'"
+      choices:
+        - "No place to preach"
+        - "Nowhere to lay his head"
+        - "No family of his own"
+        - "No city that receives him"
+      answer: "Nowhere to lay his head"
+      ref: "Luke 9:58"
+      day: 2
+    - question: "In the parable of the Good Samaritan, who passed by the wounded man before the Samaritan stopped?"
+      choices:
+        - "A tax collector and a soldier"
+        - "A priest and a Levite"
+        - "A Pharisee and a scribe"
+        - "Two merchants on the road"
+      answer: "A priest and a Levite"
+      ref: "Luke 10:31-32"
+      day: 3
+    - question: "What did Jesus say Mary had chosen as she sat at his feet?"
+      choices:
+        - "The good portion, which will not be taken from her"
+        - "The seat of honor"
+        - "The path of service"
+        - "The wisdom of the elders"
+      answer: "The good portion, which will not be taken from her"
+      ref: "Luke 10:42"
+      day: 3
+    - question: "In Jesus' parable, what did the friend knocking at midnight come to borrow?"
+      choices:
+        - "Three loaves of bread"
+        - "A flask of oil"
+        - "A lamp for his house"
+        - "A denarius for the journey"
+      answer: "Three loaves of bread"
+      ref: "Luke 11:5"
+      day: 4
+    - question: "What did God say to the rich man who planned to build bigger barns?"
+      choices:
+        - "Well done, good and faithful servant"
+        - "Fool! This night your soul is required of you"
+        - "Go, sell all that you have"
+        - "Your abundance has become your snare"
+      answer: "Fool! This night your soul is required of you"
+      ref: "Luke 12:20"
+      day: 5
+  "12":
+    - question: "On the last day of the feast, Jesus cried out that whoever believes in him would have what flowing from his heart?"
+      choices:
+        - "The oil of gladness"
+        - "Rivers of living water"
+        - "The new wine of the kingdom"
+        - "Streams in the desert"
+      answer: "Rivers of living water"
+      ref: "John 7:37-38"
+      day: 1
+    - question: "What did Jesus say to the men ready to stone the woman caught in adultery?"
+      choices:
+        - "Let him who is without sin among you be the first to throw a stone"
+        - "Judge not, that you be not judged"
+        - "Go and learn what mercy means"
+        - "Her sins, which are many, are forgiven"
+      answer: "Let him who is without sin among you be the first to throw a stone"
+      ref: "John 8:7"
+      day: 2
+    - question: "'Truly, truly, I say to you, before Abraham was, ___.'"
+      choices:
+        - "I am"
+        - "I was sent"
+        - "I saw him"
+        - "I will be"
+      answer: "I am"
+      ref: "John 8:58"
+      day: 2
+    - question: "Why was the synagogue ruler indignant when Jesus freed the woman bent over for eighteen years?"
+      choices:
+        - "She had not asked to be healed"
+        - "Jesus healed her on the Sabbath"
+        - "She was a Samaritan"
+        - "Jesus touched someone unclean"
+      answer: "Jesus healed her on the Sabbath"
+      ref: "Luke 13:14"
+      day: 3
+    - question: "When you give a banquet, whom did Jesus say to invite?"
+      choices:
+        - "Your friends and rich neighbors"
+        - "The poor, the crippled, the lame, and the blind"
+        - "The elders at the city gate"
+        - "Travelers from far away"
+      answer: "The poor, the crippled, the lame, and the blind"
+      ref: "Luke 14:13"
+      day: 4
+    - question: "What did the father do when he saw the prodigal son still a long way off?"
+      choices:
+        - "Waited at the door for him to arrive"
+        - "Ran, embraced him, and kissed him"
+        - "Sent a servant to test his intentions"
+        - "Called the elder brother in from the field"
+      answer: "Ran, embraced him, and kissed him"
+      ref: "Luke 15:20"
+      day: 5
+  "13":
+    - question: "In Jesus' story, where was poor Lazarus carried when he died?"
+      choices:
+        - "To paradise beside the thief"
+        - "To Abraham's side"
+        - "To the heavenly Jerusalem"
+        - "To the bosom of Moses"
+      answer: "To Abraham's side"
+      ref: "Luke 16:22"
+      day: 1
+    - question: "Ten lepers were cleansed. Who came back to give thanks?"
+      choices:
+        - "The youngest of them"
+        - "One of them, a Samaritan"
+        - "Two who had been priests"
+        - "None of them returned"
+      answer: "One of them, a Samaritan"
+      ref: "Luke 17:15-16"
+      day: 2
+    - question: "In the parable of the Pharisee and the tax collector, who went home justified?"
+      choices:
+        - "The Pharisee, who fasted twice a week"
+        - "The tax collector, who begged God for mercy"
+        - "Both of them"
+        - "Neither of them"
+      answer: "The tax collector, who begged God for mercy"
+      ref: "Luke 18:14"
+      day: 3
+    - question: "How did Jesus heal the man born blind?"
+      choices:
+        - "He spoke a word from far away"
+        - "He anointed his eyes with mud and sent him to wash in the pool of Siloam"
+        - "He laid hands on his eyes twice"
+        - "He declared his sins forgiven"
+      answer: "He anointed his eyes with mud and sent him to wash in the pool of Siloam"
+      ref: "John 9:6-7"
+      day: 4
+    - question: "Pressed by the Pharisees, what did the healed man say he knew for certain?"
+      choices:
+        - "Though I was blind, now I see"
+        - "This man is the Son of God"
+        - "Moses himself sent him"
+        - "No prophet arises from Galilee"
+      answer: "Though I was blind, now I see"
+      ref: "John 9:25"
+      day: 4
+    - question: "'I am the good shepherd. The good shepherd ___.'"
+      choices:
+        - "Lays down his life for the sheep"
+        - "Knows where the green pastures are"
+        - "Carries the lambs in his arms"
+        - "Guards the gate by night"
+      answer: "Lays down his life for the sheep"
+      ref: "John 10:11"
+      day: 5
+  "14":
+    - question: "Jesus said it is easier for what to go through the eye of a needle than for a rich person to enter the kingdom?"
+      choices:
+        - "A rope of ship's cord"
+        - "A camel"
+        - "An ox"
+        - "A loaded cart"
+      answer: "A camel"
+      ref: "Matthew 19:24"
+      day: 1
+    - question: "In the vineyard parable, what did the workers hired at the eleventh hour receive?"
+      choices:
+        - "Half a denarius"
+        - "A denarius, the same as those who worked all day"
+        - "Only their evening meal"
+        - "Nothing, for they came too late"
+      answer: "A denarius, the same as those who worked all day"
+      ref: "Matthew 20:9"
+      day: 2
+    - question: "What did Jesus tell Martha before raising her brother Lazarus?"
+      choices:
+        - "I am the resurrection and the life"
+        - "Weep not, for he is only sleeping"
+        - "Your faith has made him whole"
+        - "Wait three days and you will see"
+      answer: "I am the resurrection and the life"
+      ref: "John 11:25"
+      day: 3
+    - question: "What is recorded of Jesus at Lazarus' tomb, in the Bible's shortest verse?"
+      choices:
+        - "Jesus wept"
+        - "Jesus prayed"
+        - "Jesus groaned"
+        - "Jesus waited"
+      answer: "Jesus wept"
+      ref: "John 11:35"
+      day: 3
+    - question: "What did the high priest Caiaphas say without grasping its full meaning?"
+      choices:
+        - "It is better that one man should die for the people"
+        - "His blood be on us and on our children"
+        - "Surely this man was innocent"
+        - "No prophet arises from Galilee"
+      answer: "It is better that one man should die for the people"
+      ref: "John 11:50"
+      day: 4
+    - question: "What kind of tree did Zacchaeus climb to see Jesus?"
+      choices:
+        - "A fig tree"
+        - "A sycamore tree"
+        - "An olive tree"
+        - "A cedar"
+      answer: "A sycamore tree"
+      ref: "Luke 19:4"
+      day: 5
+  "15":
+    - question: "Whose tables did Jesus overturn in the temple?"
+      choices:
+        - "The scribes copying the law"
+        - "The money-changers and those who sold pigeons"
+        - "The priests receiving tithes"
+        - "The merchants selling lambs"
+      answer: "The money-changers and those who sold pigeons"
+      ref: "Matthew 21:12"
+      day: 1
+    - question: "In the parable of the tenants, what did the tenants do to the owner's son?"
+      choices:
+        - "Paid him the rent they owed"
+        - "Threw him out of the vineyard and killed him"
+        - "Locked him in the winepress"
+        - "Sent him back with empty hands"
+      answer: "Threw him out of the vineyard and killed him"
+      ref: "Matthew 21:39"
+      day: 2
+    - question: "Jesus said the temple was to be a house of prayer, but they had made it what?"
+      choices:
+        - "A marketplace of Israel"
+        - "A den of robbers"
+        - "A court of the Gentiles"
+        - "A monument to Herod"
+      answer: "A den of robbers"
+      ref: "Mark 11:17"
+      day: 3
+    - question: "Shown a denarius, what did Jesus tell those trying to trap him about taxes?"
+      choices:
+        - "Render to Caesar the things that are Caesar's, and to God the things that are God's"
+        - "The sons of the kingdom are free from the tax"
+        - "You cannot serve God and money"
+        - "Give the coin to the poor instead"
+      answer: "Render to Caesar the things that are Caesar's, and to God the things that are God's"
+      ref: "Mark 12:17"
+      day: 4
+    - question: "Which commandment did Jesus name as the most important of all?"
+      choices:
+        - "You shall not murder"
+        - "Love the Lord your God with all your heart, soul, mind, and strength"
+        - "Honor your father and mother"
+        - "Remember the Sabbath day, to keep it holy"
+      answer: "Love the Lord your God with all your heart, soul, mind, and strength"
+      ref: "Mark 12:29-30"
+      day: 5
+    - question: "Why did Jesus say the poor widow gave more than all the rich?"
+      choices:
+        - "Her coins were older and more valuable"
+        - "Out of her poverty she put in everything she had"
+        - "She gave secretly, without sounding a trumpet"
+        - "She gave every day, not once a year"
+      answer: "Out of her poverty she put in everything she had"
+      ref: "Mark 12:43-44"
+      day: 5
+  "16":
+    - question: "In the wedding feast parable, why was a guest cast into the outer darkness?"
+      choices:
+        - "He came without a wedding garment"
+        - "He took the seat of honor"
+        - "He refused to eat the feast"
+        - "He mocked the king's son"
+      answer: "He came without a wedding garment"
+      ref: "Matthew 22:11-13"
+      day: 1
+    - question: "Jesus said the scribes and Pharisees strain out a gnat but swallow a ___."
+      choices:
+        - "Camel"
+        - "Serpent"
+        - "Millstone"
+        - "Whole ox"
+      answer: "Camel"
+      ref: "Matthew 23:24"
+      day: 2
+    - question: "Who did Jesus say knows the day and hour of his coming?"
+      choices:
+        - "Only the Father"
+        - "The angels in heaven"
+        - "The Son and the Father together"
+        - "Those who watch the signs"
+      answer: "Only the Father"
+      ref: "Matthew 24:36"
+      day: 3
+    - question: "What did the five foolish virgins fail to bring?"
+      choices:
+        - "Their lamps"
+        - "Oil for their lamps"
+        - "Gifts for the bridegroom"
+        - "Invitations to the feast"
+      answer: "Oil for their lamps"
+      ref: "Matthew 25:3"
+      day: 4
+    - question: "What did the servant given one talent do with it?"
+      choices:
+        - "Traded with it and lost it"
+        - "Dug in the ground and hid it"
+        - "Gave it to the poor"
+        - "Deposited it with the bankers"
+      answer: "Dug in the ground and hid it"
+      ref: "Matthew 25:18"
+      day: 4
+    - question: "In the sheep and the goats, the King says that what was done to the least of these was done to whom?"
+      choices:
+        - "To the angels"
+        - "To the King himself"
+        - "To the prophets"
+        - "To the whole nation"
+      answer: "To the King himself"
+      ref: "Matthew 25:40"
+      day: 5
+  "17":
+    - question: "What does Luke say happened to Judas before he went to the chief priests?"
+      choices:
+        - "He demanded thirty pieces of silver"
+        - "Satan entered into him"
+        - "He quarreled with the other disciples"
+        - "He was seen with the temple guard"
+      answer: "Satan entered into him"
+      ref: "Luke 22:3"
+      day: 1
+    - question: "What did Jesus do at the supper that Peter at first refused?"
+      choices:
+        - "Break the bread for him"
+        - "Wash his feet"
+        - "Give him the cup"
+        - "Anoint his head with oil"
+      answer: "Wash his feet"
+      ref: "John 13:8"
+      day: 2
+    - question: "'A new commandment I give to you, that you ___.'"
+      choices:
+        - "Love one another, just as I have loved you"
+        - "Go and make disciples of all nations"
+        - "Take up your cross daily"
+        - "Keep my word and abide in it"
+      answer: "Love one another, just as I have loved you"
+      ref: "John 13:34"
+      day: 2
+    - question: "'I am the way, and the truth, and the life. No one comes to the Father except ___.'"
+      choices:
+        - "Through me"
+        - "By the law and the prophets"
+        - "Through the narrow gate"
+        - "By faith and works together"
+      answer: "Through me"
+      ref: "John 14:6"
+      day: 3
+    - question: "'I am the vine; you are the ___.'"
+      choices:
+        - "Branches"
+        - "Vinedressers"
+        - "Fruit"
+        - "Vineyard"
+      answer: "Branches"
+      ref: "John 15:5"
+      day: 4
+    - question: "'In the world you will have tribulation. But take heart; I have ___.'"
+      choices:
+        - "Overcome the world"
+        - "Prepared a place for you"
+        - "Prayed for your faith"
+        - "Sent you the Helper"
+      answer: "Overcome the world"
+      ref: "John 16:33"
+      day: 5
+  "18":
+    - question: "In his high priestly prayer, what did Jesus ask for all who would believe?"
+      choices:
+        - "That they would escape suffering"
+        - "That they may all be one"
+        - "That they would receive power"
+        - "That they would inherit thrones"
+      answer: "That they may all be one"
+      ref: "John 17:21"
+      day: 1
+    - question: "In Gethsemane Jesus prayed, 'Let this cup pass from me; nevertheless, ___.'"
+      choices:
+        - "Not as I will, but as you will"
+        - "Let your angels come quickly"
+        - "The spirit is willing, but the flesh is weak"
+        - "Into your hands I commit my spirit"
+      answer: "Not as I will, but as you will"
+      ref: "Matthew 26:39"
+      day: 2
+    - question: "How did Judas identify Jesus to the armed crowd?"
+      choices:
+        - "He pointed him out from a distance"
+        - "He greeted him with a kiss"
+        - "He called the guards to the garden gate"
+        - "He held up a torch beside him"
+      answer: "He greeted him with a kiss"
+      ref: "Matthew 26:48-49"
+      day: 3
+    - question: "What happened immediately after Peter's third denial?"
+      choices:
+        - "The servant girl called the guards"
+        - "The rooster crowed, and Peter went out and wept bitterly"
+        - "Jesus was led away to Pilate"
+        - "The other disciples fled the courtyard"
+      answer: "The rooster crowed, and Peter went out and wept bitterly"
+      ref: "Matthew 26:74-75"
+      day: 3
+    - question: "What did the woman at Bethany do that Jesus said would be told in memory of her?"
+      choices:
+        - "Gave her last two coins"
+        - "Poured costly ointment of pure nard over his head"
+        - "Washed his feet with her tears"
+        - "Wove the garment he wore"
+      answer: "Poured costly ointment of pure nard over his head"
+      ref: "Mark 14:3-9"
+      day: 4
+    - question: "Whom did Pilate release to the crowd instead of Jesus?"
+      choices:
+        - "Barabbas"
+        - "One of the two robbers"
+        - "Simon of Cyrene"
+        - "No one; he released no prisoner that year"
+      answer: "Barabbas"
+      ref: "Mark 15:15"
+      day: 5
+  "19":
+    - question: "Luke records that as Jesus prayed in agony, his sweat became like what?"
+      choices:
+        - "Great drops of blood falling to the ground"
+        - "The dew of the morning"
+        - "Rivers of tears"
+        - "A cold rain"
+      answer: "Great drops of blood falling to the ground"
+      ref: "Luke 22:44"
+      day: 1
+    - question: "When Pilate learned Jesus was a Galilean, to whom did he send him?"
+      choices:
+        - "Herod"
+        - "Caiaphas"
+        - "Annas"
+        - "The Sanhedrin"
+      answer: "Herod"
+      ref: "Luke 23:7"
+      day: 2
+    - question: "Who was pressed into carrying Jesus' cross behind him?"
+      choices:
+        - "Joseph of Arimathea"
+        - "Simon of Cyrene"
+        - "A soldier of the guard"
+        - "One of the two criminals"
+      answer: "Simon of Cyrene"
+      ref: "Luke 23:26"
+      day: 3
+    - question: "What did Jesus promise the criminal crucified beside him?"
+      choices:
+        - "Today you will be with me in paradise"
+        - "Your sins are forgiven; go in peace"
+        - "You will see the kingdom come with power"
+        - "Truly, your faith has saved you"
+      answer: "Today you will be with me in paradise"
+      ref: "Luke 23:43"
+      day: 3
+    - question: "Whose ear did Peter cut off in the garden?"
+      choices:
+        - "A Roman soldier's"
+        - "Malchus, the high priest's servant"
+        - "One of the temple guards"
+        - "The captain of the watch"
+      answer: "Malchus, the high priest's servant"
+      ref: "John 18:10"
+      day: 4
+    - question: "What were Jesus' final words from the cross in John's Gospel?"
+      choices:
+        - "It is finished"
+        - "Father, forgive them"
+        - "My God, my God, why have you forsaken me?"
+        - "Into your hands I commit my spirit"
+      answer: "It is finished"
+      ref: "John 19:30"
+      day: 5
+  "20":
+    - question: "What happened to the temple curtain at the moment Jesus died?"
+      choices:
+        - "It was taken down by the priests"
+        - "It was torn in two from top to bottom"
+        - "It caught fire from the altar"
+        - "Nothing; it hung until the temple fell"
+      answer: "It was torn in two from top to bottom"
+      ref: "Matthew 27:51"
+      day: 1
+    - question: "What did the angel at the tomb tell the women?"
+      choices:
+        - "He is not here, for he has risen, as he said"
+        - "Why do you seek the living among the dead?"
+        - "Do not be afraid; he goes before you to Jerusalem"
+        - "Come back on the third day"
+      answer: "He is not here, for he has risen, as he said"
+      ref: "Matthew 28:6"
+      day: 2
+    - question: "Seeing how Jesus died, what did the centurion at the cross say?"
+      choices:
+        - "Truly this man was the Son of God"
+        - "Certainly this man was innocent"
+        - "He saved others; himself he cannot save"
+        - "This was a righteous prophet"
+      answer: "Truly this man was the Son of God"
+      ref: "Mark 15:39"
+      day: 3
+    - question: "On the road to Emmaus, when did the two disciples finally recognize Jesus?"
+      choices:
+        - "When he explained the Scriptures"
+        - "When he broke the bread"
+        - "When he showed them his hands"
+        - "When he called them by name"
+      answer: "When he broke the bread"
+      ref: "Luke 24:30-31"
+      day: 4
+    - question: "What did Thomas say he needed before he would believe?"
+      choices:
+        - "To hear it from Peter himself"
+        - "To see and touch the mark of the nails"
+        - "To see Jesus eat and drink"
+        - "A sign from heaven"
+      answer: "To see and touch the mark of the nails"
+      ref: "John 20:25"
+      day: 5
+    - question: "By the sea, what question did Jesus ask Peter three times?"
+      choices:
+        - "Do you love me?"
+        - "Will you follow me?"
+        - "Who do you say that I am?"
+        - "Why did you deny me?"
+      answer: "Do you love me?"
+      ref: "John 21:15-17"
+      day: 5
+  "21":
+    - question: "Who was chosen by lot to replace Judas among the Twelve?"
+      choices:
+        - "Barsabbas called Justus"
+        - "Matthias"
+        - "Barnabas"
+        - "Stephen"
+      answer: "Matthias"
+      ref: "Acts 1:26"
+      day: 1
+    - question: "At Pentecost, what rested on each of the believers?"
+      choices:
+        - "A white dove"
+        - "Divided tongues as of fire"
+        - "A cloud of glory"
+        - "A crown of light"
+      answer: "Divided tongues as of fire"
+      ref: "Acts 2:3"
+      day: 2
+    - question: "About how many souls were added to the church on the day of Pentecost?"
+      choices:
+        - "One hundred twenty"
+        - "Three thousand"
+        - "Five hundred"
+        - "Five thousand"
+      answer: "Three thousand"
+      ref: "Acts 2:41"
+      day: 2
+    - question: "What did Peter say to the lame man at the Beautiful Gate?"
+      choices:
+        - "Silver and gold have I none, but rise up and walk in the name of Jesus"
+        - "Your sins are forgiven you"
+        - "Go, show yourself to the priest"
+        - "Your alms have come up before God"
+      answer: "Silver and gold have I none, but rise up and walk in the name of Jesus"
+      ref: "Acts 3:6"
+      day: 3
+    - question: "Why was the council astonished at Peter and John?"
+      choices:
+        - "They quoted the prophets from memory"
+        - "They were uneducated, common men, yet spoke with boldness"
+        - "They performed a sign before the court"
+        - "They refused to answer any question"
+      answer: "They were uneducated, common men, yet spoke with boldness"
+      ref: "Acts 4:13"
+      day: 4
+    - question: "Why did Ananias and Sapphira fall dead?"
+      choices:
+        - "They refused to sell their land"
+        - "They lied about the price of the land they sold"
+        - "They stole from the apostles' fund"
+        - "They blasphemed in the assembly"
+      answer: "They lied about the price of the land they sold"
+      ref: "Acts 5:1-10"
+      day: 5
+  "22":
+    - question: "Why did the apostles have the church choose the seven?"
+      choices:
+        - "To carry the gospel to Samaria"
+        - "To oversee the daily distribution to the widows"
+        - "To copy the Scriptures for the churches"
+        - "To guard the apostles from the Sanhedrin"
+      answer: "To oversee the daily distribution to the widows"
+      ref: "Acts 6:1-3"
+      day: 1
+    - question: "What did Stephen see as his accusers raged?"
+      choices:
+        - "The heavens opened and the Son of Man standing at God's right hand"
+        - "An angel with a drawn sword"
+        - "A vision of the new Jerusalem"
+        - "Fire coming down on the temple"
+      answer: "The heavens opened and the Son of Man standing at God's right hand"
+      ref: "Acts 7:56"
+      day: 2
+    - question: "The witnesses who stoned Stephen laid their garments at whose feet?"
+      choices:
+        - "The high priest's"
+        - "A young man named Saul"
+        - "The captain of the temple guard"
+        - "Gamaliel the teacher"
+      answer: "A young man named Saul"
+      ref: "Acts 7:58"
+      day: 2
+    - question: "Whom did Philip meet reading Isaiah in a chariot?"
+      choices:
+        - "A Roman centurion"
+        - "An Ethiopian eunuch, treasurer to his queen"
+        - "A Greek merchant of Damascus"
+        - "A scribe returning from Egypt"
+      answer: "An Ethiopian eunuch, treasurer to his queen"
+      ref: "Acts 8:27-28"
+      day: 3
+    - question: "'Be doers of the word, and not ___ only.'"
+      choices:
+        - "Hearers"
+        - "Speakers"
+        - "Readers"
+        - "Judges"
+      answer: "Hearers"
+      ref: "James 1:22"
+      day: 4
+    - question: "'Faith by itself, if it does not have works, is ___.'"
+      choices:
+        - "Dead"
+        - "Weak"
+        - "Hidden"
+        - "Incomplete"
+      answer: "Dead"
+      ref: "James 2:17"
+      day: 5
+  "23":
+    - question: "James compares the tongue to a small fire that does what?"
+      choices:
+        - "Warms the whole house"
+        - "Sets a great forest ablaze"
+        - "Refines the gold"
+        - "Lights the lampstand"
+      answer: "Sets a great forest ablaze"
+      ref: "James 3:5"
+      day: 1
+    - question: "'Draw near to God, and ___.'"
+      choices:
+        - "He will draw near to you"
+        - "He will lift you up"
+        - "He will give you rest"
+        - "He will hear your prayers"
+      answer: "He will draw near to you"
+      ref: "James 4:8"
+      day: 2
+    - question: "Which prophet does James name as a man with a nature like ours whose prayer shut the sky?"
+      choices:
+        - "Moses"
+        - "Elijah"
+        - "Jonah"
+        - "Daniel"
+      answer: "Elijah"
+      ref: "James 5:17"
+      day: 3
+    - question: "What did Saul hear on the road to Damascus?"
+      choices:
+        - "Saul, Saul, why are you persecuting me?"
+        - "Rise, your sins are forgiven"
+        - "This is my beloved Son; listen to him"
+        - "Go to the Gentiles far away"
+      answer: "Saul, Saul, why are you persecuting me?"
+      ref: "Acts 9:4"
+      day: 4
+    - question: "Who was sent to lay hands on the blinded Saul in Damascus?"
+      choices:
+        - "Barnabas"
+        - "Ananias"
+        - "Philip"
+        - "Peter"
+      answer: "Ananias"
+      ref: "Acts 9:17"
+      day: 4
+    - question: "What did Peter see in his rooftop vision at Joppa?"
+      choices:
+        - "A ladder reaching to heaven"
+        - "A great sheet let down, full of all kinds of animals"
+        - "A man of Macedonia pleading for help"
+        - "Seven golden lampstands"
+      answer: "A great sheet let down, full of all kinds of animals"
+      ref: "Acts 10:11-13"
+      day: 5
+  "24":
+    - question: "In what city were the disciples first called Christians?"
+      choices:
+        - "Jerusalem"
+        - "Antioch"
+        - "Damascus"
+        - "Ephesus"
+      answer: "Antioch"
+      ref: "Acts 11:26"
+      day: 1
+    - question: "When the freed Peter knocked at the gate, what did the servant girl Rhoda do?"
+      choices:
+        - "Refused to believe it was him"
+        - "In her joy she left him standing there and ran to tell the others"
+        - "Woke the whole household with a shout"
+        - "Thought he was a soldier and hid"
+      answer: "In her joy she left him standing there and ran to tell the others"
+      ref: "Acts 12:14"
+      day: 2
+    - question: "At Antioch, whom did the Holy Spirit say to set apart for the work?"
+      choices:
+        - "Barnabas and Saul"
+        - "Peter and John"
+        - "Judas and Silas"
+        - "Timothy and Titus"
+      answer: "Barnabas and Saul"
+      ref: "Acts 13:2"
+      day: 3
+    - question: "After the healing at Lystra, what did the crowds call Barnabas and Paul?"
+      choices:
+        - "Prophets of the Most High"
+        - "The gods Zeus and Hermes"
+        - "Sons of Abraham"
+        - "Physicians from the east"
+      answer: "The gods Zeus and Hermes"
+      ref: "Acts 14:12"
+      day: 4
+    - question: "What happened to Paul at Lystra when the crowd turned?"
+      choices:
+        - "He was thrown into prison"
+        - "He was stoned and dragged out of the city as dead"
+        - "He was driven out by night"
+        - "He was beaten with rods"
+      answer: "He was stoned and dragged out of the city as dead"
+      ref: "Acts 14:19"
+      day: 4
+    - question: "What astonished Paul about the Galatians at the letter's opening?"
+      choices:
+        - "How quickly they were deserting to a different gospel"
+        - "How generously they had given"
+        - "How firmly they stood in persecution"
+        - "How many had believed at once"
+      answer: "How quickly they were deserting to a different gospel"
+      ref: "Galatians 1:6"
+      day: 5
+  "25":
+    - question: "Whom did Paul oppose to his face at Antioch for drawing back from Gentile believers?"
+      choices:
+        - "Barnabas"
+        - "Cephas"
+        - "James"
+        - "Apollos"
+      answer: "Cephas"
+      ref: "Galatians 2:11"
+      day: 1
+    - question: "'I have been crucified with Christ. It is no longer I who live, but ___.'"
+      choices:
+        - "Christ who lives in me"
+        - "The Spirit who dwells in me"
+        - "The new man within me"
+        - "Faith working through love"
+      answer: "Christ who lives in me"
+      ref: "Galatians 2:20"
+      day: 1
+    - question: "'There is neither Jew nor Greek, there is neither slave nor free... for you are all ___ in Christ Jesus.'"
+      choices:
+        - "One"
+        - "Free"
+        - "Heirs"
+        - "Chosen"
+      answer: "One"
+      ref: "Galatians 3:28"
+      day: 2
+    - question: "In Paul's allegory, Hagar and Sarah stand for what?"
+      choices:
+        - "Two covenants"
+        - "Two temples"
+        - "Two nations at war"
+        - "Faith and doubt"
+      answer: "Two covenants"
+      ref: "Galatians 4:24"
+      day: 3
+    - question: "The fruit of the Spirit begins with which three?"
+      choices:
+        - "Love, joy, peace"
+        - "Faith, hope, love"
+        - "Kindness, goodness, gentleness"
+        - "Wisdom, knowledge, understanding"
+      answer: "Love, joy, peace"
+      ref: "Galatians 5:22"
+      day: 4
+    - question: "'Do not be deceived: God is not mocked, for whatever one sows, ___.'"
+      choices:
+        - "That will he also reap"
+        - "The Lord will repay"
+        - "Will be tested by fire"
+        - "Grows while he sleeps"
+      answer: "That will he also reap"
+      ref: "Galatians 6:7"
+      day: 5
+  "26":
+    - question: "What question did the Jerusalem Council meet to settle?"
+      choices:
+        - "Whether Gentile believers must be circumcised and keep the law of Moses"
+        - "Whether Paul was truly an apostle"
+        - "Whether believers could eat with unbelievers"
+        - "Which city would lead the churches"
+      answer: "Whether Gentile believers must be circumcised and keep the law of Moses"
+      ref: "Acts 15:5-6"
+      day: 1
+    - question: "What vision redirected Paul's journey at Troas?"
+      choices:
+        - "An angel pointing toward Rome"
+        - "A man of Macedonia pleading, come over and help us"
+        - "A great sheet of unclean animals"
+        - "The risen Lord standing by him"
+      answer: "A man of Macedonia pleading, come over and help us"
+      ref: "Acts 16:9"
+      day: 2
+    - question: "Who was the seller of purple goods whose heart the Lord opened at Philippi?"
+      choices:
+        - "Phoebe"
+        - "Lydia"
+        - "Priscilla"
+        - "Dorcas"
+      answer: "Lydia"
+      ref: "Acts 16:14"
+      day: 2
+    - question: "After the earthquake, what did the Philippian jailer ask?"
+      choices:
+        - "Sirs, what must I do to be saved?"
+        - "Are all the prisoners here?"
+        - "Why did you not escape?"
+        - "What god do you serve?"
+      answer: "Sirs, what must I do to be saved?"
+      ref: "Acts 16:30"
+      day: 3
+    - question: "Why were the Bereans called more noble than the Thessalonians?"
+      choices:
+        - "They received the word eagerly and examined the Scriptures daily"
+        - "They gave more generously to the poor"
+        - "They suffered persecution without complaint"
+        - "They sent Paul on his way in peace"
+      answer: "They received the word eagerly and examined the Scriptures daily"
+      ref: "Acts 17:11"
+      day: 4
+    - question: "In Athens, Paul preached from an altar bearing what inscription?"
+      choices:
+        - "To the unknown god"
+        - "To Zeus, father of all"
+        - "To the god of the Hebrews"
+        - "To wisdom"
+      answer: "To the unknown god"
+      ref: "Acts 17:23"
+      day: 5
+  "27":
+    - question: "What trade did Paul share with Aquila and Priscilla in Corinth?"
+      choices:
+        - "Fishing"
+        - "Tentmaking"
+        - "Weaving purple cloth"
+        - "Carpentry"
+      answer: "Tentmaking"
+      ref: "Acts 18:3"
+      day: 1
+    - question: "Why did the Lord tell Paul in a vision not to be afraid in Corinth?"
+      choices:
+        - "I have many in this city who are my people"
+        - "Gallio will judge in your favor"
+        - "You will soon depart for Rome"
+        - "No one can harm an apostle"
+      answer: "I have many in this city who are my people"
+      ref: "Acts 18:9-10"
+      day: 1
+    - question: "Paul says the Thessalonians turned to God from what?"
+      choices:
+        - "Idols, to serve the living and true God"
+        - "The law, to live by faith"
+        - "Riches, to share with the poor"
+        - "Philosophy, to embrace the cross"
+      answer: "Idols, to serve the living and true God"
+      ref: "1 Thessalonians 1:9"
+      day: 2
+    - question: "Paul says he was gentle among the Thessalonians, like what?"
+      choices:
+        - "A shepherd among the flock"
+        - "A nursing mother caring for her own children"
+        - "A servant waiting at table"
+        - "An elder among his sons"
+      answer: "A nursing mother caring for her own children"
+      ref: "1 Thessalonians 2:7"
+      day: 3
+    - question: "Who brought Paul the good news of the Thessalonians' faith and love?"
+      choices:
+        - "Silas"
+        - "Timothy"
+        - "Titus"
+        - "Epaphras"
+      answer: "Timothy"
+      ref: "1 Thessalonians 3:6"
+      day: 4
+    - question: "Concerning those who have fallen asleep, Paul says believers do not grieve like whom?"
+      choices:
+        - "Others who have no hope"
+        - "The hired mourners"
+        - "Those under the law"
+        - "The nations that forget God"
+      answer: "Others who have no hope"
+      ref: "1 Thessalonians 4:13"
+      day: 5
+  "28":
+    - question: "The day of the Lord will come like what?"
+      choices:
+        - "A thief in the night"
+        - "Lightning from the east"
+        - "A trumpet at dawn"
+        - "The flood in Noah's day"
+      answer: "A thief in the night"
+      ref: "1 Thessalonians 5:2"
+      day: 1
+    - question: "'Rejoice always, pray without ceasing, give thanks ___.'"
+      choices:
+        - "In all circumstances"
+        - "With every offering"
+        - "At all the appointed feasts"
+        - "When the Lord returns"
+      answer: "In all circumstances"
+      ref: "1 Thessalonians 5:16-18"
+      day: 1
+    - question: "Paul says the day of the Lord will not come until what happens first?"
+      choices:
+        - "The rebellion comes and the man of lawlessness is revealed"
+        - "The gospel reaches every nation"
+        - "The temple is rebuilt in Jerusalem"
+        - "Elijah returns"
+      answer: "The rebellion comes and the man of lawlessness is revealed"
+      ref: "2 Thessalonians 2:3"
+      day: 3
+    - question: "'If anyone is not willing to work, let him ___.'"
+      choices:
+        - "Not eat"
+        - "Be admonished twice"
+        - "Depart from among you"
+        - "Learn from the ant"
+      answer: "Not eat"
+      ref: "2 Thessalonians 3:10"
+      day: 4
+    - question: "Apollos was eloquent and competent in the Scriptures, but he knew only what?"
+      choices:
+        - "The baptism of John"
+        - "The law of Moses"
+        - "The Greek philosophers"
+        - "The psalms of David"
+      answer: "The baptism of John"
+      ref: "Acts 18:24-25"
+      day: 5
+    - question: "Who took Apollos aside and explained the way of God more accurately?"
+      choices:
+        - "Paul and Barnabas"
+        - "Priscilla and Aquila"
+        - "Timothy and Silas"
+        - "The elders at Ephesus"
+      answer: "Priscilla and Aquila"
+      ref: "Acts 18:26"
+      day: 5
+  "29":
+    - question: "What did the evil spirit say to the seven sons of Sceva?"
+      choices:
+        - "Jesus I know, and Paul I recognize, but who are you?"
+        - "Have you come to torment us before the time?"
+        - "What have we to do with you, sons of the priest?"
+        - "Depart, for this power is not yours"
+      answer: "Jesus I know, and Paul I recognize, but who are you?"
+      ref: "Acts 19:15"
+      day: 1
+    - question: "The riot in Ephesus was stirred up by silversmiths who made shrines of which goddess?"
+      choices:
+        - "Athena"
+        - "Artemis"
+        - "Aphrodite"
+        - "Roma"
+      answer: "Artemis"
+      ref: "Acts 19:24-28"
+      day: 1
+    - question: "'The word of the cross is folly to those who are perishing, but to us who are being saved it is ___.'"
+      choices:
+        - "The power of God"
+        - "The wisdom of the ages"
+        - "A stumbling block"
+        - "The light of the world"
+      answer: "The power of God"
+      ref: "1 Corinthians 1:18"
+      day: 2
+    - question: "What did Paul resolve to know among the Corinthians?"
+      choices:
+        - "Nothing except Jesus Christ and him crucified"
+        - "The wisdom of the Greeks"
+        - "The whole counsel of God"
+        - "The traditions of the fathers"
+      answer: "Nothing except Jesus Christ and him crucified"
+      ref: "1 Corinthians 2:2"
+      day: 3
+    - question: "'I planted, Apollos watered, but ___.'"
+      choices:
+        - "God gave the growth"
+        - "The harvest is the Lord's"
+        - "The field belongs to Christ"
+        - "You are the fruit"
+      answer: "God gave the growth"
+      ref: "1 Corinthians 3:6"
+      day: 4
+    - question: "Paul says the kingdom of God does not consist in talk but in what?"
+      choices:
+        - "Power"
+        - "Wisdom"
+        - "Righteousness"
+        - "Signs"
+      answer: "Power"
+      ref: "1 Corinthians 4:20"
+      day: 5
+  "30":
+    - question: "'A little leaven ___.'"
+      choices:
+        - "Leavens the whole lump"
+        - "Is soon forgotten"
+        - "Makes the bread sweet"
+        - "Spoils in a day"
+      answer: "Leavens the whole lump"
+      ref: "1 Corinthians 5:6"
+      day: 1
+    - question: "'Your body is a temple of ___.'"
+      choices:
+        - "The Holy Spirit"
+        - "The living God"
+        - "Wisdom"
+        - "The new covenant"
+      answer: "The Holy Spirit"
+      ref: "1 Corinthians 6:19"
+      day: 2
+    - question: "What does Paul say to the unmarried and the widows?"
+      choices:
+        - "It is good for them to remain single, as he is"
+        - "They should marry as soon as they are able"
+        - "They should take vows of service"
+        - "They should live in the household of a relative"
+      answer: "It is good for them to remain single, as he is"
+      ref: "1 Corinthians 7:8"
+      day: 3
+    - question: "'Knowledge puffs up, but love ___.'"
+      choices:
+        - "Builds up"
+        - "Never ends"
+        - "Covers all things"
+        - "Humbles the wise"
+      answer: "Builds up"
+      ref: "1 Corinthians 8:1"
+      day: 4
+    - question: "'I have become all things to all people, that ___.'"
+      choices:
+        - "By all means I might save some"
+        - "None may accuse me"
+        - "The gospel may be without cost"
+        - "I might please everyone"
+      answer: "By all means I might save some"
+      ref: "1 Corinthians 9:22"
+      day: 5
+    - question: "Paul says athletes run to receive a perishable wreath, but believers run for what?"
+      choices:
+        - "An imperishable one"
+        - "The praise of God"
+        - "A crown of righteousness"
+        - "The prize of heaven's rest"
+      answer: "An imperishable one"
+      ref: "1 Corinthians 9:25"
+      day: 5
+  "31":
+    - question: "With every temptation, what does Paul say God will also provide?"
+      choices:
+        - "The way of escape"
+        - "A stronger faith"
+        - "An angel to guard you"
+        - "Grace to forget it"
+      answer: "The way of escape"
+      ref: "1 Corinthians 10:13"
+      day: 1
+    - question: "As often as you eat the bread and drink the cup, what do you proclaim until he comes?"
+      choices:
+        - "The Lord's death"
+        - "The Lord's kingdom"
+        - "The forgiveness of sins"
+        - "The unity of the church"
+      answer: "The Lord's death"
+      ref: "1 Corinthians 11:26"
+      day: 2
+    - question: "In Paul's picture of the body, what can the eye not say to the hand?"
+      choices:
+        - "I have no need of you"
+        - "You are the lesser member"
+        - "Do as I see"
+        - "Stay in your place"
+      answer: "I have no need of you"
+      ref: "1 Corinthians 12:21"
+      day: 3
+    - question: "'So now faith, hope, and love abide, these three; but the greatest of these is ___.'"
+      choices:
+        - "Love"
+        - "Faith"
+        - "Hope"
+        - "They are equal"
+      answer: "Love"
+      ref: "1 Corinthians 13:13"
+      day: 4
+    - question: "Without love, speaking in the tongues of men and of angels makes one what?"
+      choices:
+        - "A noisy gong or a clanging cymbal"
+        - "A voice crying in the wilderness"
+        - "A whisper in the storm"
+        - "An empty vessel"
+      answer: "A noisy gong or a clanging cymbal"
+      ref: "1 Corinthians 13:1"
+      day: 4
+    - question: "'All things should be done decently and ___.'"
+      choices:
+        - "In order"
+        - "In love"
+        - "In the Spirit"
+        - "Without grumbling"
+      answer: "In order"
+      ref: "1 Corinthians 14:40"
+      day: 5
+  "32":
+    - question: "If Christ has not been raised, what does Paul say about our faith?"
+      choices:
+        - "It is futile and we are still in our sins"
+        - "It still saves, for God is merciful"
+        - "It rests on the prophets instead"
+        - "It will be proven at the judgment"
+      answer: "It is futile and we are still in our sins"
+      ref: "1 Corinthians 15:17"
+      day: 1
+    - question: "'O death, where is your victory? O death, where is your ___?'"
+      choices:
+        - "Sting"
+        - "Power"
+        - "Terror"
+        - "Kingdom"
+      answer: "Sting"
+      ref: "1 Corinthians 15:55"
+      day: 1
+    - question: "'Let all that you do be done in ___.'"
+      choices:
+        - "Love"
+        - "Faith"
+        - "Order"
+        - "The name of Jesus"
+      answer: "Love"
+      ref: "1 Corinthians 16:14"
+      day: 2
+    - question: "Why does the God of all comfort comfort us in affliction?"
+      choices:
+        - "So that we can comfort those in any affliction"
+        - "So that our faith will not fail"
+        - "To prove our sincerity"
+        - "To spare us future trials"
+      answer: "So that we can comfort those in any affliction"
+      ref: "2 Corinthians 1:4"
+      day: 3
+    - question: "Paul says believers are the aroma of whom, spreading everywhere?"
+      choices:
+        - "Christ"
+        - "The temple incense"
+        - "The new covenant"
+        - "The Spirit"
+      answer: "Christ"
+      ref: "2 Corinthians 2:15"
+      day: 4
+    - question: "'The letter kills, but ___.'"
+      choices:
+        - "The Spirit gives life"
+        - "The word endures"
+        - "Grace redeems"
+        - "Love never fails"
+      answer: "The Spirit gives life"
+      ref: "2 Corinthians 3:6"
+      day: 5
+  "33":
+    - question: "'We have this treasure in ___, to show that the surpassing power belongs to God.'"
+      choices:
+        - "Jars of clay"
+        - "Vessels of gold"
+        - "Earthen lamps"
+        - "Broken cisterns"
+      answer: "Jars of clay"
+      ref: "2 Corinthians 4:7"
+      day: 1
+    - question: "'If anyone is in Christ, he is ___.'"
+      choices:
+        - "A new creation"
+        - "An heir of the promise"
+        - "A citizen of heaven"
+        - "A temple of God"
+      answer: "A new creation"
+      ref: "2 Corinthians 5:17"
+      day: 2
+    - question: "Paul says we are ___ for Christ, God making his appeal through us."
+      choices:
+        - "Ambassadors"
+        - "Witnesses"
+        - "Servants"
+        - "Watchmen"
+      answer: "Ambassadors"
+      ref: "2 Corinthians 5:20"
+      day: 2
+    - question: "'Do not be unequally yoked with ___.'"
+      choices:
+        - "Unbelievers"
+        - "The idle"
+        - "The rich"
+        - "False apostles"
+      answer: "Unbelievers"
+      ref: "2 Corinthians 6:14"
+      day: 3
+    - question: "What does godly grief produce?"
+      choices:
+        - "Repentance that leads to salvation without regret"
+        - "A broken and contrite heart"
+        - "Patience in affliction"
+        - "The fear of the Lord"
+      answer: "Repentance that leads to salvation without regret"
+      ref: "2 Corinthians 7:10"
+      day: 4
+    - question: "Out of what did the Macedonian churches give so richly?"
+      choices:
+        - "Their abundance of harvest"
+        - "Extreme poverty, with an abundance of joy"
+        - "The temple treasury"
+        - "The gifts of visiting churches"
+      answer: "Extreme poverty, with an abundance of joy"
+      ref: "2 Corinthians 8:2"
+      day: 5
+  "34":
+    - question: "'God loves a ___ giver.'"
+      choices:
+        - "Cheerful"
+        - "Generous"
+        - "Secret"
+        - "Faithful"
+      answer: "Cheerful"
+      ref: "2 Corinthians 9:7"
+      day: 1
+    - question: "The weapons of our warfare are not of the flesh but have divine power to do what?"
+      choices:
+        - "Destroy strongholds"
+        - "Divide soul and spirit"
+        - "Quench every fiery dart"
+        - "Bind the strong man"
+      answer: "Destroy strongholds"
+      ref: "2 Corinthians 10:4"
+      day: 2
+    - question: "How did Paul escape from Damascus?"
+      choices:
+        - "He was lowered in a basket through a window in the wall"
+        - "He slipped out among the caravan traders"
+        - "Roman soldiers escorted him by night"
+        - "An earthquake opened the city gate"
+      answer: "He was lowered in a basket through a window in the wall"
+      ref: "2 Corinthians 11:33"
+      day: 3
+    - question: "What answer did Paul receive when he pleaded about his thorn in the flesh?"
+      choices:
+        - "My grace is sufficient for you, for my power is made perfect in weakness"
+        - "Your faith has made you well"
+        - "The thorn will be removed in due time"
+        - "Bear it as a soldier of Christ"
+      answer: "My grace is sufficient for you, for my power is made perfect in weakness"
+      ref: "2 Corinthians 12:9"
+      day: 4
+    - question: "How many times did Paul plead for the thorn to leave him?"
+      choices:
+        - "Once"
+        - "Three times"
+        - "Seven times"
+        - "Every day for a year"
+      answer: "Three times"
+      ref: "2 Corinthians 12:8"
+      day: 4
+    - question: "Paul's closing benediction names the grace of the Lord Jesus, the love of God, and the fellowship of whom?"
+      choices:
+        - "The Holy Spirit"
+        - "The saints"
+        - "The churches"
+        - "The Father"
+      answer: "The Holy Spirit"
+      ref: "2 Corinthians 13:14"
+      day: 5
+  "35":
+    - question: "Why did Paul change his plans and return through Macedonia instead of sailing for Syria?"
+      choices:
+        - "A plot was made against him by the Jews"
+        - "A storm closed the sea lanes"
+        - "The churches begged him to stay"
+        - "He fell ill at Corinth"
+      answer: "A plot was made against him by the Jews"
+      ref: "Acts 20:3"
+      day: 1
+    - question: "'I am not ashamed of the gospel, for it is ___ for salvation to everyone who believes.'"
+      choices:
+        - "The power of God"
+        - "The wisdom of God"
+        - "The gift of God"
+        - "The righteousness of God"
+      answer: "The power of God"
+      ref: "Romans 1:16"
+      day: 2
+    - question: "'The righteous shall live by ___.'"
+      choices:
+        - "Faith"
+        - "The law"
+        - "Hope"
+        - "Every word of God"
+      answer: "Faith"
+      ref: "Romans 1:17"
+      day: 2
+    - question: "What is God's kindness meant to lead you to?"
+      choices:
+        - "Repentance"
+        - "Gratitude"
+        - "Obedience"
+        - "Wisdom"
+      answer: "Repentance"
+      ref: "Romans 2:4"
+      day: 3
+    - question: "'For all have sinned and ___.'"
+      choices:
+        - "Fall short of the glory of God"
+        - "Are under the curse of the law"
+        - "Turned every one to his own way"
+        - "Are without excuse"
+      answer: "Fall short of the glory of God"
+      ref: "Romans 3:23"
+      day: 4
+    - question: "Abraham believed God, and it was counted to him as what?"
+      choices:
+        - "Righteousness"
+        - "Obedience"
+        - "A covenant"
+        - "Wisdom"
+      answer: "Righteousness"
+      ref: "Romans 4:3"
+      day: 5
+  "36":
+    - question: "'God shows his love for us in that while we were still sinners, ___.'"
+      choices:
+        - "Christ died for us"
+        - "He sent his prophets to us"
+        - "He withheld his judgment"
+        - "He called us his friends"
+      answer: "Christ died for us"
+      ref: "Romans 5:8"
+      day: 1
+    - question: "'The wages of sin is death, but the free gift of God is ___.'"
+      choices:
+        - "Eternal life in Christ Jesus our Lord"
+        - "Forgiveness for the repentant"
+        - "The righteousness of the law"
+        - "Peace beyond understanding"
+      answer: "Eternal life in Christ Jesus our Lord"
+      ref: "Romans 6:23"
+      day: 2
+    - question: "How does Paul describe his inner struggle in Romans 7?"
+      choices:
+        - "I do not do the good I want, but the evil I do not want is what I keep on doing"
+        - "My spirit wars against the powers of the air"
+        - "I have fought the good fight and grown weary"
+        - "The law is too hard for anyone to keep"
+      answer: "I do not do the good I want, but the evil I do not want is what I keep on doing"
+      ref: "Romans 7:19"
+      day: 3
+    - question: "'There is therefore now no ___ for those who are in Christ Jesus.'"
+      choices:
+        - "Condemnation"
+        - "Separation"
+        - "Fear"
+        - "Law"
+      answer: "Condemnation"
+      ref: "Romans 8:1"
+      day: 4
+    - question: "What does Paul conclude can separate us from the love of God in Christ Jesus?"
+      choices:
+        - "Nothing in all creation"
+        - "Only our own unbelief"
+        - "Death alone"
+        - "The powers of darkness, for a time"
+      answer: "Nothing in all creation"
+      ref: "Romans 8:38-39"
+      day: 4
+    - question: "In Romans 9, what right does the potter have over the clay?"
+      choices:
+        - "To make from the same lump one vessel for honorable use and another for dishonorable"
+        - "To discard what is marred beyond repair"
+        - "To display his finest work in the temple"
+        - "To remake every vessel in the end"
+      answer: "To make from the same lump one vessel for honorable use and another for dishonorable"
+      ref: "Romans 9:21"
+      day: 5
+  "37":
+    - question: "'If you confess with your mouth that Jesus is Lord and believe in your heart that ___, you will be saved.'"
+      choices:
+        - "God raised him from the dead"
+        - "He died for your sins"
+        - "He is the Son of God"
+        - "He is coming again"
+      answer: "God raised him from the dead"
+      ref: "Romans 10:9"
+      day: 1
+    - question: "'Faith comes from hearing, and hearing through ___.'"
+      choices:
+        - "The word of Christ"
+        - "The preaching of the prophets"
+        - "The reading of the law"
+        - "Signs and wonders"
+      answer: "The word of Christ"
+      ref: "Romans 10:17"
+      day: 1
+    - question: "How does Paul picture the Gentiles' place in God's people?"
+      choices:
+        - "Wild olive branches grafted into the cultivated tree"
+        - "A second flock in a new sheepfold"
+        - "Stones added to a finished temple"
+        - "Guests seated at the far end of the table"
+      answer: "Wild olive branches grafted into the cultivated tree"
+      ref: "Romans 11:17"
+      day: 2
+    - question: "'Present your bodies as a ___, holy and acceptable to God.'"
+      choices:
+        - "Living sacrifice"
+        - "Pleasing offering"
+        - "Vessel of honor"
+        - "Temple of praise"
+      answer: "Living sacrifice"
+      ref: "Romans 12:1"
+      day: 3
+    - question: "'Love is the fulfilling of ___.'"
+      choices:
+        - "The law"
+        - "All righteousness"
+        - "The promise"
+        - "The commandment"
+      answer: "The law"
+      ref: "Romans 13:10"
+      day: 4
+    - question: "On disputable matters like special days, what does Paul say each person should be?"
+      choices:
+        - "Fully convinced in his own mind"
+        - "Silent until the elders decide"
+        - "Guided by the strongest brother"
+        - "Bound by the customs of his church"
+      answer: "Fully convinced in his own mind"
+      ref: "Romans 14:5"
+      day: 5
+  "38":
+    - question: "What was Paul's stated ambition as a preacher?"
+      choices:
+        - "To preach the gospel where Christ had not been named"
+        - "To bring the gospel before Caesar himself"
+        - "To plant a church in every province"
+        - "To win his own people Israel first"
+      answer: "To preach the gospel where Christ had not been named"
+      ref: "Romans 15:20"
+      day: 1
+    - question: "Who is commended at the start of Romans 16, a servant of the church at Cenchreae?"
+      choices:
+        - "Phoebe"
+        - "Junia"
+        - "Priscilla"
+        - "Lydia"
+      answer: "Phoebe"
+      ref: "Romans 16:1"
+      day: 2
+    - question: "What happened to Eutychus as Paul talked on toward midnight?"
+      choices:
+        - "He fell asleep and fell from the third-story window"
+        - "He interrupted with a prophecy"
+        - "He knocked over the lamps in the upper room"
+        - "He left to guard the door"
+      answer: "He fell asleep and fell from the third-story window"
+      ref: "Acts 20:9"
+      day: 3
+    - question: "Paul reminded the Ephesian elders of which words of the Lord Jesus?"
+      choices:
+        - "It is more blessed to give than to receive"
+        - "The laborer deserves his wages"
+        - "Feed my sheep"
+        - "Freely you received; freely give"
+      answer: "It is more blessed to give than to receive"
+      ref: "Acts 20:35"
+      day: 3
+    - question: "What did the prophet Agabus do with Paul's belt?"
+      choices:
+        - "Bound his own hands and feet to foretell Paul's arrest"
+        - "Tore it in two before the assembly"
+        - "Laid it on the sick to heal them"
+        - "Sent it to the elders in Jerusalem"
+      answer: "Bound his own hands and feet to foretell Paul's arrest"
+      ref: "Acts 21:11"
+      day: 4
+    - question: "What spared Paul from being examined by flogging?"
+      choices:
+        - "He was a Roman citizen by birth"
+        - "The tribune recognized him as a rabbi"
+        - "The crowd demanded his release"
+        - "Night had already fallen"
+      answer: "He was a Roman citizen by birth"
+      ref: "Acts 22:25-28"
+      day: 5
+  "39":
+    - question: "How many men bound themselves by oath not to eat or drink until they had killed Paul?"
+      choices:
+        - "More than forty"
+        - "Twelve"
+        - "Seventy"
+        - "Ten"
+      answer: "More than forty"
+      ref: "Acts 23:13"
+      day: 1
+    - question: "Who uncovered the plot and warned the tribune?"
+      choices:
+        - "Paul's sister's son"
+        - "A repentant conspirator"
+        - "A servant of the high priest"
+        - "A Roman spy in the council"
+      answer: "Paul's sister's son"
+      ref: "Acts 23:16"
+      day: 1
+    - question: "Why did Felix keep sending for Paul during his two years in custody?"
+      choices:
+        - "He hoped Paul would offer him money"
+        - "He wanted to learn the Hebrew Scriptures"
+        - "He feared the Jerusalem council"
+        - "He planned to release him quietly"
+      answer: "He hoped Paul would offer him money"
+      ref: "Acts 24:26"
+      day: 2
+    - question: "What appeal did Paul make before Festus?"
+      choices:
+        - "I appeal to Caesar"
+        - "I appeal to the law of Moses"
+        - "Send me back to Tarsus"
+        - "Let King Agrippa judge me"
+      answer: "I appeal to Caesar"
+      ref: "Acts 25:11"
+      day: 3
+    - question: "How did King Agrippa respond to Paul's defense?"
+      choices:
+        - "In a short time would you persuade me to be a Christian?"
+        - "This man is out of his mind"
+        - "Take him away; he deserves death"
+        - "I find no fault in him at all"
+      answer: "In a short time would you persuade me to be a Christian?"
+      ref: "Acts 26:28"
+      day: 4
+    - question: "In the storm at sea, what did the angel tell Paul?"
+      choices:
+        - "He must stand before Caesar, and all sailing with him would live"
+        - "The ship would reach Rome unharmed"
+        - "Only the faithful aboard would be spared"
+        - "He should take command of the ship"
+      answer: "He must stand before Caesar, and all sailing with him would live"
+      ref: "Acts 27:23-24"
+      day: 5
+  "40":
+    - question: "What happened when a viper fastened on Paul's hand on Malta?"
+      choices:
+        - "He shook it off into the fire and suffered no harm"
+        - "He fell ill for three days and recovered"
+        - "Luke the physician drew out the venom"
+        - "The islanders drove him away as cursed"
+      answer: "He shook it off into the fire and suffered no harm"
+      ref: "Acts 28:3-5"
+      day: 1
+    - question: "When did God choose us in Christ, according to Ephesians?"
+      choices:
+        - "Before the foundation of the world"
+        - "At the giving of the law"
+        - "When we first believed"
+        - "On the day of Pentecost"
+      answer: "Before the foundation of the world"
+      ref: "Ephesians 1:4"
+      day: 2
+    - question: "'By grace you have been saved through faith. And this is not your own doing; it is ___.'"
+      choices:
+        - "The gift of God"
+        - "The reward of the faithful"
+        - "The fruit of obedience"
+        - "The promise to Abraham"
+      answer: "The gift of God"
+      ref: "Ephesians 2:8"
+      day: 3
+    - question: "'We are his ___, created in Christ Jesus for good works.'"
+      choices:
+        - "Workmanship"
+        - "Inheritance"
+        - "Witnesses"
+        - "Dwelling place"
+      answer: "Workmanship"
+      ref: "Ephesians 2:10"
+      day: 3
+    - question: "'There is one Lord, one faith, one ___.'"
+      choices:
+        - "Baptism"
+        - "Church"
+        - "Hope"
+        - "Spirit"
+      answer: "Baptism"
+      ref: "Ephesians 4:5"
+      day: 5
+    - question: "'Be angry and do not sin; do not let the sun go down on ___.'"
+      choices:
+        - "Your anger"
+        - "Your quarrel"
+        - "An unforgiving heart"
+        - "Your brother's offense"
+      answer: "Your anger"
+      ref: "Ephesians 4:26"
+      day: 5
+  "41":
+    - question: "'Walk in love, as Christ loved us and ___.'"
+      choices:
+        - "Gave himself up for us"
+        - "Called us his friends"
+        - "Washed us in the water of the word"
+        - "Bore our griefs"
+      answer: "Gave himself up for us"
+      ref: "Ephesians 5:2"
+      day: 1
+    - question: "In the armor of God, what is the sword of the Spirit?"
+      choices:
+        - "The word of God"
+        - "The gospel of peace"
+        - "Faith that quenches darts"
+        - "Prayer at all times"
+      answer: "The word of God"
+      ref: "Ephesians 6:17"
+      day: 2
+    - question: "'For to me to live is Christ, and to die is ___.'"
+      choices:
+        - "Gain"
+        - "Rest"
+        - "Glory"
+        - "To be with him"
+      answer: "Gain"
+      ref: "Philippians 1:21"
+      day: 3
+    - question: "In the Christ hymn, Jesus emptied himself by taking the form of a what?"
+      choices:
+        - "Servant"
+        - "Man of sorrows"
+        - "Lamb"
+        - "Son of Adam"
+      answer: "Servant"
+      ref: "Philippians 2:7"
+      day: 4
+    - question: "At the name of Jesus every knee shall bow and every tongue confess what?"
+      choices:
+        - "That Jesus Christ is Lord"
+        - "That God is one"
+        - "That the kingdom has come"
+        - "That grace has triumphed"
+      answer: "That Jesus Christ is Lord"
+      ref: "Philippians 2:10-11"
+      day: 4
+    - question: "Compared to knowing Christ, how did Paul count all his former gains?"
+      choices:
+        - "As loss, as rubbish"
+        - "As a debt repaid"
+        - "As lessons that prepared him"
+        - "As treasures laid aside"
+      answer: "As loss, as rubbish"
+      ref: "Philippians 3:8"
+      day: 5
+  "42":
+    - question: "'I can do all things through ___.'"
+      choices:
+        - "Him who strengthens me"
+        - "The power of the Spirit"
+        - "Prayer and fasting"
+        - "The grace given to me"
+      answer: "Him who strengthens me"
+      ref: "Philippians 4:13"
+      day: 1
+    - question: "When prayer replaces anxiety, what does Paul say will guard your hearts and minds?"
+      choices:
+        - "The peace of God, which surpasses all understanding"
+        - "The armor of light"
+        - "The joy of the Lord"
+        - "The angels of heaven"
+      answer: "The peace of God, which surpasses all understanding"
+      ref: "Philippians 4:6-7"
+      day: 1
+    - question: "'He is the image of the invisible God, the ___ of all creation.'"
+      choices:
+        - "Firstborn"
+        - "Maker"
+        - "Light"
+        - "Beginning"
+      answer: "Firstborn"
+      ref: "Colossians 1:15"
+      day: 2
+    - question: "'For in him the whole fullness of ___ dwells bodily.'"
+      choices:
+        - "Deity"
+        - "Wisdom"
+        - "Glory"
+        - "Grace"
+      answer: "Deity"
+      ref: "Colossians 2:9"
+      day: 3
+    - question: "'Set your minds on things that are ___, not on things that are on earth.'"
+      choices:
+        - "Above"
+        - "Eternal"
+        - "Pure"
+        - "To come"
+      answer: "Above"
+      ref: "Colossians 3:2"
+      day: 4
+    - question: "On whose behalf did Paul write his letter to Philemon?"
+      choices:
+        - "Onesimus, a runaway slave"
+        - "Epaphras, a fellow prisoner"
+        - "Tychicus, the letter carrier"
+        - "Archippus, a young minister"
+      answer: "Onesimus, a runaway slave"
+      ref: "Philemon 10"
+      day: 5
+  "43":
+    - question: "'Christ Jesus came into the world to save sinners, of whom I am ___.'"
+      choices:
+        - "The foremost"
+        - "The least deserving"
+        - "A witness"
+        - "The last called"
+      answer: "The foremost"
+      ref: "1 Timothy 1:15"
+      day: 1
+    - question: "'There is one God, and there is one mediator between God and men, ___.'"
+      choices:
+        - "The man Christ Jesus"
+        - "The Spirit of truth"
+        - "The angel of the covenant"
+        - "The great high priest"
+      answer: "The man Christ Jesus"
+      ref: "1 Timothy 2:5"
+      day: 2
+    - question: "What is the first qualification Paul lists for an overseer?"
+      choices:
+        - "Above reproach"
+        - "A gifted speaker"
+        - "Wealthy enough to give"
+        - "Born of a priestly family"
+      answer: "Above reproach"
+      ref: "1 Timothy 3:2"
+      day: 3
+    - question: "'Train yourself for ___.'"
+      choices:
+        - "Godliness"
+        - "The race set before you"
+        - "Sound doctrine"
+        - "The work of ministry"
+      answer: "Godliness"
+      ref: "1 Timothy 4:7"
+      day: 4
+    - question: "What did Paul tell Timothy to let no one despise?"
+      choices:
+        - "His youth"
+        - "His weak stomach"
+        - "His plain speech"
+        - "His mixed parentage"
+      answer: "His youth"
+      ref: "1 Timothy 4:12"
+      day: 4
+    - question: "Elders who rule well are counted worthy of what?"
+      choices:
+        - "Double honor"
+        - "The first seat"
+        - "A daily portion"
+        - "The laying on of hands"
+      answer: "Double honor"
+      ref: "1 Timothy 5:17"
+      day: 5
+  "44":
+    - question: "'Godliness with ___ is great gain.'"
+      choices:
+        - "Contentment"
+        - "Humility"
+        - "Wisdom"
+        - "Charity"
+      answer: "Contentment"
+      ref: "1 Timothy 6:6"
+      day: 1
+    - question: "What does Paul call a root of all kinds of evils?"
+      choices:
+        - "The love of money"
+        - "Pride of life"
+        - "Idle talk"
+        - "The desires of the flesh"
+      answer: "The love of money"
+      ref: "1 Timothy 6:10"
+      day: 1
+    - question: "Where did Paul leave Titus to put what remained into order?"
+      choices:
+        - "Crete"
+        - "Cyprus"
+        - "Corinth"
+        - "Ephesus"
+      answer: "Crete"
+      ref: "Titus 1:5"
+      day: 2
+    - question: "Titus says God saved us not because of works done in righteousness, but according to what?"
+      choices:
+        - "His own mercy"
+        - "Our confession of faith"
+        - "The promise to the fathers"
+        - "The obedience of Christ"
+      answer: "His own mercy"
+      ref: "Titus 3:5"
+      day: 4
+    - question: "In whom did Timothy's sincere faith first dwell?"
+      choices:
+        - "His grandmother Lois and his mother Eunice"
+        - "His father, a devout Greek"
+        - "The elders at Lystra"
+        - "Paul and Barnabas"
+      answer: "His grandmother Lois and his mother Eunice"
+      ref: "2 Timothy 1:5"
+      day: 5
+    - question: "'God gave us a spirit not of fear but of ___.'"
+      choices:
+        - "Power and love and self-control"
+        - "Wisdom and revelation"
+        - "Grace and truth"
+        - "Faith, hope, and love"
+      answer: "Power and love and self-control"
+      ref: "2 Timothy 1:7"
+      day: 5
+  "45":
+    - question: "Which three working figures does Paul set before Timothy?"
+      choices:
+        - "Soldier, athlete, farmer"
+        - "Shepherd, builder, watchman"
+        - "Runner, wrestler, sailor"
+        - "Priest, prophet, king"
+      answer: "Soldier, athlete, farmer"
+      ref: "2 Timothy 2:3-6"
+      day: 1
+    - question: "'All Scripture is ___ and profitable for teaching, for reproof, for correction, and for training in righteousness.'"
+      choices:
+        - "Breathed out by God"
+        - "Written for our instruction"
+        - "A lamp to our feet"
+        - "Living and active"
+      answer: "Breathed out by God"
+      ref: "2 Timothy 3:16"
+      day: 2
+    - question: "'I have fought the good fight, I have finished the race, I have ___.'"
+      choices:
+        - "Kept the faith"
+        - "Run with endurance"
+        - "Won the crown"
+        - "Held fast the word"
+      answer: "Kept the faith"
+      ref: "2 Timothy 4:7"
+      day: 3
+    - question: "Who deserted Paul, being in love with this present world?"
+      choices:
+        - "Demas"
+        - "Alexander the coppersmith"
+        - "Hymenaeus"
+        - "Crescens"
+      answer: "Demas"
+      ref: "2 Timothy 4:10"
+      day: 3
+    - question: "Long ago God spoke by the prophets, but in these last days he has spoken to us by whom?"
+      choices:
+        - "His Son"
+        - "His angels"
+        - "The apostles"
+        - "The Spirit of truth"
+      answer: "His Son"
+      ref: "Hebrews 1:2"
+      day: 4
+    - question: "'How shall we escape if we neglect such a great ___?'"
+      choices:
+        - "Salvation"
+        - "Inheritance"
+        - "Calling"
+        - "Light"
+      answer: "Salvation"
+      ref: "Hebrews 2:3"
+      day: 5
+  "46":
+    - question: "Hebrews says Jesus is counted worthy of more glory than whom, as the builder outranks the house?"
+      choices:
+        - "Moses"
+        - "Abraham"
+        - "Aaron"
+        - "The angels"
+      answer: "Moses"
+      ref: "Hebrews 3:3"
+      day: 1
+    - question: "'The word of God is living and active, sharper than any ___.'"
+      choices:
+        - "Two-edged sword"
+        - "Refiner's fire"
+        - "Arrow of the mighty"
+        - "Surgeon's blade"
+      answer: "Two-edged sword"
+      ref: "Hebrews 4:12"
+      day: 2
+    - question: "How are we invited to approach the throne of grace?"
+      choices:
+        - "With confidence"
+        - "With fear and trembling"
+        - "With covered faces"
+        - "Through the priests"
+      answer: "With confidence"
+      ref: "Hebrews 4:16"
+      day: 2
+    - question: "Though he was a son, how did Jesus learn obedience?"
+      choices:
+        - "Through what he suffered"
+        - "By studying the law"
+        - "From his earthly parents"
+        - "In forty days of fasting"
+      answer: "Through what he suffered"
+      ref: "Hebrews 5:8"
+      day: 3
+    - question: "Hebrews calls our hope what kind of anchor?"
+      choices:
+        - "A sure and steadfast anchor of the soul"
+        - "An anchor cast toward heaven"
+        - "An anchor that holds in every storm"
+        - "An anchor forged by faith"
+      answer: "A sure and steadfast anchor of the soul"
+      ref: "Hebrews 6:19"
+      day: 4
+    - question: "Melchizedek was king of Salem and also what?"
+      choices:
+        - "Priest of the Most High God"
+        - "A prophet of the covenant"
+        - "Commander of Abraham's allies"
+        - "A son of Aaron's line"
+      answer: "Priest of the Most High God"
+      ref: "Hebrews 7:1"
+      day: 5
+  "47":
+    - question: "In the new covenant, where does God promise to write his laws?"
+      choices:
+        - "On their hearts"
+        - "On tablets of stone"
+        - "In the book of life"
+        - "On the doorposts of their houses"
+      answer: "On their hearts"
+      ref: "Hebrews 8:10"
+      day: 1
+    - question: "By what means did Christ enter the holy places once for all?"
+      choices:
+        - "His own blood"
+        - "The blood of goats and calves"
+        - "The incense of the altar"
+        - "The prayers of the saints"
+      answer: "His own blood"
+      ref: "Hebrews 9:12"
+      day: 2
+    - question: "After offering a single sacrifice for sins for all time, what did Christ do?"
+      choices:
+        - "Sat down at the right hand of God"
+        - "Returned to the tabernacle yearly"
+        - "Sent the Spirit as a second offering"
+        - "Tore the veil of the temple"
+      answer: "Sat down at the right hand of God"
+      ref: "Hebrews 10:12"
+      day: 3
+    - question: "'Faith is the assurance of things hoped for, ___.'"
+      choices:
+        - "The conviction of things not seen"
+        - "The substance of the promises"
+        - "The evidence of the covenant"
+        - "The reward of the diligent"
+      answer: "The conviction of things not seen"
+      ref: "Hebrews 11:1"
+      day: 4
+    - question: "Which unlikely woman stands in the hall of faith for welcoming the spies?"
+      choices:
+        - "Rahab"
+        - "Ruth"
+        - "Deborah"
+        - "Tamar"
+      answer: "Rahab"
+      ref: "Hebrews 11:31"
+      day: 4
+    - question: "'Let us run with endurance the race that is set before us, looking to ___.'"
+      choices:
+        - "Jesus, the founder and perfecter of our faith"
+        - "The cloud of witnesses around us"
+        - "The prize of the upward call"
+        - "The city that has foundations"
+      answer: "Jesus, the founder and perfecter of our faith"
+      ref: "Hebrews 12:1-2"
+      day: 5
+  "48":
+    - question: "'Do not neglect to show hospitality to strangers, for thereby some have entertained ___.'"
+      choices:
+        - "Angels unawares"
+        - "The Lord himself"
+        - "Prophets in disguise"
+        - "The heirs of the kingdom"
+      answer: "Angels unawares"
+      ref: "Hebrews 13:2"
+      day: 1
+    - question: "'Jesus Christ is the same yesterday and today and ___.'"
+      choices:
+        - "Forever"
+        - "Unto the end"
+        - "In every age"
+        - "World without end"
+      answer: "Forever"
+      ref: "Hebrews 13:8"
+      day: 1
+    - question: "Peter says we are born again to a living hope through what?"
+      choices:
+        - "The resurrection of Jesus Christ from the dead"
+        - "The washing of baptism"
+        - "The preaching of the apostles"
+        - "The mercy promised to the fathers"
+      answer: "The resurrection of Jesus Christ from the dead"
+      ref: "1 Peter 1:3"
+      day: 2
+    - question: "'You are a chosen race, a royal ___, a holy nation.'"
+      choices:
+        - "Priesthood"
+        - "People"
+        - "Household"
+        - "Assembly"
+      answer: "Priesthood"
+      ref: "1 Peter 2:9"
+      day: 3
+    - question: "What should believers always be prepared to give to anyone who asks?"
+      choices:
+        - "A reason for the hope that is in you, with gentleness and respect"
+        - "Alms from what they possess"
+        - "A blessing in return for reviling"
+        - "Their cloak as well as their tunic"
+      answer: "A reason for the hope that is in you, with gentleness and respect"
+      ref: "1 Peter 3:15"
+      day: 4
+    - question: "'Love covers a multitude of ___.'"
+      choices:
+        - "Sins"
+        - "Sorrows"
+        - "Faults"
+        - "Wounds"
+      answer: "Sins"
+      ref: "1 Peter 4:8"
+      day: 5
+  "49":
+    - question: "'Cast all your anxieties on him, because ___.'"
+      choices:
+        - "He cares for you"
+        - "His yoke is easy"
+        - "He knows your frame"
+        - "He gives rest to the weary"
+      answer: "He cares for you"
+      ref: "1 Peter 5:7"
+      day: 1
+    - question: "How does Peter describe the devil on the prowl?"
+      choices:
+        - "A roaring lion, seeking someone to devour"
+        - "A serpent in the garden"
+        - "A wolf among the flock"
+        - "An angel of light"
+      answer: "A roaring lion, seeking someone to devour"
+      ref: "1 Peter 5:8"
+      day: 1
+    - question: "Of what event does Peter say he was an eyewitness on the holy mountain?"
+      choices:
+        - "The transfiguration, when Jesus received honor and glory from the Father"
+        - "The ascension into heaven"
+        - "The giving of the law to Moses"
+        - "The baptism in the Jordan"
+      answer: "The transfiguration, when Jesus received honor and glory from the Father"
+      ref: "2 Peter 1:16-18"
+      day: 2
+    - question: "'With the Lord one day is as ___.'"
+      choices:
+        - "A thousand years"
+        - "A watch in the night"
+        - "The blink of an eye"
+        - "A morning mist"
+      answer: "A thousand years"
+      ref: "2 Peter 3:8"
+      day: 4
+    - question: "Why is the Lord patient about his promise, according to Peter?"
+      choices:
+        - "Not wishing that any should perish, but that all should reach repentance"
+        - "So the full number of the nations may come in"
+        - "Because the harvest is not yet ripe"
+        - "To test the faith of the elect"
+      answer: "Not wishing that any should perish, but that all should reach repentance"
+      ref: "2 Peter 3:9"
+      day: 4
+    - question: "What does Jude urge his readers to do?"
+      choices:
+        - "Contend for the faith once for all delivered to the saints"
+        - "Withdraw from every false teacher"
+        - "Wait quietly for the day of the Lord"
+        - "Test the spirits by their fruits"
+      answer: "Contend for the faith once for all delivered to the saints"
+      ref: "Jude 3"
+      day: 5
+  "50":
+    - question: "'If we confess our sins, he is faithful and just to ___.'"
+      choices:
+        - "Forgive us our sins and cleanse us from all unrighteousness"
+        - "Remember them no more"
+        - "Restore us to the light"
+        - "Blot out the record against us"
+      answer: "Forgive us our sins and cleanse us from all unrighteousness"
+      ref: "1 John 1:9"
+      day: 1
+    - question: "If anyone does sin, whom do we have as an advocate with the Father?"
+      choices:
+        - "Jesus Christ the righteous"
+        - "The Spirit who intercedes"
+        - "The angels who minister"
+        - "The prayers of the saints"
+      answer: "Jesus Christ the righteous"
+      ref: "1 John 2:1"
+      day: 2
+    - question: "'See what kind of love the Father has given to us, that we should be called ___.'"
+      choices:
+        - "Children of God"
+        - "Friends of Christ"
+        - "Heirs of the kingdom"
+        - "A holy people"
+      answer: "Children of God"
+      ref: "1 John 3:1"
+      day: 3
+    - question: "By this you know the Spirit of God: every spirit that confesses what?"
+      choices:
+        - "That Jesus Christ has come in the flesh"
+        - "That God is one"
+        - "That the Son will come in glory"
+        - "That the Scriptures cannot be broken"
+      answer: "That Jesus Christ has come in the flesh"
+      ref: "1 John 4:2"
+      day: 4
+    - question: "'There is no fear in love, but perfect love ___.'"
+      choices:
+        - "Casts out fear"
+        - "Conquers all things"
+        - "Covers every sin"
+        - "Endures forever"
+      answer: "Casts out fear"
+      ref: "1 John 4:18"
+      day: 4
+    - question: "John writes he has no greater joy than to hear what of his children?"
+      choices:
+        - "That they are walking in the truth"
+        - "That they love one another"
+        - "That they have overcome the evil one"
+        - "That they remain in the church"
+      answer: "That they are walking in the truth"
+      ref: "3 John 4"
+      day: 5
+  "51":
+    - question: "Where was John when he received his vision of the risen Christ?"
+      choices:
+        - "The island of Patmos"
+        - "A prison in Rome"
+        - "The wilderness of Judea"
+        - "Ephesus"
+      answer: "The island of Patmos"
+      ref: "Revelation 1:9"
+      day: 1
+    - question: "Which church was told, 'You have abandoned the love you had at first'?"
+      choices:
+        - "Ephesus"
+        - "Smyrna"
+        - "Pergamum"
+        - "Thyatira"
+      answer: "Ephesus"
+      ref: "Revelation 2:4"
+      day: 2
+    - question: "Which church was neither hot nor cold, but lukewarm?"
+      choices:
+        - "Laodicea"
+        - "Sardis"
+        - "Philadelphia"
+        - "Smyrna"
+      answer: "Laodicea"
+      ref: "Revelation 3:15-16"
+      day: 3
+    - question: "'Behold, I stand at the door and ___.'"
+      choices:
+        - "Knock"
+        - "Wait"
+        - "Call"
+        - "Watch"
+      answer: "Knock"
+      ref: "Revelation 3:20"
+      day: 3
+    - question: "What do the four living creatures never cease to say?"
+      choices:
+        - "Holy, holy, holy, is the Lord God Almighty"
+        - "Worthy is the Lamb who was slain"
+        - "Great and amazing are your deeds"
+        - "Hallelujah, for the Lord reigns"
+      answer: "Holy, holy, holy, is the Lord God Almighty"
+      ref: "Revelation 4:8"
+      day: 4
+    - question: "Who alone was found worthy to take the scroll and open its seals?"
+      choices:
+        - "The Lamb who was slain, the Lion of the tribe of Judah"
+        - "The angel with the golden censer"
+        - "One of the twenty-four elders"
+        - "Michael the archangel"
+      answer: "The Lamb who was slain, the Lion of the tribe of Judah"
+      ref: "Revelation 5:5-9"
+      day: 5
+  "52":
+    - question: "How did the great multitude in white robes make them white?"
+      choices:
+        - "They washed them in the blood of the Lamb"
+        - "They kept them spotless through the tribulation"
+        - "The angels clothed them at the throne"
+        - "They traded their old garments for new"
+      answer: "They washed them in the blood of the Lamb"
+      ref: "Revelation 7:14"
+      day: 1
+    - question: "What happened in heaven when the seventh seal was opened?"
+      choices:
+        - "Silence for about half an hour"
+        - "A great shout of victory"
+        - "Thunder and seven trumpet blasts at once"
+        - "The temple was opened"
+      answer: "Silence for about half an hour"
+      ref: "Revelation 8:1"
+      day: 2
+    - question: "What was John told to do with the little scroll?"
+      choices:
+        - "Take and eat it; sweet in the mouth, bitter in the stomach"
+        - "Seal it up until the appointed time"
+        - "Read it aloud to the seven churches"
+        - "Cast it into the sea"
+      answer: "Take and eat it; sweet in the mouth, bitter in the stomach"
+      ref: "Revelation 10:9-10"
+      day: 3
+    - question: "The great dragon thrown down is identified as whom?"
+      choices:
+        - "That ancient serpent, called the devil and Satan"
+        - "The beast rising from the sea"
+        - "The king of Babylon"
+        - "The angel of the bottomless pit"
+      answer: "That ancient serpent, called the devil and Satan"
+      ref: "Revelation 12:9"
+      day: 4
+    - question: "In the new creation, what will God wipe away from every eye?"
+      choices:
+        - "Every tear"
+        - "Every shadow"
+        - "Every mark of sin"
+        - "Every memory of sorrow"
+      answer: "Every tear"
+      ref: "Revelation 21:4"
+      day: 5
+    - question: "'The Spirit and the Bride say, ___.'"
+      choices:
+        - "Come"
+        - "Amen"
+        - "Worthy"
+        - "Rejoice"
+      answer: "Come"
+      ref: "Revelation 22:17"
+      day: 5
