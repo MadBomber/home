@@ -4150,3 +4150,218 @@ button.toolbar-icon {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* --- New Testament timeline (inline SVG, see _partials/_timeline.erb) ---
+   Same discipline as the location maps: every color resolves through a theme
+   variable, so light and dark mode both work and the background stays
+   transparent. The chart is wide by nature, so on narrow screens it scrolls
+   horizontally inside its own container instead of shrinking to illegibility. */
+
+.timeline-figure {
+  margin: 2rem 0;
+}
+
+.timeline-scroll {
+  overflow-x: auto;
+}
+
+.timeline-scroll svg {
+  display: block;
+  min-width: 920px;
+  width: 100%;
+  height: auto;
+}
+
+.tl-caption {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-top: 0.75rem;
+}
+
+.tl-band {
+  fill: var(--purple-faint);
+  opacity: 0.6;
+}
+
+.tl-lane-title {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  fill: var(--text-muted);
+}
+
+.tl-bar-ruler {
+  fill: var(--purple-faint);
+  stroke: var(--purple-light);
+  stroke-width: 1;
+}
+
+.tl-bar-label {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  fill: var(--text-secondary);
+}
+
+.tl-bar-label-out {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  fill: var(--text-muted);
+}
+
+.tl-bar-jesus {
+  fill: var(--gold);
+  fill-opacity: 0.35;
+  stroke: var(--gold);
+  stroke-width: 1.2;
+}
+
+.tl-bar-quiet {
+  fill: none;
+  stroke: var(--gold);
+  stroke-width: 1.2;
+  stroke-dasharray: 4 3;
+  opacity: 0.7;
+}
+
+.tl-bar-church {
+  fill: var(--purple-faint);
+  stroke: var(--purple-light);
+  stroke-width: 1.2;
+}
+
+.tl-bar-book {
+  fill: var(--gold);
+  fill-opacity: 0.3;
+  stroke: var(--gold);
+  stroke-width: 1;
+}
+
+.tl-marker {
+  fill: var(--gold);
+  stroke: var(--bg-surface);
+  stroke-width: 1.5;
+}
+
+.tl-marker-halo {
+  fill: none;
+  stroke: var(--gold);
+  stroke-width: 1.5;
+  opacity: 0.5;
+}
+
+.tl-point {
+  fill: var(--purple-light);
+  stroke: var(--bg-surface);
+  stroke-width: 1.2;
+}
+
+.tl-label {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  fill: var(--text-primary);
+}
+
+.tl-label-sm {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  fill: var(--text-secondary);
+}
+
+.tl-alabel {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  fill: var(--text-secondary);
+}
+
+.tl-leader {
+  fill: none;
+  stroke: var(--text-muted);
+  stroke-width: 0.8;
+  opacity: 0.7;
+}
+
+.tl-axis path {
+  fill: none;
+  stroke: var(--text-muted);
+  stroke-width: 1.2;
+}
+
+.tl-axis text {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  fill: var(--text-muted);
+}
+
+.tl-break {
+  stroke-width: 1;
+}
+
+.tl-note {
+  font-style: italic;
+  font-size: 9px;
+}
+
+.tl-scale path {
+  fill: none;
+  stroke: var(--text-muted);
+  stroke-width: 1.2;
+}
+
+.tl-scale text {
+  font-family: var(--font-sans);
+  font-size: 9px;
+  fill: var(--text-muted);
+}
+
+.tl-dates {
+  font-family: var(--font-sans);
+  font-size: 0.9em;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.tl-week-link {
+  font-family: var(--font-sans);
+  font-size: 0.85em;
+  white-space: nowrap;
+}
+
+/* "You are here" week marker -- one hidden group per week lives in the SVG
+   (id="week-NN"); arriving at /timeline/#week-NN reveals it via :target,
+   so the overlay works with no JavaScript. */
+
+.tl-here {
+  opacity: 0;
+  pointer-events: none;
+  scroll-margin: 4rem;
+}
+
+.tl-here:target {
+  opacity: 1;
+}
+
+.tl-here path {
+  fill: none;
+  stroke: var(--gold);
+  stroke-width: 2;
+  stroke-dasharray: 7 4;
+}
+
+.tl-here text {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 700;
+  fill: var(--gold);
+}
+
+/* The "When am I?" line at the top of each weekly overview (see page.erb) */
+
+.week-when {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+}

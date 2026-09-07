@@ -22,6 +22,29 @@ layout: default
   <%= render "memory_verse_callout", mv: _mv, mv_url: _mv_url, week: data.week, hide_book_link: false %>
   <% end %>
 
+  <%
+    # "When am I?" -- weekly overviews link to their study's timeline, where
+    # /{study}/timeline/#week-NN reveals that week's "you are here" marker.
+    # Driven by the weeks map in src/_data/{study}/timeline.yml; a study
+    # without that file gets no line. Rendered here so it sits directly in
+    # front of the Big Picture section that opens every overview, without
+    # editing 52 markdown files.
+    _tl_year = nil
+    if data.week && data.day.nil? && data.type.nil? && data.study_slug
+      _tl_data  = site.data.send(data.study_slug.gsub("-", "_"))
+      _tl_weeks = _tl_data && _tl_data[:timeline] && _tl_data[:timeline][:weeks]
+      _tl_year  = _tl_weeks && (_tl_weeks[data.week.to_i] || _tl_weeks[data.week.to_s])
+    end
+  %>
+  <% if _tl_year %>
+    <% _tl_n = _tl_year.round %>
+    <p class="week-when">
+      <em>When am I?</em> This week's readings sit near
+      <strong><%= _tl_n < 0 ? "#{-_tl_n} BC" : "AD #{_tl_n}" %></strong> --
+      <a href="<%= relative_url "/#{data.study_slug}/timeline/" %>#week-<%= "%02d" % data.week.to_i %>" target="_blank" rel="noopener">see this week on the timeline</a>.
+    </p>
+  <% end %>
+
   <%= yield %>
 
   <% if (data.day || (data.week && data.day.nil? && data.type.nil?)) && _mv %>

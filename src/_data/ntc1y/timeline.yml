@@ -1,0 +1,441 @@
+# Timeline event data for the ntc1y study -- drawn as an SVG by
+# src/_partials/_timeline.erb and listed in full, with links, by
+# src/ntc1y/timeline.erb. One record here feeds both, so the graphic and its
+# accessible text version can never disagree. The timeline is per-study:
+# another study gets its own src/_data/{slug}/timeline.yml and
+# src/{slug}/timeline.erb, and a study without this file simply has no
+# timeline (and no "When am I?" line on its weekly overviews).
+#
+# The layout assumes the AD 30 crucifixion date (birth ~5 BC, baptism ~AD 27).
+# The AD 33 alternative is noted in the figure caption, not drawn.
+#
+# Keys:
+#   start / end -- years as plain numbers; negative means BC (-5 = 5 BC).
+#                  There is no year 0; the partial's scale accounts for it.
+#                  A missing end makes the event a point rather than a range.
+#                  Events beginning before the chart's left edge (7 BC) are
+#                  clipped at the edge, not moved.
+#   dates       -- the human-readable dates shown in the text listing.
+#   label       -- short text drawn on the SVG.
+#   name        -- fuller name for the text listing (defaults to label).
+#   label_pos   -- hand-tuned placement, like map_label_side on the maps:
+#                  inside | above | above-end | below | left | right |
+#                  raised | none. Each lane has its own default.
+#   week        -- ntc1y week whose readings cover the event; both the listing
+#                  and the graphic's caption link weeks through the overview.
+#   slug        -- site path for the person or place ("/characters/...",
+#                  "/locations/...") linked from the text listing.
+#   note        -- one line of context for the text listing.
+
+emperors:
+  - label: Augustus
+    name: Caesar Augustus
+    start: -27
+    end: 14
+    dates: "27 BC - AD 14"
+    note: The census decree of Luke 2:1 -- emperor when Jesus was born.
+  - label: Tiberius
+    start: 14
+    end: 37
+    dates: "AD 14-37"
+    note: Emperor through the ministry, crucifixion, and resurrection (Luke 3:1).
+  - label: Caligula
+    start: 37
+    end: 41
+    dates: "AD 37-41"
+    label_pos: above
+    note: Emperor during the church's first years of scattering and growth.
+  - label: Claudius
+    start: 41
+    end: 54
+    dates: "AD 41-54"
+    note: Expelled the Jews from Rome (Acts 18:2), sending Priscilla and Aquila to Corinth.
+  - label: Nero
+    start: 54
+    end: 68
+    dates: "AD 54-68"
+    note: The Caesar to whom Paul appealed; launched the persecution of AD 64.
+  - label: Year of the Four Emperors
+    start: 68
+    end: 69
+    dates: "AD 68-69"
+    label_pos: none
+    note: Galba, Otho, and Vitellius rose and fell within months of Nero's death.
+  - label: Vespasian
+    start: 69
+    end: 79
+    dates: "AD 69-79"
+    note: Began the siege of Jerusalem as a general; emperor when the city fell.
+  - label: Titus
+    start: 79
+    end: 81
+    dates: "AD 79-81"
+    label_pos: above
+    note: Destroyed the temple in AD 70 while still his father's general.
+  - label: Domitian
+    start: 81
+    end: 96
+    dates: "AD 81-96"
+    note: The emperor of Revelation's world; John's exile is usually placed in his reign.
+  - label: Nerva - Trajan
+    name: Nerva and Trajan
+    start: 96
+    end: 100
+    dates: "AD 96-117"
+    label_pos: above-end
+    note: The empire beyond the chart's edge; John's final years fall here.
+
+judea:
+  - label: Herod the Great
+    start: -37
+    end: -4
+    dates: "37-4 BC"
+    label_pos: above
+    slug: /characters/herod-the-great/
+    week: 2
+    note: King when Jesus was born; ordered the massacre at Bethlehem.
+  - label: Archelaus
+    start: -4
+    end: 6
+    dates: "4 BC - AD 6"
+    label_pos: below
+    note: The son Joseph feared on returning from Egypt (Matthew 2:22); deposed for Roman governors.
+  - label: Pilate
+    name: Pontius Pilate
+    start: 26
+    end: 36
+    dates: "AD 26-36"
+    slug: /characters/pilate/
+    week: 18
+    note: The governor who sentenced Jesus to the cross.
+  - label: Agrippa I
+    name: Herod Agrippa I
+    start: 41
+    end: 44
+    dates: "AD 41-44"
+    label_pos: above
+    slug: /characters/herod-agrippa-i/
+    week: 24
+    note: Executed James and imprisoned Peter (Acts 12).
+  - label: Felix
+    start: 52
+    end: 59
+    dates: "AD 52-59"
+    slug: /characters/felix/
+    week: 39
+    note: Held Paul at Caesarea for two years, hoping for a bribe.
+  - label: Festus
+    start: 59
+    end: 62
+    dates: "AD 59-62"
+    label_pos: above
+    slug: /characters/festus/
+    week: 39
+    note: Heard Paul's appeal to Caesar and sent him to Rome.
+
+galilee:
+  - label: Herod Antipas - Galilee
+    name: Herod Antipas (Galilee and Perea)
+    start: -4
+    end: 39
+    dates: "4 BC - AD 39"
+    slug: /characters/herod-antipas/
+    week: 8
+    note: Beheaded John the Baptist; the "fox" who questioned Jesus at His trial.
+  - label: Agrippa II - the north
+    name: Herod Agrippa II (northern territories)
+    start: 50
+    end: 93
+    dates: "AD 50-93"
+    slug: /characters/agrippa-ii/
+    week: 39
+    note: '"Almost persuaded" by Paul''s defense at Caesarea (Acts 26:28).'
+
+jesus:
+  - label: "Birth (~5 BC)"
+    name: Birth of Jesus
+    start: -5
+    dates: "~5 BC"
+    label_pos: above
+    week: 2
+    note: In Bethlehem, near the end of Herod the Great's reign.
+  - label: The hidden years
+    start: -4
+    end: 26
+    dates: "~4 BC - AD 26"
+    label_pos: below
+    quiet: true
+    note: Egypt, Nazareth, the trade of a carpenter -- thirty quiet years the Gospels pass over in a verse.
+  - label: "Baptism (~AD 27)"
+    name: Baptism of Jesus
+    start: 27
+    dates: "~AD 27"
+    label_pos: above
+    week: 3
+    note: By John in the Jordan; the public ministry begins.
+  - label: "Galilean ministry - road to Jerusalem (27-30)"
+    name: The public ministry
+    start: 27
+    end: 30
+    dates: "~AD 27-30"
+    label_pos: below
+    week: 5
+    note: Roughly three years -- Galilee first, then the long road to Jerusalem.
+  - label: "Crucifixion, resurrection & ascension (AD 30)"
+    name: Crucifixion, resurrection, and ascension
+    start: 30
+    dates: "AD 30"
+    label_pos: right
+    week: 19
+    note: Passover, AD 30 -- the hinge of the whole chart, and of history.
+
+church:
+  - label: "Pentecost (AD 30)"
+    name: Pentecost
+    start: 30
+    dates: "AD 30"
+    week: 21
+    note: The Spirit poured out in Jerusalem fifty days after the resurrection.
+  - label: "Stephen - scattering (~33)"
+    name: Stephen's martyrdom and the scattering
+    start: 33
+    dates: "~AD 33"
+    week: 22
+    slug: /characters/stephen/
+    note: The first martyr; persecution scatters the church into Judea and Samaria.
+  - label: "Paul's conversion (~35)"
+    name: Paul's conversion
+    start: 35
+    dates: "~AD 33-36"
+    week: 23
+    slug: /characters/paul/
+    note: On the Damascus road; the persecutor becomes the apostle.
+  - label: "Gentiles at Caesarea (~40)"
+    name: The Gentile breakthrough at Caesarea
+    start: 40
+    dates: "~AD 40"
+    week: 24
+    slug: /characters/cornelius/
+    note: Peter and Cornelius -- the door opens to the nations.
+  - label: "1st journey (46-48)"
+    name: First missionary journey
+    start: 46
+    end: 48
+    dates: "~AD 46-48"
+    week: 24
+    note: Barnabas and Paul through Cyprus and Galatia.
+  - label: "Jerusalem council (49)"
+    name: The Jerusalem council
+    start: 49
+    dates: "~AD 49"
+    label_pos: raised
+    week: 26
+    note: Acts 15 -- the Gentiles are received without the yoke of the law.
+  - label: "2nd journey (49-52)"
+    name: Second missionary journey
+    start: 49
+    end: 52
+    dates: "~AD 49-52"
+    week: 26
+    note: The gospel crosses to Macedonia -- Philippi, Thessalonica, Athens, Corinth.
+  - label: "3rd journey (52-57)"
+    name: Third missionary journey
+    start: 52
+    end: 57
+    dates: "~AD 52-57"
+    week: 29
+    note: Three years centered on Ephesus, ending with the collection for Jerusalem.
+  - label: "Arrest - Caesarea (57-59)"
+    name: Arrest at Jerusalem; imprisonment at Caesarea
+    start: 57
+    end: 59
+    dates: "AD 57-59"
+    week: 38
+    note: Seized in the temple; two years before Felix, Festus, and Agrippa.
+  - label: "Voyage - house arrest (59-62)"
+    name: Voyage to Rome; house arrest
+    start: 59
+    end: 62
+    dates: "AD 59-62"
+    week: 39
+    slug: /locations/rome/
+    note: Shipwreck at Malta, then two years preaching unhindered in Rome.
+  - label: "Nero's persecution (64)"
+    name: The Neronian persecution
+    start: 64
+    dates: "AD 64"
+    note: After the great fire of Rome; tradition places Peter's and Paul's deaths in its wake.
+  - label: "Fall of Jerusalem (70)"
+    name: The fall of Jerusalem
+    start: 70
+    dates: "AD 70"
+    week: 16
+    note: The temple destroyed, as Jesus had foretold on the Mount of Olives.
+  - label: "John exiled to Patmos (~95)"
+    name: John's exile on Patmos
+    start: 95
+    dates: "~AD 95"
+    label_pos: left
+    week: 51
+    slug: /locations/patmos/
+    note: '"I was on the island called Patmos" (Revelation 1:9) -- Revelation is written.'
+
+books:
+  - label: "James (~45-48)"
+    name: James
+    start: 45
+    end: 48
+    dates: "~AD 45-48"
+    week: 23
+    note: Possibly the earliest New Testament book, from Jesus' brother in Jerusalem.
+  - label: "Galatians (~48-49)"
+    name: Galatians
+    start: 48
+    end: 49
+    dates: "~AD 48-49"
+    week: 25
+    note: To the churches of the first journey, around the time of the Jerusalem council.
+  - label: "1-2 Thessalonians (~50-51)"
+    name: 1-2 Thessalonians
+    start: 50
+    end: 51
+    dates: "~AD 50-51"
+    week: 27
+    note: From Corinth on the second journey, months after leaving Thessalonica.
+  - label: "1-2 Corinthians (~54-56)"
+    name: 1-2 Corinthians
+    start: 54
+    end: 56
+    dates: "~AD 54-56"
+    week: 29
+    note: From Ephesus and Macedonia during the third journey.
+  - label: "Mark (~55-70)"
+    name: The Gospel of Mark
+    start: 55
+    end: 70
+    dates: "~AD 55-70"
+    note: Widely held the earliest Gospel, carrying Peter's preaching.
+  - label: "Romans (~57)"
+    name: Romans
+    start: 56.5
+    end: 57.5
+    dates: "~AD 57"
+    week: 35
+    note: From Corinth, between the Corinthian letters and the arrest at Jerusalem.
+  - label: "Matthew - Luke-Acts (~60-85)"
+    name: Matthew, Luke, and Acts
+    start: 60
+    end: 85
+    dates: "~AD 60-85"
+    note: Scholarly dating spans decades; shown honestly as a wide range.
+  - label: "Prison letters (~60-62)"
+    name: Ephesians, Philippians, Colossians, Philemon
+    start: 60
+    end: 62
+    dates: "~AD 60-62"
+    week: 40
+    note: From the Roman house arrest at the end of Acts.
+  - label: "Hebrews (before 70)"
+    name: Hebrews
+    start: 60
+    end: 69
+    dates: "~AD 60-69"
+    week: 46
+    note: Written while the temple sacrifices still burned -- so before AD 70.
+  - label: "Pastorals (~62-67)"
+    name: 1 Timothy, Titus, 2 Timothy
+    start: 62
+    end: 67
+    dates: "~AD 62-67"
+    week: 43
+    note: After Acts closes; 2 Timothy is Paul's farewell from a final imprisonment.
+  - label: "1-2 Peter (~62-67)"
+    name: 1-2 Peter
+    start: 62
+    end: 67
+    dates: "~AD 62-67"
+    week: 48
+    note: From Rome ("Babylon"), in the shadow of Nero's persecution.
+  - label: "Jude (~65-80)"
+    name: Jude
+    start: 65
+    end: 80
+    dates: "~AD 65-80"
+    week: 49
+    note: From another brother of Jesus; its date is among the least certain.
+  - label: "John's Gospel & letters (~85-95)"
+    name: The Gospel and letters of John
+    start: 85
+    end: 95
+    dates: "~AD 85-95"
+    week: 50
+    note: The apostle's late testimony from Ephesus.
+  - label: "Revelation (~95)"
+    name: Revelation
+    start: 94
+    end: 96
+    dates: "~AD 95"
+    week: 51
+    note: From Patmos under Domitian -- the New Testament's closing word.
+
+# Where each week sits in time -- drives the "you are here" marker. Each
+# week's overview links to /ntc1y/timeline/#week-NN; the partial renders one
+# hidden vertical line per entry and CSS :target reveals the addressed one,
+# so the overlay needs no JavaScript. Values are the same year numbers the
+# events use (negative = BC); halves just nudge markers apart within a year.
+# Weeks 17-21 all point at AD 30 on purpose -- passion week through
+# Pentecost is one crowded spring. Weeks 42-49 wobble rather than march
+# forward because the letters are not bound in the order they were written.
+weeks:
+  1: -5      # the Word made flesh -- the birth narratives begin
+  2: -5      # Bethlehem, near the end of Herod the Great's reign
+  3: 27      # baptism and testing
+  4: 27      # ministry begins
+  5: 27.5    # Galilean ministry, first year
+  6: 27.7
+  7: 28
+  8: 28.3
+  9: 28.6
+  10: 28.9
+  11: 29
+  12: 29.2   # the road to Jerusalem
+  13: 29.4
+  14: 29.6
+  15: 29.8   # the final week begins
+  16: 30
+  17: 30     # upper room
+  18: 30     # Gethsemane and trial
+  19: 30     # the cross
+  20: 30     # resurrection
+  21: 30     # Pentecost
+  22: 33     # Stephen and the scattering
+  23: 36     # the Damascus road and Caesarea (James's letter comes ~45-48)
+  24: 46     # Antioch and the first journey
+  25: 48.5   # Galatians
+  26: 49     # the Jerusalem council; the second journey begins
+  27: 50.5   # Corinth; 1 Thessalonians
+  28: 51     # 2 Thessalonians
+  29: 54     # Ephesus; 1 Corinthians
+  30: 54.5
+  31: 55
+  32: 55.5
+  33: 56     # 2 Corinthians from Macedonia
+  34: 56.5
+  35: 57     # Romans from Corinth
+  36: 57
+  37: 57
+  38: 57.3   # to Jerusalem; the arrest
+  39: 58.5   # trials at Caesarea; the voyage
+  40: 60.5   # Rome; Ephesians
+  41: 61     # prison letters
+  42: 61.5   # Philippians, Colossians, Philemon
+  43: 63     # 1 Timothy
+  44: 64.5   # Titus; 2 Timothy begins
+  45: 66.5   # Paul's farewell; Hebrews begins
+  46: 66     # Hebrews, before the temple fell
+  47: 66.5
+  48: 64     # 1 Peter, in the shadow of Nero
+  49: 66     # 2 Peter and Jude
+  50: 90     # John's letters from Ephesus
+  51: 95     # Patmos; Revelation
+  52: 95

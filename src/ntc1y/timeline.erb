@@ -1,0 +1,93 @@
+---
+layout: page
+title: Timeline
+study_slug: ntc1y
+permalink: /ntc1y/timeline/
+---
+
+<!-- The temporal companion to the Key Locations maps: the maps answer
+     "where am I?", this page answers "when am I?". Everything below is
+     driven by study_slug: the SVG is drawn by _partials/_timeline.erb from
+     src/_data/{study}/timeline.yml, and the listing renders the same data
+     as linked text, so the content is never locked inside the graphic. A
+     future study's timeline page can copy this file and change only the
+     front matter (and the prose). -->
+
+<p>
+  The maps on the location pages answer the question <em>where am I?</em> This
+  page answers its companion: <em>when am I?</em> One century holds the whole
+  New Testament -- from a birth in Bethlehem near the end of Herod the Great's
+  reign to an old man's visions on Patmos -- and seeing the events in order
+  changes how the letters read. Romans sits between the Corinthian letters and
+  the arrest at Jerusalem; Revelation stands a full lifetime after Pentecost.
+</p>
+
+<p>
+  A word of honesty before the chart: almost every date here is approximate.
+  Ancient sources rarely hand us a year, so scholars triangulate from rulers'
+  reigns, festivals, and the letters' own travel notes. Ranges below are shown
+  as ranges on purpose. This chart follows the AD 30 crucifixion date; the
+  main alternative, AD 33, would shift the ministry and the church's first
+  years about three years later without changing the shape of the story.
+</p>
+
+<%= render "timeline", study: data.study_slug %>
+
+<%
+  study    = data.study_slug
+  study_tl = site.data.send(study.gsub("-", "_")).timeline
+  wp       = site.data.send(study.gsub("-", "_")).week_phases
+
+  week_url = ->(wk) do
+    sec = wp[wk] || wp[wk.to_s] || wp[wk.to_i]
+    relative_url "/#{study}/#{sec}/week-#{format('%02d', wk.to_i)}/overview/"
+  end
+
+  entry_li = ->(ev) do
+    name  = ev[:name] || ev[:label]
+    inner = ev[:slug] ? %(<a href="#{relative_url(ev[:slug])}"><strong>#{name}</strong></a>) : "<strong>#{name}</strong>"
+    line  = %(#{inner} <span class="tl-dates">(#{ev[:dates]})</span>)
+    line += %( -- #{ev[:note]}) if ev[:note]
+    line += %( <a class="tl-week-link" href="#{week_url.(ev[:week])}">Read in Week #{ev[:week]}</a>) if ev[:week]
+    line
+  end
+
+  render_list = ->(events) do
+    items = events.map { |ev| "<li>#{entry_li.(ev)}</li>" }.join("\n")
+    %(<ul class="location-index">\n#{items}\n</ul>)
+  end
+%>
+
+<h2>Rulers</h2>
+
+<p>
+  The character pages keep referring to emperors, Herods, and governors; here
+  is where each one sits. The reigns overlap the story at every point -- a
+  census under Augustus, a trial under Tiberius and Pilate, an appeal to Nero.
+</p>
+
+<h3>Emperors of Rome</h3>
+<%== render_list.(study_tl.emperors) %>
+
+<h3>Judea</h3>
+<%== render_list.(study_tl.judea) %>
+
+<h3>Galilee and the North</h3>
+<%== render_list.(study_tl.galilee) %>
+
+<h2>The Life of Jesus</h2>
+<%== render_list.(study_tl.jesus) %>
+
+<h2>The Church</h2>
+<%== render_list.(study_tl.church) %>
+
+<h2>When the Books Were Written</h2>
+
+<p>
+  The New Testament was not written in the order it is bound. James likely
+  came first and Revelation last, with Paul's letters spilling out of the
+  journeys and imprisonments charted above. Wide bars mean genuine scholarly
+  uncertainty, not slow writing.
+</p>
+
+<%== render_list.(study_tl.books) %>

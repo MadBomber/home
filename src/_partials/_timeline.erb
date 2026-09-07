@@ -1,0 +1,215 @@
+<%
+  # New Testament timeline, roughly 7 BC to AD 100. Render with the study
+  # slug whose data should be drawn:
+  #   render "timeline", study: "ntc1y"
+  #
+  # Event data lives in src/_data/{study}/timeline.yml; this partial owns
+  # the geometry. A horizontal scale lambda maps year -> x the way the map
+  # partial's px/py lambdas project coordinates, with one honest wrinkle:
+  # the quiet years AD 1-26 are compressed (2 px/yr against ~11.9 px/yr for
+  # the apostolic decades) so the crowded years get room. The compression
+  # is marked by a shaded band, an axis break, and a caption note, and the
+  # decade rule at the top right calibrates the eye for the normal scale.
+  #
+  # The SVG is decorative (aria-hidden) inside a role="img" figure, exactly
+  # like _location_map.erb; the full accessible version of the same data is
+  # the linked text listing that src/timeline/index.erb renders below the
+  # figure. Colors all resolve through theme variables (.tl-* rules in
+  # frontend/styles/index.css), so both themes work and the background
+  # stays transparent.
+
+  data_tl = site.data.send(study.to_s.gsub("-", "_")).timeline
+
+  vw, vh = 1000.0, 620.0
+  x0, x1 = 8.0, 992.0
+  y_lo, brk_a, brk_b, y_hi = -7, 1, 26, 100
+
+  # Historical years have no year 0; collapse BC years onto a linear scale.
+  lin = ->(y) { y < 0 ? y + 1 : y }
+
+  d1, d2 = 8.0, 2.0                              # px per year: early years, compressed years
+  w1 = (lin.(brk_a) - lin.(y_lo)) * d1           # 7 BC .. AD 1
+  w2 = (brk_b - brk_a) * d2                      # AD 1 .. 26, compressed
+  d3 = (x1 - x0 - w1 - w2) / (y_hi - brk_b)      # AD 26 .. 100 gets the rest
+
+  tx = ->(yr) do
+    l = lin.(yr).clamp(lin.(y_lo), y_hi)         # clip events to the chart edges
+    v = if l <= lin.(brk_a) then x0 + (l - lin.(y_lo)) * d1
+        elsif l <= brk_b     then x0 + w1 + (l - brk_a) * d2
+        else                      x0 + w1 + w2 + (l - brk_b) * d3
+        end
+    v.round(1)
+  end
+
+  bar_span = ->(ev) { [tx.(ev[:start]), tx.(ev[:end])] }
+
+  # Vertical layout, top to bottom. Label baselines are hand-spaced so no
+  # text overlaps a bar or another label; label_pos in timeline.yml is the
+  # per-event escape hatch, like map_label_side on the maps.
+  emp_y  = 26.0                                  # emperors bar row
+  jud_y  = 54.0                                  # Judea rulers row
+  gal_y  = 82.0                                  # Galilee / northern rulers row
+  js_spine = 148.0                               # life-of-Jesus spine
+  ch_bar_y = 225.0                               # church lane bars (points share the center line)
+  ch_spine = 232.0
+  ch_anchor_y = 250.0                            # where the angled church labels attach
+  bk_top = 364.0                                 # first book row
+  bk_step = 15.0
+  ax_y = 578.0                                   # year axis
+
+  band_x, band_w = tx.(brk_a), tx.(brk_b) - tx.(brk_a)
+  break_x = band_x + band_w / 2.0
+
+  ticks = [[-5, "5 BC"], [1, "AD 1"], [26, "26"]] + (30..100).step(10).map { |y| [y, y.to_s] }
+
+  key_w = (10 * d3).round(1)                     # the decade rule
+  key_x1, key_y = x1, 388.0
+
+  alt = "Timeline from about 5 BC to AD 100 showing four bands: Roman emperors " \
+        "and the rulers of Judea and Galilee; the life of Jesus from His birth " \
+        "around 5 BC to the crucifixion, resurrection, and ascension in AD 30; " \
+        "the church's spread from Pentecost through Paul's journeys to John's " \
+        "exile on Patmos; and the composition dates of the New Testament books. " \
+        "The full list of events follows the graphic."
+%>
+<figure class="timeline-figure" role="img" aria-label="<%= alt %>">
+  <div class="timeline-scroll">
+    <svg viewBox="0 0 <%= vw.to_i %> <%= vh.to_i %>" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+
+      <!-- Compressed quiet years, AD 1-26 -->
+      <rect class="tl-band" x="<%= band_x %>" y="20" width="<%= band_w %>" height="<%= ax_y - 20 %>" />
+
+      <!-- Decade rule (normal scale only; the shaded band is compressed) -->
+      <g class="tl-scale">
+        <path d="M <%= key_x1 - key_w %>,<%= key_y %> H <%= key_x1 %>" />
+        <path d="M <%= key_x1 - key_w %>,<%= key_y - 4 %> V <%= key_y + 4 %> M <%= key_x1 %>,<%= key_y - 4 %> V <%= key_y + 4 %>" />
+        <text x="<%= key_x1 - key_w / 2 %>" y="<%= key_y - 7 %>" text-anchor="middle">10 years</text>
+      </g>
+
+      <!-- Lane: rulers -->
+      <text class="tl-lane-title" x="<%= x0 %>" y="20">Rulers</text>
+      <% data_tl.emperors.each do |ev| %>
+        <% bx, ex = bar_span.(ev) %>
+        <rect class="tl-bar-ruler" x="<%= bx %>" y="<%= emp_y %>" width="<%= (ex - bx).round(1) %>" height="14" rx="3" />
+        <% case ev[:label_pos] %>
+        <% when "none" %>
+        <% when "above" %>
+          <text class="tl-bar-label-out" x="<%= ((bx + ex) / 2).round(1) %>" y="22" text-anchor="middle"><%= ev[:label] %></text>
+        <% when "above-end" %>
+          <text class="tl-bar-label-out" x="<%= ex %>" y="22" text-anchor="end"><%= ev[:label] %></text>
+        <% else %>
+          <text class="tl-bar-label" x="<%= ((bx + ex) / 2).round(1) %>" y="<%= emp_y + 10.5 %>" text-anchor="middle"><%= ev[:label] %></text>
+        <% end %>
+      <% end %>
+      <% [[data_tl.judea, jud_y], [data_tl.galilee, gal_y]].each do |(row, ry)| %>
+        <% row.each do |ev| %>
+          <% bx, ex = bar_span.(ev) %>
+          <rect class="tl-bar-ruler" x="<%= bx %>" y="<%= ry %>" width="<%= (ex - bx).round(1) %>" height="12" rx="3" />
+          <% cx = ((bx + ex) / 2).round(1) %>
+          <% case ev[:label_pos] %>
+          <% when "above" %>
+            <% if cx < 55 %>
+              <text class="tl-bar-label-out" x="<%= x0 %>" y="<%= ry - 4 %>"><%= ev[:label] %></text>
+            <% else %>
+              <text class="tl-bar-label-out" x="<%= cx %>" y="<%= ry - 4 %>" text-anchor="middle"><%= ev[:label] %></text>
+            <% end %>
+          <% when "below" %>
+            <text class="tl-bar-label-out" x="<%= cx %>" y="<%= ry + 22 %>" text-anchor="middle"><%= ev[:label] %></text>
+          <% else %>
+            <text class="tl-bar-label" x="<%= cx %>" y="<%= ry + 9.5 %>" text-anchor="middle"><%= ev[:label] %></text>
+          <% end %>
+        <% end %>
+      <% end %>
+
+      <!-- Lane: the life of Jesus -->
+      <text class="tl-lane-title" x="<%= x0 %>" y="116">The Life of Jesus</text>
+      <% data_tl.jesus.each do |ev| %>
+        <% if ev[:end] %>
+          <% bx, ex = bar_span.(ev) %>
+          <% ly = ev[:quiet] ? 168 : 181 %><%# stagger the two range labels so they cannot collide %>
+          <rect class="<%= ev[:quiet] ? "tl-bar-quiet" : "tl-bar-jesus" %>" x="<%= bx %>" y="<%= ev[:quiet] ? js_spine - 4 : js_spine - 6 %>" width="<%= (ex - bx).round(1) %>" height="<%= ev[:quiet] ? 8 : 12 %>" rx="4" />
+          <path class="tl-leader" d="M <%= bx + 3 %>,<%= js_spine + 6 %> V <%= ly - 5 %>" />
+          <text class="tl-label" x="<%= [bx - 4, x0].max %>" y="<%= ly %>"><%= ev[:label] %></text>
+        <% else %>
+          <% mx = tx.(ev[:start]) %>
+          <% if ev[:label_pos] == "right" %>
+            <circle class="tl-marker-halo" cx="<%= mx %>" cy="<%= js_spine %>" r="8" />
+            <circle class="tl-marker" cx="<%= mx %>" cy="<%= js_spine %>" r="4.5" />
+            <text class="tl-label" x="<%= mx + 12 %>" y="<%= js_spine + 4 %>"><%= ev[:label] %></text>
+          <% else %>
+            <circle class="tl-marker" cx="<%= mx %>" cy="<%= js_spine %>" r="4" />
+            <path class="tl-leader" d="M <%= mx %>,138 V <%= js_spine - 5 %>" />
+            <text class="tl-label" x="<%= [mx - 6, x0].max %>" y="134"><%= ev[:label] %></text>
+          <% end %>
+        <% end %>
+      <% end %>
+
+      <!-- Lane: the church -->
+      <text class="tl-lane-title" x="<%= x0 %>" y="196">The Church</text>
+      <% data_tl.church.each do |ev| %>
+        <% if ev[:end] %>
+          <% bx, ex = bar_span.(ev) %>
+          <rect class="tl-bar-church" x="<%= bx %>" y="<%= ch_bar_y %>" width="<%= (ex - bx).round(1) %>" height="14" rx="4" />
+          <% ax = (bx + 3).round(1) %>
+          <path class="tl-leader" d="M <%= ax %>,<%= ch_bar_y + 15 %> V <%= ch_anchor_y - 4 %>" />
+          <text class="tl-alabel" x="<%= ax %>" y="<%= ch_anchor_y %>" transform="rotate(32 <%= ax %> <%= ch_anchor_y %>)"><%= ev[:label] %></text>
+        <% else %>
+          <% mx = tx.(ev[:start]) %>
+          <circle class="tl-point" cx="<%= mx %>" cy="<%= ch_spine %>" r="4" />
+          <% case ev[:label_pos] %>
+          <% when "raised" %>
+            <path class="tl-leader" d="M <%= mx %>,<%= ch_spine - 5 %> V 217" />
+            <text class="tl-label-sm" x="<%= mx - 5 %>" y="213" text-anchor="end"><%= ev[:label] %></text>
+          <% when "left" %>
+            <text class="tl-label-sm" x="<%= mx - 10 %>" y="<%= ch_spine + 4 %>" text-anchor="end"><%= ev[:label] %></text>
+          <% else %>
+            <path class="tl-leader" d="M <%= mx %>,<%= ch_spine + 5 %> V <%= ch_anchor_y - 4 %>" />
+            <text class="tl-alabel" x="<%= mx %>" y="<%= ch_anchor_y %>" transform="rotate(32 <%= mx %> <%= ch_anchor_y %>)"><%= ev[:label] %></text>
+          <% end %>
+        <% end %>
+      <% end %>
+
+      <!-- Lane: when the books were written -->
+      <text class="tl-lane-title" x="<%= x0 %>" y="352">New Testament Writings</text>
+      <% data_tl.books.each_with_index do |ev, i| %>
+        <% bx, ex = bar_span.(ev) %>
+        <% by = bk_top + i * bk_step %>
+        <rect class="tl-bar-book" x="<%= bx %>" y="<%= by %>" width="<%= [(ex - bx), 8].max.round(1) %>" height="9" rx="3" />
+        <text class="tl-label-sm" x="<%= bx - 8 %>" y="<%= by + 8 %>" text-anchor="end"><%= ev[:label] %></text>
+      <% end %>
+
+      <!-- Year axis, broken across the compressed band -->
+      <g class="tl-axis">
+        <path d="M <%= x0 %>,<%= ax_y %> H <%= break_x - 4 %> M <%= break_x + 4 %>,<%= ax_y %> H <%= x1 %>" />
+        <path class="tl-break" d="M <%= break_x - 4 %>,<%= ax_y - 5 %> L <%= break_x + 2 %>,<%= ax_y + 5 %> M <%= break_x - 2 %>,<%= ax_y - 5 %> L <%= break_x + 4 %>,<%= ax_y + 5 %>" />
+        <% ticks.each do |(yr, lbl)| %>
+          <% tx_x = tx.(yr) %>
+          <path d="M <%= tx_x %>,<%= ax_y %> V <%= ax_y + 6 %>" />
+          <text x="<%= tx_x %>" y="596" text-anchor="middle"><%= lbl %></text>
+        <% end %>
+        <text class="tl-note" x="<%= break_x %>" y="612" text-anchor="middle">AD 1&#8211;26 compressed</text>
+      </g>
+
+      <!-- "You are here" week markers, one per entry in the weeks map in
+           the study's timeline.yml. All are hidden; arriving at
+           /{study}/timeline/#week-NN reveals exactly one via CSS :target,
+           so no JavaScript is needed. -->
+      <% tl_weeks = data_tl[:weeks] || {} %>
+      <% tl_weeks.each do |wk, yr| %>
+        <% wx = tx.(yr) %>
+        <g id="week-<%= "%02d" % wk.to_i %>" class="tl-here">
+          <path d="M <%= wx %>,14 V <%= ax_y %>" />
+          <text x="<%= wx.clamp(30.0, 962.0) %>" y="10" text-anchor="middle">Week <%= wk %></text>
+        </g>
+      <% end %>
+    </svg>
+  </div>
+  <figcaption class="tl-caption">
+    Nearly every date on this chart is approximate; ranges reflect mainstream
+    scholarship, not certainty. The layout follows the AD&nbsp;30 crucifixion
+    date -- some scholars place it at AD&nbsp;33, which would shift the
+    ministry and the earliest church events about three years later. The
+    shaded band marks the quiet years AD&nbsp;1&#8211;26, drawn compressed so
+    the crowded apostolic decades have room.
+  </figcaption>
+</figure>
