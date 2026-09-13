@@ -4,7 +4,6 @@ day: 3
 title: John the Baptist's Ministry
 reading: Mark 1:1-8
 tags:
-- phase-1
 - john-the-baptist
 - wilderness
 - repentance

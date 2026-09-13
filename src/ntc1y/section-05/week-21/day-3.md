@@ -6,7 +6,6 @@ reading: Acts 3
 parallel_passages: Acts 14:8-18; John 5:1-15; Luke 5:17-26; Isaiah 35:6
 section: The Early Church
 tags:
-- phase-5
 - acts
 - peter
 - healing

@@ -6,7 +6,6 @@ reading: Romans 5
 parallel_passages: 1 Corinthians 15:21-22, 45-49; Genesis 3:1-19; Ephesians 2:1-10
 section: The Early Church
 tags:
-- phase-5
 - romans
 - justification
 - sanctification

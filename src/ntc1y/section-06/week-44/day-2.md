@@ -6,7 +6,6 @@ reading: Titus 1
 parallel_passages: 1 Timothy 3:1-7, Acts 27:7-13, 1 Timothy 1:3-7, Ezekiel 34:1-10
 section: Letters and Revelation
 tags:
-- phase-6
 - titus
 - crete
 - elders

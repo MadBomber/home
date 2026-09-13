@@ -7,7 +7,6 @@ parallel_passages: Mark 7:1-37, Mark 8:1-10, Isaiah 29:13, Deuteronomy 5:16, Gen
   12:1-3
 section: Galilean Ministry
 tags:
-- phase-2
 - bread-of-life
 - clean-unclean
 - feeding-miracles

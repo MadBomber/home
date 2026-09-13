@@ -4,7 +4,6 @@ week: 47
 title: The New and Living Way
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - new-covenant
 - tabernacle

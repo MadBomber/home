@@ -7,7 +7,6 @@ parallel_passages: 1 Corinthians 12:4-27; Romans 12:3-8; Colossians 3:1-17; Psal
   68:18
 section: The Early Church
 tags:
-- phase-5
 - ephesians
 - unity
 - spiritual-gifts

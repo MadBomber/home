@@ -5,7 +5,6 @@ type: discussion
 section: Road to Jerusalem
 tags:
 - discussion
-- phase-3
 - week-14
 layout: page
 study_slug: ntc1y

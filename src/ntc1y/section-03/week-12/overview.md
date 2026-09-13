@@ -10,7 +10,6 @@ chapters:
 - Luke 14
 - Luke 15
 tags:
-- phase-3
 - festival-of-tabernacles
 - i-am-sayings
 - parables-of-grace

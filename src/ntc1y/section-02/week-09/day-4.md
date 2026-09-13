@@ -6,7 +6,6 @@ reading: Mark 7
 parallel_passages: Matthew 15:1-31, Isaiah 35:5-6, Leviticus 11, Acts 10:9-16
 section: Galilean Ministry
 tags:
-- phase-2
 - bread-of-life
 - clean-unclean
 - faith

@@ -4,7 +4,6 @@ week: 6
 section: Galilean Ministry
 title: Words of Power
 tags:
-- phase-2
 - miracles
 - parables
 - mission

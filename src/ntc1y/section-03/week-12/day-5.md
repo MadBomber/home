@@ -6,7 +6,6 @@ reading: Luke 15
 parallel_passages: Matthew 18:12-14, Ezekiel 34:11-16, Jeremiah 31:18-20, Isaiah 55:6-7
 section: Road to Jerusalem
 tags:
-- phase-3
 - prodigal-son
 - parables-of-grace
 - lost-sheep

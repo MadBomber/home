@@ -7,7 +7,6 @@ parallel_passages: 1 Corinthians 8:1-13, 1 Corinthians 10:23-33, Colossians 2:16
   Galatians 5:13-15, Isaiah 45:23
 section: The Early Church
 tags:
-- phase-5
 - romans
 - israel
 - olive-tree

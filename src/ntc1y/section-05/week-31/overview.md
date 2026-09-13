@@ -3,7 +3,6 @@ week: 31
 section: The Early Church
 title: Worship and Gifts
 tags:
-- phase-5
 - corinthians
 - spiritual-gifts
 - love-chapter

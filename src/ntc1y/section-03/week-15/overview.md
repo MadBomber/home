@@ -3,7 +3,6 @@ week: 15
 section: Road to Jerusalem
 title: The Final Week Begins
 tags:
-- phase-3
 - triumphal-entry
 - temple-cleansing
 - authority

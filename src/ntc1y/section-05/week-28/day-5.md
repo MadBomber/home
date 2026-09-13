@@ -7,7 +7,6 @@ parallel_passages: Acts 19:1; 1 Corinthians 1:12; 1 Corinthians 3:4-9; 1 Corinth
   16:12
 section: The Early Church
 tags:
-- phase-5
 - day-of-the-lord
 - eschatology
 - thessalonians

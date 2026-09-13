@@ -6,7 +6,6 @@ reading: Hebrews 3
 parallel_passages: Numbers 14, Psalm 95:7-11, Exodus 3:1-6, Numbers 12:7
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - moses
 - warning

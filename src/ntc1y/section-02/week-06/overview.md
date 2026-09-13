@@ -10,7 +10,6 @@ chapters:
 - Mark 4
 - Matthew 10
 tags:
-- phase-2
 - miracles
 - parables
 - mission

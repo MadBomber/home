@@ -7,7 +7,6 @@ reading: Acts 19
 parallel_passages: Acts 18:24-28; Mark 16:17-18; Acts 8:9-24; Ephesians 6:10-12
 section: The Early Church
 tags:
-- phase-5
 - ephesus
 - corinthians
 - divisions

@@ -10,7 +10,6 @@ chapters:
 - John 11:45-57
 - Luke 19:1-27
 tags:
-- phase-3
 - lazarus
 - rich-young-man
 - plot-against-jesus

@@ -6,7 +6,6 @@ reading: Matthew 19
 parallel_passages: Genesis 1:27, Genesis 2:24, Mark 10:1-31, Deuteronomy 24:1-4
 section: Road to Jerusalem
 tags:
-- phase-3
 - marriage
 - divorce
 - children

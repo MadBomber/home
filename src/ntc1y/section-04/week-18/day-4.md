@@ -6,7 +6,6 @@ reading: Mark 14
 parallel_passages: Matthew 26; Luke 22; John 13; John 18:1-27
 section: Passion and Resurrection
 tags:
-- phase-4
 - gethsemane
 - trial
 - anointing

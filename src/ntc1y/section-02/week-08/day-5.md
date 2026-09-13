@@ -6,7 +6,6 @@ reading: John 6:1-40
 parallel_passages: Matthew 14:13-33, Mark 6:30-52, Exodus 16
 section: Galilean Ministry
 tags:
-- phase-2
 - feeding-5000
 - walking-on-water
 - bread-of-life

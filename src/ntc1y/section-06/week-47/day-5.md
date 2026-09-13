@@ -7,7 +7,6 @@ parallel_passages: Proverbs 3:11-12, Deuteronomy 9:19, Exodus 19:12-22, Genesis 
   Haggai 2:6, Revelation 21:1-4
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - endurance
 - discipline

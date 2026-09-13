@@ -7,7 +7,6 @@ parallel_passages: Romans 2:5-11; Romans 8:17-18; 2 Corinthians 1:3-7; Revelatio
   6:9-11
 section: The Early Church
 tags:
-- phase-5
 - day-of-the-lord
 - eschatology
 - thessalonians

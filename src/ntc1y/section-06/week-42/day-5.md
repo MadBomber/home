@@ -6,7 +6,6 @@ reading: Colossians 4 + Philemon
 parallel_passages: Galatians 3:28, 1 Corinthians 7:21-23, Ephesians 6:18-20
 section: Letters and Revelation
 tags:
-- phase-6
 - colossians
 - philemon
 - prayer

@@ -3,7 +3,6 @@ week: 18
 section: Passion and Resurrection
 title: Gethsemane and Trial
 tags:
-- phase-4
 - gethsemane
 - trial
 - high-priestly-prayer

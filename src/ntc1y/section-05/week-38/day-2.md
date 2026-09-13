@@ -7,7 +7,6 @@ parallel_passages: Acts 18:2-3, Colossians 4:15, Philippians 4:2-3, 1 Corinthian
   16:19
 section: The Early Church
 tags:
-- phase-5
 - romans
 - greetings
 - phoebe

@@ -7,7 +7,6 @@ parallel_passages: Psalm 110:4, Psalm 2:7, Genesis 14:17-20, Philippians 2:8, 1 
   3:1-3
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - melchizedek
 - high-priest

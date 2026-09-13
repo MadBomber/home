@@ -6,7 +6,6 @@ reading: Philippians 4
 parallel_passages: 2 Corinthians 11:23-28, Matthew 6:25-34, 1 Thessalonians 5:16-18
 section: Letters and Revelation
 tags:
-- phase-6
 - philippians
 - joy
 - contentment

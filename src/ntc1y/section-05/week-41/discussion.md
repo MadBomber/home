@@ -4,7 +4,6 @@ week: 41
 section: The Early Church
 title: Prison Letters
 tags:
-- phase-5
 - ephesians
 - philippians
 - prison-letters

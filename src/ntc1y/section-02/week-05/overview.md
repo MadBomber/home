@@ -10,7 +10,6 @@ chapters:
 - Matthew 7
 - Luke 6
 tags:
-- phase-2
 - sermon-on-mount
 - twelve-apostles
 - authority

@@ -7,7 +7,6 @@ parallel_passages: John 1:12-13, Romans 8:14-17, Matthew 25:31-46, Deuteronomy 1
   James 2:15-17
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-john
 - children-of-god
 - love

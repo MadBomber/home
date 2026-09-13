@@ -7,7 +7,6 @@ parallel_passages: Romans 3:21-26, Romans 5:6-10, Colossians 2:13-15, Genesis 12
   Isaiah 57:19
 section: The Early Church
 tags:
-- phase-5
 - ephesians
 - grace
 - salvation

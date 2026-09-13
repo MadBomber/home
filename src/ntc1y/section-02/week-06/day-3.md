@@ -6,7 +6,6 @@ reading: Matthew 9
 parallel_passages: Mark 2:1-17, Mark 5:21-43, Luke 5:17-32, Luke 8:40-56
 section: Galilean Ministry
 tags:
-- phase-2
 - matthew
 - miracles
 - paralytic

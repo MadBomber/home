@@ -6,7 +6,6 @@ reading: Mark 3
 parallel_passages: Matthew 10:1-4, Matthew 12:22-37, Luke 6:12-16, Luke 11:14-23
 section: Galilean Ministry
 tags:
-- phase-2
 - mark
 - twelve-apostles
 - beelzebul

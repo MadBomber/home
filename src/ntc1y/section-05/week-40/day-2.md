@@ -6,7 +6,6 @@ reading: Ephesians 1
 parallel_passages: Romans 8:28-30, Colossians 1:3-14, 2 Corinthians 1:22, John 17:24
 section: The Early Church
 tags:
-- phase-5
 - ephesians
 - spiritual-blessings
 - election

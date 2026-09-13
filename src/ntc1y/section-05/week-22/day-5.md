@@ -6,7 +6,6 @@ reading: James 2
 parallel_passages: Genesis 15:6, Genesis 22, Joshua 2, Romans 4, Galatians 3
 section: The Early Church
 tags:
-- phase-5
 - james
 - faith-and-works
 - favoritism

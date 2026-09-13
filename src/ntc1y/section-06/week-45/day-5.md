@@ -7,7 +7,6 @@ parallel_passages: Psalm 8:4-6, Isaiah 8:17-18, Psalm 22:22, Philippians 2:5-11,
   3:15
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - warning
 - incarnation

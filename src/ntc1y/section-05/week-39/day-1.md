@@ -6,7 +6,6 @@ reading: Acts 23
 parallel_passages: Acts 9:15; Acts 22:17-21; Psalm 27:1-3
 section: The Early Church
 tags:
-- phase-5
 - acts
 - paul-trials
 - sanhedrin

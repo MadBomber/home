@@ -7,7 +7,6 @@ parallel_passages: Matthew 18:15-20; Deuteronomy 19:15; 1 Corinthians 11:28; Gal
   6:1-5; Matthew 28:19
 section: The Early Church
 tags:
-- phase-5
 - 2-corinthians
 - apostolic-authority
 - suffering

@@ -6,7 +6,6 @@ reading: John 15
 parallel_passages: Isaiah 5:1-7; Psalm 80:8-16; Galatians 5:22-23
 section: Passion and Resurrection
 tags:
-- phase-4
 - upper-room-discourse
 - farewell-discourse
 - vine

@@ -7,7 +7,6 @@ parallel_passages: 2 Corinthians 4:7-12; 2 Corinthians 6:3-10; 2 Corinthians 11:
   Philippians 3:7-11
 section: The Early Church
 tags:
-- phase-5
 - ephesus
 - corinthians
 - divisions

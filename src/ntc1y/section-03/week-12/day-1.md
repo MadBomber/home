@@ -7,7 +7,6 @@ parallel_passages: Leviticus 23:33-44, Deuteronomy 16:13-17, Zechariah 14:8, Isa
   55:1
 section: Road to Jerusalem
 tags:
-- phase-3
 - festival-of-tabernacles
 - i-am-sayings
 - division

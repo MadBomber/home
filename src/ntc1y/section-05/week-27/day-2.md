@@ -6,7 +6,6 @@ reading: 1 Thessalonians 1
 parallel_passages: Acts 17:1-9; Philippians 1:3-6; Colossians 1:3-8
 section: The Early Church
 tags:
-- phase-5
 - corinth
 - thessalonians
 - paul

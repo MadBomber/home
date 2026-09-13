@@ -6,7 +6,6 @@ reading: Revelation 1
 parallel_passages: Daniel 7:9-14, Daniel 10:5-6, Ezekiel 1:26-28, Isaiah 44:6
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - seven-churches
 - throne-room

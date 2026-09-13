@@ -4,7 +4,6 @@ week: 23
 title: Faith That Works
 section: The Early Church
 tags:
-- phase-5
 - james
 - tongue
 - wisdom

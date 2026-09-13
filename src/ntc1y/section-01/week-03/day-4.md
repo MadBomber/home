@@ -7,7 +7,6 @@ parallel_passages:
 - John 7:50-52
 - John 19:39
 tags:
-- phase-1
 - nicodemus
 - born-again
 - spirit

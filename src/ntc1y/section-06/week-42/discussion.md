@@ -4,7 +4,6 @@ week: 42
 title: Joy and Faithfulness
 section: Letters and Revelation
 tags:
-- phase-6
 - philippians
 - colossians
 - philemon

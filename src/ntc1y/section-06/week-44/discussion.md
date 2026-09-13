@@ -4,7 +4,6 @@ week: 44
 title: Guarding the Faith
 section: Letters and Revelation
 tags:
-- phase-6
 - pastoral-epistles
 - 1-timothy
 - titus

@@ -7,7 +7,6 @@ parallel_passages: 1 Corinthians 9:24-27; Ephesians 6:10-18; Philippians 2:19-22
   1 Timothy 6:12
 section: Letters and Revelation
 tags:
-- phase-6
 - 2-timothy
 - endurance
 - approved-workman

@@ -3,7 +3,6 @@ week: 27
 section: The Early Church
 title: Paul in Corinth
 tags:
-- phase-5
 - corinth
 - thessalonians
 - paul

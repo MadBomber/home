@@ -3,7 +3,6 @@ week: 32
 section: The Early Church
 title: Resurrection Hope
 tags:
-- phase-5
 - resurrection
 - corinthians
 - hope

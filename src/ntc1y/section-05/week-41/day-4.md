@@ -6,7 +6,6 @@ reading: Philippians 2
 parallel_passages: John 1:1-14, Colossians 1:15-20, Isaiah 45:23, Isaiah 52:13-53:12
 section: The Early Church
 tags:
-- phase-5
 - philippians
 - kenosis
 - christ-hymn

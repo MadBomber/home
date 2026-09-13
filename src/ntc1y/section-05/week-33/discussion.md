@@ -4,7 +4,6 @@ title: Treasure in Jars of Clay
 type: discussion
 tags:
 - discussion
-- phase-5
 - week-33
 layout: page
 section: The Early Church

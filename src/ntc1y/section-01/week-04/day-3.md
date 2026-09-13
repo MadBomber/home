@@ -14,7 +14,6 @@ tags:
 - calling-disciples
 - forgiveness
 - new-wine
-- phase-1
 layout: page
 study_slug: ntc1y
 ---

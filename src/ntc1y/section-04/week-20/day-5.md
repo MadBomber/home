@@ -6,7 +6,6 @@ reading: John 20-21
 parallel_passages: John 1:1, John 2:19, Matthew 28, Luke 24, 1 Corinthians 15
 section: Passion and Resurrection
 tags:
-- phase-4
 - resurrection
 - thomas
 - mary-magdalene

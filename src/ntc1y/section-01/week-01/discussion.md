@@ -4,7 +4,6 @@ title: The Word Became Flesh
 type: discussion
 tags:
 - discussion
-- phase-1
 - week-1
 layout: page
 section: The Coming of Christ

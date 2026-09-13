@@ -7,7 +7,6 @@ parallel_passages: Mark 8:27-38, Luke 9:18-27, Isaiah 22:22, Revelation 1:18, Ep
   2:20
 section: Galilean Ministry
 tags:
-- phase-2
 - peter-confession
 - passion-prediction
 - discipleship

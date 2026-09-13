@@ -6,7 +6,6 @@ reading: Acts 21
 parallel_passages: Acts 11:28, Numbers 6:1-21, Romans 15:25-31, Luke 9:51
 section: The Early Church
 tags:
-- phase-5
 - acts
 - agabus
 - jerusalem

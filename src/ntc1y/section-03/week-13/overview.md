@@ -10,7 +10,6 @@ chapters:
 - John 9
 - John 10
 tags:
-- phase-3
 - parables
 - good-shepherd
 - i-am-sayings

@@ -6,7 +6,6 @@ reading: Acts 28
 parallel_passages: Mark 16:18, Luke 10:19, Acts 23:11, Isaiah 6:9-10, Romans 1:15-16
 section: The Early Church
 tags:
-- phase-5
 - acts
 - malta
 - rome

@@ -7,7 +7,6 @@ parallel_passages: Acts 2:4-11, Numbers 11:29, Joel 2:28-29, 1 Thessalonians 5:1
   Revelation 19:10
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - spiritual-gifts
 - love-chapter

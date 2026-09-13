@@ -6,7 +6,6 @@ reading: Hebrews 6
 parallel_passages: Genesis 22:15-18, Hebrews 10:26-31, 2 Peter 2:20-22, Matthew 13:1-23
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - maturity
 - warning

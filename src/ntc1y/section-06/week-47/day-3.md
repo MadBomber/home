@@ -6,7 +6,6 @@ reading: Hebrews 10
 parallel_passages: Psalm 40:6-8, Habakkuk 2:3-4, Hebrews 6:4-6, James 5:8-9
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - sacrifice
 - once-for-all

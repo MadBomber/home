@@ -7,7 +7,6 @@ parallel_passages: Romans 14:1-23, Acts 15:28-29, 1 Corinthians 10:14-33, Revela
   2:14, Revelation 2:20, Deuteronomy 6:4
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - church-discipline
 - marriage

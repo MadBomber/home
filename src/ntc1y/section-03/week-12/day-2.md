@@ -7,7 +7,6 @@ parallel_passages: Exodus 3:14, Leviticus 20:10, Isaiah 9:2, Isaiah 42:6, Deuter
   17:6-7
 section: Road to Jerusalem
 tags:
-- phase-3
 - i-am-sayings
 - light-of-the-world
 - woman-caught-in-adultery

@@ -6,7 +6,6 @@ reading: Galatians 1
 parallel_passages: Acts 9:1-19; Acts 22:3-16; Acts 26:9-18; 1 Corinthians 15:1-11
 section: The Early Church
 tags:
-- phase-5
 - first-missionary-journey
 - antioch
 - galatians

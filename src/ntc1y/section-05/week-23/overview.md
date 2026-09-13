@@ -9,7 +9,6 @@ chapters:
 - Acts 9
 - Acts 10
 tags:
-- phase-5
 - james
 - tongue
 - wisdom

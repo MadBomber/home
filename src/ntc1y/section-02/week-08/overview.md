@@ -3,7 +3,6 @@ week: 8
 section: Galilean Ministry
 title: Miracles and Mission
 tags:
-- phase-2
 - miracles
 - feeding-5000
 - walking-on-water

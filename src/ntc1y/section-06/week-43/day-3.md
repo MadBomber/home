@@ -6,7 +6,6 @@ reading: 1 Timothy 3
 parallel_passages: Titus 1:5-9, Acts 20:28, 1 Peter 5:1-4, Philippians 1:1
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-timothy
 - overseers
 - deacons

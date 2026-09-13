@@ -6,7 +6,6 @@ reading: Acts 14
 parallel_passages: 2 Timothy 3:10-11; 2 Corinthians 11:23-27; Acts 13:50-52
 section: The Early Church
 tags:
-- phase-5
 - first-missionary-journey
 - antioch
 - paul

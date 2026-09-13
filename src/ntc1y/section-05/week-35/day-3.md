@@ -7,7 +7,6 @@ parallel_passages: Deuteronomy 10:16, Jeremiah 4:4, Jeremiah 9:25-26, Ezekiel 36
   Matthew 7:1-5, James 2:10-13
 section: The Early Church
 tags:
-- phase-5
 - romans
 - justification
 - faith

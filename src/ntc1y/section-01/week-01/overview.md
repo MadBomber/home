@@ -10,7 +10,6 @@ chapters:
 - Matthew 1
 - Luke 2:1-20
 tags:
-- phase-1
 - birth-narratives
 - incarnation
 memory_verse: "John 1:14"

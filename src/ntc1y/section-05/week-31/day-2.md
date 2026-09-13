@@ -7,7 +7,6 @@ parallel_passages: Genesis 1:26-27, Genesis 2:18-23, Matthew 26:26-29, Mark 14:2
   Luke 22:14-20, Exodus 24:8
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - spiritual-gifts
 - love-chapter

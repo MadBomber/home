@@ -4,7 +4,6 @@ title: To Jerusalem
 type: discussion
 tags:
 - discussion
-- phase-5
 - week-38
 layout: page
 section: The Early Church

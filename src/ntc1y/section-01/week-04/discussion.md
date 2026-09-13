@@ -4,7 +4,6 @@ week: 4
 section: The Coming of Christ
 title: Ministry Begins
 tags:
-- phase-1
 - discussion
 - galilean-ministry-begins
 - calling-disciples

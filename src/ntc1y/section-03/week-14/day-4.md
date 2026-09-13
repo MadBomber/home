@@ -6,7 +6,6 @@ reading: John 11:45-57
 parallel_passages: John 18:14, Isaiah 53:4-6, Matthew 26:3-5
 section: Road to Jerusalem
 tags:
-- phase-3
 - sanhedrin
 - caiaphas
 - plot

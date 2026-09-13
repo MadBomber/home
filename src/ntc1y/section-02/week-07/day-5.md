@@ -6,7 +6,6 @@ reading: Luke 8
 parallel_passages: Matthew 8:23-34; 9:18-26; 13:1-23; Mark 4:1-41; 5:1-43
 section: Galilean Ministry
 tags:
-- phase-2
 - parables
 - miracles
 - women-followers

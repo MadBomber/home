@@ -7,7 +7,6 @@ parallel_passages: Psalm 110:1, Isaiah 25:8, Hosea 13:14, Daniel 12:2-3, Matthew
   Acts 1:3, Philippians 3:20-21, 1 Thessalonians 4:13-18
 section: The Early Church
 tags:
-- phase-5
 - resurrection
 - corinthians
 - hope

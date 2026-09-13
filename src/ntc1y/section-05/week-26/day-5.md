@@ -6,7 +6,6 @@ reading: Acts 17:16-34
 parallel_passages: Romans 1:18-23, Isaiah 40:18-26, Psalm 50:9-12, John 4:24
 section: The Early Church
 tags:
-- phase-5
 - athens
 - areopagus
 - unknown-god

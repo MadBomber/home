@@ -4,7 +4,6 @@ week: 34
 section: The Early Church
 title: Paul's Defense
 tags:
-- phase-5
 - 2-corinthians
 - apostolic-authority
 - suffering

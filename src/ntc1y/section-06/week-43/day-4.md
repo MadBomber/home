@@ -6,7 +6,6 @@ reading: 1 Timothy 4
 parallel_passages: 2 Timothy 2:15, Hebrews 5:14, 1 Corinthians 9:24-27
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-timothy
 - godliness
 - training

@@ -7,7 +7,6 @@ parallel_passages: John 21:15-17, Ezekiel 34, Proverbs 3:34, James 4:6-10, Ephes
   6:10-13
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-peter
 - elders
 - humility

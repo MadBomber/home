@@ -6,7 +6,6 @@ reading: Mark 6:30-56
 parallel_passages: Matthew 14:13-36; Luke 9:10-17; John 6:1-21
 section: Galilean Ministry
 tags:
-- phase-2
 - miracles
 - feeding-5000
 - walking-on-water

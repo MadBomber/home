@@ -6,7 +6,6 @@ reading: Philippians 1
 parallel_passages: Acts 16:11-40, 2 Corinthians 11:23, Romans 8:28, Galatians 2:20
 section: The Early Church
 tags:
-- phase-5
 - philippians
 - joy
 - partnership

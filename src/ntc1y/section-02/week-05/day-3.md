@@ -6,7 +6,6 @@ reading: Matthew 6
 parallel_passages: Luke 11:1-4, Luke 12:22-34, Luke 16:13, Colossians 3:1-4
 section: Galilean Ministry
 tags:
-- phase-2
 - matthew
 - sermon-on-mount
 - lords-prayer

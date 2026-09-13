@@ -7,7 +7,6 @@ parallel_passages: Acts 20:17-38; Philippians 1:21-26; 1 Corinthians 9:24-27; Re
   2:10
 section: Letters and Revelation
 tags:
-- phase-6
 - 2-timothy
 - farewell
 - preach-the-word

@@ -7,7 +7,6 @@ parallel_passages: Psalm 34:18-19, Psalm 86:15, Isaiah 40:1-2, Acts 19:23-41, Ro
   8:17-18, Philippians 1:19-26
 section: The Early Church
 tags:
-- phase-5
 - resurrection
 - corinthians
 - hope

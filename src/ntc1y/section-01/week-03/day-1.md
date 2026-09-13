@@ -7,7 +7,6 @@ parallel_passages:
 - Matthew 4:1-11
 - Mark 1:12-13
 tags:
-- phase-1
 - temptation
 - wilderness
 - satan

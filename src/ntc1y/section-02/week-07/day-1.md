@@ -6,7 +6,6 @@ reading: Matthew 11
 parallel_passages: Luke 7:18-35; Luke 10:13-15, 21-22
 section: Galilean Ministry
 tags:
-- phase-2
 - parables
 - kingdom-of-god
 - john-the-baptist

@@ -6,7 +6,6 @@ reading: Acts 13
 parallel_passages: Acts 9:15-16; Psalm 2; Isaiah 49:6; Acts 26:16-18
 section: The Early Church
 tags:
-- phase-5
 - first-missionary-journey
 - antioch
 - paul

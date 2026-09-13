@@ -7,7 +7,6 @@ parallel_passages: Mark 6:14-56, Luke 9:7-17, John 6:1-21, 1 Kings 19:1-8, Exodu
   14
 section: Galilean Ministry
 tags:
-- phase-2
 - bread-of-life
 - feeding-miracles
 - john-the-baptist

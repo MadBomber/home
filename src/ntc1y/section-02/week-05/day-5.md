@@ -7,7 +7,6 @@ parallel_passages: Matthew 5:1-12, Matthew 5:38-48, Matthew 7:1-5, Matthew 7:24-
   Romans 12:14-21
 section: Galilean Ministry
 tags:
-- phase-2
 - luke
 - sermon-on-plain
 - beatitudes

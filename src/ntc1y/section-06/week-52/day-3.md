@@ -7,7 +7,6 @@ parallel_passages: Ezekiel 2:8-3:3, Zechariah 4, Deuteronomy 19:15, 1 Kings 17, 
   7:17
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - little-scroll
 - two-witnesses

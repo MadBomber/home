@@ -6,7 +6,6 @@ reading: Ephesians 6
 parallel_passages: Isaiah 11:5, Isaiah 59:17, 1 Thessalonians 5:8, Romans 13:12
 section: The Early Church
 tags:
-- phase-5
 - ephesians
 - armor-of-god
 - spiritual-warfare

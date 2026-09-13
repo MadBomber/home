@@ -6,7 +6,6 @@ reading: Mark 4
 parallel_passages: Matthew 13:1-23, Matthew 13:31-32, Luke 8:4-18, Luke 13:18-19
 section: Galilean Ministry
 tags:
-- phase-2
 - mark
 - parables
 - sower

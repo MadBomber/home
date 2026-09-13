@@ -5,7 +5,6 @@ type: discussion
 section: Galilean Ministry
 tags:
 - discussion
-- phase-2
 - week-11
 layout: page
 study_slug: ntc1y

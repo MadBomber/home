@@ -9,7 +9,6 @@ chapters:
 - Hebrews 6
 - Hebrews 7
 tags:
-- phase-6
 - hebrews
 - moses
 - high-priest

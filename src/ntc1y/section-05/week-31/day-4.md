@@ -7,7 +7,6 @@ parallel_passages: Matthew 22:37-40, John 13:34-35, Romans 13:8-10, Galatians 5:
   Colossians 3:14, 1 John 4:7-21
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - spiritual-gifts
 - love-chapter

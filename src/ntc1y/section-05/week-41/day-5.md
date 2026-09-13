@@ -7,7 +7,6 @@ parallel_passages: Galatians 1:13-14, 2 Corinthians 11:22, Romans 3:21-26, Hebre
   12:1-2
 section: The Early Church
 tags:
-- phase-5
 - philippians
 - knowing-christ
 - pressing-on

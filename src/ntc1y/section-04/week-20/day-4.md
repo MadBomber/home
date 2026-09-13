@@ -6,7 +6,6 @@ reading: Luke 24
 parallel_passages: Acts 1:1-11, John 20-21, 1 Corinthians 15:3-8, Genesis 3:8
 section: Passion and Resurrection
 tags:
-- phase-4
 - resurrection
 - emmaus-road
 - ascension

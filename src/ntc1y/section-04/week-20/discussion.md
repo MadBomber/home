@@ -4,7 +4,6 @@ title: He Is Risen
 type: discussion
 tags:
 - discussion
-- phase-4
 - week-20
 layout: page
 section: Passion and Resurrection

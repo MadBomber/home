@@ -3,7 +3,6 @@ week: 25
 section: The Early Church
 title: Gospel of Freedom
 tags:
-- phase-5
 - galatians
 - justification-by-faith
 - freedom

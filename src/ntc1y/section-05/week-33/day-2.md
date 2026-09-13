@@ -7,7 +7,6 @@ parallel_passages: Romans 8:18-25; 1 Corinthians 15:35-58; Philippians 1:21-24; 
   1:19-22
 section: The Early Church
 tags:
-- phase-5
 - 2-corinthians
 - suffering
 - reconciliation

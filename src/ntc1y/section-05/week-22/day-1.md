@@ -6,7 +6,6 @@ reading: Acts 6
 parallel_passages: 1 Timothy 3:8-13; Exodus 18:13-27; Numbers 11:16-17; Acts 21:8
 section: The Early Church
 tags:
-- phase-5
 - acts
 - stephen
 - deacons

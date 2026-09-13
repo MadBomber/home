@@ -6,7 +6,6 @@ reading: John 14
 parallel_passages: John 7:33-36; John 16:5-7; Acts 1:6-11
 section: Passion and Resurrection
 tags:
-- phase-4
 - upper-room-discourse
 - farewell-discourse
 - holy-spirit

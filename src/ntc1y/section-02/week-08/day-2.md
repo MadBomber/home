@@ -6,7 +6,6 @@ reading: Mark 6:1-29
 parallel_passages: Matthew 13:53-58; 10:1-15; 14:1-12; Luke 9:1-6
 section: Galilean Ministry
 tags:
-- phase-2
 - rejection
 - nazareth
 - twelve-apostles

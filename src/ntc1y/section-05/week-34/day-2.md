@@ -7,7 +7,6 @@ parallel_passages: Ephesians 6:10-18; Romans 1:5; 1 Corinthians 1:18-31; 2 Corin
   3:1-6; Jeremiah 1:10
 section: The Early Church
 tags:
-- phase-5
 - 2-corinthians
 - apostolic-authority
 - suffering

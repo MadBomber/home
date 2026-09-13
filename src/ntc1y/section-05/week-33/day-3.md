@@ -7,7 +7,6 @@ parallel_passages: 2 Corinthians 11:23-28; 1 Corinthians 3:16-17; 1 Corinthians 
   Leviticus 26:11-12
 section: The Early Church
 tags:
-- phase-5
 - 2-corinthians
 - suffering
 - reconciliation

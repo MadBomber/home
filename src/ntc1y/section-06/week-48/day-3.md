@@ -7,7 +7,6 @@ parallel_passages: Exodus 19:5-6, Isaiah 28:16, Psalm 118:22, Romans 13:1-7, Isa
   53:4-9
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-peter
 - living-stones
 - royal-priesthood

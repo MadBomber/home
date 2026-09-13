@@ -6,7 +6,6 @@ reading: 1 Timothy 1
 parallel_passages: Acts 20:29-30, Galatians 1:6-9, 1 Corinthians 15:9-10
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-timothy
 - false-teaching
 - grace

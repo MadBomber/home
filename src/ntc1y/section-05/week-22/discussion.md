@@ -4,7 +4,6 @@ title: Stephen and Scattering
 type: discussion
 tags:
 - discussion
-- phase-5
 - week-22
 layout: page
 section: The Early Church

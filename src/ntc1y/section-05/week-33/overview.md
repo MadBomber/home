@@ -3,7 +3,6 @@ week: 33
 section: The Early Church
 title: Treasure in Jars of Clay
 tags:
-- phase-5
 - 2-corinthians
 - suffering
 - reconciliation

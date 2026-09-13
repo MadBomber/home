@@ -6,7 +6,6 @@ reading: Luke 19:1-27
 parallel_passages: Luke 5:27-32, Matthew 25:14-30, Luke 15:1-7
 section: Road to Jerusalem
 tags:
-- phase-3
 - zacchaeus
 - salvation
 - tax-collector

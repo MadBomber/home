@@ -6,7 +6,6 @@ reading: Matthew 21:1-22
 parallel_passages: Mark 11:1-26; Luke 19:28-48; John 12:12-19
 section: Road to Jerusalem
 tags:
-- phase-3
 - triumphal-entry
 - temple-cleansing
 - authority

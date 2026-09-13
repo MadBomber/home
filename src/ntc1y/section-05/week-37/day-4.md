@@ -7,7 +7,6 @@ parallel_passages: 1 Peter 2:13-17, Mark 12:13-17, 1 Thessalonians 5:1-11, Galat
   5:14, Leviticus 19:18, Galatians 3:27
 section: The Early Church
 tags:
-- phase-5
 - romans
 - israel
 - olive-tree

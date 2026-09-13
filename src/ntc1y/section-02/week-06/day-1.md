@@ -6,7 +6,6 @@ reading: Matthew 8
 parallel_passages: Luke 7:1-10, Mark 4:35-41, Mark 5:1-20, Luke 8:22-39
 section: Galilean Ministry
 tags:
-- phase-2
 - matthew
 - miracles
 - centurion

@@ -4,7 +4,6 @@ week: 40
 section: The Early Church
 title: Paul in Rome
 tags:
-- phase-5
 - acts
 - ephesians
 - prison-letters

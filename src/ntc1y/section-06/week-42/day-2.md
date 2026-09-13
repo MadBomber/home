@@ -6,7 +6,6 @@ reading: Colossians 1
 parallel_passages: Ephesians 1:15-23, John 1:1-18, Hebrews 1:1-4
 section: Letters and Revelation
 tags:
-- phase-6
 - colossians
 - christ-hymn
 - supremacy-of-christ

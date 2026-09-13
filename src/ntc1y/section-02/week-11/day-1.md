@@ -7,7 +7,6 @@ parallel_passages: Mark 9:33-50, Luke 9:46-48, Luke 15:3-7, Luke 17:3-4, Colossi
   3:13
 section: Galilean Ministry
 tags:
-- phase-2
 - kingdom-ethics
 - forgiveness
 - humility

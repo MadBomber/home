@@ -4,7 +4,6 @@ week: 12
 title: Conflict and Compassion
 section: Road to Jerusalem
 tags:
-- phase-3
 - discussion
 - festival-of-tabernacles
 - i-am-sayings

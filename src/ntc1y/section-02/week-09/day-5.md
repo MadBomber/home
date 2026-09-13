@@ -7,7 +7,6 @@ parallel_passages: Matthew 15:32-39, Matthew 16:1-12, John 9:1-7, 2 Kings 4:42-4
   Isaiah 42:18-20
 section: Galilean Ministry
 tags:
-- phase-2
 - bread-of-life
 - feeding-miracles
 - faith

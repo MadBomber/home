@@ -6,7 +6,6 @@ reading: Acts 1
 parallel_passages: Luke 24:44-53; Mark 16:19-20; Matthew 28:16-20
 section: The Early Church
 tags:
-- phase-5
 - acts
 - ascension
 - holy-spirit

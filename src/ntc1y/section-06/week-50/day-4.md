@@ -7,7 +7,6 @@ parallel_passages: Deuteronomy 13:1-5, 1 Corinthians 12:3, John 3:16, Romans 5:8
   Romans 8:15
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-john
 - test-spirits
 - god-is-love

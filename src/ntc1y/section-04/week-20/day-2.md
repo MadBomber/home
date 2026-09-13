@@ -6,7 +6,6 @@ reading: Matthew 28
 parallel_passages: Mark 16, Luke 24, John 20, Acts 1:8, Daniel 7:14
 section: Passion and Resurrection
 tags:
-- phase-4
 - resurrection
 - great-commission
 - authority

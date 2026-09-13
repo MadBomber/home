@@ -6,7 +6,6 @@ reading: Revelation 8-9
 parallel_passages: Exodus 7-10, Joel 1-2, Amos 5:18-20, Habakkuk 2:20
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - trumpets
 - silence

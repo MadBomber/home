@@ -6,7 +6,6 @@ reading: 1 Peter 3
 parallel_passages: Ephesians 5:22-33, Genesis 6:1-8, Colossians 3:18-19, Romans 12:17-21
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-peter
 - marriage
 - inner-beauty

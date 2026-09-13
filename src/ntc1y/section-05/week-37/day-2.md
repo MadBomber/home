@@ -7,7 +7,6 @@ parallel_passages: 1 Kings 19:10-18, Isaiah 59:20-21, Isaiah 27:9, Jeremiah 31:3
   Deuteronomy 29:4, Deuteronomy 32:21
 section: The Early Church
 tags:
-- phase-5
 - romans
 - israel
 - olive-tree

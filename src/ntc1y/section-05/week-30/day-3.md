@@ -7,7 +7,6 @@ parallel_passages: Genesis 2:18-24, Matthew 19:3-12, Mark 10:2-12, Ephesians 5:2
   1 Thessalonians 4:3-8, 1 Timothy 4:1-5
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - church-discipline
 - marriage

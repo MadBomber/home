@@ -7,7 +7,6 @@ parallel_passages: Galatians 2:19-20; Colossians 2:12-13; Colossians 3:1-10; Eph
   4:22-24
 section: The Early Church
 tags:
-- phase-5
 - romans
 - justification
 - sanctification

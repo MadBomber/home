@@ -6,7 +6,6 @@ reading: John 13
 parallel_passages: Luke 22:21-34; Matthew 26:20-25; Mark 14:17-21
 section: Passion and Resurrection
 tags:
-- phase-4
 - last-supper
 - upper-room-discourse
 - farewell-discourse

@@ -6,7 +6,6 @@ reading: Hebrews 9
 parallel_passages: Exodus 25-26, Leviticus 16, Exodus 24:6-8, 1 Peter 1:18-19
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - tabernacle
 - blood

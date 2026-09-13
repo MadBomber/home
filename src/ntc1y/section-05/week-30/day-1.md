@@ -7,7 +7,6 @@ parallel_passages: Deuteronomy 17:7, Matthew 18:15-20, 2 Corinthians 2:5-11, 1 T
   1:20, Leviticus 18:8
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - church-discipline
 - marriage

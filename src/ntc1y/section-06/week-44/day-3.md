@@ -6,7 +6,6 @@ reading: Titus 2
 parallel_passages: Romans 6:1-14, Ephesians 2:8-10, Colossians 3:12-17, 1 Peter 2:11-12
 section: Letters and Revelation
 tags:
-- phase-6
 - titus
 - grace
 - blessed-hope

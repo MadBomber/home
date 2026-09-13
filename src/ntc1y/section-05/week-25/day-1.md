@@ -6,7 +6,6 @@ reading: Galatians 2
 parallel_passages: Acts 15:1-29, Acts 11:1-18, Romans 3:21-26
 section: The Early Church
 tags:
-- phase-5
 - galatians
 - jerusalem
 - peter-confronted

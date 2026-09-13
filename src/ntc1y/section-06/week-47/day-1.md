@@ -6,7 +6,6 @@ reading: Hebrews 8
 parallel_passages: Jeremiah 31:31-34, Exodus 25:40, 2 Corinthians 3:6, Luke 22:20
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - new-covenant
 - heavenly-tabernacle

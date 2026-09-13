@@ -6,7 +6,6 @@ reading: 1 Peter 1
 parallel_passages: Romans 8:18-25, James 1:2-4, Malachi 3:2-3, Exodus 19:5-6
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-peter
 - living-hope
 - tested-faith

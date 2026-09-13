@@ -6,7 +6,6 @@ reading: 1 John 1
 parallel_passages: John 1:1-18, John 8:12, Psalm 36:9, James 5:16
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-john
 - light
 - darkness

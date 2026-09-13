@@ -6,7 +6,6 @@ reading: 1 Timothy 6
 parallel_passages: Philippians 4:11-13, Matthew 6:19-21, Hebrews 13:5, Proverbs 30:8-9
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-timothy
 - contentment
 - money

@@ -3,7 +3,6 @@ week: 26
 section: The Early Church
 title: The Jerusalem Council
 tags:
-- phase-5
 - jerusalem-council
 - second-missionary-journey
 - timothy

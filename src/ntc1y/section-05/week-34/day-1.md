@@ -7,7 +7,6 @@ parallel_passages: 2 Corinthians 8; 1 Corinthians 16:1-4; Proverbs 11:24-25; Mal
   3:10; Acts 4:32-37
 section: The Early Church
 tags:
-- phase-5
 - 2-corinthians
 - apostolic-authority
 - suffering

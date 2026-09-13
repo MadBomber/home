@@ -10,7 +10,6 @@ chapters:
 - Philippians 2
 - Philippians 3
 tags:
-- phase-5
 - ephesians
 - philippians
 - prison-letters

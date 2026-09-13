@@ -7,7 +7,6 @@ parallel_passages: Genesis 12:3, Genesis 15:6, Romans 4, Habakkuk 2:4, Deuterono
   27:26
 section: The Early Church
 tags:
-- phase-5
 - galatians
 - justification-by-faith
 - abraham

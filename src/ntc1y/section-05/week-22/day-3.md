@@ -6,7 +6,6 @@ reading: Acts 8
 parallel_passages: Isaiah 53:7-8, John 4:4-42, Acts 1:8
 section: The Early Church
 tags:
-- phase-5
 - persecution
 - scattering
 - philip

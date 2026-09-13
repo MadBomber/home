@@ -7,7 +7,6 @@ parallel_passages: Acts 18:1-4, 2 Corinthians 11:7-12, 1 Thessalonians 2:9, Luke
   Deuteronomy 25:4, 1 Timothy 5:17-18, Philippians 3:13-14
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - church-discipline
 - marriage

@@ -6,7 +6,6 @@ reading: 2 Corinthians 7
 parallel_passages: 2 Corinthians 2:1-11; Psalm 51; Matthew 26:75; Acts 11:18
 section: The Early Church
 tags:
-- phase-5
 - 2-corinthians
 - suffering
 - reconciliation

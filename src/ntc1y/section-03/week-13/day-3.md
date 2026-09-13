@@ -7,7 +7,6 @@ parallel_passages: Matthew 19:13-30, Mark 10:13-31, 1 Samuel 1:9-18, Psalm 34:18
   Isaiah 57:15
 section: Road to Jerusalem
 tags:
-- phase-3
 - parables
 - prayer
 - humility

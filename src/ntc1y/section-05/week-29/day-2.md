@@ -6,7 +6,6 @@ reading: 1 Corinthians 1
 parallel_passages: Isaiah 29:14; Jeremiah 9:23-24; Romans 1:16-17; 1 Corinthians 3:18-23
 section: The Early Church
 tags:
-- phase-5
 - ephesus
 - corinthians
 - divisions

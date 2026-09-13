@@ -6,7 +6,6 @@ reading: Acts 18:1-17
 parallel_passages: 1 Corinthians 2:1-5; 2 Corinthians 11:7-9; Romans 16:3-4
 section: The Early Church
 tags:
-- phase-5
 - corinth
 - thessalonians
 - paul

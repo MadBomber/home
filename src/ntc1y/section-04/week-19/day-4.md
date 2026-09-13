@@ -6,7 +6,6 @@ reading: John 18
 parallel_passages: Matthew 26:47-27:2; Mark 14:43-15:5; Luke 22:47-23:7
 section: Passion and Resurrection
 tags:
-- phase-4
 - crucifixion
 - cross
 - trial

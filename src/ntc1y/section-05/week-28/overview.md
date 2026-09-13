@@ -3,7 +3,6 @@ week: 28
 section: The Early Church
 title: The Day of the Lord
 tags:
-- phase-5
 - day-of-the-lord
 - eschatology
 - thessalonians

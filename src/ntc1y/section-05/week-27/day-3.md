@@ -6,7 +6,6 @@ reading: 1 Thessalonians 2
 parallel_passages: Acts 17:1-9; 2 Corinthians 2:17; 2 Corinthians 4:2; 1 Peter 5:1-4
 section: The Early Church
 tags:
-- phase-5
 - corinth
 - thessalonians
 - paul

@@ -6,7 +6,6 @@ reading: Matthew 26:1-46
 parallel_passages: Mark 14:1-42; Luke 22:39-46; John 12:1-8; John 18:1
 section: Passion and Resurrection
 tags:
-- phase-4
 - gethsemane
 - anointing
 - last-supper

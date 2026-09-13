@@ -6,7 +6,6 @@ reading: Matthew 17
 parallel_passages: Mark 9:1-29, Luke 9:28-43, Exodus 30:13
 section: Galilean Ministry
 tags:
-- phase-2
 - transfiguration
 - faith
 - temple-tax

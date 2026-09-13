@@ -7,7 +7,6 @@ parallel_passages: Acts 18:24-28, Acts 19:21-22, Romans 15:25-28, 2 Corinthians 
   Galatians 2:10
 section: The Early Church
 tags:
-- phase-5
 - resurrection
 - corinthians
 - hope

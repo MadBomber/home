@@ -6,7 +6,6 @@ reading: 1 Timothy 2
 parallel_passages: Romans 13:1-7, Hebrews 8:6, John 14:6, Jeremiah 29:7
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-timothy
 - prayer
 - mediator

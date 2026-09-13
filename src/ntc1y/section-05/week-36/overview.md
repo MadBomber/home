@@ -3,7 +3,6 @@ week: 36
 section: The Early Church
 title: The Letter to Rome (Part 2)
 tags:
-- phase-5
 - romans
 - justification
 - sanctification

@@ -6,7 +6,6 @@ reading: Acts 2
 parallel_passages: Joel 2:28-32; John 14:16-17, 26; John 16:7-15; Luke 24:49
 section: The Early Church
 tags:
-- phase-5
 - acts
 - pentecost
 - holy-spirit

@@ -6,7 +6,6 @@ reading: Mark 9:1-29
 parallel_passages: Matthew 17:1-21, Luke 9:28-43, 2 Peter 1:16-18
 section: Galilean Ministry
 tags:
-- phase-2
 - transfiguration
 - glory
 - faith

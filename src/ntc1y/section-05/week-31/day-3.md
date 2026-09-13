@@ -7,7 +7,6 @@ parallel_passages: Romans 12:3-8, Ephesians 4:4-16, Colossians 1:18, Acts 2:1-13
   Joel 2:28-32
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - spiritual-gifts
 - love-chapter

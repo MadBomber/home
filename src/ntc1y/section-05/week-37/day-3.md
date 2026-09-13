@@ -7,7 +7,6 @@ parallel_passages: 1 Corinthians 12:4-27, Ephesians 4:1-16, 1 Peter 4:8-11, Matt
   5:38-48, Proverbs 25:21-22
 section: The Early Church
 tags:
-- phase-5
 - romans
 - israel
 - olive-tree

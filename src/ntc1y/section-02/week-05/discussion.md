@@ -4,7 +4,6 @@ week: 5
 section: Galilean Ministry
 title: Authority Revealed
 tags:
-- phase-2
 - sermon-on-mount
 - twelve-apostles
 - authority

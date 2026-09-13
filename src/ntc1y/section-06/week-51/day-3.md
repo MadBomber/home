@@ -6,7 +6,6 @@ reading: Revelation 3
 parallel_passages: Isaiah 22:22, Exodus 32:32-33, Malachi 3:16-18, Luke 12:35-40
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - seven-churches
 - sardis

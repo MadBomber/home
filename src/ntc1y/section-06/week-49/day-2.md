@@ -7,7 +7,6 @@ parallel_passages: Matthew 17:1-8, John 1:14, Galatians 5:22-23, Colossians 1:3-
   2 Timothy 3:16
 section: Letters and Revelation
 tags:
-- phase-6
 - 2-peter
 - virtue
 - transfiguration

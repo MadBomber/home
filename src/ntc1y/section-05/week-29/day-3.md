@@ -7,7 +7,6 @@ parallel_passages: Isaiah 64:4; Isaiah 40:13; Romans 8:26-27; Romans 11:33-36; J
   14:26
 section: The Early Church
 tags:
-- phase-5
 - ephesus
 - corinthians
 - divisions

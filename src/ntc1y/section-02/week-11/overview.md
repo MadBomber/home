@@ -3,7 +3,6 @@ week: 11
 section: Galilean Ministry
 title: Life in the Kingdom
 tags:
-- phase-2
 - kingdom-ethics
 - forgiveness
 - good-samaritan

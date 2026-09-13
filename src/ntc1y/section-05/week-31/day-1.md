@@ -7,7 +7,6 @@ parallel_passages: Exodus 13:21-22, Exodus 14:22, Exodus 16:4-35, Numbers 20:7-1
   Numbers 25:1-9, Deuteronomy 32:17, Psalm 106:14-20
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - spiritual-gifts
 - love-chapter

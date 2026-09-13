@@ -7,7 +7,6 @@ parallel_passages: Exodus 33:19; Isaiah 29:16; Isaiah 45:9; Jeremiah 18:1-10; Ma
   1:2-3
 section: The Early Church
 tags:
-- phase-5
 - romans
 - justification
 - sanctification

@@ -6,7 +6,6 @@ reading: Galatians 5
 parallel_passages: Romans 8:1-17, Romans 13:8-10, John 15:1-8
 section: The Early Church
 tags:
-- phase-5
 - galatians
 - freedom
 - fruit-of-spirit

@@ -10,7 +10,6 @@ chapters:
 - Mark 1:14-45
 - Mark 2
 tags:
-- phase-1
 - galilean-ministry-begins
 - calling-disciples
 - miracles

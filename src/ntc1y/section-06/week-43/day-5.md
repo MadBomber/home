@@ -6,7 +6,6 @@ reading: 1 Timothy 5
 parallel_passages: Acts 6:1-6, James 1:27, Deuteronomy 25:4, Luke 10:7
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-timothy
 - widows
 - elders

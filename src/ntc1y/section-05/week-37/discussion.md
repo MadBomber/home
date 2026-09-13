@@ -4,7 +4,6 @@ week: 37
 section: The Early Church
 title: The Letter to Rome (Part 3)
 tags:
-- phase-5
 - romans
 - israel
 - olive-tree

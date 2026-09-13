@@ -7,7 +7,6 @@ parallel_passages: Genesis 12-50, Exodus 1-34, Deuteronomy 18:15, 1 Kings 6-8, I
   66:1-2
 section: The Early Church
 tags:
-- phase-5
 - stephen
 - speech
 - martyrdom

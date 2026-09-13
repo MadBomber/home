@@ -6,7 +6,6 @@ reading: Matthew 13:1-30
 parallel_passages: Mark 4:1-34; Luke 8:4-18
 section: Galilean Ministry
 tags:
-- phase-2
 - parables
 - kingdom-of-god
 - sower

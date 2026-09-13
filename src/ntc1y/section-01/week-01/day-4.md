@@ -12,7 +12,6 @@ tags:
 - joseph
 - emmanuel
 - davidic-line
-- phase-1
 layout: page
 study_slug: ntc1y
 ---

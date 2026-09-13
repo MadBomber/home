@@ -6,7 +6,6 @@ reading: James 4
 parallel_passages: 1 John 2:15-17, 1 Peter 5:6-9, Proverbs 27:1
 section: The Early Church
 tags:
-- phase-5
 - james
 - worldliness
 - humility

@@ -12,7 +12,6 @@ chapters:
 - John 20
 - John 21
 tags:
-- phase-4
 - resurrection
 - empty-tomb
 - great-commission

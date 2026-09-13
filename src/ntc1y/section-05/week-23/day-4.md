@@ -6,7 +6,6 @@ reading: Acts 9
 parallel_passages: Acts 22:1-21, Acts 26:1-23, Galatians 1:11-24, 1 Timothy 1:12-16
 section: The Early Church
 tags:
-- phase-5
 - acts
 - paul-conversion
 - damascus

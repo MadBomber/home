@@ -7,7 +7,6 @@ parallel_passages: Psalm 19:1-6, Wisdom 13:1-9, Acts 17:22-31, Habakkuk 2:4, Gen
   1:26-27
 section: The Early Church
 tags:
-- phase-5
 - romans
 - justification
 - faith

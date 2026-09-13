@@ -6,7 +6,6 @@ reading: Hebrews 7
 parallel_passages: Genesis 14:17-20, Psalm 110:4, Numbers 18:21-26, Jeremiah 31:31-34
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - melchizedek
 - priesthood

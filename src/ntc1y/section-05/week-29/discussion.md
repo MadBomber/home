@@ -4,7 +4,6 @@ week: 29
 section: The Early Church
 title: Paul in Ephesus
 tags:
-- phase-5
 - ephesus
 - corinthians
 - divisions

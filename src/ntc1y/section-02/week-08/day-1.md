@@ -6,7 +6,6 @@ reading: Mark 5
 parallel_passages: Matthew 8:28-34; 9:18-26; Luke 8:26-56
 section: Galilean Ministry
 tags:
-- phase-2
 - miracles
 - legion
 - jairus

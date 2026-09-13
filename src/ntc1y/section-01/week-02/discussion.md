@@ -4,7 +4,6 @@ week: 2
 section: The Coming of Christ
 title: A Child Is Born
 tags:
-- phase-1
 - discussion
 - birth-narratives
 - john-the-baptist

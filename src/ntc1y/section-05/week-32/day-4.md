@@ -7,7 +7,6 @@ parallel_passages: Matthew 18:21-35, Luke 15:11-32, Ephesians 4:32, Colossians 2
   1 Corinthians 5:1-5
 section: The Early Church
 tags:
-- phase-5
 - resurrection
 - corinthians
 - hope

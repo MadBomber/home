@@ -6,7 +6,6 @@ reading: Acts 16:16-40
 parallel_passages: Philippians 1:12-14, Matthew 5:10-12, Acts 5:41
 section: The Early Church
 tags:
-- phase-5
 - philippi
 - imprisonment
 - worship

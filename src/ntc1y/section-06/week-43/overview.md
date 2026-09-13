@@ -3,7 +3,6 @@ week: 43
 title: Pastoral Guidance
 section: Letters and Revelation
 tags:
-- phase-6
 - pastoral-epistles
 - 1-timothy
 - church-leadership

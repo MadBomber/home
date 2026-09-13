@@ -8,7 +8,6 @@ parallel_passages:
 - Mark 11:15-17
 - Luke 19:45-46
 tags:
-- phase-1
 - signs
 - cana
 - temple

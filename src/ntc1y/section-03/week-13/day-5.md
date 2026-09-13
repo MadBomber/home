@@ -6,7 +6,6 @@ reading: John 10
 parallel_passages: Psalm 23, Ezekiel 34, Isaiah 40:11, John 17:21
 section: Road to Jerusalem
 tags:
-- phase-3
 - good-shepherd
 - i-am-sayings
 - festival-of-dedication

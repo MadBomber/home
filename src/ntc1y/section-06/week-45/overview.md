@@ -3,7 +3,6 @@ week: 45
 title: Paul's Final Words
 section: Letters and Revelation
 tags:
-- phase-6
 - 2-timothy
 - hebrews
 - farewell

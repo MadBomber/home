@@ -6,7 +6,6 @@ reading: Matthew 23
 parallel_passages: Mark 12:38-40; Luke 11:37-54; Luke 13:34-35; Luke 20:45-47
 section: Road to Jerusalem
 tags:
-- phase-3
 - olivet-discourse
 - eschatology
 - parables

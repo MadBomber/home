@@ -4,7 +4,6 @@ week: 9
 section: Galilean Ministry
 title: Bread of Life
 tags:
-- phase-2
 - bread-of-life
 - feeding-miracles
 - clean-unclean

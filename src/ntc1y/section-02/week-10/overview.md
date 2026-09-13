@@ -3,7 +3,6 @@ week: 10
 section: Galilean Ministry
 title: Who Do You Say I Am?
 tags:
-- phase-2
 - peter-confession
 - transfiguration
 - passion-prediction

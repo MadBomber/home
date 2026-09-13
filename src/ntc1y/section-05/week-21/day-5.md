@@ -6,7 +6,6 @@ reading: Acts 5
 parallel_passages: Joshua 7:1-26; Leviticus 10:1-3; Acts 12:20-23; 2 Corinthians 9:7
 section: The Early Church
 tags:
-- phase-5
 - acts
 - ananias-sapphira
 - apostles

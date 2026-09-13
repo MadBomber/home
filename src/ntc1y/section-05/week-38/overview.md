@@ -3,7 +3,6 @@ week: 38
 section: The Early Church
 title: To Jerusalem
 tags:
-- phase-5
 - romans
 - paul-to-jerusalem
 - farewell

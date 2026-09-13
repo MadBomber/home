@@ -7,7 +7,6 @@ parallel_passages: Acts 19:21-22, 1 Corinthians 16:5-9, 2 Corinthians 2:12-13, 2
   7:5-7, Romans 15:25-28
 section: The Early Church
 tags:
-- phase-5
 - romans
 - justification
 - faith

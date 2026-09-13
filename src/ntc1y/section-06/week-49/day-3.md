@@ -7,7 +7,6 @@ parallel_passages: Genesis 6-8, Genesis 19, Numbers 22-24, Jude 4-16, 1 John 4:1
   Matthew 7:15-20
 section: Letters and Revelation
 tags:
-- phase-6
 - 2-peter
 - false-teachers
 - judgment

@@ -4,7 +4,6 @@ day: 1
 title: Presentation at Temple & Boy Jesus
 reading: Luke 2:21-52
 tags:
-- phase-1
 - birth-narratives
 - temple
 - simeon

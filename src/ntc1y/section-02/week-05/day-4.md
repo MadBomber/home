@@ -6,7 +6,6 @@ reading: Matthew 7
 parallel_passages: Luke 6:37-49, Luke 13:24, James 1:22-25, Romans 2:1-4
 section: Galilean Ministry
 tags:
-- phase-2
 - matthew
 - sermon-on-mount
 - judgment

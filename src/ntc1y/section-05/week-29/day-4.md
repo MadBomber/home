@@ -6,7 +6,6 @@ reading: 1 Corinthians 3
 parallel_passages: Hebrews 5:12-14; Ephesians 2:19-22; 1 Peter 2:4-5; Matthew 7:24-27
 section: The Early Church
 tags:
-- phase-5
 - ephesus
 - corinthians
 - divisions

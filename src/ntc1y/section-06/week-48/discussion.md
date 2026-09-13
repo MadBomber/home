@@ -4,7 +4,6 @@ week: 48
 section: Letters and Revelation
 title: Living Faith
 tags:
-- phase-6
 - hebrews
 - 1-peter
 - living-hope

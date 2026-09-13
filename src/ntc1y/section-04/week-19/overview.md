@@ -9,7 +9,6 @@ chapters:
 - John 18
 - John 19
 tags:
-- phase-4
 - crucifixion
 - cross
 - trial

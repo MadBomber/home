@@ -7,7 +7,6 @@ parallel_passages: Isaiah 13:6-9; Joel 2:1-11; Matthew 24:42-44; Romans 13:11-14
   2 Peter 3:10
 section: The Early Church
 tags:
-- phase-5
 - day-of-the-lord
 - eschatology
 - thessalonians

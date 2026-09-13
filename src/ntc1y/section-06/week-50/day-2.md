@@ -6,7 +6,6 @@ reading: 1 John 2
 parallel_passages: Romans 8:34, Hebrews 7:25, John 14:15, Matthew 24:24, Romans 12:2
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-john
 - advocate
 - obedience

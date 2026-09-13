@@ -7,7 +7,6 @@ parallel_passages: 2 Peter 2, Genesis 6:1-4, Numbers 16, Numbers 22-24, 1 Enoch 
   Zechariah 3:1-2, Revelation 12:7-9
 section: Letters and Revelation
 tags:
-- phase-6
 - jude
 - false-teachers
 - contend

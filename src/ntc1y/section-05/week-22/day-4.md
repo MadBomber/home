@@ -6,7 +6,6 @@ reading: James 1
 parallel_passages: Matthew 7:24-27, Romans 5:3-5, Proverbs 2:1-6
 section: The Early Church
 tags:
-- phase-5
 - james
 - trials
 - wisdom

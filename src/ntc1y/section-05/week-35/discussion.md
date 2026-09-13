@@ -4,7 +4,6 @@ week: 35
 section: The Early Church
 title: The Letter to Rome (Part 1)
 tags:
-- phase-5
 - romans
 - justification
 - faith

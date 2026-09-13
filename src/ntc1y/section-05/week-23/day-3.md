@@ -6,7 +6,6 @@ reading: James 5
 parallel_passages: 1 Kings 17-18, Job 42:10-17, Matthew 18:12-14
 section: The Early Church
 tags:
-- phase-5
 - james
 - wealth
 - patience

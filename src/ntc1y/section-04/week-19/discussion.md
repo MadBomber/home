@@ -4,7 +4,6 @@ week: 19
 section: Passion and Resurrection
 title: The Cross
 tags:
-- phase-4
 - crucifixion
 - cross
 - trial

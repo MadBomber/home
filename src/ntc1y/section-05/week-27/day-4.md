@@ -6,7 +6,6 @@ reading: 1 Thessalonians 3
 parallel_passages: Acts 17:14-15; Acts 18:5; Philippians 2:19-24; Colossians 4:12
 section: The Early Church
 tags:
-- phase-5
 - corinth
 - thessalonians
 - paul

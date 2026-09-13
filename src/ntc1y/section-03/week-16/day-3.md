@@ -6,7 +6,6 @@ reading: Matthew 24
 parallel_passages: Mark 13, Luke 21, Daniel 9:27, Daniel 12:1-3, 1 Thessalonians 4:13-18
 section: Road to Jerusalem
 tags:
-- phase-3
 - olivet-discourse
 - eschatology
 - second-coming

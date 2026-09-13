@@ -7,7 +7,6 @@ parallel_passages: Matthew 8:5-13, Matthew 11:2-19, John 1:19-27, Isaiah 35:5-6,
   61:1
 section: Galilean Ministry
 tags:
-- phase-2
 - luke
 - miracles
 - centurion

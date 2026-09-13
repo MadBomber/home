@@ -6,7 +6,6 @@ reading: Revelation 5
 parallel_passages: Isaiah 53:7, Genesis 49:9-10, Daniel 7:13-14, Philippians 2:5-11
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - scroll
 - lamb

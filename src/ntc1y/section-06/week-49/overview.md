@@ -3,7 +3,6 @@ week: 49
 title: Stand Firm
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-peter
 - 2-peter
 - jude

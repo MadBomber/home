@@ -7,7 +7,6 @@ parallel_passages: Exodus 34:29-35, Jeremiah 31:31-34, Ezekiel 36:26-27, Romans 
   Romans 8:2-4, Hebrews 8:6-13
 section: The Early Church
 tags:
-- phase-5
 - resurrection
 - corinthians
 - hope

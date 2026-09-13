@@ -7,7 +7,6 @@ parallel_passages: Matthew 27:32-28:20, Luke 23:26-24:53, John 19:17-21:25, Psal
   22
 section: Passion and Resurrection
 tags:
-- phase-4
 - crucifixion
 - resurrection
 - mark

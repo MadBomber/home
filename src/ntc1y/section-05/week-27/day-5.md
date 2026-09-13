@@ -7,7 +7,6 @@ parallel_passages: Leviticus 19:2; Romans 6:19-22; 1 Corinthians 6:18-20; 1 Cori
   15:51-58
 section: The Early Church
 tags:
-- phase-5
 - corinth
 - thessalonians
 - paul

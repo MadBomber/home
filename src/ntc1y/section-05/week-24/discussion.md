@@ -4,7 +4,6 @@ week: 24
 title: The Gospel to the Gentiles
 section: The Early Church
 tags:
-- phase-5
 - first-missionary-journey
 - antioch
 - galatians

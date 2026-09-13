@@ -6,7 +6,6 @@ reading: Hebrews 11
 parallel_passages: Genesis 4-50, Exodus 1-14, Joshua 2, Romans 4, James 2:21-25
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - faith
 - heroes

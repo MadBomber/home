@@ -6,7 +6,6 @@ reading: Matthew 25:31-46, Luke 21
 parallel_passages: Daniel 7:13-14, Ezekiel 34:17-22, Matthew 24, Mark 13, Joel 3:1-3
 section: Road to Jerusalem
 tags:
-- phase-3
 - olivet-discourse
 - eschatology
 - judgment

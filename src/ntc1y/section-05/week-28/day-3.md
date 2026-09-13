@@ -7,7 +7,6 @@ parallel_passages: Daniel 7:25; Daniel 11:36; Matthew 24:4-14; 1 John 2:18; Reve
   13
 section: The Early Church
 tags:
-- phase-5
 - day-of-the-lord
 - eschatology
 - thessalonians

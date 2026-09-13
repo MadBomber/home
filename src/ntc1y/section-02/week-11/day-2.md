@@ -8,7 +8,6 @@ parallel_passages: Matthew 10:5-15, Matthew 14:13-21, Matthew 16:13-28, Matthew 
   Mark 6:7-13, Mark 8:27-38, Mark 9:2-13
 section: Galilean Ministry
 tags:
-- phase-2
 - kingdom-ethics
 - discipleship
 - transfiguration

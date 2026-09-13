@@ -6,7 +6,6 @@ reading: John 17
 parallel_passages: John 14:16-17; Hebrews 7:25; Romans 8:34
 section: Passion and Resurrection
 tags:
-- phase-4
 - high-priestly-prayer
 - unity
 - glory

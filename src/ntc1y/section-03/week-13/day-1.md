@@ -6,7 +6,6 @@ reading: Luke 16
 parallel_passages: Amos 6:1-7, Proverbs 19:17, Deuteronomy 15:7-11, 1 Timothy 6:17-19
 section: Road to Jerusalem
 tags:
-- phase-3
 - parables
 - wealth
 - stewardship

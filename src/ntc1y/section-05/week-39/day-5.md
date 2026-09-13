@@ -6,7 +6,6 @@ reading: Acts 27
 parallel_passages: Jonah 1, Psalm 107:23-32, 2 Corinthians 11:25-27, Acts 28:1
 section: The Early Church
 tags:
-- phase-5
 - acts
 - shipwreck
 - storm

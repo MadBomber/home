@@ -6,7 +6,6 @@ reading: 2 Timothy 3
 parallel_passages: Romans 1:28-32; Psalm 119:105; 2 Peter 1:20-21; Jude 1:17-19
 section: Letters and Revelation
 tags:
-- phase-6
 - 2-timothy
 - scripture
 - last-days

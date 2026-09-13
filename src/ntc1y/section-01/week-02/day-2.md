@@ -4,7 +4,6 @@ day: 2
 title: Magi Visit, Flight to Egypt, Return to Nazareth
 reading: Matthew 2
 tags:
-- phase-1
 - birth-narratives
 - magi
 - herod

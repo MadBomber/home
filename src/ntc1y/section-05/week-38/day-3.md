@@ -6,7 +6,6 @@ reading: Acts 20:7-38
 parallel_passages: 2 Timothy 4:1-8, John 10:12, Matthew 7:15, Acts 18:19-21
 section: The Early Church
 tags:
-- phase-5
 - acts
 - eutychus
 - miletus

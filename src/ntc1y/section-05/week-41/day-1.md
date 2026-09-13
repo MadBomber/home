@@ -6,7 +6,6 @@ reading: Ephesians 5
 parallel_passages: Genesis 2:24, Colossians 3:18-19, 1 Peter 3:1-7, Song of Solomon
 section: The Early Church
 tags:
-- phase-5
 - ephesians
 - love
 - spirit-filled

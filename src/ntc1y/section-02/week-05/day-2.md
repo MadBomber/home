@@ -6,7 +6,6 @@ reading: Matthew 5
 parallel_passages: Luke 6:20-26, Luke 14:34-35, Romans 13:8-10, James 2:10-11
 section: Galilean Ministry
 tags:
-- phase-2
 - matthew
 - sermon-on-mount
 - beatitudes

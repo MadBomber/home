@@ -7,7 +7,6 @@ parallel_passages: Matthew 22:1-14, Matthew 10:37-39, Proverbs 25:6-7, Deuterono
   20:5-8
 section: Road to Jerusalem
 tags:
-- phase-3
 - discipleship
 - cost-of-discipleship
 - great-banquet

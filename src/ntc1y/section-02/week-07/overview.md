@@ -3,7 +3,6 @@ week: 7
 section: Galilean Ministry
 title: Parables of the Kingdom
 tags:
-- phase-2
 - parables
 - kingdom-of-god
 - sabbath-controversy

@@ -6,7 +6,6 @@ reading: Matthew 20
 parallel_passages: Mark 10:32-45, Luke 18:31-34, Isaiah 53:10-12, Philippians 2:5-8
 section: Road to Jerusalem
 tags:
-- phase-3
 - parable
 - vineyard-workers
 - passion-prediction

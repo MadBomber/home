@@ -6,7 +6,6 @@ reading: Revelation 4
 parallel_passages: Isaiah 6:1-8, Ezekiel 1:4-28, Ezekiel 10:1-22, Exodus 19:16-20
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - throne-room
 - twenty-four-elders

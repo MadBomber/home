@@ -6,7 +6,6 @@ reading: Acts 24
 parallel_passages: Acts 23:35; Daniel 2:21; 2 Timothy 4:6-8
 section: The Early Church
 tags:
-- phase-5
 - acts
 - paul-trials
 - felix

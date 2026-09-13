@@ -3,7 +3,6 @@ week: 39
 section: The Early Church
 title: Trials and Imprisonment
 tags:
-- phase-5
 - acts
 - paul-trials
 - felix

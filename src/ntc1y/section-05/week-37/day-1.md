@@ -7,7 +7,6 @@ parallel_passages: Deuteronomy 30:11-14, Joel 2:32, Isaiah 52:7, Isaiah 53:1, Is
   65:1-2, Deuteronomy 32:21
 section: The Early Church
 tags:
-- phase-5
 - romans
 - israel
 - olive-tree

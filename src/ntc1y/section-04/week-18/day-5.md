@@ -6,7 +6,6 @@ reading: Mark 15:1-20
 parallel_passages: Matthew 27:1-31; Luke 23:1-25; John 18:28-19:16
 section: Passion and Resurrection
 tags:
-- phase-4
 - trial
 - pilate
 - barabbas

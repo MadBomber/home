@@ -6,7 +6,6 @@ reading: Mark 9:30-50
 parallel_passages: Matthew 18:1-5, Luke 9:46-50
 section: Galilean Ministry
 tags:
-- phase-2
 - passion-prediction
 - servanthood
 - discipleship

@@ -6,7 +6,6 @@ reading: John 11:1-44
 parallel_passages: John 5:21-29, Ezekiel 37:1-14, 1 Kings 17:17-24, 2 Kings 4:32-37
 section: Road to Jerusalem
 tags:
-- phase-3
 - lazarus
 - resurrection-and-life
 - i-am-sayings

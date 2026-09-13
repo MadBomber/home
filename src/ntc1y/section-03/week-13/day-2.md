@@ -7,7 +7,6 @@ parallel_passages: 2 Kings 5:1-14, Matthew 17:20, Matthew 24:23-28, Mark 9:42, G
   19:17-26
 section: Road to Jerusalem
 tags:
-- phase-3
 - faith
 - gratitude
 - ten-lepers

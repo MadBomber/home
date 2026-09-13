@@ -6,7 +6,6 @@ reading: John 9
 parallel_passages: John 1:4-9, John 8:12, Isaiah 42:6-7
 section: Road to Jerusalem
 tags:
-- phase-3
 - gospel-of-john
 - healing
 - blindness

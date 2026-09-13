@@ -6,7 +6,6 @@ reading: Matthew 12
 parallel_passages: Mark 2:23-3:6; Luke 6:1-11; Luke 11:14-28; Luke 12:10
 section: Galilean Ministry
 tags:
-- phase-2
 - sabbath-controversy
 - beelzebul
 - kingdom-of-god

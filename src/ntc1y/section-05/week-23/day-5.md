@@ -6,7 +6,6 @@ reading: Acts 10
 parallel_passages: Acts 11:1-18, Leviticus 11, Isaiah 49:6, Ephesians 2:11-22
 section: The Early Church
 tags:
-- phase-5
 - acts
 - cornelius
 - peter

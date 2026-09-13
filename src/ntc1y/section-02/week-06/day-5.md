@@ -6,7 +6,6 @@ reading: Matthew 10
 parallel_passages: Mark 6:7-13, Luke 9:1-6, Luke 10:1-20, Luke 12:2-12
 section: Galilean Ministry
 tags:
-- phase-2
 - matthew
 - mission
 - twelve-apostles

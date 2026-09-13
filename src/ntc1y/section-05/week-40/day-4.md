@@ -7,7 +7,6 @@ parallel_passages: Colossians 1:24-29; Romans 16:25-27; Galatians 3:6-9, 26-29; 
   11:33-36
 section: The Early Church
 tags:
-- phase-5
 - ephesians
 - mystery
 - gentile-inclusion

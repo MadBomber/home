@@ -6,7 +6,6 @@ reading: Acts 22
 parallel_passages: Acts 9:1-19, Acts 26:1-23, Galatians 1:11-17, Philippians 3:4-6
 section: The Early Church
 tags:
-- phase-5
 - acts
 - paul-defense
 - testimony

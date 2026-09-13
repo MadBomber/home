@@ -7,7 +7,6 @@ parallel_passages: John 1:12-13, John 3:36, John 5:24, Romans 8:37, 3 John with 
   2:3
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-john
 - 2-john
 - 3-john

@@ -4,7 +4,6 @@ week: 46
 title: A Better Covenant
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - discussion
 - moses

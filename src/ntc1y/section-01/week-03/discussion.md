@@ -4,7 +4,6 @@ week: 3
 section: The Coming of Christ
 title: Tested and Called
 tags:
-- phase-1
 - discussion
 - temptation
 - early-ministry

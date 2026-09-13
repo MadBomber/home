@@ -6,7 +6,6 @@ reading: Luke 23:26-56
 parallel_passages: Matthew 27:32-66; Mark 15:21-47; John 19:16-42
 section: Passion and Resurrection
 tags:
-- phase-4
 - crucifixion
 - cross
 - burial

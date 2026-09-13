@@ -6,7 +6,6 @@ reading: Matthew 26:47-75
 parallel_passages: Mark 14:43-72; Luke 22:47-71; John 18:1-27
 section: Passion and Resurrection
 tags:
-- phase-4
 - betrayal
 - sanhedrin-trial
 - denial

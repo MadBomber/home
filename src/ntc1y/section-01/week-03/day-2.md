@@ -8,7 +8,6 @@ parallel_passages:
 - Mark 1:7-8
 - Luke 3:15-18
 tags:
-- phase-1
 - john-the-baptist
 - disciples
 - lamb-of-god

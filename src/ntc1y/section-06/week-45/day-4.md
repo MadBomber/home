@@ -7,7 +7,6 @@ parallel_passages: Psalm 2:7, 2 Samuel 7:14, Psalm 104:4, Psalm 45:6-7, Psalm 10
   Psalm 110:1, Colossians 1:15-20, John 1:1-3
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - son-of-god
 - angels

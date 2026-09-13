@@ -4,7 +4,6 @@ day: 5
 title: Matthew's Baptism Account
 reading: Matthew 3
 tags:
-- phase-1
 - john-the-baptist
 - baptism
 - righteousness

@@ -7,7 +7,6 @@ parallel_passages: Zechariah 1:8-17, Zechariah 6:1-8, Matthew 24:4-14, Ezekiel 9
   Daniel 12:1
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - seals
 - four-horsemen

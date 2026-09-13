@@ -6,7 +6,6 @@ reading: Luke 10
 parallel_passages: Matthew 10:1-16, Leviticus 19:18, Deuteronomy 6:5
 section: Galilean Ministry
 tags:
-- phase-2
 - sending-72
 - good-samaritan
 - mary-martha

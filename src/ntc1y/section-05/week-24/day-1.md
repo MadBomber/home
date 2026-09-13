@@ -6,7 +6,6 @@ reading: Acts 11
 parallel_passages: Acts 10:1-48; Acts 8:1-4; Galatians 2:11-14
 section: The Early Church
 tags:
-- phase-5
 - first-missionary-journey
 - antioch
 - paul

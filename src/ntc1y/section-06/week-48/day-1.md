@@ -6,7 +6,6 @@ reading: Hebrews 13
 parallel_passages: Romans 12:9-13, 1 Thessalonians 5:12-22, Leviticus 16:27
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - mutual-love
 - contentment

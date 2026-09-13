@@ -7,7 +7,6 @@ reading: Luke 12
 parallel_passages: Matthew 6:25-34, Matthew 10:26-33, Matthew 24:42-51
 section: Galilean Ministry
 tags:
-- phase-2
 - fearless-confession
 - rich-fool
 - anxiety

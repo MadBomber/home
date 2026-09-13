@@ -7,7 +7,6 @@ parallel_passages: 1 Thessalonians 4:11-12; 1 Thessalonians 5:14; Acts 18:3; 1 C
   9:6-15; Ephesians 4:28
 section: The Early Church
 tags:
-- phase-5
 - day-of-the-lord
 - eschatology
 - thessalonians

@@ -6,7 +6,6 @@ reading: Titus 3
 parallel_passages: Ephesians 2:1-10, Romans 3:21-26, John 3:3-8, Galatians 5:19-26
 section: Letters and Revelation
 tags:
-- phase-6
 - titus
 - mercy
 - rebirth

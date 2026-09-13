@@ -7,7 +7,6 @@ parallel_passages: Psalm 14:1-3, Psalm 51:4, Psalm 143:2, Genesis 15:6, Isaiah 5
   Galatians 2:15-21, Philippians 3:8-9
 section: The Early Church
 tags:
-- phase-5
 - romans
 - justification
 - faith

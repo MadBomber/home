@@ -4,7 +4,6 @@ day: 4
 title: John's Preaching & Jesus' Baptism
 reading: Luke 3:1-22
 tags:
-- phase-1
 - john-the-baptist
 - baptism
 - holy-spirit

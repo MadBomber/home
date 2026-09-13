@@ -7,7 +7,6 @@ parallel_passages: Genesis 3:15, Daniel 7, Isaiah 14:12-15, 2 Thessalonians 2:3-
   Joel 3:13
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - woman
 - dragon

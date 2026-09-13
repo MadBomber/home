@@ -8,7 +8,6 @@ parallel_passages:
 - Mark 1:14
 - Luke 4:14
 tags:
-- phase-1
 - samaritan-woman
 - living-water
 - worship

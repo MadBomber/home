@@ -6,7 +6,6 @@ reading: Acts 26
 parallel_passages: Acts 9:1-19; Acts 22:3-21; Galatians 1:13-17
 section: The Early Church
 tags:
-- phase-5
 - acts
 - paul-trials
 - agrippa

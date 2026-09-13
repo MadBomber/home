@@ -4,7 +4,6 @@ week: 21
 title: Birth of the Church
 section: The Early Church
 tags:
-- phase-5
 - acts
 - pentecost
 - early-church

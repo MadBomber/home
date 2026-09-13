@@ -7,7 +7,6 @@ parallel_passages: Genesis 2:2, Joshua 1:13, Isaiah 55:11, Revelation 1:16, Hebr
   2:17-18
 section: Letters and Revelation
 tags:
-- phase-6
 - hebrews
 - sabbath-rest
 - living-word

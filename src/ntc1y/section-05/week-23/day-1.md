@@ -6,7 +6,6 @@ reading: James 3
 parallel_passages: Proverbs 18:21, Matthew 12:36-37, Proverbs 2:6
 section: The Early Church
 tags:
-- phase-5
 - james
 - tongue
 - speech

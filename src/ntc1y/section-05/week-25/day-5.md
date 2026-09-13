@@ -6,7 +6,6 @@ reading: Galatians 6
 parallel_passages: 2 Corinthians 5:17, Romans 2:28-29, 1 Corinthians 7:19
 section: The Early Church
 tags:
-- phase-5
 - galatians
 - burden-bearing
 - sowing-reaping

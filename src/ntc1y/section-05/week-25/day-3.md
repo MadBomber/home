@@ -6,7 +6,6 @@ reading: Galatians 4
 parallel_passages: Romans 8:14-17, Genesis 16-21, Isaiah 54:1
 section: The Early Church
 tags:
-- phase-5
 - galatians
 - adoption
 - sonship

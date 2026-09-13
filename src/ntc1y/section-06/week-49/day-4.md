@@ -7,7 +7,6 @@ parallel_passages: Psalm 90:4, Isaiah 65:17, Isaiah 66:22, 1 Thessalonians 5:2, 
   21:1, Romans 8:19-25
 section: Letters and Revelation
 tags:
-- phase-6
 - 2-peter
 - second-coming
 - scoffers

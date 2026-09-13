@@ -4,7 +4,6 @@ week: 16
 section: Road to Jerusalem
 title: Olivet Discourse
 tags:
-- phase-3
 - olivet-discourse
 - eschatology
 - parables

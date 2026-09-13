@@ -6,7 +6,6 @@ reading: 2 Timothy 1
 parallel_passages: Acts 16:1-3, Romans 1:16, 1 Timothy 4:14, Philippians 1:6
 section: Letters and Revelation
 tags:
-- phase-6
 - 2-timothy
 - courage
 - unashamed

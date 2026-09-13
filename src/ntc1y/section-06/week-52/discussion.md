@@ -4,7 +4,6 @@ week: 52
 title: 'Revelation: All Things New'
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - seals
 - trumpets

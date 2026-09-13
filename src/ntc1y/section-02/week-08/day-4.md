@@ -6,7 +6,6 @@ reading: John 5
 parallel_passages: Mark 2:1-12, Matthew 12:1-14, John 7:21-24
 section: Galilean Ministry
 tags:
-- phase-2
 - gospel-of-john
 - healing
 - sabbath-controversy

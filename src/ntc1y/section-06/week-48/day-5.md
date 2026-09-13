@@ -6,7 +6,6 @@ reading: 1 Peter 4
 parallel_passages: Romans 6:1-11, James 1:2-4, Philippians 1:29, Matthew 5:11-12
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-peter
 - suffering
 - fiery-ordeal

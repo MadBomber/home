@@ -6,7 +6,6 @@ reading: Acts 25
 parallel_passages: Acts 23:11; Acts 9:15; Romans 1:15
 section: The Early Church
 tags:
-- phase-5
 - acts
 - paul-trials
 - festus

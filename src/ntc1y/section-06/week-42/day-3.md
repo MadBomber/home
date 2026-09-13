@@ -6,7 +6,6 @@ reading: Colossians 2
 parallel_passages: Galatians 2:20, Romans 6:1-14, Ephesians 2:14-16
 section: Letters and Revelation
 tags:
-- phase-6
 - colossians
 - fullness-of-deity
 - philosophy

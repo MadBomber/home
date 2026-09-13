@@ -3,7 +3,6 @@ week: 17
 section: Passion and Resurrection
 title: The Upper Room
 tags:
-- phase-4
 - last-supper
 - upper-room-discourse
 - farewell-discourse

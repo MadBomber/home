@@ -6,7 +6,6 @@ reading: Acts 4
 parallel_passages: Acts 5:27-42; Luke 21:12-15; John 15:18-25; Psalm 118:22
 section: The Early Church
 tags:
-- phase-5
 - acts
 - peter
 - john

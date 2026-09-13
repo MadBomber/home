@@ -3,7 +3,6 @@ week: 50
 title: Walking in the Light
 section: Letters and Revelation
 tags:
-- phase-6
 - 1-john
 - 2-john
 - 3-john

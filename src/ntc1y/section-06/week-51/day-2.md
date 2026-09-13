@@ -7,7 +7,6 @@ parallel_passages: Ephesians 1-3, Genesis 2:9, Daniel 1:12-16, Numbers 25:1-3, 1
   16:31
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - seven-churches
 - ephesus

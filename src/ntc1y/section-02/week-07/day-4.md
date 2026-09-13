@@ -6,7 +6,6 @@ reading: Matthew 13:31-58
 parallel_passages: Mark 6:1-6; Luke 4:16-30
 section: Galilean Ministry
 tags:
-- phase-2
 - parables
 - kingdom-of-god
 - rejection

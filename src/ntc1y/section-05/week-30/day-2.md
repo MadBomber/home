@@ -7,7 +7,6 @@ parallel_passages: Matthew 5:38-42, Romans 12:17-21, Romans 8:11, 2 Corinthians 
   Genesis 2:24, Ephesians 5:30-32
 section: The Early Church
 tags:
-- phase-5
 - corinthians
 - church-discipline
 - marriage

@@ -7,7 +7,6 @@ parallel_passages: Matthew 13:31-33, Mark 4:30-32, Isaiah 5:1-7, Micah 4:1-4, Ma
   7:13-14
 section: Road to Jerusalem
 tags:
-- phase-3
 - repentance
 - parables
 - narrow-door

@@ -6,7 +6,6 @@ reading: Acts 15
 parallel_passages: Galatians 2:1-10; Acts 10:1-48; Acts 11:1-18; Genesis 17:9-14
 section: The Early Church
 tags:
-- phase-5
 - jerusalem-council
 - second-missionary-journey
 - timothy

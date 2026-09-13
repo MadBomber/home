@@ -6,7 +6,6 @@ reading: Acts 17:1-15
 parallel_passages: 1 Thessalonians 2:1-12, John 5:39, 2 Timothy 3:15-17
 section: The Early Church
 tags:
-- phase-5
 - thessalonica
 - berea
 - scripture-searching

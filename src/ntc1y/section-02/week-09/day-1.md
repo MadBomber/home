@@ -7,7 +7,6 @@ parallel_passages: John 6:1-40, Exodus 16, Numbers 11, 1 Corinthians 10:1-4, 1 C
   11:23-26
 section: Galilean Ministry
 tags:
-- phase-2
 - bread-of-life
 - feeding-miracles
 - faith

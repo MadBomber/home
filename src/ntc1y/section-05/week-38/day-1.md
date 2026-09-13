@@ -6,7 +6,6 @@ reading: Romans 15
 parallel_passages: Isaiah 11:10; Isaiah 52:15; Psalm 18:49; Deuteronomy 32:43
 section: The Early Church
 tags:
-- phase-5
 - romans
 - paul-to-jerusalem
 - gentile-inclusion

@@ -6,7 +6,6 @@ reading: Colossians 3
 parallel_passages: Ephesians 4:17-5:21, Romans 12:1-21, Galatians 5:16-26
 section: Letters and Revelation
 tags:
-- phase-6
 - colossians
 - new-self
 - sanctification

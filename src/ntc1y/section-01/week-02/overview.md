@@ -10,7 +10,6 @@ chapters:
 - Luke 3:1-22
 - Matthew 3
 tags:
-- phase-1
 - birth-narratives
 - john-the-baptist
 - baptism

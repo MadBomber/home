@@ -6,7 +6,6 @@ reading: Acts 16:1-15
 parallel_passages: Acts 15:36-41, 2 Timothy 1:5, Philippians 1:3-5
 section: The Early Church
 tags:
-- phase-5
 - timothy
 - macedonian-call
 - lydia

@@ -3,7 +3,6 @@ week: 22
 section: The Early Church
 title: Stephen and Scattering
 tags:
-- phase-5
 - stephen
 - martyrdom
 - persecution

@@ -7,7 +7,6 @@ parallel_passages: Genesis 15:1-6, Genesis 17:1-14, Genesis 18:11-14, Psalm 32:1
   Galatians 3:6-18, Hebrews 11:8-12, James 2:20-24
 section: The Early Church
 tags:
-- phase-5
 - romans
 - justification
 - faith

@@ -7,7 +7,6 @@ parallel_passages: Exodus 15, Isaiah 25:8, Isaiah 65:17, Genesis 2:9-10, Ezekiel
   Zechariah 14:8, Genesis 3:22-24
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - bowls
 - babylon

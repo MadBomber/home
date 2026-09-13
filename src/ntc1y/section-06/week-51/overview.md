@@ -3,7 +3,6 @@ week: 51
 title: 'Revelation: Visions of Glory'
 section: Letters and Revelation
 tags:
-- phase-6
 - revelation
 - seven-churches
 - throne-room

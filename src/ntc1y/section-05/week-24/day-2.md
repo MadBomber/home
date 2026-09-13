@@ -6,7 +6,6 @@ reading: Acts 12
 parallel_passages: Acts 5:17-42; Matthew 14:1-12; Daniel 4:28-37
 section: The Early Church
 tags:
-- phase-5
 - first-missionary-journey
 - antioch
 - gentile-mission

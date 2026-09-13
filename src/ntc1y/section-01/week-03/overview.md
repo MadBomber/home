@@ -10,7 +10,6 @@ chapters:
 - John 3
 - John 4
 tags:
-- phase-1
 - temptation
 - early-ministry
 - gospel-of-john
