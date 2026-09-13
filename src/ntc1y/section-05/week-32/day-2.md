@@ -37,7 +37,7 @@ The final exhortations pack five imperatives into two verses: "Be watchful, stan
 
 The greetings that close the letter open a window into the social networks of the early church. The household of Stephanas, the "firstfruits of Achaia," had devoted themselves to serving the saints (vv. 15-16). Stephanas, Fortunatus, and Achaicus had come to Paul in Ephesus, probably carrying the Corinthians' letter and providing the personal reports that prompted Paul's response. Aquila and Prisca (Priscilla), the Jewish-Christian tentmakers who had been Paul's hosts in Corinth and now co-labored with him in Ephesus, send greetings along with "the church in their house" (v. 19). This reference to a house church meeting in a private home reminds us that the early church had no dedicated buildings; it gathered in the living rooms and courtyards of believers who could provide space.
 
-Paul's final words are written "with my own hand" (v. 21), a practice he follows in several letters (cf. Galatians 6:11, Colossians 4:18, 2 Thessalonians 3:17) to authenticate the letter, which was otherwise dictated to a secretary (*amanuensis*). His closing includes the Aramaic phrase *Maranatha* -- "Our Lord, come!" (v. 22) -- one of the earliest preserved Christian prayers, retained in its original Aramaic even in this Greek-language letter, testifying to its roots in the Aramaic-speaking Jerusalem church. This eschatological cry, combined with the resurrection theology of chapter 15, reveals a church that lived in eager expectation of Christ's return. The letter that began with divisions and scandals ends with the prayer that unites all Christians in every age: Come, Lord Jesus.
+Paul's final words are written "with my own hand" (v. 21), a practice he follows in several letters (cf. Galatians 6:11, Colossians 4:18, 2 Thessalonians 3:17) to authenticate the letter, which was otherwise dictated to a secretary (*amanuensis*). His closing includes the Aramaic phrase <a href="https://biblehub.com/searchgreek.php?q=Maranatha" target="_blank" rel="noopener"><em>Maranatha</em></a> -- "Our Lord, come!" (v. 22) -- one of the earliest preserved Christian prayers, retained in its original Aramaic even in this Greek-language letter, testifying to its roots in the Aramaic-speaking Jerusalem church. This eschatological cry, combined with the resurrection theology of chapter 15, reveals a church that lived in eager expectation of Christ's return. The letter that began with divisions and scandals ends with the prayer that unites all Christians in every age: Come, Lord Jesus.
 
 ## Key Themes
 
@@ -48,14 +48,14 @@ Paul's final words are written "with my own hand" (v. 21), a practice he follows
 ## Connections
 
 - **Old Testament Roots**: The prophetic vision of the nations bringing gifts to Jerusalem (Isaiah 60:5-7, 66:20) provides the theological background for Paul's collection project. The five military imperatives echo the language of holy war and divine commissioning in Deuteronomy 31:6 and Joshua 1:6-9.
-- **New Testament Echoes**: Romans 15:25-28 and 2 Corinthians 8-9 provide extensive parallel discussions of the Jerusalem collection. Acts 18:1-4 records Paul's initial meeting with Aquila and Priscilla. Revelation 22:20 echoes the *Maranatha* prayer: "Come, Lord Jesus!"
+- **New Testament Echoes**: Romans 15:25-28 and 2 Corinthians 8-9 provide extensive parallel discussions of the Jerusalem collection. Acts 18:1-4 records Paul's initial meeting with Aquila and Priscilla. Revelation 22:20 echoes the <a href="https://biblehub.com/searchgreek.php?q=Maranatha" target="_blank" rel="noopener"><em>Maranatha</em></a> prayer: "Come, Lord Jesus!"
 - **Parallel Passages**: 2 Corinthians 8-9 (the extended treatment of the collection), Romans 15:25-28 (Paul's explanation of the collection's purpose), Acts 20:4 (the delegation carrying the collection to Jerusalem), Galatians 2:10 (the original agreement to remember the poor).
 
 ## Reflection Questions
 
 1. Paul instructs the Corinthians to set aside money "on the first day of every week" in proportion to their income. How does systematic, proportional giving compare with the way you approach financial generosity?
 2. Paul says a "wide door" has opened in Ephesus alongside "many adversaries." Have you experienced a situation where spiritual opportunity and spiritual opposition arrived together? How did you respond?
-3. The letter closes with *Maranatha* -- "Our Lord, come!" How does living in expectation of Christ's return shape the way you handle the practical, everyday matters of life?
+3. The letter closes with <a href="https://biblehub.com/searchgreek.php?q=Maranatha" target="_blank" rel="noopener"><em>Maranatha</em></a> -- "Our Lord, come!" How does living in expectation of Christ's return shape the way you handle the practical, everyday matters of life?
 
 ## Prayer
 
