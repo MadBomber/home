@@ -6,6 +6,15 @@ date: 2026-07-26
 author: Dewayne VanHoozer
 collection: weird-bible-stories
 order: 0
+tags:
+- bible-difficulties
+- scripture
+- sovereignty
+- mark
+- 2-samuel
+- 2-kings
+- isaiah
+- proverbs
 ---
 
 Some accounts in the Bible are just weird.

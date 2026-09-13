@@ -6,6 +6,26 @@ date: 2026-08-10
 author: Dewayne VanHoozer
 collection: weird-bible-stories
 order: 4
+tags:
+- obedience
+- numbers
+- deuteronomy
+- joshua
+- 1-samuel
+- 2-samuel
+- 2-kings
+- psalms
+- proverbs
+- matthew
+- luke
+- john
+- acts
+- romans
+- philippians
+- james
+- 2-peter
+- jude
+- revelation
 ---
 
 Francis the Talking Mule made seven pictures for Universal between 1950 and 1956. The premise never changed. A decent, bumbling man gets himself into a mess, and a mule with more sense than anyone in the cast talks him back out of it.

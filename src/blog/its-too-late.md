@@ -4,6 +4,25 @@ title: "It's Too Late!"
 description: The thief had seconds. The prodigal had wasted years. Manasseh had fifty-five years of deliberate destruction. Scripture presents all three, and the answer was the same.
 date: 2026-06-03
 author: Dewayne VanHoozer
+tags:
+- luke
+- 2-chronicles
+- 2-kings
+- john
+- matthew
+- isaiah
+- ephesians
+- 1-peter
+- romans
+- hebrews
+- 2-corinthians
+- revelation
+- repentance
+- forgiveness
+- grace
+- salvation
+- parables
+- satan
 ---
 
 Everyone knows the feeling.

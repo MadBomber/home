@@ -6,6 +6,25 @@ date: 2026-05-10
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 3
+tags:
+- glory
+- kavod
+- temple
+- incarnation
+- genesis
+- exodus
+- deuteronomy
+- 1-kings
+- ecclesiastes
+- isaiah
+- ezekiel
+- malachi
+- matthew
+- luke
+- john
+- acts
+- hebrews
+- revelation
 ---
 
 The Hebrew word that names God's GLORY was forged by people who had seen what it leaves behind when it intersects with the world. They did not theorize about what lay outside our finite 4D spacetime. They had the burning residue of an encounter. The word they used was not borrowed from a domain that had already misunderstood it. It was an ordinary word for a physical property, and that precision is exactly what made it right.

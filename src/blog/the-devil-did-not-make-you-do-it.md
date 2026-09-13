@@ -6,6 +6,23 @@ date: 2026-09-21
 author: Dewayne VanHoozer
 collection: gods-devil
 order: 4
+tags:
+- genesis
+- exodus
+- matthew
+- luke
+- john
+- acts
+- romans
+- 1-corinthians
+- james
+- jude
+- revelation
+- satan
+- temptation
+- betrayal
+- free-will
+- judas
 ---
 
 "The devil made me do it" has outlived whoever first got a laugh out of it. Nobody says it expecting to be taken literally, and everybody understands it instantly anyway, because it does something genuinely useful: it offers an exit from responsibility that costs nothing and explains everything in one breath. Whatever happened, happened because something outside you reached in and moved your hand. You were the location of the event, not its author.

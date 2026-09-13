@@ -6,6 +6,12 @@ date: 2026-07-13
 author: Dewayne VanHoozer
 collection: biblical-silence
 order: 0
+tags:
+- biblical-silence
+- false-teachers
+- false-teaching
+- scripture
+- deuteronomy
 ---
 
 This collection began with a sentence most believers are afraid to say out loud: I do not know.

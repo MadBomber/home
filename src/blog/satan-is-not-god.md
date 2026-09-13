@@ -6,6 +6,26 @@ date: 2026-09-11
 author: Dewayne VanHoozer
 collection: gods-devil
 order: 2
+tags:
+- genesis
+- exodus
+- deuteronomy
+- job
+- isaiah
+- ezekiel
+- daniel
+- zechariah
+- luke
+- 1-corinthians
+- ephesians
+- james
+- 1-peter
+- revelation
+- satan
+- demons
+- angels
+- sovereignty
+- prophecy
 ---
 
 Every story needs its villain to be a real threat, which usually means a near match for the hero. Too weak, and the fight is over before it starts, and nobody cares how it ends. So fiction keeps building antagonists who can trade blows with the protagonist almost evenly, right up until the last chapter tips the balance. It is such a reliable pattern that most readers absorb it without ever noticing they picked up a rule: for a story to matter, the two sides have to be close.

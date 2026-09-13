@@ -6,6 +6,17 @@ date: 2026-09-26
 author: Dewayne VanHoozer
 collection: gods-devil
 order: 5
+tags:
+- satan
+- temptation
+- scripture
+- mark
+- matthew
+- luke
+- deuteronomy
+- psalms
+- hebrews
+- exodus
 ---
 
 The French have a phrase for it, *esprit de l'escalier*, staircase wit: the perfect answer that arrives on the stairs, well after the argument is over and the room has emptied. Everyone has lived some version of it. A performance review where an unfair line lands and you nod along, only to spend the drive home rebuilding the conversation with the answer you should have had. A family argument at a holiday table where someone twists your own words back at you and you freeze, mouth open, nothing loaded. A comment in a meeting that reframes what you said into something you never meant, and by the time the reframe registers, everyone has already moved on to the next agenda item. The feeling is not about intelligence. Plenty of sharp people lose exactly this way. It is about timing, and timing is not something you can force after the fact.

@@ -7,6 +7,27 @@ author: Dewayne VanHoozer
 featured: 4
 collection: biblical-silence
 order: 1
+tags:
+- biblical-silence
+- matthew
+- proverbs
+- 1-peter
+- john
+- deuteronomy
+- job
+- ezekiel
+- genesis
+- romans
+- luke
+- isaiah
+- ecclesiastes
+- malachi
+- acts
+- ephesians
+- 2-timothy
+- 1-corinthians
+- daniel
+- revelation
 ---
 
 For four centuries the Western world has mocked medieval theologians for debating how many angels can dance on the head of a pin. The question has become the standard example of pointless religious speculation, a shorthand for everything wrong with theology that loses itself in trivialities while the world burns.

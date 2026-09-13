@@ -6,6 +6,26 @@ date: 2026-07-26
 author: Dewayne VanHoozer
 collection: weird-bible-stories
 order: 1
+tags:
+- fig-tree
+- faith
+- temple
+- parables
+- discipleship
+- scripture
+- holy-spirit
+- mark
+- matthew
+- luke
+- john
+- james
+- galatians
+- 1-corinthians
+- jeremiah
+- hosea
+- isaiah
+- micah
+- 1-kings
 ---
 
 My wife asked me a question last week. Did I think it was weird, Jesus cursing a fig tree because it had no fruit?

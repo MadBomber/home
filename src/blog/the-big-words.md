@@ -5,6 +5,28 @@ description: Plain-English explanations of the theological terms preachers use m
 date: 2026-06-13
 author: Dewayne VanHoozer
 featured: 2
+tags:
+- genesis
+- leviticus
+- deuteronomy
+- psalms
+- isaiah
+- matthew
+- mark
+- luke
+- john
+- acts
+- romans
+- 1-corinthians
+- 2-corinthians
+- galatians
+- ephesians
+- philippians
+- colossians
+- hebrews
+- 1-peter
+- 1-john
+- revelation
 ---
 
 Preachers have a habit of tossing around long, complicated words like they're handing out candy. Most people in the pew smile and nod, quietly wondering what any of it means. This article is for those people.

@@ -7,6 +7,21 @@ author: Dewayne VanHoozer
 featured: 99
 collection: can-the-bible-be-trusted
 order: 1
+tags:
+- scripture
+- apologetics
+- bible-translation
+- matthew
+- john
+- acts
+- romans
+- 1-corinthians
+- 2-timothy
+- jeremiah
+- psalms
+- isaiah
+- esther
+- revelation
 ---
 
 Some time ago I found myself in a Bible study at Sagemont Church in Houston, Texas, seated across from two men who had no obvious reason to agree on anything, and yet both kept pointing to the same book.

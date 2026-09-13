@@ -4,6 +4,26 @@ title: "Bible Study is Boring"
 description: Bible study feels boring when sixty-six different books get read in one flat voice. Read each aisle of this library the way it deserves, and studying Scripture stops being boring and starts being the craft Paul calls it.
 date: 2026-07-21
 author: Dewayne VanHoozer
+tags:
+- scripture
+- bible-study
+- nehemiah
+- 2-timothy
+- john
+- luke
+- matthew
+- 1-peter
+- psalms
+- acts
+- hebrews
+- joshua
+- genesis
+- esther
+- proverbs
+- job
+- song-of-solomon
+- daniel
+- revelation
 ---
 
 You know the scene. Fluorescent lights buzz overhead in the church basement. The Sunday school teacher, a well-meaning soul in a cardigan, opens a massive King James Bible and begins stumbling through the archaic vocabulary in a flat, lifeless monotone. Whether the passage describes David charging into battle or Jeremiah weeping over Jerusalem, the delivery stays exactly the same: a dull drone that makes the clock on the wall feel like your only friend. The kids fidget. The adults check their watches. Everyone secretly agrees: Bible study is boring.

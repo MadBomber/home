@@ -6,6 +6,23 @@ date: 2026-04-02
 author: Dewayne VanHoozer
 collection: holy-week
 order: 4
+tags:
+- genesis
+- exodus
+- numbers
+- judges
+- psalms
+- isaiah
+- jeremiah
+- matthew
+- mark
+- john
+- galatians
+- law
+- temple
+- love
+- passion-week
+- relationship
 ---
 
 ## Have No Fear

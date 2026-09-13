@@ -4,6 +4,26 @@ title: "Grace is Not Fair"
 description: The men who worked all day were right. It was not fair. Neither is anything else God has ever given away, and that is the only reason there is anything in it for you.
 date: 2026-08-17
 author: Dewayne VanHoozer
+tags:
+- grace
+- mercy
+- parables
+- forgiveness
+- envy
+- matthew
+- jonah
+- numbers
+- luke
+- exodus
+- genesis
+- 2-samuel
+- romans
+- titus
+- ephesians
+- 1-timothy
+- nehemiah
+- psalms
+- joel
 ---
 
 The men start showing up before it is light. By six the yard is full, and a man with a clipboard walks the line and picks the ones he wants. He tells them what the day pays. They agree on it, and they go.

@@ -6,6 +6,21 @@ date: 2026-07-13
 author: Dewayne VanHoozer
 collection: biblical-silence
 order: 2
+tags:
+- genesis
+- leviticus
+- deuteronomy
+- joshua
+- proverbs
+- romans
+- colossians
+- hebrews
+- 1-john
+- revelation
+- false-teaching
+- faith
+- scripture
+- gnosticism
 ---
 
 There are no weeds in the middle of the pavement.

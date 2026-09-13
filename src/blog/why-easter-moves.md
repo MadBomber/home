@@ -6,6 +6,21 @@ date: 2026-03-29
 author: Dewayne VanHoozer
 collection: holy-week
 order: 1
+tags:
+- easter
+- resurrection
+- passover
+- new-covenant
+- early-church
+- genesis
+- exodus
+- leviticus
+- matthew
+- mark
+- luke
+- john
+- 1-corinthians
+- hebrews
 ---
 
 Easter's wandering date begins not with the early church's calendar debates but with creation itself. On the fourth day, God assigned the lights in the heavens a specific purpose:

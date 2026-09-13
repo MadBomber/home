@@ -6,6 +6,22 @@ date: 2026-04-09
 author: Dewayne VanHoozer
 collection: can-the-bible-be-trusted
 order: 2
+tags:
+- scripture
+- canon
+- apologetics
+- early-church
+- matthew
+- mark
+- luke
+- john
+- acts
+- 1-corinthians
+- hebrews
+- james
+- 2-peter
+- jude
+- revelation
 ---
 
 The skeptic's version of the question goes something like this: *Christians cannot even agree on what belongs in their own Bible. Catholics have books Protestants reject. The Orthodox have books Catholics debate. If the people who believe it cannot settle what it contains, why should anyone trust any of it?*

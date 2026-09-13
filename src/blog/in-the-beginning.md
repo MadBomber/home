@@ -4,6 +4,20 @@ title: "When was 'In the Beginning'"
 description: How old is the earth? Two camps of faithful believers answer with elaborate machinery, and neither answer touches the arc of God's love. The honest word is "I do not know," and laying both machines down is relief, not defeat.
 date: 2026-07-06
 author: Dewayne VanHoozer
+tags:
+- genesis
+- psalms
+- matthew
+- luke
+- acts
+- 2-kings
+- job
+- daniel
+- deuteronomy
+- creation
+- scripture
+- humility
+- science-and-faith
 ---
 
 In 1650, an Irish archbishop named James Ussher announced the birthday of the universe. Creation began, he calculated, on the night before the twenty-third of October, 4004 BC.

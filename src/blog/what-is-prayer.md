@@ -5,6 +5,27 @@ description: Jesus assumed his audience already knew what prayer was. We may not
 date: 2026-04-28
 author: Dewayne VanHoozer
 featured: 3
+tags:
+- prayer
+- genesis
+- exodus
+- deuteronomy
+- 1-samuel
+- 1-kings
+- nehemiah
+- psalms
+- isaiah
+- hosea
+- micah
+- matthew
+- mark
+- luke
+- john
+- acts
+- romans
+- 1-thessalonians
+- hebrews
+- james
 ---
 
 ## The Question We've Forgotten to Ask

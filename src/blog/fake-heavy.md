@@ -6,6 +6,23 @@ date: 2026-05-12
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 5
+tags:
+- glory
+- kavod
+- worship
+- sanctification
+- hypocrisy
+- 1-corinthians
+- exodus
+- matthew
+- 2-corinthians
+- 1-peter
+- luke
+- hebrews
+- john
+- 1-kings
+- isaiah
+- revelation
 ---
 
 In the previous essays we learned that <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> (the Hebrew word behind "glory") means weight and substance, that humans were made to carry it, that sin draws humanity away from the source of all substance and the result is vapor, that Christ veiled His infinite GLORY in human flesh (entering our finite 4D spacetime so we could become substantial again) and that the resurrection body is the final clothing of hevel in GLORY. Now in this essay we will see what all of that demands of the life you are living right now: what it actually means to glorify God, why GLORY cannot be manufactured, and how it actually grows in a person who stops performing weight and starts drawing closer to the source.

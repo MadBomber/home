@@ -6,6 +6,10 @@ date: 2026-04-08
 author: Dewayne VanHoozer
 collection: can-the-bible-be-trusted
 order: 0
+tags:
+- scripture
+- apologetics
+- canon
 ---
 
 This collection began with a question three people with no obvious reason to agree on anything kept arriving at the same answer to.

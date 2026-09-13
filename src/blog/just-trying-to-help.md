@@ -6,6 +6,25 @@ date: 2026-07-27
 author: Dewayne VanHoozer
 collection: weird-bible-stories
 order: 2
+tags:
+- 2-samuel
+- 1-samuel
+- 1-chronicles
+- exodus
+- numbers
+- leviticus
+- judges
+- proverbs
+- isaiah
+- jeremiah
+- james
+- john
+- romans
+- holiness
+- obedience
+- judgment
+- atonement
+- worship
 ---
 
 Something falls, and your hand is already there.

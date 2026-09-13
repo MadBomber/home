@@ -6,6 +6,26 @@ date: 2026-05-11
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 4
+tags:
+- genesis
+- psalms
+- isaiah
+- ecclesiastes
+- 1-kings
+- matthew
+- luke
+- john
+- acts
+- romans
+- 1-corinthians
+- 2-corinthians
+- philippians
+- colossians
+- hebrews
+- james
+- revelation
+- glory
+- cross
 ---
 
 In the previous essays we learned that "glory" is the most diluted word in the English religious vocabulary, that the Hebrew word <em class="term" data-tooltip="heavy, weighty; the property of being impossible to ignore or dismiss">kavod</em> means weight and substance (the most real thing that exists) and that God's GLORY has broken through into the physical world repeatedly throughout Scripture, each time driving people to their faces. Now in this essay we will see what happens when you read the entire story of Scripture through that single lens: from the image of God to the catastrophic fall to the cross to the resurrection body to Revelation 21, the whole gospel compressed into one word.

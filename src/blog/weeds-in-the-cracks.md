@@ -6,6 +6,18 @@ date: 2026-07-13
 author: Dewayne VanHoozer
 collection: biblical-silence
 order: 3
+tags:
+- false-teachers
+- false-teaching
+- cults
+- biblical-silence
+- genesis
+- deuteronomy
+- isaiah
+- ezekiel
+- john
+- 1-corinthians
+- galatians
 ---
 
 The weed does not announce itself as a weed.

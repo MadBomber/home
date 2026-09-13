@@ -6,6 +6,24 @@ date: 2026-07-13
 author: Dewayne VanHoozer
 collection: biblical-silence
 order: 6
+tags:
+- false-teachers
+- false-teaching
+- discernment
+- prophecy
+- scripture
+- deuteronomy
+- matthew
+- 2-peter
+- jude
+- galatians
+- 2-timothy
+- acts
+- 1-corinthians
+- 1-thessalonians
+- revelation
+- isaiah
+- hebrews
 ---
 
 Here is the strange thing about everything that has come before.

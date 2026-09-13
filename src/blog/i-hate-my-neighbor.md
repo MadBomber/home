@@ -4,6 +4,25 @@ title: "I Hate My Neighbor"
 description: It is the honest confession most Christians won't say out loud. Jesus heard it too, from a lawyer trying to limit his obligations. The answer He gave is more demanding and more surprising than anyone expected.
 date: 2026-04-29
 author: Dewayne VanHoozer
+tags:
+- love
+- parables
+- ethics
+- envy
+- politics
+- luke
+- genesis
+- leviticus
+- john
+- deuteronomy
+- amos
+- psalms
+- exodus
+- james
+- proverbs
+- romans
+- 1-john
+- matthew
 ---
 
 ## Who Is My Neighbor?

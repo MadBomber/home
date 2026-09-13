@@ -6,6 +6,14 @@ date: 2026-03-28
 author: Dewayne VanHoozer
 collection: holy-week
 order: 0
+tags:
+- passion-week
+- easter
+- resurrection
+- triumphal-entry
+- last-supper
+- cross
+- passover
 ---
 
 This collection began with a question most people never think to ask: why does Easter move?

@@ -6,6 +6,13 @@ date: 2026-05-09
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 2
+tags:
+- glory
+- language
+- isaiah
+- 1-corinthians
+- exodus
+- ezekiel
 ---
 
 In the previous essay, [*The God Particle*](/blog/the-god-particle/), we learned that physics is the study of reality, that mass is what makes things real, and that words drift away from the precise realities they once named, the word "gravity" being an example. Now in Part 2, [*The Most Useless Word in the English Language*](/blog/the-most-useless-word-in-the-english-language/), we will see that the word "glory" has followed exactly the same path, borrowed across so many domains that it no longer points at anything in particular, leaving us with a religious vocabulary that sounds weighty and means nothing.

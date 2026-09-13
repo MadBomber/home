@@ -4,6 +4,26 @@ title: "The Dwelling Place"
 description: God made space and time for us to live in, which means he lives outside both, holding the universe in the palm of his hand. So why has he spent all of history moving closer? From the garden to the torn curtain to the human heart, this is the story of where God lives, and how far he came to be with you.
 date: 2026-07-15
 author: Dewayne VanHoozer
+tags:
+- genesis
+- exodus
+- leviticus
+- 1-kings
+- 2-samuel
+- job
+- psalms
+- isaiah
+- ezekiel
+- matthew
+- mark
+- john
+- acts
+- romans
+- 1-corinthians
+- colossians
+- revelation
+- temple
+- incarnation
 ---
 
 Ask God where he lives, and you may not get the answer you came for. He has a habit of meeting a question with a question of his own.

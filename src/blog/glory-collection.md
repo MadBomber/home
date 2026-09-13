@@ -6,6 +6,12 @@ date: 2026-05-08
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 0
+tags:
+- glory
+- kavod
+- cross
+- genesis
+- revelation
 ---
 
 This collection began with an observation: one of the most important words in Scripture has been used so lightly for so long that it has lost its original weight. It appears hundreds of times in the Bible. It is sung in every hymnal, spoken in every sermon, printed on every church bulletin. And if you stop someone on the way out of a Sunday morning service and ask them to define it without using the word itself, they will almost certainly fail.

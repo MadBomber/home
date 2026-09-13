@@ -6,6 +6,24 @@ date: 2026-09-16
 author: Dewayne VanHoozer
 collection: gods-devil
 order: 3
+tags:
+- satan
+- temptation
+- authority
+- sovereignty
+- miracles
+- exodus
+- luke
+- matthew
+- john
+- daniel
+- genesis
+- psalms
+- philippians
+- 1-corinthians
+- 2-corinthians
+- 2-thessalonians
+- revelation
 ---
 
 A counterfeit bill can pass a lot of tests. It can fool a cash register, a clerk in a hurry, a wallet full of real ones sitting next to it. It uses real paper, a real design copied stroke for stroke, real ink laid down in the right pattern, real numbers in the right places. Hold it up to ordinary daylight, run it through most people's hands, and nothing about it announces itself as fake. It was made to survive exactly that kind of casual scrutiny.

@@ -6,6 +6,26 @@ date: 2026-07-28
 author: Dewayne VanHoozer
 collection: weird-bible-stories
 order: 3
+tags:
+- elisha
+- judgment
+- new-covenant
+- cross
+- 2-kings
+- 1-kings
+- leviticus
+- deuteronomy
+- jeremiah
+- genesis
+- numbers
+- judges
+- 1-samuel
+- 2-samuel
+- job
+- matthew
+- luke
+- acts
+- 1-corinthians
 ---
 
 A crowd does not ask questions. It issues dares.

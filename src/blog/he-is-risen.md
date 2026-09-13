@@ -6,6 +6,18 @@ date: 2026-04-03
 author: Dewayne VanHoozer
 collection: holy-week
 order: 5
+tags:
+- resurrection
+- holy-spirit
+- second-coming
+- testimony
+- apologetics
+- matthew
+- john
+- luke
+- acts
+- 1-corinthians
+- revelation
 ---
 
 I was not the first to meet Jesus. Not by two thousand years.

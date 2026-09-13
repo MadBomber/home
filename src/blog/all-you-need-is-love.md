@@ -5,6 +5,18 @@ description: "The Beatles said the word \"love\" 96 times in four minutes and ne
 date: 2026-04-29
 author: Dewayne VanHoozer
 featured: 6
+tags:
+- love
+- discipleship
+- forgiveness
+- peter
+- john
+- 1-john
+- matthew
+- luke
+- romans
+- 1-corinthians
+- psalms
 ---
 
 ## The Song That Defines Nothing

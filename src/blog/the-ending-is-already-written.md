@@ -6,6 +6,21 @@ date: 2026-10-01
 author: Dewayne VanHoozer
 collection: gods-devil
 order: 6
+tags:
+- genesis
+- matthew
+- luke
+- john
+- romans
+- colossians
+- james
+- 2-peter
+- revelation
+- satan
+- judgment
+- eschatology
+- cross
+- hope
 ---
 
 A jury returns a guilty verdict, and the defendant does not go straight to a cell. There is a gap, sometimes weeks long, between the verdict and the sentencing hearing where the actual penalty gets read out loud. He goes home in the interim, in most cases. He eats dinner. He talks to his lawyer, argues about the details of a future that is no longer genuinely in question, prepares for a day whose outcome has already been decided even though its exact terms have not yet been spoken aloud. Nothing about the outcome is in doubt during that gap. The finding has already been made, on the record, by the people whose job it was to make it. And yet the gap is real, has to be lived through by everyone in the room, including the man whose fate is no longer in question. He walks out of the courthouse that day. He is still guilty. Those two facts are not in tension with each other.

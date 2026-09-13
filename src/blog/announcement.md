@@ -3,6 +3,9 @@ layout: blog_post
 title: "New Essay: Grace is Not Fair"
 date: 2026-08-19
 link: /blog/grace-is-not-fair/
+tags:
+- grace
+- parables
 ---
 
 A new essay just went up: [Grace is Not Fair](/blog/grace-is-not-fair/).

@@ -6,6 +6,26 @@ date: 2026-03-31
 author: Dewayne VanHoozer
 collection: holy-week
 order: 2
+tags:
+- triumphal-entry
+- passion-week
+- jerusalem
+- kingdom-of-god
+- passover
+- salvation
+- matthew
+- luke
+- john
+- acts
+- exodus
+- leviticus
+- 2-kings
+- psalms
+- isaiah
+- ezekiel
+- zechariah
+- 1-corinthians
+- revelation
 ---
 
 ## and They Did Not Know Him

@@ -6,6 +6,15 @@ date: 2026-09-01
 author: Dewayne VanHoozer
 collection: gods-devil
 order: 0
+tags:
+- satan
+- sovereignty
+- temptation
+- assurance
+- job
+- 1-peter
+- john
+- matthew
 ---
 
 Ask anyone to describe the devil and you get a strange composite. A mind that reads yours before you finish forming the thought. A body that can be tempting a stockbroker in Tokyo and a teenager in Ohio at the same hour. A memory of a future he has already watched, long before you get to live it.

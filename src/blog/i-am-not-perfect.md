@@ -5,6 +5,16 @@ description: Jesus said be perfect. You already know you are not. The command is
 date: 2026-06-12
 author: Dewayne VanHoozer
 featured: 7
+tags:
+- sanctification
+- sermon-on-mount
+- wholeness
+- righteousness
+- matthew
+- genesis
+- 1-samuel
+- 2-samuel
+- 1-thessalonians
 ---
 
 "I am not perfect" is the most honest sentence most Christians will say this week. Not a confession requiring courage. Just an obvious fact: the kind you acknowledge because it would be strange to deny it. You know your own record. You do not need to reach for humility on this one.

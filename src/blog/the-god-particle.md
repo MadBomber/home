@@ -6,6 +6,12 @@ date: 2026-05-08
 author: Dewayne VanHoozer
 collection: the-heaviest-word-in-the-bible
 order: 1
+tags:
+- genesis
+- proverbs
+- creation
+- glory
+- science-and-faith
 ---
 
 You did not expect to find physics here.

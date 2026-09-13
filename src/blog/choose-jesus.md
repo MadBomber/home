@@ -5,6 +5,26 @@ description: You are not an accident. Explore the four questions every human hea
 date: 2026-06-13
 author: Dewayne VanHoozer
 featured: 1
+tags:
+- gospel
+- salvation
+- eternal-life
+- genesis
+- john
+- psalms
+- romans
+- colossians
+- isaiah
+- 1-corinthians
+- 2-corinthians
+- galatians
+- matthew
+- luke
+- ecclesiastes
+- hebrews
+- 2-peter
+- jeremiah
+- revelation
 ---
 
 > *"Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me."*

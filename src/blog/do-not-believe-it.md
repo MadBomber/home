@@ -6,6 +6,17 @@ date: 2026-07-13
 author: Dewayne VanHoozer
 collection: biblical-silence
 order: 5
+tags:
+- biblical-silence
+- false-teaching
+- eschatology
+- aliens
+- genesis
+- matthew
+- deuteronomy
+- ezekiel
+- 2-thessalonians
+- revelation
 ---
 
 > "In the beginning, God created the heavens and the earth."

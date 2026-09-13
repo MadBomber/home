@@ -6,6 +6,20 @@ date: 2026-09-06
 author: Dewayne VanHoozer
 collection: gods-devil
 order: 1
+tags:
+- satan
+- sovereignty
+- assurance
+- suffering
+- temptation
+- spiritual-warfare
+- job
+- 1-peter
+- james
+- ephesians
+- luke
+- john
+- romans
 ---
 
 The dog comes off the porch at a dead sprint, barking low and constant, and for half a second every animal instinct in your body agrees with it: run. Then the chain catches. It snaps taut a few feet short of the sidewalk, and the dog is jerked backward mid-stride, still barking, still lunging, still meaning every bit of it. Nothing about the dog changed in that instant. What changed is what you now know: exactly how far it can reach, and that the distance between you and it was decided before you ever walked past.

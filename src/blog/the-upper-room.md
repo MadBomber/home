@@ -6,6 +6,22 @@ date: 2026-03-29
 author: Dewayne VanHoozer
 collection: holy-week
 order: 3
+tags:
+- last-supper
+- upper-room-discourse
+- passion-week
+- passover
+- new-covenant
+- betrayal
+- servanthood
+- humility
+- matthew
+- mark
+- luke
+- john
+- exodus
+- 1-corinthians
+- hebrews
 ---
 
 The Upper Room contains, in compressed form, nearly every theme that will define Christian life and theology in the centuries that follow: the servant leadership of the foot washing; the eucharistic participation in Christ's death and resurrection; the shadowed mystery of betrayal in a sacred space; the agonized obedience of Gethsemane. These are not merely historical episodes. They are patterns.

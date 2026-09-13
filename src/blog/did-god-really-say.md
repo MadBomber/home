@@ -5,6 +5,17 @@ description: The first question in the Bible came from the serpent, not from God
 date: 2026-04-20
 author: Dewayne VanHoozer
 featured: 5
+tags:
+- satan
+- temptation
+- scripture
+- doubt
+- faith
+- genesis
+- matthew
+- luke
+- psalms
+- revelation
 ---
 
 The first question recorded in the Bible is not a question from God.
