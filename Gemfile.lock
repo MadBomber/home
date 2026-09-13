@@ -7,7 +7,7 @@ GEM
       ruby_llm
     amazing_print (1.8.1)
     base64 (0.3.0)
-    bigdecimal (4.1.2)
+    bigdecimal (4.1.3)
     bridgetown (2.2.2)
       bridgetown-builder (= 2.2.2)
       bridgetown-core (= 2.2.2)
@@ -100,7 +100,7 @@ GEM
       prism (>= 1.3.0)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
-    json (2.21.2)
+    json (3.0.2)
     kramdown (2.5.2)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
@@ -199,13 +199,12 @@ CHECKSUMS
   aigcm (0.3.3) sha256=51607ca70852958b8a2c1191af83e002713d97f3995e9b4a5232898d7e865c38
   amazing_print (1.8.1) sha256=f53b4e1881f53f9663cb222840c7a027d0e61d46cc908366965739559c0d6d68
   base64 (0.3.0) sha256=27337aeabad6ffae05c265c450490628ef3ebd4b67be58257393227588f5a97b
-  bigdecimal (4.1.2) sha256=53d217666027eab4280346fba98e7d5b66baaae1b9c3c1c0ffe89d48188a3fbd
+  bigdecimal (4.1.3) sha256=61ebe1e5e559bdc3cc6f2c0ee7f427321fc838f59611c294356eb04d6e21cf66
   bridgetown (2.2.2) sha256=3240782f693c34087ee387cfb5d11036a4ddd4c9bfbfc090e6122d51f50e8a1f
   bridgetown-builder (2.2.2) sha256=dd07b3d3da84888e34747fefaf3869e7c23689ac5ace33c1ec17e145007b41ae
   bridgetown-core (2.2.2) sha256=0997587871c7e06a979fd7530fc93f852eededb25cb6ee117e5107acda49ff7d
   bridgetown-foundation (2.2.2) sha256=7275e87f4d36a09e51bb7c9f7d3b92eac4539b606fb722975edcb4853074df65
   bridgetown-paginate (2.2.2) sha256=0aa8dffa779b5f53db4a9d7e36c27d7cf2d7c0f9845a1ee2c004296814e8f4fb
-  bundler (4.0.19) sha256=b48056e4c77fb3853cc47775b5447ede44aaa4f53c32f168014ab4fe86587d47
   concurrent-ruby (1.3.8) sha256=b2f1be836e968ccc78ccfce277ea79c72a88633f22306782c16ff23fb415d1e1
   console (1.37.0) sha256=8093b286c2595a063849c098594fee5155ecc7967d36f3aa8cbe7569c8f3efd7
   csv (3.3.6) sha256=aba61e7e507a66f03d45cb1f3c4b6359861c3504038b422962875dce099e4456
@@ -239,7 +238,7 @@ CHECKSUMS
   inclusive (1.1.0) sha256=eb27e7a8bcc3dac12b1db3039c08cb4a3ae3beafa2e29f6ec66c8e87cb75bddb
   io-console (0.9.2) sha256=efa74f891dd03c0939a931dfc6e74c2813d904763d456ea9762b0525e748db08
   irb (1.18.0) sha256=de9454a0703a54704b9811a5ef31a60c86949fbf4013fcf244fabc7c775248e3
-  json (2.21.2) sha256=1f1d3b7cf2b3ba1a69beca0bb6db13d5438b80bff3cd54cdaaa620b9b07c1c6a
+  json (3.0.2) sha256=8e6d7e7b11384c21230430cef90b71f14849a34a1f4452796670f7c981bd19df
   kramdown (2.5.2) sha256=1ba542204c66b6f9111ff00dcc26075b95b220b07f2905d8261740c82f7f02fa
   kramdown-parser-gfm (1.1.0) sha256=fb39745516427d2988543bf01fc4cf0ab1149476382393e0e9c48592f6581729
   liquid (5.4.0) sha256=e362448c71cb88683d9c2df2819d7e47da3cdb37f757d0c99e3400d7e0030d40
@@ -279,4 +278,4 @@ CHECKSUMS
   zeitwerk (2.8.3) sha256=2c85125a8467ce069e20123d1e709a08955c9d29c118c25b46b7b7fafdbb92e5
 
 BUNDLED WITH
-  4.0.19
+  4.0.20
