@@ -1,0 +1,36 @@
+<%
+  # Foot-of-essay topic line. Locals:
+  #   tags      — the page's tags, as written in its front matter
+  #   tags_base — absolute URL of the tag directory, base_path included
+  #               (e.g. "#{site.base_path}/blog/tags/"); used only to check
+  #               that a tag's page actually exists
+  #
+  # The hrefs are relative (../tags/<slug>/): every essay lives exactly one
+  # level below blog/, so the link resolves with no base_path help. Study day
+  # pages sit deeper than that, so this partial cannot serve them as-is.
+  #
+  # A tag whose page does not exist yet (scripts/tags.rb not rerun since the
+  # tag was added) renders as plain text instead of a dead link.
+  #
+  # The slug rule must match TagPagesGenerator#slug_for in scripts/tags.rb.
+  _tag_page_urls = site.resources
+    .map    { |r| r.relative_url.to_s }
+    .select { |u| u.start_with?(tags_base.to_s) }
+
+  _topics = Array(tags).map(&:to_s).reject(&:empty?).map do |tag|
+    slug = tag.downcase.gsub(/[^a-z0-9]+/, "-").gsub(/\A-+|-+\z/, "")
+    slug = "index-tag" if slug == "index"
+    { tag: tag, slug: slug, linked: _tag_page_urls.include?("#{tags_base}#{slug}/") }
+  end
+%>
+<% if _topics.any? %>
+<nav class="blog-post-topics" aria-label="Topics">
+  <span class="blog-post-topics-label">Topics:</span>
+  <ul class="blog-post-topics-list">
+    <% _topics.each do |t| %>
+      <li><% if t[:linked] %><a href="../tags/<%= t[:slug] %>/" target="_blank" rel="noopener"><%= t[:tag] %></a><% else %><%= t[:tag] %><% end %></li>
+    <% end %>
+    <li class="blog-post-topics-all"><a href="../tags/" target="_blank" rel="noopener">All topics</a></li>
+  </ul>
+</nav>
+<% end %>

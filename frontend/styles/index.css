@@ -4742,3 +4742,47 @@ button.toolbar-icon {
 .tag-cloud-rare p {
   line-height: 2;
 }
+
+/* --- Foot-of-essay topic line (_partials/_topic_tags.erb) --- */
+
+.blog-post-topics {
+  margin-top: 2.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  line-height: 1.9;
+  color: var(--text-secondary);
+}
+
+.blog-post-topics-label {
+  color: var(--text-muted);
+}
+
+.blog-post-topics-list {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.blog-post-topics-list li {
+  display: inline;
+  white-space: nowrap;
+}
+
+/* The middots are decoration, so they live here rather than in the markup:
+   a screen reader announces the list itself, not a run of punctuation. */
+.blog-post-topics-list li + li::before {
+  content: "\00B7 ";
+  margin-inline: 0.35rem 0.1rem;
+  color: var(--text-muted);
+  white-space: normal;
+}
+
+.blog-post-topics a {
+  text-decoration: none;
+}
+
+.blog-post-topics a:hover,
+.blog-post-topics a:focus-visible {
+  text-decoration: underline;
+}

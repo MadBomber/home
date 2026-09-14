@@ -140,6 +140,8 @@ layout: default
     <%= yield %>
   </div>
 
+  <%= render "topic_tags", tags: data.tags, tags_base: "#{site.base_path}/blog/tags/" %>
+
   <nav class="blog-post-nav blog-post-nav-bottom">
     <% if older_post %>
       <a href="<%= relative_url older_post.relative_url %>" class="blog-post-nav-link blog-post-nav-older">
