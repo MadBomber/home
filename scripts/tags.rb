@@ -6,12 +6,17 @@
 #   Usage: ruby scripts/tags.rb <study-directory>
 #     e.g. ruby scripts/tags.rb src/ntc1y
 #
-# Collects the `tags:` array from the YAML front matter of every markdown
-# file under the given directory and its sub-directories, then (re)creates
-# a "tags" sub-directory there containing:
+# Collects the `tags:` array from YAML front matter under the given
+# directory and its sub-directories, then (re)creates a "tags"
+# sub-directory there containing:
 #
 #   tags/index.md    -- a word cloud of every tag, sized by page count
 #   tags/<slug>.md   -- one page per tag, listing the pages that carry it
+#
+# In a Bible study directory -- one that contains day-N.md files -- only
+# those daily pages are scanned, so a week's overview and discussion pages
+# (which share the week's title) don't duplicate entries on the tag pages.
+# A directory with no day-N.md files (the essays) scans every markdown file.
 #
 # Any existing tags/ sub-directory is ignored while scanning and is fully
 # rebuilt, so a renamed or removed tag never leaves a stale page behind.
@@ -29,9 +34,7 @@ class TagPagesGenerator
   BUCKETS   = 5 # word-cloud size classes, tag-size-1 (rare) .. tag-size-5 (common)
   CLOUD_MIN = 2 # tags on fewer pages than this drop out of the cloud into the A-Z list
 
-  # Reading order within a week: the overview opens it, the discussion closes it.
-  # Pages without week/day front matter (essays) simply sort by URL.
-  KIND_ORDER = { "overview" => 0, "day" => 1, "memory-verse" => 2, "discussion" => 3 }.freeze
+  DAY_FILE = /\Aday-\d+\.md\z/
 
   TaggedPage = Data.define(:url, :title, :sort_key, :tags)
 
@@ -60,15 +63,22 @@ class TagPagesGenerator
   # -- scanning ------------------------------------------------------------
 
   def collect_pages
-    Dir.glob(File.join(study_dir, "**", "*.md")).filter_map do |path|
-      next if path.start_with?(tags_dir + File::SEPARATOR)
-
+    source_files.filter_map do |path|
       fm = front_matter(path) or next
       tags = Array(fm["tags"]).map(&:to_s).reject(&:empty?)
       next if tags.empty?
 
       build_page(path, fm, tags)
     end.sort_by(&:sort_key)
+  end
+
+  # A study directory carries its tags on the daily pages alone; anywhere
+  # else (the essays), every markdown file is fair game.
+  def source_files
+    all = Dir.glob(File.join(study_dir, "**", "*.md"))
+             .reject { it.start_with?(tags_dir + File::SEPARATOR) }
+    days = all.select { File.basename(it).match?(DAY_FILE) }
+    days.any? ? days : all
   end
 
   def front_matter(path)
@@ -86,14 +96,9 @@ class TagPagesGenerator
     TaggedPage.new(
       url:,
       title: title.empty? ? File.basename(path, ".md") : title,
-      sort_key: [week ? 0 : 1, week.to_i, KIND_ORDER.fetch(page_kind(path), 9), fm["day"].to_i, url],
+      sort_key: [week ? 0 : 1, week.to_i, fm["day"].to_i, url],
       tags:
     )
-  end
-
-  def page_kind(path)
-    base = File.basename(path, ".md")
-    base.start_with?("day-") ? "day" : base
   end
 
   def url_for(path)

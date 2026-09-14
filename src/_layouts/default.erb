@@ -21,12 +21,14 @@
     <%= render "footer", metadata: site.metadata %>
 
     <%# Inject per-study config for JavaScript consumption.
-        Falls back to global data for pages without a study_slug (e.g. landing page, settings). %>
+        Falls back to global data for pages without a study_slug (e.g. landing page, settings)
+        or whose study_slug has no data directory (e.g. the blog's tag pages). %>
     <%
       _study_slug = data.study_slug
       _data_key   = _study_slug&.gsub('-', '_')
-      _study_cfg    = _data_key ? site.data.send(_data_key).study_config    : site.data.study_config
-      _study_titles = _data_key ? site.data.send(_data_key).study_titles    : site.data.study_titles
+      _study_data   = _data_key ? site.data.send(_data_key) : nil
+      _study_cfg    = _study_data&.study_config    || site.data.study_config
+      _study_titles = _study_data&.study_titles    || site.data.study_titles
     %>
     <script id="study-slug-data"   type="application/json"><%== (_study_slug || "").to_json %></script>
     <script id="study-config-data" type="application/json"><%== _study_cfg.to_json %></script>

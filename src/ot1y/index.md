@@ -25,3 +25,9 @@ A 52-week chronological journey through the Old Testament, organized around the 
 ### How to Use This Study
 
 See [How to Use](<%= relative_url '/documents/how-to-use/' %>) for practical guidance on working through this study individually or with a group.
+
+### Study Documents
+
+- [How to Use](<%= relative_url '/documents/how-to-use/' %>)
+- [Journaling](<%= relative_url '/documents/journaling/' %>)
+- [Topic Index](<%= relative_url '/ot1y/tags/' %>)

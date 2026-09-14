@@ -1,0 +1,144 @@
+# frozen_string_literal: true
+# tags.loki — maintain the generated topic indexes (see scripts/tags.rb).
+#
+# Each collection whose pages carry `tags:` front matter gets a generated
+# src/<collection>/tags/ directory: an index.md word cloud plus one page per
+# tag. Those pages are committed, so a change to any page's tags means
+# rebuilding the index and committing the result alongside the edit.
+#
+# Usage:
+#   asgard tags list             # collections that have a topic index
+#   asgard tags build            # rebuild every existing topic index
+#   asgard tags build blog       # rebuild one collection (also the first build)
+#   asgard tags check            # rebuild, then fail if git sees a difference
+#   asgard release               # rebuild, commit the tag changes, git push
+#
+# `check` is the freshness gate for CI: it rebuilds the indexes in place and
+# asks git whether anything came out different, so a tags edit that forgot to
+# regenerate fails the build instead of deploying a stale index.
+#
+# `build` with no argument only rebuilds indexes that already exist; a new
+# collection gets its first one with `asgard tags build <collection>` and is
+# picked up automatically from then on.
+
+class TagsCommands < Tasks
+  desc "list", "List the collections that have a topic index"
+  def list
+    if indexed_collections.empty?
+      puts "  no topic indexes yet -- run: asgard tags build <collection>"
+      return
+    end
+
+    puts ""
+    puts format("  %-8s %6s", "SOURCE", "TOPICS")
+    puts "  #{'─' * 16}"
+    indexed_collections.each do |name|
+      puts format("  %-8s %6d", name, topic_count(name))
+    end
+    puts ""
+  end
+
+  desc "build [COLLECTION]", "Rebuild the topic index for one collection, or every existing index"
+  def build(collection = nil)
+    targets = collection ? [require_collection(collection)] : indexed_collections
+    if targets.empty?
+      abort "  no topic indexes yet -- run: asgard tags build <collection>"
+    end
+
+    targets.each { |name| build_index(name) }
+  end
+
+  desc "check", "Rebuild every topic index, then fail if the committed pages are stale"
+  def check
+    abort "  no topic indexes to check" if indexed_collections.empty?
+
+    indexed_collections.each { |name| build_index(name) }
+
+    stale = `git -C #{repo_root} status --porcelain -- #{tags_dirs.join(' ')}`
+    puts ""
+    if stale.empty?
+      puts "  topic indexes are current"
+    else
+      # One abort so the listing and the verdict stay together on stderr.
+      abort stale.lines.map { "  #{it}" }.join +
+            "  topic indexes are stale -- commit the regenerated pages above"
+    end
+  end
+
+  no_commands do
+    # The .loki lives at the repo root, so walking up from the working directory
+    # to find it locates the repo without asgard having to be run from there.
+    def repo_root
+      @repo_root ||= begin
+        dir = Pathname.new(Dir.pwd).expand_path
+        dir = dir.parent until (dir + ".loki").exist? || dir.root?
+        dir
+      end
+    end
+
+    def src_dir   = repo_root + "src"
+    def generator = repo_root + "scripts/tags.rb"
+
+    # A collection is anything under src/ that already has a generated index.
+    def indexed_collections
+      Dir.glob(src_dir + "*/tags/index.md")
+         .map { File.basename(File.dirname(File.dirname(it))) }
+         .sort
+    end
+
+    def tags_dirs
+      indexed_collections.map { "src/#{it}/tags" }
+    end
+
+    # Tag pages in the index, not counting index.md itself.
+    def topic_count(name)
+      Dir.glob(src_dir + name + "tags/*.md").size - 1
+    end
+
+    def require_collection(name)
+      unless name && (src_dir + name).directory?
+        known = indexed_collections
+        hint  = known.empty? ? "" : " -- existing indexes: #{known.join(', ')}"
+        abort "  no such directory under src/: #{name.inspect}#{hint}"
+      end
+
+      name
+    end
+
+    def build_index(name)
+      sh "ruby #{generator} #{src_dir + name}"
+    end
+  end
+end
+
+class Tasks
+  desc "tags SUBCOMMAND", "Maintain the generated topic indexes"
+  subcommand "tags", TagsCommands
+
+  desc "release", "Rebuild the topic indexes, commit any tag changes, then git push"
+  def release
+    # Calls the TagsCommands instance directly rather than `invoke`, for the
+    # same Thor reason noted in book.loki's `all`. The git helpers come from
+    # the workspace's git_tasks.loki, pulled in by .loki via import_up.
+    tags = TagsCommands.new
+    tags.build
+
+    root = tags.repo_root
+    dirs = tags.tags_dirs
+
+    if git_changed?(root, *dirs)
+      git_commit_scoped root, "updated tags", *dirs
+    else
+      puts "  topic indexes unchanged -- nothing to commit"
+    end
+
+    git_push root
+  end
+end
+
+# Same housekeeping as book.loki: TagsCommands inherits the top-level commands
+# through Tasks, so drop them from `asgard tags help` -- and book.loki loaded
+# first, so drop the new `tags` and `release` commands from `asgard book help`
+# too.
+TagsCommands.remove_command :book, :tags, :release, :tree
+BookCommands.remove_command :tags, :release

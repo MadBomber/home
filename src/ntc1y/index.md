@@ -28,3 +28,4 @@ See [How to Use](<%= relative_url '/documents/how-to-use/' %>) for practical gui
 
 - [How to Use](<%= relative_url '/documents/how-to-use/' %>)
 - [Journaling](<%= relative_url '/documents/journaling/' %>)
+- [Topic Index](<%= relative_url '/ntc1y/tags/' %>)

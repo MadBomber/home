@@ -11,6 +11,7 @@ description: Essays and articles on Scripture, theology, and the Christian life.
     .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
     .reject  { |r| r.relative_url.to_s.end_with?('/blog/') }
     .reject  { |r| r.relative_url.to_s.end_with?('/blog/announcement/') }
+    .reject  { |r| r.relative_url.to_s.end_with?('/blog/tags/') }
     .reject  { |r| is_production && r.data[:date] && r.data[:date].to_date > Date.today }
 
   collections_meta = (site.data.blog_collections || [])
@@ -93,6 +94,9 @@ description: Essays and articles on Scripture, theology, and the Christian life.
     <button class="blog-tab" data-tab="recent" role="tab" aria-selected="false">Recent</button>
     <button class="blog-tab" data-tab="collections" role="tab" aria-selected="false">Collections</button>
     <button class="blog-tab" data-tab="search" role="tab" aria-selected="false">Search</button>
+    <%# A link styled as a tab: it navigates to the topic index rather than
+        switching panels, so it stays an anchor and carries no tab role. %>
+    <a href="<%= relative_url '/blog/tags/' %>" class="blog-tab">Topics</a>
   </div>
 
   <div class="blog-view active" id="blog-view-all" role="tabpanel">

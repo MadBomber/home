@@ -128,7 +128,7 @@ layout: default
   <%
     _disc_slug = data.study_slug
     _disc_key  = _disc_slug&.gsub('-', '_')
-    _disc_cfg  = _disc_key ? site.data.send(_disc_key).study_config["discussions"] : nil
+    _disc_cfg  = _disc_key ? site.data.send(_disc_key)&.study_config&.[]("discussions") : nil
   %>
   <% if _disc_cfg %>
   <section class="page-discussions" data-feature="discussions">
