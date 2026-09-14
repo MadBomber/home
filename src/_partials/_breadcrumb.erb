@@ -68,7 +68,7 @@
         <%= _study_title %><%== _chevron %>
       </button>
       <ul class="bc-dropdown">
-        <% _studies.each do |study| %>
+        <% _studies.reject { |s| s["hidden"] && s["slug"] != _study_slug }.each do |study| %>
           <%
             _study_aria = if study["slug"] == _study_slug
               (!_cur_section && !_week) ? ' aria-current="page"' : ' aria-current="true"'
