@@ -3451,6 +3451,16 @@ button.toolbar-icon {
   border-bottom: 3px solid var(--gold);
 }
 
+/* Dev-server-only 🚧 marker on hidden studies' landing-page cards;
+   production builds never render these cards at all. The emoji carries
+   its own colors, so it stays visible in both light and dark themes. */
+.study-card-dev-badge {
+  display: inline-block;
+  font-size: 1.3em;
+  line-height: 1;
+  vertical-align: middle;
+}
+
 .study-card-tagline {
   font-family: var(--font-sans);
   font-size: 0.85rem;

@@ -29,7 +29,10 @@ title: Home
 <section class="studies">
   <h2>Available Studies</h2>
   <div class="study-grid">
-    <% site.data.studies.reject { |s| s["hidden"] }.each do |study| %>
+    <%# Hidden studies never appear here in production; in development they
+        show with an "In Development" badge so they stay reachable locally. %>
+    <% _grid_studies = _is_production ? site.data.studies.reject { |s| s["hidden"] } : site.data.studies %>
+    <% _grid_studies.each do |study| %>
       <%
         data_key   = study["slug"].gsub('-', '_')
         study_cfg  = site.data.send(data_key).study_config
@@ -47,7 +50,7 @@ title: Home
           <% end %>
 
           <div class="study-card-body">
-            <h3 class="study-card-title"><%= study["title"] %></h3>
+            <h3 class="study-card-title"><% if study["hidden"] %><span class="study-card-dev-badge" role="img" aria-label="In development" title="In development">🚧</span> <% end %><%= study["title"] %><% if study["hidden"] %> <span class="study-card-dev-badge" aria-hidden="true" title="In development">🚧</span><% end %></h3>
             <% if study["tagline"] %>
               <p class="study-card-tagline"><%= study["tagline"] %></p>
             <% end %>

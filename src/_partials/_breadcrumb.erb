@@ -8,7 +8,12 @@
   _data_key  = _study_slug.gsub('-', '_')
   _study_pfx = "/#{_study_slug}"
 
+  _is_production = Bridgetown.environment.to_s == "production"
+
   _studies      = site.data.studies || []
+  # Hidden studies stay reachable through the breadcrumb during development;
+  # production omits them (except the study whose page you are already on).
+  _studies      = _studies.reject { |s| s["hidden"] && s["slug"] != _study_slug } if _is_production
   _study_data   = _studies.find { |s| s["slug"] == _study_slug }
   _study_title  = _study_data&.[]("title") || _study_slug
 
@@ -68,7 +73,7 @@
         <%= _study_title %><%== _chevron %>
       </button>
       <ul class="bc-dropdown">
-        <% _studies.reject { |s| s["hidden"] && s["slug"] != _study_slug }.each do |study| %>
+        <% _studies.each do |study| %>
           <%
             _study_aria = if study["slug"] == _study_slug
               (!_cur_section && !_week) ? ' aria-current="page"' : ' aria-current="true"'
