@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Tagged: word"
+study_slug: ntc1y
+template_engine: erb
+---
+
+One page carries the **word** tag:
+
+- [Trials, Wisdom, and the Living Word](<%= relative_url "/ntc1y/section-05/week-22/day-4/" %>)
+
+[All topics](<%= relative_url "/ntc1y/tags/" %>)

@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Tagged: parables-of-grace"
+study_slug: ntc1y
+template_engine: erb
+---
+
+One page carries the **parables-of-grace** tag:
+
+- [Parables of the Lost](<%= relative_url "/ntc1y/section-03/week-12/day-5/" %>)
+
+[All topics](<%= relative_url "/ntc1y/tags/" %>)

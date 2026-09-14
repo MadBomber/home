@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Tagged: action"
+study_slug: ntc1y
+template_engine: erb
+---
+
+One page carries the **action** tag:
+
+- [Children of God, Love One Another](<%= relative_url "/ntc1y/section-06/week-50/day-3/" %>)
+
+[All topics](<%= relative_url "/ntc1y/tags/" %>)
