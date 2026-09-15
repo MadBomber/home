@@ -22,6 +22,27 @@
     <%= render "breadcrumb" %>
 
     <main>
+      <%
+        _hidden_study = data.study_slug && (site.data.studies || []).find { |s| s["slug"] == data.study_slug }&.[]("hidden")
+      %>
+      <% if _hidden_study %>
+        <div class="study-hidden-notice" role="note">
+          <svg class="study-hidden-notice-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z"></path>
+            <line x1="12" y1="9" x2="12" y2="13"></line>
+            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+          </svg>
+          <div class="study-hidden-notice-text">
+            <strong>Draft &mdash; not yet published</strong>
+            <p>
+              This study hasn&rsquo;t been published yet, so it doesn&rsquo;t appear on the home page or in
+              site navigation. It&rsquo;s still a work in progress: the content, structure, or scheduling
+              may change substantially before then, and it&rsquo;s possible this page won&rsquo;t be
+              published in its current form at all.
+            </p>
+          </div>
+        </div>
+      <% end %>
       <%= yield %>
     </main>
 
