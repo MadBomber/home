@@ -1,5 +1,6 @@
 storage_prefix: "ntc1y"
 total_weeks: 52
+has_memory_verse: true
 
 discussions:
   repo: "MadBomber/ntc1y_discussions"

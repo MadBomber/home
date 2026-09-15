@@ -1,0 +1,10 @@
+storage_prefix: "sotm"
+total_weeks: 6
+has_memory_verse: false
+
+sections:
+  - number: 1
+    title: "The Mountain and the Plain"
+    slug: "section-01"
+    weeks_start: 1
+    weeks_end: 6

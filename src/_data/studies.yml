@@ -36,6 +36,17 @@
     Each week covers a coherent block of scripture with daily readings, historical
     context, reflection questions, and a memory verse.
 
+- slug: "sotm"
+  hidden: true
+  tagline: "One Teaching, Two Witnesses"
+  title: "The Sermon on the Mount and the Plain"
+  image: ""
+  description: >-
+    A six-week study of the Sermon on the Mount (Matthew 5-7) read alongside the
+    Sermon on the Plain (Luke 6:17-49), one teaching preserved by two
+    witnesses. Each week takes one movement of the sermon with five daily
+    readings and a discussion guide.
+
 - slug: "ot1y"
   hidden: false
   tagline: "A Year at His Feet"

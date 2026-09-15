@@ -25,7 +25,7 @@
         <a href="<%= relative_url '/' %>" class="toolbar-icon">Home</a>
         <a href="<%= relative_url '/blog/' %>" class="toolbar-icon">Essays</a>
         <a href="<%= relative_url '/tips/' %>" class="toolbar-icon" data-feature="tips">Tips</a>
-        <% if @resource.data[:week] %>
+        <% if @resource.data[:week] && has_memory_verse? %>
           <a href="../memory-verse/" class="toolbar-icon">Verse</a>
         <% end %>
         <% if @resource.data[:week] && @resource.data[:day] %>

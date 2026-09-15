@@ -5,9 +5,13 @@ layout: default
 <article<% if data.section_number %> data-section="<%= data.section_number %>"<% end %><% if data.week %> data-week="<%= data.week %>"<% end %><% if data.day %> data-day="<%= data.day %>"<% end %><% if data.type %> data-type="<%= data.type %>"<% end %>>
   <h1><% if data.day %>Day <%= data.day %>: <%= data.title %><% elsif data.week && data.type == "discussion" %>Week <%= data.week %> Discussion Guide: <%= data.title %><% elsif data.week && data.type == "memory_verse" %>Week <%= data.week %>: Memory Verse<% elsif data.week %>Week <%= data.week %>: <%= data.title %><% else %><%= data.title %><% end %></h1>
 
+  <%
+    _mv_study_cfg = data.study_slug ? site.data.send(data.study_slug.gsub('-', '_'))&.study_config : nil
+    _has_mv       = _mv_study_cfg ? _mv_study_cfg["has_memory_verse"] != false : true
+  %>
   <% _mv = nil %>
   <% _mv_url = nil %>
-  <% if data.study_slug && data.week && data.type != "memory_verse" %>
+  <% if _has_mv && data.study_slug && data.week && data.type != "memory_verse" %>
   <%
     _mv = site.resources.find { |r|
       r.data[:study_slug] == data.study_slug &&
@@ -109,8 +113,8 @@ layout: default
           ["4",           "#{week_base}/day-4/"],
           ["5",           "#{week_base}/day-5/"],
           ["Discussion",  "#{week_base}/discussion/"],
-          ["Verse",       "#{week_base}/memory-verse/"],
         ]
+        pages << ["Verse", "#{week_base}/memory-verse/"] if _has_mv
       %>
       <% pages.each do |label, path| %>
         <% is_current = current_path == path.chomp("/") %>

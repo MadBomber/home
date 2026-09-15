@@ -885,6 +885,36 @@ blockquote strong {
   color: var(--text-primary);
 }
 
+/* Scripture passages embedded in study day pages. Roman rather than italic --
+   a four-verse reading set entirely in italic is punishing to read -- and in
+   the primary text color, since the passage is the subject of the page rather
+   than an aside. Verse numbers carry data-nospeak so page-speak.js drops them
+   from its snapshot: visible on screen, never read aloud. */
+blockquote.passage {
+  font-style: normal;
+  color: var(--text-primary);
+}
+
+blockquote.passage p {
+  margin: 0;
+}
+
+blockquote.passage sup {
+  margin-right: 0.15em;
+  color: var(--text-secondary);
+  font-size: 0.7em;
+  font-weight: 600;
+  line-height: 0;
+}
+
+blockquote.passage cite {
+  display: block;
+  margin-top: 0.6rem;
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  font-style: normal;
+}
+
 hr {
   border: none;
   border-top: 1px solid var(--border-color);
@@ -2001,6 +2031,16 @@ a.blog-tab {
 
 .site-footer a {
   color: var(--text-secondary);
+}
+
+/* Crossway's required ESV notice. Set smaller and narrower than the rest of
+   the footer -- it is a legal notice on every page, not something a reader
+   needs to re-read. */
+.site-footer-esv {
+  max-width: 44rem;
+  margin: 0.6rem auto 0;
+  font-size: 0.75rem;
+  line-height: 1.5;
 }
 
 .site-footer-links {

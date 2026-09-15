@@ -21,6 +21,7 @@
   _study_config      = _study_config_data&.study_config || {}
   _sections          = _study_config["sections"] || []
   _week_phases       = (_study_config_data&.week_phases || {}).transform_keys(&:to_i)
+  _has_mv            = _study_config["has_memory_verse"] != false
 
   _cur_section = if _week
     _sections.find { |s| _week >= s["weeks_start"].to_i && _week <= s["weeks_end"].to_i }
@@ -56,8 +57,8 @@
       ["Day 4",         "#{_week_base}/day-4/"],
       ["Day 5",         "#{_week_base}/day-5/"],
       ["Discussion",    "#{_week_base}/discussion/"],
-      ["Memory Verse",  "#{_week_base}/memory-verse/"],
     ]
+    _day_pages << ["Memory Verse", "#{_week_base}/memory-verse/"] if _has_mv
   end
 %>
 <nav class="breadcrumb" aria-label="Page location">

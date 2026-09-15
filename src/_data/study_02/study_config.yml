@@ -17,6 +17,8 @@ storage_prefix: "study02"
 
 total_weeks: 1
 
+has_memory_verse: true
+
 sections:
   - number: 1
     title: "Section 01 Title"

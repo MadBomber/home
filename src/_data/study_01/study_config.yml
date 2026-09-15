@@ -17,6 +17,8 @@ storage_prefix: "study01"
 
 total_weeks: 9
 
+has_memory_verse: true
+
 sections:
   - number: 1
     title: "The Beginning"

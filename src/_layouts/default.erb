@@ -6,11 +6,18 @@
   <body class="<%= data.layout %> <%= data.page_class %>" data-base-path="<%= site.base_path.to_s %>">
     <%= render "announcement_banner" %>
     <%= render "tip_of_week" %>
+    <%
+      _nav_study_slug = resource.data[:study_slug]
+      _nav_data_key   = _nav_study_slug&.gsub('-', '_')
+      _nav_study_cfg  = _nav_data_key && site.data.respond_to?(_nav_data_key) ? site.data.send(_nav_data_key)&.study_config : nil
+      _nav_has_mv     = _nav_study_cfg ? _nav_study_cfg["has_memory_verse"] != false : true
+    %>
     <%= render Shared::Navbar.new(
       metadata:           site.metadata,
       resource:           resource,
       studies:            site.data.studies || [],
-      resolved_documents: site.data.resolved_documents
+      resolved_documents: site.data.resolved_documents,
+      has_memory_verse:   _nav_has_mv
     ) %>
     <%= render "breadcrumb" %>
 

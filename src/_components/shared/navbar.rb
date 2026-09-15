@@ -1,9 +1,14 @@
 class Shared::Navbar < Bridgetown::Component
-  def initialize(metadata:, resource:, studies: [], resolved_documents: {})
+  def initialize(metadata:, resource:, studies: [], resolved_documents: {}, has_memory_verse: true)
     @metadata           = metadata
     @resource           = resource
     @studies            = Array(studies)
     @resolved_documents = resolved_documents || {}
+    @has_memory_verse   = has_memory_verse
+  end
+
+  def has_memory_verse?
+    @has_memory_verse
   end
 
   def study_slug
