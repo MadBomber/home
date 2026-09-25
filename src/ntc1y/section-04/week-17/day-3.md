@@ -1,7 +1,7 @@
 ---
 week: 17
 day: 3
-title: The Way, the Truth, and the Life
+title: The Way, the Truth, the Life, and the Promised Spirit
 reading: John 14
 section: Passion and Resurrection
 tags:

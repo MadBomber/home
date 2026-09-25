@@ -1,7 +1,7 @@
 ---
 week: 48
 day: 4
-title: Husbands and Wives — Suffering for Doing Good
+title: Wives and Husbands, Suffering for Doing Good — Christ Preached to the Spirits
 reading: 1 Peter 3
 section: Letters and Revelation
 tags:

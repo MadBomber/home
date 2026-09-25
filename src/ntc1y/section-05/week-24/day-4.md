@@ -1,7 +1,7 @@
 ---
 week: 24
 day: 4
-title: Iconium, Lystra, Derbe, and the Return Journey
+title: Iconium, Lystra, Derbe — Paul Stoned and the Return Journey
 reading: Acts 14
 parallel_passages: 2 Timothy 3:10-11
 section: The Early Church

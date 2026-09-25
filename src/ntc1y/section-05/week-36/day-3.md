@@ -1,7 +1,7 @@
 ---
 week: 36
 day: 3
-title: Released from the Law, Inner Struggle -- What I Want to Do I Do Not Do
+title: Released from the Law, Inner Struggle — "What I Want to Do I Do Not Do"
 reading: Romans 7
 section: The Early Church
 tags:

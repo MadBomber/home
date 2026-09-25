@@ -1,7 +1,7 @@
 ---
 week: 46
 day: 1
-title: Jesus Greater Than Moses
+title: Jesus Greater Than Moses — Do Not Harden Your Hearts
 reading: Hebrews 3
 section: Letters and Revelation
 tags:

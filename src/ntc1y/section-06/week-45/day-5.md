@@ -1,7 +1,7 @@
 ---
 week: 45
 day: 5
-title: Pioneer of Our Salvation
+title: Do Not Drift Away — Pioneer of Our Salvation
 reading: Hebrews 2
 section: Letters and Revelation
 tags:

@@ -33,10 +33,10 @@ These five chapters are not merely academic theology. They are pastoral pleading
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Hebrews 3  | [Jesus Greater Than Moses -- Don't Harden Your Hearts](../day-1/) |
+| 1 | Hebrews 3  | [Jesus Greater Than Moses — Do Not Harden Your Hearts](../day-1/) |
 | 2 | Hebrews 4  | [The Sabbath Rest and the Living Word](../day-2/) |
-| 3 | Hebrews 5  | [Called by God -- The Order of Melchizedek](../day-3/) |
-| 4 | Hebrews 6  | [Press On to Maturity -- Hope as an Anchor](../day-4/) |
+| 3 | Hebrews 5  | [Called by God, Not Self-Appointed — Milk or Solid Food](../day-3/) |
+| 4 | Hebrews 6  | [Press On to Maturity — Hope as an Anchor](../day-4/) |
 | 5 | Hebrews 7  | [Melchizedek and the Permanent Priesthood](../day-5/) |
 
 ## Key Characters

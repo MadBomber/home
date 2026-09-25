@@ -1,7 +1,7 @@
 ---
 week: 37
 day: 3
-title: Living Sacrifice, Renewed Mind
+title: Living Sacrifice, Renewed Mind, Overcome Evil with Good
 reading: Romans 12
 section: The Early Church
 tags:

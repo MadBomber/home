@@ -1,7 +1,7 @@
 ---
 week: 44
 day: 5
-title: Fan Into Flame
+title: Fan Into Flame, Guard the Good Deposit
 reading: 2 Timothy 1
 parallel_passages: Acts 16:1-3; 1 Timothy 4:14
 section: Letters and Revelation

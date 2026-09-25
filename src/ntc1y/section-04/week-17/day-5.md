@@ -1,7 +1,7 @@
 ---
 week: 17
 day: 5
-title: The Spirit's Work and Christ's Victory
+title: The Spirit's Work, Grief Turned to Joy, and Christ's Victory
 reading: John 16
 section: Passion and Resurrection
 tags:

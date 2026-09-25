@@ -1,7 +1,7 @@
 ---
 week: 40
 day: 5
-title: Unity, Gifts, New Self
+title: Unity, Gifts, and the New Self
 reading: Ephesians 4
 parallel_passages: Colossians 3:1-17
 section: The Early Church

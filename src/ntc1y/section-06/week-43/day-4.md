@@ -1,7 +1,7 @@
 ---
 week: 43
 day: 4
-title: Train Yourself in Godliness
+title: False Teaching, Training in Godliness, and Timothy's Youth
 reading: 1 Timothy 4
 section: Letters and Revelation
 tags:

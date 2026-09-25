@@ -1,7 +1,7 @@
 ---
 week: 38
 day: 3
-title: Farewell to the Elders
+title: Eutychus and Farewell to the Ephesian Elders
 reading: Acts 20:7-38
 section: The Early Church
 tags:

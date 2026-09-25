@@ -1,7 +1,7 @@
 ---
 week: 15
 day: 4
-title: Parables, Taxes, and Resurrection
+title: Parable of the Tenants, Taxes, and the Resurrection
 reading: Mark 12:1-27
 parallel_passages: Matthew 21:33-22:33; Luke 20:9-40
 section: Road to Jerusalem

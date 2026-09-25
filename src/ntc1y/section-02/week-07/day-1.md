@@ -1,7 +1,7 @@
 ---
 week: 7
 day: 1
-title: John's Question, Jesus' Answer
+title: John's Question from Prison, Woes on Cities, Come to Me
 reading: Matthew 11
 parallel_passages: Luke 7:18-35; Luke 10:13-15, 21-22
 section: Galilean Ministry

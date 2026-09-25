@@ -1,7 +1,7 @@
 ---
 week: 49
 day: 2
-title: Growing in Faith, Eyewitnesses of His Majesty
+title: Growing in Virtue — Eyewitnesses of His Majesty, Scripture's Origin
 reading: 2 Peter 1
 section: Letters and Revelation
 tags:

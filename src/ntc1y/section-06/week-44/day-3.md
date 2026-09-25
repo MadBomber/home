@@ -1,7 +1,7 @@
 ---
 week: 44
 day: 3
-title: Grace Has Appeared
+title: Sound Teaching for Every Group — Grace Has Appeared
 reading: Titus 2
 section: Letters and Revelation
 tags:

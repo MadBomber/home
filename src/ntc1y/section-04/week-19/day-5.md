@@ -1,7 +1,7 @@
 ---
 week: 19
 day: 5
-title: Flogging, 'Behold the Man', Crucifixion, 'It Is Finished', Burial
+title: Flogging, "Behold the Man," Crucifixion, "It Is Finished," Burial
 reading: John 19
 parallel_passages: Matthew 27:27-66; Mark 15:16-47; Luke 23:26-56
 section: Passion and Resurrection

@@ -1,7 +1,7 @@
 ---
 week: 46
 day: 3
-title: Called by God, Not Self-Appointed
+title: Called by God, Not Self-Appointed — Milk or Solid Food
 reading: Hebrews 5
 section: Letters and Revelation
 tags:

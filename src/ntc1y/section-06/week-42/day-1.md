@@ -1,7 +1,7 @@
 ---
 week: 42
 day: 1
-title: Rejoice in the Lord Always
+title: Rejoice in the Lord Always, Peace of God, and Contentment
 reading: Philippians 4
 section: Letters and Revelation
 tags:

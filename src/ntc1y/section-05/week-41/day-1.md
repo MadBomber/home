@@ -1,7 +1,7 @@
 ---
 week: 41
 day: 1
-title: Walk in Love, Be Filled with the Spirit
+title: Walk in Love, Be Filled with the Spirit, Christ and the Church
 reading: Ephesians 5
 parallel_passages: Colossians 3:18-19; 1 Peter 3:1-7
 section: The Early Church

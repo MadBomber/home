@@ -1,7 +1,7 @@
 ---
 week: 38
 day: 4
-title: Arrested in Jerusalem
+title: Journey to Jerusalem and Arrest in the Temple
 reading: Acts 21
 parallel_passages: Romans 15:25-31
 section: The Early Church

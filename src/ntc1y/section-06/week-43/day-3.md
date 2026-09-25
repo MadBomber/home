@@ -1,7 +1,7 @@
 ---
 week: 43
 day: 3
-title: Qualifications for Church Leaders
+title: Qualifications for Church Leaders and the Mystery of Godliness
 reading: 1 Timothy 3
 parallel_passages: Titus 1:5-9
 section: Letters and Revelation

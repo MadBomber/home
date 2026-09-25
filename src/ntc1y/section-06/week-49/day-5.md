@@ -1,7 +1,7 @@
 ---
 week: 49
 day: 5
-title: Contend for the Faith, Kept by God
+title: Contend for the Faith, False Teachers Condemned — Kept by God
 reading: Jude
 parallel_passages: 2 Peter 2:1-22
 section: Letters and Revelation

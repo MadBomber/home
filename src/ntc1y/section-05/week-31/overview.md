@@ -27,11 +27,11 @@ These chapters are among the most debated in Pauline scholarship, touching on qu
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | 1 Corinthians 10  | [Israel's Wilderness Warnings, Flee Idolatry](../day-1/) |
-| 2 | 1 Corinthians 11  | [Head Coverings in Worship, Lord's Supper Abuses](../day-2/) |
-| 3 | 1 Corinthians 12  | [Varieties of Spiritual Gifts, One Body Many Members](../day-3/) |
-| 4 | 1 Corinthians 13  | [Without Love = Nothing, Faith Hope Love](../day-4/) |
-| 5 | 1 Corinthians 14  | [Prophecy > Tongues for Edification, Orderly Worship](../day-5/) |
+| 1 | 1 Corinthians 10  | [Israel's Wilderness Warnings](../day-1/) |
+| 2 | 1 Corinthians 11  | [Head Coverings and the Lord's Supper](../day-2/) |
+| 3 | 1 Corinthians 12  | [One Body, Many Members](../day-3/) |
+| 4 | 1 Corinthians 13  | [The Greatest Is Love](../day-4/) |
+| 5 | 1 Corinthians 14  | [Orderly Worship](../day-5/) |
 
 ## Key Characters
 

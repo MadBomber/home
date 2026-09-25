@@ -1,7 +1,7 @@
 ---
 week: 45
 day: 1
-title: Soldier, Athlete, Farmer
+title: Soldier, Athlete, Farmer — Rightly Handling the Word, Fleeing Youthful Passions
 reading: 2 Timothy 2
 section: Letters and Revelation
 tags:

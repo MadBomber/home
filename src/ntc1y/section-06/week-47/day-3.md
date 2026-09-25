@@ -1,7 +1,7 @@
 ---
 week: 47
 day: 3
-title: The Single Offering That Perfects Forever
+title: The Single Offering That Perfects Forever — Draw Near, Hold Fast, Spur One Another
 reading: Hebrews 10
 section: Letters and Revelation
 tags:

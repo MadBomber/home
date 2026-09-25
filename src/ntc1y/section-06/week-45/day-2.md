@@ -1,7 +1,7 @@
 ---
 week: 45
 day: 2
-title: All Scripture Is God-Breathed
+title: Terrible Times in the Last Days — All Scripture Is God-Breathed
 reading: 2 Timothy 3
 section: Letters and Revelation
 tags:

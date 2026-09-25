@@ -1,7 +1,7 @@
 ---
 week: 43
 day: 2
-title: One God, One Mediator
+title: Pray for All People Including Kings, One God and One Mediator, and Instructions on Worship
 reading: 1 Timothy 2
 parallel_passages: Romans 13:1-7
 section: Letters and Revelation

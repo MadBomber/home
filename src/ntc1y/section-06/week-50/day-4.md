@@ -1,7 +1,7 @@
 ---
 week: 50
 day: 4
-title: Test the Spirits, God Is Love
+title: Test the Spirits, God Is Love — Perfect Love Casts Out Fear
 reading: 1 John 4
 section: Letters and Revelation
 tags:

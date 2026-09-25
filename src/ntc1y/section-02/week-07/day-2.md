@@ -1,7 +1,7 @@
 ---
 week: 7
 day: 2
-title: Lord of the Sabbath
+title: Lord of the Sabbath, Beelzebul Controversy, Sign of Jonah
 reading: Matthew 12
 parallel_passages: Mark 2:23-3:6; Luke 6:1-11; Luke 11:14-28; Luke 12:10
 section: Galilean Ministry

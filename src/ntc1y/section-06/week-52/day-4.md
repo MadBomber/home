@@ -1,7 +1,7 @@
 ---
 week: 52
 day: 4
-title: The Woman, the Dragon, and the Beasts
+title: The Woman, the Dragon, the Beasts — the Lamb on Mount Zion and the Harvest
 reading: Revelation 12-14
 section: Letters and Revelation
 tags:

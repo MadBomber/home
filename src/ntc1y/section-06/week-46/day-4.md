@@ -1,7 +1,7 @@
 ---
 week: 46
 day: 4
-title: Press On to Maturity
+title: Press On to Maturity — Hope as an Anchor
 reading: Hebrews 6
 section: Letters and Revelation
 tags:

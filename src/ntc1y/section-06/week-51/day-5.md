@@ -1,7 +1,7 @@
 ---
 week: 51
 day: 5
-title: The Scroll and the Lamb — Who Is Worthy?
+title: The Scroll and the Lamb — Worthy Is the Lamb
 reading: Revelation 5
 section: Letters and Revelation
 tags:

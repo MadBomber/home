@@ -1,7 +1,7 @@
 ---
 week: 48
 day: 2
-title: Living Hope Through Resurrection
+title: Living Hope Through Resurrection — Tested Faith, Be Holy, Born Again
 reading: 1 Peter 1
 section: Letters and Revelation
 tags:

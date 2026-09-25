@@ -1,7 +1,7 @@
 ---
 week: 52
 day: 5
-title: Behold, I Am Making All Things New
+title: Babylon Falls, Christ Returns — Behold, I Am Making All Things New
 reading: Revelation 15-22
 section: Letters and Revelation
 tags:

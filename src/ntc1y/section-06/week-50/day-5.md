@@ -1,7 +1,7 @@
 ---
 week: 50
 day: 5
-title: Overcoming Faith, Walking in Truth
+title: Overcoming Faith and Eternal Life — Walking in Truth, Hospitality and Leadership
 reading: 1 John 5 + 2 John + 3 John
 section: Letters and Revelation
 tags:

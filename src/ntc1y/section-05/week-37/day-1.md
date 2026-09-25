@@ -1,7 +1,7 @@
 ---
 week: 37
 day: 1
-title: Salvation for All Who Call
+title: Salvation for All Who Call, Faith Comes by Hearing
 reading: Romans 10
 section: The Early Church
 tags:

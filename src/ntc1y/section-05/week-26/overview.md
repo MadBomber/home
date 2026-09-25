@@ -27,11 +27,11 @@ The week concludes in two of the great intellectual centers of the ancient world
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Acts 15  | [Jerusalem Council -- Must Gentiles Be Circumcised? James' Decision, Letter to Churches](../day-1/) |
-| 2 | Acts 16:1-15  | [Timothy Circumcised and Joins Paul, Macedonian Vision Call, Lydia Converted at Philippi](../day-2/) |
-| 3 | Acts 16:16-40  | [Slave Girl Freed, Paul & Silas Beaten/Imprisoned, Earthquake, Philippian Jailer Saved](../day-3/) |
-| 4 | Acts 17:1-15  | [Thessalonica -- Jason's House, Riots; Berea -- Noble-Minded, Searching Scriptures](../day-4/) |
-| 5 | Acts 17:16-34  | [Athens -- Paul Distressed by Idols, Areopagus Speech, "Unknown God", Some Believe](../day-5/) |
+| 1 | Acts 15  | [Jerusalem Council — Must Gentiles Be Circumcised?](../day-1/) |
+| 2 | Acts 16:1-15  | [Timothy Joins Paul — Macedonian Vision — Lydia Converted](../day-2/) |
+| 3 | Acts 16:16-40  | [Paul & Silas Imprisoned — Earthquake — Philippian Jailer Saved](../day-3/) |
+| 4 | Acts 17:1-15  | [Thessalonica and Berea — Turning the World Upside Down](../day-4/) |
+| 5 | Acts 17:16-34  | [Athens — Paul at the Areopagus, the Unknown God](../day-5/) |
 
 ## Key Characters
 

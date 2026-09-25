@@ -1,8 +1,7 @@
 ---
 week: 11
 day: 5
-title: Fearless Confession, Rich Fool, Do Not Worry, Watchful Servants, Jesus Brings
-  Division
+title: Fearless Confession, Rich Fool, Do Not Worry, Watchful Servants, Jesus Brings Division
 reading: Luke 12
 parallel_passages: Matthew 6:25-34, Matthew 10:26-33, Matthew 24:42-51
 section: Galilean Ministry

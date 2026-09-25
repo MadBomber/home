@@ -1,7 +1,7 @@
 ---
 week: 48
 day: 3
-title: Living Stones — Royal Priesthood, Christ's Example
+title: Living Stones, Royal Priesthood — Submission to Authority, Christ's Example
 reading: 1 Peter 2
 section: Letters and Revelation
 tags:

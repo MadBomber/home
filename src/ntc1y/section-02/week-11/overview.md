@@ -28,9 +28,9 @@ What emerges across these readings is a portrait of a community utterly unlike t
 |-----|---------|-------|
 | 1 | Matthew 18  | [Who Is Greatest, Lost Sheep, Church Discipline, Parable of Unmerciful Servant](../day-1/) |
 | 2 | Luke 9  | [Sending Twelve, Feeding 5000, Peter's Confession, Transfiguration, Cost of Following](../day-2/) |
-| 3 | Luke 10  | [Sending 72, Good Samaritan, Mary and Martha](../day-3/) |
-| 4 | Luke 11  | [Lord's Prayer, Persistent Friend, Beelzebul Controversy, Sign of Jonah, Woes](../day-4/) |
-| 5 | Luke 12  | [Fearless Confession, Rich Fool, Do Not Worry, Watchful Servants, Division](../day-5/) |
+| 3 | Luke 10  | [Sending the 72, Good Samaritan, Mary and Martha](../day-3/) |
+| 4 | Luke 11  | [Lord's Prayer, Persistent Friend, Beelzebul Controversy, Sign of Jonah, Six Woes](../day-4/) |
+| 5 | Luke 12  | [Fearless Confession, Rich Fool, Do Not Worry, Watchful Servants, Jesus Brings Division](../day-5/) |
 
 ## Key Characters
 

@@ -1,7 +1,7 @@
 ---
 week: 47
 day: 5
-title: Run the Race, Fix Eyes on Jesus
+title: Run the Race, Fix Eyes on Jesus — Mount Sinai versus Mount Zion
 reading: Hebrews 12
 section: Letters and Revelation
 tags:

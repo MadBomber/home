@@ -1,7 +1,7 @@
 ---
 week: 48
 day: 1
-title: Final Exhortations and Benediction
+title: Mutual Love, Marriage Honored, Contentment, and Jesus Outside the Gate
 reading: Hebrews 13
 section: Letters and Revelation
 tags:

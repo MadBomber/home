@@ -1,7 +1,7 @@
 ---
 week: 7
 day: 5
-title: The Kingdom in Action
+title: Women Followers, Parable of Sower, Storm Stilled, Legion, Jairus' Daughter
 reading: Luke 8
 parallel_passages: Matthew 8:23-34; 9:18-26; 13:1-23; Mark 4:1-41; 5:1-43
 section: Galilean Ministry

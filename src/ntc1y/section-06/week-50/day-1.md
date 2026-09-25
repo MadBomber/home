@@ -1,7 +1,7 @@
 ---
 week: 50
 day: 1
-title: God Is Light
+title: From the Beginning — God Is Light, Faithful to Forgive
 reading: 1 John 1
 section: Letters and Revelation
 tags:

@@ -1,7 +1,7 @@
 ---
 week: 37
 day: 4
-title: Love Fulfills the Law
+title: Submit to Authorities, Love Fulfills the Law, Put on Christ
 reading: Romans 13
 section: The Early Church
 tags:

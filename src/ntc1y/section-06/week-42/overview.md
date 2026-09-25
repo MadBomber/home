@@ -27,11 +27,11 @@ Colossians then takes us into the cosmic dimensions of Christology. The Christ H
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | Philippians 4  | [Rejoice in the Lord Always, Peace of God, Contentment, "I Can Do All Things"](../day-1/) |
-| 2 | Colossians 1  | [Supremacy of Christ — Christ Hymn, Reconciliation, Paul's Labor](../day-2/) |
-| 3 | Colossians 2  | [Fullness of Deity in Christ, Don't Be Captive to Philosophy, Dead to Regulations](../day-3/) |
-| 4 | Colossians 3  | [Set Minds on Things Above, Put Off/Put On, Household Code](../day-4/) |
-| 5 | Colossians 4 + Philemon  | [Prayer, Wisdom with Outsiders, Greetings; Appeal for Onesimus](../day-5/) |
+| 1 | Philippians 4  | [Rejoice in the Lord Always, Peace of God, and Contentment](../day-1/) |
+| 2 | Colossians 1  | [The Supremacy of Christ](../day-2/) |
+| 3 | Colossians 2  | [Fullness in Christ Alone](../day-3/) |
+| 4 | Colossians 3  | [The New Self in Christ](../day-4/) |
+| 5 | Colossians 4 + Philemon  | [Wisdom, Prayer, and a Brother Restored](../day-5/) |
 
 ## Key Characters
 

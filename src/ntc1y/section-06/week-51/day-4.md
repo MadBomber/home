@@ -1,7 +1,7 @@
 ---
 week: 51
 day: 4
-title: Throne Room of God — Holy, Holy, Holy
+title: The Throne Room of Heaven — Holy, Holy, Holy
 reading: Revelation 4
 section: Letters and Revelation
 tags:

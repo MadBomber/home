@@ -1,7 +1,7 @@
 ---
 week: 45
 day: 3
-title: I Have Fought the Good Fight
+title: Preach the Word — I Have Fought the Good Fight
 reading: 2 Timothy 4
 section: Letters and Revelation
 tags:

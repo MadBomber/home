@@ -26,11 +26,11 @@ The Farewell Discourse also introduces the Paraclete -- the Holy Spirit whom the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| 1 | Luke 22:1-38  | [Plot to Kill Jesus, Preparation for Passover, Last Supper, Dispute About Greatness, Peter's Denial Foretold](../day-1/) |
-| 2 | John 13  | [Foot Washing, Betrayal Announced, New Commandment](../day-2/) |
-| 3 | John 14  | [I Am the Way/Truth/Life, The Father's House, Holy Spirit Promised](../day-3/) |
-| 4 | John 15  | [I Am the True Vine, Abide in Me, World's Hatred](../day-4/) |
-| 5 | John 16  | [The Spirit's Work, Grief Will Turn to Joy, "I Have Overcome the World"](../day-5/) |
+| 1 | Luke 22:1-38  | [The Last Supper](../day-1/) |
+| 2 | John 13  | [The Foot Washing and New Commandment](../day-2/) |
+| 3 | John 14  | [The Way, the Truth, the Life, and the Promised Spirit](../day-3/) |
+| 4 | John 15  | [The True Vine, Abiding in Christ, and the World's Hatred](../day-4/) |
+| 5 | John 16  | [The Spirit's Work, Grief Turned to Joy, and Christ's Victory](../day-5/) |
 
 ## Key Characters
 

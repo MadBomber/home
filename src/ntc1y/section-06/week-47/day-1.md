@@ -1,7 +1,7 @@
 ---
 week: 47
 day: 1
-title: Jesus Ministers in the True Heavenly Tabernacle
+title: Jesus Ministers in the True Heavenly Tabernacle — a New Covenant Replaces the Old
 reading: Hebrews 8
 section: Letters and Revelation
 tags:

@@ -1,7 +1,7 @@
 ---
 week: 51
 day: 1
-title: John's Vision of the Risen Christ on Patmos
+title: John's Vision of the Risen Christ on Patmos — Son of Man Among the Lampstands
 reading: Revelation 1
 section: Letters and Revelation
 tags:

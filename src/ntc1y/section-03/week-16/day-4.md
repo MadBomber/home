@@ -1,7 +1,7 @@
 ---
 week: 16
 day: 4
-title: Ten Virgins and the Parable of Talents
+title: Ten Virgins and the Parable of the Talents
 reading: Matthew 25:1-30
 parallel_passages: Luke 19:11-27; Mark 13:33-37; Luke 12:35-40
 section: Road to Jerusalem

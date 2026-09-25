@@ -29,11 +29,11 @@ Chapter 12 then draws the practical conclusion. With such a "great cloud of witn
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | Hebrews 8  | [Jesus Ministers in True Heavenly Tabernacle, New Covenant Replaces Old](../day-1/) |
-| 2 | Hebrews 9  | [Christ Enters the Greater Tabernacle with His Own Blood](../day-2/) |
-| 3 | Hebrews 10  | [Once-for-All Sacrifice, Draw Near, Hold Fast, Spur One Another](../day-3/) |
-| 4 | Hebrews 11  | [The Hall of Faith Heroes from Abel to the Prophets](../day-4/) |
-| 5 | Hebrews 12  | [Run the Race, Fix Eyes on Jesus, Mount Sinai vs Mount Zion](../day-5/) |
+| 1 | Hebrews 8  | [Jesus Ministers in the True Heavenly Tabernacle — a New Covenant Replaces the Old](../day-1/) |
+| 2 | Hebrews 9  | [Christ Entered the Greater Tabernacle with His Own Blood](../day-2/) |
+| 3 | Hebrews 10  | [The Single Offering That Perfects Forever — Draw Near, Hold Fast, Spur One Another](../day-3/) |
+| 4 | Hebrews 11  | [The Hall of Faith Heroes](../day-4/) |
+| 5 | Hebrews 12  | [Run the Race, Fix Eyes on Jesus — Mount Sinai versus Mount Zion](../day-5/) |
 
 ## Key Characters
 

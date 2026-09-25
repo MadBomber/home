@@ -1,8 +1,7 @@
 ---
 week: 11
 day: 4
-title: Lord's Prayer, Persistent Friend, Beelzebul Controversy, Sign of Jonah, Six
-  Woes
+title: Lord's Prayer, Persistent Friend, Beelzebul Controversy, Sign of Jonah, Six Woes
 reading: Luke 11
 parallel_passages: Matthew 6:9-13, Matthew 12:22-45, Matthew 23:1-36
 section: Galilean Ministry

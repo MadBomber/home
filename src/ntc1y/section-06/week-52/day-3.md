@@ -1,7 +1,7 @@
 ---
 week: 52
 day: 3
-title: The Two Witnesses and the Kingdom Trumpet
+title: The Little Scroll, the Two Witnesses, and the Kingdom Trumpet
 reading: Revelation 10-11
 section: Letters and Revelation
 tags:

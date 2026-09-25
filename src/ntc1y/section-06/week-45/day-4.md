@@ -1,7 +1,7 @@
 ---
 week: 45
 day: 4
-title: The Son Superior to Angels
+title: God Has Spoken Through His Son — Superior to Angels
 reading: Hebrews 1
 section: Letters and Revelation
 tags:

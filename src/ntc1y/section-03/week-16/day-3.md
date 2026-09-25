@@ -1,7 +1,7 @@
 ---
 week: 16
 day: 3
-title: Signs of the End
+title: Signs of the End, the Coming of the Son of Man, and Readiness
 reading: Matthew 24
 parallel_passages: Mark 13; Luke 21
 section: Road to Jerusalem

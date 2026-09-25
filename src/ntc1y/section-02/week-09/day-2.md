@@ -1,7 +1,7 @@
 ---
 week: 9
 day: 2
-title: Death of John, Feeding 5000, Walking on Water
+title: John the Baptist's Death, Feeding 5000, Walking on Water
 reading: Matthew 14
 parallel_passages: Mark 6:14-56; Luke 9:7-17; John 6:1-21
 section: Galilean Ministry

@@ -28,10 +28,10 @@ Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- A
 | Day | Reading | Title |
 |-----|---------|-------|
 | 1 | Romans 15  | [Accept One Another as Christ Accepted You](../day-1/) |
-| 2 | Romans 16  | [Greetings, Warnings, and Doxology](../day-2/) |
+| 2 | Romans 16  | [The Network of Faith](../day-2/) |
 | 3 | Acts 20:7-38  | [Eutychus and Farewell to the Ephesian Elders](../day-3/) |
 | 4 | Acts 21  | [Journey to Jerusalem and Arrest in the Temple](../day-4/) |
-| 5 | Acts 22  | [Paul's Defense -- Conversion Testimony in Hebrew](../day-5/) |
+| 5 | Acts 22  | [Paul's Defense](../day-5/) |
 
 ## Key Characters
 

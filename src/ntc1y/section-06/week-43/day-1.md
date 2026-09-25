@@ -1,7 +1,7 @@
 ---
 week: 43
 day: 1
-title: Charge Against False Teachers
+title: Charge Against False Teachers, Sound Doctrine, and Paul's Testimony
 reading: 1 Timothy 1
 section: Letters and Revelation
 tags:

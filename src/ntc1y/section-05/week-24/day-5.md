@@ -1,7 +1,7 @@
 ---
 week: 24
 day: 5
-title: No Other Gospel
+title: No Other Gospel — Paul's Calling and Conversion
 reading: Galatians 1
 parallel_passages: Acts 9:1-19; Acts 22:3-16; Acts 26:9-18
 section: The Early Church

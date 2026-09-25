@@ -1,7 +1,7 @@
 ---
 week: 52
 day: 1
-title: The Seals Opened, the Multitude Assembled
+title: The Six Seals and Four Horsemen — Martyrs' Cry, 144,000, and the Great Multitude
 reading: Revelation 6-7
 section: Letters and Revelation
 tags:

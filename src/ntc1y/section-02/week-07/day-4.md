@@ -1,7 +1,7 @@
 ---
 week: 7
 day: 4
-title: Treasure, Pearl, Net, and Rejection
+title: Mustard Seed, Leaven, Treasure, Pearl, Net, and Rejection at Nazareth
 reading: Matthew 13:31-58
 parallel_passages: Mark 4:30-34; Luke 13:18-21; Mark 6:1-6; Luke 4:16-30
 section: Galilean Ministry

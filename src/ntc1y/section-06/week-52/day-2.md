@@ -1,7 +1,7 @@
 ---
 week: 52
 day: 2
-title: Silence, Prayers, and Trumpets of Judgment
+title: Silence, Prayers, and Trumpets of Judgment — No Repentance
 reading: Revelation 8-9
 section: Letters and Revelation
 tags:

@@ -1,8 +1,7 @@
 ---
 week: 29
 day: 1
-title: Ephesus -- Disciples of John, Extraordinary Miracles, Sons of Sceva, Riot of
-  Silversmiths
+title: Ephesus — Disciples of John, Extraordinary Miracles, Sons of Sceva, Riot of Silversmiths
 reading: Acts 19
 section: The Early Church
 tags:

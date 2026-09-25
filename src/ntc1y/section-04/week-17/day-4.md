@@ -1,7 +1,7 @@
 ---
 week: 17
 day: 4
-title: The True Vine
+title: The True Vine, Abiding in Christ, and the World's Hatred
 reading: John 15
 section: Passion and Resurrection
 tags:

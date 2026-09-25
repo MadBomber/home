@@ -1,7 +1,7 @@
 ---
 week: 40
 day: 4
-title: The Mystery Revealed, Prayer for Power
+title: The Mystery Revealed — Prayer for Power and Love
 reading: Ephesians 3
 parallel_passages: Colossians 1:24-29
 section: The Early Church

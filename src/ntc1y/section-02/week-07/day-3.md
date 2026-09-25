@@ -1,7 +1,7 @@
 ---
 week: 7
 day: 3
-title: Secrets of the Kingdom
+title: Parable of the Sower, Purpose of Parables, Weeds Among Wheat
 reading: Matthew 13:1-30
 parallel_passages: Mark 4:1-29; Luke 8:4-18
 section: Galilean Ministry

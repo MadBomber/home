@@ -1,7 +1,7 @@
 ---
 week: 50
 day: 2
-title: Our Advocate, Our Test
+title: Our Advocate, Our Test — Do Not Love the World, Beware the Antichrist
 reading: 1 John 2
 section: Letters and Revelation
 tags:

@@ -29,11 +29,11 @@ The book's final chapters (21-22) bring the entire biblical narrative to its bre
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | Revelation 6-7  | [The Six Seals, Four Horsemen, Martyrs' Cry, 144,000 and the Great Multitude](../day-1/) |
-| 2 | Revelation 8-9  | [The Seventh Seal, Silence in Heaven, Trumpets 1-6, Locusts, No Repentance](../day-2/) |
-| 3 | Revelation 10-11  | [Little Scroll, Two Witnesses, Seventh Trumpet: "The Kingdom Has Come"](../day-3/) |
-| 4 | Revelation 12-14  | [The Woman, the Dragon, the Beasts, 666, Lamb on Mount Zion, Harvest](../day-4/) |
-| 5 | Revelation 15-22  | [Seven Bowls, Babylon Falls, Christ Returns, New Heaven, New Earth, Come Lord Jesus](../day-5/) |
+| 1 | Revelation 6-7  | [The Six Seals and Four Horsemen — Martyrs' Cry, 144,000, and the Great Multitude](../day-1/) |
+| 2 | Revelation 8-9  | [Silence, Prayers, and Trumpets of Judgment — No Repentance](../day-2/) |
+| 3 | Revelation 10-11  | [The Little Scroll, the Two Witnesses, and the Kingdom Trumpet](../day-3/) |
+| 4 | Revelation 12-14  | [The Woman, the Dragon, the Beasts — the Lamb on Mount Zion and the Harvest](../day-4/) |
+| 5 | Revelation 15-22  | [Babylon Falls, Christ Returns — Behold, I Am Making All Things New](../day-5/) |
 
 ## Key Characters
 

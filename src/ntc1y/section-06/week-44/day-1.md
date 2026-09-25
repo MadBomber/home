@@ -1,7 +1,7 @@
 ---
 week: 44
 day: 1
-title: Godliness with Contentment
+title: Godliness with Contentment — Guarding the Deposit
 reading: 1 Timothy 6
 parallel_passages: Philippians 4:11-13
 section: Letters and Revelation

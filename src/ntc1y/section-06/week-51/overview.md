@@ -27,11 +27,11 @@ This week we read slowly through these opening five chapters, savoring the rich 
 
 | Day | Reading | Focus |
 |-----|---------|-------|
-| 1 | Revelation 1  | [John's Vision of the Risen Christ on Patmos — Son of Man Among Lampstands](../day-1/) |
+| 1 | Revelation 1  | [John's Vision of the Risen Christ on Patmos — Son of Man Among the Lampstands](../day-1/) |
 | 2 | Revelation 2  | [Letters to Ephesus, Smyrna, Pergamum, Thyatira](../day-2/) |
 | 3 | Revelation 3  | [Letters to Sardis, Philadelphia, Laodicea](../day-3/) |
-| 4 | Revelation 4  | [The Throne Room of Heaven — Twenty-Four Elders, Four Living Creatures](../day-4/) |
-| 5 | Revelation 5  | [The Scroll and the Lamb — "Worthy Is the Lamb"](../day-5/) |
+| 4 | Revelation 4  | [The Throne Room of Heaven — Holy, Holy, Holy](../day-4/) |
+| 5 | Revelation 5  | [The Scroll and the Lamb — Worthy Is the Lamb](../day-5/) |
 
 ## Key Characters
 
