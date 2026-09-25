@@ -3,8 +3,6 @@ week: 46
 day: 2
 title: The Sabbath Rest and the Living Word
 reading: Hebrews 4
-parallel_passages: Genesis 2:2, Joshua 1:13, Isaiah 55:11, Revelation 1:16, Hebrews
-  2:17-18
 section: Letters and Revelation
 tags:
 - hebrews
@@ -48,7 +46,6 @@ The chapter's final verse is among the most beloved in the New Testament: "Let u
 
 - **Old Testament Roots**: Genesis 2:2 provides the foundational concept of God's Sabbath rest. Psalm 95:7-11 continues as the primary text under exposition. Joshua 1:13 recalls Moses' promise of rest in the land. Isaiah 55:10-11 speaks of God's word accomplishing its purpose. The two-edged sword imagery may connect to the cherubim's flaming sword guarding Eden (Genesis 3:24).
 - **New Testament Echoes**: The "living word" passage resonates with John 1:1-14 (the Word made flesh) and Revelation 1:16 (the sharp two-edged sword from Christ's mouth). The high priest theme continues from Hebrews 2:17-18 and will be developed extensively in chapters 5-10. The "throne of grace" anticipates Hebrews 10:19-22 (confidence to enter the Most Holy Place).
-- **Parallel Passages**: Matthew 11:28-30 (Jesus' invitation to rest), Romans 4:4-5 (rest from works-righteousness), Ephesians 6:17 (the sword of the Spirit, the word of God), 1 John 2:1 (Jesus as our advocate)
 
 ## Reflection Questions
 

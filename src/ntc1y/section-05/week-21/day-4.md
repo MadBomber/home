@@ -3,7 +3,7 @@ week: 21
 day: 4
 title: Boldness Before the Sanhedrin
 reading: Acts 4
-parallel_passages: Acts 5:27-42; Luke 21:12-15; John 15:18-25; Psalm 118:22
+parallel_passages: Acts 5:27-42; Luke 21:12-15; John 15:18-25
 section: The Early Church
 tags:
 - acts

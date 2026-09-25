@@ -3,7 +3,6 @@ week: 25
 day: 3
 title: No Longer Slaves but Sons — Allegory of Hagar and Sarah
 reading: Galatians 4
-parallel_passages: Romans 8:14-17, Genesis 16-21, Isaiah 54:1
 section: The Early Church
 tags:
 - galatians
@@ -47,8 +46,6 @@ The allegory culminates in the command drawn from Genesis 21:10: "Cast out the s
 ## Connections
 - **Old Testament Roots**: Genesis 16-21 (the full Hagar-Sarah narrative, from Ishmael's birth through Isaac's weaning feast and Hagar's expulsion); Isaiah 54:1 (the barren woman who rejoices because God gives her more children than the married woman); Genesis 15:6 (the promise that precedes both births)
 - **New Testament Echoes**: Romans 8:14-17 (the Spirit of adoption, crying "Abba! Father!," heirs of God and co-heirs with Christ); Romans 9:6-9 (not all of Abraham's descendants are children of the promise); Hebrews 12:22 (the heavenly Jerusalem)
-- **Parallel Passages**: Romans 8:14-17, Genesis 16-21, Isaiah 54:1
-
 ## Reflection Questions
 1. Paul says the Galatians were turning back to "weak and worthless elementary principles." What spiritual "default settings" — religious rituals, performance metrics, cultural obligations — do you tend to return to when your faith feels uncertain?
 2. The cry "Abba! Father!" is described as something the Spirit produces in us, not something we manufacture. How does the distinction between performance-based religion and Spirit-produced assurance shape the way you approach prayer?

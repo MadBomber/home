@@ -3,7 +3,7 @@ week: 21
 day: 5
 title: Holiness and Opposition
 reading: Acts 5
-parallel_passages: Joshua 7:1-26; Leviticus 10:1-3; Acts 12:20-23; 2 Corinthians 9:7
+parallel_passages: Acts 12:1-19; 2 Corinthians 9:7; Matthew 5:10-12
 section: The Early Church
 tags:
 - acts

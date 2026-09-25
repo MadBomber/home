@@ -3,10 +3,7 @@ week: 3
 day: 2
 reading: John 1:19-51
 title: John the Baptist's Witness, First Disciples Called
-parallel_passages:
-- Matthew 3:11-12
-- Mark 1:7-8
-- Luke 3:15-18
+parallel_passages: Matthew 3:11-12; Mark 1:7-8; Luke 3:15-18
 tags:
 - john-the-baptist
 - disciples

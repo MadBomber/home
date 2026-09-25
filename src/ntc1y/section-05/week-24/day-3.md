@@ -3,7 +3,7 @@ week: 24
 day: 3
 title: Barnabas & Saul Commissioned, Cyprus Ministry, Pisidian Antioch Sermon
 reading: Acts 13
-parallel_passages: Acts 9:15-16; Psalm 2; Isaiah 49:6; Acts 26:16-18
+parallel_passages: Acts 9:15-16; Acts 26:16-18
 section: The Early Church
 tags:
 - first-missionary-journey
@@ -38,7 +38,7 @@ The journey from Perga to Pisidian Antioch was one of the most arduous stretches
 
 Paul's sermon at the Pisidian Antioch synagogue (13:16-41) is the longest and most theologically developed speech attributed to him in Acts, and it serves as a template for understanding his evangelistic approach to Jewish audiences. He begins with Israel's salvation history -- the exodus, the wilderness wandering, the conquest of Canaan, the judges, the monarchy -- and traces God's faithfulness through each phase to the promise made to David. The pivotal move comes in verse 23: "Of this man's offspring God has brought to Israel a Savior, Jesus, as he promised." Paul then narrates Jesus' death and resurrection, grounding both in the fulfillment of Old Testament prophecy. He quotes Psalm 2:7 ("You are my Son, today I have begotten you"), Isaiah 55:3 ("the holy and sure blessings of David"), and Psalm 16:10 ("You will not let your Holy One see corruption") -- the same psalm Peter quoted at Pentecost.
 
-The sermon climaxes with a declaration that stands as a summary of Pauline theology: "Through this man forgiveness of sins is proclaimed to you, and by him everyone who believes is freed from everything from which you could not be freed by the law of Moses" (13:38-39). The Greek word dikaiothhenai ("freed" or "justified") is the verbal form of the noun Paul will develop extensively in Romans and Galatians. Justification by faith, apart from the works of the law, is here proclaimed for the first time in Paul's recorded preaching. When the Jewish leadership opposes the message the following Sabbath, Paul and Barnabas make a declaration of historic consequence: "Since you thrust it aside and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles" (13:46), quoting Isaiah 49:6. The Gentiles rejoice, many believe, and the word of the Lord spreads throughout the region.
+The sermon climaxes with a declaration that stands as a summary of Pauline theology: "Through this man forgiveness of sins is proclaimed to you, and by him everyone who believes is freed from everything from which you could not be freed by the law of Moses" (13:38-39). The Greek word dikaiōthēnai ("freed" or "justified") is the verbal form of the noun Paul will develop extensively in Romans and Galatians. Justification by faith, apart from the works of the law, is here proclaimed for the first time in Paul's recorded preaching. When the Jewish leadership opposes the message the following Sabbath, Paul and Barnabas make a declaration of historic consequence: "Since you thrust it aside and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles" (13:46), citing Isaiah 49:6 in the next verse (13:47). The Gentiles rejoice, many believe, and the word of the Lord spreads throughout the region.
 
 ## Key Themes
 - **Spirit-initiated mission** -- The first missionary journey originates not in human planning but in the direct command of the Holy Spirit during worship
@@ -47,8 +47,8 @@ The sermon climaxes with a declaration that stands as a summary of Pauline theol
 
 ## Connections
 - **Old Testament Roots**: Psalm 2:7 (the Sonship of the Messiah); Psalm 16:10 (the Holy One will not see corruption); Isaiah 49:6 (light to the Gentiles); Isaiah 55:3 (the sure mercies of David)
-- **New Testament Echoes**: Romans 1:16-17 (the gospel to the Jew first, then the Gentile); Romans 3:21-26 (justification by faith apart from law); Galatians 2:16 (justified by faith in Christ)
-- **Parallel Passages**: Acts 2:14-41 (Peter's Pentecost sermon for comparison); Acts 9:15-16 (Paul's commission to carry Christ's name before Gentiles and kings)
+- **New Testament Echoes**: Romans 1:16-17 (the gospel to the Jew first, then the Gentile); Romans 3:21-26 (justification by faith apart from law); Galatians 2:16 (justified by faith in Christ); Acts 2:14-41 (Peter's Pentecost sermon for comparison)
+- **Parallel Passages**: Acts 9:15-16 (Paul's commission to carry Christ's name before Gentiles and kings); Acts 26:16-18 (that commission restated before Agrippa)
 
 ## Reflection Questions
 1. What does the diversity of the Antioch leadership team (Acts 13:1) reveal about the kind of community the Holy Spirit builds?

@@ -3,7 +3,7 @@ week: 14
 day: 3
 title: Raising of Lazarus — I Am the Resurrection and the Life
 reading: John 11:1-44
-parallel_passages: John 5:21-29, Ezekiel 37:1-14, 1 Kings 17:17-24, 2 Kings 4:32-37
+parallel_passages: Luke 7:11-17; Mark 5:35-43
 section: Road to Jerusalem
 tags:
 - lazarus

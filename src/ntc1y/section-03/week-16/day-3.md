@@ -3,7 +3,7 @@ week: 16
 day: 3
 title: Signs of the End
 reading: Matthew 24
-parallel_passages: Mark 13, Luke 21, Daniel 9:27, Daniel 12:1-3, 1 Thessalonians 4:13-18
+parallel_passages: Mark 13; Luke 21
 section: Road to Jerusalem
 tags:
 - olivet-discourse

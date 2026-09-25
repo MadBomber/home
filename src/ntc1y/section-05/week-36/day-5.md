@@ -3,8 +3,6 @@ week: 36
 day: 5
 title: God's Sovereign Choice, Potter and Clay, Israel's Rejection
 reading: Romans 9
-parallel_passages: Exodus 33:19; Isaiah 29:16; Isaiah 45:9; Jeremiah 18:1-10; Malachi
-  1:2-3
 section: The Early Church
 tags:
 - romans
@@ -50,7 +48,6 @@ Paul closes the chapter by identifying the specific cause of Israel's stumbling:
 ## Connections
 - **Old Testament Roots**: Genesis 25:19-26 (Jacob and Esau); Exodus 33:19 (God's sovereign mercy); Exodus 9:16 (the purpose for Pharaoh); Isaiah 29:16, 45:9 (potter and clay); Jeremiah 18:1-10 (the potter's house); Malachi 1:2-3 (Jacob I loved, Esau I hated); Hosea 2:23 and 1:10 (calling Gentiles God's people); Isaiah 10:22-23 (the remnant)
 - **New Testament Echoes**: Ephesians 1:4-5, 11 (predestination and election); 2 Timothy 2:20-21 (vessels of honor and dishonor); John 6:37, 44 (those the Father gives to Christ)
-- **Parallel Passages**: Exodus 33:19; Isaiah 29:16; Isaiah 45:9; Jeremiah 18:1-10; Malachi 1:2-3
 
 ## Reflection Questions
 1. Paul lists eight privileges that belong to Israel (verses 4-5). Why is this catalogue important for understanding the weight of Israel's rejection? What does it tell us about the seriousness of spiritual privilege?

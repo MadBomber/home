@@ -41,7 +41,7 @@ The book's final chapters (21-22) bring the entire biblical narrative to its bre
 - **[The Dragon](/characters/satan/)** -- Satan, the ancient serpent, thrown from heaven and waging war against the woman's offspring.
 - **[The Two Beasts](/characters/the-two-beasts/)** -- The beast from the sea (political/imperial power) and the beast from the earth (false prophet/religious deception), together forming an unholy parody of divine authority.
 - **The Two Witnesses** -- Prophetic figures who testify during the tribulation, modeled on Moses and Elijah.
-- **[The Great Multitude](/locations/heaven/)** -- An innumerable throng from every nation, standing before the throne in white robes, washed in the Lamb's blood.
+- **The Great Multitude** -- An innumerable throng from every nation, standing before the throne in white robes, washed in the Lamb's blood.
 - **[The Bride](/locations/new-jerusalem/)** -- The New Jerusalem, the holy city, the people of God prepared for eternal union with the Lamb.
 
 ## Key Locations

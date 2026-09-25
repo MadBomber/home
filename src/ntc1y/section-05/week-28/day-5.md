@@ -3,15 +3,13 @@ week: 28
 day: 5
 title: Paul Returns to Antioch via Ephesus, Third Journey Begins, Apollos
 reading: Acts 18:18-28
-parallel_passages: Acts 19:1; 1 Corinthians 1:12; 1 Corinthians 3:4-9; 1 Corinthians
-  16:12
 section: The Early Church
 tags:
-- day-of-the-lord
-- eschatology
-- thessalonians
-- idleness
 - apollos
+- priscilla-aquila
+- ephesus
+- nazirite-vow
+- third-missionary-journey
 layout: page
 study_slug: ntc1y
 ---
@@ -49,8 +47,6 @@ The result of this instruction is remarkable: when Apollos crosses to Achaia (th
 ## Connections
 - **Old Testament Roots**: The Nazirite vow is described in Numbers 6:1-21; the concept of going up to Jerusalem echoes the Psalms of Ascent (Psalms 120-134); Apollos's Alexandrian background connects to the tradition of Jewish wisdom literature and the Septuagint, which was produced in Alexandria
 - **New Testament Echoes**: Apollos becomes a major figure in the Corinthian correspondence (1 Corinthians 1:12, 3:4-9, 4:6, 16:12); Priscilla and Aquila are commended in Romans 16:3-4 and 2 Timothy 4:19; the "disciples of John" theme continues in Acts 19:1-7
-- **Parallel Passages**: Acts 19:1 (Paul arrives in Ephesus after Apollos leaves); 1 Corinthians 1:12 and 3:4-9 (Apollos in Corinth); 1 Corinthians 16:12 (Paul's regard for Apollos)
-
 ## Reflection Questions
 1. Paul continued to practice Jewish customs like the Nazirite vow even while insisting that Gentiles were free from the law. What does this teach us about the difference between personal devotion and universal obligation?
 2. Priscilla and Aquila corrected Apollos privately rather than publicly. What can we learn from their approach about how to address theological gaps or errors in gifted people?

@@ -3,8 +3,6 @@ week: 47
 day: 5
 title: Run the Race, Fix Eyes on Jesus
 reading: Hebrews 12
-parallel_passages: Proverbs 3:11-12, Deuteronomy 9:19, Exodus 19:12-22, Genesis 25:29-34,
-  Haggai 2:6, Revelation 21:1-4
 section: Letters and Revelation
 tags:
 - hebrews
@@ -49,7 +47,6 @@ The chapter concludes: if those who refused the voice at Sinai did not escape, "
 
 - **Old Testament Roots**: The chapter draws on Proverbs 3:11-12 (divine discipline), Deuteronomy 9:19 (Moses trembling), Deuteronomy 29:18 (bitter root), Genesis 25:29-34 (Esau's birthright), Haggai 2:6 (shaking heaven and earth), and Deuteronomy 4:24 (consuming fire). The Sinai theophany of Exodus 19-20 stands behind the entire mountain contrast.
 - **New Testament Echoes**: The cloud of witnesses connects directly to Hebrews 11. The pioneer and perfecter language echoes Hebrews 2:10. The sprinkled blood that speaks better than Abel's recalls Hebrews 9:13-14. Revelation 21:1-4 develops the heavenly Jerusalem imagery further. James 1:2-4 similarly presents trials as producing maturity.
-- **Parallel Passages**: Proverbs 3:11-12 (discipline), Exodus 19:12-22 (Sinai), Genesis 25:29-34 (Esau), Haggai 2:6 (cosmic shaking), Revelation 21:1-4 (new Jerusalem), 1 Corinthians 9:24-27 (running the race)
 
 ## Reflection Questions
 

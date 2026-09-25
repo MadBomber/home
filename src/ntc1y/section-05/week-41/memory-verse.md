@@ -10,7 +10,7 @@ verse_text: "Have this mind among yourselves, which is yours in Christ Jesus, wh
 translation: ESV
 connections:
   - "Day 4 — Paul introduces this hymn in the context of calling the Philippians to humility and unity, making Christ's self-emptying the pattern for all Christian relationships"
-  - "Day 3 — The armor of God in Ephesians 6 equips believers to stand firm, but this passage reveals that the deepest strength comes through the opposite of self-assertion: self-emptying"
+  - "Day 2 — The armor of God in Ephesians 6 equips believers to stand firm, but this passage reveals that the deepest strength comes through the opposite of self-assertion: self-emptying"
   - "Day 5 — Paul's own example in Philippians 3, counting all his achievements as loss for the sake of knowing Christ, mirrors the downward trajectory of the hymn: letting go of status to gain something infinitely greater"
 study_slug: ntc1y
 ---

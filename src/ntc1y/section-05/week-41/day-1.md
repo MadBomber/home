@@ -3,7 +3,7 @@ week: 41
 day: 1
 title: Walk in Love, Be Filled with the Spirit
 reading: Ephesians 5
-parallel_passages: Genesis 2:24, Colossians 3:18-19, 1 Peter 3:1-7, Song of Solomon
+parallel_passages: Colossians 3:18-19; 1 Peter 3:1-7
 section: The Early Church
 tags:
 - ephesians
@@ -42,8 +42,8 @@ It is essential to read this passage within its full context. Paul is not endors
 
 ## Connections
 - **Old Testament Roots**: Genesis 2:24 (one flesh); Hosea 1-3 (God as faithful husband to unfaithful Israel); Song of Solomon (the celebration of covenantal love); Leviticus 1:9 (the fragrant offering)
-- **New Testament Echoes**: Colossians 3:16-19 (parallel household code); John 13:34 (love one another as I have loved you); Revelation 19:7-9 (the marriage supper of the Lamb)
-- **Parallel Passages**: Genesis 2:24, Colossians 3:18-19, 1 Peter 3:1-7, Song of Solomon
+- **New Testament Echoes**: John 13:34 (love one another as I have loved you); Revelation 19:7-9 (the marriage supper of the Lamb)
+- **Parallel Passages**: Colossians 3:18-19 (parallel household code); 1 Peter 3:1-7 (parallel instructions to wives and husbands)
 
 ## Reflection Questions
 1. What specific behaviors does Paul identify as belonging to "darkness" in verses 3-12, and how does his language of "light" and "exposure" shape the way believers should engage with the surrounding culture?

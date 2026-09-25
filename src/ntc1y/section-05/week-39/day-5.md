@@ -3,7 +3,7 @@ week: 39
 day: 5
 title: Storm and Shipwreck
 reading: Acts 27
-parallel_passages: Jonah 1, Psalm 107:23-32, 2 Corinthians 11:25-27, Acts 28:1
+parallel_passages: 2 Corinthians 11:25-27
 section: The Early Church
 tags:
 - acts
@@ -23,7 +23,7 @@ Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Acts.27" targe
 
 ## Historical Context
 
-Acts 27 is one of the most remarkable chapters in ancient literature. Scholars of maritime history, navigation, and Mediterranean seamanship regard it as the most detailed and technically accurate account of an ancient sea voyage that has survived from antiquity. Every detail -- the names of ports, the direction of winds, the seasonal sailing calendar, the procedures for undergirding a ship, the casting of anchors from the stern, the jettisoning of cargo and tackle -- has been verified by archaeological and historical research. James Smith, a nineteenth-century yachtsman and classicist, sailed the same route and published "The Voyage and Shipwreck of St. Paul" (1848), concluding that Luke's account could only have been written by an eyewitness. The vivid "we" narrative, which resumes at Acts 20:5, confirms Luke's personal presence on the ship.
+Acts 27 is one of the most remarkable chapters in ancient literature. Scholars of maritime history, navigation, and Mediterranean seamanship regard it as the most detailed and technically accurate account of an ancient sea voyage that has survived from antiquity. Every detail -- the names of ports, the direction of winds, the seasonal sailing calendar, the procedures for undergirding a ship, the casting of anchors from the stern, the jettisoning of cargo and tackle -- has been verified by archaeological and historical research. James Smith, a nineteenth-century yachtsman and classicist, sailed the same route and published "The Voyage and Shipwreck of St. Paul" (1848), concluding that Luke's account could only have been written by an eyewitness. The vivid "we" narrative, which resumes at Acts 27:1, confirms Luke's personal presence on the ship.
 
 The voyage begins at Caesarea, where Paul, along with other prisoners, is placed in the custody of a centurion named Julius of the Augustan Cohort (27:1). The designation "Augustan Cohort" (speiras Sebastes) has been confirmed by inscriptional evidence; it was an auxiliary unit stationed in the province of Syria. Julius treats Paul with unusual courtesy -- allowing him to visit friends at Sidon (27:3) -- a detail consistent with the respectful treatment Paul received throughout his Roman custody. The initial ship was a coastal vessel from Adramyttium (a port in Asia Minor) sailing along the coast. At Myra in Lycia, Julius transfers his prisoners to a much larger grain ship from Alexandria (27:6). These Alexandrian grain ships were among the largest vessels in the ancient Mediterranean -- some carrying as many as 600 passengers and thousands of tons of wheat. Rome depended on Egyptian grain, and the grain fleet was the lifeline of the empire. The ship Paul boarded carried 276 passengers (27:37), a number that has been questioned by some scholars but is well within the capacity of known Alexandrian grain freighters.
 
@@ -44,8 +44,8 @@ At dawn, they spot a bay with a beach and attempt to run the ship aground. The b
 
 ## Connections
 - **Old Testament Roots**: Jonah 1 (a prophet on a storm-tossed ship, where pagans learn to fear the Lord); Psalm 107:23-32 (those who go down to the sea in ships and cry out to the Lord in their trouble); Exodus 14 (God's deliverance through the sea); Isaiah 43:2 ("When you pass through the waters, I will be with you")
-- **New Testament Echoes**: Mark 4:35-41 (Jesus calming the storm -- "Peace, be still"); 2 Corinthians 11:25-27 (Paul's catalog of shipwrecks and dangers at sea); Acts 23:11 (the Lord's promise that Paul must testify in Rome); Philippians 4:6-7 (peace through prayer in every circumstance)
-- **Parallel Passages**: Acts 28:1-10 (the aftermath on Malta); Luke 22:19 (Jesus breaking bread); Acts 2:42 (the breaking of bread in the early church)
+- **New Testament Echoes**: Mark 4:35-41 (Jesus calming the storm -- "Peace, be still"); 2 Corinthians 11:25-27 (Paul's catalog of shipwrecks and dangers at sea); Acts 23:11 (the Lord's promise that Paul must testify in Rome); Luke 22:19 (Jesus breaking bread at the Last Supper); Philippians 4:6-7 (peace through prayer in every circumstance)
+- **Parallel Passages**: 2 Corinthians 11:25-27 (Paul's own testimony of shipwrecks and dangers at sea)
 
 ## Reflection Questions
 1. Luke's account of the voyage is filled with technical nautical details. What does this level of historical specificity contribute to the trustworthiness of his narrative? How does it affect your reading of the miraculous elements?

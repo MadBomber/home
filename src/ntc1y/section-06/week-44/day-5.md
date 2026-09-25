@@ -3,7 +3,7 @@ week: 44
 day: 5
 title: Fan Into Flame
 reading: 2 Timothy 1
-parallel_passages: Acts 16:1-3, Romans 1:16, 1 Timothy 4:14, Philippians 1:6
+parallel_passages: Acts 16:1-3; 1 Timothy 4:14
 section: Letters and Revelation
 tags:
 - 2-timothy
@@ -50,7 +50,7 @@ The chapter closes with two contrasting portraits of faithfulness and abandonmen
 
 - **Old Testament Roots**: The multi-generational faith of Lois, Eunice, and Timothy echoes the Deuteronomic emphasis on parents teaching children the faith (Deuteronomy 6:4-9). Paul's description of serving God "as my ancestors did" connects his Christian faith to the larger sweep of Jewish covenant history. The "guard the deposit" language echoes the Levitical responsibility to guard the sacred objects of the tabernacle.
 - **New Testament Echoes**: The "not ashamed" theme connects to Romans 1:16 ("I am not ashamed of the gospel"). The ordination with laying on of hands parallels 1 Timothy 4:14 and Acts 13:1-3. The creedal summary of 1:9-10 parallels the salvation formula in Titus 3:4-7. Onesiphorus' courage in visiting Paul contrasts with the desertion described in 4:10-16.
-- **Parallel Passages**: Acts 16:1-3 (Timothy's recruitment), Romans 1:16 (not ashamed of the gospel), 1 Timothy 4:14 (gift given through prophecy), Philippians 1:6 (God will complete the work He began)
+- **Parallel Passages**: Acts 16:1-3 (Timothy's recruitment); 1 Timothy 4:14 (gift given through prophecy)
 
 ## Reflection Questions
 

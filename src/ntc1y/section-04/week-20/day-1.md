@@ -3,7 +3,7 @@ week: 20
 day: 1
 title: The Crucifixion According to Matthew
 reading: Matthew 27
-parallel_passages: Psalm 22, Isaiah 53, Mark 15, Luke 23, John 18-19
+parallel_passages: Mark 15; Luke 23; John 18-19
 section: Passion and Resurrection
 tags:
 - crucifixion

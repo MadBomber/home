@@ -3,8 +3,7 @@ week: 20
 day: 3
 title: Crucified and Risen
 reading: Mark 15:21-47, Mark 16
-parallel_passages: Matthew 27:32-28:20, Luke 23:26-24:53, John 19:17-21:25, Psalm
-  22
+parallel_passages: Matthew 27:32-28:20; Luke 23:26-24:53; John 19:17-21:25
 section: Passion and Resurrection
 tags:
 - crucifixion

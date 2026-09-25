@@ -3,7 +3,6 @@ week: 47
 day: 1
 title: Jesus Ministers in the True Heavenly Tabernacle
 reading: Hebrews 8
-parallel_passages: Jeremiah 31:31-34, Exodus 25:40, 2 Corinthians 3:6, Luke 22:20
 section: Letters and Revelation
 tags:
 - hebrews
@@ -46,7 +45,6 @@ The pastoral urgency behind this theology cannot be overstated. The original aud
 
 - **Old Testament Roots**: The chapter's argument rests on Exodus 25:40 (the heavenly pattern) and quotes extensively from Jeremiah 31:31-34 (the new covenant). The concept of the tabernacle as a copy reflects the broader Old Testament theology of God's dwelling place among his people (Exodus 29:45-46).
 - **New Testament Echoes**: Jesus himself inaugurated the new covenant at the Last Supper: "This cup is the new covenant in my blood" (Luke 22:20). Paul develops new covenant ministry in 2 Corinthians 3:6-18. The contrast between letter and spirit runs throughout Galatians and Romans.
-- **Parallel Passages**: Jeremiah 31:31-34 (the new covenant prophecy), Exodus 25:40 (the pattern on the mountain), 2 Corinthians 3:6 (ministers of a new covenant), Luke 22:20 (the cup of the new covenant)
 
 ## Reflection Questions
 

@@ -3,16 +3,13 @@ week: 29
 day: 3
 title: God's Wisdom Revealed by the Spirit, Mind of Christ
 reading: 1 Corinthians 2
-parallel_passages: Isaiah 64:4; Isaiah 40:13; Romans 8:26-27; Romans 11:33-36; John
-  14:26
 section: The Early Church
 tags:
-- ephesus
-- corinthians
-- divisions
-- wisdom
-- cross
-- spiritual-maturity
+- spiritual-wisdom
+- holy-spirit-revelation
+- mind-of-christ
+- christ-crucified
+- discernment
 layout: page
 study_slug: ntc1y
 ---
@@ -50,8 +47,6 @@ The chapter concludes with one of Paul's most audacious claims: "we have the min
 ## Connections
 - **Old Testament Roots**: Paul quotes Isaiah 64:4 (what God has prepared) and Isaiah 40:13 (who has known the mind of the Lord); the concept of the Spirit revealing divine secrets echoes Daniel 2:22-23, 28 (God reveals mysteries)
 - **New Testament Echoes**: The Spirit's role in revelation parallels John 14:26 and 16:13 (the Spirit will guide you into all truth); the distinction between natural and spiritual persons anticipates Romans 8:5-9 (those who live according to the flesh vs. the Spirit)
-- **Parallel Passages**: Romans 8:26-27 (the Spirit intercedes); Romans 11:33-36 (the depth of God's wisdom); John 14:26 (the Spirit will teach you all things)
-
 ## Reflection Questions
 1. Paul deliberately chose a humble, Spirit-dependent mode of preaching rather than impressive rhetoric. In your experience, when has flashy presentation actually obscured the gospel? When has simplicity allowed God's power to be more visible?
 2. Paul says the "natural person" cannot understand spiritual things because they are "spiritually discerned." How does this shape the way you approach sharing the gospel with people who find Christianity foolish or irrelevant?

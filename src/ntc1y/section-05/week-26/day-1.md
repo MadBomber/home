@@ -3,15 +3,14 @@ week: 26
 day: 1
 title: Jerusalem Council — Must Gentiles Be Circumcised?
 reading: Acts 15
-parallel_passages: Galatians 2:1-10; Acts 10:1-48; Acts 11:1-18; Genesis 17:9-14
+parallel_passages: Acts 10:1-48; Acts 11:1-18; Galatians 2:1-10
 section: The Early Church
 tags:
 - jerusalem-council
-- second-missionary-journey
-- timothy
-- philippi
-- athens
-- areopagus
+- gentile-inclusion
+- circumcision
+- james
+- salvation-by-grace
 layout: page
 study_slug: ntc1y
 ---
@@ -48,8 +47,8 @@ The chapter closes with an unexpected rupture. Paul and Barnabas disagree sharpl
 
 ## Connections
 - **Old Testament Roots**: Genesis 17:9-14 (the circumcision covenant); Amos 9:11-12 (restoration of David's booth and Gentile inclusion); Leviticus 17-18 (laws for resident aliens that may underlie the council's four requirements)
-- **New Testament Echoes**: Galatians 2:1-10 (Paul's own account of the Jerusalem meeting, likely the same event); Romans 3:21-31 (justification by faith apart from the law); Ephesians 2:8-9 (saved by grace through faith)
-- **Parallel Passages**: Acts 10:1-48 (the Cornelius conversion Peter references); Acts 11:1-18 (Peter's earlier defense of Gentile inclusion)
+- **New Testament Echoes**: Romans 3:21-31 (justification by faith apart from the law); Ephesians 2:8-9 (saved by grace through faith)
+- **Parallel Passages**: Acts 10:1-48 (the Cornelius conversion Peter references); Acts 11:1-18 (Peter's earlier defense of Gentile inclusion); Galatians 2:1-10 (Paul's own account of the Jerusalem meeting, likely the same event)
 
 ## Reflection Questions
 1. What three lines of evidence does the council consider -- Peter's experience, Paul and Barnabas' missionary testimony, and James' scriptural argument -- and how does each contribute to the final decision?

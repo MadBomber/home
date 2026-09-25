@@ -3,8 +3,7 @@ week: 40
 day: 4
 title: The Mystery Revealed, Prayer for Power
 reading: Ephesians 3
-parallel_passages: Colossians 1:24-29; Romans 16:25-27; Galatians 3:6-9, 26-29; Romans
-  11:33-36
+parallel_passages: Colossians 1:24-29
 section: The Early Church
 tags:
 - ephesians
@@ -40,7 +39,7 @@ Paul's prayer (verses 14-21) is one of the most expansive intercessions in Scrip
 
 Paul then prays that the Ephesians would be "rooted and grounded in love" (verse 17), using botanical and architectural metaphors simultaneously -- like a tree with deep roots and a building with a strong foundation, both anchored in the soil of love. From this foundation, Paul asks that they would "have strength to comprehend with all the saints what is the breadth and length and height and depth" (verse 18). Of what? Paul does not complete the phrase. The four dimensions may refer to the love of Christ, the wisdom of God, or the mystery of the gospel. The deliberate open-endedness suggests that the reality being described exceeds any single category. And then the paradox: he prays that they would "know the love of Christ that surpasses knowledge" (verse 19). You can know a love that exceeds knowing. This is not anti-intellectual mysticism; it is the recognition that the deepest realities of God are experienced before they are analyzed, encountered before they are explained.
 
-The chapter concludes with a doxology that has become one of the most beloved benedictions in Christian worship: "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen" (verses 20-21). The phrase "immeasurably more" translates hyperekperissou -- a triple compound word meaning "super-abundantly beyond excess." God's capacity to act exceeds not only what we request but what we can conceive. And this power is not external to the believer; it is "at work within us" -- the same dynamis Paul prayed for in verse 16. The doxology gives glory to God "in the church and in Christ Jesus," binding the two together. Christ and his church are the dual location of God's ongoing glory in the world.
+The chapter concludes with a doxology that has become one of the most beloved benedictions in Christian worship: "Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us, to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen" (verses 20-21). The phrase "far more abundantly" translates hyperekperissou -- a triple compound word meaning "super-abundantly beyond excess." God's capacity to act exceeds not only what we request but what we can conceive. And this power is not external to the believer; it is "at work within us" -- the same dynamis Paul prayed for in verse 16. The doxology gives glory to God "in the church and in Christ Jesus," binding the two together. Christ and his church are the dual location of God's ongoing glory in the world.
 
 ## Key Themes
 - **The mystery of Gentile inclusion** -- The long-hidden plan of God to make Gentiles full co-heirs, co-members, and co-sharers in the promise has been revealed through the gospel, overturning every ethnic and religious boundary
@@ -49,8 +48,8 @@ The chapter concludes with a doxology that has become one of the most beloved be
 
 ## Connections
 - **Old Testament Roots**: Genesis 12:3 (in Abraham all nations blessed); Isaiah 49:6 (a light to the nations); Isaiah 56:6-7 (foreigners welcomed to God's house); Daniel 2:47 (God as revealer of mysteries)
-- **New Testament Echoes**: Colossians 1:24-29 (the mystery hidden for ages, now revealed -- Christ in you, the hope of glory); Romans 16:25-27 (the mystery kept secret for long ages but now disclosed); Galatians 3:26-29 (all one in Christ Jesus, Abraham's offspring); Romans 11:33-36 (the depth of the riches and wisdom of God)
-- **Parallel Passages**: Colossians 1:24-29; Romans 16:25-27; Galatians 3:6-9, 26-29; Romans 11:33-36
+- **New Testament Echoes**: Romans 16:25-27 (the mystery kept secret for long ages but now disclosed); Galatians 3:26-29 (all one in Christ Jesus, Abraham's offspring); Romans 11:33-36 (the depth of the riches and wisdom of God)
+- **Parallel Passages**: Colossians 1:24-29 (the mystery hidden for ages, now revealed -- Christ in you, the hope of glory)
 
 ## Reflection Questions
 1. Paul describes himself as "the very least of all the saints" despite being arguably the most influential apostle. How does genuine awareness of past failure coexist with confident ministry in the present? What does Paul's example teach about the relationship between humility and boldness?

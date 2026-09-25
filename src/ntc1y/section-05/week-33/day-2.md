@@ -3,8 +3,6 @@ week: 33
 day: 2
 title: Ambassadors for Christ
 reading: 2 Corinthians 5
-parallel_passages: Romans 8:18-25; 1 Corinthians 15:35-58; Philippians 1:21-24; Colossians
-  1:19-22
 section: The Early Church
 tags:
 - 2-corinthians
@@ -31,7 +29,7 @@ The phrase "at home with the Lord" (endemeo pros ton kyrion) uses a word that me
 
 Verses 14-15 introduce the theological engine that drives everything: "For the love of Christ controls us, because we have concluded this: that one has died for all, therefore all have died; and he died for all, that those who live might no longer live for themselves but for him who for their sake died and was raised." The Greek verb translated "controls" (synecho) means to constrain, to hem in, to leave no alternative. Paul is not speaking of a warm feeling but an overwhelming compulsion. Christ's substitutionary death -- "one died for all" -- creates a new reality in which self-centered existence is no longer possible for those who truly grasp what happened at the cross.
 
-This leads to one of the most quoted verses in Scripture: "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come" (5:17). The phrase "new creation" (kaine ktisis) echoes the prophetic hope of Isaiah 65:17 ("Behold, I create new heavens and a new earth") and places each individual believer within the scope of God's cosmic renewal. The word kaine means new in quality, not merely new in time -- a fundamentally different kind of existence has begun. Paul uses the perfect tense ("has passed away") and the aorist ("has come") to indicate that this new creation is already a settled reality, even though its full manifestation remains future.
+This leads to one of the most quoted verses in Scripture: "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come" (5:17). The phrase "new creation" (kaine ktisis) echoes the prophetic hope of Isaiah 65:17 ("Behold, I create new heavens and a new earth") and places each individual believer within the scope of God's cosmic renewal. The word kaine means new in quality, not merely new in time -- a fundamentally different kind of existence has begun. Paul uses the aorist tense ("has passed away") and the perfect ("has come") to indicate that this new creation is already a settled reality, even though its full manifestation remains future.
 
 The climax of the chapter is the ministry of reconciliation (vv. 18-21). The Greek word katallage (reconciliation) comes from the root allasso, meaning to change or exchange. Reconciliation implies that a state of enmity has been replaced by a state of peace. Paul insists that the initiative belongs entirely to God: "All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation" (5:18). The stunning claim is that God was "in Christ reconciling the world to himself, not counting their trespasses against them" (5:19). The verb "counting" (logizomai) is an accounting term -- God has decided not to enter humanity's sins on the ledger. This is not because sin does not matter but because God has dealt with it at the cross.
 
@@ -45,7 +43,6 @@ Verse 20 introduces the metaphor of ambassador (presbeuomen, literally "we serve
 ## Connections
 - **Old Testament Roots**: Isaiah 43:18-19 (God doing a new thing); Isaiah 52:7 (beautiful feet of those who bring good news of peace); Isaiah 65:17 (new heavens and new earth); Leviticus 16 (Day of Atonement -- sin transferred to the scapegoat)
 - **New Testament Echoes**: Romans 5:6-11 (reconciliation through Christ's death); Galatians 6:15 (new creation); Ephesians 2:14-16 (Christ breaking down the dividing wall); Colossians 1:19-22 (reconciliation through the blood of his cross)
-- **Parallel Passages**: Romans 8:18-25; 1 Corinthians 15:35-58; Philippians 1:21-24
 
 ## Reflection Questions
 1. What specific images does Paul use to describe the contrast between our present mortal existence and our future resurrection life, and what do these images reveal about his view of death?

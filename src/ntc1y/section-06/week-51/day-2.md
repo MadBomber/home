@@ -3,8 +3,6 @@ week: 51
 day: 2
 title: Letters to Ephesus, Smyrna, Pergamum, Thyatira
 reading: Revelation 2
-parallel_passages: Ephesians 1-3, Genesis 2:9, Daniel 1:12-16, Numbers 25:1-3, 1 Kings
-  16:31
 section: Letters and Revelation
 tags:
 - revelation
@@ -47,7 +45,6 @@ Christ identifies himself with "eyes like a flame of fire, and whose feet are li
 ## Connections
 - **Old Testament Roots**: Genesis 2:9 (the tree of life, promised to the Ephesian overcomer); Numbers 25:1-3 and 31:16 (Balaam's strategy of seduction through idolatry and sexual immorality); 1 Kings 16:31 and 2 Kings 9:22 (Jezebel's promotion of Baal worship in Israel); Psalm 2:8-9 (the Messiah's authority over the nations, promised to the Thyatiran overcomer)
 - **New Testament Echoes**: Ephesians 1-3 (Paul's earlier letter to Ephesus, rich in theology of love and unity); Acts 16:14 (Lydia from Thyatira); 1 Corinthians 8-10 (Paul's extensive discussion of food sacrificed to idols — the same issue at Pergamum and Thyatira); Matthew 24:13 ("the one who endures to the end will be saved")
-- **Parallel Passages**: Ephesians 1-3, Genesis 2:9, Daniel 1:12-16, Numbers 25:1-3, 1 Kings 16:31
 
 ## Reflection Questions
 1. The Ephesian church was doctrinally vigilant but had abandoned its first love. How do you guard against the tendency to prioritize being right over being loving? Can you think of a time when theological correctness came at the expense of genuine love for others?

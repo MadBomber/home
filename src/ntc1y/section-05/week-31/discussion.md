@@ -85,7 +85,7 @@ Paul's overarching principle in chapters 10-14 is that everything in worship and
 
 ## Memory Verse
 
-> "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres."
+> "Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrongdoing, but rejoices with the truth. Love bears all things, believes all things, hopes all things, endures all things."
 > -- 1 Corinthians 13:4-7
 
 *Alternative:*

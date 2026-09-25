@@ -3,8 +3,7 @@ week: 34
 day: 1
 title: Cheerful Giving
 reading: 2 Corinthians 9
-parallel_passages: 2 Corinthians 8; 1 Corinthians 16:1-4; Proverbs 11:24-25; Malachi
-  3:10; Acts 4:32-37
+parallel_passages: 2 Corinthians 8; 1 Corinthians 16:1-4; Romans 15:25-28; Galatians 2:10
 section: The Early Church
 tags:
 - 2-corinthians

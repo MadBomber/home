@@ -3,10 +3,7 @@ week: 3
 day: 5
 reading: John 4
 title: Samaritan Woman at the Well, Official's Son Healed
-parallel_passages:
-- Matthew 4:12
-- Mark 1:14
-- Luke 4:14
+parallel_passages: Matthew 4:12; Mark 1:14; Luke 4:14
 tags:
 - samaritan-woman
 - living-water
@@ -49,7 +46,7 @@ But the Old Testament uses "living water" as a metaphor for God himself. Jeremia
 
 ### The Woman's History and Jesus' Knowledge
 
-The conversation about the woman's five husbands (4:16-18) has been interpreted on multiple levels. At the literal level, Jesus displays supernatural knowledge (*prophetic insight*) that convinces the woman he is a prophet. But some scholars see a deeper typological layer: 2 Kings 17:30-31 lists five foreign gods worshiped by the five peoples resettled in Samaria by Assyria. The "husband" the woman now has, who is "not her husband," could represent the Samaritans' current ambiguous relationship with the God of Israel -- related but not legitimate. Whether or not John intends this allusion, the woman's response is telling: she immediately pivots to the central theological dispute between Jews and Samaritans -- the proper place of worship (4:19-20).
+The conversation about the woman's five husbands (4:16-18) has been interpreted on multiple levels. At the literal level, Jesus displays supernatural knowledge (*prophetic insight*) that convinces the woman he is a prophet. But some scholars see a deeper typological layer: 2 Kings 17:30-31 lists the gods worshiped by the five peoples resettled in Samaria by Assyria. The "husband" the woman now has, who is "not her husband," could represent the Samaritans' current ambiguous relationship with the God of Israel -- related but not legitimate. Whether or not John intends this allusion, the woman's response is telling: she immediately pivots to the central theological dispute between Jews and Samaritans -- the proper place of worship (4:19-20).
 
 ### "In Spirit and Truth" -- A New Worship
 

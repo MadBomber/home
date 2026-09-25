@@ -41,7 +41,7 @@ Chapter 7 brings emotional resolution. The godly sorrow that Paul's tearful lett
 - **[Paul](/characters/paul/)** -- Apostle writing with raw vulnerability, defending his ministry through the lens of weakness.
 - **[Titus](/characters/titus/)** -- Paul's trusted delegate who carried the tearful letter to Corinth and returned with good news.
 - **The "super-apostles"** -- False teachers who challenged Paul's authority and impressed the Corinthians with polished rhetoric.
-- **[The Macedonian churches](/locations/macedonia/)** -- Impoverished congregations (Philippi, Thessalonica, Berea) whose generosity shamed wealthier Corinth.
+- **The Macedonian churches** -- Impoverished congregations (Philippi, Thessalonica, Berea) whose generosity shamed wealthier Corinth.
 
 ## Key Locations
 

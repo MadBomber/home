@@ -3,7 +3,6 @@ week: 45
 day: 2
 title: All Scripture Is God-Breathed
 reading: 2 Timothy 3
-parallel_passages: Romans 1:28-32; Psalm 119:105; 2 Peter 1:20-21; Jude 1:17-19
 section: Letters and Revelation
 tags:
 - 2-timothy
@@ -43,7 +42,6 @@ The contrast Paul draws in this chapter is stark: evil people and imposters will
 ## Connections
 - **Old Testament Roots**: Psalm 119:105 ("Your word is a lamp for my feet, a light on my path") and the entire Psalm 119 celebration of Torah anticipate Paul's affirmation of Scripture's sufficiency. The reference to Jannes and Jambres connects to Exodus 7:11-12, 22 (the Egyptian magicians). Isaiah 55:10-11 affirms that God's word accomplishes its purpose.
 - **New Testament Echoes**: 2 Peter 1:20-21 parallels Paul's teaching on inspiration ("men spoke from God as they were carried along by the Holy Spirit"). Romans 1:28-32 offers a similar vice catalogue describing human depravity. Jesus' own use of Scripture against temptation (Matthew 4:1-11) demonstrates its sufficiency in practice.
-- **Parallel Passages**: Jude 17-19 (scoffers in the last time); 2 Peter 3:3 (scoffers in the last days); Romans 15:4 (everything written for our instruction)
 
 ## Reflection Questions
 1. Which items in Paul's vice catalogue of the "last days" (vv. 2-5) do you see most prominently in the culture around you, and which ones do you need to guard against in your own heart?

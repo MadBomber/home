@@ -9,9 +9,9 @@ memory_verse: "2 Corinthians 12:9"
 verse_text: "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me."
 translation: ESV
 connections:
-  - "Day 3 — Paul shares this divine response to his three-time prayer for relief from his 'thorn in the flesh,' revealing that God's answer to suffering is not always removal but presence"
-  - "Day 1 — Paul's 'fool's speech' in 2 Corinthians 11 catalogs his sufferings and credentials, setting up the paradox: his weakness is his greatest qualification"
-  - "Day 4 — The conclusion of 2 Corinthians in chapter 13 applies this principle to the whole church: 'examine yourselves to see whether you are in the faith' — strength comes from Christ dwelling in you, not from self-sufficiency"
+  - "Day 4 — Paul shares this divine response to his three-time prayer for relief from his 'thorn in the flesh,' revealing that God's answer to suffering is not always removal but presence"
+  - "Day 3 — Paul's 'fool's speech' in 2 Corinthians 11 catalogs his sufferings and credentials, setting up the paradox: his weakness is his greatest qualification"
+  - "Day 5 — The conclusion of 2 Corinthians in chapter 13 applies this principle to the whole church: 'examine yourselves to see whether you are in the faith' — strength comes from Christ dwelling in you, not from self-sufficiency"
 study_slug: ntc1y
 ---
 

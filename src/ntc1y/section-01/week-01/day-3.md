@@ -3,8 +3,6 @@ week: 1
 day: 3
 title: The Magnificat and Benedictus
 reading: Luke 1:39-80
-parallel_passages: 1 Samuel 2:1-10, Psalm 103, Psalm 111, Isaiah 40:1-11, Malachi
-  3:1
 section: The Coming of Christ
 tags:
 - luke
@@ -51,7 +49,6 @@ The final verses of the Benedictus reach a crescendo of beauty: "the sunrise sha
 
 - **Old Testament Roots**: Hannah's prayer in 1 Samuel 2:1-10 is the primary literary model for the Magnificat. The Benedictus draws heavily on Psalm 132 (the Davidic covenant), Isaiah 9:2 (light in darkness), and Malachi 3:1 and 4:5 (the forerunner). The "sunrise from on high" imagery connects to Malachi 4:2 ("the sun of righteousness shall rise with healing in its wings").
 - **New Testament Echoes**: The Magnificat's themes of reversal are echoed in the Beatitudes (Luke 6:20-26) and in James 1:9-10. Zechariah's prophecy about John preparing the way is fulfilled in Luke 3:1-6. The "way of peace" anticipated in verse 79 is proclaimed by Jesus throughout his ministry.
-- **Parallel Passages**: Compare the Magnificat with Hannah's prayer (1 Samuel 2:1-10) side by side. Note the shared themes of reversal, the exaltation of the humble, and the faithfulness of God to his covenant.
 
 ## Reflection Questions
 

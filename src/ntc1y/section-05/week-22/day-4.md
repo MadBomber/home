@@ -3,7 +3,6 @@ week: 22
 day: 4
 title: Trials, Wisdom, and the Living Word
 reading: James 1
-parallel_passages: Matthew 7:24-27, Romans 5:3-5, Proverbs 2:1-6
 section: The Early Church
 tags:
 - james
@@ -48,8 +47,7 @@ James closes with a definition of "pure and undefiled religion" (1:27) that cuts
 
 ## Connections
 - **Old Testament Roots**: Proverbs 2:1-6 (seeking wisdom as treasure); Isaiah 40:6-8 (the transience of flesh and the permanence of God's word); Deuteronomy 10:18 (God defends the orphan and widow); Job 1:21 (the testing of faith through suffering)
-- **New Testament Echoes**: Matthew 7:24-27 (the wise builder who hears and does); Romans 5:3-5 (suffering produces endurance, character, hope); 1 Peter 1:6-7 (tested faith more precious than gold); Philippians 1:2-4 (joy in suffering)
-- **Parallel Passages**: Romans 2:13 ("doers of the law" will be justified); Galatians 6:2 (bearing one another's burdens); Matthew 25:35-40 (caring for "the least of these")
+- **New Testament Echoes**: Matthew 7:24-27 (the wise builder who hears and does); Romans 5:3-5 (suffering produces endurance, character, hope); 1 Peter 1:6-7 (tested faith more precious than gold); Philippians 1:29 (suffering granted for Christ's sake); Romans 2:13 ("doers of the law" will be justified); Galatians 6:2 (bearing one another's burdens); Matthew 25:35-40 (caring for "the least of these")
 
 ## Reflection Questions
 1. James says to "count it all joy" when facing trials. How does the distinction between a deliberate intellectual judgment and an emotional reaction change how you understand this command?

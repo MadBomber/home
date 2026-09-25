@@ -3,8 +3,6 @@ week: 12
 day: 1
 title: Festival of Tabernacles
 reading: John 7
-parallel_passages: Leviticus 23:33-44, Deuteronomy 16:13-17, Zechariah 14:8, Isaiah
-  55:1
 section: Road to Jerusalem
 tags:
 - festival-of-tabernacles
@@ -43,8 +41,7 @@ The chapter also records the division (<a href="https://biblehub.com/searchgreek
 ## Connections
 
 - **Old Testament Roots**: The water-pouring ceremony draws on Exodus 17:1-7 (water from the rock), Isaiah 55:1 (invitation to the thirsty), Ezekiel 47:1-12 (river from the temple), and Zechariah 14:8 (living waters from Jerusalem).
-- **New Testament Echoes**: The promise of the Spirit in John 7:39 is fulfilled at Pentecost (Acts 2:1-4). Paul identifies Christ as the rock that followed Israel in the wilderness (1 Corinthians 10:4). Revelation 22:1-2 pictures the river of the water of life flowing from the throne of God and the Lamb.
-- **Parallel Passages**: Compare John 4:10-14 (living water offered to the Samaritan woman) and Revelation 7:17 (the Lamb as shepherd leading to springs of living water).
+- **New Testament Echoes**: Jesus offers the same living water to the Samaritan woman (John 4:10-14). The promise of the Spirit in John 7:39 is fulfilled at Pentecost (Acts 2:1-4). Paul identifies Christ as the rock that followed Israel in the wilderness (1 Corinthians 10:4). Revelation 7:17 pictures the Lamb as shepherd leading to springs of living water, and Revelation 22:1-2 pictures the river of the water of life flowing from the throne of God and the Lamb.
 
 ## Reflection Questions
 

@@ -3,7 +3,7 @@ week: 41
 day: 3
 title: Joy in Chains, To Live Is Christ
 reading: Philippians 1
-parallel_passages: Acts 16:11-40, 2 Corinthians 11:23, Romans 8:28, Galatians 2:20
+parallel_passages: Acts 16:11-40
 section: The Early Church
 tags:
 - philippians
@@ -44,7 +44,7 @@ Paul then gives voice to what may be the most profound personal confession in an
 ## Connections
 - **Old Testament Roots**: Psalm 42:5 (the soul's dialogue between despair and hope); Isaiah 55:11 (God's word accomplishes its purpose); Habakkuk 3:17-18 (rejoicing in God despite adverse circumstances)
 - **New Testament Echoes**: Galatians 2:20 ("I have been crucified with Christ; it is no longer I who live"); Romans 8:28 (all things work together for good); 2 Timothy 4:6-8 (Paul's later reflection on departure and the crown)
-- **Parallel Passages**: Acts 16:11-40, 2 Corinthians 11:23, Romans 8:28, Galatians 2:20
+- **Parallel Passages**: Acts 16:11-40 (the founding of the Philippian church)
 
 ## Reflection Questions
 1. What specific evidence does Paul cite in verses 12-18 that his imprisonment has advanced rather than hindered the gospel, and what does this reveal about how God uses suffering strategically?

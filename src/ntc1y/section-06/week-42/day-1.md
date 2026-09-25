@@ -3,7 +3,6 @@ week: 42
 day: 1
 title: Rejoice in the Lord Always
 reading: Philippians 4
-parallel_passages: 2 Corinthians 11:23-28, Matthew 6:25-34, 1 Thessalonians 5:16-18
 section: Letters and Revelation
 tags:
 - philippians
@@ -45,7 +44,6 @@ The chapter's closing section on giving (4:14-20) reveals the Philippians' extra
 
 - **Old Testament Roots**: Paul's contentment echoes Habakkuk 3:17-19, where the prophet rejoices in God despite total agricultural devastation — joy severed from prosperity. The "fragrant offering" language (4:18) recalls the pleasing aroma of Levitical sacrifices (Leviticus 1:9), now applied to generous giving.
 - **New Testament Echoes**: Jesus' Sermon on the Mount teaching on anxiety (Matthew 6:25-34) provides the foundation for Paul's "do not be anxious" command. The call to think on whatever is true, noble, and pure (4:8) complements Romans 12:2's call to "renew your mind."
-- **Parallel Passages**: 2 Corinthians 11:23-28 (Paul's sufferings that give context to his contentment), 1 Thessalonians 5:16-18 (rejoice always, pray continually, give thanks), 2 Corinthians 9:6-11 (God's provision for generous givers)
 
 ## Reflection Questions
 

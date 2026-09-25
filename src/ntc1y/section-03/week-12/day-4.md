@@ -3,8 +3,7 @@ week: 12
 day: 4
 title: Cost of Discipleship
 reading: Luke 14
-parallel_passages: Matthew 22:1-14, Matthew 10:37-39, Proverbs 25:6-7, Deuteronomy
-  20:5-8
+parallel_passages: Matthew 10:37-39; Mark 9:50; Matthew 5:13
 section: Road to Jerusalem
 tags:
 - discipleship

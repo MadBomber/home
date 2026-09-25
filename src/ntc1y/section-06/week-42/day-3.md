@@ -3,7 +3,7 @@ week: 42
 day: 3
 title: Fullness in Christ Alone
 reading: Colossians 2
-parallel_passages: Galatians 2:20, Romans 6:1-14, Ephesians 2:14-16
+parallel_passages: Romans 6:1-14; Ephesians 2:14-16; Galatians 4:3-11
 section: Letters and Revelation
 tags:
 - colossians
@@ -46,7 +46,7 @@ The chapter's closing argument is masterful: "Since you died with Christ to the 
 
 - **Old Testament Roots**: The "certificate of debt" (*cheirographon*) nailed to the cross echoes the covenant curses of Deuteronomy 27-28 and the prophetic imagery of debt-cancellation in Isaiah 40:2. The shadow/substance framework recalls the tabernacle as a "copy and shadow" (Hebrews 8:5) of heavenly realities.
 - **New Testament Echoes**: Paul's argument closely parallels Galatians 4:3-9, where he warns against returning to "weak and miserable elemental forces." Romans 6:1-14 develops the same "died with Christ/raised with Christ" union theology. Hebrews 10:1 similarly describes the law as "a shadow of the good things that are coming."
-- **Parallel Passages**: Galatians 2:20 (crucified with Christ), Romans 6:1-14 (died and raised with Christ), Ephesians 2:14-16 (Christ abolishing the law of commandments), Galatians 4:3-11 (enslaved to elemental forces)
+- **Parallel Passages**: Romans 6:1-14 (died and raised with Christ); Ephesians 2:14-16 (Christ abolishing the law of commandments); Galatians 4:3-11 (enslaved to elemental forces)
 
 ## Reflection Questions
 

@@ -11,7 +11,7 @@ translation: ESV
 connections:
   - "Day 3 — Paul speaks these words to the Ephesian elders at Miletus in his farewell address, knowing he will never see them again"
   - "Day 4 — Paul's determination to go to Jerusalem despite warnings from the Spirit in Acts 21 is the direct outworking of this conviction: the mission matters more than personal safety"
-  - "Day 1 — The closing chapters of Romans, with Paul's travel plans and greetings, reveal the same single-minded devotion to finishing the course God set before him"
+  - "Day 1 — The close of Romans, with Paul's travel plans for Jerusalem, Rome, and Spain, reveals the same single-minded devotion to finishing the course God set before him"
 study_slug: ntc1y
 ---
 

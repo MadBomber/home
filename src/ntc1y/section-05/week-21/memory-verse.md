@@ -11,7 +11,7 @@ translation: ESV
 connections:
   - "Day 1 — Jesus speaks these words as his final instruction before ascending, giving the disciples the mission roadmap that the entire book of Acts will follow"
   - "Day 2 — At Pentecost, the Holy Spirit descends and the promised power arrives, transforming frightened disciples into bold public witnesses"
-  - "Day 5 — The early church's communal life in Acts 2:42-47 is the first visible fruit of the Spirit's power, demonstrating what empowered witness looks like in daily practice"
+  - "Day 2 — The early church's communal life in Acts 2:42-47 is the first visible fruit of the Spirit's power, demonstrating what empowered witness looks like in daily practice"
 study_slug: ntc1y
 ---
 

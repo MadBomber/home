@@ -3,7 +3,7 @@ week: 16
 day: 5
 title: Sheep and Goats, Luke's Olivet Parallel
 reading: Matthew 25:31-46, Luke 21
-parallel_passages: Daniel 7:13-14, Ezekiel 34:17-22, Matthew 24, Mark 13, Joel 3:1-3
+parallel_passages: Matthew 24; Mark 13; Luke 12:35-48
 section: Road to Jerusalem
 tags:
 - olivet-discourse
@@ -49,9 +49,9 @@ Second, Luke places greater emphasis on the practical posture of believers durin
 
 ## Connections
 
-- **Old Testament Roots**: Daniel 7:13-14 (the Son of Man receiving universal dominion), Ezekiel 34:17-22 (God judging between sheep and goats), Isaiah 58:6-7 (true fasting defined as feeding the hungry, housing the homeless, clothing the naked), Proverbs 19:17 ("Whoever is generous to the poor lends to the LORD").
+- **Old Testament Roots**: Daniel 7:13-14 (the Son of Man receiving universal dominion), Ezekiel 34:17-22 (God judging between sheep and goats), Isaiah 58:6-7 (true fasting defined as feeding the hungry, housing the homeless, clothing the naked), Proverbs 19:17 ("Whoever is generous to the poor lends to the LORD"), Joel 3:1-3 (the nations gathered for judgment).
 - **New Testament Echoes**: James 2:14-17 (faith without works is dead -- the hungry and naked test), 1 John 3:17 ("If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can God's love be in that person?"), Hebrews 13:2 (showing hospitality to strangers, for some have entertained angels), Revelation 20:11-15 (the great white throne judgment).
-- **Parallel Passages**: Matthew 24 and Mark 13 (the Synoptic Olivet Discourse), Luke 12:35-48 (faithful and unfaithful servants), Joel 3:1-3 (the nations gathered for judgment).
+- **Parallel Passages**: Matthew 24 and Mark 13 (the Synoptic Olivet Discourse), Luke 12:35-48 (faithful and unfaithful servants).
 
 ## Reflection Questions
 

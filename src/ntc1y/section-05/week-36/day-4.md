@@ -3,8 +3,6 @@ week: 36
 day: 4
 title: No Condemnation, Life in the Spirit, Abba Father, Nothing Can Separate Us
 reading: Romans 8
-parallel_passages: Galatians 4:4-7; Galatians 5:16-25; 2 Corinthians 4:16-18; Ephesians
-  1:3-14
 section: The Early Church
 tags:
 - romans
@@ -50,7 +48,6 @@ The chapter's climax (verses 31-39) is a series of rhetorical questions that rea
 ## Connections
 - **Old Testament Roots**: Isaiah 50:8-9 (the Servant's vindication: "Who will bring charges against me?"); Psalm 44:22 (quoted in verse 36: "For your sake we face death all day long"); Genesis 3:17-19 (creation subjected to frustration)
 - **New Testament Echoes**: Galatians 4:4-7 (adoption, Abba Father); Galatians 5:16-25 (flesh vs. Spirit); 2 Corinthians 4:16-18 (light and momentary troubles); Ephesians 1:3-14 (the Spirit as a guarantee of inheritance)
-- **Parallel Passages**: Galatians 4:4-7; Galatians 5:16-25; 2 Corinthians 4:16-18; Ephesians 1:3-14
 
 ## Reflection Questions
 1. Paul mentions the Spirit twenty-one times in this chapter. What specific roles does the Spirit play in the believer's life according to Romans 8, and which one speaks most powerfully to you right now?

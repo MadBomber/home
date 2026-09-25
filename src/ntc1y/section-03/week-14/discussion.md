@@ -42,7 +42,7 @@ Consider also the theme of death running through the week. The rich young man ex
 - **Identify your "one thing"**: The rich young man had wealth; yours may be something else -- reputation, control, comfort, a relationship. Ask the Holy Spirit to show you the one attachment you would find hardest to release. You do not necessarily need to give it up this week, but name it honestly before God.
 - **Practice Zacchaeus-level generosity**: Zacchaeus gave half his goods and restored fourfold. Without matching his exact formula, take one concrete step this week toward radical generosity -- a gift that costs you something, a restitution for a wrong you have committed, an act of financial mercy that surprises even you.
 - **Sit with the tears of Jesus**: Set aside time this week to bring your griefs, losses, and unanswered prayers to the one who wept at Lazarus' tomb. Do not rush to the resurrection; let yourself sit in the honest presence of a God who cries with you before he commands death to release its grip.
-- **Invest your mina**: The fearful servant buried his talent rather than risking it. Identify one gift, resource, or opportunity God has given you that you have been "burying" out of fear. Take one step toward putting it to work this week.
+- **Invest your mina**: The fearful servant hid his mina in a cloth rather than risking it. Identify one gift, resource, or opportunity God has given you that you have been "burying" out of fear. Take one step toward putting it to work this week.
 
 ## Prayer Focus
 

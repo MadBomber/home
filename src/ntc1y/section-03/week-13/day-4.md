@@ -3,7 +3,7 @@ week: 13
 day: 4
 title: The Man Born Blind
 reading: John 9
-parallel_passages: John 1:4-9, John 8:12, Isaiah 42:6-7
+parallel_passages: John 8:12; John 5:1-18; Mark 8:22-26
 section: Road to Jerusalem
 tags:
 - gospel-of-john

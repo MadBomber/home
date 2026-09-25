@@ -3,8 +3,7 @@ week: 40
 day: 5
 title: Unity, Gifts, New Self
 reading: Ephesians 4
-parallel_passages: 1 Corinthians 12:4-27; Romans 12:3-8; Colossians 3:1-17; Psalm
-  68:18
+parallel_passages: Colossians 3:1-17
 section: The Early Church
 tags:
 - ephesians
@@ -51,8 +50,8 @@ The chapter closes with the ultimate motivation for the new life: "Be kind to on
 
 ## Connections
 - **Old Testament Roots**: Psalm 68:18 (the ascending king who gives gifts); Zechariah 8:16 (speak the truth to one another); Genesis 1:26 (humanity created in God's likeness, now renewed in Christ)
-- **New Testament Echoes**: 1 Corinthians 12:4-27 (one body, many members, diverse gifts); Romans 12:3-8 (sober self-assessment and gift exercise); Colossians 3:1-17 (put off the old, put on the new, as God's chosen people); Philippians 2:1-11 (humility and unity modeled on Christ)
-- **Parallel Passages**: 1 Corinthians 12:4-27; Romans 12:3-8; Colossians 3:1-17; Psalm 68:18
+- **New Testament Echoes**: 1 Corinthians 12:4-27 (one body, many members, diverse gifts); Romans 12:3-8 (sober self-assessment and gift exercise); Philippians 2:1-11 (humility and unity modeled on Christ)
+- **Parallel Passages**: Colossians 3:1-17 (put off the old, put on the new, as God's chosen people)
 
 ## Reflection Questions
 1. Paul says there is "one body, one Spirit, one Lord, one faith, one baptism, one God and Father of all." If this unity already exists, why is it so hard to maintain? What specific threats to unity do you observe in your own church or community?

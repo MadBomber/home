@@ -47,8 +47,8 @@ Philippians 1 introduces the theme of gospel partnership and Paul's famous dilem
 ## Key Characters
 
 - **[Paul](/characters/paul/)** -- Apostle writing from prison, chained to Roman guards yet overflowing with joy and theological vision.
-- **[The Ephesian church](/locations/ephesus/)** -- A predominantly Gentile congregation needing to understand their new identity and relationships in Christ.
-- **[The Philippian church](/locations/philippi/)** -- Paul's most beloved congregation, partners in the gospel since the beginning, located in a proud Roman colony.
+- **The Ephesian church** -- A predominantly Gentile congregation needing to understand their new identity and relationships in Christ.
+- **The Philippian church** -- Paul's most beloved congregation, partners in the gospel since the beginning, located in a proud Roman colony.
 - **[Timothy](/characters/timothy/)** -- Paul's trusted co-worker, commended to the Philippians as one who genuinely cares for their welfare.
 - **[Epaphroditus](/characters/epaphroditus/)** -- The Philippians' messenger to Paul, who nearly died from illness while serving the apostle.
 

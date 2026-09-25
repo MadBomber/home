@@ -3,7 +3,7 @@ week: 43
 day: 3
 title: Qualifications for Church Leaders
 reading: 1 Timothy 3
-parallel_passages: Titus 1:5-9, Acts 20:28, 1 Peter 5:1-4, Philippians 1:1
+parallel_passages: Titus 1:5-9
 section: Letters and Revelation
 tags:
 - 1-timothy
@@ -45,7 +45,7 @@ The chapter climaxes with one of the most beautiful christological confessions i
 
 - **Old Testament Roots**: The concept of leaders being "above reproach" echoes the Levitical standards for priests who served in God's presence (Leviticus 21:1-23). The elder/overseer system draws on the Jewish synagogue pattern of governance by a council of elders, rooted in Moses' appointment of seventy elders to share leadership (Numbers 11:16-17).
 - **New Testament Echoes**: The qualifications parallel Titus 1:5-9 almost exactly, confirming Paul's consistent vision for church leadership. Peter's exhortation to elders in 1 Peter 5:1-4 — to be "examples to the flock" rather than "lording it over" them — reflects the same character-first leadership ethic.
-- **Parallel Passages**: Titus 1:5-9 (parallel elder qualifications), Acts 20:28 (overseers to shepherd the church), 1 Peter 5:1-4 (elders as shepherds), Philippians 1:1 (overseers and deacons as established offices)
+- **Parallel Passages**: Titus 1:5-9 (parallel elder qualifications)
 
 ## Reflection Questions
 

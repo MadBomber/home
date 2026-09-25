@@ -3,14 +3,14 @@ week: 27
 day: 1
 title: Paul in Corinth -- Aquila & Priscilla, Gallio's Judgment Seat
 reading: Acts 18:1-17
-parallel_passages: 1 Corinthians 2:1-5; 2 Corinthians 11:7-9; Romans 16:3-4
+parallel_passages: 1 Corinthians 2:1-5; 2 Corinthians 11:7-9
 section: The Early Church
 tags:
 - corinth
-- thessalonians
-- paul
-- second-coming
-- hope
+- aquila-priscilla
+- tentmaking
+- gallio
+- paul-vision
 layout: page
 study_slug: ntc1y
 ---
@@ -28,7 +28,7 @@ The city's geography was its fortune. Situated on the narrow isthmus between the
 
 With wealth came religious and moral diversity. Corinth hosted temples to Aphrodite, Apollo, Poseidon, Isis, and the imperial cult, among others. The biennial Isthmian Games, second only to the Olympics, drew visitors from across the Greek world. The city's population was a mix of Roman colonists, Greeks, freedmen, slaves, and Jews. The social stratification was severe: a small elite of wealthy patrons presided over a vast underclass of laborers, artisans, and enslaved people. This social dynamic would later become a source of serious conflict in the Corinthian church.
 
-Luke introduces Aquila and Priscilla (whom Paul calls "Prisca" in his letters) as Jews recently arrived from Italy because the emperor Claudius had ordered all Jews to leave Rome. The Roman historian Suetonius mentions this expulsion and attributes it to disturbances "at the instigation of Chrestus," which many scholars believe is a garbled reference to disputes within the Roman synagogues over Christ (Christus). If so, the gospel had already reached Rome before Paul ever set foot there, and Aquila and Priscilla may already have been believers when Paul met them. Their shared trade of tentmaking -- the Greek word skanopoios may refer more broadly to leather-working -- gave Paul an immediate point of connection and a means of self-support.
+Luke introduces Aquila and Priscilla (whom Paul calls "Prisca" in his letters) as Jews recently arrived from Italy because the emperor Claudius had ordered all Jews to leave Rome. The Roman historian Suetonius mentions this expulsion and attributes it to disturbances "at the instigation of Chrestus," which many scholars believe is a garbled reference to disputes within the Roman synagogues over Christ (Christus). If so, the gospel had already reached Rome before Paul ever set foot there, and Aquila and Priscilla may already have been believers when Paul met them. Their shared trade of tentmaking -- the Greek word skēnopoios may refer more broadly to leather-working -- gave Paul an immediate point of connection and a means of self-support.
 
 Paul's practice of working with his hands was culturally countercultural. In the Greco-Roman world, manual labor was considered beneath the dignity of a philosopher or teacher. Sophists and rhetoricians expected to be supported by wealthy patrons. Paul's refusal to accept financial support in Corinth was a deliberate rhetorical strategy: it prevented anyone from accusing him of being a charlatan seeking profit, a common charge against traveling teachers. He would later defend this decision at length in 1 Corinthians 9 and 2 Corinthians 11.
 
@@ -46,7 +46,7 @@ The Gallio incident (verses 12-17) is one of the most historically significant p
 ## Connections
 - **Old Testament Roots**: God's reassurance to Paul echoes similar words to Moses (Exodus 3:12), Joshua (Joshua 1:9), and Jeremiah (Jeremiah 1:8) -- the pattern of God commissioning reluctant servants with promises of presence
 - **New Testament Echoes**: Paul's self-supporting ministry model shapes his later teaching in 1 Corinthians 9 and 2 Thessalonians 3:6-12; Aquila and Priscilla appear again in Acts 18:26, Romans 16:3-4, and 2 Timothy 4:19
-- **Parallel Passages**: 1 Corinthians 2:1-5 (Paul's weakness and fear in Corinth); 2 Corinthians 11:7-9 (his self-support); Romans 16:3-4 (tribute to Priscilla and Aquila)
+- **Parallel Passages**: 1 Corinthians 2:1-5 (Paul's weakness and fear in Corinth); 2 Corinthians 11:7-9 (his self-support)
 
 ## Reflection Questions
 1. What specific details does Luke include about Corinth's social environment, and what do they tell us about the challenges Paul faced in planting a church there?

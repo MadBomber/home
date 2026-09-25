@@ -4,15 +4,13 @@ day: 1
 title: Ephesus -- Disciples of John, Extraordinary Miracles, Sons of Sceva, Riot of
   Silversmiths
 reading: Acts 19
-parallel_passages: Acts 18:24-28; Mark 16:17-18; Acts 8:9-24; Ephesians 6:10-12
 section: The Early Church
 tags:
 - ephesus
-- corinthians
-- divisions
-- wisdom
-- cross
-- spiritual-maturity
+- sons-of-sceva
+- magic-renounced
+- artemis-riot
+- extraordinary-miracles
 layout: page
 study_slug: ntc1y
 ---
@@ -47,8 +45,7 @@ The chapter climaxes with the riot of the silversmiths (verses 23-41). Demetrius
 
 ## Connections
 - **Old Testament Roots**: The confrontation with magic echoes Moses and Aaron before Pharaoh's magicians (Exodus 7-8) and Elijah's contest with the prophets of Baal (1 Kings 18); the destruction of magical objects parallels Josiah's reforms (2 Kings 23)
-- **New Testament Echoes**: The sons of Sceva episode parallels Simon Magus in Acts 8:9-24 (spiritual power cannot be bought or manipulated); the economic dimension of idol worship anticipates Revelation 18 (the fall of Babylon and its merchants); Paul's Ephesian ministry provides the backdrop for the letter to the Ephesians
-- **Parallel Passages**: Acts 18:24-28 (Apollos and incomplete knowledge of the gospel); Acts 8:9-24 (Simon Magus); Ephesians 6:10-12 (spiritual warfare in the heavenly places)
+- **New Testament Echoes**: Acts 18:24-28 (Apollos and incomplete knowledge of the gospel, the situation continued by the twelve disciples in Ephesus); the sons of Sceva episode parallels Simon Magus in Acts 8:9-24 (spiritual power cannot be bought or manipulated); the economic dimension of idol worship anticipates Revelation 18 (the fall of Babylon and its merchants); Paul's Ephesian ministry provides the backdrop for the letter to the Ephesians
 
 ## Reflection Questions
 1. The twelve disciples in Ephesus had genuine faith but incomplete knowledge. They knew John's baptism but not the fullness of the Holy Spirit. Where in your own spiritual life might there be areas of genuine but incomplete understanding?

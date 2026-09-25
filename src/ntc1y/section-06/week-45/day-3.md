@@ -3,8 +3,6 @@ week: 45
 day: 3
 title: I Have Fought the Good Fight
 reading: 2 Timothy 4
-parallel_passages: Acts 20:17-38; Philippians 1:21-26; 1 Corinthians 9:24-27; Revelation
-  2:10
 section: Letters and Revelation
 tags:
 - 2-timothy
@@ -46,7 +44,6 @@ According to early Christian tradition, Paul was beheaded on the Ostian Way outs
 ## Connections
 - **Old Testament Roots**: The "drink offering" image (4:6) connects to Numbers 15:1-10 and 28:7, where a libation was poured alongside the burnt offering. The "crown of righteousness" echoes the reward language of Daniel 12:3 ("Those who are wise will shine like the brightness of the heavens"). Paul's farewell echoes Moses' farewell in Deuteronomy 31-33 and Joshua's in Joshua 23-24.
 - **New Testament Echoes**: Paul's farewell parallels his earlier address to the Ephesian elders in Acts 20:17-38, where he also warned of wolves among the flock and commended them to God's grace. Philippians 1:21-26 expresses the same tension between departing to be with Christ and remaining for ministry.
-- **Parallel Passages**: Revelation 2:10 ("Be faithful unto death, and I will give you the crown of life"); James 1:12 (the crown of life for those who endure); 1 Peter 5:4 (the unfading crown of glory)
 
 ## Reflection Questions
 1. What personal details in 2 Timothy 4 (the cloak, the scrolls, the friends named, the ones who deserted) most strike you about Paul's humanity and vulnerability?

@@ -3,8 +3,7 @@ week: 11
 day: 1
 title: Who Is Greatest, Lost Sheep, Church Discipline, Parable of Unmerciful Servant
 reading: Matthew 18
-parallel_passages: Mark 9:33-50, Luke 9:46-48, Luke 15:3-7, Luke 17:3-4, Colossians
-  3:13
+parallel_passages: Mark 9:33-50; Luke 15:3-7; Luke 17:3-4
 section: Galilean Ministry
 tags:
 - kingdom-ethics

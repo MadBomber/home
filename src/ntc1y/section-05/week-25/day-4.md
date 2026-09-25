@@ -3,7 +3,6 @@ week: 25
 day: 4
 title: Called to Freedom — Walk by the Spirit, Fruit of the Spirit
 reading: Galatians 5
-parallel_passages: Romans 8:1-17, Romans 13:8-10, John 15:1-8
 section: The Early Church
 tags:
 - galatians
@@ -46,8 +45,6 @@ The chapter closes with a call to consistency: "If we live by the Spirit, let us
 ## Connections
 - **Old Testament Roots**: Leviticus 19:18 ("You shall love your neighbor as yourself"); Ezekiel 36:26-27 (the promise of a new heart and a new spirit that enables obedience from within); Jeremiah 31:33 (the law written on the heart)
 - **New Testament Echoes**: Romans 8:1-17 (walking by the Spirit, the flesh-Spirit contrast, no condemnation for those in Christ); John 15:1-8 (abiding in Christ produces fruit); Romans 13:8-10 (love as the fulfillment of the law)
-- **Parallel Passages**: Romans 8:1-17, Romans 13:8-10, John 15:1-8
-
 ## Reflection Questions
 1. Paul says, "For freedom Christ has set us free." How do you define freedom — and how does Paul's definition (freedom to love and serve) differ from the cultural definition (freedom to do whatever you want)?
 2. Look at the "works of the flesh" list. Which items on the list are most tolerated or normalized in your community? Why do you think Paul places relational sins (jealousy, rivalries, dissensions) alongside sexual and idolatrous sins?

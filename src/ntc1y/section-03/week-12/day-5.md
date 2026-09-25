@@ -3,7 +3,7 @@ week: 12
 day: 5
 title: Parables of the Lost
 reading: Luke 15
-parallel_passages: Matthew 18:12-14, Ezekiel 34:11-16, Jeremiah 31:18-20, Isaiah 55:6-7
+parallel_passages: Matthew 18:12-14
 section: Road to Jerusalem
 tags:
 - prodigal-son

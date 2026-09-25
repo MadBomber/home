@@ -3,7 +3,7 @@ week: 5
 day: 2
 title: Beatitudes, Salt and Light, Law Fulfilled
 reading: Matthew 5
-parallel_passages: Luke 6:20-26, Luke 14:34-35, Romans 13:8-10, James 2:10-11
+parallel_passages: Luke 6:20-26; Luke 14:34-35
 section: Galilean Ministry
 tags:
 - matthew

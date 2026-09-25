@@ -3,7 +3,6 @@ week: 50
 day: 1
 title: God Is Light
 reading: 1 John 1
-parallel_passages: John 1:1-18, John 8:12, Psalm 36:9, James 5:16
 section: Letters and Revelation
 tags:
 - 1-john
@@ -27,7 +26,7 @@ The opening verses of 1 John are among the most deliberately crafted in the New 
 
 Most scholars identify this false teaching as an early form of what would later develop into full-blown Gnosticism -- a diverse set of religious movements that shared a fundamental conviction that the material world was corrupt or evil, and that salvation came through secret spiritual knowledge (<a href="https://biblehub.com/searchgreek.php?q=gnosis" target="_blank" rel="noopener"><em>gnosis</em></a>) rather than through the physical death and resurrection of a historical person. If matter is evil, then God could not have truly become flesh; the incarnation must have been an illusion or a temporary arrangement. And if the body is spiritually irrelevant, then what one does with the body -- whether indulging it or merely ignoring it -- has no bearing on one's spiritual status. This is the theological background that makes sense of John's otherwise puzzling opening.
 
-The prologue of 1 John (1:1-4) deliberately echoes the prologue of the Fourth Gospel. "That which was from the beginning" recalls "In the beginning was the Word" (John 1:1). But where the Gospel's prologue operates on a cosmic plane -- the eternal Word who was with God and was God -- the letter's prologue is viscerally physical: "which we have heard, which we have seen with our eyes, which we have looked at and our hands have touched." The Greek verbs escalate in sensory intensity. The word for "looked at" (etheasametha) implies careful, sustained observation, not a passing glance. The word for "touched" (epsaphsan) is the same word used when Jesus invited Thomas to put his finger into the nail marks (John 20:27). John is fighting for the reality of the incarnation with the full weight of eyewitness testimony.
+The prologue of 1 John (1:1-4) deliberately echoes the prologue of the Fourth Gospel. "That which was from the beginning" recalls "In the beginning was the Word" (John 1:1). But where the Gospel's prologue operates on a cosmic plane -- the eternal Word who was with God and was God -- the letter's prologue is viscerally physical: "which we have heard, which we have seen with our eyes, which we have looked at and our hands have touched." The Greek verbs escalate in sensory intensity. The word for "looked at" (etheasametha) implies careful, sustained observation, not a passing glance. The word for "touched" (epsēlaphēsan) is the same verb the risen Jesus used when he invited the disciples, "touch me, and see" (Luke 24:39). John is fighting for the reality of the incarnation with the full weight of eyewitness testimony.
 
 The declaration "God is light; in him there is no darkness at all" (1:5) is the foundational theological assertion of the entire letter. In the ancient world, light was universally associated with goodness, truth, and divinity, while darkness represented evil, ignorance, and chaos. The Dead Sea Scrolls community at Qumran used similar language, dividing humanity into "sons of light" and "sons of darkness." But John's statement goes beyond metaphor to ontology -- he is making a claim about God's essential nature. The phrase "no darkness at all" uses an emphatic Greek double negative (skotia en auto ouk estin oudemia), ruling out even the slightest admixture of shadow in God's character. This has immediate practical implications: if God is utterly light, then anyone claiming fellowship with him while walking in darkness is a liar (1:6).
 
@@ -45,7 +44,6 @@ The remedy John offers is stunning in its simplicity: confession. The Greek word
 
 - **Old Testament Roots**: "God is light" draws on deep Old Testament imagery -- the pillar of fire (Exodus 13:21), "The Lord is my light" (Psalm 27:1), and "in your light we see light" (Psalm 36:9). Confession of sin echoes Psalm 32:5 and Proverbs 28:13.
 - **New Testament Echoes**: The prologue directly parallels John 1:1-18. The light/darkness contrast pervades John's Gospel (John 1:5, 3:19-21, 8:12, 12:35-36). The confession promise resonates with James 5:16.
-- **Parallel Passages**: John 1:1-18 (the Word), John 8:12 (light of the world), Psalm 32:1-5 (blessedness of confession), 2 Corinthians 4:6 (light shining in darkness)
 
 ## Reflection Questions
 

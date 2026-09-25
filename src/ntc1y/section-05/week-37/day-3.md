@@ -3,8 +3,6 @@ week: 37
 day: 3
 title: Living Sacrifice, Renewed Mind
 reading: Romans 12
-parallel_passages: 1 Corinthians 12:4-27, Ephesians 4:1-16, 1 Peter 4:8-11, Matthew
-  5:38-48, Proverbs 25:21-22
 section: The Early Church
 tags:
 - romans
@@ -49,7 +47,6 @@ For the Roman house churches, divided along ethnic lines and vulnerable to imper
 
 - **Old Testament Roots**: Leviticus 1-7 (the sacrificial system that Paul reinterprets) provides the backdrop for the living sacrifice image. Proverbs 25:21-22 (feeding your enemy) supplies the burning coals metaphor. Deuteronomy 32:35 (vengeance belongs to God) grounds the refusal to retaliate. Psalm 34:14 (turn from evil and do good) echoes the ethical vision.
 - **New Testament Echoes**: First Corinthians 12:4-27 (the body of Christ and spiritual gifts) develops the body metaphor in greater detail. Ephesians 4:1-16 (unity, gifts, and maturity) parallels the community ethic. Matthew 5:38-48 (love your enemies) provides Jesus' teaching that Paul echoes. First Peter 4:8-11 (love covers sins, use gifts to serve) offers a complementary perspective.
-- **Parallel Passages**: 1 Corinthians 12:4-27 (body and gifts), Ephesians 4:1-16 (gifts for building up), Galatians 5:22-26 (the fruit of the Spirit), 1 Peter 3:8-12 (returning blessing for evil), Matthew 5:38-48 (the Sermon on the Mount).
 
 ## Reflection Questions
 

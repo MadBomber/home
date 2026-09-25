@@ -3,7 +3,7 @@ week: 6
 day: 3
 title: Paralytic Healed, Matthew Called, Jairus' Daughter, Harvest Prayer
 reading: Matthew 9
-parallel_passages: Mark 2:1-17, Mark 5:21-43, Luke 5:17-32, Luke 8:40-56
+parallel_passages: Mark 2:1-17; Mark 5:21-43; Luke 5:17-32; Luke 8:40-56
 section: Galilean Ministry
 tags:
 - matthew

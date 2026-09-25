@@ -3,7 +3,6 @@ week: 46
 day: 1
 title: Jesus Greater Than Moses
 reading: Hebrews 3
-parallel_passages: Numbers 14, Psalm 95:7-11, Exodus 3:1-6, Numbers 12:7
 section: Letters and Revelation
 tags:
 - hebrews
@@ -42,8 +41,7 @@ The exhortation to "encourage one another daily" (3:13) reveals that the author 
 ## Connections
 
 - **Old Testament Roots**: The entire second half of the chapter is an exposition of Psalm 95:7-11, which in turn refers to the events at Kadesh-barnea in Numbers 13-14. Numbers 12:7 provides the testimony of Moses' faithfulness. The wilderness narratives of Exodus 17 (Massah/Meribah) and Numbers 20 provide background for the "hardened hearts" theme.
-- **New Testament Echoes**: Paul uses the same wilderness generation as a warning in 1 Corinthians 10:1-12 ("These things happened to them as examples and were written down as warnings for us"). The theme of Christ as builder connects to Matthew 16:18 ("I will build my church"). The mutual encouragement command echoes 1 Thessalonians 5:11.
-- **Parallel Passages**: Numbers 14 (the rebellion at Kadesh-barnea), 1 Corinthians 10:1-12 (wilderness warnings), Jude 5 (the Lord saved a people out of Egypt but later destroyed those who did not believe)
+- **New Testament Echoes**: Paul uses the same wilderness generation as a warning in 1 Corinthians 10:1-12 ("These things happened to them as examples and were written down as warnings for us"). The theme of Christ as builder connects to Matthew 16:18 ("I will build my church"). Jude 5 likewise recalls that the Lord, having saved a people out of Egypt, afterward destroyed those who did not believe. The mutual encouragement command echoes 1 Thessalonians 5:11.
 
 ## Reflection Questions
 

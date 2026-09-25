@@ -3,7 +3,6 @@ week: 48
 day: 5
 title: Living for God — Suffering as Christians, the Fiery Ordeal
 reading: 1 Peter 4
-parallel_passages: Romans 6:1-11, James 1:2-4, Philippians 1:29, Matthew 5:11-12
 section: Letters and Revelation
 tags:
 - 1-peter
@@ -51,7 +50,6 @@ The chapter ends with a pastoral counsel of extraordinary simplicity and depth: 
 ## Connections
 - **Old Testament Roots**: Proverbs 11:31 ("if the righteous is repaid on earth, how much more the wicked and the sinner"); Ezekiel 9:6 (judgment beginning at God's sanctuary); Malachi 3:2-3 (the refiner's fire that purifies the Levites)
 - **New Testament Echoes**: Romans 6:1-11 (dying with Christ means dying to sin); Philippians 1:29 ("it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake"); James 1:2-4 ("count it all joy when you meet trials of various kinds"); Matthew 5:11-12 ("Blessed are you when others revile you and persecute you")
-- **Parallel Passages**: Romans 6:1-11, James 1:2-4, Philippians 1:29, Matthew 5:11-12
 
 ## Reflection Questions
 1. Peter says the pagans are "surprised" when Christians no longer join them in their former way of life. Have you experienced this kind of surprise or hostility from people who noticed a change in your behavior after coming to faith? How did you respond?

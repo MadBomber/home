@@ -3,7 +3,7 @@ week: 41
 day: 4
 title: The Christ Hymn -- Kenosis and Exaltation
 reading: Philippians 2
-parallel_passages: John 1:1-14, Colossians 1:15-20, Isaiah 45:23, Isaiah 52:13-53:12
+parallel_passages: John 1:1-14; Colossians 1:15-20
 section: The Early Church
 tags:
 - philippians
@@ -12,7 +12,6 @@ tags:
 - humility
 - exaltation
 - obedience
-- stars
 layout: page
 study_slug: ntc1y
 ---
@@ -45,8 +44,8 @@ The chapter concludes with Paul's commendation of Timothy and Epaphroditus (2:19
 
 ## Connections
 - **Old Testament Roots**: Isaiah 45:23 (every knee will bow to Yahweh); Isaiah 52:13-53:12 (the Suffering Servant who is exalted after humiliation); Deuteronomy 32:5 (a crooked and twisted generation); Daniel 7:13-14 (the Son of Man receives universal dominion)
-- **New Testament Echoes**: John 1:1-14 (the Word who was God became flesh); Colossians 1:15-20 (the preeminence of Christ in creation and redemption); Hebrews 1:3-4 (the Son who sustains all things, then sat down at God's right hand); Revelation 5:6-14 (every creature bowing to the Lamb)
-- **Parallel Passages**: John 1:1-14, Colossians 1:15-20, Isaiah 45:23, Isaiah 52:13-53:12
+- **New Testament Echoes**: Hebrews 1:3-4 (the Son who sustains all things, then sat down at God's right hand); Revelation 5:6-14 (every creature bowing to the Lamb)
+- **Parallel Passages**: John 1:1-14 (the Word who was God became flesh); Colossians 1:15-20 (the preeminence of Christ in creation and redemption)
 
 ## Reflection Questions
 1. What is the significance of Paul using the same Greek word morphē for both Christ's divine nature ("form of God") and his incarnate identity ("form of a servant"), and what does this tell us about the reality of both his deity and his humanity?

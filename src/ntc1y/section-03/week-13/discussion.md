@@ -13,7 +13,7 @@ study_slug: ntc1y
 
 ## Opening Question
 
-This week we encountered a man born blind who ended up seeing more clearly than the religious experts, a tax collector whose seven-word prayer was more pleasing to God than a Pharisee's impressive resume, and a shepherd who voluntarily dies for his sheep. Which of these images most challenged your assumptions about how God works, and why?
+This week we encountered a man born blind who ended up seeing more clearly than the religious experts, a tax collector whose six-word prayer was more pleasing to God than a Pharisee's impressive resume, and a shepherd who voluntarily dies for his sheep. Which of these images most challenged your assumptions about how God works, and why?
 
 ## Review
 
@@ -25,7 +25,7 @@ Week 13 wove together Luke's travel narrative and John's Festival discourses int
 
 2. **Gratitude and Lostness (Luke 17)**: Ten lepers were healed, but only one -- a Samaritan outsider -- returned to give thanks. Why do you think receiving a gift often fails to produce gratitude? What disciplines or habits help you move from simply benefiting from God's grace to actively thanking him for it?
 
-3. **Two Prayers (Luke 18)**: The Pharisee's prayer was technically addressed to God but functionally addressed to himself. The Tax Collector's prayer was seven words of raw honesty. If you were to evaluate your own prayer life honestly, which prayer does it more closely resemble? What would it look like to pray with the tax collector's kind of honesty this week?
+3. **Two Prayers (Luke 18)**: The Pharisee's prayer was technically addressed to God but functionally addressed to himself. The Tax Collector's prayer was six words of raw honesty. If you were to evaluate your own prayer life honestly, which prayer does it more closely resemble? What would it look like to pray with the tax collector's kind of honesty this week?
 
 4. **Seeing and Blindness (John 9)**: The blind man's faith deepened under pressure -- each interrogation by the Pharisees pushed him toward a clearer confession of Jesus. The Pharisees, by contrast, became more entrenched in their rejection with each piece of evidence. What determines whether opposition deepens faith or hardens resistance? What role does humility play?
 

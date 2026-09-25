@@ -45,7 +45,7 @@ Mark's literary artistry in this chapter serves a profound theological purpose. 
 ## Connections
 - **Old Testament Roots**: Isaiah 56:7 (house of prayer for all nations); Jeremiah 7:1-15 (Jeremiah's Temple sermon); Hosea 9:10, 16 (Israel as a fig tree); Micah 7:1 (finding no early figs); Zechariah 14:4 (the Mount of Olives in eschatological prophecy)
 - **New Testament Echoes**: Hebrews 9:11-14 (the end of the old sacrificial system); John 4:21-24 (worship in spirit and truth, not in a specific place); 1 Corinthians 3:16 (believers as the new temple)
-- **Parallel Passages**: Matthew 21:1-27; Luke 19:28-48; Luke 20:1-8
+- **Parallel Passages**: Matthew 21:1-27; Luke 19:28-48; Luke 20:1-8; John 12:12-19
 
 ## Reflection Questions
 1. What does Jesus' silent survey of the Temple on the first evening (Mark 11:11) reveal about his approach to judgment, and how does it challenge the idea that his cleansing was an impulsive act?

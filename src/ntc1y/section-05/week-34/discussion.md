@@ -84,7 +84,7 @@ Paul's journey through 2 Corinthians ends where it began -- at the cross, where 
 
 ## Memory Verse
 
-> "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me."
+> "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me."
 > -- 2 Corinthians 12:9
 
 *Alternative:*

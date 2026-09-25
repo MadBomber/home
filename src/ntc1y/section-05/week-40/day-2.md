@@ -3,7 +3,7 @@ week: 40
 day: 2
 title: Every Spiritual Blessing
 reading: Ephesians 1
-parallel_passages: Romans 8:28-30, Colossians 1:3-14, 2 Corinthians 1:22, John 17:24
+parallel_passages: Colossians 1:3-14
 section: The Early Church
 tags:
 - ephesians
@@ -48,7 +48,7 @@ The chapter closes with one of Paul's greatest prayers (1:15-23). He prays that 
 ## Connections
 - **Old Testament Roots**: Deuteronomy 7:6-7 (God chose Israel not because of their merit); Isaiah 43:1 (God redeems and calls by name); Psalm 2:6 (the installation of the Messiah as king); Psalm 110:1 (seated at the right hand)
 - **New Testament Echoes**: Romans 8:28-30 (the golden chain of salvation: foreknown, predestined, called, justified, glorified); Colossians 1:15-20 (Christ as head over all things); 2 Corinthians 1:22 (the Spirit as guarantee); John 17:24 (the Father's love for the Son before the foundation of the world)
-- **Parallel Passages**: Colossians 1:3-14 (parallel blessing and thanksgiving); 1 Peter 1:3-12 (blessing and inheritance); Romans 8:14-17 (adoption and inheritance)
+- **Parallel Passages**: Colossians 1:3-14 (parallel blessing and thanksgiving)
 
 ## Reflection Questions
 1. Paul says God chose us in Christ "before the foundation of the world" (1:4). How does the doctrine of election function in this passage -- as a source of security and wonder, or as a theological puzzle to be solved? How should it function in your own spiritual life?

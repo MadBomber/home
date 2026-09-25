@@ -3,7 +3,6 @@ week: 52
 day: 2
 title: Silence, Prayers, and Trumpets of Judgment
 reading: Revelation 8-9
-parallel_passages: Exodus 7-10, Joel 1-2, Amos 5:18-20, Habakkuk 2:20
 section: Letters and Revelation
 tags:
 - revelation
@@ -19,7 +18,7 @@ study_slug: ntc1y
 
 ## Reading: Revelation 8-9
 
-Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.8" target="_blank" rel="noopener">Revelation chapter 8</a>
+Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.8" target="_blank" rel="noopener">Revelation chapter 8</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.9" target="_blank" rel="noopener">Revelation chapter 9</a>
 
 ## Historical Context
 
@@ -45,7 +44,6 @@ The sixth trumpet (9:13-21) releases four angels bound at the Euphrates River --
 
 - **Old Testament Roots**: The trumpet plagues echo the ten plagues of Egypt (Exodus 7-10) in multiple details: blood, hail, darkness, and locust imagery. The locust army draws from Joel 1-2. The Euphrates River as a boundary echoes Genesis 15:18 and Jeremiah 46:10. The "silence in heaven" may echo Habakkuk 2:20 ("The Lord is in his holy temple; let all the earth be silent before him") and Zephaniah 1:7.
 - **New Testament Echoes**: The fallen star opening the Abyss connects to Luke 10:18 ("I saw Satan fall like lightning from heaven") and Revelation 20:1-3. The refusal to repent despite evident judgment echoes Jesus' woes against Chorazin and Bethsaida (Matthew 11:20-24). The protective seal on believers' foreheads connects to Revelation 7:3 and anticipates the contrasting "mark of the beast" (13:16-17).
-- **Parallel Passages**: Exodus 7-10 (Egyptian plagues), Joel 1-2 (locust invasion), Amos 5:18-20 (the Day of the Lord as darkness), Habakkuk 2:20 (silence before the Lord)
 
 ## Reflection Questions
 

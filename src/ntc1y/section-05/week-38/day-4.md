@@ -3,7 +3,7 @@ week: 38
 day: 4
 title: Arrested in Jerusalem
 reading: Acts 21
-parallel_passages: Acts 11:28, Numbers 6:1-21, Romans 15:25-31, Luke 9:51
+parallel_passages: Romans 15:25-31
 section: The Early Church
 tags:
 - acts
@@ -32,9 +32,9 @@ At Caesarea (21:8-14), Paul stays with Philip the evangelist -- one of the origi
 
 The response of Paul's companions is immediate and anguished: "we and the people there urged him not to go up to Jerusalem" (21:12). The "we" is significant -- Luke himself, the narrator and Paul's traveling companion, was among those begging Paul to turn back. Paul's response is both exasperated and tender: "What are you doing, weeping and breaking my heart? For I am ready not only to be imprisoned but even to die in Jerusalem for the name of the Lord Jesus" (21:13). The phrase "breaking my heart" (synthryptontes mou ten kardian) is vivid -- their tears are crushing him, not because he fears death but because their grief makes the journey harder. When Paul cannot be persuaded, the community yields with words that echo Jesus' prayer in Gethsemane: "Let the will of the Lord be done" (21:14; cf. Luke 22:42). This is not resignation but submission -- the recognition that God's purposes may include suffering for his servants.
 
-Paul's arrival in Jerusalem (21:17-26) introduces a pastoral crisis. James and the elders welcome him warmly and glorify God for the Gentile mission, but they have a concern: thousands of Jewish believers in Jerusalem have heard rumors that Paul teaches Jews living among the Gentiles "to forsake Moses, telling them not to circumcise their children or walk according to our customs" (21:21). This rumor was a distortion of Paul's teaching. Paul taught that Gentiles need not adopt Jewish customs to be saved, but he never told Jewish believers to abandon their ancestral practices. The Jerusalem leaders propose a solution: Paul should join four men who are completing a Nazarite vow (Numbers 6:1-21), pay for their purification expenses, and go through the rites with them. This would publicly demonstrate that Paul "lives in observance of the law" (21:24).
+Paul's arrival in Jerusalem (21:17-26) introduces a pastoral crisis. James and the elders welcome him warmly and glorify God for the Gentile mission, but they have a concern: thousands of Jewish believers in Jerusalem have heard rumors that Paul teaches Jews living among the Gentiles "to forsake Moses, telling them not to circumcise their children or walk according to our customs" (21:21). This rumor was a distortion of Paul's teaching. Paul taught that Gentiles need not adopt Jewish customs to be saved, but he never told Jewish believers to abandon their ancestral practices. The Jerusalem leaders propose a solution: Paul should join four men who are completing a Nazirite vow (Numbers 6:1-21), pay for their purification expenses, and go through the rites with them. This would publicly demonstrate that Paul "lives in observance of the law" (21:24).
 
-Paul agrees. This accommodation has troubled some readers who see it as a compromise of Paul's convictions, but it is entirely consistent with Paul's own stated principle: "To the Jews I became as a Jew, in order to win Jews" (1 Corinthians 9:20). Paul had no objection to Jewish believers observing the law as a matter of cultural identity and personal devotion; he objected only when law observance was made a condition of salvation. The Nazarite vow was a voluntary act of consecration, not a requirement for justification. Paul's willingness to participate was an act of pastoral bridge-building, not theological capitulation.
+Paul agrees. This accommodation has troubled some readers who see it as a compromise of Paul's convictions, but it is entirely consistent with Paul's own stated principle: "To the Jews I became as a Jew, in order to win Jews" (1 Corinthians 9:20). Paul had no objection to Jewish believers observing the law as a matter of cultural identity and personal devotion; he objected only when law observance was made a condition of salvation. The Nazirite vow was a voluntary act of consecration, not a requirement for justification. Paul's willingness to participate was an act of pastoral bridge-building, not theological capitulation.
 
 The plan backfires catastrophically (21:27-36). Near the end of the seven-day purification period, Jews from the province of Asia -- probably from Ephesus, where Paul had spent three years battling opposition -- spot him in the Temple and raise a cry. Their accusation is threefold: Paul teaches everyone everywhere against the Jewish people, the law, and the Temple, and he has "brought Greeks into the temple" (21:28), defiling the holy place. This last charge was based on the fact that they had previously seen Paul in the city with Trophimus, an Ephesian Gentile, and assumed he had brought him into the inner courts. The accusation was false, but it was explosive. The Soreg -- the stone barrier separating the Court of the Gentiles from the inner courts -- bore inscriptions warning that any non-Jew who passed beyond it would be responsible for his own death. Two of these warning stones have been discovered by archaeologists, confirming Luke's accuracy.
 
@@ -45,16 +45,16 @@ It is from these steps -- suspended between the Temple and the garrison, between
 ## Key Themes
 - **Obedience in the face of certain suffering** -- Paul walks toward Jerusalem knowing that chains and affliction await, because faithfulness to God's call outweighs personal safety
 - **Prophecy, wisdom, and submission** -- The community receives prophetic revelation about Paul's fate but must learn to distinguish between what the Spirit reveals and what human love desires
-- **Cultural accommodation without theological compromise** -- Paul's willingness to participate in the Nazarite vow demonstrates that gospel freedom includes the freedom to adopt cultural practices for the sake of unity
+- **Cultural accommodation without theological compromise** -- Paul's willingness to participate in the Nazirite vow demonstrates that gospel freedom includes the freedom to adopt cultural practices for the sake of unity
 
 ## Connections
-- **Old Testament Roots**: Numbers 6:1-21 (the Nazarite vow); Jeremiah 27 (symbolic prophetic actions); Isaiah 6:9-10 (the prophet sent to a people who will not listen); 1 Kings 19:10 (Elijah's sense of standing alone against opposition)
-- **New Testament Echoes**: Luke 9:51 (Jesus "set his face" to go to Jerusalem); Luke 22:42 ("not my will, but yours be done"); Acts 11:28 (Agabus' earlier prophecy of famine); 1 Corinthians 9:19-23 (Paul's principle of becoming all things to all people)
-- **Parallel Passages**: Romans 15:25-31 (Paul's own anticipation of the Jerusalem journey); Acts 20:22-24 (Paul's declaration at Miletus); Galatians 2:1-10 (the earlier Jerusalem agreement)
+- **Old Testament Roots**: Numbers 6:1-21 (the Nazirite vow); Jeremiah 27 (symbolic prophetic actions); Isaiah 6:9-10 (the prophet sent to a people who will not listen); 1 Kings 19:10 (Elijah's sense of standing alone against opposition)
+- **New Testament Echoes**: Luke 9:51 (Jesus "set his face" to go to Jerusalem); Luke 22:42 ("not my will, but yours be done"); Acts 11:28 (Agabus' earlier prophecy of famine); Acts 20:22-24 (Paul's Miletus declaration that chains await); 1 Corinthians 9:19-23 (Paul's principle of becoming all things to all people)
+- **Parallel Passages**: Romans 15:25-31 (Paul's own account of bringing the collection to Jerusalem)
 
 ## Reflection Questions
 1. The disciples at Tyre "through the Spirit" urged Paul not to go to Jerusalem (21:4), yet Paul went anyway. How do you distinguish between the content of a prophetic revelation (Paul will suffer) and the human interpretation layered on top of it (therefore Paul should not go)?
-2. Paul agreed to participate in the Nazarite vow to demonstrate his respect for Jewish custom. How do you evaluate acts of cultural accommodation in your own context -- when is it bridge-building and when is it compromise?
+2. Paul agreed to participate in the Nazirite vow to demonstrate his respect for Jewish custom. How do you evaluate acts of cultural accommodation in your own context -- when is it bridge-building and when is it compromise?
 3. The mob's accusations against Paul were based on assumption and rumor (21:29). How have you seen rumor and assumption escalate into destructive conflict in your own experience? What can be done to prevent it?
 
 ## Prayer

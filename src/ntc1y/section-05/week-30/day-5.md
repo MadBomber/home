@@ -3,8 +3,6 @@ week: 30
 day: 5
 title: All Things to All People
 reading: 1 Corinthians 9
-parallel_passages: Acts 18:1-4, 2 Corinthians 11:7-12, 1 Thessalonians 2:9, Luke 10:7,
-  Deuteronomy 25:4, 1 Timothy 5:17-18, Philippians 3:13-14
 section: The Early Church
 tags:
 - corinthians
@@ -44,12 +42,11 @@ The chapter concludes with an athletic metaphor drawn from the Isthmian Games, w
 ## Connections
 
 - **Old Testament Roots**: Deuteronomy 25:4 ("Do not muzzle an ox while it is treading out the grain") provides Paul's scriptural basis for apostolic support. The temple service mentioned in v. 13 refers to the priestly portions described in Numbers 18:8-32 and Deuteronomy 18:1-5. The concept of becoming a servant to all echoes the Servant Songs of Isaiah (Isaiah 42:1-9, 49:1-6).
-- **New Testament Echoes**: Jesus' command that workers deserve their wages (Luke 10:7, Matthew 10:10) is directly cited in v. 14 and again in 1 Timothy 5:18. Paul's willingness to forgo support is described more polemically in 2 Corinthians 11:7-12. The athletic metaphor is reprised in Philippians 3:13-14 ("I press on toward the goal") and 2 Timothy 4:7 ("I have finished the race").
-- **Parallel Passages**: Acts 18:1-4 (Paul working as a tentmaker in Corinth), 2 Corinthians 11:7-12 (Paul's refusal of Corinthian support), 1 Thessalonians 2:9 (working night and day to avoid being a burden), Philippians 3:13-14 (pressing toward the prize), 2 Timothy 2:5 (competing according to the rules).
+- **New Testament Echoes**: Jesus' command that workers deserve their wages (Luke 10:7, Matthew 10:10) is directly cited in v. 14 and again in 1 Timothy 5:18. Paul's willingness to forgo support is described more polemically in 2 Corinthians 11:7-12. The athletic metaphor is reprised in Philippians 3:13-14 ("I press on toward the goal") and 2 Timothy 4:7 ("I have finished the race"). Acts 18:1-4 records Paul's tentmaking trade in Corinth.
 
 ## Reflection Questions
 
-1. Paul establishes his right to financial support from eight different sources, then voluntarily surrenders it. What right or privilege in your life might God be calling you to set aside for the sake of others?
+1. Paul establishes his right to financial support from six different sources, then voluntarily surrenders it. What right or privilege in your life might God be calling you to set aside for the sake of others?
 2. "I have become all things to all people so that by all possible means I might save some." What is the difference between cultural adaptation and moral compromise? Where do you draw the line?
 3. Paul uses athletic imagery to describe the discipline required for faithful ministry. What spiritual disciplines help you stay "in training" and avoid being "disqualified" in your own walk with God?
 

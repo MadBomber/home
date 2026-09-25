@@ -66,7 +66,7 @@ Have you ever witnessed a community make a decision that changed its identity an
 
 ## Memory Verse
 
-> "For in him we live and move and have our being."
+> "For 'In him we live and move and have our being'; as even some of your own poets have said, 'For we are indeed his offspring.'"
 > — Acts 17:28
 
 ## Closing Prayer

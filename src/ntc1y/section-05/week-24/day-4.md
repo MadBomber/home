@@ -3,7 +3,7 @@ week: 24
 day: 4
 title: Iconium, Lystra, Derbe, and the Return Journey
 reading: Acts 14
-parallel_passages: 2 Timothy 3:10-11; 2 Corinthians 11:23-27; Acts 13:50-52
+parallel_passages: 2 Timothy 3:10-11
 section: The Early Church
 tags:
 - first-missionary-journey
@@ -35,7 +35,7 @@ Paul and Barnabas were horrified. Tearing their garments -- a Jewish gesture of 
 
 The volatility of the situation became lethally apparent when Jews from Antioch and Iconium arrived and turned the same crowd that had wanted to worship Paul into a mob that stoned him and dragged him outside the city, leaving him for dead (14:19). The speed of the reversal is striking but historically plausible: crowds in the ancient world were notoriously fickle, and the same populace that hailed a figure as divine could turn violent when persuaded they had been deceived. Paul's reference in 2 Timothy 3:11 to "my persecutions and sufferings that happened to me at Antioch, at Iconium, and at Lystra" and in 2 Corinthians 11:25 to being "once stoned" almost certainly refers to this event. That Paul survived what Luke describes as being left for dead is itself remarkable; stoning was intended to be lethal. When the disciples gathered around him, he rose and went back into the city -- an act of astonishing courage, or perhaps the calm of a man who had already surrendered his life.
 
-The missionaries pressed on to Derbe, the easternmost point of the journey, where they "preached the gospel to that city and had made many disciples" (14:21). Rather than continuing east toward Tarsus (which would have been geographically easier), they chose the far more dangerous route of retracing their steps through Lystra, Iconium, and Pisidian Antioch -- cities where they had been persecuted -- "strengthening the souls of the disciples, encouraging them to continue in the faith, and saying that through many tribulations we must enter the kingdom of God" (14:22). This pastoral commitment is crucial. Paul did not plant churches and abandon them; he returned to consolidate, organize, and prepare them for suffering. In each city they appointed elders (presbyterous, 14:23), establishing local leadership structures that would sustain the communities after the missionaries departed.
+The missionaries pressed on to Derbe, the easternmost point of the journey, where they "preached the gospel to that city" and "made many disciples" (14:21). Rather than continuing east toward Tarsus (which would have been geographically easier), they chose the far more dangerous route of retracing their steps through Lystra, Iconium, and Pisidian Antioch -- cities where they had been persecuted -- "strengthening the souls of the disciples, encouraging them to continue in the faith, and saying that through many tribulations we must enter the kingdom of God" (14:22). This pastoral commitment is crucial. Paul did not plant churches and abandon them; he returned to consolidate, organize, and prepare them for suffering. In each city they appointed elders (presbyterous, 14:23), establishing local leadership structures that would sustain the communities after the missionaries departed.
 
 The return to Antioch in Syria brings the first missionary journey full circle. Paul and Barnabas gathered the church and "declared all that God had done with them, and how he had opened a door of faith to the Gentiles" (14:27). The emphasis is on God's action: they are reporting what God did, not celebrating their own achievements. The "door of faith" opened to the Gentiles is the headline -- a theological reality that will now demand a theological reckoning at the Jerusalem Council.
 
@@ -46,8 +46,8 @@ The return to Antioch in Syria brings the first missionary journey full circle. 
 
 ## Connections
 - **Old Testament Roots**: Psalm 146:5-6 (the God who made heaven and earth); Deuteronomy 11:13-17 (God provides rain and harvest); Genesis 1:1 (God as Creator -- the starting point for pagan audiences)
-- **New Testament Echoes**: Romans 1:19-20 (God's invisible qualities revealed through creation); 2 Corinthians 11:23-27 (Paul's catalogue of sufferings); Titus 1:5 (appointing elders in every town)
-- **Parallel Passages**: 2 Timothy 3:10-11 (Paul's sufferings at Lystra and Iconium); Acts 17:22-31 (the Areopagus speech as a fuller version of the natural theology argument)
+- **New Testament Echoes**: Romans 1:19-20 (God's invisible qualities revealed through creation); 2 Corinthians 11:23-27 (Paul's catalogue of sufferings); Titus 1:5 (appointing elders in every town); Acts 17:22-31 (the Areopagus speech as a fuller version of the natural theology argument)
+- **Parallel Passages**: 2 Timothy 3:10-11 (Paul's sufferings at Lystra and Iconium)
 
 ## Reflection Questions
 1. How does Paul's speech at Lystra differ from his synagogue sermon at Pisidian Antioch, and what does this teach about contextualizing the gospel for different audiences?

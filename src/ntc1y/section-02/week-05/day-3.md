@@ -3,7 +3,7 @@ week: 5
 day: 3
 title: Lord's Prayer, Fasting, Treasures, Do Not Worry
 reading: Matthew 6
-parallel_passages: Luke 11:1-4, Luke 12:22-34, Luke 16:13, Colossians 3:1-4
+parallel_passages: Luke 11:1-4; Luke 12:22-34; Luke 16:13
 section: Galilean Ministry
 tags:
 - matthew

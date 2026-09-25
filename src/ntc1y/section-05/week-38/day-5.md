@@ -3,7 +3,7 @@ week: 38
 day: 5
 title: Paul's Defense
 reading: Acts 22
-parallel_passages: Acts 9:1-19, Acts 26:1-23, Galatians 1:11-17, Philippians 3:4-6
+parallel_passages: Acts 9:1-19; Acts 26:1-23; Galatians 1:11-17
 section: The Early Church
 tags:
 - acts
@@ -47,7 +47,7 @@ The chapter closes with Lysias ordering the chief priests and the Sanhedrin to a
 ## Connections
 - **Old Testament Roots**: Genesis 22:11 (the double naming of Abraham); Exodus 3:4 (the double naming of Moses); Isaiah 42:6 (a light to the nations -- the calling Paul received); Isaiah 49:6 (salvation to the ends of the earth)
 - **New Testament Echoes**: Acts 9:1-19 (first account of Paul's conversion); Acts 26:1-23 (third account before Agrippa); Galatians 1:11-17 (Paul's own summary of his conversion and calling); Philippians 3:4-6 (Paul's Jewish credentials)
-- **Parallel Passages**: Luke 21:12-15 (Jesus' promise that his followers would testify before authorities); Acts 7:58 (Stephen's martyrdom, where Paul guarded the coats); Romans 1:16 (the gospel as power for salvation "to the Jew first and also to the Greek")
+- **Parallel Passages**: Acts 9:1-19 (Luke's first account of Paul's conversion); Acts 26:1-23 (the third account, before Agrippa); Galatians 1:11-17 (Paul's own account of his conversion and calling)
 
 ## Reflection Questions
 1. Paul tells his conversion story three times in Acts, each time tailored to his audience. How does the version in Acts 22 differ from the accounts in chapters 9 and 26, and what does this tell us about how to share our own testimony in different contexts?

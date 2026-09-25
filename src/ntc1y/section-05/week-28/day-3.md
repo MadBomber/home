@@ -3,15 +3,14 @@ week: 28
 day: 3
 title: Man of Lawlessness, Stand Firm in Teaching
 reading: 2 Thessalonians 2
-parallel_passages: Daniel 7:25; Daniel 11:36; Matthew 24:4-14; 1 John 2:18; Revelation
-  13
+parallel_passages: Matthew 24:4-14
 section: The Early Church
 tags:
-- day-of-the-lord
-- eschatology
-- thessalonians
-- idleness
-- apollos
+- man-of-lawlessness
+- antichrist
+- deception
+- restrainer
+- stand-firm
 layout: page
 study_slug: ntc1y
 ---
@@ -45,7 +44,7 @@ The chapter pivots sharply in verses 13-17 from terrifying apocalyptic imagery t
 ## Connections
 - **Old Testament Roots**: The man of lawlessness draws from Daniel 7:25, 11:36 (the self-exalting tyrant), Isaiah 14:13-14 (aspiring to be like the Most High), and Ezekiel 28:2 (the prince who claims divinity); the judicial hardening echoes Isaiah 6:9-10 and Exodus 7-14 (hardening of Pharaoh)
 - **New Testament Echoes**: The Antichrist theme appears in 1 John 2:18, 4:3; the beast of Revelation 13 parallels the man of lawlessness; Jesus' Olivet Discourse (Matthew 24:4-14) warns of deception before the end
-- **Parallel Passages**: Daniel 7:25, 11:36 (self-exalting tyrant); Matthew 24:4-14 (deception before the end); 1 John 2:18 (antichrist); Revelation 13 (the beast)
+- **Parallel Passages**: Matthew 24:4-14 (deception before the end)
 
 ## Reflection Questions
 1. Paul warns that deception in the last days will come with "all power and false signs and wonders." How do you distinguish between genuine spiritual activity and counterfeit supernatural displays? What criteria does this passage offer?

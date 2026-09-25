@@ -10,13 +10,7 @@ tags:
 - pharisees
 - sadducees
 section: The Coming of Christ
-parallel_passages:
-- Mark 1:1-11
-- Luke 3:1-22
-- John 1:29-34
-- Isaiah 11:2
-- Psalm 2:7
-- Isaiah 42:1
+parallel_passages: Mark 1:1-11; Luke 3:1-22; John 1:29-34
 layout: page
 study_slug: ntc1y
 ---

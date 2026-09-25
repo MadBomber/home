@@ -3,7 +3,7 @@ week: 14
 day: 4
 title: Sanhedrin Plots, Caiaphas' Unconscious Prophecy
 reading: John 11:45-57
-parallel_passages: John 18:14, Isaiah 53:4-6, Matthew 26:3-5
+parallel_passages: Matthew 26:3-5; Mark 14:1-2
 section: Road to Jerusalem
 tags:
 - sanhedrin

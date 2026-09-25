@@ -13,73 +13,72 @@ the number beside each tag is its page count.
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/1-peter/" %>">1-peter <span class="tag-count">5</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/1-timothy/" %>">1-timothy <span class="tag-count">6</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/2-corinthians/" %>">2-corinthians <span class="tag-count">10</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/2-peter/" %>">2-peter <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/2-peter/" %>">2-peter <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/2-timothy/" %>">2-timothy <span class="tag-count">4</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/abraham/" %>">abraham <span class="tag-count">9</span></a>
   <a class="tag-size-5" href="<%= relative_url "/ntc1y/tags/acts/" %>">acts <span class="tag-count">17</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/adam-christ/" %>">adam-christ <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/agrippa/" %>">agrippa <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/angels/" %>">angels <span class="tag-count">3</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/anointing/" %>">anointing <span class="tag-count">3</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/antichrist/" %>">antichrist <span class="tag-count">2</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/angels/" %>">angels <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/anointing/" %>">anointing <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/antichrist/" %>">antichrist <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/antioch/" %>">antioch <span class="tag-count">6</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/anxiety/" %>">anxiety <span class="tag-count">3</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/apollos/" %>">apollos <span class="tag-count">5</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/anxiety/" %>">anxiety <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/apostolic-authority/" %>">apostolic-authority <span class="tag-count">5</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/areopagus/" %>">areopagus <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/arrest/" %>">arrest <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/arrest/" %>">arrest <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/ascension/" %>">ascension <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/assurance/" %>">assurance <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/athens/" %>">athens <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/atonement/" %>">atonement <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/atonement/" %>">atonement <span class="tag-count">3</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/authority/" %>">authority <span class="tag-count">11</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/baptism/" %>">baptism <span class="tag-count">4</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/barabbas/" %>">barabbas <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/barnabas/" %>">barnabas <span class="tag-count">4</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/beatitudes/" %>">beatitudes <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/beelzebul/" %>">beelzebul <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/beelzebul/" %>">beelzebul <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/betrayal/" %>">betrayal <span class="tag-count">4</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/birth-narratives/" %>">birth-narratives <span class="tag-count">2</span></a>
+  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/boasting/" %>">boasting <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/body-as-temple/" %>">body-as-temple <span class="tag-count">5</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/body-of-christ/" %>">body-of-christ <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/born-again/" %>">born-again <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/bread-of-life/" %>">bread-of-life <span class="tag-count">6</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/burial/" %>">burial <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/burial/" %>">burial <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/calling-disciples/" %>">calling-disciples <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/capernaum/" %>">capernaum <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/centurion/" %>">centurion <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/centurion/" %>">centurion <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/children/" %>">children <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/christ-hymn/" %>">christ-hymn <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/christian-freedom/" %>">christian-freedom <span class="tag-count">5</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/christian-liberty/" %>">christian-liberty <span class="tag-count">5</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/church-discipline/" %>">church-discipline <span class="tag-count">6</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/clean-unclean/" %>">clean-unclean <span class="tag-count">3</span></a>
+  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/church-discipline/" %>">church-discipline <span class="tag-count">7</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/clean-unclean/" %>">clean-unclean <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/colossians/" %>">colossians <span class="tag-count">4</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/comfort/" %>">comfort <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/community/" %>">community <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/compassion/" %>">compassion <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/contentment/" %>">contentment <span class="tag-count">3</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/conversion/" %>">conversion <span class="tag-count">2</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/corinth/" %>">corinth <span class="tag-count">5</span></a>
-  <a class="tag-size-5" href="<%= relative_url "/ntc1y/tags/corinthians/" %>">corinthians <span class="tag-count">20</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/cross/" %>">cross <span class="tag-count">10</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/contentment/" %>">contentment <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/conversion/" %>">conversion <span class="tag-count">3</span></a>
+  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/corinth/" %>">corinth <span class="tag-count">2</span></a>
+  <a class="tag-size-5" href="<%= relative_url "/ntc1y/tags/corinthians/" %>">corinthians <span class="tag-count">15</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/cross/" %>">cross <span class="tag-count">5</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/crucifixion/" %>">crucifixion <span class="tag-count">7</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/day-of-the-lord/" %>">day-of-the-lord <span class="tag-count">6</span></a>
+  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/day-of-the-lord/" %>">day-of-the-lord <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/deacons/" %>">deacons <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/death/" %>">death <span class="tag-count">2</span></a>
+  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/deception/" %>">deception <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/demons/" %>">demons <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/denial/" %>">denial <span class="tag-count">5</span></a>
+  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/discernment/" %>">discernment <span class="tag-count">2</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/discipleship/" %>">discipleship <span class="tag-count">7</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/discipline/" %>">discipline <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/division/" %>">division <span class="tag-count">2</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/divisions/" %>">divisions <span class="tag-count">5</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/early-church/" %>">early-church <span class="tag-count">6</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/elders/" %>">elders <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/elders/" %>">elders <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/endurance/" %>">endurance <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/enoch/" %>">enoch <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/ephesians/" %>">ephesians <span class="tag-count">6</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/ephesus/" %>">ephesus <span class="tag-count">6</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/eschatology/" %>">eschatology <span class="tag-count">10</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/ephesus/" %>">ephesus <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/eschatology/" %>">eschatology <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/eternal-life/" %>">eternal-life <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/ethics/" %>">ethics <span class="tag-count">6</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/exorcism/" %>">exorcism <span class="tag-count">2</span></a>
@@ -96,31 +95,30 @@ the number beside each tag is its page count.
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/forgiveness/" %>">forgiveness <span class="tag-count">5</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/galatians/" %>">galatians <span class="tag-count">6</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/generosity/" %>">generosity <span class="tag-count">11</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/gentile-inclusion/" %>">gentile-inclusion <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/gentile-inclusion/" %>">gentile-inclusion <span class="tag-count">4</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/gentile-mission/" %>">gentile-mission <span class="tag-count">6</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/gethsemane/" %>">gethsemane <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/gethsemane/" %>">gethsemane <span class="tag-count">3</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/glory/" %>">glory <span class="tag-count">8</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/golden-rule/" %>">golden-rule <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/gospel/" %>">gospel <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/gospel-of-john/" %>">gospel-of-john <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/grace/" %>">grace <span class="tag-count">4</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/healing/" %>">healing <span class="tag-count">10</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/hebrews/" %>">hebrews <span class="tag-count">13</span></a>
+  <a class="tag-size-5" href="<%= relative_url "/ntc1y/tags/hebrews/" %>">hebrews <span class="tag-count">13</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/herod/" %>">herod <span class="tag-count">4</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/high-priest/" %>">high-priest <span class="tag-count">2</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/holy-spirit/" %>">holy-spirit <span class="tag-count">10</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/hope/" %>">hope <span class="tag-count">11</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/hope/" %>">hope <span class="tag-count">6</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/humility/" %>">humility <span class="tag-count">5</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/i-am-sayings/" %>">i-am-sayings <span class="tag-count">4</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/idleness/" %>">idleness <span class="tag-count">5</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/incarnation/" %>">incarnation <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/incarnation/" %>">incarnation <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/intercession/" %>">intercession <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/israel/" %>">israel <span class="tag-count">5</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/jairus/" %>">jairus <span class="tag-count">3</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/james/" %>">james <span class="tag-count">6</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/jairus/" %>">jairus <span class="tag-count">3</span></a>
+  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/james/" %>">james <span class="tag-count">7</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/jerusalem/" %>">jerusalem <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/john/" %>">john <span class="tag-count">6</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/john-the-baptist/" %>">john-the-baptist <span class="tag-count">9</span></a>
+  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/john-the-baptist/" %>">john-the-baptist <span class="tag-count">10</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/joy/" %>">joy <span class="tag-count">2</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/judgment/" %>">judgment <span class="tag-count">9</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/justification/" %>">justification <span class="tag-count">11</span></a>
@@ -130,7 +128,7 @@ the number beside each tag is its page count.
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/kingdom-of-god/" %>">kingdom-of-god <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/lamb/" %>">lamb <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/lamb-of-god/" %>">lamb-of-god <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/last-supper/" %>">last-supper <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/last-supper/" %>">last-supper <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/law/" %>">law <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/legion/" %>">legion <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/levi/" %>">levi <span class="tag-count">2</span></a>
@@ -147,7 +145,7 @@ the number beside each tag is its page count.
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/martyrdom/" %>">martyrdom <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/mary/" %>">mary <span class="tag-count">2</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/matthew/" %>">matthew <span class="tag-count">12</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/maturity/" %>">maturity <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/maturity/" %>">maturity <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/mediator/" %>">mediator <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/melchizedek/" %>">melchizedek <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/ministry/" %>">ministry <span class="tag-count">5</span></a>
@@ -155,11 +153,11 @@ the number beside each tag is its page count.
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/mission/" %>">mission <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/moses/" %>">moses <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/mustard-seed/" %>">mustard-seed <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/nazareth/" %>">nazareth <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/nazareth/" %>">nazareth <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/new-covenant/" %>">new-covenant <span class="tag-count">6</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/new-creation/" %>">new-creation <span class="tag-count">4</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/new-self/" %>">new-self <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/obedience/" %>">obedience <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/obedience/" %>">obedience <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/olive-tree/" %>">olive-tree <span class="tag-count">5</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/olivet-discourse/" %>">olivet-discourse <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/once-for-all/" %>">once-for-all <span class="tag-count">2</span></a>
@@ -172,40 +170,40 @@ the number beside each tag is its page count.
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/passion-week/" %>">passion-week <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/passover/" %>">passover <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/patience/" %>">patience <span class="tag-count">2</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/paul/" %>">paul <span class="tag-count">9</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/paul/" %>">paul <span class="tag-count">4</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/paul-trials/" %>">paul-trials <span class="tag-count">4</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/peace/" %>">peace <span class="tag-count">2</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/persecution/" %>">persecution <span class="tag-count">5</span></a>
+  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/persecution/" %>">persecution <span class="tag-count">7</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/perseverance/" %>">perseverance <span class="tag-count">5</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/peter/" %>">peter <span class="tag-count">10</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/peter-confession/" %>">peter-confession <span class="tag-count">3</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/philippi/" %>">philippi <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/peter-confession/" %>">peter-confession <span class="tag-count">3</span></a>
+  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/philippi/" %>">philippi <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/philippians/" %>">philippians <span class="tag-count">4</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/pilate/" %>">pilate <span class="tag-count">4</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/prayer/" %>">prayer <span class="tag-count">10</span></a>
+  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/prayer/" %>">prayer <span class="tag-count">11</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/promise/" %>">promise <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/prophecy/" %>">prophecy <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/prophecy/" %>">prophecy <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/qualifications/" %>">qualifications <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/rahab/" %>">rahab <span class="tag-count">2</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/reconciliation/" %>">reconciliation <span class="tag-count">7</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/rejection/" %>">rejection <span class="tag-count">3</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/repentance/" %>">repentance <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/rejection/" %>">rejection <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/repentance/" %>">repentance <span class="tag-count">3</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/resurrection/" %>">resurrection <span class="tag-count">12</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/revelation/" %>">revelation <span class="tag-count">10</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/righteousness/" %>">righteousness <span class="tag-count">8</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/roman-citizenship/" %>">roman-citizenship <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/roman-law/" %>">roman-law <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/roman-law/" %>">roman-law <span class="tag-count">3</span></a>
   <a class="tag-size-5" href="<%= relative_url "/ntc1y/tags/romans/" %>">romans <span class="tag-count">17</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/sabbath-controversy/" %>">sabbath-controversy <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/sacrifice/" %>">sacrifice <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/salvation/" %>">salvation <span class="tag-count">2</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/sanctification/" %>">sanctification <span class="tag-count">6</span></a>
+  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/sanctification/" %>">sanctification <span class="tag-count">7</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/sanhedrin/" %>">sanhedrin <span class="tag-count">4</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/scripture/" %>">scripture <span class="tag-count">2</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/second-coming/" %>">second-coming <span class="tag-count">8</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/sermon-on-mount/" %>">sermon-on-mount <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/second-coming/" %>">second-coming <span class="tag-count">4</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/sermon-on-mount/" %>">sermon-on-mount <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/servanthood/" %>">servanthood <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/seven-churches/" %>">seven-churches <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/seven-churches/" %>">seven-churches <span class="tag-count">3</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/seven-last-words/" %>">seven-last-words <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/signs/" %>">signs <span class="tag-count">4</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/son-of-god/" %>">son-of-god <span class="tag-count">2</span></a>
@@ -214,34 +212,34 @@ the number beside each tag is its page count.
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/speech/" %>">speech <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/spirit/" %>">spirit <span class="tag-count">6</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/spiritual-gifts/" %>">spiritual-gifts <span class="tag-count">7</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/spiritual-maturity/" %>">spiritual-maturity <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/stephen/" %>">stephen <span class="tag-count">2</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/stewardship/" %>">stewardship <span class="tag-count">5</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/stewardship/" %>">stewardship <span class="tag-count">6</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/storm/" %>">storm <span class="tag-count">4</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/submission/" %>">submission <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/submission/" %>">submission <span class="tag-count">3</span></a>
   <a class="tag-size-5" href="<%= relative_url "/ntc1y/tags/suffering/" %>">suffering <span class="tag-count">14</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/temple/" %>">temple <span class="tag-count">4</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/temple-cleansing/" %>">temple-cleansing <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/temptation/" %>">temptation <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/testimony/" %>">testimony <span class="tag-count">3</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/thessalonians/" %>">thessalonians <span class="tag-count">10</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/testimony/" %>">testimony <span class="tag-count">3</span></a>
+  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/thessalonica/" %>">thessalonica <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/throne-room/" %>">throne-room <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/timothy/" %>">timothy <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/titus/" %>">titus <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/titus/" %>">titus <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/transfiguration/" %>">transfiguration <span class="tag-count">4</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/trial/" %>">trial <span class="tag-count">5</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/triumphal-entry/" %>">triumphal-entry <span class="tag-count">5</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/twelve-apostles/" %>">twelve-apostles <span class="tag-count">3</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/unity/" %>">unity <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/twelve-apostles/" %>">twelve-apostles <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/unity/" %>">unity <span class="tag-count">4</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/upper-room-discourse/" %>">upper-room-discourse <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/vision/" %>">vision <span class="tag-count">2</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/walking-on-water/" %>">walking-on-water <span class="tag-count">3</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/walking-on-water/" %>">walking-on-water <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/warning/" %>">warning <span class="tag-count">4</span></a>
+  <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/watchfulness/" %>">watchfulness <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/weakness/" %>">weakness <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/wealth/" %>">wealth <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/week-3/" %>">week-3 <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/wilderness/" %>">wilderness <span class="tag-count">2</span></a>
-  <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/wisdom/" %>">wisdom <span class="tag-count">8</span></a>
+  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/wisdom/" %>">wisdom <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/woes/" %>">woes <span class="tag-count">4</span></a>
   <a class="tag-size-4" href="<%= relative_url "/ntc1y/tags/worship/" %>">worship <span class="tag-count">9</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/wrath/" %>">wrath <span class="tag-count">6</span></a>
@@ -249,7 +247,7 @@ the number beside each tag is its page count.
 </div>
 
 <details class="tag-cloud-rare">
-<summary>419 more topics, each on a single page</summary>
+<summary>469 more topics, each on a single page</summary>
 <p><a href="<%= relative_url "/ntc1y/tags/144000/" %>">144000</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/2-john/" %>">2-john</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/3-john/" %>">3-john</a> &middot;
@@ -260,6 +258,7 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/action/" %>">action</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/adoption/" %>">adoption</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/advocate/" %>">advocate</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/affliction/" %>">affliction</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/agabus/" %>">agabus</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/agony/" %>">agony</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/almost-persuaded/" %>">almost-persuaded</a> &middot;
@@ -269,12 +268,19 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/anna/" %>">anna</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/annunciation/" %>">annunciation</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/apocalyptic/" %>">apocalyptic</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/apollos/" %>">apollos</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/apologetics/" %>">apologetics</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/apostles/" %>">apostles</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/apostolic-example/" %>">apostolic-example</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/apostolic-suffering/" %>">apostolic-suffering</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/appeal-to-caesar/" %>">appeal-to-caesar</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/appearing/" %>">appearing</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/approved-workman/" %>">approved-workman</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/aquila-priscilla/" %>">aquila-priscilla</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/areopagus/" %>">areopagus</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/armor-of-god/" %>">armor-of-god</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/artemis-riot/" %>">artemis-riot</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/athens/" %>">athens</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/authorities/" %>">authorities</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/babylon/" %>">babylon</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/balaam/" %>">balaam</a> &middot;
@@ -288,23 +294,27 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/blessed-hope/" %>">blessed-hope</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/blindness/" %>">blindness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/blood/" %>">blood</a> &middot;
-<a href="<%= relative_url "/ntc1y/tags/boasting/" %>">boasting</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/boldness/" %>">boldness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/bowls/" %>">bowls</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/brothers/" %>">brothers</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/building-materials/" %>">building-materials</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/burden-bearing/" %>">burden-bearing</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/busybodies/" %>">busybodies</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/caesarea/" %>">caesarea</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/caiaphas/" %>">caiaphas</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/cain/" %>">cain</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/calling/" %>">calling</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/cana/" %>">cana</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/children-of-god/" %>">children-of-god</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/children-of-light/" %>">children-of-light</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/christ-and-church/" %>">christ-and-church</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/christ-crucified/" %>">christ-crucified</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/christ-example/" %>">christ-example</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/christian-identity/" %>">christian-identity</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/christology/" %>">christology</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/church-care/" %>">church-care</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/church-leadership/" %>">church-leadership</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/circumcision/" %>">circumcision</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/citizenship-heaven/" %>">citizenship-heaven</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/cloud-of-witnesses/" %>">cloud-of-witnesses</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/come-lord-jesus/" %>">come-lord-jesus</a> &middot;
@@ -327,7 +337,6 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/darkness/" %>">darkness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/davidic-line/" %>">davidic-line</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/death-defeated/" %>">death-defeated</a> &middot;
-<a href="<%= relative_url "/ntc1y/tags/deception/" %>">deception</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/defense-of-hope/" %>">defense-of-hope</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/deity-of-christ/" %>">deity-of-christ</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/demoniacs/" %>">demoniacs</a> &middot;
@@ -336,8 +345,10 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/devil/" %>">devil</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/disciples/" %>">disciples</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/discipleship-cost/" %>">discipleship-cost</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/divine-justice/" %>">divine-justice</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/divine-providence/" %>">divine-providence</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/divinity-of-christ/" %>">divinity-of-christ</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/divisions/" %>">divisions</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/divorce/" %>">divorce</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/doers/" %>">doers</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/door-knock/" %>">door-knock</a> &middot;
@@ -358,8 +369,10 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/eutychus/" %>">eutychus</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/evil/" %>">evil</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/exaltation/" %>">exaltation</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/extraordinary-miracles/" %>">extraordinary-miracles</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/eyewitness/" %>">eyewitness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/faith-and-works/" %>">faith-and-works</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/faith-love-hope/" %>">faith-love-hope</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/falling-away/" %>">falling-away</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/fathers-house/" %>">fathers-house</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/favoritism/" %>">favoritism</a> &middot;
@@ -373,7 +386,10 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/fiery-ordeal/" %>">fiery-ordeal</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/flesh-vs-spirit/" %>">flesh-vs-spirit</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/flood/" %>">flood</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/foolishness-of-god/" %>">foolishness-of-god</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/fools-for-christ/" %>">fools-for-christ</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/foot-washing/" %>">foot-washing</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/foundation/" %>">foundation</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/four-horsemen/" %>">four-horsemen</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/four-living-creatures/" %>">four-living-creatures</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/freedom/" %>">freedom</a> &middot;
@@ -382,11 +398,14 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/fullness-of-deity/" %>">fullness-of-deity</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/gabriel/" %>">gabriel</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/galilee/" %>">galilee</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/gallio/" %>">gallio</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/gamaliel/" %>">gamaliel</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/genealogy/" %>">genealogy</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/glory-of-christ/" %>">glory-of-christ</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/god-breathed/" %>">god-breathed</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/god-is-love/" %>">god-is-love</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/godliness/" %>">godliness</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/gods-temple/" %>">gods-temple</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/good-fight/" %>">good-fight</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/good-samaritan/" %>">good-samaritan</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/good-shepherd/" %>">good-shepherd</a> &middot;
@@ -397,6 +416,7 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/great-commission/" %>">great-commission</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/great-multitude/" %>">great-multitude</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/greetings/" %>">greetings</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/grief/" %>">grief</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/grief-to-joy/" %>">grief-to-joy</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/growth/" %>">growth</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/guard-deposit/" %>">guard-deposit</a> &middot;
@@ -413,10 +433,12 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/holiness/" %>">holiness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/holy/" %>">holy</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/holy-spirit-guidance/" %>">holy-spirit-guidance</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/holy-spirit-revelation/" %>">holy-spirit-revelation</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/hospitality/" %>">hospitality</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/house-arrest/" %>">house-arrest</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/household-code/" %>">household-code</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/iconium/" %>">iconium</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/idleness/" %>">idleness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/imprisonment/" %>">imprisonment</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/inheritance/" %>">inheritance</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/injustice/" %>">injustice</a> &middot;
@@ -431,8 +453,8 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/jesus-childhood/" %>">jesus-childhood</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/jesus-identity/" %>">jesus-identity</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/jew-gentile-unity/" %>">jew-gentile-unity</a> &middot;
-<a href="<%= relative_url "/ntc1y/tags/john-baptist/" %>">john-baptist</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/joseph/" %>">joseph</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/joy-in-affliction/" %>">joy-in-affliction</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/judas/" %>">judas</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/jude/" %>">jude</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/judging/" %>">judging</a> &middot;
@@ -466,7 +488,9 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/lystra/" %>">lystra</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/macedonian-call/" %>">macedonian-call</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/magi/" %>">magi</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/magic-renounced/" %>">magic-renounced</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/magnificat/" %>">magnificat</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/man-of-lawlessness/" %>">man-of-lawlessness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/marriage-supper/" %>">marriage-supper</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/mars-hill/" %>">mars-hill</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/martyrs/" %>">martyrs</a> &middot;
@@ -479,22 +503,27 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/miletus/" %>">miletus</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/millennium/" %>">millennium</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/minas/" %>">minas</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/mind-of-christ/" %>">mind-of-christ</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/ministry-integrity/" %>">ministry-integrity</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/miracle/" %>">miracle</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/miraculous-catch/" %>">miraculous-catch</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/missionary-strategy/" %>">missionary-strategy</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/mocking/" %>">mocking</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/model-church/" %>">model-church</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/money/" %>">money</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/mutual-love/" %>">mutual-love</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/mystery/" %>">mystery</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/mystery-of-godliness/" %>">mystery-of-godliness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/narrow-door/" %>">narrow-door</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/nazarite-vow/" %>">nazarite-vow</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/nazirite-vow/" %>">nazirite-vow</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/new-commandment/" %>">new-commandment</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/new-humanity/" %>">new-humanity</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/new-jerusalem/" %>">new-jerusalem</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/new-wine/" %>">new-wine</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/nicodemus/" %>">nicodemus</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/noah/" %>">noah</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/nursing-mother/" %>">nursing-mother</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/oath/" %>">oath</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/obsolete/" %>">obsolete</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/onesimus/" %>">onesimus</a> &middot;
@@ -504,11 +533,13 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/overcoming/" %>">overcoming</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/parables-of-grace/" %>">parables-of-grace</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/partnership/" %>">partnership</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/pastoral-care/" %>">pastoral-care</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/pastoral-charge/" %>">pastoral-charge</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/paul-conversion/" %>">paul-conversion</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/paul-death/" %>">paul-death</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/paul-defense/" %>">paul-defense</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/paul-to-jerusalem/" %>">paul-to-jerusalem</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/paul-vision/" %>">paul-vision</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/paul-voyage/" %>">paul-voyage</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/pearl/" %>">pearl</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/pentecost/" %>">pentecost</a> &middot;
@@ -534,6 +565,7 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/pressing-on/" %>">pressing-on</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/priesthood/" %>">priesthood</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/priscilla/" %>">priscilla</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/priscilla-aquila/" %>">priscilla-aquila</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/prodigal-son/" %>">prodigal-son</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/prologue/" %>">prologue</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/prophecy-fulfillment/" %>">prophecy-fulfillment</a> &middot;
@@ -545,14 +577,18 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/readiness/" %>">readiness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/rebirth/" %>">rebirth</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/redemption/" %>">redemption</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/rejoice-always/" %>">rejoice-always</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/renewal/" %>">renewal</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/resistance-to-spirit/" %>">resistance-to-spirit</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/restoration/" %>">restoration</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/restrainer/" %>">restrainer</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/resurrection-and-life/" %>">resurrection-and-life</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/resurrection-hope/" %>">resurrection-hope</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/rich-fool/" %>">rich-fool</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/rich-man-lazarus/" %>">rich-man-lazarus</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/rich-ruler/" %>">rich-ruler</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/rich-young-man/" %>">rich-young-man</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/righteous-judgment/" %>">righteous-judgment</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/righteousness-by-faith/" %>">righteousness-by-faith</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/roman-justice/" %>">roman-justice</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/rome/" %>">rome</a> &middot;
@@ -563,6 +599,7 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/sadducees/" %>">sadducees</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/salt/" %>">salt</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/salt-light/" %>">salt-light</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/salvation-by-grace/" %>">salvation-by-grace</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/samaria/" %>">samaria</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/samaritan-woman/" %>">samaritan-woman</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/sanhedrin-trial/" %>">sanhedrin-trial</a> &middot;
@@ -574,12 +611,13 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/scripture-searching/" %>">scripture-searching</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/scroll/" %>">scroll</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/seals/" %>">seals</a> &middot;
-<a href="<%= relative_url "/ntc1y/tags/second-missionary-journey/" %>">second-missionary-journey</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/self-control/" %>">self-control</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/sending-72/" %>">sending-72</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/sermon-on-plain/" %>">sermon-on-plain</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/servant-leadership/" %>">servant-leadership</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/servants-of-christ/" %>">servants-of-christ</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/seventh-trumpet/" %>">seventh-trumpet</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/sexual-purity/" %>">sexual-purity</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/sheep-goats/" %>">sheep-goats</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/shepherd/" %>">shepherd</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/shepherds/" %>">shepherds</a> &middot;
@@ -598,6 +636,7 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/solid-food/" %>">solid-food</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/solidarity/" %>">solidarity</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/son-of-man/" %>">son-of-man</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/sons-of-sceva/" %>">sons-of-sceva</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/sonship/" %>">sonship</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/sound-doctrine/" %>">sound-doctrine</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/sound-teaching/" %>">sound-teaching</a> &middot;
@@ -605,8 +644,14 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/spirit-filled/" %>">spirit-filled</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/spirits-in-prison/" %>">spirits-in-prison</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/spiritual-blessings/" %>">spiritual-blessings</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/spiritual-fatherhood/" %>">spiritual-fatherhood</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/spiritual-immaturity/" %>">spiritual-immaturity</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/spiritual-parenting/" %>">spiritual-parenting</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/spiritual-warfare/" %>">spiritual-warfare</a> &middot;
-<a href="<%= relative_url "/ntc1y/tags/stars/" %>">stars</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/spiritual-wisdom/" %>">spiritual-wisdom</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/stand-firm/" %>">stand-firm</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/standing-firm/" %>">standing-firm</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/steadfastness/" %>">steadfastness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/stumbling/" %>">stumbling</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/suffering-for-good/" %>">suffering-for-good</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/sufficiency/" %>">sufficiency</a> &middot;
@@ -623,9 +668,10 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/temple-curtain/" %>">temple-curtain</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/temple-tax/" %>">temple-tax</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/ten-lepers/" %>">ten-lepers</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/tentmaking/" %>">tentmaking</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/test-spirits/" %>">test-spirits</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/tested-faith/" %>">tested-faith</a> &middot;
-<a href="<%= relative_url "/ntc1y/tags/thessalonica/" %>">thessalonica</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/third-missionary-journey/" %>">third-missionary-journey</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/thomas/" %>">thomas</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/throne-of-grace/" %>">throne-of-grace</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/thyatira/" %>">thyatira</a> &middot;
@@ -650,12 +696,12 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/vineyard-workers/" %>">vineyard-workers</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/virtue/" %>">virtue</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/war-in-heaven/" %>">war-in-heaven</a> &middot;
-<a href="<%= relative_url "/ntc1y/tags/watchfulness/" %>">watchfulness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/way-truth-life/" %>">way-truth-life</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/wedding/" %>">wedding</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/wheat-and-weeds/" %>">wheat-and-weeds</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/widow-nain/" %>">widow-nain</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/widows/" %>">widows</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/wisdom-of-cross/" %>">wisdom-of-cross</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/wise-builder/" %>">wise-builder</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/woman/" %>">woman</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/woman-caught-in-adultery/" %>">woman-caught-in-adultery</a> &middot;
@@ -663,6 +709,8 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ntc1y/tags/women-in-ministry/" %>">women-in-ministry</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/women-witnesses/" %>">women-witnesses</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/word/" %>">word</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/word-of-god/" %>">word-of-god</a> &middot;
+<a href="<%= relative_url "/ntc1y/tags/work-ethic/" %>">work-ethic</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/worldliness/" %>">worldliness</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/worlds-hatred/" %>">worlds-hatred</a> &middot;
 <a href="<%= relative_url "/ntc1y/tags/worthy/" %>">worthy</a> &middot;

@@ -3,8 +3,7 @@ week: 12
 day: 3
 title: Repent or Perish
 reading: Luke 13
-parallel_passages: Matthew 13:31-33, Mark 4:30-32, Isaiah 5:1-7, Micah 4:1-4, Matthew
-  7:13-14
+parallel_passages: Matthew 13:31-33; Mark 4:30-32; Matthew 23:37-39
 section: Road to Jerusalem
 tags:
 - repentance
@@ -35,7 +34,7 @@ The twin parables of the mustard seed and yeast (13:18-21) describe the Kingdom'
 
 The passage about the narrow door (13:22-30) is among Jesus' most sobering teachings. When asked "Lord, are only a few people going to be saved?" Jesus does not answer the numerical question but redirects to the personal one: "Make every effort to enter through the narrow door, because many, I tell you, will try to enter and will not be able to" (13:24). The Greek *agonizesthe* ("make every effort" or "strive") is an athletic term -- the root of our word "agonize." Entry into the Kingdom is not casual. Those who presume on their familiarity with Jesus ("We ate and drank with you, and you taught in our streets") will find that acquaintance is not the same as relationship. The reversal theme appears again: "There are those who are last who will be first, and first who will be last" (13:30).
 
-The chapter closes with Jesus' lament over Jerusalem (13:34-35), one of the most emotionally revealing moments in the Gospels. "Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing." The maternal imagery is striking -- Jesus compares himself to a mother hen, desperate to protect her brood. The verb "I have longed" (*ethelesa*) expresses repeated, sustained desire, not a single impulse. This is not cold divine decree but the grief of a God who genuinely desires his people's wellbeing and grieves their rejection.
+The chapter closes with Jesus' lament over Jerusalem (13:34-35), one of the most emotionally revealing moments in the Gospels. "Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing." The maternal imagery is striking -- Jesus compares himself to a mother hen, desperate to protect her brood. The sense of repeated, sustained desire comes from the adverb *posakis* ("how often"), not from the verb "I have longed" (*ethelesa*) itself -- this was no single impulse but a longing renewed again and again. This is not cold divine decree but the grief of a God who genuinely desires his people's wellbeing and grieves their rejection.
 
 ## Key Themes
 

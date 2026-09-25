@@ -3,8 +3,6 @@ week: 30
 day: 2
 title: Lawsuits and the Body as Temple
 reading: 1 Corinthians 6
-parallel_passages: Matthew 5:38-42, Romans 12:17-21, Romans 8:11, 2 Corinthians 6:16,
-  Genesis 2:24, Ephesians 5:30-32
 section: The Early Church
 tags:
 - corinthians
@@ -46,8 +44,7 @@ This body theology stands in sharp contrast to the prevailing Greek philosophica
 ## Connections
 
 - **Old Testament Roots**: Genesis 2:24 ("the two shall become one flesh") is Paul's scriptural basis for the profound bodily union involved in sexual relationships. The temple imagery draws on the entire Old Testament theology of God's dwelling place, from the tabernacle (Exodus 25:8) to Solomon's temple (1 Kings 8:10-11) to Ezekiel's vision of the Spirit departing and returning (Ezekiel 10:18-19, 43:1-5).
-- **New Testament Echoes**: Paul's body-as-temple theology is developed further in Ephesians 2:19-22 and 1 Peter 2:4-5. The command to "glorify God in your body" anticipates Romans 12:1 ("present your bodies as a living sacrifice"). The vice list in vv. 9-10 parallels Galatians 5:19-21 and Ephesians 5:5.
-- **Parallel Passages**: Matthew 5:38-42 (willingness to be wronged), Romans 12:17-21 (overcoming evil with good), 2 Corinthians 6:16 (corporate temple imagery), Ephesians 5:30-32 (one-flesh union applied to Christ and the church).
+- **New Testament Echoes**: Paul's counsel "Why not rather be wronged?" echoes Jesus' teaching on turning the other cheek in Matthew 5:38-42. Paul's body-as-temple theology is developed further in Ephesians 2:19-22 and 1 Peter 2:4-5. The command to "glorify God in your body" anticipates Romans 12:1 ("present your bodies as a living sacrifice"). The vice list in vv. 9-10 parallels Galatians 5:19-21 and Ephesians 5:5.
 
 ## Reflection Questions
 

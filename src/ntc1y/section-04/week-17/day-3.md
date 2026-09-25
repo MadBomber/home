@@ -3,7 +3,6 @@ week: 17
 day: 3
 title: The Way, the Truth, and the Life
 reading: John 14
-parallel_passages: John 7:33-36; John 16:5-7; Acts 1:6-11
 section: Passion and Resurrection
 tags:
 - upper-room-discourse
@@ -41,8 +40,7 @@ Jesus closes the chapter with the gift of peace -- "Peace I leave with you; my p
 
 ## Connections
 - **Old Testament Roots**: Exodus 33:18-23 (Moses' request to see God's glory); Psalm 119:105 ("Your word is a lamp to my feet and a light to my path"); Isaiah 40:3 ("prepare the way of the LORD")
-- **New Testament Echoes**: Acts 4:12 ("there is no other name under heaven"); Colossians 1:15 ("the image of the invisible God"); Romans 8:26-27 (the Spirit intercedes for believers)
-- **Parallel Passages**: John 7:33-36; John 16:5-7; Acts 1:6-11
+- **New Testament Echoes**: Acts 4:12 ("there is no other name under heaven"); Colossians 1:15 ("the image of the invisible God"); Romans 8:26-27 (the Spirit intercedes for believers); John 7:33-36 and John 16:5-7 (Jesus' departure sayings)
 
 ## Reflection Questions
 1. What specific fears or uncertainties does Jesus address in the opening verses of John 14, and how does the promise of the Father's house respond to those fears?

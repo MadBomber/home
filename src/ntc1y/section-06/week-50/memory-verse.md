@@ -11,7 +11,7 @@ translation: ESV
 connections:
   - "Day 1 — John introduces this promise in the context of walking in the light: confession is not a sign of failure but the way believers maintain fellowship with a holy God"
   - "Day 2 — The test of knowing God in 1 John 2, where obedience to his commands is the evidence, depends on this verse: ongoing confession keeps the relationship honest and the obedience genuine"
-  - "Day 3 — John's declaration that God is love in 1 John 3-4 provides the foundation for this promise: God forgives not reluctantly but faithfully, because his very nature is self-giving love"
+  - "Day 4 — John's declaration that God is love in 1 John 4 provides the foundation for this promise: God forgives not reluctantly but faithfully, because his very nature is self-giving love"
 study_slug: ntc1y
 ---
 

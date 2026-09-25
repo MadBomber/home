@@ -3,8 +3,6 @@ week: 33
 day: 1
 title: Treasure in Jars of Clay
 reading: 2 Corinthians 4
-parallel_passages: 2 Corinthians 1:8-11; Romans 8:17-25; Philippians 3:10-11; 1 Peter
-  1:6-7
 section: The Early Church
 tags:
 - 2-corinthians
@@ -45,7 +43,6 @@ The chapter concludes with Paul's eternal perspective. "This light momentary aff
 ## Connections
 - **Old Testament Roots**: Genesis 1:3 (God speaking light into darkness); Isaiah 9:2 (people walking in darkness see a great light); Judges 7:16-20 (Gideon's clay jars broken to reveal torches -- a striking typological parallel)
 - **New Testament Echoes**: Romans 8:17-25 (present suffering and future glory); Philippians 3:10-11 (sharing in Christ's sufferings); 1 Peter 1:6-7 (faith refined by fire)
-- **Parallel Passages**: 2 Corinthians 1:8-11; 2 Corinthians 11:23-28; 2 Corinthians 12:9-10
 
 ## Reflection Questions
 1. What specific contrasts does Paul draw between the treasure and the jar of clay, and why does he insist the fragility of the vessel is by design?

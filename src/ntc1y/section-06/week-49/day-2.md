@@ -3,8 +3,6 @@ week: 49
 day: 2
 title: Growing in Faith, Eyewitnesses of His Majesty
 reading: 2 Peter 1
-parallel_passages: Matthew 17:1-8, John 1:14, Galatians 5:22-23, Colossians 1:3-6,
-  2 Timothy 3:16
 section: Letters and Revelation
 tags:
 - 2-peter
@@ -47,7 +45,6 @@ The chapter closes with a foundational statement about Scripture: "No prophecy o
 
 - **Old Testament Roots**: The Transfiguration on the mountain echoes Moses on Sinai (Exodus 34:29-35) and Elijah on Horeb (1 Kings 19:8-18). The concept of God speaking through prophets "carried along by the Holy Spirit" connects to the entire prophetic tradition from Moses through Malachi.
 - **New Testament Echoes**: The Transfiguration accounts in Matthew 17:1-8, Mark 9:2-8, and Luke 9:28-36 provide the narrative behind Peter's testimony. John 1:14 declares "we have seen his glory." Paul's fruit of the Spirit (Galatians 5:22-23) provides a parallel character list. Paul's statement on Scripture's inspiration in 2 Timothy 3:16 complements Peter's teaching.
-- **Parallel Passages**: Matthew 17:1-8 (Transfiguration), John 1:14 (seeing glory), Galatians 5:22-23 (fruit of the Spirit), Colossians 1:3-6 (faith growing), 2 Timothy 3:16 (Scripture inspired)
 
 ## Reflection Questions
 

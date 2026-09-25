@@ -3,7 +3,6 @@ week: 44
 day: 3
 title: Grace Has Appeared
 reading: Titus 2
-parallel_passages: Romans 6:1-14, Ephesians 2:8-10, Colossians 3:12-17, 1 Peter 2:11-12
 section: Letters and Revelation
 tags:
 - titus
@@ -47,7 +46,6 @@ Verse 14 completes the theological summary: Christ "gave himself for us to redee
 
 - **Old Testament Roots**: The description of the church as "a people that are his very own" (*laos periousios*) draws directly from Exodus 19:5 and Deuteronomy 14:2, where Israel is described as God's treasured possession. The redemption language echoes the Exodus deliverance, and the purification imagery recalls the Levitical system, especially the Day of Atonement (Leviticus 16).
 - **New Testament Echoes**: The relationship between grace and transformed living complements Romans 6:1-14 (shall we sin that grace may increase?) and Ephesians 2:8-10 (saved by grace for good works). The household instructions parallel Colossians 3:12-17 and Ephesians 5:21-6:9. The call to live attractively before outsiders echoes 1 Peter 2:11-12.
-- **Parallel Passages**: Romans 6:1-14 (grace and transformed living), Ephesians 2:8-10 (grace and good works), Colossians 3:12-17 (virtues of the new self), 1 Peter 2:11-12 (honorable conduct among pagans)
 
 ## Reflection Questions
 

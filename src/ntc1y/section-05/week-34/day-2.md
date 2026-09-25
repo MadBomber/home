@@ -3,8 +3,6 @@ week: 34
 day: 2
 title: Paul's Authority and Divine Weapons
 reading: 2 Corinthians 10
-parallel_passages: Ephesians 6:10-18; Romans 1:5; 1 Corinthians 1:18-31; 2 Corinthians
-  3:1-6; Jeremiah 1:10
 section: The Early Church
 tags:
 - 2-corinthians
@@ -46,7 +44,6 @@ The closing verses (12-18) introduce a theme that will dominate chapters 11-12: 
 ## Connections
 - **Old Testament Roots**: Jeremiah 1:10 (appointed to uproot and tear down, build and plant); Jeremiah 9:23-24 (let the one who boasts boast in knowing the Lord); Zechariah 4:6 (not by might nor by power, but by my Spirit)
 - **New Testament Echoes**: Ephesians 6:10-18 (the full armor of God); 1 Corinthians 1:18-31 (the foolishness of the cross confounds the wise); 2 Timothy 2:24-26 (the Lord's servant must gently instruct opponents)
-- **Parallel Passages**: 2 Corinthians 3:1-6; Romans 15:17-20; 1 Corinthians 2:1-5; 1 Corinthians 4:18-21
 
 ## Reflection Questions
 1. What specific "strongholds" -- systems of thought, cultural assumptions, or internal reasoning patterns -- does Paul describe as targets for divine demolition, and what might their modern equivalents be?

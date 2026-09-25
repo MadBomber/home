@@ -3,8 +3,7 @@ week: 33
 day: 5
 title: The Grace of Giving
 reading: 2 Corinthians 8
-parallel_passages: 2 Corinthians 9; 1 Corinthians 16:1-4; Romans 15:25-28; Philippians
-  2:5-8; Acts 11:27-30
+parallel_passages: 2 Corinthians 9; 1 Corinthians 16:1-4; Romans 15:25-28; Galatians 2:10
 section: The Early Church
 tags:
 - 2-corinthians
@@ -46,8 +45,8 @@ Paul's vision of economic equilibrium in verses 13-15 is striking: "I do not mea
 
 ## Connections
 - **Old Testament Roots**: Exodus 16:18 (manna principle -- neither surplus nor lack); Deuteronomy 15:7-11 (open-handedness toward the poor); Proverbs 11:24-25 (generous soul prospers)
-- **New Testament Echoes**: Philippians 2:5-8 (Christ emptying himself); Acts 2:44-45 and 4:32-37 (early church sharing); Romans 15:25-28 (Paul's description of the collection); 1 Timothy 6:17-19 (rich to be generous)
-- **Parallel Passages**: 2 Corinthians 9; 1 Corinthians 16:1-4; Galatians 2:10; Acts 11:27-30
+- **New Testament Echoes**: Philippians 2:5-8 (Christ emptying himself); Acts 2:44-45 and 4:32-37 (early church sharing); Acts 11:27-30 (the earlier Antioch relief mission); 1 Timothy 6:17-19 (rich to be generous)
+- **Parallel Passages**: 2 Corinthians 9 (the continuation of this appeal); 1 Corinthians 16:1-4 (the original instructions); Romans 15:25-28 (Paul's explanation of the collection); Galatians 2:10 (the agreement to remember the poor) -- Paul's own parallel references to the same Jerusalem collection.
 
 ## Reflection Questions
 1. What specific characteristics of the Macedonian churches' giving does Paul highlight, and how does their example challenge common assumptions about who can afford to be generous?

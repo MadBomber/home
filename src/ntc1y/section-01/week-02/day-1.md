@@ -9,11 +9,6 @@ tags:
 - simeon
 - anna
 - jesus-childhood
-parallel_passages:
-- Leviticus 12:1-8
-- Exodus 13:2
-- 1 Samuel 1:24-28
-- Malachi 3:1
 section: The Coming of Christ
 layout: page
 study_slug: ntc1y

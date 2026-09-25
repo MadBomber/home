@@ -81,7 +81,7 @@ This week's readings challenge us in three practical areas:
 
 ## Memory Verse
 
-> "For the grace of God has appeared that offers salvation to all people. It teaches us to say 'No' to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age." — Titus 2:11-12
+> "For the grace of God has appeared, bringing salvation for all people, training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in this present age." — Titus 2:11-12
 
 ## Closing Prayer
 

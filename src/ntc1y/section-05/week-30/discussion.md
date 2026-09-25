@@ -61,7 +61,7 @@ The idol-meat controversy may seem remote from modern life, but the underlying p
 
 ## Deeper Dive
 
-Paul uses the phrase "Do you not know...?" ten times in chapters 5-6 alone. Each instance introduces a theological truth the Corinthians should have understood but were failing to live out.
+Paul uses the phrase "Do you not know...?" seven times in chapters 5-6 alone -- ten times across the letter. Each instance introduces a theological truth the Corinthians should have understood but were failing to live out.
 
 - List some of the things Paul says they should have known (e.g., "your bodies are members of Christ" -- 6:15; "you will judge the world" -- 6:2).
 - What does this repeated pattern tell us about the gap between theological knowledge and practical obedience?
@@ -77,7 +77,7 @@ Paul models in chapter 9 the very principle he teaches in chapter 8: he surrende
 
 ## Memory Verse
 
-> "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies."
+> "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body."
 > -- 1 Corinthians 6:19-20
 
 *Alternative:*

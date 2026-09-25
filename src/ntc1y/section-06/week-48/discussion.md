@@ -66,8 +66,10 @@ Think about a time when you felt like an outsider — in a workplace, a social g
 
 ## Memory Verse
 
-> "But you are a chosen people, a royal priesthood, a holy nation, God's special possession, that you may declare the praises of him who called you out of darkness into his wonderful light."
-> — 1 Peter 2:9
+> "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you."
+> — 1 Peter 1:3-4
+
+A companion text worth keeping nearby is 1 Peter 2:9, where those born again to this living hope are named a chosen race and royal priesthood, called to declare the praises of the one who called them out of darkness into his wonderful light.
 
 ## Closing Prayer
 

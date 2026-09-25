@@ -3,8 +3,6 @@ week: 30
 day: 4
 title: Food Offered to Idols
 reading: 1 Corinthians 8
-parallel_passages: Romans 14:1-23, Acts 15:28-29, 1 Corinthians 10:14-33, Revelation
-  2:14, Revelation 2:20, Deuteronomy 6:4
 section: The Early Church
 tags:
 - corinthians
@@ -44,8 +42,7 @@ Paul closes with a personal declaration that models the ethic he teaches: "There
 ## Connections
 
 - **Old Testament Roots**: Deuteronomy 6:4, the Shema, is Paul's foundation for the monotheistic argument he both affirms and reframes christologically. The prohibition against idolatry in the Decalogue (Exodus 20:3-6) forms the backdrop. Isaiah's mockery of idol-makers (Isaiah 44:9-20) supports the assertion that idols are "nothing."
-- **New Testament Echoes**: Romans 14:1-23 develops the same strong/weak dynamic at greater length, applying it to food laws and holy days in the Roman church. The Jerusalem Council's instruction to abstain from food offered to idols (Acts 15:28-29) represents a different pastoral strategy for a different context. Revelation 2:14 and 2:20 warn against eating idol-food in the context of the seven churches, suggesting the issue persisted for decades.
-- **Parallel Passages**: Romans 14:1-23 (the strong and the weak), 1 Corinthians 10:14-33 (Paul's extended treatment of idol-food), Acts 15:28-29 (the Jerusalem decree on idol-food), Revelation 2:14, 20 (warnings about idol-food in the churches of Pergamum and Thyatira).
+- **New Testament Echoes**: Romans 14:1-23 develops the same strong/weak dynamic at greater length, applying it to food laws and holy days in the Roman church. The Jerusalem Council's instruction to abstain from food offered to idols (Acts 15:28-29) represents a different pastoral strategy for a different context. Revelation 2:14 and 2:20 warn against eating idol-food in the context of the seven churches, suggesting the issue persisted for decades. Paul extends his own treatment of idol-food in 1 Corinthians 10:14-33.
 
 ## Reflection Questions
 

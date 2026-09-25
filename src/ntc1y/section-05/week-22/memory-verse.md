@@ -9,9 +9,9 @@ memory_verse: "James 1:22"
 verse_text: "But be doers of the word, and not hearers only, deceiving yourselves."
 translation: ESV
 connections:
-  - "Day 3 — James drives this point home with his most famous illustration: faith without works is dead, like a body without breath"
-  - "Day 1 — Stephen embodies this verse perfectly, living out the word so completely that he becomes the first Christian martyr"
-  - "Day 5 — The scattering after Stephen's death forces believers to become doers in new places, spreading the gospel through action rather than remaining comfortable hearers in Jerusalem"
+  - "Day 5 — James drives this point home with his most famous illustration: faith without works is dead, like a body without breath"
+  - "Day 2 — Stephen embodies this verse perfectly, living out the word so completely that he becomes the first Christian martyr"
+  - "Day 3 — The scattering after Stephen's death forces believers to become doers in new places, spreading the gospel through action rather than remaining comfortable hearers in Jerusalem"
 study_slug: ntc1y
 ---
 

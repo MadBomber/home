@@ -3,7 +3,6 @@ week: 47
 day: 2
 title: Christ Entered the Greater Tabernacle with His Own Blood
 reading: Hebrews 9
-parallel_passages: Exodus 25-26, Leviticus 16, Exodus 24:6-8, 1 Peter 1:18-19
 section: Letters and Revelation
 tags:
 - hebrews
@@ -25,7 +24,7 @@ Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Heb.9" target=
 
 Hebrews 9 plunges into the most detailed comparison in the letter: the earthly tabernacle and its rituals set side by side with the heavenly sanctuary and Christ's once-for-all sacrifice. To grasp the force of this chapter, we must understand the elaborate system it describes -- a system that defined Jewish worship for over a millennium.
 
-The author begins by describing the tabernacle's physical layout (9:1-5), a structure originally detailed in Exodus 25-27. The first room (the Holy Place) contained the golden lampstand (menorah), the table with the bread of the Presence (twelve loaves representing the twelve tribes, renewed weekly), and the altar of incense. Behind a second curtain lay the Most Holy Place (the Holy of Holies), containing the ark of the covenant overlaid with gold. Inside the ark were the gold jar of manna (God's provision in the wilderness), Aaron's staff that had budded (God's choice of priesthood), and the stone tablets of the covenant (God's law). Above the ark were the golden cherubim, their wings overshadowing the mercy seat (<a href="https://biblehub.com/searchgreek.php?q=hilasterion" target="_blank" rel="noopener"><em>hilasterion</em></a>) -- the place where God's presence dwelt between the cherubim and where atonement blood was sprinkled once a year.
+The author begins by describing the tabernacle's physical layout (9:1-5), a structure originally detailed in Exodus 25-27. The first room (the Holy Place) contained the golden lampstand (menorah) and the table with the bread of the Presence (twelve loaves representing the twelve tribes, renewed weekly). Behind a second curtain lay the Most Holy Place (the Holy of Holies), "having the golden altar of incense and the ark of the covenant covered on all sides with gold" (9:4) -- Hebrews associates the incense altar with the inner room toward which its ministry was directed, though Exodus stations it in the Holy Place. Inside the ark were the gold jar of manna (God's provision in the wilderness), Aaron's staff that had budded (God's choice of priesthood), and the stone tablets of the covenant (God's law). Above the ark were the golden cherubim, their wings overshadowing the mercy seat (<a href="https://biblehub.com/searchgreek.php?q=hilasterion" target="_blank" rel="noopener"><em>hilasterion</em></a>) -- the place where God's presence dwelt between the cherubim and where atonement blood was sprinkled once a year.
 
 The author then describes the daily operations (9:6-7). Ordinary priests entered the first room regularly to perform their duties -- trimming the lamps, replacing the bread, burning incense. But the second room -- the Most Holy Place -- was entered by only one person (the high priest), only once a year (on the Day of Atonement, Yom Kippur), and never without blood, which he offered both for his own sins and for the sins of the people committed in ignorance. The restrictions were severe: entry without proper preparation meant death. The curtain separating the two rooms was a barrier, and the Holy Spirit was "showing by this" (9:8) that access to God's presence was not yet open as long as the first tabernacle system was still functioning.
 
@@ -47,7 +46,6 @@ The chapter's central concept is Christ as "mediator of a new covenant" (9:15). 
 
 - **Old Testament Roots**: The chapter draws extensively on Exodus 25-26 (tabernacle construction), Leviticus 16 (Day of Atonement), Numbers 19 (red heifer purification), and Exodus 24:6-8 (Moses sprinkling blood to ratify the Sinai covenant). The entire sacrificial system of Leviticus stands behind the argument.
 - **New Testament Echoes**: The "once for all" language echoes Romans 6:10. The concept of Christ as mediator connects to 1 Timothy 2:5. Peter describes redemption "with the precious blood of Christ, a lamb without blemish" (1 Peter 1:18-19), using the same sacrificial categories.
-- **Parallel Passages**: Exodus 25-26 (tabernacle), Leviticus 16 (Day of Atonement), Exodus 24:6-8 (covenant blood), 1 Peter 1:18-19 (precious blood of Christ)
 
 ## Reflection Questions
 

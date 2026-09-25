@@ -3,8 +3,7 @@ week: 35
 day: 1
 title: Paul Through Macedonia and Greece
 reading: Acts 20:1-6
-parallel_passages: Acts 19:21-22, 1 Corinthians 16:5-9, 2 Corinthians 2:12-13, 2 Corinthians
-  7:5-7, Romans 15:25-28
+parallel_passages: 2 Corinthians 2:12-13; 2 Corinthians 7:5-7; Romans 15:25-28
 section: The Early Church
 tags:
 - romans
@@ -51,7 +50,7 @@ These six verses, often skimmed as transitional material, are essential for unde
 
 - **Old Testament Roots**: The Passover/Unleavened Bread calendar (Exodus 12, Leviticus 23:5-8) continues to shape the early church's rhythms. The prophetic vision of the nations bringing gifts to Jerusalem (Isaiah 60:5-7) provides theological background for the collection. The pattern of plots against God's servants echoes the experiences of Moses, Elijah, and Jeremiah.
 - **New Testament Echoes**: Paul's collection plans are discussed in 1 Corinthians 16:1-4, 2 Corinthians 8-9, and Romans 15:25-28. The conspiracy echoes earlier plots against Paul in Damascus (Acts 9:23-25) and Jerusalem (Acts 23:12-22). The "we" passages in Acts provide invaluable eyewitness testimony to Paul's journeys.
-- **Parallel Passages**: 1 Corinthians 16:1-4 (collection instructions), 2 Corinthians 8-9 (extended discussion of generosity), Romans 15:25-31 (Paul's plans for Jerusalem, Rome, and Spain), Acts 19:21-22 (Paul's travel intentions).
+- **Parallel Passages**: 2 Corinthians 2:12-13 (Paul's restless passage through Troas); 2 Corinthians 7:5-7 (Titus's arrival in Macedonia); Romans 15:25-28 (Paul's own account of these travel plans).
 
 ## Reflection Questions
 

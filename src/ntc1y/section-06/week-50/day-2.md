@@ -3,7 +3,6 @@ week: 50
 day: 2
 title: Our Advocate, Our Test
 reading: 1 John 2
-parallel_passages: Romans 8:34, Hebrews 7:25, John 14:15, Matthew 24:24, Romans 12:2
 section: Letters and Revelation
 tags:
 - 1-john
@@ -44,8 +43,7 @@ The antichrist section (2:18-27) is the first explicit use of this term in the N
 ## Connections
 
 - **Old Testament Roots**: The propitiation concept connects to the mercy seat and Day of Atonement (Leviticus 16:14-15). The "lust of the flesh, lust of the eyes, pride of life" trilogy echoes the temptation pattern of Genesis 3:6. The command to love draws from Leviticus 19:18.
-- **New Testament Echoes**: Christ as <a href="https://biblehub.com/searchgreek.php?q=parakletos" target="_blank" rel="noopener"><em>parakletos</em></a> connects to the Holy Spirit as <a href="https://biblehub.com/searchgreek.php?q=parakletos" target="_blank" rel="noopener"><em>parakletos</em></a> in John 14-16. The advocacy theme parallels Romans 8:34 and Hebrews 7:25. The antichrist teaching anticipates the fuller development in 2 Thessalonians 2:1-12.
-- **Parallel Passages**: John 13:34-35 (new commandment), Romans 12:2 (not conformed to the world), Matthew 24:24 (false christs), Hebrews 9:11-14 (atoning sacrifice), James 4:4 (friendship with the world)
+- **New Testament Echoes**: Christ as <a href="https://biblehub.com/searchgreek.php?q=parakletos" target="_blank" rel="noopener"><em>parakletos</em></a> connects to the Holy Spirit as <a href="https://biblehub.com/searchgreek.php?q=parakletos" target="_blank" rel="noopener"><em>parakletos</em></a> in John 14-16. The advocacy theme parallels Romans 8:34 and Hebrews 7:25. The antichrist teaching anticipates the fuller development in 2 Thessalonians 2:1-12. The "new command" to love one another repeats Jesus' words at the Last Supper (John 13:34-35).
 
 ## Reflection Questions
 

@@ -3,7 +3,6 @@ week: 47
 day: 4
 title: The Hall of Faith Heroes
 reading: Hebrews 11
-parallel_passages: Genesis 4-50, Exodus 1-14, Joshua 2, Romans 4, James 2:21-25
 section: Letters and Revelation
 tags:
 - hebrews
@@ -39,7 +38,7 @@ Sarah receives her own commendation for considering faithful the one who had mad
 
 Moses' story occupies the second-longest section (11:23-29). His parents' faith preserved him as an infant. His own faith led him to refuse the privileges of Pharaoh's household, "choosing to be mistreated along with the people of God rather than to enjoy the fleeting pleasures of sin" (11:25). The author describes Moses' calculation: "He regarded disgrace for the sake of Christ as of greater value than the treasures of Egypt, because he was looking ahead to his reward" (11:26). The phrase "disgrace for the sake of Christ" is remarkable -- the author sees Moses as already, in some sense, identifying with the Messiah by choosing to suffer with God's people.
 
-Rahab the prostitute closes the named roster (11:31), a stunning inclusion. A Canaanite woman, a sex worker, an outsider in every way -- yet her faith in welcoming Israel's spies placed her in the lineage of the Messiah (Matthew 1:5). The chapter then accelerates into a breathless catalog of unnamed heroes who "conquered kingdoms, administered justice, shut the mouths of lions, quenched the fury of the flames" (11:33-34) -- alongside others who "were tortured, jeered, flogged, chained, stoned, sawn in two" (11:35-37). The world, the author declares, "was not worthy of them" (11:38).
+Rahab the prostitute closes the individually narrated portraits (11:31), a stunning inclusion. A Canaanite woman, a sex worker, an outsider in every way -- yet her faith in welcoming Israel's spies placed her in the lineage of the Messiah (Matthew 1:5). Then the chapter accelerates: "And what more shall I say? For time would fail me to tell of Gideon, Barak, Samson, Jephthah, of David and Samuel and the prophets" (11:32) -- six more names in a rapid roll call, whose exploits the next verses catalog in a breathless rush: they "conquered kingdoms, administered justice, shut the mouths of lions, quenched the fury of the flames" (11:33-34) -- alongside others who "were tortured, jeered, flogged, chained, stoned, sawn in two" (11:35-37). The world, the author declares, "was not worthy of them" (11:38).
 
 The chapter's devastating conclusion ties everything together: "These were all commended for their faith, yet none of them received what had been promised, since God had planned something better for us so that only together with us would they be made perfect" (11:39-40). The old covenant saints saw the promises from a distance and greeted them, but the fulfillment came in Christ -- and it comes to completion in the community of faith across all ages.
 
@@ -53,7 +52,6 @@ The chapter's devastating conclusion ties everything together: "These were all c
 
 - **Old Testament Roots**: The chapter is itself a survey of the Old Testament, touching Genesis 4 (Abel), Genesis 5 (Enoch), Genesis 6-9 (Noah), Genesis 12-22 (Abraham and Sarah), Exodus 1-14 (Moses), Joshua 2 (Rahab), Judges and the prophets. It functions as a reader's guide to the Hebrew Bible through the lens of faith.
 - **New Testament Echoes**: Paul's treatment of Abraham's faith in Romans 4 and Galatians 3 provides the closest parallel. James 2:21-25 also cites Abraham and Rahab but emphasizes faith's expression through works. The cloud of witnesses imagery carries directly into Hebrews 12:1.
-- **Parallel Passages**: Genesis 4-50 (patriarchal narratives), Exodus 1-14 (Moses), Joshua 2 (Rahab), Romans 4 (Abraham's faith), James 2:21-25 (faith and works in Abraham and Rahab)
 
 ## Reflection Questions
 

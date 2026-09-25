@@ -9,9 +9,9 @@ memory_verse: "1 Corinthians 15:55-57"
 verse_text: "O death, where is your victory? O death, where is your sting? The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ."
 translation: ESV
 connections:
-  - "Day 2 — Paul's extended argument for the bodily resurrection in 1 Corinthians 15 reaches its crescendo with this taunt against death, grounded in the historical fact that Christ has already risen"
+  - "Day 3 — Paul's crisis in Asia drove him to rely 'not on ourselves but on God who raises the dead' (2 Corinthians 1:9): the victory over death celebrated in this verse carried him through actual despair"
   - "Day 1 — The chapter opens with the foundational gospel: Christ died, was buried, and was raised, providing the basis for every claim Paul makes about the defeat of death"
-  - "Day 4 — Paul's teaching on the new covenant ministry in 2 Corinthians 3 connects to this verse: the law that once gave sin its power has been surpassed by the Spirit who gives life"
+  - "Day 5 — Paul's teaching on the new covenant ministry in 2 Corinthians 3 connects to this verse: the law that once gave sin its power has been surpassed by the Spirit who gives life"
 study_slug: ntc1y
 ---
 

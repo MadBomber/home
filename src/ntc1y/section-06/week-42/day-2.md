@@ -3,7 +3,7 @@ week: 42
 day: 2
 title: The Supremacy of Christ
 reading: Colossians 1
-parallel_passages: Ephesians 1:15-23, John 1:1-18, Hebrews 1:1-4
+parallel_passages: Ephesians 1:15-23; Philippians 2:6-11
 section: Letters and Revelation
 tags:
 - colossians
@@ -46,7 +46,7 @@ The relationship between Colossians and Ephesians deserves attention. The two le
 
 - **Old Testament Roots**: The "image of God" language recalls Genesis 1:26-27, where humanity is made in God's image; Christ is the perfect image that Adam was meant to reflect. The "firstborn" title echoes Psalm 89:27 and the birthright traditions of Genesis. Wisdom's role in creation (Proverbs 8:22-31) provides background for Christ as the agent of creation.
 - **New Testament Echoes**: John's prologue (John 1:1-18) makes parallel claims about Christ as the divine Word through whom all things were made. Hebrews 1:1-4 similarly declares the Son as the "exact representation" of God who "sustains all things."
-- **Parallel Passages**: Ephesians 1:15-23 (similar prayer and supremacy language), Philippians 2:6-11 (Christ Hymn with incarnation emphasis), 1 Corinthians 8:6 (one Lord through whom all things exist)
+- **Parallel Passages**: Ephesians 1:15-23 (similar prayer and supremacy language); Philippians 2:6-11 (Christ Hymn with incarnation emphasis)
 
 ## Reflection Questions
 

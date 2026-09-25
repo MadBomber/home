@@ -10,7 +10,7 @@ verse_text: "For so the Lord has commanded us, saying, 'I have made you a light 
 translation: ESV
 connections:
   - "Day 3 — Paul and Barnabas quote this verse from Isaiah 49:6 at the synagogue in Pisidian Antioch when Jewish opposition forces them to turn to the Gentiles"
-  - "Day 1 — The church in Antioch commissions Paul and Barnabas for their first missionary journey, becoming the launching pad for the Gentile mission this verse describes"
+  - "Day 3 — The church in Antioch commissions Paul and Barnabas for their first missionary journey, becoming the launching pad for the Gentile mission this verse describes"
   - "Day 5 — The Galatian churches planted on this journey are the living proof that the light has reached the Gentiles, fulfilling Isaiah's ancient prophecy"
 study_slug: ntc1y
 ---

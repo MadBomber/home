@@ -3,7 +3,7 @@ week: 44
 day: 4
 title: Saved by Mercy, Devoted to Good Works
 reading: Titus 3
-parallel_passages: Ephesians 2:1-10, Romans 3:21-26, John 3:3-8, Galatians 5:19-26
+parallel_passages: Ephesians 2:1-10
 section: Letters and Revelation
 tags:
 - titus
@@ -50,7 +50,7 @@ Paul then makes the practical thesis of the entire letter: "This is a trustworth
 
 - **Old Testament Roots**: The "pouring out" of the Spirit fulfills Joel 2:28-29, the prophetic promise of the eschatological outpouring. The inheritance language echoes God's land promise to Abraham (Genesis 15:7-8). The instruction to submit to rulers resonates with Jeremiah 29:7, where exiled Israel is told to seek the welfare of the city where God has sent them.
 - **New Testament Echoes**: The salvation formula of 3:4-7 closely parallels Ephesians 2:1-10 in its structure (before/but God/so that) and theology (saved by grace, not works, for good works). The "washing of rebirth" connects to Jesus' teaching on being "born of water and the Spirit" in John 3:5. The renewal language echoes Romans 12:2 and 2 Corinthians 5:17.
-- **Parallel Passages**: Ephesians 2:1-10 (saved by grace for good works), Romans 3:21-26 (justification by grace through faith), John 3:3-8 (born again of water and Spirit), Galatians 5:19-26 (works of flesh vs. fruit of Spirit)
+- **Parallel Passages**: Ephesians 2:1-10 (saved by grace for good works)
 
 ## Reflection Questions
 

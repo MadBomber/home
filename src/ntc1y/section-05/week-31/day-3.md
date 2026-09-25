@@ -3,8 +3,6 @@ week: 31
 day: 3
 title: One Body, Many Members
 reading: 1 Corinthians 12
-parallel_passages: Romans 12:3-8, Ephesians 4:4-16, Colossians 1:18, Acts 2:1-13,
-  Joel 2:28-32
 section: The Early Church
 tags:
 - corinthians
@@ -48,7 +46,6 @@ The chapter closes with Paul listing roles within the church in a deliberate ord
 
 - **Old Testament Roots**: Joel 2:28-32 prophesied the outpouring of the Spirit on all flesh -- sons and daughters, old and young, male and female -- which Peter declared fulfilled at Pentecost (Acts 2:16-21). The diverse gifts of the Spirit reflect this democratic outpouring. The Old Testament also records the Spirit empowering individuals for specific tasks: Bezalel for craftsmanship (Exodus 31:1-5), the judges for leadership, the prophets for proclamation.
 - **New Testament Echoes**: Romans 12:3-8 provides a parallel (though shorter) list of spiritual gifts with the same body metaphor. Ephesians 4:4-16 develops the body imagery further, emphasizing that gifts are given "for building up the body of Christ." Colossians 1:18 identifies Christ as the head of the body.
-- **Parallel Passages**: Romans 12:3-8 (gifts and the body), Ephesians 4:7-16 (gifts for building up the body), 1 Peter 4:10-11 (using gifts to serve one another), Acts 2:1-13 (the initial outpouring of the Spirit and tongues at Pentecost).
 
 ## Reflection Questions
 

@@ -3,8 +3,6 @@ week: 49
 day: 4
 title: The Day of the Lord and the New Heavens and Earth
 reading: 2 Peter 3
-parallel_passages: Psalm 90:4, Isaiah 65:17, Isaiah 66:22, 1 Thessalonians 5:2, Revelation
-  21:1, Romans 8:19-25
 section: Letters and Revelation
 tags:
 - 2-peter
@@ -51,7 +49,6 @@ Peter closes with a remarkable reference to Paul's letters as Scripture (3:15-16
 
 - **Old Testament Roots**: Psalm 90:4 provides the framework for understanding divine time. Isaiah 65:17 and 66:22 are the source of the "new heavens and new earth" promise. The flood narrative (Genesis 6-9) serves as the precedent for divine judgment on the created order.
 - **New Testament Echoes**: The thief metaphor connects to Jesus' teaching (Matthew 24:43) and Paul's (1 Thessalonians 5:2). Revelation 21:1 provides the most extended vision of the new creation. Romans 8:19-25 describes creation groaning in expectation of liberation. Peter's reference to Paul's letters (3:15-16) is a crucial piece of evidence for the early recognition of the Pauline corpus as Scripture.
-- **Parallel Passages**: Psalm 90:4 (a thousand years as a day), Isaiah 65:17 (new heavens and earth), 1 Thessalonians 5:2 (day of the Lord as thief), Revelation 21:1 (new heaven and new earth), Romans 8:19-25 (creation's groaning)
 
 ## Reflection Questions
 

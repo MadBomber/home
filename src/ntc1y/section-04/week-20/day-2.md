@@ -3,7 +3,7 @@ week: 20
 day: 2
 title: Resurrection and Commission
 reading: Matthew 28
-parallel_passages: Mark 16, Luke 24, John 20, Acts 1:8, Daniel 7:14
+parallel_passages: Mark 16; Luke 24; John 20-21; Acts 1:1-11
 section: Passion and Resurrection
 tags:
 - resurrection

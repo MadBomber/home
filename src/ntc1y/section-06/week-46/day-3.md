@@ -3,8 +3,6 @@ week: 46
 day: 3
 title: Called by God, Not Self-Appointed
 reading: Hebrews 5
-parallel_passages: Psalm 110:4, Psalm 2:7, Genesis 14:17-20, Philippians 2:8, 1 Corinthians
-  3:1-3
 section: Letters and Revelation
 tags:
 - hebrews
@@ -47,9 +45,8 @@ The milk/solid food contrast (5:12-14) draws on a common ancient educational met
 
 ## Connections
 
-- **Old Testament Roots**: Psalm 110:4 introduces the Melchizedek priesthood that will dominate Hebrews 7. Psalm 2:7 was originally a royal enthronement psalm, now applied to Christ's unique sonship. The description of the high priest "selected from among the people" reflects the Levitical ordination narratives of Exodus 28-29 and Leviticus 8-9. Aaron's calling (Exodus 28:1) provides the model of divine appointment.
+- **Old Testament Roots**: Psalm 110:4 introduces the Melchizedek priesthood that will dominate Hebrews 7; Genesis 14:17-20 records Melchizedek's brief, mysterious appearance to Abraham. Psalm 2:7 was originally a royal enthronement psalm, now applied to Christ's unique sonship. The description of the high priest "selected from among the people" reflects the Levitical ordination narratives of Exodus 28-29 and Leviticus 8-9. Aaron's calling (Exodus 28:1) provides the model of divine appointment.
 - **New Testament Echoes**: The Gethsemane scene (Matthew 26:36-46, Luke 22:39-46) provides the historical background for 5:7-8. Paul uses similar milk/solid food language in 1 Corinthians 3:1-3, also addressing immature believers. Philippians 2:8 ("he became obedient to the point of death") closely parallels the "learned obedience through suffering" theme.
-- **Parallel Passages**: Psalm 110:4 (priest forever after the order of Melchizedek), Genesis 14:17-20 (Melchizedek's appearance), Philippians 2:5-11 (obedience unto death), 1 Corinthians 3:1-3 (milk for spiritual infants)
 
 ## Reflection Questions
 

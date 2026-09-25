@@ -3,8 +3,7 @@ week: 12
 day: 2
 title: Light of the World
 reading: John 8
-parallel_passages: Exodus 3:14, Leviticus 20:10, Isaiah 9:2, Isaiah 42:6, Deuteronomy
-  17:6-7
+parallel_passages: John 1:4-9; John 9:5; John 12:46
 section: Road to Jerusalem
 tags:
 - i-am-sayings

@@ -3,7 +3,7 @@ week: 23
 day: 5
 title: Cornelius' Vision — The Gospel to the Gentiles
 reading: Acts 10
-parallel_passages: Acts 11:1-18, Leviticus 11, Isaiah 49:6, Ephesians 2:11-22
+parallel_passages: Acts 11:1-18
 section: The Early Church
 tags:
 - acts
@@ -50,7 +50,7 @@ The theological implications of Acts 10 cannot be overstated. The event demonstr
 ## Connections
 - **Old Testament Roots**: Leviticus 11 (the clean/unclean animal classifications that Peter's vision overturns); Genesis 12:3 (in Abraham "all the families of the earth shall be blessed"); Isaiah 49:6 ("I will make you as a light for the nations, that my salvation may reach to the end of the earth")
 - **New Testament Echoes**: Ephesians 2:11-22 (Christ breaking down the "dividing wall of hostility" between Jew and Gentile); Galatians 3:28 ("There is neither Jew nor Greek... for you are all one in Christ Jesus"); Romans 10:12-13 ("There is no distinction between Jew and Greek; for the same Lord is Lord of all")
-- **Parallel Passages**: Acts 11:1-18, Leviticus 11, Isaiah 49:6, Ephesians 2:11-22
+- **Parallel Passages**: Acts 11:1-18 (Peter's retelling of the Cornelius episode)
 
 ## Reflection Questions
 1. Peter had to see the vision three times before he understood its meaning. What "visions" or promptings has God repeated in your life that you have been slow to accept?

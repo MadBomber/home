@@ -10,7 +10,7 @@ tags:
 - son-of-god
 - angels
 - perseverance
-memory_verse: 2 Timothy 3:16-17; 2 Timothy 4:7
+memory_verse: "2 Timothy 3:16-17"
 layout: page
 study_slug: ntc1y
 ---

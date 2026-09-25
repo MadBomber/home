@@ -9,9 +9,9 @@ memory_verse: "1 Corinthians 6:19-20"
 verse_text: "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body."
 translation: ESV
 connections:
-  - "Day 3 — Paul makes this argument in the context of sexual immorality in Corinth, insisting that what you do with your body matters because your body is inhabited by the Holy Spirit"
-  - "Day 2 — The teaching on lawsuits among believers in 1 Corinthians 6 leads directly into this passage: the Corinthians have forgotten whose they are and what they cost"
-  - "Day 4 — Paul's discussion of marriage in 1 Corinthians 7 builds on this same foundation: the body belongs to the Lord, and every relational decision should reflect that ownership"
+  - "Day 2 — Paul makes this argument in the context of sexual immorality in Corinth, insisting that what you do with your body matters because your body is inhabited by the Holy Spirit"
+  - "Day 5 — Paul lives out this ownership in 1 Corinthians 9:24-27, disciplining his body like an athlete in training because a body bought with a price is meant to serve the gospel"
+  - "Day 3 — Paul's discussion of marriage in 1 Corinthians 7 builds on this same foundation: the body belongs to the Lord, and every relational decision should reflect that ownership"
 study_slug: ntc1y
 ---
 

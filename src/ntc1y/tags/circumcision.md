@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Tagged: second-missionary-journey"
+title: "Tagged: circumcision"
 study_slug: ntc1y
 template_engine: erb
 ---
 
-One page carries the **second-missionary-journey** tag:
+One page carries the **circumcision** tag:
 
 - [Jerusalem Council — Must Gentiles Be Circumcised?](<%= relative_url "/ntc1y/section-05/week-26/day-1/" %>)
 

@@ -3,8 +3,6 @@ week: 32
 day: 3
 title: The God of All Comfort
 reading: 2 Corinthians 1
-parallel_passages: Psalm 34:18-19, Psalm 86:15, Isaiah 40:1-2, Acts 19:23-41, Romans
-  8:17-18, Philippians 1:19-26
 section: The Early Church
 tags:
 - resurrection
@@ -44,7 +42,6 @@ The chapter closes with Paul's assertion that the Holy Spirit has been given as 
 
 - **Old Testament Roots**: Isaiah 40:1-2 ("Comfort, comfort my people, says your God") provides the prophetic backdrop for Paul's theology of divine comfort. The Psalms are filled with the experience of the afflicted crying out to God and receiving comfort (Psalm 34:18-19, 86:15, 119:50, 76). The concept of God's promises being fulfilled echoes the covenant faithfulness celebrated throughout the Old Testament.
 - **New Testament Echoes**: Jesus' promise of the <a href="https://biblehub.com/searchgreek.php?q=Parakletos" target="_blank" rel="noopener"><em>Paraklētos</em></a> (John 14:16, 26; 15:26; 16:7) provides the theological foundation for Paul's understanding of divine comfort. Romans 8:17-18 develops the connection between sharing Christ's sufferings and sharing his glory. Philippians 1:19-26 reveals Paul's ongoing struggle with the desire to depart and be with Christ versus remaining for the sake of the churches.
-- **Parallel Passages**: Romans 8:17-18, 28 (suffering and glory, all things working for good), 2 Corinthians 4:7-12 (treasure in jars of clay), 2 Corinthians 12:7-10 (power made perfect in weakness), 1 Peter 4:12-19 (sharing Christ's sufferings), Ephesians 1:13-14 (the Spirit as guarantee).
 
 ## Reflection Questions
 

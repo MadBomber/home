@@ -3,7 +3,6 @@ week: 17
 day: 5
 title: The Spirit's Work and Christ's Victory
 reading: John 16
-parallel_passages: John 14:16-26; Acts 2:1-4; Romans 8:26-27
 section: Passion and Resurrection
 tags:
 - upper-room-discourse
@@ -43,8 +42,7 @@ The chapter closes with one of the most quoted and most needed declarations in a
 
 ## Connections
 - **Old Testament Roots**: Isaiah 26:17-18; 66:7-9 (birth pains preceding divine intervention); Joel 2:28-32 (the outpouring of the Spirit); Zechariah 12:10 (the Spirit of grace and supplication)
-- **New Testament Echoes**: Acts 2:1-4 (Pentecost as the fulfillment of the Paraclete promise); Romans 8:26-27 (the Spirit interceding for believers); 1 John 5:4 ("this is the victory that has overcome the world -- our faith")
-- **Parallel Passages**: John 14:16-26; Acts 2:1-4; Romans 8:26-27
+- **New Testament Echoes**: Acts 2:1-4 (Pentecost as the fulfillment of the Paraclete promise); Romans 8:26-27 (the Spirit interceding for believers); 1 John 5:4 ("this is the victory that has overcome the world -- our faith"); John 14:16-26 (the promise of the Paraclete)
 
 ## Reflection Questions
 1. What are the three dimensions of the Holy Spirit's convicting work described in John 16:8-11, and how does each one challenge a different assumption the world holds?

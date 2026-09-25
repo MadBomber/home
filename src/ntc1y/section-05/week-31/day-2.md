@@ -3,8 +3,7 @@ week: 31
 day: 2
 title: Head Coverings and the Lord's Supper
 reading: 1 Corinthians 11
-parallel_passages: Genesis 1:26-27, Genesis 2:18-23, Matthew 26:26-29, Mark 14:22-25,
-  Luke 22:14-20, Exodus 24:8
+parallel_passages: Matthew 26:26-29, Mark 14:22-25, Luke 22:14-20
 section: The Early Church
 tags:
 - corinthians
@@ -50,7 +49,7 @@ Paul then issues a solemn warning: "Whoever eats the bread or drinks the cup of 
 
 - **Old Testament Roots**: Genesis 1:26-27 (male and female in God's image) and Genesis 2:18-23 (woman formed from man) undergird the head-covering argument. Exodus 24:8-11 (the covenant meal at Sinai) and Jeremiah 31:31-34 (the new covenant) provide the theological backdrop for the Lord's Supper. The covenant formula "the blood of the covenant" directly echoes Moses' words at Sinai.
 - **New Testament Echoes**: The Synoptic accounts of the Last Supper (Matthew 26:26-29, Mark 14:22-25, Luke 22:14-20) parallel and expand Paul's tradition. John 13 provides the foot-washing as a complementary image of the equality and mutual service the supper demands. Jude 12 warns of those who are "blemishes on your love feasts."
-- **Parallel Passages**: Matthew 26:26-29 (institution narrative), Luke 22:14-20 (institution narrative), Acts 2:42, 46 (breaking of bread in the early church), 1 Corinthians 10:16-17 (participation in the body and blood of Christ).
+- **Parallel Passages**: Matthew 26:26-29, Mark 14:22-25, and Luke 22:14-20 -- the Synoptic institution narratives that parallel Paul's account of the Last Supper in 11:23-25.
 
 ## Reflection Questions
 

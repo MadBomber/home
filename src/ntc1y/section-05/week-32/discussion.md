@@ -86,7 +86,7 @@ This week has moved from the certainty of resurrection to the reality of sufferi
 
 ## Memory Verse
 
-> "Where, O death, is your victory? Where, O death, is your sting? The sting of death is sin, and the power of sin is the law. But thanks be to God! He gives us the victory through our Lord Jesus Christ."
+> "O death, where is your victory? O death, where is your sting? The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ."
 > -- 1 Corinthians 15:55-57
 
 *Alternative:*

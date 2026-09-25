@@ -3,8 +3,7 @@ week: 10
 day: 1
 title: Peter's Confession and the First Passion Prediction
 reading: Mark 8:27-38
-parallel_passages: Matthew 16:13-28, Luke 9:18-27, Isaiah 53, Daniel 7:13-14, Philippians
-  2:5-11
+parallel_passages: Matthew 16:13-28; Luke 9:18-27
 section: Galilean Ministry
 tags:
 - peter-confession

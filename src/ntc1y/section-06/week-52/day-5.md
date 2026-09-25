@@ -3,8 +3,6 @@ week: 52
 day: 5
 title: Behold, I Am Making All Things New
 reading: Revelation 15-22
-parallel_passages: Exodus 15, Isaiah 25:8, Isaiah 65:17, Genesis 2:9-10, Ezekiel 47:1-12,
-  Zechariah 14:8, Genesis 3:22-24
 section: Letters and Revelation
 tags:
 - revelation
@@ -24,13 +22,13 @@ study_slug: ntc1y
 
 ## Reading: Revelation 15-22
 
-Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.15" target="_blank" rel="noopener">Revelation chapter 15</a>
+Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.15" target="_blank" rel="noopener">Revelation chapter 15</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.16" target="_blank" rel="noopener">Revelation chapter 16</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.17" target="_blank" rel="noopener">Revelation chapter 17</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.18" target="_blank" rel="noopener">Revelation chapter 18</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.19" target="_blank" rel="noopener">Revelation chapter 19</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.20" target="_blank" rel="noopener">Revelation chapter 20</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.21" target="_blank" rel="noopener">Revelation chapter 21</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.22" target="_blank" rel="noopener">Revelation chapter 22</a>
 
 ## Historical Context
 
 We have come to the end. This is the final reading of our year-long journey through the New Testament -- a journey that began with the Word becoming flesh in John 1:1 and now concludes with the whole creation becoming new in Revelation 22. Every path we have walked this year -- through the Gospels, through Acts, through Paul's letters and the General Epistles -- has been leading here. Every thread gathers. Every promise finds its answer. Every tear is wiped away. What John sees in these final chapters is nothing less than the consummation of everything God has been doing since he first spoke light into darkness, since he first breathed life into dust, since he first walked with Adam and Eve in the cool of the garden.
 
-Chapters 15-16 present the seven bowls of God's wrath -- the final, most intense cycle of judgment. Before the bowls are poured, John sees those who have been victorious over the beast standing beside a sea of glass mixed with fire, singing "the song of Moses the servant of God and of the song of the Lamb" (15:3). This is a breathtaking moment of convergence: the song that Moses sang after crossing the Red Sea (Exodus 15) is now joined with the song of the Lamb. The Exodus and the Cross -- the two greatest acts of deliverance in the biblical story -- are united in a single anthem of worship. The God who parted the sea is the God who opened the grave. The Lamb who was slain is the Lord who brought Israel out of Egypt. One story. One God. One salvation.
+Chapters 15-16 present the seven bowls of God's wrath -- the final, most intense cycle of judgment. Before the bowls are poured, John sees those who have been victorious over the beast standing beside a sea of glass mixed with fire, singing "the song of Moses, the servant of God, and the song of the Lamb" (15:3). This is a breathtaking moment of convergence: the song that Moses sang after crossing the Red Sea (Exodus 15) is now joined with the song of the Lamb. The Exodus and the Cross -- the two greatest acts of deliverance in the biblical story -- are united in a single anthem of worship. The God who parted the sea is the God who opened the grave. The Lamb who was slain is the Lord who brought Israel out of Egypt. One story. One God. One salvation.
 
 The seven bowls (16:1-21) echo the Egyptian plagues with even greater intensity than the trumpets. Where the trumpets affected one-third, the bowls are total: sores on those with the beast's mark (cf. the boils of Exodus 9:10), the sea turning entirely to blood (cf. Exodus 7:20), rivers becoming blood, scorching heat from the sun, darkness over the beast's kingdom (cf. Exodus 10:21-23), the drying of the Euphrates to prepare for the kings of the east, and finally a catastrophic earthquake with hundred-pound hailstones. The sixth bowl mentions "Armageddon" (Har-Magedon, 16:16) -- the mountain of Megiddo, where many of Israel's decisive battles were fought. The name functions as a symbol for the final confrontation between the forces of God and the forces of evil, though the actual "battle" in Revelation is won not by military force but by the word that proceeds from Christ's mouth (19:15, 21).
 
@@ -70,7 +68,6 @@ From "In the beginning was the Word" to "Come, Lord Jesus." From the manger to t
 
 - **Old Testament Roots**: The song of Moses (Exodus 15) unites with the song of the Lamb. The bowls recapitulate the Egyptian plagues at full intensity. Babylon's fall echoes Isaiah 13-14, 47, Jeremiah 50-51, and Ezekiel 26-28. The new heavens and new earth fulfill Isaiah 65:17 and 66:22. The river of life echoes Genesis 2:10 and Ezekiel 47:1-12. The tree of life reverses Genesis 3:22-24. "No more curse" undoes Genesis 3:14-19. The wiping away of tears fulfills Isaiah 25:8. The Holy City echoes Ezekiel 40-48 and Isaiah 60. Zechariah 14:8 envisions living water flowing from Jerusalem.
 - **New Testament Echoes**: The marriage supper of the Lamb fulfills the wedding parables of Matthew 22 and 25. The Rider on the white horse is the Word of God from John 1:1. "King of Kings and Lord of Lords" connects to 1 Timothy 6:15. The defeat of death fulfills 1 Corinthians 15:26, 54-55. "God will dwell with them" answers Jesus' prayer in John 17:24. The free gift of the water of life echoes John 4:14 and 7:37-38.
-- **Parallel Passages**: Exodus 15 (Song of Moses), Isaiah 25:8 (no more tears or death), Isaiah 65:17 (new heavens and earth), Genesis 2:9-10 (tree of life and river), Ezekiel 47:1-12 (river from the temple), Zechariah 14:8 (living water), Genesis 3:22-24 (access to the tree of life barred, now restored)
 
 ## Reflection Questions
 

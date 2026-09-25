@@ -3,7 +3,7 @@ week: 21
 day: 2
 title: The Day of Pentecost
 reading: Acts 2
-parallel_passages: Joel 2:28-32; John 14:16-17, 26; John 16:7-15; Luke 24:49
+parallel_passages: John 14:16-17, 26; John 16:7-15; Luke 24:49
 section: The Early Church
 tags:
 - acts

@@ -3,7 +3,7 @@ week: 14
 day: 2
 title: Workers in the Vineyard, Third Passion Prediction, Servanthood
 reading: Matthew 20
-parallel_passages: Mark 10:32-45, Luke 18:31-34, Isaiah 53:10-12, Philippians 2:5-8
+parallel_passages: Mark 10:32-45; Luke 18:31-34
 section: Road to Jerusalem
 tags:
 - parable

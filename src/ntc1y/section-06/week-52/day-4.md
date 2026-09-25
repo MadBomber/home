@@ -3,8 +3,6 @@ week: 52
 day: 4
 title: The Woman, the Dragon, and the Beasts
 reading: Revelation 12-14
-parallel_passages: Genesis 3:15, Daniel 7, Isaiah 14:12-15, 2 Thessalonians 2:3-12,
-  Joel 3:13
 section: Letters and Revelation
 tags:
 - revelation
@@ -22,7 +20,7 @@ study_slug: ntc1y
 
 ## Reading: Revelation 12-14
 
-Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.12" target="_blank" rel="noopener">Revelation chapter 12</a>
+Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.12" target="_blank" rel="noopener">Revelation chapter 12</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.13" target="_blank" rel="noopener">Revelation chapter 13</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.14" target="_blank" rel="noopener">Revelation chapter 14</a>
 
 ## Historical Context
 
@@ -40,7 +38,7 @@ Chapter 13 introduces the dragon's two agents: the beast from the sea and the be
 
 The beast from the earth (13:11-18), also called the false prophet (16:13, 19:20, 20:10), has two horns like a lamb but speaks like a dragon -- it mimics Christ's authority while serving Satan's agenda. It performs great signs, deceives the earth's inhabitants, forces everyone to receive the mark of the beast on their right hand or forehead, and controls economic participation: "No one could buy or sell unless they had the mark" (13:17). The number of the beast is 666 -- the most discussed number in biblical interpretation. In Jewish gematria (where letters have numerical values), "Nero Caesar" in Hebrew adds up to 666. Whether or not Nero is the specific referent, the number represents the ultimate human pretension to divine authority: if 7 is the number of divine completion, 6 is perpetually falling short -- and 666 is that falling-short raised to its most emphatic expression.
 
-Chapter 14 provides the counter-vision. The Lamb stands on Mount Zion with the 144,000, singing a new song (14:1-5). Three angels deliver three messages: the eternal gospel ("Fear God and give him glory," 14:6-7), the announcement of Babylon's fall ("Fallen! Fallen is Babylon the Great," 14:8), and a warning against taking the mark of the beast (14:9-12). The chapter closes with the harvest of the earth (14:14-20) -- a figure drawn from Joel 3:13, where the Son of Man reaps the earth and the "grapes of wrath" are trampled in the great winepress of God's judgment, producing blood that flows as high as the horses' bridles for a distance of 1,600 stadia. The imagery is deliberately overwhelming, portraying the finality and completeness of divine judgment.
+Chapter 14 provides the counter-vision. The Lamb stands on Mount Zion with the 144,000, singing a new song (14:1-5). Three angels deliver three messages: the eternal gospel ("Fear God and give him glory," 14:6-7), the announcement of Babylon's fall ("Fallen! Fallen is Babylon the Great," 14:8), and a warning against taking the mark of the beast (14:9-12). The chapter closes with the harvest of the earth (14:14-20) -- a figure whose sickle and winepress imagery is drawn from Joel 3:13; in Revelation it is the Son of Man who reaps the earth, and the "grapes of wrath" are trampled in the great winepress of God's judgment, producing blood that flows as high as the horses' bridles for a distance of 1,600 stadia. The imagery is deliberately overwhelming, portraying the finality and completeness of divine judgment.
 
 ## Key Themes
 
@@ -52,7 +50,6 @@ Chapter 14 provides the counter-vision. The Lamb stands on Mount Zion with the 1
 
 - **Old Testament Roots**: The woman and dragon imagery connects to Genesis 3:15 (the enmity between the serpent and the woman's offspring). The beasts draw from Daniel 7 (four empires). Michael the archangel appears in Daniel 10:13, 21 and 12:1. The harvest imagery comes from Joel 3:13. The fall of Babylon echoes Isaiah 21:9 and Jeremiah 51:8.
 - **New Testament Echoes**: The "man of lawlessness" in 2 Thessalonians 2:3-12 describes a similar figure to the sea beast. Jesus' temptation by Satan (Matthew 4:1-11) is a personal enactment of the cosmic conflict. The mark of the beast contrasts with the seal of God (Revelation 7:3, 14:1). The "book of life" connects to Philippians 4:3 and Luke 10:20.
-- **Parallel Passages**: Genesis 3:15 (the protoevangelium), Daniel 7 (four beasts), Isaiah 14:12-15 (the fall of the morning star), 2 Thessalonians 2:3-12 (the man of lawlessness), Joel 3:13 (the harvest)
 
 ## Reflection Questions
 

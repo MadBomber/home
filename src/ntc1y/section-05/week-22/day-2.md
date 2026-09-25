@@ -3,8 +3,6 @@ week: 22
 day: 2
 title: Stephen's Speech and Martyrdom
 reading: Acts 7
-parallel_passages: Genesis 12-50, Exodus 1-34, Deuteronomy 18:15, 1 Kings 6-8, Isaiah
-  66:1-2
 section: The Early Church
 tags:
 - stephen
@@ -23,7 +21,7 @@ Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Acts.7" target
 
 ## Historical Context
 
-Acts 7 contains the longest speech in the entire book of Acts -- fifty-three verses of sustained theological argument delivered by a man who knows he is about to die. Stephen stands before the Sanhedrin, the seventy-one-member supreme court of the Jewish nation, accused of blasphemy against Moses and God, against the temple and the law. His face, Luke has told us, shines like the face of an angel. The high priest asks the standard judicial question: "Are these things so?" (7:1). Stephen's answer is a masterpiece of prosecutorial rhetoric disguised as a history lesson. He does not deny the charges so much as reframe the entire narrative of Israel's story to demonstrate that his accusers, not he, stand in the long tradition of resisting God's purposes.
+Acts 7 contains the longest speech in the entire book of Acts -- fifty-two verses of sustained theological argument delivered by a man who knows he is about to die. Stephen stands before the Sanhedrin, the seventy-one-member supreme court of the Jewish nation, accused of blasphemy against Moses and God, against the temple and the law. His face, Luke has told us, shines like the face of an angel. The high priest asks the standard judicial question: "Are these things so?" (7:1). Stephen's answer is a masterpiece of prosecutorial rhetoric disguised as a history lesson. He does not deny the charges so much as reframe the entire narrative of Israel's story to demonstrate that his accusers, not he, stand in the long tradition of resisting God's purposes.
 
 The speech moves through four great movements of salvation history, each one building toward the same devastating conclusion. The first movement (7:2-8) covers Abraham, from his call in Mesopotamia through the covenant of circumcision. Stephen makes a point that would have been obvious to his audience but carried subversive implications: God appeared to Abraham "while he was still in Mesopotamia, before he lived in Haran" (7:2). The God of Israel is not bound to the land of Israel. He met Abraham in pagan territory, made his covenant promises there, and only later directed Abraham to the land. Stephen is laying the groundwork for his climactic argument: God's presence cannot be confined to one building in one city.
 
@@ -48,8 +46,7 @@ They drag Stephen outside the city -- the place of execution, as it was for Jesu
 
 ## Connections
 - **Old Testament Roots**: Genesis 12-50 (Abraham through Joseph); Exodus 1-34 (Moses and the covenant); Deuteronomy 18:15 ("The Lord your God will raise up for you a prophet like me"); 1 Kings 8:27 (Solomon's admission that heaven cannot contain God); Isaiah 66:1-2 (heaven as God's throne); Amos 5:25-27 (Israel's wilderness idolatry)
-- **New Testament Echoes**: Luke 23:34, 46 (Jesus' dying words mirrored by Stephen); Acts 22:20 (Paul later recalls Stephen's death); Hebrews 11 (the faith chapter retells much of the same history Stephen surveys)
-- **Parallel Passages**: Matthew 23:29-37 (Jesus' indictment of those who killed the prophets); John 1:11 ("He came to his own, and his own people did not receive him"); Romans 2:28-29 (true circumcision is of the heart)
+- **New Testament Echoes**: Luke 23:34, 46 (Jesus' dying words mirrored by Stephen); Acts 22:20 (Paul later recalls Stephen's death); Hebrews 11 (the faith chapter retells much of the same history Stephen surveys); Matthew 23:29-37 (Jesus' indictment of those who killed the prophets); John 1:11 ("He came to his own, and his own people did not receive him"); Romans 2:28-29 (true circumcision is of the heart)
 
 ## Reflection Questions
 1. Stephen retells Israel's history to reveal a pattern of rejecting God's messengers. Where do you see this pattern continuing in the life of the church today -- resistance to uncomfortable truths spoken by faithful voices?

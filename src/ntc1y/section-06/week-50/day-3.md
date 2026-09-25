@@ -3,8 +3,6 @@ week: 50
 day: 3
 title: Children of God, Love One Another
 reading: 1 John 3
-parallel_passages: John 1:12-13, Romans 8:14-17, Matthew 25:31-46, Deuteronomy 15:7-8,
-  James 2:15-17
 section: Letters and Revelation
 tags:
 - 1-john
@@ -47,7 +45,6 @@ The closing section (3:19-24) addresses the problem of a condemning heart. In a 
 
 - **Old Testament Roots**: The Cain and Abel narrative (Genesis 4:1-16) provides the negative paradigm for brother-hatred. The call to share material goods echoes Deuteronomy 15:7-8 ("do not be hardhearted or tightfisted toward your poor brother"). The "children of God" language builds on Israel's identity as God's firstborn son (Exodus 4:22).
 - **New Testament Echoes**: "Children of God" connects to John 1:12-13 and Romans 8:14-17. The "not with words but with actions" theme parallels James 2:15-17 ("faith without deeds is dead"). The condemning heart section anticipates Romans 8:1 ("no condemnation for those in Christ").
-- **Parallel Passages**: Romans 8:14-17 (adopted children, heirs), James 2:14-17 (faith and deeds), Matthew 25:31-46 (practical love as evidence of faith), Galatians 5:6 (faith working through love)
 
 ## Reflection Questions
 

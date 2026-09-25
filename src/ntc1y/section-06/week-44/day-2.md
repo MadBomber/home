@@ -3,7 +3,7 @@ week: 44
 day: 2
 title: Setting Things in Order on Crete
 reading: Titus 1
-parallel_passages: 1 Timothy 3:1-7, Acts 27:7-13, 1 Timothy 1:3-7, Ezekiel 34:1-10
+parallel_passages: 1 Timothy 3:1-7; 1 Timothy 1:3-7
 section: Letters and Revelation
 tags:
 - titus
@@ -47,7 +47,7 @@ The chapter closes with a devastating description of the false teachers: "They c
 
 - **Old Testament Roots**: The concept of shepherding leaders echoes Ezekiel 34's indictment of Israel's false shepherds who fed themselves rather than the flock. The elder as household manager connects to the Old Testament emphasis on the family as the foundational unit of covenant life (Deuteronomy 6:4-9).
 - **New Testament Echoes**: The elder qualifications closely parallel 1 Timothy 3:1-7, confirming that Paul applied a consistent standard across different cultural settings. The "circumcision group" opponents recall the Judaizers of Galatians 2:12 and Acts 15, suggesting that the tension between Jewish and Gentile Christianity persisted decades after the Jerusalem Council.
-- **Parallel Passages**: 1 Timothy 3:1-7 (overseer qualifications), Acts 27:7-13 (Paul's earlier contact with Crete), 1 Timothy 1:3-7 (false teachers in Ephesus), Ezekiel 34:1-10 (judgment on false shepherds)
+- **Parallel Passages**: 1 Timothy 3:1-7 (overseer qualifications); 1 Timothy 1:3-7 (false teachers in Ephesus)
 
 ## Reflection Questions
 

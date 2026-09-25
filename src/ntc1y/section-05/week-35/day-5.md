@@ -3,8 +3,6 @@ week: 35
 day: 5
 title: Abraham Justified by Faith
 reading: Romans 4
-parallel_passages: Genesis 15:1-6, Genesis 17:1-14, Genesis 18:11-14, Psalm 32:1-2,
-  Galatians 3:6-18, Hebrews 11:8-12, James 2:20-24
 section: The Early Church
 tags:
 - romans
@@ -49,7 +47,6 @@ The chapter's climax is Paul's description of Abraham's faith in the face of imp
 
 - **Old Testament Roots**: Genesis 15:1-6 provides the foundational text: Abraham believed God and it was credited as righteousness. Genesis 17:1-14 records the institution of circumcision. Genesis 18:11-14 describes Sarah's barrenness and God's promise. Psalm 32:1-2 provides David's testimony to forgiveness apart from works. Genesis 22 (the binding of Isaac) is the background for the theme of God providing where human ability fails.
 - **New Testament Echoes**: Galatians 3:6-18 develops a parallel argument from Abraham's faith. Hebrews 11:8-12 celebrates Abraham's faith in the "hall of faith." James 2:20-24 presents a complementary perspective, arguing that Abraham's faith was "completed" by his works -- not contradicting Paul but addressing a different question (the evidence of faith, not the basis of justification).
-- **Parallel Passages**: Galatians 3:6-18 (Abraham and the promise), Galatians 3:26-29 (all are Abraham's offspring through faith), Hebrews 11:8-12, 17-19 (Abraham's faith), James 2:20-24 (faith and works in Abraham), Romans 9:6-8 (not all Israel is Israel).
 
 ## Reflection Questions
 

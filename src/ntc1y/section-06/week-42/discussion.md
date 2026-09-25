@@ -62,7 +62,7 @@ Paul's letter to Philemon is a case study in how the gospel transforms entrenche
 
 ## Memory Verse Reflection
 
-> "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus." — Philippians 4:6-7
+> "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus." — Philippians 4:6-7
 
 How does the inclusion of "with thanksgiving" change the nature of our prayers when we are anxious? What is the relationship between thanksgiving and the peace that follows?
 

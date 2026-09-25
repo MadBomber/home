@@ -3,8 +3,6 @@ week: 37
 day: 5
 title: Disputable Matters
 reading: Romans 14
-parallel_passages: 1 Corinthians 8:1-13, 1 Corinthians 10:23-33, Colossians 2:16-23,
-  Galatians 5:13-15, Isaiah 45:23
 section: The Early Church
 tags:
 - romans
@@ -51,7 +49,6 @@ The chapter concludes with a principle that has far-reaching implications: "Ever
 
 - **Old Testament Roots**: Isaiah 45:23 (every knee will bow) provides the eschatological horizon before which all believers will stand. Leviticus 11 (kosher food laws) formed the background to the dispute over food. Genesis 9:3 (every moving thing given as food after the flood) provides a broader canonical perspective on food.
 - **New Testament Echoes**: First Corinthians 8:1-13 (food offered to idols and the weaker conscience) presents a parallel discussion. First Corinthians 10:23-33 (all things lawful but not all things beneficial) echoes the same principles. Colossians 2:16-23 (let no one judge you regarding food or holy days) makes the same point. Galatians 5:13 (freedom not for self-indulgence but for love) provides the theological framework.
-- **Parallel Passages**: 1 Corinthians 8:1-13 (the weaker brother), 1 Corinthians 10:23-33 (liberty and love), Colossians 2:16-23 (food and festivals), Galatians 5:13-15 (freedom for love), Romans 15:1-7 (the strong bearing with the weak).
 
 ## Reflection Questions
 

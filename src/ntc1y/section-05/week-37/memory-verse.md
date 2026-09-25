@@ -9,8 +9,8 @@ memory_verse: "Romans 12:1-2"
 verse_text: "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect."
 translation: ESV
 connections:
-  - "Day 1 — Romans 12 opens the practical section of the letter: everything Paul taught about justification, sanctification, and God's sovereign purposes now flows into a call to transformed living"
-  - "Day 3 — The ethical instructions in Romans 13-14 about love, government, and Christian liberty are specific applications of the renewed mind this verse describes"
+  - "Day 3 — Romans 12 opens the practical section of the letter: everything Paul taught about justification, sanctification, and God's sovereign purposes now flows into a call to transformed living"
+  - "Day 4 — The ethical instructions in Romans 13 about love and government, continuing into Romans 14's teaching on Christian liberty in Day 5, are specific applications of the renewed mind this verse describes"
   - "Day 2 — The olive tree metaphor in Romans 11, where Gentiles are grafted in by grace, provides the 'mercies of God' that motivate the sacrifice Paul calls for here"
 study_slug: ntc1y
 ---

@@ -37,9 +37,9 @@ This week we read slowly through these opening five chapters, savoring the rich 
 
 - **[John](/characters/john/)** -- The "beloved disciple," now elderly, exiled to Patmos under Emperor Domitian (c. 95 AD).
 - **[The Risen Christ](/characters/jesus/)** -- Appearing as the Son of Man among the lampstands, eyes like blazing fire, voice like rushing waters.
-- **[The Seven Churches](/locations/asia-minor/)** -- Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea -- real congregations in Roman Asia Minor.
-- **[The Twenty-Four Elders](/locations/heaven/)** -- Heavenly figures representing the fullness of God's people (12 tribes + 12 apostles).
-- **[The Four Living Creatures](/locations/heaven/)** -- Angelic beings surrounding the throne, echoing Isaiah's seraphim and Ezekiel's cherubim.
+- **The Seven Churches** -- Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea -- real congregations in Roman Asia Minor.
+- **The Twenty-Four Elders** -- Heavenly figures representing the fullness of God's people (12 tribes + 12 apostles).
+- **The Four Living Creatures** -- Angelic beings surrounding the throne, echoing Isaiah's seraphim and Ezekiel's cherubim.
 - **[The Lamb](/characters/jesus/)** -- The central figure of Revelation: the Lion of Judah who conquers by being slain.
 
 ## Key Locations

@@ -3,8 +3,6 @@ week: 34
 day: 3
 title: The Fool's Speech and the Catalog of Sufferings
 reading: 2 Corinthians 11
-parallel_passages: 2 Corinthians 6:3-10; Acts 14:19-20; Acts 16:22-24; Acts 27:1-44;
-  1 Corinthians 4:9-13; Galatians 1:6-9
 section: The Early Church
 tags:
 - 2-corinthians
@@ -45,8 +43,7 @@ The chapter ends with what seems like an anticlimax but is actually its most sub
 
 ## Connections
 - **Old Testament Roots**: Jeremiah 20:7-18 (the prophet's lament over suffering for God's word); Job 2:7-13 (catalog of suffering as testing); Psalm 34:19 (many are the afflictions of the righteous)
-- **New Testament Echoes**: 1 Corinthians 4:9-13 (apostles as spectacle, fools for Christ); Philippians 3:7-11 (counting all things as loss); Colossians 1:24 (filling up what is lacking in Christ's afflictions)
-- **Parallel Passages**: 2 Corinthians 6:3-10; Acts 14:19-20; Acts 16:22-24; Galatians 6:17
+- **New Testament Echoes**: 1 Corinthians 4:9-13 (apostles as spectacle, fools for Christ); Acts 14:19-20 and 16:22-24 (the Lystra stoning and Philippi beating Paul lists); Philippians 3:7-11 (counting all things as loss); Colossians 1:24 (filling up what is lacking in Christ's afflictions)
 
 ## Reflection Questions
 1. Paul lists eight categories of "danger" in verse 26. What does the sheer variety of threats tell you about the cost of the apostolic mission and the nature of opposition to the gospel?

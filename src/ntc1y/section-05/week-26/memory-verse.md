@@ -10,8 +10,8 @@ verse_text: "For 'In him we live and move and have our being'; as even some of y
 translation: ESV
 connections:
   - "Day 5 — Paul speaks these words on the Areopagus in Athens, engaging Greek philosophy on its own terms while pointing it toward the God who made the world"
-  - "Day 3 — The Jerusalem Council's decision to welcome Gentiles without requiring circumcision is the theological foundation that allows Paul to stand in Athens and speak to pagans as people already known by God"
-  - "Day 4 — Paul's arrival in Philippi and the conversion of Lydia show the same principle: God is already at work among the Gentiles before the missionary arrives"
+  - "Day 1 — The Jerusalem Council's decision to welcome Gentiles without requiring circumcision is the theological foundation that allows Paul to stand in Athens and speak to pagans as people already known by God"
+  - "Day 2 — Paul's arrival in Philippi and the conversion of Lydia show the same principle: God is already at work among the Gentiles before the missionary arrives"
 study_slug: ntc1y
 ---
 

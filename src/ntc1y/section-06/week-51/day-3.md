@@ -3,7 +3,6 @@ week: 51
 day: 3
 title: Letters to Sardis, Philadelphia, Laodicea
 reading: Revelation 3
-parallel_passages: Isaiah 22:22, Exodus 32:32-33, Malachi 3:16-18, Luke 12:35-40
 section: Letters and Revelation
 tags:
 - revelation
@@ -52,7 +51,6 @@ The chapter's most beloved verse follows: "Behold, I stand at the door and knock
 ## Connections
 - **Old Testament Roots**: Isaiah 22:22 (the key of David given to the faithful steward Eliakim); Exodus 32:32-33 (Moses and the book of life); Isaiah 60:14 (the nations bowing before God's people); Malachi 3:16-18 (God's "book of remembrance" for those who fear his name); Song of Solomon 5:2 ("I slept, but my heart was awake... my beloved is knocking")
 - **New Testament Echoes**: Matthew 7:21-23 ("I never knew you" — the danger of religious activity without genuine relationship); Luke 12:35-40 (Christ coming like a thief — the Sardis warning); John 10:7-9 (Christ as the door); Matthew 25:1-13 (the parable of the ten virgins — the danger of sleeping)
-- **Parallel Passages**: Isaiah 22:22, Exodus 32:32-33, Malachi 3:16-18, Luke 12:35-40
 
 ## Reflection Questions
 1. Sardis had a reputation for being alive but was dead. How do you evaluate the spiritual health of a church — or of your own spiritual life — beyond surface appearances? What are the warning signs that vitality has been replaced by mere reputation?

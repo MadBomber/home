@@ -3,8 +3,6 @@ week: 35
 day: 2
 title: The Gospel and God's Wrath
 reading: Romans 1
-parallel_passages: Psalm 19:1-6, Wisdom 13:1-9, Acts 17:22-31, Habakkuk 2:4, Genesis
-  1:26-27
 section: The Early Church
 tags:
 - romans
@@ -47,9 +45,8 @@ The vice list in verses 29-31 catalogs the social consequences of idolatry: unri
 
 ## Connections
 
-- **Old Testament Roots**: Habakkuk 2:4 ("the righteous shall live by faith") provides the scriptural foundation for Paul's thesis. Psalm 19:1-6 celebrates the heavens declaring God's glory (general revelation). The golden calf narrative (Exodus 32) and the prophetic critique of idolatry (Isaiah 44:9-20, Jeremiah 10:1-16) provide the background for Paul's description of the exchange of God's glory for images. Genesis 1:26-27 establishes the creation order that Paul sees violated.
+- **Old Testament Roots**: Habakkuk 2:4 ("the righteous shall live by faith") provides the scriptural foundation for Paul's thesis. Psalm 19:1-6 celebrates the heavens declaring God's glory (general revelation). The golden calf narrative (Exodus 32) and the prophetic critique of idolatry (Isaiah 44:9-20, Jeremiah 10:1-16) provide the background for Paul's description of the exchange of God's glory for images. Genesis 1:26-27 establishes the creation order that Paul sees violated. The apocryphal Wisdom of Solomon 13:1-9 offers a parallel Hellenistic Jewish critique of those who fail to know the Creator from his works.
 - **New Testament Echoes**: Paul's Athens speech (Acts 17:22-31) makes a similar argument from creation to divine judgment. Galatians 3:11 cites the same Habakkuk verse. Romans 3:21-26 will develop the positive counterpart to the wrath revealed here. Ephesians 4:17-19 echoes the description of Gentile darkened minds.
-- **Parallel Passages**: Acts 14:15-17 (God's witness in creation), Acts 17:22-31 (the Areopagus speech), Galatians 3:11 (the righteous shall live by faith), Ephesians 2:1-3 (dead in trespasses and sins), Colossians 3:5-9 (similar vice list).
 
 ## Reflection Questions
 

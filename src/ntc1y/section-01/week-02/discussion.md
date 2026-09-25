@@ -23,7 +23,7 @@ This week we have traveled from the temple courts where an elderly man held an i
 
 ### 1. Recognition and Blindness
 
-Simeon and Anna recognized the infant Jesus as the Messiah. The Magi traveled great distances to worship him. Yet Herod tried to destroy him, and the chief priests and scribes, who knew exactly where the Messiah would be born, showed no interest in going to see for themselves. John the Baptist recognized Jesus at the Jordan and declared him the Lamb of God.
+Simeon and Anna recognized the infant Jesus as the Messiah. The Magi traveled great distances to worship him. Yet Herod tried to destroy him, and the chief priests and scribes, who knew exactly where the Messiah would be born, showed no interest in going to see for themselves. John the Baptist recognized Jesus at the Jordan and protested that he needed to be baptized by him.
 
 **Discussion:** What determines whether a person recognizes Jesus for who he is or remains blind to his identity? Is it knowledge, faith, humility, or something else entirely?
 
@@ -92,7 +92,7 @@ This week we read three accounts of John the Baptist's ministry and Jesus' bapti
 
 Alternate:
 
-> "And a voice from heaven said, 'This is my beloved Son, with whom I am well pleased.'" -- Matthew 3:17 (ESV)
+> "And behold, a voice from heaven said, 'This is my beloved Son, with whom I am well pleased.'" -- Matthew 3:17 (ESV)
 
 ---
 

@@ -3,8 +3,6 @@ week: 34
 day: 4
 title: The Thorn and the Triumph of Grace
 reading: 2 Corinthians 12
-parallel_passages: 2 Corinthians 4:7-12; Galatians 4:13-15; Romans 8:26-28; Philippians
-  4:12-13; 1 Corinthians 2:1-5
 section: The Early Church
 tags:
 - 2-corinthians
@@ -45,8 +43,7 @@ The remainder of the chapter transitions from theology to practical application 
 
 ## Connections
 - **Old Testament Roots**: Exodus 40:34-35 (God's glory filling the tabernacle); Job 1-2 (Satan operating within divine permission); Numbers 33:55 (thorns as ongoing affliction); Judges 7 (Gideon's weakness as the vehicle of divine victory)
-- **New Testament Echoes**: John 1:14 (the Word tabernacled among us); Philippians 4:12-13 (I can do all things through Christ who strengthens me); James 4:6 (God opposes the proud but gives grace to the humble); 1 Peter 5:10 (the God of all grace will restore you)
-- **Parallel Passages**: 2 Corinthians 4:7-12; 1 Corinthians 2:1-5; Galatians 4:13-15; Romans 8:26-28
+- **New Testament Echoes**: John 1:14 (the Word tabernacled among us); Galatians 4:13-15 (the bodily ailment that may lie behind the thorn); Philippians 4:12-13 (I can do all things through Christ who strengthens me); James 4:6 (God opposes the proud but gives grace to the humble); 1 Peter 5:10 (the God of all grace will restore you)
 
 ## Reflection Questions
 1. Paul waited fourteen years to mention his vision of the third heaven. What does this restraint tell you about his understanding of authentic spiritual authority, and how does it contrast with the super-apostles' approach?

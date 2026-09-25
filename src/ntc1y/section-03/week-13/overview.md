@@ -53,7 +53,7 @@ Together, these readings paint a picture of a God who defies every category we c
 - **[The Road to Jerusalem](/locations/jerusalem/)** -- The continuing journey context for Luke's parables and teachings.
 - **[Jerusalem / The Temple](/locations/temple-jerusalem/)** -- Where the man born blind is healed and the Good Shepherd discourse takes place.
 - **[Solomon's Colonnade](/locations/temple-jerusalem/)** -- The covered portico on the eastern side of the temple, where Jesus speaks during the Festival of Dedication (John 10:22-23).
-- **[The Border Between Samaria and Galilee](/locations/sychar/)** -- Where Jesus encounters the ten lepers (Luke 17:11).
+- **[The Border Between Samaria and Galilee](/locations/galilee/)** -- Where Jesus encounters the ten lepers (Luke 17:11).
 
 ## Key Themes
 

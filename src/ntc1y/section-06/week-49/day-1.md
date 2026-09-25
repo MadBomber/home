@@ -3,8 +3,6 @@ week: 49
 day: 1
 title: Shepherd the Flock, Humble Yourselves, Resist the Devil
 reading: 1 Peter 5
-parallel_passages: John 21:15-17, Ezekiel 34, Proverbs 3:34, James 4:6-10, Ephesians
-  6:10-13
 section: Letters and Revelation
 tags:
 - 1-peter
@@ -49,7 +47,6 @@ The closing warning is vivid: "Be alert and of sober mind. Your enemy the devil 
 
 - **Old Testament Roots**: The shepherd imagery draws on Ezekiel 34, where God rebukes Israel's unfaithful shepherds and promises to shepherd his flock himself. The humility quotation comes from Proverbs 3:34 (LXX). The lion as predator echoes Psalm 22:13 and Amos 3:8.
 - **New Testament Echoes**: Jesus' restoration of Peter in John 21:15-17 -- "Feed my sheep" -- stands directly behind Peter's charge to elders. James 4:6-10 quotes the same Proverbs text and similarly calls for humility and resistance to the devil. Paul's armor of God passage (Ephesians 6:10-13) provides a parallel call to stand firm.
-- **Parallel Passages**: John 21:15-17 (feed my sheep), Ezekiel 34 (unfaithful shepherds), Proverbs 3:34 (God opposes the proud), James 4:6-10 (humble yourselves), Ephesians 6:10-13 (stand firm against the devil)
 
 ## Reflection Questions
 

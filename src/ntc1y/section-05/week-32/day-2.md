@@ -3,8 +3,7 @@ week: 32
 day: 2
 title: Closing Instructions
 reading: 1 Corinthians 16
-parallel_passages: Acts 18:24-28, Acts 19:21-22, Romans 15:25-28, 2 Corinthians 8-9,
-  Galatians 2:10
+parallel_passages: Romans 15:25-28; 2 Corinthians 8-9; Galatians 2:10
 section: The Early Church
 tags:
 - resurrection
@@ -48,7 +47,7 @@ Paul's final words are written "with my own hand" (v. 21), a practice he follows
 
 - **Old Testament Roots**: The prophetic vision of the nations bringing gifts to Jerusalem (Isaiah 60:5-7, 66:20) provides the theological background for Paul's collection project. The five military imperatives echo the language of holy war and divine commissioning in Deuteronomy 31:6 and Joshua 1:6-9.
 - **New Testament Echoes**: Romans 15:25-28 and 2 Corinthians 8-9 provide extensive parallel discussions of the Jerusalem collection. Acts 18:1-4 records Paul's initial meeting with Aquila and Priscilla. Revelation 22:20 echoes the <a href="https://biblehub.com/searchgreek.php?q=Maranatha" target="_blank" rel="noopener"><em>Maranatha</em></a> prayer: "Come, Lord Jesus!"
-- **Parallel Passages**: 2 Corinthians 8-9 (the extended treatment of the collection), Romans 15:25-28 (Paul's explanation of the collection's purpose), Acts 20:4 (the delegation carrying the collection to Jerusalem), Galatians 2:10 (the original agreement to remember the poor).
+- **Parallel Passages**: 2 Corinthians 8-9 (the extended treatment of the collection), Romans 15:25-28 (Paul's explanation of the collection's purpose), and Galatians 2:10 (the original agreement to remember the poor) -- Paul's own parallel references to the same Jerusalem collection.
 
 ## Reflection Questions
 

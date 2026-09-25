@@ -3,7 +3,6 @@ week: 43
 day: 4
 title: Train Yourself in Godliness
 reading: 1 Timothy 4
-parallel_passages: 2 Timothy 2:15, Hebrews 5:14, 1 Corinthians 9:24-27
 section: Letters and Revelation
 tags:
 - 1-timothy
@@ -47,7 +46,6 @@ The reference to Timothy's "gift" (<a href="https://biblehub.com/searchgreek.php
 
 - **Old Testament Roots**: The defense of creation's goodness echoes Genesis 1:31 ("God saw all that he had made, and it was very good"). The public reading of Scripture continues the synagogue pattern rooted in Nehemiah 8:1-8, where Ezra read the Law publicly and the Levites helped the people understand it.
 - **New Testament Echoes**: Paul's athletic metaphor extends his own practice in 1 Corinthians 9:24-27, where he describes disciplining his body "like an athlete." Hebrews 5:14 echoes the training concept: "solid food is for the mature, who by constant use have trained themselves to distinguish good from evil."
-- **Parallel Passages**: 2 Timothy 2:15 (approved workman handling truth correctly), Hebrews 5:14 (training through practice), 1 Corinthians 9:24-27 (running to win the prize)
 
 ## Reflection Questions
 

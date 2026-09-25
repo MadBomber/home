@@ -10,7 +10,7 @@ verse_text: "For by grace you have been saved through faith. And this is not you
 translation: ESV
 connections:
   - "Day 3 — Paul writes these words from a Roman prison, summarizing the gospel with crystalline precision: salvation is a gift, not an achievement"
-  - "Day 5 — The mystery of the church in Ephesians 3 — Jews and Gentiles made one body — flows from this verse: if salvation is by grace alone, there is no basis for ethnic or religious superiority"
+  - "Day 4 — The mystery of the church in Ephesians 3 — Jews and Gentiles made one body — flows from this verse: if salvation is by grace alone, there is no basis for ethnic or religious superiority"
   - "Day 1 — The closing chapters of Acts show Paul preaching the kingdom of God in Rome under house arrest, a living embodiment of grace sustaining ministry through chains"
 study_slug: ntc1y
 ---

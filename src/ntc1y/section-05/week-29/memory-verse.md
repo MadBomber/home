@@ -9,9 +9,9 @@ memory_verse: "1 Corinthians 1:18"
 verse_text: "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God."
 translation: ESV
 connections:
-  - "Day 1 — Paul opens 1 Corinthians by addressing divisions in the church, arguing that the cross demolishes every human basis for boasting, whether in eloquence, wisdom, or party loyalty"
+  - "Day 2 — Paul opens 1 Corinthians by addressing divisions in the church, arguing that the cross demolishes every human basis for boasting, whether in eloquence, wisdom, or party loyalty"
   - "Day 3 — Paul's declaration that he decided 'to know nothing among you except Jesus Christ and him crucified' shows that the word of the cross is not one message among many but the only message"
-  - "Day 5 — The riot of the silversmiths in Ephesus in Acts 19 demonstrates the world's hostility to a message that threatens its power structures — the 'folly' the world perceives in the cross"
+  - "Day 1 — The riot of the silversmiths in Ephesus in Acts 19 demonstrates the world's hostility to a message that threatens its power structures — the 'folly' the world perceives in the cross"
 study_slug: ntc1y
 ---
 

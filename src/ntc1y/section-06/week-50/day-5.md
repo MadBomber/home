@@ -3,8 +3,6 @@ week: 50
 day: 5
 title: Overcoming Faith, Walking in Truth
 reading: 1 John 5 + 2 John + 3 John
-parallel_passages: John 1:12-13, John 3:36, John 5:24, Romans 8:37, 3 John with Philippians
-  2:3
 section: Letters and Revelation
 tags:
 - 1-john
@@ -55,7 +53,6 @@ The juxtaposition of 2 John and 3 John reveals a delicate balance. Second John w
 
 - **Old Testament Roots**: The concept of "overcoming" draws on the ancient biblical pattern of God's people prevailing against hostile forces (Daniel 7:21-22, 27). The tests of true and false prophecy echo Deuteronomy 13:1-5 and 18:20-22. The emphasis on testimony connects to the Deuteronomic requirement of two or three witnesses (Deuteronomy 19:15).
 - **New Testament Echoes**: The purpose statement of 5:13 directly parallels John 20:31. The overcoming language connects to Revelation 2-3, where each letter to the seven churches promises rewards "to the one who overcomes." The Diotrephes situation parallels Paul's warning about those who "cause divisions" (Romans 16:17) and the contrast between servant leadership and self-promotion (Philippians 2:3-4).
-- **Parallel Passages**: John 1:12-13 (born of God), John 3:36 (having the Son = having life), John 5:24 (from death to life), Romans 8:37 (more than conquerors), Philippians 2:3 (considering others above yourself)
 
 ## Reflection Questions
 

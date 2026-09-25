@@ -3,7 +3,7 @@ week: 13
 day: 5
 title: The Good Shepherd
 reading: John 10
-parallel_passages: Psalm 23, Ezekiel 34, Isaiah 40:11, John 17:21
+parallel_passages: Matthew 18:12-14; Luke 15:3-7; John 17:1-26
 section: Road to Jerusalem
 tags:
 - good-shepherd

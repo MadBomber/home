@@ -3,8 +3,7 @@ week: 1
 day: 5
 title: The Birth of Jesus
 reading: Luke 2:1-20
-parallel_passages: Micah 5:2, Isaiah 9:2-7, Isaiah 11:1-10, Matthew 2:1-12, Psalm
-  72
+parallel_passages: Matthew 2:1-12
 section: The Coming of Christ
 tags:
 - luke

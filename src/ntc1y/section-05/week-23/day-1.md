@@ -3,7 +3,6 @@ week: 23
 day: 1
 title: Taming the Tongue — Two Kinds of Wisdom
 reading: James 3
-parallel_passages: Proverbs 18:21, Matthew 12:36-37, Proverbs 2:6
 section: The Early Church
 tags:
 - james
@@ -48,7 +47,6 @@ The chapter closes with a beatitude that connects wisdom to justice: "And a harv
 ## Connections
 - **Old Testament Roots**: Proverbs 18:21 ("Death and life are in the power of the tongue"); the wisdom tradition of Proverbs and Ecclesiastes; Genesis 1:26-28 (human dominion over creation contrasted with inability to tame the tongue)
 - **New Testament Echoes**: Matthew 12:36-37 (Jesus' teaching that people will give account for every careless word); Ephesians 4:29 (speech that builds up); Galatians 5:22-23 (the fruit of the Spirit as the character of heavenly wisdom)
-- **Parallel Passages**: Proverbs 18:21, Matthew 12:36-37, Proverbs 2:6
 
 ## Reflection Questions
 1. James uses three metaphors for the tongue — a horse's bit, a ship's rudder, and a fire. Which image most vividly captures the role of speech in your own experience, and why?

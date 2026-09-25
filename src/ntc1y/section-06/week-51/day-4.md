@@ -3,7 +3,6 @@ week: 51
 day: 4
 title: Throne Room of God — Holy, Holy, Holy
 reading: Revelation 4
-parallel_passages: Isaiah 6:1-8, Ezekiel 1:4-28, Ezekiel 10:1-22, Exodus 19:16-20
 section: Letters and Revelation
 tags:
 - revelation
@@ -46,9 +45,8 @@ The response of the twenty-four elders completes the picture: they fall before t
 - **The holiness that transcends comprehension** — The triple "holy" declares that God is not merely greater than other beings but categorically different — transcendent, unapproachable, and infinitely worthy of the worship he receives
 
 ## Connections
-- **Old Testament Roots**: Isaiah 6:1-8 (Isaiah's throne room vision, the seraphim crying "Holy, holy, holy"); Ezekiel 1:4-28 (Ezekiel's vision of the cherubim and the throne above the expanse); Exodus 19:16-20 (lightning, thunder, and fire at Sinai); Genesis 9:12-16 (the rainbow as a sign of God's covenant faithfulness); 1 Kings 22:19 (Micaiah's vision of the Lord on his throne)
+- **Old Testament Roots**: Isaiah 6:1-8 (Isaiah's throne room vision, the seraphim crying "Holy, holy, holy"); Ezekiel 1:4-28 and 10:1-22 (Ezekiel's visions of the cherubim and the throne above the expanse); Exodus 19:16-20 (lightning, thunder, and fire at Sinai); Genesis 9:12-16 (the rainbow as a sign of God's covenant faithfulness); 1 Kings 22:19 (Micaiah's vision of the Lord on his throne)
 - **New Testament Echoes**: John 1:18 ("No one has ever seen God"); 1 Timothy 6:16 (God "dwelling in unapproachable light"); Hebrews 12:22-24 (the heavenly Jerusalem with "innumerable angels in festal gathering"); Philippians 2:10-11 (every knee bowing and every tongue confessing)
-- **Parallel Passages**: Isaiah 6:1-8, Ezekiel 1:4-28, Ezekiel 10:1-22, Exodus 19:16-20
 
 ## Reflection Questions
 1. The throne room vision presents God as utterly sovereign, utterly holy, and utterly worshiped. How does this vision challenge or correct your default image of God? What aspects of God's character tend to be underemphasized in your experience of the church?

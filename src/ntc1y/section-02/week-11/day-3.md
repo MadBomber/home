@@ -3,7 +3,7 @@ week: 11
 day: 3
 title: Sending the 72, Good Samaritan, Mary and Martha
 reading: Luke 10
-parallel_passages: Matthew 10:1-16, Leviticus 19:18, Deuteronomy 6:5
+parallel_passages: Matthew 10:1-16; John 11:1-5; Luke 9:1-6
 section: Galilean Ministry
 tags:
 - sending-72

@@ -3,7 +3,7 @@ week: 43
 day: 5
 title: Caring for God's Family
 reading: 1 Timothy 5
-parallel_passages: Acts 6:1-6, James 1:27, Deuteronomy 25:4, Luke 10:7
+parallel_passages: Acts 6:1-6
 section: Letters and Revelation
 tags:
 - 1-timothy
@@ -47,7 +47,7 @@ The instructions on disciplining elders — "Do not entertain an accusation agai
 
 - **Old Testament Roots**: The widow care system fulfills the Old Testament's persistent command to protect widows (Exodus 22:22, Deuteronomy 10:18, Isaiah 1:17). The "do not muzzle the ox" quotation from Deuteronomy 25:4 is given a new application — just as an ox laboring in the field deserves to eat, so a laboring elder deserves financial support. The two-or-three-witnesses standard comes directly from Deuteronomy 19:15.
 - **New Testament Echoes**: The widow care dispute of Acts 6:1-6 shows the church's commitment to this responsibility from its earliest days. Paul's citation of "the worker deserves his wages" (Luke 10:7) as "Scripture" is remarkable evidence that Jesus' words were being collected and given scriptural authority within decades of his ministry.
-- **Parallel Passages**: Acts 6:1-6 (the original widow care crisis), James 1:27 (pure religion cares for widows and orphans), Deuteronomy 25:4 (the unmuzzled ox), Luke 10:7 (the worker's wages)
+- **Parallel Passages**: Acts 6:1-6 (the original widow care crisis)
 
 ## Reflection Questions
 

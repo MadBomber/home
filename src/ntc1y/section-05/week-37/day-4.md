@@ -3,8 +3,6 @@ week: 37
 day: 4
 title: Love Fulfills the Law
 reading: Romans 13
-parallel_passages: 1 Peter 2:13-17, Mark 12:13-17, 1 Thessalonians 5:1-11, Galatians
-  5:14, Leviticus 19:18, Galatians 3:27
 section: The Early Church
 tags:
 - romans
@@ -51,7 +49,6 @@ The final verse is one of the most personally significant in church history: "Cl
 
 - **Old Testament Roots**: Leviticus 19:18 (love your neighbor as yourself) provides the commandment that summarizes all others. Deuteronomy 5:17-21 supplies the Decalogue commandments Paul quotes. Proverbs 8:15-16 (rulers govern by God's wisdom) and Daniel 2:21 (God sets up and deposes kings) undergird the theology of governmental authority.
 - **New Testament Echoes**: First Peter 2:13-17 (submit to every human authority) provides a parallel instruction. Mark 12:13-17 records Jesus' teaching about rendering to Caesar. First Thessalonians 5:1-11 develops the same night/day, sleeping/waking imagery. Galatians 3:27 (clothed with Christ in baptism) provides the baptismal background for "putting on" Christ.
-- **Parallel Passages**: 1 Peter 2:13-17 (submission to authority), Mark 12:13-17 (render to Caesar), 1 Thessalonians 5:1-11 (the day of the Lord), Galatians 5:14 (the whole law fulfilled in love), Titus 3:1-2 (submit to rulers and authorities).
 
 ## Reflection Questions
 

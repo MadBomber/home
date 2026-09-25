@@ -80,9 +80,9 @@ This week's readings challenge us in three interconnected ways:
 
 ## Memory Verse
 
-> "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith." -- Hebrews 12:1-2
+> "Now faith is the assurance of things hoped for, the conviction of things not seen." -- Hebrews 11:1
 
-How does the image of the "cloud of witnesses" change the way you think about your daily walk of faith? Does knowing that Abel, Abraham, Moses, and Rahab have completed their course and that their testimony surrounds you make the race feel less lonely?
+How does this definition of faith -- assurance and conviction about realities that cannot yet be seen -- change the way you think about your daily walk? Its companion text, Hebrews 12:1-2, shows the definition put into motion: surrounded by the great cloud of witnesses whose faith chapter 11 catalogs, we run our own race with eyes fixed on Jesus. Does knowing that Abel, Abraham, Moses, and Rahab have completed their course and that their testimony surrounds you make the race feel less lonely?
 
 ## Closing Prayer
 

@@ -3,7 +3,7 @@ week: 43
 day: 2
 title: One God, One Mediator
 reading: 1 Timothy 2
-parallel_passages: Romans 13:1-7, Hebrews 8:6, John 14:6, Jeremiah 29:7
+parallel_passages: Romans 13:1-7
 section: Letters and Revelation
 tags:
 - 1-timothy
@@ -42,7 +42,7 @@ The restriction on women teaching or having authority over men (2:12) has been i
 
 - **Old Testament Roots**: The "one God" declaration echoes the Shema of Deuteronomy 6:4, Israel's foundational confession. The command to pray for rulers echoes Jeremiah 29:7's instruction to pray for the peace of Babylon. The "ransom" language connects to the Old Testament redemption of the firstborn (Exodus 13:13) and the kinsman-redeemer tradition (Ruth 4).
 - **New Testament Echoes**: The mediator theme is developed extensively in Hebrews 8:6 and 9:15. Jesus' claim "I am the way, the truth, and the life; no one comes to the Father except through me" (John 14:6) is the christological foundation for Paul's "one mediator" declaration.
-- **Parallel Passages**: Romans 13:1-7 (submit to authorities), Hebrews 8:6 (mediator of a better covenant), John 14:6 (the exclusive way), Jeremiah 29:7 (pray for the city)
+- **Parallel Passages**: Romans 13:1-7 (submit to authorities)
 
 ## Reflection Questions
 

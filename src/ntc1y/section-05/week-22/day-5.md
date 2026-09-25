@@ -3,7 +3,6 @@ week: 22
 day: 5
 title: Faith and Works
 reading: James 2
-parallel_passages: Genesis 15:6, Genesis 22, Joshua 2, Romans 4, Galatians 3
 section: The Early Church
 tags:
 - james
@@ -43,8 +42,7 @@ The two examples James provides -- Abraham and Rahab -- make his case from oppos
 
 ## Connections
 - **Old Testament Roots**: Genesis 15:6 (Abraham believed and it was credited as righteousness); Genesis 22 (the binding of Isaac); Joshua 2 (Rahab and the spies); Leviticus 19:18 (the royal law -- love your neighbor)
-- **New Testament Echoes**: Romans 4 (Paul's treatment of Abraham's justification by faith); Galatians 5:6 (faith working through love); Matthew 7:21-23 (not everyone who says "Lord, Lord" will enter the kingdom); 1 John 3:17-18 (love in action, not in word only)
-- **Parallel Passages**: Romans 3:28; Galatians 2:16; Hebrews 11:17-19 (Abraham's faith at the binding of Isaac); Hebrews 11:31 (Rahab's faith)
+- **New Testament Echoes**: Romans 4 (Paul's treatment of Abraham's justification by faith); Galatians 5:6 (faith working through love); Matthew 7:21-23 (not everyone who says "Lord, Lord" will enter the kingdom); 1 John 3:17-18 (love in action, not in word only); Romans 3:28 (justified by faith apart from works of the law); Galatians 2:16 (not justified by works of the law); Hebrews 11:17-19 (Abraham's faith at the binding of Isaac); Hebrews 11:31 (Rahab's faith)
 
 ## Reflection Questions
 1. James describes a specific scene of favoritism in the assembly (2:1-4). What forms does favoritism take in your church or community -- and how do they contradict the gospel?

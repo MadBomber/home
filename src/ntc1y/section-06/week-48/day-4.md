@@ -3,7 +3,6 @@ week: 48
 day: 4
 title: Husbands and Wives — Suffering for Doing Good
 reading: 1 Peter 3
-parallel_passages: Ephesians 5:22-33, Genesis 6:1-8, Colossians 3:18-19, Romans 12:17-21
 section: Letters and Revelation
 tags:
 - 1-peter
@@ -50,7 +49,6 @@ Peter then connects this cosmic proclamation to baptism: "Baptism, which corresp
 ## Connections
 - **Old Testament Roots**: Genesis 6:1-8 (the "sons of God" and the wickedness that provoked the Flood); Genesis 18:12 (Sarah calling Abraham "lord"); Psalm 34:12-16 (the righteous sufferer whom God watches over); Isaiah 53:9 ("he had done no violence, and there was no deceit in his mouth")
 - **New Testament Echoes**: Ephesians 5:22-33 (Paul's parallel instruction on marriage, grounded in Christ and the church); Colossians 3:18-19 (wives and husbands in the Lord); Romans 12:17-21 (do not repay evil for evil); Matthew 5:10 ("Blessed are those who are persecuted for righteousness' sake")
-- **Parallel Passages**: Ephesians 5:22-33, Genesis 6:1-8, Colossians 3:18-19, Romans 12:17-21
 
 ## Reflection Questions
 1. Peter tells wives they can "win without a word" through their conduct. When has someone's consistent Christlike behavior — rather than their arguments — most powerfully influenced your own faith or convictions? What does this suggest about the relative power of words and actions in evangelism?

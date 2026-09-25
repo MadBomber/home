@@ -3,7 +3,6 @@ week: 26
 day: 2
 title: Timothy Joins Paul — Macedonian Vision — Lydia Converted
 reading: Acts 16:1-15
-parallel_passages: Acts 15:36-41, 2 Timothy 1:5, Philippians 1:3-5
 section: The Early Church
 tags:
 - timothy
@@ -32,7 +31,7 @@ The narrative then records one of the most theologically significant directional
 
 At Troas, the direction becomes clear. "A vision appeared to Paul in the night: a man of Macedonia was standing there, urging him and saying, 'Come over to Macedonia and help us'" (16:9). This Macedonian call is one of the watershed moments in the history of Western civilization. Had Paul turned south toward Egypt or east toward Mesopotamia, the entire trajectory of European history would have been different. The gospel was about to cross from Asia into Europe, from the eastern to the western Mediterranean, from the world of its birth into the world that would become its primary vehicle for global expansion. Luke marks the moment with a subtle but dramatic literary shift: "immediately we sought to go on into Macedonia, concluding that God had called us to preach the gospel to them" (16:10). The pronoun changes from "they" to "we" — the famous "we passages" that indicate Luke himself has joined the missionary team at Troas. The narrator becomes a participant.
 
-The missionaries sail to Neapolis and then travel inland to Philippi, which Luke describes as "a leading city of the district of Macedonia and a Roman colony" (16:12). Philippi was a city with a proud Roman identity. Founded by Philip II of Macedon (Alexander the Great's father) and refounded as a Roman colony by Augustus after the Battle of Philippi in 42 BC, the city was home to retired Roman soldiers and their descendants. Its residents held Roman citizenship and were governed by Roman law. The city's Romanness is a crucial narrative detail: it sets up the later conflict over Paul and Silas's citizenship (16:37-39) and explains the particular character of the Philippian church, which would become Paul's most loyal and generous partner in ministry (Philippians 1:3-5, 4:14-18).
+The missionaries sail to Neapolis and then travel inland to Philippi, which Luke describes as "a leading city of the district of Macedonia and a Roman colony" (16:12). Philippi was a city with a proud Roman identity. Founded by Philip II of Macedon (Alexander the Great's father), established as a Roman colony after the Battle of Philippi in 42 BC, and refounded by Augustus after Actium, the city was home to retired Roman soldiers and their descendants. Its residents held Roman citizenship and were governed by Roman law. The city's Romanness is a crucial narrative detail: it sets up the later conflict over Paul and Silas's citizenship (16:37-39) and explains the particular character of the Philippian church, which would become Paul's most loyal and generous partner in ministry (Philippians 1:3-5, 4:14-18).
 
 Luke notes that there was apparently no synagogue in Philippi — a surprising absence that may indicate a very small Jewish population (a synagogue required a minimum of ten Jewish men). Instead, Paul and his companions go "outside the gate to the riverside, where we supposed there was a place of prayer" (16:13). The place of prayer (proseuche) was an informal gathering spot for Jewish and God-fearing women — a detail that is itself significant. In a city dominated by Roman military culture and masculine civic identity, the gospel's first audience is a group of women at a river.
 
@@ -48,8 +47,6 @@ The conversion itself is described with remarkable theological precision: "The L
 ## Connections
 - **Old Testament Roots**: Isaiah 49:6 ("a light for the nations, that my salvation may reach to the end of the earth"); the pattern of God directing his servants through visions (Genesis 46:2, Numbers 12:6)
 - **New Testament Echoes**: Philippians 1:3-5 (Paul's gratitude for the Philippian church's partnership from "the first day" — this day); 2 Timothy 1:5 (Timothy's faith passed down from his grandmother Lois and mother Eunice); 1 Corinthians 9:19-23 (Paul becoming all things to all people)
-- **Parallel Passages**: Acts 15:36-41, 2 Timothy 1:5, Philippians 1:3-5
-
 ## Reflection Questions
 1. Paul circumcised Timothy for strategic reasons while fiercely opposing circumcision as a salvation requirement. How do you distinguish between core convictions that must never be compromised and cultural practices that can be adapted for the sake of mission?
 2. The Holy Spirit closed doors to Asia and Bithynia before opening the door to Macedonia. Have you experienced a "closed door" that later proved to be divine redirection? How do you discern the difference between resistance to be overcome and guidance to be followed?

@@ -3,8 +3,6 @@ week: 35
 day: 4
 title: Justified Freely by Grace
 reading: Romans 3
-parallel_passages: Psalm 14:1-3, Psalm 51:4, Psalm 143:2, Genesis 15:6, Isaiah 53:11,
-  Galatians 2:15-21, Philippians 3:8-9
 section: The Early Church
 tags:
 - romans
@@ -49,7 +47,6 @@ The chapter closes with Paul's declaration that justification by faith does not 
 
 - **Old Testament Roots**: The catena in vv. 10-18 draws from Psalms 14, 5, 140, 10, 36 and Isaiah 59. Psalm 143:2 ("no one living is righteous before you") anticipates Paul's conclusion. The <a href="https://biblehub.com/searchgreek.php?q=hilasterion" target="_blank" rel="noopener"><em>hilastērion</em></a> (mercy seat) in Exodus 25:17-22 and Leviticus 16 provides the sacrificial typology for Christ's atoning work. Genesis 15:6 (Abraham's justification by faith) is anticipated here and developed in chapter 4.
 - **New Testament Echoes**: Galatians 2:15-21 provides a compressed parallel argument for justification by faith apart from works of the law. Philippians 3:8-9 echoes Paul's personal experience of receiving a righteousness "from God that depends on faith." Hebrews 9:5 uses <a href="https://biblehub.com/searchgreek.php?q=hilasterion" target="_blank" rel="noopener"><em>hilastērion</em></a> for the mercy seat. First John 2:2 describes Christ as the *hilasmos* (propitiation) for the sins of the world.
-- **Parallel Passages**: Galatians 2:15-21 (justification by faith, not law), Galatians 3:10-14 (the curse of the law and Christ's redemption), Ephesians 2:8-9 (saved by grace through faith), Titus 3:5-7 (justified by grace, not works), Hebrews 9:11-14 (Christ's superior sacrifice).
 
 ## Reflection Questions
 

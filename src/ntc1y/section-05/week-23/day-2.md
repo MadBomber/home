@@ -3,7 +3,6 @@ week: 23
 day: 2
 title: Friendship with the World — Submit to God
 reading: James 4
-parallel_passages: 1 John 2:15-17, 1 Peter 5:6-9, Proverbs 27:1
 section: The Early Church
 tags:
 - james
@@ -47,7 +46,6 @@ The chapter concludes with a warning against presumptuous planning (4:13-17). Me
 ## Connections
 - **Old Testament Roots**: Hosea 1-3 (Israel as God's unfaithful spouse); Proverbs 3:34 ("God opposes the proud but gives grace to the humble"); Psalm 24:3-4 (clean hands and pure hearts); Proverbs 27:1 ("Do not boast about tomorrow")
 - **New Testament Echoes**: 1 John 2:15-17 ("Do not love the world or the things in the world"); 1 Peter 5:5-9 (same Proverbs quotation applied to resisting the devil); Matthew 5:21-22 (anger as the root of murder)
-- **Parallel Passages**: 1 John 2:15-17, 1 Peter 5:6-9, Proverbs 27:1
 
 ## Reflection Questions
 1. James identifies "passions that are at war within you" as the root cause of quarrels. What desires — for status, control, comfort, approval — are most likely to generate conflict in your relationships?

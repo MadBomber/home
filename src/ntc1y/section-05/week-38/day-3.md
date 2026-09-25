@@ -3,7 +3,6 @@ week: 38
 day: 3
 title: Farewell to the Elders
 reading: Acts 20:7-38
-parallel_passages: 2 Timothy 4:1-8, John 10:12, Matthew 7:15, Acts 18:19-21
 section: The Early Church
 tags:
 - acts
@@ -51,7 +50,6 @@ The departure scene (20:36-38) is raw with emotion. Paul kneels and prays with a
 ## Connections
 - **Old Testament Roots**: 1 Kings 17:21 (Elijah raising the widow's son); 2 Kings 4:34-35 (Elisha raising the Shunammite's child); Ezekiel 34 (the shepherd metaphor -- God against negligent shepherds); Deuteronomy 31:1-8 (Moses' farewell charge to Israel)
 - **New Testament Echoes**: 2 Timothy 4:1-8 (Paul's final charge to Timothy, echoing the Miletus themes); John 10:11-13 (the Good Shepherd vs. the hired hand who flees from wolves); 1 Peter 5:1-4 (Peter's charge to elders, mirroring Paul's language)
-- **Parallel Passages**: Acts 18:19-21 (Paul's earlier brief visit to Ephesus); Matthew 7:15 (Jesus' warning about wolves in sheep's clothing); Philippians 1:21-26 (Paul's struggle between departing and remaining)
 
 ## Reflection Questions
 1. Eutychus fell asleep during a sermon and fell to his death, yet the community continued worshiping after his restoration. What does this episode -- nestled between tragedy and joy -- reveal about the rhythm of early Christian community life?

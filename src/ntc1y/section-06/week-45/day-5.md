@@ -3,8 +3,6 @@ week: 45
 day: 5
 title: Pioneer of Our Salvation
 reading: Hebrews 2
-parallel_passages: Psalm 8:4-6, Isaiah 8:17-18, Psalm 22:22, Philippians 2:5-11, Genesis
-  3:15
 section: Letters and Revelation
 tags:
 - hebrews
@@ -49,7 +47,6 @@ The chapter's climax (2:14-18) reveals the purpose of the incarnation with stunn
 
 - **Old Testament Roots**: Psalm 8:4-6 provides the theological framework for understanding what Christ accomplished -- the fulfillment of humanity's creation mandate. Psalm 22:22 and Isaiah 8:17-18 establish Christ's solidarity with God's people. The defeat of the one who holds the power of death echoes the protoevangelium of Genesis 3:15, where the seed of the woman crushes the serpent's head.
 - **New Testament Echoes**: The incarnation theology parallels Philippians 2:5-11 (Christ emptied Himself, taking the form of a servant). The "pioneer of salvation" concept reappears in Hebrews 12:2 ("the founder and perfecter of our faith"). Romans 8:29 describes Christ as "the firstborn among many brothers and sisters."
-- **Parallel Passages**: Philippians 2:5-11 (incarnation and exaltation), Romans 8:14-17 (heirs with Christ), 1 Corinthians 15:20-28 (all things subjected to Christ), 1 John 3:8 (Christ appeared to destroy the devil's work)
 
 ## Reflection Questions
 

@@ -9,8 +9,8 @@ memory_verse: "1 Thessalonians 4:16-17"
 verse_text: "For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first. Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord."
 translation: ESV
 connections:
-  - "Day 3 — Paul writes these words to comfort the Thessalonians who are grieving believers who have died, assuring them that death does not sever the bond between Christ and his people"
-  - "Day 4 — The exhortation to 'encourage one another with these words' in the next verse shows that this is not speculative prophecy but pastoral care for a grieving community"
+  - "Day 5 — Paul writes these words to comfort the Thessalonians who are grieving believers who have died, assuring them that death does not sever the bond between Christ and his people"
+  - "Day 4 — Timothy's good report of the Thessalonians' faith and love (1 Thessalonians 3:6) is what frees Paul to write to this church as a comforter rather than a corrector, offering hope instead of rebuke"
   - "Day 1 — Paul's arrival in Corinth from Athens sets the context: he writes back to Thessalonica from Corinth, still carrying the young church's concerns on his heart"
 study_slug: ntc1y
 ---

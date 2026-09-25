@@ -3,7 +3,6 @@ week: 51
 day: 5
 title: The Scroll and the Lamb — Who Is Worthy?
 reading: Revelation 5
-parallel_passages: Isaiah 53:7, Genesis 49:9-10, Daniel 7:13-14, Philippians 2:5-11
 section: Letters and Revelation
 tags:
 - revelation
@@ -50,7 +49,6 @@ The worship then expands in concentric circles. First, the innumerable angels jo
 ## Connections
 - **Old Testament Roots**: Genesis 49:9-10 (the Lion of Judah from Jacob's blessing); Isaiah 11:1, 10 (the Root of David, the shoot from Jesse's stump); Isaiah 53:7 ("like a lamb that is led to the slaughter"); Exodus 19:5-6 (Israel as a kingdom of priests — now fulfilled in the multiethnic church); Daniel 7:13-14 (the Son of Man receiving dominion, glory, and a kingdom that encompasses all peoples)
 - **New Testament Echoes**: Philippians 2:5-11 (Christ's self-emptying followed by exaltation and universal worship); John 1:29 ("Behold, the Lamb of God, who takes away the sin of the world"); Hebrews 2:9 (Jesus crowned with glory and honor because of the suffering of death); 1 Peter 1:18-19 (ransomed by the precious blood of Christ, like a lamb without blemish)
-- **Parallel Passages**: Isaiah 53:7, Genesis 49:9-10, Daniel 7:13-14, Philippians 2:5-11
 
 ## Reflection Questions
 1. John hears "Lion" but sees "Lamb." How does this juxtaposition redefine what it means to conquer? In what ways does the world's definition of victory — power, dominance, control — differ from the Lamb's way of conquering through sacrifice?

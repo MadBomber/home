@@ -3,8 +3,7 @@ week: 1
 day: 4
 title: Genealogy and Joseph's Dream
 reading: Matthew 1
-parallel_passages: Luke 3:23-38, Ruth 4:13-22, 2 Samuel 7:12-16, Isaiah 7:14, Genesis
-  38
+parallel_passages: Luke 3:23-38
 section: The Coming of Christ
 tags:
 - matthew

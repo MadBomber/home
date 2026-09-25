@@ -3,8 +3,7 @@ week: 49
 day: 3
 title: False Teachers and the Certainty of Judgment
 reading: 2 Peter 2
-parallel_passages: Genesis 6-8, Genesis 19, Numbers 22-24, Jude 4-16, 1 John 4:1-6,
-  Matthew 7:15-20
+parallel_passages: Jude 4-16
 section: Letters and Revelation
 tags:
 - 2-peter
@@ -50,7 +49,7 @@ The final metaphors are devastating: these teachers are "springs without water a
 
 - **Old Testament Roots**: The three judgment examples draw from Genesis 6 (fallen angels and the flood), Genesis 19 (Sodom and Gomorrah), and Numbers 22-24 (Balaam). The closing proverb comes from Proverbs 26:11. The angelic rebellion also connects to Isaiah 14 and Ezekiel 28 in later interpretive traditions.
 - **New Testament Echoes**: Jude 4-16 contains parallel material covering many of the same examples and descriptions. Jesus warned of false prophets in sheep's clothing (Matthew 7:15-20). John warned of testing the spirits (1 John 4:1-6). Paul warned the Ephesian elders that "savage wolves" would come from among their own number (Acts 20:29-30).
-- **Parallel Passages**: Jude 4-16 (parallel denunciation), Genesis 6-8 (flood), Genesis 19 (Sodom), Numbers 22-24 (Balaam), Matthew 7:15-20 (false prophets), 1 John 4:1-6 (testing spirits)
+- **Parallel Passages**: Jude 4-16 (parallel denunciation of the same false-teacher material)
 
 ## Reflection Questions
 

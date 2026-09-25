@@ -33,7 +33,15 @@ The three cycles of judgment -- seals, trumpets, and bowls -- intensify through 
 - The trumpet and bowl plagues deliberately echo the plagues of Egypt. Why does God pattern the final judgment on the Exodus story? What does this tell us about the unity of God's saving and judging activity across the whole biblical narrative?
 - Despite devastating judgments, "the rest of mankind did not repent" (9:20-21). What does this reveal about the limits of judgment as a means of transformation? What can produce repentance when catastrophe cannot?
 
-### 2. The Cosmic Battle (Revelation 12-14)
+### 2. The Little Scroll and the Two Witnesses (Revelation 10-11)
+
+Between the sixth and seventh trumpets, John eats a bittersweet scroll and sees the church's prophetic witness embodied in the Two Witnesses -- until the seventh trumpet announces that the kingdom has come.
+
+- John is commanded to eat the little scroll: sweet as honey in the mouth, sour in the stomach (10:9-10). What aspects of God's message have you found sweet, and which have been bitter to digest? Why must the messenger internalize the word before proclaiming it?
+- The Two Witnesses, clothed with the imagery of Moses and Elijah, testify, are killed by the beast, and are raised and vindicated (11:3-12). How does this pattern -- faithful witness, apparent defeat, divine vindication -- describe the church's calling in every age?
+- The seventh trumpet declares, "The kingdom of the world has become the kingdom of our Lord and of his Messiah" (11:15). If heaven announces this as accomplished, how should it change the way the church lives on an earth where the kingdom seems far from fully realized?
+
+### 3. The Cosmic Battle (Revelation 12-14)
 
 The dragon, the beasts, and the Lamb represent the ultimate spiritual conflict behind all of human history.
 
@@ -41,7 +49,7 @@ The dragon, the beasts, and the Lamb represent the ultimate spiritual conflict b
 - The beast from the earth "had two horns like a lamb but spoke like a dragon" (13:11). Counterfeit Christianity is presented as one of the most dangerous threats in Revelation. How do you distinguish the lamb's voice from the dragon's when both claim to speak for God?
 - The number 666 has generated centuries of speculation. Setting aside specific identifications, what does the symbolism of perpetually falling short of 7 (the number of divine completeness) tell us about the nature of human systems that claim ultimate authority?
 
-### 3. Babylon and the Bride (Revelation 17-19)
+### 4. Babylon and the Bride (Revelation 17-19)
 
 Two cities, two women -- Babylon the prostitute and the New Jerusalem the bride -- represent two ways of organizing human life.
 
@@ -49,7 +57,15 @@ Two cities, two women -- Babylon the prostitute and the New Jerusalem the bride 
 - The marriage supper of the Lamb (19:7-9) represents the consummation of God's covenant relationship with his people. How has the marriage metaphor for God's relationship with humanity developed through the readings this year -- from Jesus' parables to Paul's letters to this final vision?
 - The Rider on the white horse conquers not with military weapons but with the sword of his mouth -- his word. What does this tell us about the nature of Christ's victory and the weapon the church is called to wield?
 
-### 4. All Things New (Revelation 21-22)
+### 5. The Millennium and the Great White Throne (Revelation 20)
+
+Between Babylon's fall and the new creation stands chapter 20: Satan bound for a thousand years, the saints reigning with Christ, a final rebellion, and the judgment before the great white throne.
+
+- The thousand-year reign (20:1-6) has been read in several ways across church history -- as a future earthly reign of Christ, as the present age of the church, or as a symbolic picture of the martyrs' vindication. What is at stake in these interpretive traditions, and what conviction about Christ's victory do they all hold in common?
+- Satan is released after the thousand years and still finds nations willing to follow him (20:7-8). What does this final rebellion reveal about the human heart -- and about why evil's defeat must be God's own act rather than the product of ideal conditions?
+- At the great white throne (20:11-15), the dead are judged "by what they had done," yet everything turns on whether a name is written in the book of life. How do the books of deeds and the book of life work together? How does this scene shape your understanding of grace, works, and accountability?
+
+### 6. All Things New (Revelation 21-22)
 
 The climax of the entire Bible: new heavens, new earth, the New Jerusalem, the river of life, the tree of life, God dwelling with his people.
 

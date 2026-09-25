@@ -3,7 +3,7 @@ week: 4
 day: 1
 title: Calling Disciples by the Sea, Ministry Begins in Galilee
 reading: Matthew 4
-parallel_passages: Mark 1:12-20, Luke 4:1-15, Luke 5:1-11
+parallel_passages: Mark 1:12-20; Luke 4:1-15; Luke 5:1-11
 section: The Coming of Christ
 tags:
 - matthew

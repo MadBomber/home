@@ -37,7 +37,7 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 ## Key Characters
 
 - **[Paul](/characters/paul/)** -- Apostle whose heart's desire is Israel's salvation, now also laying out the ethical vision of the gospel.
-- **[Israel](/locations/olive-tree/)** -- The covenant people who have stumbled over Christ but whom God has not abandoned.
+- **Israel** -- The covenant people who have stumbled over Christ but whom God has not abandoned.
 - **The remnant** -- The Jewish believers who, like Paul, have embraced Christ and demonstrate that God's promises have not failed.
 - **[Elijah](/characters/elijah/)** -- Prophet who despaired that he was alone, to whom God revealed the seven thousand faithful.
 - **The "strong" and the "weak"** -- Believers in Rome who differ on food and holy days, representing Jewish and Gentile sensibilities.
@@ -45,7 +45,6 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 ## Key Locations
 
 - **[Rome](/locations/rome/)** -- The multi-ethnic capital of the empire, home to a church composed of both Jewish and Gentile believers.
-- **[Spain](/locations/spain/)** -- Paul's intended western mission field, representing the furthest reaches of the known world.
 - **[The Olive Tree](/locations/olive-tree/)** -- Paul's metaphorical image for the people of God, rooted in the patriarchs, with branches both natural and grafted.
 
 ## Key Themes

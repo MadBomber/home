@@ -3,7 +3,7 @@ week: 5
 day: 4
 title: Judging Others, Golden Rule, Two Gates, Wise Builder
 reading: Matthew 7
-parallel_passages: Luke 6:37-49, Luke 13:24, James 1:22-25, Romans 2:1-4
+parallel_passages: Luke 6:37-49; Luke 13:24
 section: Galilean Ministry
 tags:
 - matthew

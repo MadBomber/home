@@ -3,8 +3,6 @@ week: 48
 day: 3
 title: Living Stones — Royal Priesthood, Christ's Example
 reading: 1 Peter 2
-parallel_passages: Exodus 19:5-6, Isaiah 28:16, Psalm 118:22, Romans 13:1-7, Isaiah
-  53:4-9
 section: Letters and Revelation
 tags:
 - 1-peter
@@ -48,7 +46,6 @@ The atonement theology of 2:24 draws directly on Isaiah 53: "He himself bore our
 ## Connections
 - **Old Testament Roots**: Exodus 19:5-6 (the original "kingdom of priests and holy nation" declaration at Sinai); Isaiah 28:16 (the precious cornerstone laid in Zion); Psalm 118:22 (the stone the builders rejected); Isaiah 53:4-9 (the Suffering Servant who bore our sins and by whose wounds we are healed); Isaiah 8:14 (a stone of stumbling)
 - **New Testament Echoes**: Romans 13:1-7 (Paul's parallel instruction on submission to governing authorities); Ephesians 2:19-22 (believers as a holy temple built on Christ the cornerstone); Matthew 21:42 (Jesus quoting Psalm 118:22 about the rejected stone); Hebrews 13:13 (going to Jesus outside the camp)
-- **Parallel Passages**: Exodus 19:5-6, Isaiah 28:16, Psalm 118:22, Romans 13:1-7, Isaiah 53:4-9
 
 ## Reflection Questions
 1. Peter says believers are "living stones" being built into a "spiritual house." How does this corporate image of the church — a building composed of interdependent stones — challenge the individualism that characterizes much of modern Christianity?

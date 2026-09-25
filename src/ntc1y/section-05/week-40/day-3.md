@@ -3,8 +3,7 @@ week: 40
 day: 3
 title: But God
 reading: Ephesians 2
-parallel_passages: Romans 3:21-26, Romans 5:6-10, Colossians 2:13-15, Genesis 12:3,
-  Isaiah 57:19
+parallel_passages: Colossians 2:13-15
 section: The Early Church
 tags:
 - ephesians
@@ -46,8 +45,8 @@ The chapter closes with three architectural metaphors for this new community: it
 
 ## Connections
 - **Old Testament Roots**: Genesis 2:17 (death as the consequence of sin); Isaiah 57:19 (peace to the far and the near); Isaiah 59:2 (sin separating humanity from God); Ezekiel 37:1-14 (the valley of dry bones -- God bringing the dead to life)
-- **New Testament Echoes**: Romans 3:21-26 (justification by grace through faith); Romans 5:6-10 ("while we were still sinners, Christ died for us"); Colossians 2:13-15 (made alive together with Christ); Galatians 3:28 (no Jew or Greek, slave or free, male or female in Christ)
-- **Parallel Passages**: Titus 3:3-7 (saved by grace, not by works of righteousness); Romans 9:24-26 (Gentiles called "my people"); 1 Peter 2:4-10 (a living temple built of living stones)
+- **New Testament Echoes**: Romans 3:21-26 (justification by grace through faith); Romans 5:6-10 ("while we were still sinners, Christ died for us"); Galatians 3:28 (no Jew or Greek, slave or free, male or female in Christ)
+- **Parallel Passages**: Colossians 2:13-15 (made alive together with Christ)
 
 ## Reflection Questions
 1. Paul says we were "dead" in our trespasses -- not sick, not weak, but dead. How does this diagnosis change the way you understand the necessity of grace? What does it do to the idea that people can save themselves through moral effort?

@@ -50,7 +50,7 @@ The week culminates with Jesus sending out the Twelve on their first mission. Ha
 ## Key Locations
 
 - **[Capernaum](/locations/capernaum/)** -- Jesus' home base, where the centurion's servant is healed, the paralytic is lowered through a roof, and Matthew is called from his tax booth.
-- **[Nain](/locations/nain/)** -- A small town about 25 miles southwest of Capernaum, near Mount Tabor, where Jesus raises a widow's son from the dead.
+- **[Nain](/locations/nain/)** -- A small town about 25 miles southwest of Capernaum, near the Hill of Moreh, where Jesus raises a widow's son from the dead.
 - **[The Sea of Galilee](/locations/sea-of-galilee/)** -- The setting for the stilling of the storm and the location from which Jesus teaches from a boat.
 - **[The Towns of Galilee](/locations/galilee/)** -- The broader region to which the Twelve are sent on their first mission.
 - **[The Country of the Gadarenes/Gerasenes](/locations/gerasenes/)** -- The eastern shore of the Sea of Galilee, Gentile territory, where Jesus encounters the demoniacs among the tombs.

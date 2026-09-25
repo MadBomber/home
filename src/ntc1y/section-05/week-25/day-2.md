@@ -3,8 +3,6 @@ week: 25
 day: 2
 title: Foolish Galatians — Faith vs. Law, Abraham's Blessing
 reading: Galatians 3
-parallel_passages: Genesis 12:3, Genesis 15:6, Romans 4, Habakkuk 2:4, Deuteronomy
-  27:26
 section: The Early Church
 tags:
 - galatians
@@ -46,8 +44,6 @@ The chapter closes with the logical conclusion: "If you are Christ's, then you a
 ## Connections
 - **Old Testament Roots**: Genesis 12:3 (blessing to all nations through Abraham); Genesis 15:6 (Abraham believed and it was counted as righteousness); Deuteronomy 27:26 (the curse of the law for those who fail to keep it all); Deuteronomy 21:23 (cursed is anyone hanged on a tree); Habakkuk 2:4 ("the righteous shall live by his faith")
 - **New Testament Echoes**: Romans 4 (Paul's extended argument from Abraham's faith); Romans 10:4 ("Christ is the end of the law for righteousness to everyone who believes"); Colossians 3:11 ("Here there is not Greek and Jew, circumcised and uncircumcised")
-- **Parallel Passages**: Genesis 12:3, Genesis 15:6, Romans 4, Habakkuk 2:4, Deuteronomy 27:26
-
 ## Reflection Questions
 1. Paul asks the Galatians, "Did you receive the Spirit by works of the law or by hearing with faith?" Reflect on your own experience of coming to faith. Was it something you achieved or something you received?
 2. The law as a "guardian" implies a temporary, supervisory role. How does this change the way you understand the Old Testament law's relationship to the Christian life? What role, if any, does the law play for those who are "in Christ"?

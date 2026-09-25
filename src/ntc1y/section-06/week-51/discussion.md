@@ -68,8 +68,8 @@ When you hear the word "Revelation," what is your first reaction — fascination
 
 ## Memory Verse
 
-> "Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!"
-> — Revelation 5:12
+> "I am the Alpha and the Omega," says the Lord God, "who is and who was and who is to come, the Almighty."
+> — Revelation 1:8
 
 ## Closing Prayer
 

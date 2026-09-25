@@ -3,14 +3,14 @@ week: 27
 day: 4
 title: Timothy's Encouraging Report, Prayer for Their Growth
 reading: 1 Thessalonians 3
-parallel_passages: Acts 17:14-15; Acts 18:5; Philippians 2:19-24; Colossians 4:12
+parallel_passages: Acts 17:14-15; Acts 18:5
 section: The Early Church
 tags:
-- corinth
-- thessalonians
-- paul
-- second-coming
-- hope
+- timothy
+- pastoral-care
+- affliction
+- standing-firm
+- prayer
 layout: page
 study_slug: ntc1y
 ---
@@ -28,7 +28,7 @@ The reason for Paul's concern was not abstract. The Thessalonians were under act
 
 Paul's specific fear was that "the tempter" (ho peirazon) had somehow exploited their suffering to undermine their faith (verse 5). This is one of the few places where Paul explicitly names Satan as a strategic adversary targeting a specific church. The tempter's method is not necessarily direct assault but rather the exploitation of circumstances -- using persecution, doubt, loneliness, and confusion to erode the foundation of new faith. Paul feared that his labor might have been "in vain" (eis kenon) -- a haunting phrase that reveals how precarious the early Christian mission felt. There were no institutions, no buildings, no established traditions to sustain these fragile communities. Everything depended on whether the converts' faith would hold under pressure.
 
-Timothy's return with good news is one of the great relief moments in the New Testament. He brought Paul a "good report" (euangelisamenou) -- Luke uses the same Greek verb that normally means "to preach the gospel." Timothy's report of the Thessalonians' faith and love was itself a kind of gospel announcement, good news about the power of God to sustain his people. The Thessalonians not only endured but continued to hold Paul in affectionate memory and longed to see him just as he longed to see them (verse 6).
+Timothy's return with good news is one of the great relief moments in the New Testament. He brought Paul a "good report" (euangelisamenou) -- Paul uses the same Greek verb that normally means "to preach the gospel." Timothy's report of the Thessalonians' faith and love was itself a kind of gospel announcement, good news about the power of God to sustain his people. The Thessalonians not only endured but continued to hold Paul in affectionate memory and longed to see him just as he longed to see them (verse 6).
 
 Paul's response reveals the depth of his pastoral heart: "For now we live, if you are standing fast in the Lord" (verse 8). The conditional "if" (ean with the subjunctive) does not express doubt about whether they are standing firm -- Timothy has just confirmed that they are -- but rather underscores the causal connection: Paul's own vitality and joy are directly tied to the spiritual health of his churches. This is not codependency but covenantal love. Paul's life is bound up with theirs. When they thrive, he thrives. When they falter, he agonizes. This is the apostolic model of ministry: not detached professionalism but deep personal investment.
 
@@ -46,7 +46,7 @@ This prayer also reveals Paul's eschatological ethics: holiness is not merely a 
 ## Connections
 - **Old Testament Roots**: The language of God's "holy ones" coming at the end echoes Zechariah 14:5 and Deuteronomy 33:2; the concept of being "destined" for affliction recalls the suffering servant motif of Isaiah 53
 - **New Testament Echoes**: Paul's sending of Timothy as an emissary mirrors his later practice in Philippians 2:19-24; the prayer for blamelessness at Christ's coming anticipates 1 Thessalonians 5:23 and Philippians 1:10
-- **Parallel Passages**: Acts 17:14-15 and Acts 18:5 (Timothy's movements); Philippians 2:19-24 (Timothy sent to check on a church); Colossians 4:12 (Epaphras wrestling in prayer for his church)
+- **Parallel Passages**: Acts 17:14-15; Acts 18:5 (Timothy's movements)
 
 ## Reflection Questions
 1. Paul describes sending Timothy back to Thessalonica while he himself remained alone in Athens. What does this decision reveal about Paul's priorities and his understanding of pastoral responsibility?

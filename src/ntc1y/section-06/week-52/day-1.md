@@ -3,8 +3,6 @@ week: 52
 day: 1
 title: The Seals Opened, the Multitude Assembled
 reading: Revelation 6-7
-parallel_passages: Zechariah 1:8-17, Zechariah 6:1-8, Matthew 24:4-14, Ezekiel 9:4,
-  Daniel 12:1
 section: Letters and Revelation
 tags:
 - revelation
@@ -20,7 +18,7 @@ study_slug: ntc1y
 
 ## Reading: Revelation 6-7
 
-Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.6" target="_blank" rel="noopener">Revelation chapter 6</a>
+Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.6" target="_blank" rel="noopener">Revelation chapter 6</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.7" target="_blank" rel="noopener">Revelation chapter 7</a>
 
 ## Historical Context
 
@@ -48,7 +46,6 @@ Second, John sees an innumerable multitude "from every nation, tribe, people and
 
 - **Old Testament Roots**: The four horsemen draw from Zechariah 1:8-17 and 6:1-8. The sealing of the 144,000 echoes Ezekiel 9:4. The cosmic upheaval of the sixth seal echoes Isaiah 34:4 and Joel 2:30-31. The martyrs' cry parallels the Psalms of lament (Psalm 6:3, 13:1, 79:5). Daniel 12:1 connects to the time of great distress and the deliverance of God's people.
 - **New Testament Echoes**: The four horsemen correspond to Jesus' warnings in the Olivet Discourse (Matthew 24:4-14). The multitude in white robes anticipates the marriage supper of the Lamb (Revelation 19:9). The wiping away of tears foreshadows Revelation 21:4.
-- **Parallel Passages**: Zechariah 1:8-17 and 6:1-8 (colored horses), Matthew 24:4-14 (wars, famines, persecution), Ezekiel 9:4 (sealing the faithful), Daniel 12:1 (time of distress)
 
 ## Reflection Questions
 

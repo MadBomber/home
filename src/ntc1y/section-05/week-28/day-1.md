@@ -3,15 +3,14 @@ week: 28
 day: 1
 title: Day of the Lord, Be Ready, Rejoice Always, Pray Continually
 reading: 1 Thessalonians 5
-parallel_passages: Isaiah 13:6-9; Joel 2:1-11; Matthew 24:42-44; Romans 13:11-14;
-  2 Peter 3:10
+parallel_passages: Matthew 24:42-44; 2 Peter 3:10
 section: The Early Church
 tags:
 - day-of-the-lord
-- eschatology
-- thessalonians
-- idleness
-- apollos
+- watchfulness
+- children-of-light
+- rejoice-always
+- discernment
 layout: page
 study_slug: ntc1y
 ---
@@ -49,7 +48,7 @@ The closing prayer (verse 23) is a fitting summary of the entire letter: "May th
 ## Connections
 - **Old Testament Roots**: The Day of the Lord concept draws from Isaiah 13:6-9, Joel 2:1-11, Amos 5:18-20, and Zephaniah 1:14-18; the armor imagery echoes Isaiah 59:17, where God himself puts on the breastplate of righteousness
 - **New Testament Echoes**: The thief-in-the-night image appears in Matthew 24:43, Luke 12:39, 2 Peter 3:10, and Revelation 16:15; the armor metaphor is expanded in Ephesians 6:10-18
-- **Parallel Passages**: Romans 13:11-14 (wake up, put on armor of light); 2 Peter 3:10 (Day of the Lord like a thief); Matthew 24:42-44 (keep watch)
+- **Parallel Passages**: Matthew 24:42-44 (keep watch); 2 Peter 3:10 (Day of the Lord like a thief)
 
 ## Reflection Questions
 1. Paul uses two images for the Day of the Lord -- a thief in the night and labor pains. What does each image emphasize about the nature of Christ's return?

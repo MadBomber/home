@@ -3,15 +3,13 @@ week: 28
 day: 2
 title: Encouragement in Persecution, God's Righteous Judgment
 reading: 2 Thessalonians 1
-parallel_passages: Romans 2:5-11; Romans 8:17-18; 2 Corinthians 1:3-7; Revelation
-  6:9-11
 section: The Early Church
 tags:
-- day-of-the-lord
-- eschatology
-- thessalonians
-- idleness
-- apollos
+- persecution
+- righteous-judgment
+- divine-justice
+- glory-of-christ
+- steadfastness
 layout: page
 study_slug: ntc1y
 ---
@@ -45,8 +43,6 @@ Paul's prayer in verses 11-12 focuses on the present implications of this future
 ## Connections
 - **Old Testament Roots**: The flaming fire and angelic accompaniment echo Sinai (Exodus 19:18), Deuteronomy 33:2, and Daniel 7:9-10; "vengeance is mine" comes from Deuteronomy 32:35; the language of "not knowing God" echoes Jeremiah 10:25
 - **New Testament Echoes**: Paul's teaching on divine retribution parallels Romans 2:5-11 and Romans 12:19; the imagery of Christ's revelation anticipates Revelation 19:11-16; the mutual glorification language echoes John 17:22-23 and Colossians 3:3-4
-- **Parallel Passages**: Romans 2:5-11 (God's righteous judgment); Romans 8:17-18 (suffering and future glory); 2 Corinthians 1:3-7 (comfort in affliction); Revelation 6:9-11 (martyrs awaiting justice)
-
 ## Reflection Questions
 1. Paul says the Thessalonians' suffering is "evidence of the righteous judgment of God." How does understanding present suffering as evidence of future justice change the way you process injustice in the world?
 2. Christ will be "glorified in his saints." What does it mean for your daily life to be a display of Christ's glory? How does this perspective elevate the significance of ordinary faithfulness?

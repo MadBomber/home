@@ -3,7 +3,6 @@ week: 33
 day: 4
 title: Godly Sorrow and Restored Joy
 reading: 2 Corinthians 7
-parallel_passages: 2 Corinthians 2:1-11; Psalm 51; Matthew 26:75; Acts 11:18
 section: The Early Church
 tags:
 - 2-corinthians
@@ -24,7 +23,7 @@ Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/2Cor.7" target
 
 Second Corinthians 7 is a chapter of emotional resolution. After the theological heights of chapters 4-5 and the passionate appeal of chapter 6, Paul now returns to the narrative thread he left dangling in 2:12-13 -- his anxious wait for Titus and the news from Corinth. This resumption of the narrative after a long theological digression (2:14-7:4) has led some scholars to propose that 2 Corinthians is actually a composite of multiple letters stitched together by a later editor. While this theory has significant scholarly support, the text as it stands also makes excellent sense as a single letter in which Paul, writing with intense emotion, moves freely between theological reflection and personal narrative -- much as any passionate speaker might digress and then circle back to the original point.
 
-The chapter opens with a transitional verse (7:1) that belongs grammatically to the preceding section: "Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God." The verb "bringing to completion" (epitelountes) suggests holiness is a process, not a single event -- a progressive sanctification that involves deliberate effort in response to divine promise. The phrase "defilement of body and spirit" is unusual for Paul, who typically speaks of "flesh" (sarx) rather than "body" (sarx here actually means flesh). He acknowledges that sin affects the whole person -- outward behavior and inward disposition alike.
+The chapter opens with a transitional verse (7:1) that belongs grammatically to the preceding section: "Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God." The verb "bringing to completion" (epitelountes) suggests holiness is a process, not a single event -- a progressive sanctification that involves deliberate effort in response to divine promise. The phrase "defilement of body and spirit" is unusual for Paul: the Greek word here is sarx (flesh), which the ESV renders "body" in this verse. He acknowledges that sin affects the whole person -- outward behavior and inward disposition alike.
 
 In verse 2, Paul renews his appeal: "Make room in your hearts for us." The verb "make room" (choresate) means to create space, to receive. Paul then offers three denials: "We have wronged no one, we have corrupted no one, we have taken advantage of no one" (7:2). These are almost certainly responses to specific accusations leveled against him by the super-apostles. They had apparently charged Paul with acting from impure motives, corrupting his converts with false teaching, and exploiting the churches financially -- charges Paul will address more fully in chapters 10-13. His denials here are brief and direct, followed immediately by a statement of deep affection: "You are in our hearts, to die together and to live together" (7:3). This is covenantal language -- Paul is binding his destiny to theirs.
 
@@ -46,7 +45,6 @@ The chapter ends with a portrait of pastoral joy. Titus himself was encouraged b
 ## Connections
 - **Old Testament Roots**: Psalm 51 (David's model of godly repentance); Joel 2:12-13 (rend your hearts, not your garments; return to the Lord); Isaiah 57:15 (God dwells with the contrite)
 - **New Testament Echoes**: Matthew 26:75 (Peter's godly grief); Matthew 27:3-5 (Judas' worldly grief); Acts 11:18 (repentance leading to life); Hebrews 12:11 (discipline yields the peaceful fruit of righteousness)
-- **Parallel Passages**: 2 Corinthians 2:1-11; 2 Corinthians 12:20-21; Galatians 6:1
 
 ## Reflection Questions
 1. What are the specific marks of "godly grief" that Paul identifies in verse 11, and how do they differ from mere emotional distress or guilt?

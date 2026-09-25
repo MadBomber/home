@@ -3,8 +3,7 @@ week: 13
 day: 2
 title: Faith, Gratitude, and the Kingdom
 reading: Luke 17
-parallel_passages: 2 Kings 5:1-14, Matthew 17:20, Matthew 24:23-28, Mark 9:42, Genesis
-  19:17-26
+parallel_passages: Matthew 24:23-28, 37-41; Mark 9:42
 section: Road to Jerusalem
 tags:
 - faith
@@ -23,7 +22,7 @@ Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Luke.17" targe
 
 ## Historical Context
 
-Luke 17 is a collection of Jesus' teachings that, while appearing loosely connected on the surface, form a coherent meditation on four dimensions of kingdom life: responsibility toward others (vv. 1-4), the nature of faith (vv. 5-6), the posture of service (vv. 7-10), the centrality of gratitude (vv. 11-19), and the coming of the Kingdom (vv. 20-37). This chapter sits in the latter portion of Luke's travel narrative, as Jesus draws closer to Jerusalem and the shadow of the cross grows longer. The teachings become more urgent, more direct, and more concerned with the essential qualities of those who will constitute his community after he is gone.
+Luke 17 is a collection of Jesus' teachings that, while appearing loosely connected on the surface, form a coherent meditation on five dimensions of kingdom life: responsibility toward others (vv. 1-4), the nature of faith (vv. 5-6), the posture of service (vv. 7-10), the centrality of gratitude (vv. 11-19), and the coming of the Kingdom (vv. 20-37). This chapter sits in the latter portion of Luke's travel narrative, as Jesus draws closer to Jerusalem and the shadow of the cross grows longer. The teachings become more urgent, more direct, and more concerned with the essential qualities of those who will constitute his community after he is gone.
 
 The chapter opens with a sober warning about causing others to stumble. The Greek <a href="https://biblehub.com/searchgreek.php?q=skandalon" target="_blank" rel="noopener"><em>skandalon</em></a> (from which we get "scandal") refers to a trap or snare -- something that causes someone to fall into sin or fall away from faith. Jesus says it would be better to have a millstone (<a href="https://biblehub.com/searchgreek.php?q=lithos+mylikos" target="_blank" rel="noopener"><em>lithos mylikos</em></a>, the heavy upper stone of a grain mill that required a donkey to turn it) hung around your neck and be thrown into the sea than to cause "one of these little ones" to stumble. The hyperbole underscores the gravity: those who lead others astray face a judgment so severe that drowning would be merciful by comparison. This is followed immediately by the command to forgive -- even someone who sins against you seven times in a single day and repents seven times (17:4). The juxtaposition is deliberate: take sin seriously when it threatens others, but extend radical forgiveness when it is directed at you.
 
@@ -37,7 +36,7 @@ The detail that this one is a Samaritan is loaded with significance. Samaritans 
 
 The Pharisees' question about when the Kingdom of God would come (17:20) reflects a common expectation of a dramatic, visible, political event -- the overthrow of Rome and the restoration of Israel's sovereignty. Jesus' response redirects their attention: "The coming of the kingdom of God is not something that can be observed, nor will people say, 'Here it is,' or 'There it is,' because the kingdom of God is in your midst" (17:20-21). The Greek <a href="https://biblehub.com/searchgreek.php?q=entos+hymon" target="_blank" rel="noopener"><em>entos hymon</em></a> can mean "within you" (internal, spiritual) or "among you" (already present in Jesus' person and ministry). Both senses may be intended. The Kingdom is not a future political event to be awaited but a present reality already breaking in through Jesus' words, healings, and table fellowship with sinners.
 
-Jesus then shifts to the future aspect of the Kingdom -- the coming of the Son of Man (17:22-37). Using imagery drawn from the days of Noah and the destruction of Sodom, he warns of a day of sudden judgment that will catch people in the midst of their ordinary routines. The reference to Lot's wife (17:32) -- "Remember Lot's wife!" -- is the shortest verse in Luke's Gospel and one of the most memorable. She looked back at what she was leaving behind and was turned to a pillar of salt (Genesis 19:26). The message is clear: when the moment of decision comes, there can be no divided loyalties.
+Jesus then shifts to the future aspect of the Kingdom -- the coming of the Son of Man (17:22-37). Using imagery drawn from the days of Noah and the destruction of Sodom, he warns of a day of sudden judgment that will catch people in the midst of their ordinary routines. The reference to Lot's wife (17:32) -- "Remember Lot's wife!" -- is one of Jesus' most memorable warnings. She looked back at what she was leaving behind and was turned to a pillar of salt (Genesis 19:26). The message is clear: when the moment of decision comes, there can be no divided loyalties.
 
 ## Key Themes
 

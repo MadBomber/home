@@ -3,7 +3,6 @@ week: 47
 day: 3
 title: The Single Offering That Perfects Forever
 reading: Hebrews 10
-parallel_passages: Psalm 40:6-8, Habakkuk 2:3-4, Hebrews 6:4-6, James 5:8-9
 section: Letters and Revelation
 tags:
 - hebrews
@@ -47,7 +46,6 @@ The warning that follows (10:26-31) is among the most sobering passages in the N
 
 - **Old Testament Roots**: Psalm 40:6-8 is quoted as Christ's own words, expressing the inadequacy of animal sacrifice and the sufficiency of obedient self-offering. Habakkuk 2:3-4 ("the righteous shall live by faith") is quoted in the closing exhortation, the same text that ignited the Reformation through Paul's use of it in Romans 1:17 and Galatians 3:11.
 - **New Testament Echoes**: The tearing of the curtain at the crucifixion (Matthew 27:51) finds its theological interpretation here. The warning passage parallels Hebrews 6:4-6. The call not to forsake assembling together anticipates the communal emphasis of the Pastoral Epistles and James.
-- **Parallel Passages**: Psalm 40:6-8 (sacrifice and obedience), Habakkuk 2:3-4 (the righteous live by faith), Hebrews 6:4-6 (parallel warning), James 5:8-9 (patience and the Lord's coming)
 
 ## Reflection Questions
 

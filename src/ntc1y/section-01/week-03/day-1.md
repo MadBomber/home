@@ -3,9 +3,7 @@ week: 3
 day: 1
 reading: Luke 4:1-13
 title: Temptation in the Wilderness
-parallel_passages:
-- Matthew 4:1-11
-- Mark 1:12-13
+parallel_passages: Matthew 4:1-11; Mark 1:12-13
 tags:
 - temptation
 - wilderness
@@ -56,7 +54,7 @@ The theological significance of this passage runs deep. Paul develops the Adam-C
 
 Luke notes that the devil departed "until an opportune time" (*achri kairou*) -- a chilling phrase that points forward to the passion narrative. Luke 22:3 records that "Satan entered into Judas," and Luke 22:53 has Jesus telling his captors, "This is your hour, and the power of darkness." The wilderness temptation is the first round of a cosmic battle that will reach its climax at the cross.
 
-The passage also demonstrates a sophisticated chiastic structure in the temptations themselves: physical need (bread), spiritual compromise (worship), and presumption upon God (Temple leap). This moves from the most basic human desire to the most subtle spiritual danger, revealing that temptation operates at every level of human experience.
+The passage also demonstrates a deliberate escalating structure in the temptations themselves: physical need (bread), spiritual compromise (worship), and presumption upon God (Temple leap). This moves from the most basic human desire to the most subtle spiritual danger, revealing that temptation operates at every level of human experience.
 
 ---
 

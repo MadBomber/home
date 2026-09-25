@@ -3,8 +3,6 @@ week: 36
 day: 3
 title: Released from the Law, Inner Struggle -- What I Want to Do I Do Not Do
 reading: Romans 7
-parallel_passages: Galatians 3:19-25; Galatians 5:16-18; Philippians 3:4-9; Psalm
-  119:97
 section: The Early Church
 tags:
 - romans
@@ -50,7 +48,6 @@ Regardless of which reading one adopts, the theological point is clear: the law,
 ## Connections
 - **Old Testament Roots**: Exodus 20:17 (the tenth commandment against coveting); Psalm 119:97 ("Oh, how I love your law!"); Jeremiah 31:31-33 (the new covenant promise of the law written on the heart)
 - **New Testament Echoes**: Galatians 3:19-25 (the law as guardian until Christ came); Galatians 5:16-18 (the flesh vs. Spirit conflict); Philippians 3:4-9 (Paul's former confidence in the law)
-- **Parallel Passages**: Galatians 3:19-25; Galatians 5:16-18; Philippians 3:4-9; Psalm 119:97
 
 ## Reflection Questions
 1. Paul personifies sin as a cunning adversary that "seizes the opportunity" afforded by the commandment. Where in your own experience have you seen the pattern of prohibition actually intensifying desire?

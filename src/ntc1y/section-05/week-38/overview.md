@@ -21,7 +21,7 @@ This week carries us through some of the most emotionally charged passages in th
 
 Then the scene shifts dramatically. Acts 20 gives us one of the Bible's most vivid vignettes -- a young man named Eutychus falling from a third-story window during Paul's all-night sermon -- followed immediately by one of its most moving farewells. Paul's address to the Ephesian elders at Miletus is his pastoral testament, the only speech in Acts addressed to a Christian audience. He reviews his ministry, warns of coming wolves, and commends them to the God whose grace can build them up. The tears and embraces on the beach at Miletus are the last time these elders will see Paul's face, and they know it.
 
-Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- Agabus dramatically binding his own hands and feet with Paul's belt -- Paul presses on to Jerusalem, convinced that the Holy Spirit is leading him there. His arrest in the Temple, following a Nazarite vow intended to demonstrate his continued respect for Jewish custom, sets in motion the chain of events that will eventually bring him to Rome -- not as a free missionary but as a prisoner of the empire. Paul's defense speech from the steps of the Antonia Fortress, delivered in Hebrew to a hostile crowd, is a masterpiece of personal testimony: the zealous Pharisee, the Damascus road encounter, the commission to the Gentiles. It is at the word "Gentiles" that the crowd erupts, and Rome intervenes.
+Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- Agabus dramatically binding his own hands and feet with Paul's belt -- Paul presses on to Jerusalem, convinced that the Holy Spirit is leading him there. His arrest in the Temple, following a Nazirite vow intended to demonstrate his continued respect for Jewish custom, sets in motion the chain of events that will eventually bring him to Rome -- not as a free missionary but as a prisoner of the empire. Paul's defense speech from the steps of the Antonia Fortress, delivered in Hebrew to a hostile crowd, is a masterpiece of personal testimony: the zealous Pharisee, the Damascus road encounter, the commission to the Gentiles. It is at the word "Gentiles" that the crowd erupts, and Rome intervenes.
 
 ## This Week's Readings
 
@@ -40,8 +40,8 @@ Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- A
 - **[Priscilla and Aquila](/characters/priscilla-and-aquila/)** -- Paul's co-workers, who risked their own necks for his life.
 - **[Eutychus](/characters/eutychus/)** -- Young man in Troas who fell from a window during Paul's sermon and was raised.
 - **[Agabus](/characters/agabus/)** -- Prophet from Judea who foretold Paul's arrest with a dramatic symbolic action.
-- **[The Ephesian Elders](/locations/miletus/)** -- Overseers summoned to Miletus for Paul's farewell address.
-- **[James](/characters/james-brother-of-jesus/)** -- Leader of the Jerusalem church who advises Paul to take a Nazirite vow.
+- **The Ephesian Elders** -- Overseers summoned to Miletus for Paul's farewell address.
+- **[James](/characters/james-brother-of-jesus/)** -- Leader of the Jerusalem church who advises Paul to purify himself alongside four men completing a Nazirite vow and to pay their expenses.
 - **[Claudius Lysias](/characters/claudius-lysias/)** -- Roman tribune who arrests Paul in the Temple and discovers his Roman citizenship.
 
 ## Key Locations
@@ -49,7 +49,7 @@ Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- A
 - **[Corinth / Cenchreae](/locations/corinth/)** -- Where Romans was written and where Phoebe served as deacon.
 - **[Troas](/locations/troas/)** -- Where Eutychus fell and was restored; the site of Paul's all-night teaching.
 - **[Miletus](/locations/miletus/)** -- Port city south of Ephesus where Paul delivered his farewell to the elders.
-- **[Jerusalem](/locations/jerusalem/)** -- The Temple where Paul was arrested after completing the Nazirite vow.
+- **[Jerusalem](/locations/jerusalem/)** -- The Temple where Paul was arrested near the end of the purification rites.
 - **[The Antonia Fortress](/locations/praetorium/)** -- The Roman garrison overlooking the Temple, from whose steps Paul addressed the crowd.
 
 ## Key Themes

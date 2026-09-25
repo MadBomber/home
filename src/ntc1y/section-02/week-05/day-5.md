@@ -3,8 +3,7 @@ week: 5
 day: 5
 title: Sermon on the Plain, Love Your Enemies, Build on Rock
 reading: Luke 6
-parallel_passages: Matthew 5:1-12, Matthew 5:38-48, Matthew 7:1-5, Matthew 7:24-27,
-  Romans 12:14-21
+parallel_passages: Matthew 5:1-12; Matthew 5:38-48; Matthew 7:1-5; Matthew 7:24-27
 section: Galilean Ministry
 tags:
 - luke

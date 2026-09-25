@@ -3,7 +3,6 @@ week: 18
 day: 1
 title: The High Priestly Prayer
 reading: John 17
-parallel_passages: John 14:16-17; Hebrews 7:25; Romans 8:34
 section: Passion and Resurrection
 tags:
 - high-priestly-prayer
@@ -29,7 +28,7 @@ The prayer's most theologically significant definition comes in verse 3: "And th
 
 In verses 6-19, Jesus prays for his disciples. The petitions are profoundly specific. He prays that the Father would "keep them in your name" -- that is, preserve them in the sphere of divine identity and protection. He prays for their unity, "that they may be one, even as we are one" -- a unity modeled not on organizational structure or doctrinal uniformity but on the relational unity of the Trinity itself. He prays for their protection from "the evil one" -- recognizing that the disciples will face spiritual opposition of a personal, intelligent, and malicious kind. And he prays for their sanctification: "Sanctify them in the truth; your word is truth" (17:17). Sanctification here is not moral improvement in the abstract but being set apart by truth for a mission. The disciples are being consecrated -- like priests being dedicated for temple service -- for the task of carrying Jesus' word into a hostile world.
 
-The prayer's final section (verses 20-26) extends beyond the upper room to encompass every person who will ever believe in Jesus through the apostles' testimony -- which means it includes every Christian who has ever lived and every Christian who ever will live. "I do not ask for these only, but also for those who will believe in me through their word" (17:20). When Jesus prays in Gethsemane, he is praying for first-century fishermen and twenty-first-century office workers, for African martyrs and Asian house church leaders, for medieval mystics and Reformation theologians. The scope is breathtaking. And the central petition for this vast company of believers is unity: "that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me" (17:21). The purpose of Christian unity is not institutional harmony for its own sake; it is missional witness. The world is meant to see the love and unity of Christ's followers and conclude that Jesus was indeed sent by God. Division among Christians is therefore not merely a regrettable social problem; it is a contradiction of the prayer of the Son of God and an obstacle to the world's belief.
+The prayer's final section (verses 20-26) extends beyond the upper room to encompass every person who will ever believe in Jesus through the apostles' testimony -- which means it includes every Christian who has ever lived and every Christian who ever will live. "I do not ask for these only, but also for those who will believe in me through their word" (17:20). When Jesus prays this prayer, he is praying for first-century fishermen and twenty-first-century office workers, for African martyrs and Asian house church leaders, for medieval mystics and Reformation theologians. The scope is breathtaking. And the central petition for this vast company of believers is unity: "that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me" (17:21). The purpose of Christian unity is not institutional harmony for its own sake; it is missional witness. The world is meant to see the love and unity of Christ's followers and conclude that Jesus was indeed sent by God. Division among Christians is therefore not merely a regrettable social problem; it is a contradiction of the prayer of the Son of God and an obstacle to the world's belief.
 
 Jesus closes with a declaration of love that spans eternity: "Father, I desire that they also, whom you have given me, may be with me where I am, to see my glory that you have given me because you loved me before the foundation of the world" (17:24). The ultimate destiny of the believer is not a place called heaven but a relationship of sight -- seeing Christ's glory, beholding the love that existed between Father and Son before anything else existed. The prayer that began with glory ends with glory, and at its center is the love that holds all things together.
 
@@ -40,8 +39,7 @@ Jesus closes with a declaration of love that spans eternity: "Father, I desire t
 
 ## Connections
 - **Old Testament Roots**: Leviticus 16 (the Day of Atonement and the high priest's intercession); Exodus 28-29 (the consecration of priests); Deuteronomy 33 (Moses' blessing/prayer for the tribes of Israel)
-- **New Testament Echoes**: Hebrews 7:25 ("he always lives to make intercession"); Romans 8:34 ("Christ Jesus is the one who... is interceding for us"); Ephesians 4:1-6 ("eager to maintain the unity of the Spirit")
-- **Parallel Passages**: John 14:16-17; Hebrews 7:25; Romans 8:34
+- **New Testament Echoes**: Hebrews 7:25 ("he always lives to make intercession"); Romans 8:34 ("Christ Jesus is the one who... is interceding for us"); Ephesians 4:1-6 ("eager to maintain the unity of the Spirit"); John 14:16-17 (the promise of another Helper)
 
 ## Reflection Questions
 1. How does Jesus' definition of eternal life in John 17:3 challenge or expand your understanding of what it means to have eternal life?

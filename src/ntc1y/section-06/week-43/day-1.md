@@ -3,7 +3,6 @@ week: 43
 day: 1
 title: Charge Against False Teachers
 reading: 1 Timothy 1
-parallel_passages: Acts 20:29-30, Galatians 1:6-9, 1 Corinthians 15:9-10
 section: Letters and Revelation
 tags:
 - 1-timothy
@@ -42,7 +41,6 @@ Paul's response is not merely to refute the false teaching but to contrast it wi
 
 - **Old Testament Roots**: The false teachers' obsession with "myths and genealogies" likely involves fanciful expansions of Old Testament narratives. Paul's insistence that the law is for "the lawless and disobedient" (1:9-10) echoes the Ten Commandments' original function as a boundary for covenant-breaking behavior.
 - **New Testament Echoes**: Paul's warning about false teachers fulfills his own prophecy to the Ephesian elders in Acts 20:29-30. His testimony of persecuting the church and receiving grace parallels his confessions in 1 Corinthians 15:9-10 and Galatians 1:13-16.
-- **Parallel Passages**: Acts 20:29-30 (wolves among the flock), Galatians 1:6-9 (anathema on false gospels), 1 Corinthians 15:9-10 (least of apostles, grace not in vain)
 
 ## Reflection Questions
 

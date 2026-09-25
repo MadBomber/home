@@ -3,8 +3,7 @@ week: 49
 day: 5
 title: Contend for the Faith, Kept by God
 reading: Jude
-parallel_passages: 2 Peter 2, Genesis 6:1-4, Numbers 16, Numbers 22-24, 1 Enoch 1:9,
-  Zechariah 3:1-2, Revelation 12:7-9
+parallel_passages: 2 Peter 2:1-22
 section: Letters and Revelation
 tags:
 - jude
@@ -54,7 +53,7 @@ The letter closes with arguably the most magnificent doxology in the New Testame
 
 - **Old Testament Roots**: The letter draws on the exodus and wilderness narratives, Genesis 6:1-4 (fallen angels), Genesis 19 (Sodom), Genesis 4 (Cain), Numbers 22-24 (Balaam), Numbers 16 (Korah), and the pseudepigraphal 1 Enoch and Assumption of Moses. Zechariah 3:1-2 provides a parallel to Michael's "The Lord rebuke you."
 - **New Testament Echoes**: Second Peter 2 contains extensive parallel material. Revelation 12:7-9 expands the conflict between Michael and the devil. Paul's warnings about false teachers in 2 Corinthians 11:13-15 and Acts 20:29-30 address the same infiltration problem from different angles.
-- **Parallel Passages**: 2 Peter 2 (parallel denunciation), Genesis 6:1-4 (angels), Numbers 16 (Korah), Numbers 22-24 (Balaam), Zechariah 3:1-2 (the Lord rebuke you), Revelation 12:7-9 (Michael and the dragon)
+- **Parallel Passages**: 2 Peter 2:1-22 (parallel denunciation of the same false-teacher material)
 
 ## Reflection Questions
 

@@ -3,7 +3,7 @@ week: 20
 day: 4
 title: Emmaus Road and Ascension
 reading: Luke 24
-parallel_passages: Acts 1:1-11, John 20-21, 1 Corinthians 15:3-8, Genesis 3:8
+parallel_passages: Matthew 28; Mark 16; John 20-21
 section: Passion and Resurrection
 tags:
 - resurrection

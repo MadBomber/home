@@ -3,14 +3,14 @@ week: 27
 day: 3
 title: Paul's Ministry Among Them -- Not Flattery but Faithful
 reading: 1 Thessalonians 2
-parallel_passages: Acts 17:1-9; 2 Corinthians 2:17; 2 Corinthians 4:2; 1 Peter 5:1-4
+parallel_passages: Acts 17:1-9
 section: The Early Church
 tags:
-- corinth
-- thessalonians
-- paul
-- second-coming
-- hope
+- ministry-integrity
+- nursing-mother
+- spiritual-parenting
+- persecution
+- word-of-god
 layout: page
 study_slug: ntc1y
 ---
@@ -48,7 +48,7 @@ The chapter closes with an outpouring of personal emotion. Paul describes his fo
 ## Connections
 - **Old Testament Roots**: The nursing-mother imagery echoes Isaiah 49:15 and Numbers 11:12, where God's care for Israel is compared to a mother's care for her child; the language of prophets being killed recalls 1 Kings 19:10 and Nehemiah 9:26
 - **New Testament Echoes**: Paul's self-defense here anticipates the more extensive defense in 2 Corinthians 10-13; his metaphor of spiritual parenting reappears in 1 Corinthians 4:14-15 and Galatians 4:19
-- **Parallel Passages**: 2 Corinthians 2:17 (not peddlers of God's word); 2 Corinthians 4:2 (renouncing disgraceful ways); 1 Peter 5:1-4 (shepherding not for shameful gain)
+- **Parallel Passages**: Acts 17:1-9 (the founding of the Thessalonian church amid opposition)
 
 ## Reflection Questions
 1. Paul lists several things his ministry was not (flattery, greed, people-pleasing) alongside what it was (gentle as a nursing mother, firm as a father). What does this contrast reveal about the difference between authentic and counterfeit spiritual leadership?

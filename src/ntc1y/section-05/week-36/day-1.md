@@ -3,7 +3,6 @@ week: 36
 day: 1
 title: Peace with God Through Faith, Adam vs Christ, Grace Abounds
 reading: Romans 5
-parallel_passages: 1 Corinthians 15:21-22, 45-49; Genesis 3:1-19; Ephesians 2:1-10
 section: The Early Church
 tags:
 - romans
@@ -25,7 +24,7 @@ Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rom.5" target=
 
 Romans 5 is the hinge of the entire letter. Paul has spent four chapters establishing that both Jews and Gentiles stand condemned before God (1:18-3:20) and that justification comes by faith apart from works of the law, as demonstrated by Abraham (3:21-4:25). Now he turns to the consequences of justification -- what it produces in the life of the believer and in the grand narrative of human history. The chapter divides naturally into two movements: verses 1-11 describe the present blessings of justification, and verses 12-21 present the Adam-Christ typology that explains how one man's act can affect the entire human race.
 
-The opening declaration, "Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ," is one of the most consequential sentences Paul ever wrote. There is a famous textual variant here: some manuscripts read "let us have peace" (a subjunctive, echomen), while others read "we have peace" (an indicative, echomen -- the difference in Greek being a single vowel). Most scholars believe Paul intended the indicative -- a statement of fact rather than an exhortation. Peace with God is not something believers must strive for; it is the accomplished result of justification. The hostility between God and sinful humanity has been objectively resolved at the cross.
+The opening declaration, "Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ," is one of the most consequential sentences Paul ever wrote. There is a famous textual variant here: some manuscripts read "let us have peace" (a subjunctive, echōmen), while others read "we have peace" (an indicative, echomen -- the difference in Greek being a single vowel, omega versus omicron). Most scholars believe Paul intended the indicative -- a statement of fact rather than an exhortation. Peace with God is not something believers must strive for; it is the accomplished result of justification. The hostility between God and sinful humanity has been objectively resolved at the cross.
 
 This peace is not merely the absence of conflict but the presence of a restored relationship. Paul describes it in terms of "access" (prosagoge) -- a word drawn from the court language of the ancient world, where a prosagogeus was an official who introduced visitors into the presence of the king. Through Christ, believers have been ushered into the throne room of grace, and they now stand there permanently. The result is not passive contentment but active "boasting" (kauchaomai) -- not in themselves but in the hope of sharing God's glory. Remarkably, Paul says believers can even boast in their sufferings, because suffering produces endurance, endurance produces character, and character produces hope. This is not masochism; it is the recognition that God uses adversity as a crucible for spiritual formation.
 
@@ -47,7 +46,6 @@ For the Roman house churches, divided between Jewish and Gentile believers, this
 ## Connections
 - **Old Testament Roots**: Genesis 3 (the fall of Adam); Genesis 2:17 (the warning of death); Psalm 32:1-2 (the blessedness of forgiveness, cited in Romans 4); Isaiah 53:11 (the righteous servant justifying many)
 - **New Testament Echoes**: 1 Corinthians 15:21-22, 45-49 (the Adam-Christ parallel in the context of resurrection); Ephesians 2:1-10 (dead in sin, alive in grace); Philippians 3:8-11 (sharing in Christ's sufferings)
-- **Parallel Passages**: 1 Corinthians 15:21-22, 45-49; Genesis 3:1-19; Ephesians 2:1-10
 
 ## Reflection Questions
 1. Paul lists four descriptions of humanity's condition when Christ died: powerless, ungodly, sinners, and enemies. What does each term contribute to the picture, and why does Paul stack them up?

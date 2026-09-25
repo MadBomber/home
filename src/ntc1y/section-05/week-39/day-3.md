@@ -3,7 +3,6 @@ week: 39
 day: 3
 title: Appeal to Caesar
 reading: Acts 25
-parallel_passages: Acts 23:11; Acts 9:15; Romans 1:15
 section: The Early Church
 tags:
 - acts
@@ -45,7 +44,6 @@ Festus's summary of Paul's case to Agrippa is revealing for what it includes and
 ## Connections
 - **Old Testament Roots**: Proverbs 21:1 (the king's heart is a stream of water in the Lord's hand); Isaiah 10:5-7 (God uses pagan rulers as instruments of his purpose); Psalm 2:1-4 (rulers take counsel together, but the Lord laughs)
 - **New Testament Echoes**: Romans 1:15 (Paul's eagerness to preach in Rome); Philippians 1:12-14 (Paul's imprisonment has advanced the gospel); 2 Timothy 4:16-17 (at Paul's first defense, the Lord stood by him)
-- **Parallel Passages**: Acts 23:11 (the Lord's promise that Paul must testify in Rome); Acts 9:15 (Paul chosen to bear God's name before kings)
 
 ## Reflection Questions
 1. Compare Festus's handling of Paul's case with Felix's. What similarities and differences do you observe, and what do they reveal about the challenge of doing justice when political interests are at stake?

@@ -9,8 +9,8 @@ memory_verse: "2 Thessalonians 3:3"
 verse_text: "But the Lord is faithful. He will establish you and guard you against the evil one."
 translation: ESV
 connections:
-  - "Day 3 — Paul writes this assurance in the context of asking for prayer against 'wicked and evil men,' reminding the Thessalonians that God's faithfulness outweighs every threat"
-  - "Day 2 — The teaching about the 'man of lawlessness' in 2 Thessalonians 2 heightens the need for this promise: even when evil reaches its climax, the Lord remains faithful"
+  - "Day 2 — The promise that God will grant relief to his persecuted people when Christ is revealed rests on the same bedrock this verse names: God's faithfulness outweighs every threat"
+  - "Day 3 — The teaching about the 'man of lawlessness' in 2 Thessalonians 2 heightens the need for this promise: even when evil reaches its climax, the Lord remains faithful"
   - "Day 4 — Paul's instructions about idleness and discipline in the same chapter show that God's guarding does not replace human responsibility but undergirds it"
 study_slug: ntc1y
 ---

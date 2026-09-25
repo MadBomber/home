@@ -3,7 +3,7 @@ week: 42
 day: 5
 title: Wisdom, Prayer, and a Brother Restored
 reading: Colossians 4 + Philemon
-parallel_passages: Galatians 3:28, 1 Corinthians 7:21-23, Ephesians 6:18-20
+parallel_passages: Ephesians 6:18-20
 section: Letters and Revelation
 tags:
 - colossians
@@ -32,7 +32,7 @@ The greetings of 4:7-18 are far more than pleasantries; they provide a window in
 
 The letter to Philemon is a masterpiece of pastoral diplomacy and the most personal document in the Pauline corpus. At only 335 words in Greek, it addresses one of the most sensitive issues in the ancient world: the fate of a runaway slave. Onesimus was a slave belonging to Philemon, a prominent Christian in Colossae who hosted the church in his home. Onesimus apparently fled — possibly after stealing from Philemon (verse 18 hints at this) — and somehow made his way to Rome, where he encountered Paul in prison and became a believer.
 
-Roman slavery was a pervasive institution. Roughly one-third of the Roman Empire's population were enslaved persons. Runaway slaves faced severe punishment if caught — branding, flogging, and even crucifixion. The legal option available to Philemon was harsh, and social expectations demanded he make an example of Onesimus to maintain household order. Into this world of absolute rights over human property, Paul writes a letter that, without directly commanding Philemon to free Onesimus, constructs an argument so compelling that any other response becomes morally unthinkable.
+Roman slavery was a pervasive institution. In the empire's major urban centers, as much as a third of the population were enslaved persons. Runaway slaves faced severe punishment if caught — branding, flogging, and even crucifixion. The legal option available to Philemon was harsh, and social expectations demanded he make an example of Onesimus to maintain household order. Into this world of absolute rights over human property, Paul writes a letter that, without directly commanding Philemon to free Onesimus, constructs an argument so compelling that any other response becomes morally unthinkable.
 
 Paul's rhetorical strategy is sophisticated. He begins by praising Philemon's love and faith (vv. 4-7), establishing rapport and subtly reminding Philemon of the character he is expected to live up to. He then appeals "on the basis of love" rather than apostolic authority (vv. 8-9), though he makes clear he could command if he wished — a masterful use of praeteritio (emphasizing something by claiming not to mention it). He introduces Onesimus as "my son... whom I have begotten in my chains" (v. 10), establishing a spiritual kinship that trumps legal ownership. The wordplay on Onesimus's name — which means "useful" — is poignant: "Formerly he was useless to you, but now he has become useful both to you and to me" (v. 11).
 
@@ -50,7 +50,7 @@ Early church tradition suggests Onesimus was indeed freed and eventually became 
 
 - **Old Testament Roots**: Paul's offer to bear Onesimus's debt echoes the kinsman-redeemer tradition (Ruth 4, Leviticus 25:47-49) and Deuteronomy 23:15-16, which prohibited returning a runaway slave to a harsh master in Israel. The theme of transformation from "useless" to "useful" echoes the transformation narratives of Jacob, Joseph, and Ruth — outcasts who become essential.
 - **New Testament Echoes**: Galatians 3:28 ("neither slave nor free") provides the theological foundation that Philemon applies concretely. Paul's offer to bear Philemon's loss (v. 18) mirrors Christ's substitutionary work — taking upon himself the debt of another.
-- **Parallel Passages**: Ephesians 6:18-20 (Paul's parallel prayer request from prison), 1 Corinthians 7:21-23 (Paul's instructions about slavery and freedom in Christ), Galatians 3:26-28 (unity in Christ transcending social categories)
+- **Parallel Passages**: Ephesians 6:18-20 (Paul's parallel prayer request from prison)
 
 ## Reflection Questions
 

@@ -3,8 +3,6 @@ week: 45
 day: 1
 title: Soldier, Athlete, Farmer
 reading: 2 Timothy 2
-parallel_passages: 1 Corinthians 9:24-27; Ephesians 6:10-18; Philippians 2:19-22;
-  1 Timothy 6:12
 section: Letters and Revelation
 tags:
 - 2-timothy
@@ -45,7 +43,6 @@ Throughout this chapter, Paul weaves a golden thread: the gospel itself is uncha
 ## Connections
 - **Old Testament Roots**: The agricultural imagery echoes Proverbs 12:11 ("Those who work their land will have abundant food") and the broader OT theme that faithful labor produces fruit (Psalm 126:5-6). The vessel imagery draws on Jeremiah 18, where God is the potter shaping vessels for his purposes.
 - **New Testament Echoes**: Paul's soldier metaphor connects to Ephesians 6:10-18 (the armor of God) and Philippians 2:25 (Epaphroditus as a "fellow soldier"). The athlete imagery parallels 1 Corinthians 9:24-27, where Paul describes disciplining his own body to avoid disqualification.
-- **Parallel Passages**: 1 Timothy 6:12 ("Fight the good fight of faith"); James 5:7-8 (patience of the farmer waiting for the harvest); 1 Corinthians 3:10-15 (building with quality materials)
 
 ## Reflection Questions
 1. Which of Paul's three metaphors -- soldier, athlete, or farmer -- best describes your current season of following Christ, and why?

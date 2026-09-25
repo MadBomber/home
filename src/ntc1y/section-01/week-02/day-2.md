@@ -10,12 +10,6 @@ tags:
 - egypt
 - prophecy-fulfillment
 section: The Coming of Christ
-parallel_passages:
-- Numbers 24:17
-- Micah 5:2
-- Hosea 11:1
-- Jeremiah 31:15
-- Isaiah 11:1
 layout: page
 study_slug: ntc1y
 ---
@@ -31,7 +25,7 @@ Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Matt.2" target
 
 ## Historical Context
 
-Matthew's Gospel was written primarily for a Jewish-Christian audience, likely in Antioch of Syria, between AD 50 and 70. Matthew's overriding concern is to demonstrate that Jesus fulfills the Hebrew Scriptures. This chapter alone contains four explicit "fulfillment quotations" -- passages introduced with "this was to fulfill what the Lord had spoken by the prophet" -- more than any other single chapter in Matthew. Every major event of Jesus' early life was anticipated by the prophets, and therefore Jesus is the true Messiah of Israel.
+Matthew's Gospel was written primarily for a Jewish-Christian audience, likely in Antioch of Syria, in the second half of the first century. Matthew's overriding concern is to demonstrate that Jesus fulfills the Hebrew Scriptures. This chapter alone contains four explicit "fulfillment quotations" -- passages introduced with "this was to fulfill what the Lord had spoken by the prophet" -- more than any other single chapter in Matthew. Every major event of Jesus' early life was anticipated by the prophets, and therefore Jesus is the true Messiah of Israel.
 
 The chapter opens with the Magi (Greek: magoi) from the East. The term originally referred to a priestly caste among the Medes and Persians skilled in astronomy and dream interpretation; by the first century it had broadened to include wise men from various Eastern cultures. Matthew does not specify their number -- the tradition of three comes from the three gifts. Their origin "from the East" (apo anatolon) most likely points to Persia or Babylon. The significance is profound: Gentile scholars from a pagan land are among the first to worship the Jewish Messiah, while Herod and Jerusalem's religious leaders are troubled and hostile. This irony anticipates the Great Commission (Matthew 28:19).
 

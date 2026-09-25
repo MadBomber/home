@@ -3,7 +3,7 @@ week: 39
 day: 1
 title: Plot Against Paul
 reading: Acts 23
-parallel_passages: Acts 9:15; Acts 22:17-21; Psalm 27:1-3
+parallel_passages: Acts 9:15; Acts 22:17-21
 section: The Early Church
 tags:
 - acts

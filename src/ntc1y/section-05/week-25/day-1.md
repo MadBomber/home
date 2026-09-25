@@ -3,7 +3,7 @@ week: 25
 day: 1
 title: Accepted by Jerusalem Apostles — Confronting Peter at Antioch
 reading: Galatians 2
-parallel_passages: Acts 15:1-29, Acts 11:1-18, Romans 3:21-26
+parallel_passages: Acts 15:1-29; Acts 11:1-18
 section: The Early Church
 tags:
 - galatians
@@ -44,7 +44,7 @@ The chapter reaches its emotional and theological summit in verse 20, one of the
 ## Connections
 - **Old Testament Roots**: Genesis 15:6 (Abraham "believed the Lord, and he counted it to him as righteousness"); Psalm 143:2 ("no one living is righteous before you"); Habakkuk 2:4 ("the righteous shall live by his faith")
 - **New Testament Echoes**: Romans 3:21-26 (justification by faith apart from the law); Ephesians 2:8-9 (saved by grace through faith); Philippians 3:9 (a righteousness not of Paul's own that comes from the law)
-- **Parallel Passages**: Acts 15:1-29, Acts 11:1-18, Romans 3:21-26
+- **Parallel Passages**: Acts 15:1-29; Acts 11:1-18
 
 ## Reflection Questions
 1. Peter's withdrawal from the Gentile table was not a theological error but a failure of courage — he feared the circumcision party more than he feared God. In what areas of your life does social pressure cause you to act inconsistently with what you believe?

@@ -3,7 +3,7 @@ week: 26
 day: 4
 title: Thessalonica and Berea — Turning the World Upside Down
 reading: Acts 17:1-15
-parallel_passages: 1 Thessalonians 2:1-12, John 5:39, 2 Timothy 3:15-17
+parallel_passages: 1 Thessalonians 2:1-12
 section: The Early Church
 tags:
 - thessalonica
@@ -47,8 +47,8 @@ The Thessalonica-Berea narrative raises enduring questions about the relationshi
 
 ## Connections
 - **Old Testament Roots**: Isaiah 53 (the suffering servant, the scriptural background for Paul's argument that the Messiah must suffer); Psalm 2 (the Lord's anointed king whom the nations oppose); Daniel 7:13-14 (the Son of Man given dominion over all peoples)
-- **New Testament Echoes**: 1 Thessalonians 2:1-12 (Paul's own retrospective on his ministry in Thessalonica, describing his boldness despite opposition); John 5:39 (Jesus: "You search the Scriptures because you think that in them you have eternal life; and it is they that bear witness about me"); 2 Timothy 3:15-17 (the Scriptures as the foundation of faith and wisdom)
-- **Parallel Passages**: 1 Thessalonians 2:1-12, John 5:39, 2 Timothy 3:15-17
+- **New Testament Echoes**: John 5:39 (Jesus: "You search the Scriptures because you think that in them you have eternal life; and it is they that bear witness about me"); 2 Timothy 3:15-17 (the Scriptures as the foundation of faith and wisdom)
+- **Parallel Passages**: 1 Thessalonians 2:1-12 (Paul's own retrospective on his ministry in Thessalonica, describing his boldness despite opposition)
 
 ## Reflection Questions
 1. Paul "reasoned from the Scriptures" using dialogue, explanation, and evidence. How does this model of evangelism — patient, Scripture-centered, intellectually engaging — compare with the approaches to evangelism you have experienced or practiced?

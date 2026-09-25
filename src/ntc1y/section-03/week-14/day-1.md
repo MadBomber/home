@@ -3,7 +3,7 @@ week: 14
 day: 1
 title: Divorce Teaching, Let the Children Come, Rich Young Man
 reading: Matthew 19
-parallel_passages: Genesis 1:27, Genesis 2:24, Mark 10:1-31, Deuteronomy 24:1-4
+parallel_passages: Mark 10:1-31; Luke 18:18-30
 section: Road to Jerusalem
 tags:
 - marriage

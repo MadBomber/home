@@ -3,7 +3,6 @@ week: 40
 day: 1
 title: Malta, Rome, and the Open Ending
 reading: Acts 28
-parallel_passages: Mark 16:18, Luke 10:19, Acts 23:11, Isaiah 6:9-10, Romans 1:15-16
 section: The Early Church
 tags:
 - acts
@@ -44,8 +43,7 @@ The final two verses (28:30-31) form Luke's epilogue. Paul lives in Rome for "tw
 
 ## Connections
 - **Old Testament Roots**: Isaiah 6:9-10 (the hardening passage Paul quotes); Isaiah 49:6 (a light to the nations -- the Gentile mission); Habakkuk 1:5 (God doing a work "you would not believe"); Exodus 4:3-5 (Moses and the serpent as a sign)
-- **New Testament Echoes**: Luke 10:19 (authority over serpents and scorpions); Acts 23:11 (Jesus' promise: "You must testify in Rome"); Romans 1:15-16 (Paul's longing to preach in Rome); Philippians 1:12-14 (Paul's imprisonment advancing the gospel)
-- **Parallel Passages**: Mark 16:18 (picking up serpents without harm); Matthew 13:14-15 (Jesus' use of Isaiah 6:9-10); 2 Timothy 4:6-8 (Paul's later reflection on his ministry's completion)
+- **New Testament Echoes**: Luke 10:19 (authority over serpents and scorpions); Acts 23:11 (Jesus' promise: "You must testify in Rome"); Matthew 13:14-15 (Jesus' use of Isaiah 6:9-10); Romans 1:15-16 (Paul's longing to preach in Rome); Philippians 1:12-14 (Paul's imprisonment advancing the gospel)
 
 ## Reflection Questions
 1. Acts ends without narrating the outcome of Paul's trial. Why do you think Luke chose this open ending? What theological point is he making about the nature of the gospel and the church?

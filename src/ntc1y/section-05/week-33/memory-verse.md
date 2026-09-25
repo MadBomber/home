@@ -10,8 +10,8 @@ verse_text: "But we have this treasure in jars of clay, to show that the surpass
 translation: ESV
 connections:
   - "Day 1 — Paul's suffering catalog shows what 'jars of clay' looks like in practice"
-  - "Day 3 — The 'treasure' is the gospel of God's glory (2 Cor 4:4-6)"
-  - "Day 5 — 'We do not lose heart' bookends the chapter, framing the verse"
+  - "Day 2 — The jar of clay is also an 'earthly tent' destined to be destroyed (2 Cor 5:1), yet the one who carries the treasure has a building from God, eternal in the heavens"
+  - "Day 5 — The Macedonians' extreme poverty overflowing in a wealth of generosity (2 Cor 8:2) displays the same paradox: the surpassing power belongs to God, not to the vessel"
 study_slug: ntc1y
 ---
 

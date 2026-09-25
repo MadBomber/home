@@ -3,15 +3,13 @@ week: 29
 day: 2
 title: Divisions in Corinth, Wisdom of the Cross, Foolishness of God
 reading: 1 Corinthians 1
-parallel_passages: Isaiah 29:14; Jeremiah 9:23-24; Romans 1:16-17; 1 Corinthians 3:18-23
 section: The Early Church
 tags:
-- ephesus
-- corinthians
+- corinth
 - divisions
-- wisdom
-- cross
-- spiritual-maturity
+- wisdom-of-cross
+- foolishness-of-god
+- boasting
 layout: page
 study_slug: ntc1y
 ---
@@ -47,8 +45,6 @@ Paul clinches the argument by pointing to the Corinthians themselves as evidence
 ## Connections
 - **Old Testament Roots**: Paul quotes Isaiah 29:14 (destruction of human wisdom) and Jeremiah 9:23-24 (boast in the Lord); the pattern of God choosing the unlikely echoes the entire Old Testament narrative: younger sons (Jacob, David), barren women (Sarah, Hannah), the smallest nation (Israel)
 - **New Testament Echoes**: The theology of the cross here is developed further in 1 Corinthians 2, Galatians 6:14 ("far be it from me to boast except in the cross"), and Philippians 2:5-11 (the self-emptying of Christ); the theme of God choosing the weak pervades Paul's letters (2 Corinthians 12:9-10)
-- **Parallel Passages**: Romans 1:16-17 (the gospel as the power of God); Isaiah 29:14 (destroying the wisdom of the wise); 1 Corinthians 3:18-23 (let no one boast in men)
-
 ## Reflection Questions
 1. The Corinthians divided along the lines of their favorite teachers. In what ways do modern Christians divide along similar lines -- denominational loyalty, celebrity pastors, theological camps, or political allegiances?
 2. Paul says the cross is "foolishness" to the world's way of thinking. Where do you feel the tension between the message of the cross and the values your culture celebrates (success, power, prestige, self-promotion)?

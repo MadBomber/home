@@ -3,8 +3,6 @@ week: 45
 day: 4
 title: The Son Superior to Angels
 reading: Hebrews 1
-parallel_passages: Psalm 2:7, 2 Samuel 7:14, Psalm 104:4, Psalm 45:6-7, Psalm 102:25-27,
-  Psalm 110:1, Colossians 1:15-20, John 1:1-3
 section: Letters and Revelation
 tags:
 - hebrews
@@ -48,7 +46,6 @@ The climactic final verse (1:14) reduces the angels to their proper status with 
 
 - **Old Testament Roots**: Each of the seven quotations draws on Israel's royal and messianic tradition. Psalm 2:7 was a coronation psalm, originally celebrating the Davidic king's enthronement. Psalm 110:1 was the most frequently quoted Old Testament text in the early church. Psalm 45:6-7 addresses the king as "God" -- language the author of Hebrews applies directly to Christ. Psalm 102:25-27, originally addressed to Yahweh, is here applied to the Son, making an implicit claim of deity.
 - **New Testament Echoes**: The prologue echoes John 1:1-3 ("In the beginning was the Word... all things were made through him") and Colossians 1:15-20 (Christ as image of the invisible God, firstborn over all creation, sustainer of all things). Philippians 2:9-11 also celebrates Christ's exaltation to the highest name.
-- **Parallel Passages**: Colossians 1:15-20, John 1:1-14, Philippians 2:5-11, Revelation 1:12-18
 
 ## Reflection Questions
 

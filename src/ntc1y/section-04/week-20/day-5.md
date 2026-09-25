@@ -3,7 +3,7 @@ week: 20
 day: 5
 title: Seeing and Believing
 reading: John 20-21
-parallel_passages: John 1:1, John 2:19, Matthew 28, Luke 24, 1 Corinthians 15
+parallel_passages: Matthew 28; Mark 16; Luke 24; 1 Corinthians 15:3-8
 section: Passion and Resurrection
 tags:
 - resurrection

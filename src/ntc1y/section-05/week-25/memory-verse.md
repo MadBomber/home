@@ -11,7 +11,7 @@ translation: ESV
 connections:
   - "Day 4 — Paul contrasts the works of the flesh with the fruit of the Spirit, showing that the freedom Christ gives does not lead to license but to a life shaped by the Spirit's character"
   - "Day 2 — The argument that we are justified by faith apart from works of the law finds its practical expression here: the Spirit produces what the law could never compel"
-  - "Day 5 — Paul closes Galatians with the call to 'walk by the Spirit,' and this list of fruit is what that walk looks like in practice"
+  - "Day 4 — In Galatians 5 Paul issues the call to 'walk by the Spirit,' and this list of fruit is what that walk looks like in practice"
 study_slug: ntc1y
 ---
 

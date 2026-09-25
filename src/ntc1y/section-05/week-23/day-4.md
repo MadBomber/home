@@ -3,7 +3,7 @@ week: 23
 day: 4
 title: Saul's Conversion on the Damascus Road
 reading: Acts 9
-parallel_passages: Acts 22:1-21, Acts 26:1-23, Galatians 1:11-24, 1 Timothy 1:12-16
+parallel_passages: Acts 22:1-21; Acts 26:1-23; Galatians 1:11-24
 section: The Early Church
 tags:
 - acts
@@ -47,7 +47,7 @@ The chapter also includes two miracle narratives involving Peter — the healing
 ## Connections
 - **Old Testament Roots**: Genesis 22:11 (double naming in divine address); Exodus 3:4 (Moses at the burning bush); Jonah 1:17 (three days of darkness preceding new mission); Isaiah 49:6 (light to the nations, echoed in Saul's commission)
 - **New Testament Echoes**: 1 Corinthians 15:8-10 (Paul's own reflection on seeing the risen Christ "as to one untimely born"); 1 Timothy 1:12-16 (Paul as the "foremost" of sinners, saved as an example of Christ's patience); Philippians 3:4-11 (Paul's evaluation of his former zeal)
-- **Parallel Passages**: Acts 22:1-21, Acts 26:1-23, Galatians 1:11-24, 1 Timothy 1:12-16
+- **Parallel Passages**: Acts 22:1-21; Acts 26:1-23; Galatians 1:11-24
 
 ## Reflection Questions
 1. Jesus tells Saul, "I am Jesus, whom you are persecuting." What does this identification between Christ and his church teach about how God views the treatment of believers?

@@ -3,8 +3,6 @@ week: 30
 day: 3
 title: Marriage, Singleness, and Undivided Devotion
 reading: 1 Corinthians 7
-parallel_passages: Genesis 2:18-24, Matthew 19:3-12, Mark 10:2-12, Ephesians 5:22-33,
-  1 Thessalonians 4:3-8, 1 Timothy 4:1-5
 section: The Early Church
 tags:
 - corinthians
@@ -47,7 +45,6 @@ The chapter's literary structure reveals Paul as a sophisticated pastoral thinke
 
 - **Old Testament Roots**: Genesis 2:18-24 establishes marriage as a creation ordinance. Malachi 2:14-16 records God's hatred of divorce and his description of marriage as a covenant. Deuteronomy 24:1-4 provides the legal background for Jewish divorce that Jesus addresses in the Gospels.
 - **New Testament Echoes**: Jesus' teaching on divorce in Matthew 19:3-12 and Mark 10:2-12 is the "word of the Lord" Paul cites in v. 10. Paul's marriage theology is expanded in Ephesians 5:22-33, where the one-flesh union becomes an image of Christ and the church. The false teachers who "forbid marriage" in 1 Timothy 4:3 represent the ascetic extreme Paul corrects here.
-- **Parallel Passages**: Matthew 19:3-12 (Jesus on divorce and celibacy), Mark 10:2-12 (marriage as indissoluble), Ephesians 5:22-33 (marriage as Christ-church analogy), 1 Thessalonians 4:3-8 (sexual holiness), 1 Timothy 4:1-5 (against asceticism).
 
 ## Reflection Questions
 

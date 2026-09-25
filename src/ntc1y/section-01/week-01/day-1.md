@@ -3,7 +3,7 @@ week: 1
 day: 1
 title: The Word Became Flesh
 reading: John 1:1-18
-parallel_passages: Genesis 1:1-5, Proverbs 8:22-31, Colossians 1:15-20, Hebrews 1:1-4
+parallel_passages: Matthew 1:1; Mark 1:1; Luke 1:1-4
 section: The Coming of Christ
 tags:
 - john

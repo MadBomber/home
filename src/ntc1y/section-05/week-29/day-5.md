@@ -3,16 +3,13 @@ week: 29
 day: 5
 title: Servants of Christ, Fools for Christ, Kingdom of Power
 reading: 1 Corinthians 4
-parallel_passages: 2 Corinthians 4:7-12; 2 Corinthians 6:3-10; 2 Corinthians 11:23-30;
-  Philippians 3:7-11
 section: The Early Church
 tags:
-- ephesus
-- corinthians
-- divisions
-- wisdom
-- cross
-- spiritual-maturity
+- servants-of-christ
+- stewardship
+- apostolic-suffering
+- fools-for-christ
+- spiritual-fatherhood
 layout: page
 study_slug: ntc1y
 ---
@@ -52,8 +49,6 @@ The chapter closes with a question that reveals the apostolic authority Paul has
 ## Connections
 - **Old Testament Roots**: The concept of stewardship echoes Joseph's role in Potiphar's house and in Egypt (Genesis 39, 41) -- a faithful manager of another's resources; the rhetorical question "What do you have that you did not receive?" echoes Deuteronomy 8:17-18 (warning against saying "My power and the might of my hand have gotten me this wealth")
 - **New Testament Echoes**: The apostolic suffering catalog is expanded in 2 Corinthians 4:7-12, 6:3-10, and 11:23-30; the spectacle imagery anticipates Hebrews 10:33; the kingdom-power-not-talk theme connects to Romans 14:17 and 1 Corinthians 2:4-5
-- **Parallel Passages**: 2 Corinthians 4:7-12 (treasure in jars of clay); 2 Corinthians 6:3-10 (hardship list); 2 Corinthians 11:23-30 (boasting in weakness); Philippians 3:7-11 (counting all as loss for Christ)
-
 ## Reflection Questions
 1. Paul says everything we have is a gift -- "What do you have that you did not receive?" How would your daily attitude change if you consistently lived with this awareness? What areas of your life are you most tempted to treat as personal achievements rather than gifts?
 2. The Corinthians assumed that spiritual maturity meant being "wise, strong, and honored." Paul says genuine apostleship looks like weakness, foolishness, and dishonor. How do you evaluate spiritual leadership -- by worldly metrics of success or by the cross-shaped pattern Paul describes?

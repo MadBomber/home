@@ -3,7 +3,6 @@ week: 22
 day: 1
 title: The Seven and Stephen's Rise
 reading: Acts 6
-parallel_passages: 1 Timothy 3:8-13; Exodus 18:13-27; Numbers 11:16-17; Acts 21:8
 section: The Early Church
 tags:
 - acts
@@ -46,8 +45,7 @@ The chapter ends with a remarkable detail: as Stephen stands before the Sanhedri
 
 ## Connections
 - **Old Testament Roots**: Exodus 18:13-27 (Jethro's advice to Moses to delegate); Numbers 11:16-17 (seventy elders share Moses' Spirit); Exodus 34:29-35 (Moses' shining face); Deuteronomy 10:18 (God defends the widow)
-- **New Testament Echoes**: 1 Timothy 3:8-13 (qualifications for deacons); 1 Peter 4:10-11 (serving by God's strength); Philippians 1:1 (deacons as church officers)
-- **Parallel Passages**: Acts 21:8 (Philip later called "the evangelist"); Mark 14:57-58 (false testimony at Jesus' trial)
+- **New Testament Echoes**: 1 Timothy 3:8-13 (qualifications for deacons); 1 Peter 4:10-11 (serving by God's strength); Philippians 1:1 (deacons as church officers); Acts 21:8 (Philip later called "the evangelist"); Mark 14:57-58 (false testimony at Jesus' trial)
 
 ## Reflection Questions
 1. What does the apostles' response to the Hellenists' complaint reveal about how the church should handle internal conflict and legitimate grievances?

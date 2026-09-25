@@ -3,8 +3,6 @@ week: 35
 day: 3
 title: God's Righteous Judgment
 reading: Romans 2
-parallel_passages: Deuteronomy 10:16, Jeremiah 4:4, Jeremiah 9:25-26, Ezekiel 36:26-27,
-  Matthew 7:1-5, James 2:10-13
 section: The Early Church
 tags:
 - romans
@@ -49,7 +47,6 @@ Paul's argument in chapter 2 serves a crucial structural function in the letter.
 
 - **Old Testament Roots**: Deuteronomy 10:16-17 provides both the command to circumcise the heart and the affirmation that God shows no partiality. Jeremiah 4:4 and 9:25-26 warn that physical circumcision without heart circumcision is worthless. Isaiah 52:5 and Ezekiel 36:22 describe God's name being profaned among the nations because of Israel's unfaithfulness. The concept of conscience finds resonance in the wisdom tradition (Proverbs 20:27).
 - **New Testament Echoes**: Jesus' critique of the Pharisees (Matthew 23) parallels Paul's indictment of those who teach but do not practice. James 2:10-13 echoes the principle that partiality violates divine justice. Galatians 6:15 declares that "neither circumcision counts for anything, nor uncircumcision, but a new creation." Philippians 3:3 identifies true circumcision with worship by the Spirit.
-- **Parallel Passages**: Matthew 7:1-5 (do not judge hypocritically), Galatians 5:6 (faith working through love), Galatians 6:15 (new creation, not circumcision), Philippians 3:2-3 (the true circumcision), James 1:22-25 (doers of the word, not hearers only).
 
 ## Reflection Questions
 

@@ -10,7 +10,7 @@ verse_text: "And Agrippa said to Paul, 'In a short time would you persuade me to
 translation: ESV
 connections:
   - "Day 4 — Paul speaks these words before King Agrippa in Caesarea, turning a legal defense into a gospel appeal with breathtaking boldness"
-  - "Day 3 — Paul's defense before Felix in Acts 24 shows the same pattern: every hearing becomes an opportunity to testify about righteousness, self-control, and the coming judgment"
+  - "Day 2 — Paul's defense before Felix in Acts 24 shows the same pattern: every hearing becomes an opportunity to testify about righteousness, self-control, and the coming judgment"
   - "Day 5 — The shipwreck in Acts 27 demonstrates that Paul's confidence is not in his circumstances but in the God who promised he would reach Rome"
 study_slug: ntc1y
 ---

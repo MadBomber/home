@@ -3,8 +3,6 @@ week: 30
 day: 1
 title: Expel the Immoral Brother
 reading: 1 Corinthians 5
-parallel_passages: Deuteronomy 17:7, Matthew 18:15-20, 2 Corinthians 2:5-11, 1 Timothy
-  1:20, Leviticus 18:8
 section: The Early Church
 tags:
 - corinthians
@@ -23,7 +21,7 @@ Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/1Cor.5" target
 
 ## Historical Context
 
-Paul opens his treatment of specific Corinthian problems with a case so scandalous that even the phrase he uses conveys shock: "It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans" (v. 1). The Greek word <a href="https://biblehub.com/searchgreek.php?q=porneia" target="_blank" rel="noopener"><em>porneia</em></a>, broadly covering all forms of sexual immorality, is here specified as a man "living with his father's wife" -- almost certainly his stepmother. Roman law explicitly prohibited such unions; the *Lex Iulia de adulteriis* of Augustus imposed severe penalties for incestuous relationships, and even the relatively permissive sexual culture of Corinth would have found this arrangement disgraceful. The Old Testament was equally unambiguous: Leviticus 18:8 declares, "You shall not uncover the nakedness of your father's wife," and Deuteronomy 22:30 pronounces a curse on anyone who violates this boundary. The father is not mentioned, suggesting he may have died or divorced, but the relationship remains prohibited in both Jewish and Roman legal frameworks.
+Paul opens his treatment of specific Corinthian problems with a case so scandalous that even the phrase he uses conveys shock: "It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans" (v. 1). The Greek word <a href="https://biblehub.com/searchgreek.php?q=porneia" target="_blank" rel="noopener"><em>porneia</em></a>, broadly covering all forms of sexual immorality, is here specified as a man "living with his father's wife" -- almost certainly his stepmother. Roman law explicitly prohibited such unions; the *Lex Iulia de adulteriis* of Augustus imposed severe penalties for incestuous relationships, and even the relatively permissive sexual culture of Corinth would have found this arrangement disgraceful. The Old Testament was equally unambiguous: Leviticus 18:8 declares, "You shall not uncover the nakedness of your father's wife," Deuteronomy 22:30 repeats the prohibition, and Deuteronomy 27:20 pronounces a curse on anyone who violates this boundary. The father is not mentioned, suggesting he may have died or divorced, but the relationship remains prohibited in both Jewish and Roman legal frameworks.
 
 What disturbs Paul even more than the sin itself is the Corinthian response to it: "And you are arrogant!" (v. 2). The Greek word *phusioo* means "puffed up" or "inflated," and it recurs throughout 1 Corinthians as Paul's diagnosis of the church's fundamental disease. The Corinthians had developed a theology of spiritual superiority -- they were so enlightened, so spiritually advanced, that moral boundaries no longer applied to them. Some scholars suggest they had distorted Paul's own teaching about freedom from the law into a libertine theology: if grace abounds where sin increases (cf. Romans 6:1), then moral restrictions are irrelevant to the truly spiritual person. This proto-Gnostic tendency to separate spiritual status from bodily behavior would plague the church for centuries.
 
@@ -45,7 +43,6 @@ Paul closes with a direct quotation from Deuteronomy: "Purge the evil person fro
 
 - **Old Testament Roots**: Leviticus 18:8 and Deuteronomy 22:30 explicitly prohibit the sexual relationship Paul addresses. The refrain "purge the evil person from among you" (Deuteronomy 17:7) grounds church discipline in the covenant tradition of Israel. The Passover imagery (Exodus 12) provides the theological framework for communal holiness.
 - **New Testament Echoes**: Jesus' teaching on church discipline in Matthew 18:15-20 provides the procedural framework Paul assumes. The redemptive aim of discipline is confirmed in 2 Corinthians 2:5-11, where Paul urges forgiveness and restoration. Paul uses a similar "handing over to Satan" phrase regarding Hymenaeus and Alexander in 1 Timothy 1:20.
-- **Parallel Passages**: Matthew 18:15-20 (church discipline procedure), 2 Corinthians 2:5-11 (restoration after discipline), Galatians 6:1 (restoring the one caught in sin), 2 Thessalonians 3:6-15 (disassociation from the disorderly).
 
 ## Reflection Questions
 

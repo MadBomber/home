@@ -3,14 +3,14 @@ week: 27
 day: 2
 title: Thanksgiving for Thessalonians' Faith, Model to All Believers
 reading: 1 Thessalonians 1
-parallel_passages: Acts 17:1-9; Philippians 1:3-6; Colossians 1:3-8
+parallel_passages: Acts 17:1-9
 section: The Early Church
 tags:
-- corinth
-- thessalonians
-- paul
-- second-coming
-- hope
+- thessalonica
+- faith-love-hope
+- conversion
+- joy-in-affliction
+- model-church
 layout: page
 study_slug: ntc1y
 ---
@@ -46,7 +46,7 @@ The chapter closes with what many scholars consider a primitive Christian creeda
 ## Connections
 - **Old Testament Roots**: The language of "turning from idols to the living God" echoes the prophetic call to repentance in Isaiah 44:9-20, Jeremiah 10:1-16, and Ezekiel 14:6 -- Israel's God has always demanded exclusive worship
 - **New Testament Echoes**: The faith-love-hope triad reappears in 1 Corinthians 13:13 and Colossians 1:4-5; the description of conversion parallels Acts 14:15 and Acts 26:18
-- **Parallel Passages**: Acts 17:1-9 (Paul's ministry in Thessalonica); Philippians 1:3-6 (similar thanksgiving); Colossians 1:3-8 (faith, love, hope triad)
+- **Parallel Passages**: Acts 17:1-9 (Paul's ministry in Thessalonica)
 
 ## Reflection Questions
 1. Paul identifies three specific qualities in the Thessalonians: work of faith, labor of love, and steadfastness of hope. What does each phrase suggest about how these virtues function in daily life?

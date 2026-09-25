@@ -3,7 +3,6 @@ week: 23
 day: 3
 title: Warning to Rich Oppressors — Prayer of Faith
 reading: James 5
-parallel_passages: 1 Kings 17-18, Job 42:10-17, Matthew 18:12-14
 section: The Early Church
 tags:
 - james
@@ -47,7 +46,6 @@ The letter closes with one of its most beautiful and understated exhortations: "
 ## Connections
 - **Old Testament Roots**: Deuteronomy 24:14-15 (prohibition against withholding wages); 1 Kings 17-18 (Elijah's prayer for drought and rain); Job 42:10-17 (God's restoration of Job after patient endurance); Amos 2:6-7, 5:11-12 (prophetic denunciation of economic injustice)
 - **New Testament Echoes**: Matthew 18:12-14 (parable of the lost sheep); Luke 6:24-26 (woes to the rich); Matthew 5:33-37 (Jesus' prohibition of oaths); 1 Peter 4:8 ("love covers a multitude of sins")
-- **Parallel Passages**: 1 Kings 17-18, Job 42:10-17, Matthew 18:12-14
 
 ## Reflection Questions
 1. James condemns not wealth itself but wealth gained through fraud and consumed in luxury while others suffer. How does this prophetic standard apply to economic systems and personal financial decisions in your context?

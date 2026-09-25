@@ -3,7 +3,7 @@ week: 38
 day: 1
 title: Accept One Another as Christ Accepted You
 reading: Romans 15
-parallel_passages: Isaiah 11:10; Isaiah 52:15; Psalm 18:49; Deuteronomy 32:43
+parallel_passages: Acts 19:21; Acts 20:22-24
 section: The Early Church
 tags:
 - romans

@@ -3,8 +3,6 @@ week: 31
 day: 5
 title: Orderly Worship
 reading: 1 Corinthians 14
-parallel_passages: Acts 2:4-11, Numbers 11:29, Joel 2:28-29, 1 Thessalonians 5:19-22,
-  Revelation 19:10
 section: The Early Church
 tags:
 - corinthians
@@ -32,7 +30,7 @@ To appreciate the force of Paul's argument, one must understand what first-centu
 
 Tongues (*glossolalia*), by contrast, posed a particular problem in the Corinthian context. The nature of the gift is debated: was it ecstatic utterance (a Spirit-given prayer language with no human linguistic structure) or the miraculous ability to speak in unlearned human languages (as at Pentecost in Acts 2:4-11)? Paul's discussion suggests the former, since he describes tongue-speech as mysteries spoken "in the Spirit" (v. 2) that no one understands without the companion gift of interpretation. He compares uninterpreted tongues to a bugle that sounds an indistinct call -- no one knows whether to prepare for battle or stand down (v. 8). He compares the tongue-speaker without an interpreter to a foreigner (<a href="https://biblehub.com/searchgreek.php?q=barbaros" target="_blank" rel="noopener"><em>barbaros</em></a>) -- the onomatopoeic Greek word for someone whose speech sounds like "bar-bar-bar," mere babbling (v. 11). In a city as cosmopolitan as Corinth, where dozens of languages could be heard in the marketplace, the image of mutual incomprehension would have been vivid.
 
-Paul does not prohibit tongues; he regulates them. His guidelines are precise: if anyone speaks in a tongue, there should be only two or at most three speakers, each in turn, and there must be an interpreter. "If there is no one to interpret, let each of them keep silent in church and speak to himself and to God" (v. 28). The same orderly framework applies to prophets: "Let two or three prophets speak, and let the others weigh what is said" (v. 29). Prophecy is not infallible; it must be tested and evaluated by the community. This requirement of corporate discernment prevents any individual from claiming unchallenageable divine authority and provides a safeguard against false or misguided prophecy.
+Paul does not prohibit tongues; he regulates them. His guidelines are precise: if anyone speaks in a tongue, there should be only two or at most three speakers, each in turn, and there must be an interpreter. "If there is no one to interpret, let each of them keep silent in church and speak to himself and to God" (v. 28). The same orderly framework applies to prophets: "Let two or three prophets speak, and let the others weigh what is said" (v. 29). Prophecy is not infallible; it must be tested and evaluated by the community. This requirement of corporate discernment prevents any individual from claiming unchallengeable divine authority and provides a safeguard against false or misguided prophecy.
 
 The most controversial verses in the chapter are 34-35: "The women should keep silent in the churches. For they are not permitted to speak, but should be in submission, as the Law also says." This command appears to contradict 11:5, where Paul assumes women pray and prophesy in the assembly. Several interpretive options have been proposed. Some scholars suggest these verses are a non-Pauline interpolation (they appear after v. 40 in some manuscripts). Others argue Paul is quoting a Corinthian slogan that he then refutes in v. 36 ("Or was it from you that the word of God came?"). Still others hold that Paul is addressing a specific disruptive behavior -- perhaps wives publicly evaluating their husbands' prophecies (the "ask their husbands at home" instruction in v. 35 supports this reading) or disruptive chatter during the weighing of prophecies. Whatever the interpretation, the passage must be read alongside 11:5 and alongside the evidence of women's active participation in Paul's ministry (Priscilla, Phoebe, Junia, and others). Paul's overarching concern in chapter 14 is not gender roles but orderly worship that edifies the body.
 
@@ -48,7 +46,6 @@ The chapter's conclusion captures Paul's vision for Christian worship with elega
 
 - **Old Testament Roots**: Moses' wish that "all the LORD's people were prophets" (Numbers 11:29) and Joel's prophecy of the Spirit being poured out on all flesh (Joel 2:28-29) form the backdrop for Paul's expectation that prophecy would be widely exercised in the church. The Old Testament prophets modeled Spirit-inspired speech that convicted, edified, and called the community to faithfulness.
 - **New Testament Echoes**: Acts 2:4-11 records the initial gift of tongues at Pentecost, providing the prototype for the Corinthian experience. First Thessalonians 5:19-22 echoes Paul's balanced approach: "Do not quench the Spirit. Do not despise prophecies, but test everything." Revelation 19:10 declares that "the testimony of Jesus is the spirit of prophecy," connecting prophetic speech to witness about Christ.
-- **Parallel Passages**: 1 Thessalonians 5:19-22 (test prophecies, don't quench the Spirit), Romans 12:6 (prophecy in proportion to faith), Ephesians 5:18-20 (being filled with the Spirit in worship), Acts 2:1-13 (Pentecost tongues).
 
 ## Reflection Questions
 

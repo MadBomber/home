@@ -3,8 +3,6 @@ week: 32
 day: 5
 title: Ministers of the New Covenant
 reading: 2 Corinthians 3
-parallel_passages: Exodus 34:29-35, Jeremiah 31:31-34, Ezekiel 36:26-27, Romans 7:6,
-  Romans 8:2-4, Hebrews 8:6-13
 section: The Early Church
 tags:
 - resurrection
@@ -48,7 +46,6 @@ Paul's hermeneutical principle also has profound implications for how Christians
 
 - **Old Testament Roots**: Exodus 34:29-35 provides the narrative Paul interprets. Jeremiah 31:31-34 prophesied the new covenant written on hearts. Ezekiel 36:26-27 promised a new heart, a new spirit, and the Spirit's indwelling. Exodus 31:18 and 34:1 record the writing on stone tablets. Deuteronomy 30:6 anticipates the circumcision of the heart.
 - **New Testament Echoes**: Romans 7:6 echoes the contrast between the old way of the written code and the new way of the Spirit. Romans 8:2-4 develops the theme that the Spirit accomplishes what the law could not. Hebrews 8:6-13 provides an extended commentary on Jeremiah 31's new covenant. The Transfiguration (Matthew 17:1-8) provides a narrative parallel to the glory that transforms.
-- **Parallel Passages**: Romans 7:6 (new way of the Spirit vs. old way of the letter), Romans 8:2-4 (the law of the Spirit of life), Galatians 3:1-14 (law and Spirit), Hebrews 8:6-13 (new covenant superior to old), Hebrews 9:15 (mediator of a new covenant).
 
 ## Reflection Questions
 

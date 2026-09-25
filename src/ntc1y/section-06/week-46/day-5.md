@@ -3,7 +3,6 @@ week: 46
 day: 5
 title: Melchizedek and the Permanent Priesthood
 reading: Hebrews 7
-parallel_passages: Genesis 14:17-20, Psalm 110:4, Numbers 18:21-26, Jeremiah 31:31-34
 section: Letters and Revelation
 tags:
 - hebrews
@@ -48,7 +47,6 @@ The chapter closes by contrasting Levitical priests with Jesus. The former were 
 
 - **Old Testament Roots**: Genesis 14:17-20 provides the narrative foundation for the entire Melchizedek argument. Psalm 110:4 is the interpretive key, declaring a priestly order that supersedes Aaron. Numbers 18:21-26 establishes the Levitical tithing system that Melchizedek's reception of Abraham's tithe surpasses. Jeremiah 31:31-34 anticipates the new covenant that a new priesthood requires.
 - **New Testament Echoes**: Romans 8:34 affirms that Christ "is at the right hand of God and is also interceding for us." 1 John 2:1 describes Jesus as "an advocate with the Father." The "once for all" sacrifice theme (7:27) anticipates the climactic statement of Hebrews 9:26 and 10:10. The superiority argument builds toward the "better covenant" of Hebrews 8:6.
-- **Parallel Passages**: Genesis 14:17-20 (Melchizedek blesses Abraham), Psalm 110:4 (priest forever after the order of Melchizedek), Romans 8:34 (Christ intercedes for us), 1 John 2:1 (Jesus our advocate)
 
 ## Reflection Questions
 

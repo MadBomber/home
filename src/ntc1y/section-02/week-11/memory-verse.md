@@ -6,7 +6,7 @@ week: 11
 section: Galilean Ministry
 title: Life in the Kingdom
 memory_verse: "Luke 10:27"
-verse_text: "He answered, 'Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind'; and, 'Love your neighbor as yourself.'"
+verse_text: "And he answered, \"You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself.\""
 translation: ESV
 connections:
   - "Day 3 — The Good Samaritan parable in Luke 10 is Jesus' direct answer to the question 'Who is my neighbor?' — showing that this double command of love has no ethnic or religious boundaries"

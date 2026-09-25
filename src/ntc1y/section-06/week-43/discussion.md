@@ -60,7 +60,7 @@ Paul's gymnasium metaphor presents godliness as requiring intentional training, 
 
 ## Memory Verse Reflection
 
-> "Don't let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity." — 1 Timothy 4:12
+> "Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity." — 1 Timothy 4:12
 
 Paul lists five areas where Timothy's example should be visible: speech, conduct, love, faith, and purity. Why these five? Which one is most challenging for you personally, and why?
 

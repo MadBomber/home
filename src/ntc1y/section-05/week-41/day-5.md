@@ -3,8 +3,7 @@ week: 41
 day: 5
 title: Knowing Christ, Pressing On, Citizenship in Heaven
 reading: Philippians 3
-parallel_passages: Galatians 1:13-14, 2 Corinthians 11:22, Romans 3:21-26, Hebrews
-  12:1-2
+parallel_passages: Galatians 1:13-14; 2 Corinthians 11:22
 section: The Early Church
 tags:
 - philippians
@@ -47,7 +46,7 @@ The chapter concludes with one of its most politically charged statements: "Our 
 ## Connections
 - **Old Testament Roots**: Numbers 25:6-13 (the zeal of Phinehas, Paul's pre-conversion model); Isaiah 64:6 (all our righteousnesses as filthy rags); Jeremiah 9:23-24 (let him who boasts boast in knowing the Lord)
 - **New Testament Echoes**: Galatians 2:20-21 (crucified with Christ; righteousness not through the law); Romans 3:21-26 (the righteousness of God apart from law); Hebrews 12:1-2 (running the race, looking to Jesus); 2 Timothy 4:7-8 (I have finished the race, the crown of righteousness)
-- **Parallel Passages**: Galatians 1:13-14, 2 Corinthians 11:22, Romans 3:21-26, Hebrews 12:1-2
+- **Parallel Passages**: Galatians 1:13-14 (Paul's former life in Judaism); 2 Corinthians 11:22 (Paul's Hebrew credentials)
 
 ## Reflection Questions
 1. What specific credentials does Paul list in verses 4-6, and why is it significant that he does not downplay or deny their reality before declaring them "loss" and "rubbish"?

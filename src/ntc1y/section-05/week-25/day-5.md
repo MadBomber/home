@@ -3,7 +3,6 @@ week: 25
 day: 5
 title: Bear One Another's Burdens — New Creation
 reading: Galatians 6
-parallel_passages: 2 Corinthians 5:17, Romans 2:28-29, 1 Corinthians 7:19
 section: The Early Church
 tags:
 - galatians
@@ -47,8 +46,6 @@ The letter's final theological statement is one of the most concentrated in all 
 ## Connections
 - **Old Testament Roots**: Proverbs 22:8 ("Whoever sows injustice will reap calamity"); Hosea 10:12 ("Sow for yourselves righteousness; reap steadfast love"); Isaiah 65:17 ("Behold, I create new heavens and a new earth" — the prophetic background for "new creation")
 - **New Testament Echoes**: 2 Corinthians 5:17 ("If anyone is in Christ, he is a new creation"); Romans 2:28-29 ("true circumcision is a matter of the heart, by the Spirit"); 1 Corinthians 7:19 ("Neither circumcision counts for anything nor uncircumcision, but keeping the commandments of God")
-- **Parallel Passages**: 2 Corinthians 5:17, Romans 2:28-29, 1 Corinthians 7:19
-
 ## Reflection Questions
 1. Paul distinguishes between "burdens" (heavy loads requiring communal support) and "loads" (personal responsibilities each must carry). How do you discern when someone needs help bearing a burden versus when they need encouragement to carry their own load?
 2. "Do not grow weary of doing good, for in due season we will reap." Where in your life are you most tempted to give up because the harvest seems delayed? What would it look like to continue sowing faithfully?

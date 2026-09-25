@@ -3,7 +3,7 @@ week: 42
 day: 4
 title: The New Self in Christ
 reading: Colossians 3
-parallel_passages: Ephesians 4:17-5:21, Romans 12:1-21, Galatians 5:16-26
+parallel_passages: Ephesians 4:22-32; Ephesians 5:22-6:9; 1 Peter 2:18-3:7
 section: Letters and Revelation
 tags:
 - colossians
@@ -48,7 +48,7 @@ The instruction to slaves (3:22-25) must be understood within its historical con
 
 - **Old Testament Roots**: The "image of the Creator" language (3:10) recalls Genesis 1:26-27, framing sanctification as the restoration of humanity's original design. The household code echoes the relational wisdom of Proverbs and the covenantal structure of Israelite family life under God's lordship.
 - **New Testament Echoes**: Ephesians 4:17-5:21 contains a nearly parallel put off/put on passage with a corresponding household code (Ephesians 5:22-6:9). Galatians 5:16-26 presents the flesh/Spirit contrast that parallels the old self/new self framework. Romans 12:1-21 similarly moves from doctrinal foundation to ethical application.
-- **Parallel Passages**: Ephesians 4:22-32 (put off/put on), Galatians 3:27-28 (neither Jew nor Gentile in Christ), Romans 13:12-14 (put on the armor of light), 1 Peter 2:18-3:7 (household code)
+- **Parallel Passages**: Ephesians 4:22-32 (put off/put on); Ephesians 5:22-6:9 (parallel household code); 1 Peter 2:18-3:7 (household code)
 
 ## Reflection Questions
 

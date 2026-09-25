@@ -9,14 +9,7 @@ tags:
 - repentance
 - baptism
 section: The Coming of Christ
-parallel_passages:
-- Isaiah 40:3
-- Malachi 3:1
-- Malachi 4:5-6
-- 2 Kings 1:8
-- Luke 3:1-18
-- Matthew 3:1-12
-- John 1:19-28
+parallel_passages: Luke 3:1-18; Matthew 3:1-12; John 1:19-28
 layout: page
 study_slug: ntc1y
 ---

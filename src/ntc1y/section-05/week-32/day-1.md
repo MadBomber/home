@@ -3,8 +3,6 @@ week: 32
 day: 1
 title: The Resurrection
 reading: 1 Corinthians 15
-parallel_passages: Psalm 110:1, Isaiah 25:8, Hosea 13:14, Daniel 12:2-3, Matthew 28:1-10,
-  Acts 1:3, Philippians 3:20-21, 1 Thessalonians 4:13-18
 section: The Early Church
 tags:
 - resurrection
@@ -48,7 +46,6 @@ Paul's climactic declaration draws on Isaiah 25:8 and Hosea 13:14: "Death is swa
 
 - **Old Testament Roots**: Psalm 110:1 ("Sit at my right hand until I make your enemies a footstool") provides the framework for Christ's cosmic reign. Isaiah 25:8 ("He will swallow up death forever") and Hosea 13:14 ("O Death, where are your plagues?") supply the triumphant taunt over death. Daniel 12:2-3 provides the clearest Old Testament testimony to bodily resurrection. The Feast of Firstfruits (Leviticus 23:10-14) gives Paul his controlling metaphor.
 - **New Testament Echoes**: The Gospel resurrection narratives (Matthew 28, Mark 16, Luke 24, John 20-21) provide the narrative backdrop. Philippians 3:20-21 echoes the promise that Christ will "transform our lowly body to be like his glorious body." First Thessalonians 4:13-18 provides a parallel account of the resurrection at Christ's coming. Revelation 20-21 depicts the final defeat of death and the new creation.
-- **Parallel Passages**: Romans 6:5-11 (united with Christ in resurrection), 2 Corinthians 5:1-10 (the heavenly dwelling), 1 Thessalonians 4:13-18 (the dead in Christ will rise), Philippians 3:20-21 (the transformed body), Revelation 21:4 (death shall be no more).
 
 ## Reflection Questions
 

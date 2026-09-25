@@ -3,8 +3,6 @@ week: 52
 day: 3
 title: The Two Witnesses and the Kingdom Trumpet
 reading: Revelation 10-11
-parallel_passages: Ezekiel 2:8-3:3, Zechariah 4, Deuteronomy 19:15, 1 Kings 17, Exodus
-  7:17
 section: Letters and Revelation
 tags:
 - revelation
@@ -19,7 +17,7 @@ study_slug: ntc1y
 
 ## Reading: Revelation 10-11
 
-Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.10" target="_blank" rel="noopener">Revelation chapter 10</a>
+Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.10" target="_blank" rel="noopener">Revelation chapter 10</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Rev.11" target="_blank" rel="noopener">Revelation chapter 11</a>
 
 ## Historical Context
 
@@ -47,9 +45,8 @@ The seventh trumpet then sounds (11:15), and "there were loud voices in heaven, 
 
 ## Connections
 
-- **Old Testament Roots**: The eating of the scroll echoes Ezekiel 2:8-3:3. The Two Witnesses combine elements of Moses (plagues), Elijah (shutting the sky), and the two olive trees of Zechariah 4. The forty-two months come from Daniel 7:25 and 12:7. The requirement of two witnesses fulfills Deuteronomy 19:15.
+- **Old Testament Roots**: The eating of the scroll echoes Ezekiel 2:8-3:3. The Two Witnesses combine elements of Moses (plagues, Exodus 7:17), Elijah (shutting the sky, 1 Kings 17:1), and the two olive trees of Zechariah 4. The forty-two months come from Daniel 7:25 and 12:7. The requirement of two witnesses fulfills Deuteronomy 19:15.
 - **New Testament Echoes**: The witnesses' death and resurrection follow the pattern of Christ's own death and resurrection. The beast from the Abyss anticipates the fuller description in Revelation 13. The seventh trumpet's declaration of God's kingdom connects to Jesus' proclamation that "the kingdom of God has come near" (Mark 1:15) and to the Lord's Prayer ("your kingdom come").
-- **Parallel Passages**: Ezekiel 2:8-3:3 (eating the scroll), Zechariah 4 (two olive trees and lampstands), Deuteronomy 19:15 (two witnesses), 1 Kings 17 (Elijah stops the rain), Exodus 7:17 (water to blood)
 
 ## Reflection Questions
 

@@ -31,7 +31,7 @@ Read Ephesians 3:20-21 aloud together. Then ask: If you truly believed that God 
 
 ## Core Discussion Questions
 
-1. **Acts 28 -- The Open Ending**: Acts ends with Paul preaching "without hindrance" from a prison cell. Why do you think Luke chose to end the book this way rather than narrating Paul's trial or death? What does this open ending say about the nature of the gospel and the ongoing story of the church?
+1. **Acts 28 -- The Open Ending**: Acts ends with Paul preaching "without hindrance" from his rented quarters. Why do you think Luke chose to end the book this way rather than narrating Paul's trial or death? What does this open ending say about the nature of the gospel and the ongoing story of the church?
 
 2. **Ephesians 1 -- Chosen Before the Foundation of the World**: Paul says God chose us in Christ "before the foundation of the world" (1:4). How does this truth function in your spiritual life -- as a source of assurance, a theological puzzle, or something else? What is the purpose of election according to this passage?
 
@@ -63,7 +63,7 @@ Read Ephesians 3:20-21 aloud together. Then ask: If you truly believed that God 
 
 ## Memory Verse
 
-> "For it is by grace you have been saved, through faith -- and this is not from yourselves, it is the gift of God -- not by works, so that no one can boast."
+> "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."
 > -- Ephesians 2:8-9
 
 ## Closing Prayer

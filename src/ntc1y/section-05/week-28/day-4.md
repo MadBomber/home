@@ -3,15 +3,14 @@ week: 28
 day: 4
 title: Warning Against Idle Living, Work or Don't Eat
 reading: 2 Thessalonians 3
-parallel_passages: 1 Thessalonians 4:11-12; 1 Thessalonians 5:14; Acts 18:3; 1 Corinthians
-  9:6-15; Ephesians 4:28
+parallel_passages: 1 Thessalonians 4:11-12; 1 Thessalonians 5:14
 section: The Early Church
 tags:
-- day-of-the-lord
-- eschatology
-- thessalonians
 - idleness
-- apollos
+- work-ethic
+- church-discipline
+- busybodies
+- apostolic-example
 layout: page
 study_slug: ntc1y
 ---
@@ -49,7 +48,7 @@ The closing of the letter (verses 16-18) includes a personal authenticating note
 ## Connections
 - **Old Testament Roots**: The dignity of work is established in creation itself (Genesis 2:15, where Adam is placed in the garden "to work it and keep it"); Proverbs repeatedly warns against laziness (Proverbs 6:6-11, 10:4, 13:4, 24:30-34); the principle "if you do not work, you shall not eat" echoes the manna instructions of Exodus 16
 - **New Testament Echoes**: Paul's self-supporting labor model appears in Acts 18:3, 20:34-35, and 1 Corinthians 9:6-15; the discipline process parallels Matthew 18:15-17 and 1 Corinthians 5
-- **Parallel Passages**: 1 Thessalonians 4:11-12 (work with your hands); 1 Thessalonians 5:14 (admonish the idle); Ephesians 4:28 (work to share with those in need)
+- **Parallel Passages**: 1 Thessalonians 4:11-12 (work with your hands); 1 Thessalonians 5:14 (admonish the idle)
 
 ## Reflection Questions
 1. Paul voluntarily gave up his right to financial support in order to provide a model of hard work. What rights or privileges have you seen leaders voluntarily set aside for the sake of their community's health?

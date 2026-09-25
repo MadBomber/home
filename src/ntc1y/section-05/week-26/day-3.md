@@ -3,7 +3,6 @@ week: 26
 day: 3
 title: Paul & Silas Imprisoned — Earthquake — Philippian Jailer Saved
 reading: Acts 16:16-40
-parallel_passages: Philippians 1:12-14, Matthew 5:10-12, Acts 5:41
 section: The Early Church
 tags:
 - philippi
@@ -31,7 +30,7 @@ After many days, Paul turned and addressed the spirit directly: "I command you i
 
 The charges they bring are revealing in their combination of ethnic prejudice and political manipulation: "These men are Jews, and they are disturbing our city. They advocate customs that are not lawful for us as Romans to accept or practice" (16:20-21). The charge is framed in terms of Roman identity against Jewish foreignness — a strategy calculated to inflame civic pride in a colony that prided itself on being a little Rome. The real grievance is economic, but the public accusation is cultural and political. The magistrates respond without investigation or trial. The crowd joins the attack, and "the magistrates tore the garments off them and gave orders to beat them with rods" (16:22). The beating with rods (rhabdizein) was a Roman punishment administered by lictors — the magistrates' official enforcers — and was both painful and humiliating. Paul and Silas received "many blows" and were thrown into the inner prison with their feet fastened in stocks.
 
-What happens next is one of the most extraordinary scenes in Acts. "About midnight Paul and Silas were praying and singing hymns to God, and the prisoners were listening to them" (16:25). The detail is astonishing. Beaten, bleeding, immobilized in stocks in the darkest cell of a Roman prison, Paul and Silas worship. The response is not stoic endurance or resigned acceptance but active praise. The prisoners were "listening" — the verb (epekounto) suggests attentive listening, not casual overhearing. The gospel is being proclaimed through song in a place where no sermon could reach.
+What happens next is one of the most extraordinary scenes in Acts. "About midnight Paul and Silas were praying and singing hymns to God, and the prisoners were listening to them" (16:25). The detail is astonishing. Beaten, bleeding, immobilized in stocks in the darkest cell of a Roman prison, Paul and Silas worship. The response is not stoic endurance or resigned acceptance but active praise. The prisoners were "listening" — the verb (epēkroōnto) suggests attentive listening, not casual overhearing. The gospel is being proclaimed through song in a place where no sermon could reach.
 
 Then comes the earthquake. "Suddenly there was a great earthquake, so that the foundations of the prison were shaken. And immediately all the doors were opened, and everyone's bonds were unfastened" (16:26). The earthquake is not a natural coincidence but a divine intervention that parallels other prison deliverances in Acts (5:19, 12:7-10). The detail that everyone's bonds were unfastened — not just Paul and Silas's — suggests that the liberating power of God overflows the boundaries of its intended recipients. The jailer wakes, sees the doors open, and draws his sword to kill himself. Under Roman military law, a guard who lost his prisoners could face the death penalty. Suicide was, in the jailer's calculation, the more honorable option.
 
@@ -48,8 +47,7 @@ The morning brings a final twist. The magistrates send word to release Paul and 
 
 ## Connections
 - **Old Testament Roots**: Psalm 42:8 ("By day the Lord commands his steadfast love, and at night his song is with me"); Psalm 146:7 ("The Lord sets the prisoners free"); Exodus 14 (God's dramatic deliverance through natural phenomena)
-- **New Testament Echoes**: Philippians 1:12-14 (Paul's later reflection that his imprisonment in Philippi advanced the gospel); Acts 5:41 (the apostles rejoicing that they were counted worthy to suffer for the name); Matthew 5:10-12 ("Blessed are those who are persecuted for righteousness' sake")
-- **Parallel Passages**: Philippians 1:12-14, Matthew 5:10-12, Acts 5:41
+- **New Testament Echoes**: Philippians 1:29-30 (Paul reminds the Philippians of the conflict they saw him suffer in Philippi); Acts 5:41 (the apostles rejoicing that they were counted worthy to suffer for the name); Matthew 5:10-12 ("Blessed are those who are persecuted for righteousness' sake")
 
 ## Reflection Questions
 1. The slave girl's owners cared only about their lost revenue, not about the girl's liberation. Where do you see economic interests masking — or overriding — concern for human dignity in the world today?

@@ -3,8 +3,6 @@ week: 33
 day: 3
 title: Temple of the Living God
 reading: 2 Corinthians 6
-parallel_passages: 2 Corinthians 11:23-28; 1 Corinthians 3:16-17; 1 Corinthians 6:19-20;
-  Leviticus 26:11-12
 section: The Early Church
 tags:
 - 2-corinthians
@@ -47,7 +45,6 @@ Paul's five rhetorical questions (6:14-16a) -- What partnership has righteousnes
 ## Connections
 - **Old Testament Roots**: Deuteronomy 22:10 (unequal yoking); Leviticus 26:11-12 (God dwelling among his people); Isaiah 52:11 (come out and be separate); 2 Samuel 7:14 (I will be a father to you); Ezekiel 37:27 (my dwelling place among them)
 - **New Testament Echoes**: 1 Corinthians 3:16-17 (you are God's temple); 1 Corinthians 6:19-20 (your body is a temple of the Holy Spirit); Ephesians 6:10-18 (armor of God); 2 Timothy 2:3-4 (soldier's endurance)
-- **Parallel Passages**: 2 Corinthians 11:23-28; 1 Corinthians 4:9-13; Romans 8:35-39
 
 ## Reflection Questions
 1. Which of the paradoxes in verses 8-10 most challenges your assumptions about what a "successful" Christian life looks like?

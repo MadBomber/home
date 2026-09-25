@@ -3,7 +3,6 @@ week: 26
 day: 5
 title: Athens — Paul at the Areopagus, the Unknown God
 reading: Acts 17:16-34
-parallel_passages: Romans 1:18-23, Isaiah 40:18-26, Psalm 50:9-12, John 4:24
 section: The Early Church
 tags:
 - athens
@@ -51,8 +50,6 @@ The response was divided: "some mocked, but others said, 'We will hear you again
 ## Connections
 - **Old Testament Roots**: Isaiah 40:18-26 (the incomparability of God — "To whom then will you liken God?"); Psalm 50:9-12 ("every beast of the forest is mine" — God needs nothing from human hands); Genesis 1:26-27 (humanity made in God's image, not the reverse); Deuteronomy 32:8 (God determining the boundaries of the nations)
 - **New Testament Echoes**: Romans 1:18-23 (humanity exchanging the glory of the immortal God for images — the theological analysis that underlies the Areopagus speech); John 4:24 ("God is spirit, and those who worship him must worship in spirit and truth"); Colossians 1:16-17 ("in him all things hold together")
-- **Parallel Passages**: Romans 1:18-23, Isaiah 40:18-26, Psalm 50:9-12, John 4:24
-
 ## Reflection Questions
 1. Paul was "provoked" by the idolatry of Athens but used it as a point of contact rather than a reason for denunciation. How do you respond to the "idols" of your own culture — materialism, celebrity, political ideology — and how might you use them as bridges to the gospel rather than as targets for condemnation?
 2. Paul quoted pagan poets to make his case. What does his example suggest about how Christians should engage with truth found in secular philosophy, literature, and science? Where are the "seeds of the Word" in the culture around you?

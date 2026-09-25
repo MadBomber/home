@@ -3,7 +3,6 @@ week: 51
 day: 1
 title: John's Vision of the Risen Christ on Patmos
 reading: Revelation 1
-parallel_passages: Daniel 7:9-14, Daniel 10:5-6, Ezekiel 1:26-28, Isaiah 44:6
 section: Letters and Revelation
 tags:
 - revelation
@@ -33,7 +32,7 @@ John's vision of the risen Christ in 1:12-16 is deliberately designed to overwhe
 
 Each detail communicates theological meaning. This is not Jesus the gentle Galilean teacher — this is the risen, glorified, reigning Lord of the cosmos. John's response is fitting: "I fell at his feet as though dead" (1:17). The same disciple who once leaned against Jesus' chest at supper now collapses in terror before his glory. But Christ's first words are tender: "Do not be afraid. I am the First and the Last. I am the Living One; I was dead, and now look, I am alive for ever and ever! And I hold the keys of death and Hades" (1:17-18). The one who holds the keys of death is the one who has passed through death and emerged victorious on the other side.
 
-The title "Alpha and Omega" (1:8) — the first and last letters of the Greek alphabet — claims that Christ encompasses all of reality from beginning to end. Combined with the threefold temporal title "who is, and who was, and who is to come," this echoes and expands the divine name revealed to Moses at the burning bush (Exodus 3:14). The Christ of Revelation is the God of Israel, the eternal I AM, now disclosed in his full resplendent glory. For persecuted believers in Asia Minor, this vision communicated one transformative truth: the one who holds the churches in his hand is the one who holds all of history in his hands.
+The title "Alpha and Omega" (1:8) — the first and last letters of the Greek alphabet — is spoken by "the Lord God... who is and who was and who is to come, the Almighty," and it claims that God encompasses all of reality from beginning to end. The threefold temporal title echoes and expands the divine name revealed to Moses at the burning bush (Exodus 3:14). At the book's close, Jesus claims this same title for himself — "I am the Alpha and the Omega, the first and the last, the beginning and the end" (22:13) — so that the Christ of Revelation shares the identity of the God of Israel, the eternal I AM, now disclosed in his full resplendent glory. For persecuted believers in Asia Minor, this declaration communicated one transformative truth: the one who holds the churches in his hand is the one who holds all of history in his hands.
 
 ## Key Themes
 
@@ -45,7 +44,6 @@ The title "Alpha and Omega" (1:8) — the first and last letters of the Greek al
 
 - **Old Testament Roots**: The Son of Man imagery draws directly from Daniel 7:13-14, where "one like a son of man" approaches the Ancient of Days and receives an everlasting kingdom. The white hair (Daniel 7:9), blazing eyes (Daniel 10:6), bronze feet (Ezekiel 1:7), and thunderous voice (Ezekiel 43:2) all come from Hebrew visions of divine glory. The "Alpha and Omega" title echoes Isaiah 44:6 — "I am the first and I am the last; apart from me there is no God."
 - **New Testament Echoes**: The Transfiguration (Matthew 17:1-8) gave Peter, James, and John a brief preview of the glory now fully revealed. John 1:14 declared "we have seen his glory" — now that glory is unveiled without restraint. Paul's encounter with the risen Christ on the Damascus road (Acts 9:3-6) parallels John's experience of collapsing before overwhelming radiance.
-- **Parallel Passages**: Daniel 7:9-14 (Ancient of Days and Son of Man), Daniel 10:5-6 (heavenly figure), Ezekiel 1:26-28 (throne vision), Matthew 17:1-8 (Transfiguration), Acts 9:3-6 (Paul's vision of Christ)
 
 ## Reflection Questions
 

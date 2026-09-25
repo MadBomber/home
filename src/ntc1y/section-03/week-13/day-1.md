@@ -3,7 +3,7 @@ week: 13
 day: 1
 title: Shrewd Manager and Rich Man
 reading: Luke 16
-parallel_passages: Amos 6:1-7, Proverbs 19:17, Deuteronomy 15:7-11, 1 Timothy 6:17-19
+parallel_passages: Luke 12:13-21; Luke 18:18-30; Matthew 25:31-46
 section: Road to Jerusalem
 tags:
 - parables

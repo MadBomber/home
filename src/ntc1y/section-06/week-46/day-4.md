@@ -3,7 +3,6 @@ week: 46
 day: 4
 title: Press On to Maturity
 reading: Hebrews 6
-parallel_passages: Genesis 22:15-18, Hebrews 10:26-31, 2 Peter 2:20-22, Matthew 13:1-23
 section: Letters and Revelation
 tags:
 - hebrews
@@ -49,7 +48,6 @@ The chapter's climax is the oath of God to Abraham (6:13-20). When God made His 
 
 - **Old Testament Roots**: The oath to Abraham (Genesis 22:15-18) provides the foundation for the author's argument about the certainty of God's promises. The "inner sanctuary behind the curtain" refers to the Holy of Holies described in Exodus 26:31-34 and Leviticus 16, where only the high priest could enter on the Day of Atonement. The agricultural metaphor echoes Isaiah 5:1-7 (the unproductive vineyard).
 - **New Testament Echoes**: The warning passage parallels Hebrews 10:26-31 (deliberate sinning after receiving knowledge of truth) and 2 Peter 2:20-22 (those who return to corruption after knowing the Lord). The sower parable (Matthew 13:1-23) provides a framework for understanding how the same spiritual reality can produce different responses. The anchor imagery connects to Paul's triad of faith, hope, and love (1 Corinthians 13:13).
-- **Parallel Passages**: Genesis 22:15-18 (God's oath to Abraham), Hebrews 10:26-31 (the second major warning passage), 2 Peter 2:20-22 (the danger of returning to corruption), Matthew 13:1-23 (the parable of the sower)
 
 ## Reflection Questions
 

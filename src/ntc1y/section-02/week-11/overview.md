@@ -36,7 +36,7 @@ What emerges across these readings is a portrait of a community utterly unlike t
 
 - **[Jesus](/characters/jesus/)** -- The teacher who embodies the kingdom ethics he proclaims.
 - **[The Twelve](/characters/the-twelve/)** -- Sent out with authority yet still arguing about rank and greatness.
-- **[The Seventy-Two](/characters/the-twelve/)** -- A wider circle of disciples sent ahead of Jesus, returning with joy.
+- **The Seventy-Two** -- A wider circle of disciples sent ahead of Jesus, returning with joy.
 - **[The Good Samaritan](/characters/good-samaritan/)** -- An outsider who fulfills the law of love while the religious insiders pass by.
 - **[Mary and Martha](/characters/mary-and-martha/)** -- Two sisters representing contemplative devotion and active service.
 - **[The Rich Fool](/characters/rich-fool/)** -- A man whose abundant harvest could not add a single hour to his life.

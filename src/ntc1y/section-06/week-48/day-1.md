@@ -3,7 +3,6 @@ week: 48
 day: 1
 title: Final Exhortations and Benediction
 reading: Hebrews 13
-parallel_passages: Romans 12:9-13, 1 Thessalonians 5:12-22, Leviticus 16:27
 section: Letters and Revelation
 tags:
 - hebrews
@@ -46,7 +45,6 @@ The personal notes at the end (13:22-25) provide tantalizing clues about the let
 
 - **Old Testament Roots**: The "outside the camp" imagery draws directly from the Day of Atonement ritual (Leviticus 16:27). The contentment promise quotes Deuteronomy 31:6, and the response quotes Psalm 118:6. The hospitality exhortation alludes to Abraham at Mamre (Genesis 18:1-8).
 - **New Testament Echoes**: The mutual love and hospitality exhortations parallel Romans 12:9-13 and 1 Thessalonians 5:12-22. The "great Shepherd" language connects to John 10 and 1 Peter 5:4. The call to bear Christ's disgrace anticipates the suffering theology of 1 Peter.
-- **Parallel Passages**: Romans 12:9-13 (community ethics), Leviticus 16:27 (outside the camp), 1 Timothy 6:6-10 (contentment vs. love of money), John 10:11 (the Good Shepherd)
 
 ## Reflection Questions
 

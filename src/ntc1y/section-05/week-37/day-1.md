@@ -3,8 +3,6 @@ week: 37
 day: 1
 title: Salvation for All Who Call
 reading: Romans 10
-parallel_passages: Deuteronomy 30:11-14, Joel 2:32, Isaiah 52:7, Isaiah 53:1, Isaiah
-  65:1-2, Deuteronomy 32:21
 section: The Early Church
 tags:
 - romans
@@ -49,7 +47,6 @@ Yet Paul must also account for Israel's refusal. Did they not hear? Yes, they he
 
 - **Old Testament Roots**: Deuteronomy 30:11-14 (the word is near you) provides the text Paul interprets christologically. Joel 2:32 (everyone who calls on the Lord) supplies the universal promise. Isaiah 52:7 (beautiful feet of the herald) celebrates the messenger of salvation. Isaiah 65:1-2 (God found by those who did not seek him) and Deuteronomy 32:21 (provoking to jealousy) explain Israel's stumbling.
 - **New Testament Echoes**: Philippians 2:9-11 (every tongue confess Jesus is Lord) expands the christological confession. Acts 2:21 records Peter quoting Joel 2:32 at Pentecost. First Corinthians 1:21 affirms that "God was pleased through the foolishness of preaching to save those who believe."
-- **Parallel Passages**: Acts 2:14-41 (Peter's Pentecost sermon invoking Joel 2:32), Galatians 3:23-26 (the law as guardian until Christ), Philippians 2:9-11 (the lordship of Christ), 1 Corinthians 1:18-25 (the foolishness of preaching).
 
 ## Reflection Questions
 

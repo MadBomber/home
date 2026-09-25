@@ -3,15 +3,13 @@ week: 29
 day: 4
 title: Spiritual Immaturity, God's Temple, Building on the Foundation
 reading: 1 Corinthians 3
-parallel_passages: Hebrews 5:12-14; Ephesians 2:19-22; 1 Peter 2:4-5; Matthew 7:24-27
 section: The Early Church
 tags:
-- ephesus
-- corinthians
-- divisions
-- wisdom
-- cross
-- spiritual-maturity
+- spiritual-immaturity
+- gods-temple
+- foundation
+- building-materials
+- unity
 layout: page
 study_slug: ntc1y
 ---
@@ -49,8 +47,6 @@ The chapter closes with a return to the wisdom theme (verses 18-23). "Let no one
 ## Connections
 - **Old Testament Roots**: The temple imagery draws on the entire Old Testament theology of God's dwelling -- the tabernacle (Exodus 40:34-35), Solomon's temple (1 Kings 8:10-11), and Ezekiel's vision of the glory departing and returning (Ezekiel 10-11, 43:1-5); Paul quotes Job 5:13 and Psalm 94:11
 - **New Testament Echoes**: The church as temple is developed in Ephesians 2:19-22 and 1 Peter 2:4-5; the testing-by-fire imagery echoes Malachi 3:2-3 and is expanded in 2 Corinthians 5:10; the building-on-rock metaphor connects to Jesus' teaching in Matthew 7:24-27
-- **Parallel Passages**: Hebrews 5:12-14 (milk vs. solid food); Ephesians 2:19-22 (built on the foundation of the apostles); 1 Peter 2:4-5 (living stones); Matthew 7:24-27 (building on rock)
-
 ## Reflection Questions
 1. Paul says the evidence of spiritual immaturity is factionalism -- "are you not being merely human?" What areas of your church or Christian community show signs of this same "merely human" thinking?
 2. Paul speaks of building with gold, silver, and precious stones versus wood, hay, and straw. Without naming names, what does ministry built with durable materials look like compared to ministry built with combustible ones?

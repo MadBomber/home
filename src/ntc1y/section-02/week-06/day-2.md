@@ -3,15 +3,14 @@ week: 6
 day: 2
 title: Centurion's Servant, Widow's Son Raised, John's Question from Prison
 reading: Luke 7
-parallel_passages: Matthew 8:5-13, Matthew 11:2-19, John 1:19-27, Isaiah 35:5-6, Isaiah
-  61:1
+parallel_passages: Matthew 8:5-13; Matthew 11:2-19
 section: Galilean Ministry
 tags:
 - luke
 - miracles
 - centurion
 - widow-nain
-- john-baptist
+- john-the-baptist
 - faith
 - resurrection
 layout: page
@@ -29,7 +28,7 @@ Luke 7 is one of the richest chapters in the Third Gospel, weaving together thre
 
 Luke's account of the centurion (7:1-10) provides important details that Matthew's version omits. In Luke, the centurion does not come to Jesus directly but sends Jewish elders as intermediaries, who plead his case with a remarkable commendation: "He is worthy of having you do this for him, for he loves our nation, and he is the one who built us our synagogue" (7:4-5). Archaeological evidence confirms that wealthy Gentile patrons sometimes funded synagogue construction in first-century Palestine; the famous synagogue at Capernaum, whose limestone remains tourists visit today, may have been built on the foundations of an earlier structure funded by just such a benefactor. The centurion then sends a second delegation -- friends -- with the message that he is not worthy (<a href="https://biblehub.com/searchgreek.php?q=hikanos" target="_blank" rel="noopener"><em>hikanos</em></a>, "sufficient" or "adequate") to have Jesus enter his house. This double delegation reveals a man who understands both Jewish sensibilities (a Jew entering a Gentile home would incur ritual impurity) and the nature of Jesus' authority. Luke's layered narrative emphasizes the centurion's cultural sensitivity and deep humility alongside his extraordinary faith.
 
-The raising of the widow's son at Nain (7:11-17) is unique to Luke and is one of the most emotionally powerful scenes in the Gospels. Nain was a small village located about six miles southeast of Nazareth, near the foot of Mount Moreh. The detail matters geographically and scripturally: in this same region, near the town of Shunem on the slopes of Mount Moreh, the prophet Elisha had raised another widow's son from death centuries earlier (2 Kings 4:8-37). Luke's original readers, steeped in the Old Testament, would have immediately recognized the parallel. But the differences are as striking as the similarities. Elisha prayed, stretched himself over the child, and the boy revived after seven attempts. Jesus simply speaks: "Young man, I say to you, arise" (*neaniske, soi legō, egerthēti*). The authority of Jesus exceeds that of even the greatest prophets.
+The raising of the widow's son at Nain (7:11-17) is unique to Luke and is one of the most emotionally powerful scenes in the Gospels. Nain was a small village located about six miles southeast of Nazareth, near the foot of Mount Moreh. The detail matters geographically and scripturally: in this same region, near the town of Shunem on the slopes of Mount Moreh, the prophet Elisha had raised the Shunammite woman's son from death centuries earlier (2 Kings 4:8-37). Luke's original readers, steeped in the Old Testament, would have immediately recognized the parallel. But the differences are as striking as the similarities. Elisha prayed, stretched himself over the child, and the boy revived, sneezing seven times as his life returned. Jesus simply speaks: "Young man, I say to you, arise" (*neaniske, soi legō, egerthēti*). The authority of Jesus exceeds that of even the greatest prophets.
 
 Luke carefully sets the emotional scene. The woman is a widow -- already economically and socially vulnerable in the ancient world -- and this is her only son (<a href="https://biblehub.com/searchgreek.php?q=monogenes" target="_blank" rel="noopener"><em>monogenēs</em></a>, the same word used of Jesus in John 3:16). His death means the end of her family line and the loss of her only source of support. She faces not just grief but destitution. The funeral procession is leaving the town gate when Jesus' entourage arrives. Luke says Jesus "saw her" and "had compassion on her" (*esplanchnisthē*, from *splanchna*, "bowels" or "intestines" -- the visceral, gut-level response that the ancients located in the abdomen, not the heart). This is unsolicited compassion. The widow does not ask for help; she may not even know who Jesus is. Jesus acts purely out of mercy. He tells her, "Do not weep" -- words that would seem cruel if spoken by anyone without the power to reverse the cause of her tears. Then he touches the bier (<a href="https://biblehub.com/searchgreek.php?q=soros" target="_blank" rel="noopener"><em>soros</em></a>, the open plank on which the corpse was carried), and the bearers stop. He speaks, and the dead man sits up and begins to talk.
 

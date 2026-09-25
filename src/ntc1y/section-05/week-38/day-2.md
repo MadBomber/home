@@ -3,8 +3,6 @@ week: 38
 day: 2
 title: The Network of Faith
 reading: Romans 16
-parallel_passages: Acts 18:2-3, Colossians 4:15, Philippians 4:2-3, 1 Corinthians
-  16:19
 section: The Early Church
 tags:
 - romans
@@ -46,7 +44,6 @@ The letter closes with one of the most magnificent doxologies in Scripture (16:2
 ## Connections
 - **Old Testament Roots**: Genesis 3:15 (the promise that the serpent will be crushed); Ruth 2:12 (God as the one under whose wings the vulnerable find refuge -- echoed in Phoebe's patronage); Psalm 133 (how good it is when brothers and sisters dwell together in unity)
 - **New Testament Echoes**: Acts 18:1-4 (Priscilla and Aquila in Corinth); Acts 18:24-26 (Priscilla and Aquila instruct Apollos); 1 Corinthians 16:19 (Aquila and Prisca's house church); Colossians 4:15 (Nympha's house church)
-- **Parallel Passages**: Philippians 4:2-3 (Euodia and Syntyche as co-workers); Colossians 4:7-17 (Paul's greetings and commendations); Philemon 1-2 (house church of Philemon)
 
 ## Reflection Questions
 1. Paul names more than twenty-six individuals in this chapter, many of them otherwise unknown to history. What does the specificity of these greetings reveal about the nature of Christian community -- and about Paul's own pastoral character?

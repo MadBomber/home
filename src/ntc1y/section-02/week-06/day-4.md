@@ -3,7 +3,7 @@ week: 6
 day: 4
 title: 'Parables: Sower, Lamp, Growing Seed, Mustard Seed, Stilling the Storm'
 reading: Mark 4
-parallel_passages: Matthew 13:1-23, Matthew 13:31-32, Luke 8:4-18, Luke 13:18-19
+parallel_passages: Matthew 13:1-23; Matthew 13:31-32; Luke 8:4-18; Luke 13:18-19; Matthew 8:23-27; Luke 8:22-25
 section: Galilean Ministry
 tags:
 - mark

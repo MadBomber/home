@@ -3,8 +3,7 @@ week: 1
 day: 2
 title: Annunciations to Zechariah and Mary
 reading: Luke 1:1-38
-parallel_passages: Genesis 18:9-15, Judges 13:2-5, 1 Samuel 1:1-20, Isaiah 7:14, Daniel
-  9:21
+parallel_passages: Matthew 1:18-25
 section: The Coming of Christ
 tags:
 - luke

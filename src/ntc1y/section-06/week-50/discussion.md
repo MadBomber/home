@@ -72,9 +72,9 @@ The final readings bring together the themes of overcoming faith, confident assu
 
 ## Memory Verse Reflection
 
-> "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love." -- 1 John 4:7-8
+> "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness." -- 1 John 1:9
 
-John makes love both the evidence of knowing God and the definition of God's character. If you took this statement with full seriousness -- that whoever does not love does not know God -- how would it change the way you evaluate your own spiritual life and the spiritual life of your community?
+John grounds forgiveness not in God's leniency but in his faithfulness and justice: because Christ's atoning sacrifice has already satisfied justice (2:2), God's own character guarantees that confessed sin is forgiven and cleansed. Its companion declaration -- "God is love" (1 John 4:7-8) -- shows the heart behind the promise. If you took this verse with full seriousness -- that no confessed sin lies outside God's faithful and just forgiveness -- how would it change the way you handle your own failures and the failures of others in your community?
 
 ## Closing Application
 

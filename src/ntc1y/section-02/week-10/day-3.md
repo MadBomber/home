@@ -3,7 +3,7 @@ week: 10
 day: 3
 title: Transfiguration, Boy with Unclean Spirit
 reading: Mark 9:1-29
-parallel_passages: Matthew 17:1-21, Luke 9:28-43, 2 Peter 1:16-18
+parallel_passages: Matthew 17:1-21; Luke 9:28-43
 section: Galilean Ministry
 tags:
 - transfiguration

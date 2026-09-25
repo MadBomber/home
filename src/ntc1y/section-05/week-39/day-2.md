@@ -3,7 +3,6 @@ week: 39
 day: 2
 title: Trial Before Felix
 reading: Acts 24
-parallel_passages: Acts 23:35; Daniel 2:21; 2 Timothy 4:6-8
 section: The Early Church
 tags:
 - acts
@@ -43,7 +42,6 @@ Felix's response is one of the most tragic sentences in Scripture: "Go away for 
 ## Connections
 - **Old Testament Roots**: Daniel 2:21 (God removes and sets up rulers); Amos 5:24 (let justice roll down); Ecclesiastes 12:14 (God will bring every deed into judgment)
 - **New Testament Echoes**: Romans 2:4-5 (despising the riches of God's patience); Hebrews 3:7-8 ("today, if you hear his voice, do not harden your hearts"); 2 Timothy 4:6-8 (Paul's final confidence at his own trial)
-- **Parallel Passages**: Acts 23:35 (Paul held in Herod's praetorium); Acts 25:9 (Festus inherits Felix's political games)
 
 ## Reflection Questions
 1. What rhetorical strategies does Tertullus use in his prosecution, and how does Paul's defense differ in both style and substance?

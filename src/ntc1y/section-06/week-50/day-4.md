@@ -3,8 +3,6 @@ week: 50
 day: 4
 title: Test the Spirits, God Is Love
 reading: 1 John 4
-parallel_passages: Deuteronomy 13:1-5, 1 Corinthians 12:3, John 3:16, Romans 5:8,
-  Romans 8:15
 section: Letters and Revelation
 tags:
 - 1-john
@@ -24,7 +22,7 @@ Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/1John.4" targe
 
 ## Historical Context
 
-First John 4 contains what may be the most consequential theological declaration in all of Scripture: "God is love" (*ho theos agape estin*, 4:8, repeated in 4:16). This is not a casual observation but a statement about God's essential nature -- not merely that God loves, or that God is loving, but that love is the defining attribute of his being. Only two other "God is" statements appear in 1 John -- "God is light" (1:5) and "God is spirit" (John 4:24, from the Gospel) -- and together they constitute the Johannine portrait of the divine character. The placement of this declaration within the letter is strategic: it comes after the community has been shaken by false teachers, after the painful reality of schism, and after the call to sacrificial love in chapter 3. John grounds the ethical demand in an ontological reality -- we are called to love because love is what God is.
+First John 4 contains what may be the most consequential theological declaration in all of Scripture: "God is love" (*ho theos agape estin*, 4:8, repeated in 4:16). This is not a casual observation but a statement about God's essential nature -- not merely that God loves, or that God is loving, but that love is the defining attribute of his being. Only two other "God is" statements appear in the Johannine writings -- "God is light" (1 John 1:5) and "God is spirit" (John 4:24) -- and together they constitute the Johannine portrait of the divine character. The placement of this declaration within the letter is strategic: it comes after the community has been shaken by false teachers, after the painful reality of schism, and after the call to sacrificial love in chapter 3. John grounds the ethical demand in an ontological reality -- we are called to love because love is what God is.
 
 The chapter opens, however, not with love but with discernment. "Dear friends, do not believe every spirit, but test the spirits to see whether they are from God" (4:1). The command to "test" (dokimazete) uses the same word applied to testing metals for purity. The early church existed in a spiritual environment alive with prophetic claims, ecstatic utterances, and competing revelations. Unlike the modern Western tendency to dismiss the supernatural, the first-century Mediterranean world took for granted that spiritual beings communicated through human agents -- the question was always which spirit was speaking. John provides a christological test: "Every spirit that acknowledges that Jesus Christ has come in the flesh is from God, but every spirit that does not acknowledge Jesus is not from God" (4:2-3). The phrase "has come in the flesh" (en sarki elelythota) uses a perfect tense in Greek, indicating not merely that Jesus once appeared in flesh but that he continues in his incarnate state. This directly counters the proto-Gnostic claim that the divine Christ descended on the human Jesus at baptism and departed before the crucifixion. John insists on a permanent, irrevocable incarnation -- the Son of God took on human nature forever.
 
@@ -46,7 +44,6 @@ The chapter concludes with a practical test that has lost none of its force acro
 
 - **Old Testament Roots**: The command to test prophetic claims echoes Deuteronomy 13:1-5 and 18:20-22, where Israel was instructed to evaluate prophets by their fidelity to Yahweh. The "God is love" declaration builds on the covenant love (hesed) tradition throughout the Hebrew Scriptures (Exodus 34:6-7, Psalm 103:8, Hosea 11:1-4).
 - **New Testament Echoes**: The christological test parallels 1 Corinthians 12:3 ("no one can say 'Jesus is Lord' except by the Holy Spirit"). "God is love" is the Johannine counterpart to John 3:16 and Romans 5:8. The casting out of fear resonates with Romans 8:15 ("you did not receive a spirit of slavery to fall back into fear").
-- **Parallel Passages**: 1 Corinthians 12:1-3 (testing spirits), John 3:16 (God's love for the world), Romans 5:6-8 (God's love while we were sinners), 2 Timothy 1:7 (spirit of power, love, self-discipline, not fear)
 
 ## Reflection Questions
 

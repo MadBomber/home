@@ -3,10 +3,7 @@ week: 3
 day: 3
 reading: John 2
 title: Wedding at Cana, First Temple Cleansing
-parallel_passages:
-- Matthew 21:12-13
-- Mark 11:15-17
-- Luke 19:45-46
+parallel_passages: Matthew 21:12-13; Mark 11:15-17; Luke 19:45-46
 tags:
 - signs
 - cana

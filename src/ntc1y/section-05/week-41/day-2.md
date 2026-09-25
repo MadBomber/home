@@ -3,7 +3,6 @@ week: 41
 day: 2
 title: Children and Parents, The Full Armor of God
 reading: Ephesians 6
-parallel_passages: Isaiah 11:5, Isaiah 59:17, 1 Thessalonians 5:8, Romans 13:12
 section: The Early Church
 tags:
 - ephesians
@@ -42,7 +41,6 @@ Paul concludes with prayer (6:18-20), which is not a seventh piece of armor but 
 ## Connections
 - **Old Testament Roots**: Isaiah 11:5 (Messiah's belt of righteousness); Isaiah 59:17 (Yahweh dons his own armor); Exodus 20:12 (honor father and mother); Isaiah 52:7 (beautiful feet of the messenger)
 - **New Testament Echoes**: 1 Thessalonians 5:8 (breastplate of faith and love, helmet of hope); Romans 13:12 (put on the armor of light); Matthew 4:1-11 (Jesus wields the sword of the Spirit in temptation); 2 Corinthians 10:3-5 (weapons not of the flesh)
-- **Parallel Passages**: Isaiah 11:5, Isaiah 59:17, 1 Thessalonians 5:8, Romans 13:12
 
 ## Reflection Questions
 1. What specific instructions does Paul give to fathers in verse 4, and how do the words "discipline" (paideia) and "instruction" (nouthesia) together paint a picture of Christian parenting that avoids both harshness and permissiveness?

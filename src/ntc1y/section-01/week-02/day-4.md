@@ -8,13 +8,7 @@ tags:
 - baptism
 - holy-spirit
 - jesus-identity
-parallel_passages:
-- Isaiah 40:3-5
-- Mark 1:1-11
-- Matthew 3:1-17
-- John 1:29-34
-- Psalm 2:7
-- Isaiah 42:1
+parallel_passages: Mark 1:1-11; Matthew 3:1-17; John 1:29-34
 section: The Coming of Christ
 layout: page
 study_slug: ntc1y
@@ -37,7 +31,7 @@ The phrase "the word of God came to John" (egeneto rhema theou epi Ioannen) echo
 
 Luke's quotation of Isaiah 40:3-5 extends significantly beyond Mark and Matthew, culminating in "all flesh shall see the salvation of God" (opsetai pasa sarx to soterion tou theou). This phrase is uniquely Lukan and programmatic for his entire two-volume work. From the Magnificat to the final chapter of Acts, Luke's vision is that salvation is for every human being without distinction.
 
-John's preaching in Luke is the most detailed Synoptic account. His "brood of vipers" (gennema -- "offspring" of serpents, alluding to Genesis 3) demolishes the assumption of ethnic security: "Do not say, 'We have Abraham as our father,' for God is able from these stones to raise up children for Abraham." The wordplay works in Aramaic, where "stones" (abanim) and "children" (banim) are nearly identical. Covenant membership requires not bloodline but repentance demonstrated through transformed behavior.
+John's preaching in Luke is the most detailed Synoptic account. His "brood of vipers" (gennema -- "offspring" of serpents, alluding to Genesis 3) demolishes the assumption of ethnic security: "Do not say, 'We have Abraham as our father,' for God is able from these stones to raise up children for Abraham." The wordplay works in Hebrew, where "stones" (abanim) and "children" (banim) are nearly identical. Covenant membership requires not bloodline but repentance demonstrated through transformed behavior.
 
 Unique to Luke is the ethical teaching that follows. When crowds ask "What then shall we do?" (ti oun poiesomen), John gives specific instructions to three groups. To the general crowd: share clothing and food. To tax collectors (telonai): "Collect no more than you are authorized." To soldiers (strateuomenoi): "Do not extort money by threats or false accusation; be content with your wages." This ethical specificity is characteristic of Luke, who consistently emphasizes that genuine repentance produces concrete changes in economic and social behavior.
 

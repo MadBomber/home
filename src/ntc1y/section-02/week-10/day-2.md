@@ -3,8 +3,7 @@ week: 10
 day: 2
 title: Peter's Confession, Keys of the Kingdom, Take Up Your Cross
 reading: Matthew 16
-parallel_passages: Mark 8:27-38, Luke 9:18-27, Isaiah 22:22, Revelation 1:18, Ephesians
-  2:20
+parallel_passages: Mark 8:27-38; Luke 9:18-27
 section: Galilean Ministry
 tags:
 - peter-confession

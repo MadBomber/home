@@ -3,7 +3,7 @@ week: 21
 day: 3
 title: Healing at the Beautiful Gate
 reading: Acts 3
-parallel_passages: Acts 14:8-18; John 5:1-15; Luke 5:17-26; Isaiah 35:6
+parallel_passages: Acts 14:8-18; John 5:1-15; Luke 5:17-26
 section: The Early Church
 tags:
 - acts

@@ -3,8 +3,6 @@ week: 36
 day: 2
 title: Dead to Sin Alive in Christ, Baptism Into His Death, Slaves of Righteousness
 reading: Romans 6
-parallel_passages: Galatians 2:19-20; Colossians 2:12-13; Colossians 3:1-10; Ephesians
-  4:22-24
 section: The Early Church
 tags:
 - romans
@@ -48,7 +46,6 @@ The chapter closes with one of Paul's most memorable epigrams: "For the wages of
 ## Connections
 - **Old Testament Roots**: The Exodus as liberation from slavery (Exodus 6:6-7) provides the background metaphor; the Israelites were freed from Pharaoh not to be masterless but to serve God
 - **New Testament Echoes**: Galatians 2:19-20 ("I have been crucified with Christ"); Colossians 2:12-13, 3:1-10 (buried and raised with Christ, putting off the old self); Ephesians 4:22-24 (putting off the old, putting on the new)
-- **Parallel Passages**: Galatians 2:19-20; Colossians 2:12-13; Colossians 3:1-10; Ephesians 4:22-24
 
 ## Reflection Questions
 1. How does Paul use the imagery of baptism to explain the believer's relationship to sin? What is the difference between sin being eradicated and sin's reign being broken?

@@ -3,7 +3,6 @@ week: 48
 day: 2
 title: Living Hope Through Resurrection
 reading: 1 Peter 1
-parallel_passages: Romans 8:18-25, James 1:2-4, Malachi 3:2-3, Exodus 19:5-6
 section: Letters and Revelation
 tags:
 - 1-peter
@@ -45,7 +44,6 @@ The holiness call (1:13-16) quotes Leviticus 11:44-45: "Be holy, because I am ho
 
 - **Old Testament Roots**: The holiness command comes from Leviticus 11:44-45, the foundational identity statement for Israel. The "lamb without blemish" evokes both the Passover lamb (Exodus 12:5) and the Suffering Servant (Isaiah 53:7). The refining imagery appears in Malachi 3:2-3 and Proverbs 17:3.
 - **New Testament Echoes**: The testing-produces-maturity theme parallels James 1:2-4 and Romans 5:3-5. The "born again" language (1:3, 23) echoes Jesus' conversation with Nicodemus (John 3:3-8). The living hope connects to Romans 8:18-25.
-- **Parallel Passages**: Romans 8:18-25 (suffering and future glory), James 1:2-4 (trials produce perseverance), Ephesians 1:3-14 (spiritual blessings doxology), 1 Corinthians 3:12-15 (tested by fire)
 
 ## Reflection Questions
 
