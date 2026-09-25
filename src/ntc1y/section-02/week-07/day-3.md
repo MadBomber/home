@@ -3,14 +3,13 @@ week: 7
 day: 3
 title: Secrets of the Kingdom
 reading: Matthew 13:1-30
-parallel_passages: Mark 4:1-34; Luke 8:4-18
+parallel_passages: Mark 4:1-29; Luke 8:4-18
 section: Galilean Ministry
 tags:
 - parables
 - kingdom-of-god
 - sower
 - wheat-and-weeds
-- mustard-seed
 layout: page
 study_slug: ntc1y
 ---
@@ -32,22 +31,20 @@ The disciples' question -- "Why do you speak to them in parables?" -- elicits on
 
 The Parable of the Weeds Among the Wheat introduces another dimension of kingdom mystery: the coexistence of genuine and counterfeit until the final harvest. The "weeds" (zizania) are almost certainly darnel (Lolium temulentum), a toxic grass that is virtually indistinguishable from wheat in its early growth stages. Only when the heads form can the two be told apart -- darnel's grain is smaller and darker. Attempting to pull darnel before harvest would uproot the wheat alongside it, since the root systems intertwine. In Roman law, sowing darnel in an enemy's field was a recognized form of sabotage, punishable by the Praetor's edict. Jesus' audience would have understood both the agricultural reality and its legal implications. The parable teaches patient endurance: the kingdom community will always contain both genuine and false members, and premature judgment does more harm than good. The separation belongs to the harvest -- to the final judgment administered by the Son of Man and his angels.
 
-The Parable of the Mustard Seed completes this section with an image of astonishing contrast. The mustard seed (sinapis nigra, black mustard) was proverbially the smallest seed known in Palestinian agriculture. Yet it grows into a large shrub -- sometimes reaching ten to twelve feet in height -- capable of sheltering birds in its branches. The Old Testament background is significant: Ezekiel 17:22-24 and Daniel 4:10-12 both use the image of a great tree sheltering birds as a symbol of a mighty kingdom. Jesus is saying that God's kingdom begins from the smallest, most insignificant origin imaginable and grows into something that provides shelter for all -- including, in the prophetic imagery, the Gentile nations represented by the birds.
-
 ## Key Themes
 - **Generous proclamation, varied reception** -- The word of the kingdom is sown universally, but the human heart determines fruitfulness
 - **Hiddenness and patience** -- The kingdom grows alongside evil, and premature separation does more harm than good
-- **Small beginnings, cosmic endings** -- God's reign starts imperceptibly but will ultimately encompass the nations
+- **Revelation and response** -- Parables unveil the kingdom to seeking hearts and veil it from those who have closed their own eyes
 
 ## Connections
-- **Old Testament Roots**: Isaiah 6:9-10 (hardened hearts); Ezekiel 17:22-24 (great tree sheltering birds); Daniel 4:10-12 (Nebuchadnezzar's tree vision); Psalm 126:5-6 (sowing and reaping)
+- **Old Testament Roots**: Isaiah 6:9-10 (hardened hearts); Psalm 126:5-6 (sowing and reaping)
 - **New Testament Echoes**: Romans 11:7-10 (Israel's hardening); 1 Corinthians 3:6-9 (God gives the growth); Revelation 14:14-16 (the final harvest)
-- **Parallel Passages**: Mark 4:1-34; Luke 8:4-18
+- **Parallel Passages**: Mark 4:1-29; Luke 8:4-18
 
 ## Reflection Questions
 1. Which of the four soil types best describes your current receptivity to God's word, and what factors in your life contribute to that condition?
 2. How does the Parable of the Weeds challenge our impulse to judge who is "in" and who is "out" of the kingdom community?
-3. Where do you see the "mustard seed" principle at work -- God accomplishing great things from seemingly insignificant beginnings?
+3. Jesus quotes Isaiah 6:9-10 to explain why he teaches in parables. What is the difference between merely hearing a story and truly "having ears to hear" -- and what practices help cultivate the second?
 
 ## Prayer
 Generous Sower, you scatter your word lavishly, holding nothing back. Break up the hard paths of our indifference, deepen the shallow soil of our enthusiasm, and uproot the thorns of our distraction. Give us ears to hear and hearts that bear fruit -- thirtyfold, sixtyfold, a hundredfold -- for your kingdom's glory. Amen.
