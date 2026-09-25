@@ -42,7 +42,7 @@ John's Gospel adds theological depth to the miraculous events, recording Jesus' 
 - **[Jairus](/characters/jairus/)** -- Synagogue ruler whose faith is tested by delay and death.
 - **[The hemorrhaging woman](/characters/hemorrhaging-woman/)** -- Twelve years of suffering end with a touch of faith.
 - **[The Gerasene demoniac](/characters/gerasene-demoniac/)** -- Liberated man who becomes the first Gentile evangelist.
-- **[The invalid at Bethesda](/locations/pool-of-bethesda/)** -- Thirty-eight years of waiting, healed by a word.
+- **The invalid at Bethesda** -- Thirty-eight years of waiting, healed by a word.
 
 ## Key Locations
 

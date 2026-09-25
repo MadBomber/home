@@ -3,7 +3,7 @@ week: 8
 day: 5
 title: Feeding the 5000, Walking on Water, Bread of Life Discourse Begins
 reading: John 6:1-40
-parallel_passages: Matthew 14:13-33, Mark 6:30-52, Exodus 16
+parallel_passages: Matthew 14:13-33; Mark 6:30-52; Luke 9:10-17
 section: Galilean Ministry
 tags:
 - feeding-5000
@@ -39,7 +39,7 @@ The discourse begins the next day in the Capernaum synagogue (6:59). The crowd h
 
 The crowd asks what works they must do, and Jesus answers with the most radical simplification of religion in Scripture: "This is the work of God, that you believe in the one whom he has sent" (6:29). The singular "work" (ergon) replaces the plural "works" (erga) of their question. All the works of the law, all the obligations of religious observance, are condensed into one act: trusting Jesus. The crowd then asks for a sign, citing the manna tradition: "Our fathers ate the manna in the wilderness" (6:31), quoting Psalm 78:24. Jesus corrects their theology on two points: it was not Moses but "my Father" who gave the bread, and the true bread from heaven "gives life to the world" (6:33) -- not just to Israel, but to the world.
 
-The climax of this section is the first of John's seven great "I AM" (ego eimi) sayings: "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst" (6:35). The statement is absolute and exclusive. Jesus does not say he gives bread; he says he is bread. He does not offer a way to satisfaction; he is satisfaction. The conditional promises -- "whoever comes" and "whoever believes" -- are open invitations, but the verses that follow introduce divine sovereignty: "All that the Father gives me will come to me" (6:37) and "No one can come to me unless the Father who sent me draws him" (6:44). The tension between human responsibility ("whoever comes") and divine initiative ("the Father draws") is not resolved in John's Gospel; it is held together as a mystery that preserves both the urgency of human decision and the priority of divine grace.
+The climax of this section is the first of John's seven great "I AM" (ego eimi) sayings: "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst" (6:35). The statement is absolute and exclusive. Jesus does not say he gives bread; he says he is bread. He does not offer a way to satisfaction; he is satisfaction. The conditional promises -- "whoever comes" and "whoever believes" -- are open invitations, but the verse that follows introduces divine sovereignty: "All that the Father gives me will come to me" (6:37). The tension between human responsibility ("whoever comes") and divine initiative ("the Father gives") is not resolved in John's Gospel; it is held together as a mystery that preserves both the urgency of human decision and the priority of divine grace.
 
 Jesus closes this portion with a promise that grounds all of salvation in the will of the Father: "This is the will of him who sent me, that I should lose nothing of all that he has given me, but raise it up on the last day" (6:39). The security of the believer rests not on the strength of human faith but on the faithfulness of the Son to the Father's will. What the Father gives, the Son keeps; what the Son keeps, no one can take.
 
