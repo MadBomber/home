@@ -3,8 +3,7 @@ week: 9
 day: 2
 title: Death of John, Feeding 5000, Walking on Water
 reading: Matthew 14
-parallel_passages: Mark 6:14-56, Luke 9:7-17, John 6:1-21, 1 Kings 19:1-8, Exodus
-  14
+parallel_passages: Mark 6:14-56; Luke 9:7-17; John 6:1-21
 section: Galilean Ministry
 tags:
 - bread-of-life

@@ -3,8 +3,7 @@ week: 9
 day: 5
 title: Feeding 4000, Pharisees Demand Sign, Blind Man at Bethsaida
 reading: Mark 8:1-26
-parallel_passages: Matthew 15:32-39, Matthew 16:1-12, John 9:1-7, 2 Kings 4:42-44,
-  Isaiah 42:18-20
+parallel_passages: Matthew 15:32-39; Matthew 16:1-12
 section: Galilean Ministry
 tags:
 - bread-of-life

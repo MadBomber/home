@@ -3,7 +3,7 @@ week: 9
 day: 4
 title: Clean and Unclean, Syrophoenician Woman, Deaf Man Healed
 reading: Mark 7
-parallel_passages: Matthew 15:1-31, Isaiah 35:5-6, Leviticus 11, Acts 10:9-16
+parallel_passages: Matthew 15:1-31
 section: Galilean Ministry
 tags:
 - bread-of-life

@@ -3,8 +3,7 @@ week: 9
 day: 3
 title: Traditions, Canaanite Woman, Feeding 4000
 reading: Matthew 15
-parallel_passages: Mark 7:1-37, Mark 8:1-10, Isaiah 29:13, Deuteronomy 5:16, Genesis
-  12:1-3
+parallel_passages: Mark 7:1-37; Mark 8:1-10
 section: Galilean Ministry
 tags:
 - bread-of-life
@@ -48,7 +47,7 @@ The chapter concludes with a second feeding miracle -- four thousand men, plus w
 
 - **Old Testament Roots**: Isaiah 29:13 (lip service versus heart devotion), Deuteronomy 5:16 (honoring parents), Genesis 12:1-3 (Abraham's blessing extending to all nations), 1 Kings 17:8-16 (Elijah fed by a Gentile widow of Zarephath in the region of Sidon).
 - **New Testament Echoes**: Acts 10:9-16 (Peter's vision declaring all foods clean), Romans 14:14 ("nothing is unclean in itself"), Ephesians 2:11-22 (the dividing wall of hostility broken down).
-- **Parallel Passages**: Mark 7:1-37 provides the parallel account with the editorial note "Thus he declared all foods clean" (Mark 7:19), making explicit what Matthew leaves implicit.
+- **Parallel Passages**: Mark 7:1-37 provides the parallel account with the editorial note "Thus he declared all foods clean" (Mark 7:19), making explicit what Matthew leaves implicit. Mark 8:1-10 parallels the feeding of the four thousand.
 
 ## Reflection Questions
 
