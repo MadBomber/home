@@ -1,7 +1,7 @@
 ---
 week: 10
 day: 4
-title: "Week 10 Day 4"
+title: "I Am God Almighty -- Abram Becomes Abraham, Circumcision Instituted"
 reading: "Genesis 17:1-14"
 parallel_passages: Romans 4:9-12, Colossians 2:11-12, Philippians 3:3, Deuteronomy 10:16
 section: Abrahamic Covenant

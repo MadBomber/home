@@ -31,11 +31,11 @@ The priestly garments of Exodus 28 are described as garments of "glory and beaut
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Exodus 25:1-40 | The ark, the mercy seat, and the table of showbread — God's throne and God's table |
-| [2](../day-2/) | Exodus 26:1-37 | The tabernacle structure — curtains, frames, and the veil that separates |
-| [3](../day-3/) | Exodus 27:1–28:43 | The bronze altar, the courtyard, and the priestly garments — beauty and blood |
-| [4](../day-4/) | Exodus 29:1-46 | The consecration of priests — anointed, washed, and clothed for God's service |
-| [5](../day-5/) | Exodus 30:1–31:18 | The altar of incense, the anointing oil, and the Sabbath — finishing with rest |
+| [1](../day-1/) | Exodus 25:1-40 | The Ark, the Mercy Seat, and the Table of Showbread |
+| [2](../day-2/) | Exodus 26:1-37 | The Tabernacle Structure -- Curtains, Frames, and the Veil |
+| [3](../day-3/) | Exodus 27:1-28:43 | The Bronze Altar, the Courtyard, and the Priestly Garments |
+| [4](../day-4/) | Exodus 29:1-46 | The Consecration of Priests |
+| [5](../day-5/) | Exodus 30:1-31:18 | The Altar of Incense, the Anointing Oil, and the Sabbath |
 
 ## Key Themes
 

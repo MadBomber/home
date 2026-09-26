@@ -1,7 +1,7 @@
 ---
 week: 10
 day: 3
-title: "Week 10 Day 3"
+title: "Hagar and Ishmael -- Faith Falters, Consequences Multiply"
 reading: "Genesis 16:1-16"
 parallel_passages: Galatians 4:21-31, Genesis 21:8-21, Isaiah 54:1, Romans 9:6-9
 section: Abrahamic Covenant

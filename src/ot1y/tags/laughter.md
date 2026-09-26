@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **laughter** tag:
 
-- [Week 10 Day 5](<%= relative_url "/ot1y/section-04/week-10/day-5/" %>)
+- [Sarah Will Bear a Son -- Abraham Laughs, and God Names the Boy Laughter](<%= relative_url "/ot1y/section-04/week-10/day-5/" %>)
 
 [All topics](<%= relative_url "/ot1y/tags/" %>)

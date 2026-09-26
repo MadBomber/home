@@ -35,11 +35,11 @@ And the Song insists on a truth the rest of Scripture confirms: "Set me as a sea
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Proverbs 1:1-9:18 | Wisdom calls — "The fear of the LORD is the beginning of wisdom" |
-| [2](../day-2/) | Proverbs 10:1-22:16 | The proverbs of Solomon — righteousness, speech, wealth, and the heart |
-| [3](../day-3/) | Ecclesiastes 1:1-6:12 | "Vanity of vanities" — the Teacher surveys life under the sun |
-| [4](../day-4/) | Ecclesiastes 7:1-12:14 | "Fear God and keep his commandments" — wisdom's final word |
-| [5](../day-5/) | Song of Solomon 1:1-8:14 | "I am my beloved's" — the song of love between God and his people |
+| [1](../day-1/) | Proverbs 1:1-9:18 | Wisdom Calls |
+| [2](../day-2/) | Proverbs 10:1-22:16 | The Proverbs of Solomon |
+| [3](../day-3/) | Ecclesiastes 1:1-6:12 | Vanity of Vanities |
+| [4](../day-4/) | Ecclesiastes 7:1-12:14 | Fear God and Keep His Commandments |
+| [5](../day-5/) | Song of Solomon 1:1-8:14 | I Am My Beloved's |
 
 ## Key Themes
 

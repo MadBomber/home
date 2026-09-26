@@ -31,11 +31,11 @@ At midnight, the destroyer passes through Egypt. Every firstborn dies — from t
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Exodus 5:1–6:13 | "Let my people go" — Pharaoh refuses, suffering increases, God reaffirms |
-| [2](../day-2/) | Exodus 7:1–8:19 | Blood, frogs, gnats — the plagues begin, Egypt's gods fall silent |
-| [3](../day-3/) | Exodus 8:20–9:35 | Flies, livestock, boils, hail — judgment escalates, Pharaoh's heart hardens |
-| [4](../day-4/) | Exodus 10:1–11:10 | Locusts, darkness, and the announcement of the final plague |
-| [5](../day-5/) | Exodus 12:1-42 | The Passover — the lamb, the blood, the meal, the exodus at midnight |
+| [1](../day-1/) | Exodus 5:1-6:13 | Let My People Go |
+| [2](../day-2/) | Exodus 7:1-8:19 | Blood, Frogs, Gnats |
+| [3](../day-3/) | Exodus 8:20-9:35 | Flies, Livestock, Boils, Hail |
+| [4](../day-4/) | Exodus 10:1-11:10 | Locusts, Darkness, and the Final Announcement |
+| [5](../day-5/) | Exodus 12:1-42 | The Passover |
 
 ## Key Themes
 

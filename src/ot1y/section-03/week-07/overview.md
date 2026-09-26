@@ -31,11 +31,11 @@ Isaiah 54:9-10 reaches back to the Noahic covenant as a metaphor for God's stead
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Genesis 9:1-7 | A new commission — "Be fruitful and multiply," the image of God, and the sanctity of blood |
-| [2](../day-2/) | Genesis 9:8-17 | The covenant with all creation — "I have set my bow in the cloud" |
-| [3](../day-3/) | Genesis 9:18-29 | Noah's failure — the flood purged the world but not the human heart |
-| [4](../day-4/) | Isaiah 54:9-10 | "As I swore that the waters of Noah" — the covenant as a metaphor for unfailing love |
-| [5](../day-5/) | 2 Peter 3:3-13 | The flood as pattern — the world preserved for fire, the promise of new heavens and earth |
+| [1](../day-1/) | Genesis 9:1-7 | A New Commission -- Be Fruitful and Multiply, the Image of God, and the Sanctity of Blood |
+| [2](../day-2/) | Genesis 9:8-17 | The Covenant with All Creation -- I Have Set My Bow in the Cloud |
+| [3](../day-3/) | Genesis 9:18-29 | Noah's Failure -- The Flood Purged the World but Not the Human Heart |
+| [4](../day-4/) | Isaiah 54:9-10 | As I Swore That the Waters of Noah -- The Covenant as a Metaphor for Unfailing Love |
+| [5](../day-5/) | 2 Peter 3:3-13 | The Flood as Pattern -- The World Preserved for Fire, the Promise of New Heavens and Earth |
 
 ## Key Themes
 

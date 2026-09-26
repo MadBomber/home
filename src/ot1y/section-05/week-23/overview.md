@@ -35,11 +35,11 @@ The purity laws of Leviticus 11-15 — clean and unclean animals, skin diseases,
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Leviticus 1:1–3:17 | Burnt, grain, and peace offerings — consecration, provision, and fellowship |
-| [2](../day-2/) | Leviticus 4:1–5:19 | Sin and guilt offerings — when things go wrong, blood makes it right |
-| [3](../day-3/) | Leviticus 6:1–7:38 | Instructions for the priests — the perpetual fire and the portions of atonement |
-| [4](../day-4/) | Leviticus 8:1–10:20 | The priesthood begins — consecration, glory, and the death of Nadab and Abihu |
-| [5](../day-5/) | Leviticus 11:1–15:33 | Clean and unclean — holiness made tangible in food, body, and daily life |
+| [1](../day-1/) | Leviticus 1:1-3:17 | The Ascending Flame -- Burnt, Grain, and Peace Offerings |
+| [2](../day-2/) | Leviticus 4:1-5:19 | When Things Go Wrong -- The Sin and Guilt Offerings |
+| [3](../day-3/) | Leviticus 6:1-7:38 | The Perpetual Fire -- Priestly Instructions and the Portions of Atonement |
+| [4](../day-4/) | Leviticus 8:1-10:20 | Blood on the Ear -- Consecration, Glory, and the Death of Nadab and Abihu |
+| [5](../day-5/) | Leviticus 11:1-15:33 | Holiness at Breakfast -- Clean and Unclean in Food, Body, and Daily Life |
 
 ## Key Themes
 

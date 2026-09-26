@@ -33,11 +33,11 @@ The week closes with Genesis 20, where Abraham — astonishingly — repeats the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Genesis 18:1-15 | The visitors at Mamre — "Is anything too hard for the LORD?" |
-| [2](../day-2/) | Genesis 18:16-33 | Abraham intercedes for Sodom — bargaining with the Judge of all the earth |
-| [3](../day-3/) | Genesis 19:1-17 | Sodom's wickedness and the angels' rescue of Lot |
-| [4](../day-4/) | Genesis 19:18-38 | Fire falls — Sodom destroyed, Lot's wife looks back |
-| [5](../day-5/) | Genesis 20:1-18 | Abraham lies again — the same failure, the same faithful God |
+| [1](../day-1/) | Genesis 18:1-15 | The Visitors at Mamre |
+| [2](../day-2/) | Genesis 18:16-33 | Abraham Intercedes for Sodom |
+| [3](../day-3/) | Genesis 19:1-17 | Sodom's Wickedness and the Angels' Rescue of Lot |
+| [4](../day-4/) | Genesis 19:18-38 | Fire Falls -- Sodom Destroyed, Lot's Wife Looks Back |
+| [5](../day-5/) | Genesis 20:1-18 | Abraham Lies Again -- The Same Failure, the Same Faithful God |
 
 ## Key Themes
 

@@ -1,7 +1,7 @@
 ---
 week: 10
 day: 5
-title: "Week 10 Day 5"
+title: "Sarah Will Bear a Son -- Abraham Laughs, and God Names the Boy Laughter"
 reading: "Genesis 17:15-27"
 parallel_passages: Romans 4:17-22, Hebrews 11:11-12, Matthew 1:1-2, Luke 1:36-37
 section: Abrahamic Covenant

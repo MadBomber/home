@@ -33,11 +33,11 @@ But the deeper question haunts every chapter of both books. The temple is rebuil
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Ezra 1:1–3:13 | Cyrus's decree, the return, the altar rebuilt, the foundation laid — weeping and joy |
-| [2](../day-2/) | Ezra 4:1–6:22 | Opposition, delay, and the temple completed — "the hand of their God was upon them" |
-| [3](../day-3/) | Ezra 7:1–10:44 | Ezra arrives — the law read, the people confess, covenant renewal |
-| [4](../day-4/) | Nehemiah 1:1–4:23 | Nehemiah's prayer, the walls rebuilt, opposition from every side |
-| [5](../day-5/) | Nehemiah 5:1–13:31 | Justice for the poor, the law read aloud, the covenant renewed — and the people drift |
+| [1](../day-1/) | Ezra 1:1-3:13 | The Decree and the Foundation |
+| [2](../day-2/) | Ezra 4:1-6:22 | Opposition, Delay, and the Temple Completed |
+| [3](../day-3/) | Ezra 7:1-10:44 | The Scribe Who Wept |
+| [4](../day-4/) | Nehemiah 1:1-4:23 | The Cupbearer Who Built |
+| [5](../day-5/) | Nehemiah 5:1-13:31 | The Covenant Renewed and the People Who Drift |
 
 ## Key Themes
 

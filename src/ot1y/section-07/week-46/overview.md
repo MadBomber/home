@@ -33,11 +33,11 @@ The week closes with two psalms that bracket the exile's emotional range. Psalm 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Esther 1:1–2:23 | Vashti deposed, Esther crowned — positioned for a crisis not yet visible |
-| [2](../day-2/) | Esther 3:1–4:17 | Haman's plot and Mordecai's challenge — "for such a time as this" |
-| [3](../day-3/) | Esther 5:1–7:10 | Esther's banquets, Haman's gallows — the reversal begins |
-| [4](../day-4/) | Esther 8:1–10:3 | The Jews delivered, Purim established — what was meant for death becomes celebration |
-| [5](../day-5/) | Psalm 137; Psalm 126 | The grief of exile and the joy of return — "those who sow in tears shall reap with shouts of joy" |
+| [1](../day-1/) | Esther 1:1-2:23 | Vashti Deposed, Esther Crowned -- Positioned for a Crisis Not Yet Visible |
+| [2](../day-2/) | Esther 3:1-4:17 | Haman's Plot and Mordecai's Challenge -- For Such a Time as This |
+| [3](../day-3/) | Esther 5:1-7:10 | Esther's Banquets and Haman's Gallows -- The Reversal Begins |
+| [4](../day-4/) | Esther 8:1-10:3 | The Jews Delivered, Purim Established -- What Was Meant for Death Becomes Celebration |
+| [5](../day-5/) | Psalm 137; Psalm 126 | The Grief of Exile and the Joy of Return -- Those Who Sow in Tears Shall Reap with Shouts of Joy |
 
 ## Key Themes
 

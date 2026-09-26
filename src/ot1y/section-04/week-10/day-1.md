@@ -1,7 +1,7 @@
 ---
 week: 10
 day: 1
-title: "Week 10 Day 1"
+title: "Look Toward Heaven -- The Stars, the Belief, the Righteousness"
 reading: "Genesis 15:1-6"
 parallel_passages: Romans 4:1-12, Galatians 3:6-9, Hebrews 11:8-12, James 2:23
 section: Abrahamic Covenant

@@ -33,11 +33,11 @@ Genesis 14 brings war — the first military conflict in Scripture — and intro
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Genesis 12:1-9 | The call — "Go... and I will bless you" — Abram departs into the unknown |
-| [2](../day-2/) | Genesis 12:10-20 | Famine and failure — Abram in Egypt, fear displacing faith |
-| [3](../day-3/) | Genesis 13:1-18 | Abram and Lot separate — generosity rewarded, the promise reaffirmed |
-| [4](../day-4/) | Genesis 14:1-16 | Abram the warrior — the rescue of Lot from the kings of the east |
-| [5](../day-5/) | Genesis 14:17-24; Hebrews 7:1-10 | Melchizedek — the priest-king of Salem who foreshadows Christ |
+| [1](../day-1/) | Genesis 12:1-9 | The Call of Abram -- Go from Everything You Know into Everything You Do Not |
+| [2](../day-2/) | Genesis 12:10-20 | Famine and Failure -- Abram in Egypt, Fear Displacing Faith |
+| [3](../day-3/) | Genesis 13:1-18 | Abram and Lot Separate -- Generosity Rewarded, the Promise Reaffirmed |
+| [4](../day-4/) | Genesis 14:1-16 | Abram the Warrior -- The Rescue of Lot from the Kings of the East |
+| [5](../day-5/) | Genesis 14:17-24; Hebrews 7:1-10 | Melchizedek -- The Priest-King of Salem Who Foreshadows Christ |
 
 ## Key Themes
 

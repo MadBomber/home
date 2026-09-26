@@ -1,7 +1,7 @@
 ---
 week: 10
 day: 2
-title: "Week 10 Day 2"
+title: "The Covenant Ceremony -- God Alone Passes Between the Pieces"
 reading: "Genesis 15:7-21"
 parallel_passages: Jeremiah 34:18-20, Hebrews 6:13-20, Matthew 26:26-28, Luke 22:20
 section: Abrahamic Covenant

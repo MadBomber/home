@@ -33,11 +33,11 @@ The section reaches one of its most vivid moments when Elisha's servant trembles
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | 2 Kings 1:1-2:25 | Elijah's departure — fire from heaven, the chariot, and Elisha receives the mantle |
-| [2](../day-2/) | 2 Kings 3:1-4:44 | Elisha's miracles — oil multiplied, a dead boy raised, a hundred men fed |
-| [3](../day-3/) | 2 Kings 5:1-6:23 | Naaman the Syrian — a pagan commander washed clean in the Jordan |
-| [4](../day-4/) | 2 Kings 6:24-8:29 | Siege, famine, and opened eyes — the unseen army of God |
-| [5](../day-5/) | 2 Kings 9:1-13:25 | Jehu's revolution, the end of Ahab's house, and Elisha's death |
+| [1](../day-1/) | 2 Kings 1:1-2:25 | Elijah's Departure and Elisha's Commissioning |
+| [2](../day-2/) | 2 Kings 3:1-4:44 | Elisha's Miracles of Multiplication |
+| [3](../day-3/) | 2 Kings 5:1-6:23 | Naaman the Syrian -- A Pagan Commander Washed Clean |
+| [4](../day-4/) | 2 Kings 6:24-8:29 | Siege, Famine, and the Calculus of Faith |
+| [5](../day-5/) | 2 Kings 9:1-13:25 | Jehu's Revolution, Ahab's End, and Elisha's Death |
 
 ## Key Themes
 

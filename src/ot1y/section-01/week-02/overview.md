@@ -29,11 +29,11 @@ The week's final two readings expand the creation portrait beyond Genesis. Prove
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Genesis 2:1-3 | The seventh day — God rests and sanctifies; the pattern of Sabbath |
-| [2](../day-2/) | Genesis 2:4-17 | Dust, breath, garden, vocation, and the one boundary |
-| [3](../day-3/) | Genesis 2:18-25 | "Not good to be alone" — the making of the woman and the first poem |
-| [4](../day-4/) | Proverbs 8:22-31 | Wisdom at creation — "rejoicing in his inhabited world" |
-| [5](../day-5/) | Isaiah 40:21-28 | The everlasting Creator — stars by name, strength to the weary |
+| [1](../day-1/) | Genesis 2:1-3 | The Seventh Day -- God Rests and Sanctifies |
+| [2](../day-2/) | Genesis 2:4-17 | Dust, Breath, Garden, Vocation, and the One Boundary |
+| [3](../day-3/) | Genesis 2:18-25 | Not Good to Be Alone -- The Making of the Woman and the First Poem |
+| [4](../day-4/) | Proverbs 8:22-31 | Wisdom at Creation -- Rejoicing in His Inhabited World |
+| [5](../day-5/) | Isaiah 40:21-28 | The Everlasting Creator -- Stars by Name, Strength to the Weary |
 
 ## Key Themes
 

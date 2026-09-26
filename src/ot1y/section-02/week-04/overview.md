@@ -41,11 +41,11 @@ And Noah — the tenth name, the end of the line — is born with a prophecy: "O
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Genesis 4:1-16 | Cain and Abel — two offerings, a predator at the door, and the blood that cries out |
-| [2](../day-2/) | Genesis 4:17-26 | Two lines diverge — Cain's city, Lamech's war song, and Seth's worship |
-| [3](../day-3/) | Genesis 5:1-20 | The genealogy begins — "and he died" tolls like a bell across ten lifetimes |
-| [4](../day-4/) | Genesis 5:21-32 | Enoch walks with God and is not; Noah is born with a prophecy of rest |
-| [5](../day-5/) | Jude 14-15; Hebrews 11:4-6 | The NT opens Genesis 4–5 — Abel's faith, Enoch's translation, the judgment to come |
+| [1](../day-1/) | Genesis 4:1-16 | Cain and Abel -- Two Offerings, a Predator at the Door, and the Blood That Cries Out |
+| [2](../day-2/) | Genesis 4:17-26 | Two Lines Diverge -- Cain's City, Lamech's War Song, and Seth's Worship |
+| [3](../day-3/) | Genesis 5:1-20 | The Genealogy Begins -- 'And He Died' Tolls Like a Bell |
+| [4](../day-4/) | Genesis 5:21-32 | Enoch Walks with God and Is Not; Noah Is Born with a Prophecy of Rest |
+| [5](../day-5/) | Jude 14-15; Hebrews 11:4-6 | The NT Opens Genesis 4-5 -- Abel's Faith, Enoch's Translation, the Judgment to Come |
 
 ## Key Themes
 

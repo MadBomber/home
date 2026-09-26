@@ -35,11 +35,11 @@ Then Elijah collapses. Jezebel threatens his life, and the man who called down f
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | 1 Kings 12:1-33 | The kingdom splits — Rehoboam's folly, Jeroboam's calves |
-| [2](../day-2/) | 1 Kings 13:1-14:31 | Prophets and kings — the man of God from Judah, Jeroboam's judgment |
-| [3](../day-3/) | 1 Kings 15:1-16:34 | The parade of kings — faithfulness and failure in Judah and Israel |
-| [4](../day-4/) | 1 Kings 17:1-19:21 | Elijah — drought, the widow's oil, Carmel's fire, and the still small voice |
-| [5](../day-5/) | 1 Kings 20:1-22:53 | Ahab's wars, Naboth's vineyard, and the death of a wicked king |
+| [1](../day-1/) | 1 Kings 12:1-33 | The Kingdom Splits -- Rehoboam's Folly and Jeroboam's Calves |
+| [2](../day-2/) | 1 Kings 13:1-14:31 | Prophets and Kings -- The Man of God from Judah and Jeroboam's Judgment |
+| [3](../day-3/) | 1 Kings 15:1-16:34 | The Parade of Kings -- Faithfulness and Failure in Judah and Israel |
+| [4](../day-4/) | 1 Kings 17:1-19:21 | Elijah -- Drought, the Widow's Oil, Carmel's Fire, and the Still Small Voice |
+| [5](../day-5/) | 1 Kings 20:1-22:53 | Ahab's Wars, Naboth's Vineyard, and the Death of a Wicked King |
 
 ## Key Themes
 

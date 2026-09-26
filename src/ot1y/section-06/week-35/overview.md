@@ -33,11 +33,11 @@ The week closes with David's expansion of the kingdom and a story that reads lik
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | 2 Samuel 1:1-2:7 | David mourns Saul and Jonathan — "How the mighty have fallen" |
-| [2](../day-2/) | 2 Samuel 2:8-4:12 | Civil war — David king over Judah, Ishbosheth over Israel |
-| [3](../day-3/) | 2 Samuel 5:1-6:23 | Jerusalem conquered, the ark brought home, and the king dances |
-| [4](../day-4/) | 2 Samuel 7:1-29 | The Davidic covenant — "Your throne shall be established forever" |
-| [5](../day-5/) | 2 Samuel 8:1-10:19 | David's victories and David's kindness — Mephibosheth at the king's table |
+| [1](../day-1/) | 2 Samuel 1:1-2:7 | David Mourns Saul and Jonathan |
+| [2](../day-2/) | 2 Samuel 2:8-4:12 | Civil War and Patient Waiting |
+| [3](../day-3/) | 2 Samuel 5:1-6:23 | Jerusalem Conquered, the Ark Brought Home |
+| [4](../day-4/) | 2 Samuel 7:1-29 | The Davidic Covenant |
+| [5](../day-5/) | 2 Samuel 8:1-10:19 | David's Victories and Mephibosheth at the King's Table |
 
 ## Key Themes
 

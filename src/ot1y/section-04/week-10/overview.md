@@ -33,11 +33,11 @@ Then Genesis 17. God appears to Abram at ninety-nine — twenty-four years after
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Genesis 15:1-6 | "Look toward heaven" — the stars, the belief, the righteousness |
-| [2](../day-2/) | Genesis 15:7-21 | The covenant ceremony — God alone passes between the pieces |
-| [3](../day-3/) | Genesis 16:1-16 | Hagar and Ishmael — faith falters, consequences multiply |
-| [4](../day-4/) | Genesis 17:1-14 | "I am God Almighty" — Abram becomes Abraham, circumcision instituted |
-| [5](../day-5/) | Genesis 17:15-27 | Sarah will bear a son — Abraham laughs, and God names the boy "Laughter" |
+| [1](../day-1/) | Genesis 15:1-6 | Look Toward Heaven -- The Stars, the Belief, the Righteousness |
+| [2](../day-2/) | Genesis 15:7-21 | The Covenant Ceremony -- God Alone Passes Between the Pieces |
+| [3](../day-3/) | Genesis 16:1-16 | Hagar and Ishmael -- Faith Falters, Consequences Multiply |
+| [4](../day-4/) | Genesis 17:1-14 | I Am God Almighty -- Abram Becomes Abraham, Circumcision Instituted |
+| [5](../day-5/) | Genesis 17:15-27 | Sarah Will Bear a Son -- Abraham Laughs, and God Names the Boy Laughter |
 
 ## Key Themes
 

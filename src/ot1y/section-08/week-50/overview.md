@@ -35,11 +35,11 @@ The week closes with two psalms that give creation a voice. Psalm 96 and Psalm 9
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Isaiah 24:1-23 | The earth shattered — cosmic judgment and the LORD reigning on Mount Zion |
-| [2](../day-2/) | Isaiah 25:1–27:13 | The mountain feast — death swallowed, tears wiped, the trumpet sounds |
-| [3](../day-3/) | Joel 3:1-21 | The Valley of Decision — the nations gathered, the LORD roars from Zion |
-| [4](../day-4/) | Malachi 4:1-6; Zephaniah 3:8-20 | The furnace and the song — judgment for the arrogant, healing for the faithful |
-| [5](../day-5/) | Psalm 96; Psalm 98 | All creation sings — "for he comes to judge the earth with righteousness" |
+| [1](../day-1/) | Isaiah 24:1-23 | The Earth Shattered -- Cosmic Judgment and the LORD Reigning on Mount Zion |
+| [2](../day-2/) | Isaiah 25:1-27:13 | The Mountain Feast -- Death Swallowed, Tears Wiped, the Trumpet Sounds |
+| [3](../day-3/) | Joel 3:1-21 | The Valley of Decision -- The Nations Gathered, the LORD Roars from Zion |
+| [4](../day-4/) | Malachi 4:1-6; Zephaniah 3:8-20 | The Furnace and the Song -- Judgment for the Arrogant, Healing for the Faithful |
+| [5](../day-5/) | Psalm 96; Psalm 98 | All Creation Sings -- For He Comes to Judge the Earth with Righteousness |
 
 ## Key Themes
 

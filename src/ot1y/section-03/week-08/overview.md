@@ -31,11 +31,11 @@ The genealogy resumes in Genesis 11:10-26, narrowing from Shem through ten gener
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Genesis 10:1-20 | The sons of Japheth and Ham — the nations spread across the earth |
-| [2](../day-2/) | Genesis 10:21-32 | The sons of Shem — the line through which the promise will travel |
-| [3](../day-3/) | Genesis 11:1-9 | The Tower of Babel — "let us make a name for ourselves" |
-| [4](../day-4/) | Genesis 11:10-26 | From Shem to Terah — the genealogy narrows toward Abraham |
-| [5](../day-5/) | Genesis 11:27-32; Acts 17:26-27 | Terah's family in Ur — and Paul's declaration that God made every nation from one man |
+| [1](../day-1/) | Genesis 10:1-20 | The Sons of Japheth and Ham -- The Nations Spread Across the Earth |
+| [2](../day-2/) | Genesis 10:21-32 | The Sons of Shem -- The Line Through Which the Promise Will Travel |
+| [3](../day-3/) | Genesis 11:1-9 | The Tower of Babel -- Let Us Make a Name for Ourselves |
+| [4](../day-4/) | Genesis 11:10-26 | From Shem to Terah -- The Genealogy Narrows Toward Abraham |
+| [5](../day-5/) | Genesis 11:27-32; Acts 17:26-27 | Terah's Family in Ur -- And Paul's Declaration That God Made Every Nation from One Man |
 
 ## Key Themes
 

@@ -33,11 +33,11 @@ The section ends in darkness. Saul, abandoned by God and desperate, consults the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | 1 Samuel 21:1-22:23 | The bread of the Presence, feigned madness, and the cave of Adullam — outcasts gather to the king |
-| [2](../day-2/) | 1 Samuel 23:1-24:22 | The pursuit — David spares Saul in the cave at En-gedi |
-| [3](../day-3/) | 1 Samuel 25:1-44 | Nabal and Abigail — folly, wisdom, and the woman who prevents bloodshed |
-| [4](../day-4/) | 1 Samuel 26:1-27:12 | David spares Saul again — the spear, the water jug, and "The LORD forbid" |
-| [5](../day-5/) | 1 Samuel 28:1-31:13 | The medium at Endor, the death of Saul, and the end of an era |
+| [1](../day-1/) | 1 Samuel 21:1-22:23 | The Bread, the Madness, and the Cave -- Outcasts Gather to the King |
+| [2](../day-2/) | 1 Samuel 23:1-24:22 | The Pursuit and the Cave at En-gedi -- Restraint as Worship |
+| [3](../day-3/) | 1 Samuel 25:1-44 | Nabal and Abigail -- Folly, Wisdom, and the Woman Who Prevents Bloodshed |
+| [4](../day-4/) | 1 Samuel 26:1-27:12 | The Spear, the Water Jug, and 'The LORD Forbid' |
+| [5](../day-5/) | 1 Samuel 28:1-31:13 | The Medium at Endor, the Death of Saul, and the End of an Era |
 
 ## Key Themes
 

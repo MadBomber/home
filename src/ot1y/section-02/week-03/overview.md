@@ -35,11 +35,11 @@ The week closes with two passages that reach forward from the fall. Isaiah 7:14 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Genesis 3:1-7 | The temptation — distortion, desire, and the silence of the man who was with her |
-| [2](../day-2/) | Genesis 3:8-15 | "Where are you?" — God pursues, confronts, and speaks the first gospel |
-| [3](../day-3/) | Genesis 3:16-24 | Consequences and covering — pain, thorns, death, animal skins, and the guarded gate |
-| [4](../day-4/) | Isaiah 7:14; 9:6-7 | The seed foretold — Immanuel, and the child whose name is Mighty God |
-| [5](../day-5/) | Psalm 51:1-12 | The fall relived — David's confession and the cry for a clean heart |
+| [1](../day-1/) | Genesis 3:1-7 | The Temptation -- Distortion, Desire, and the Silence of the Man |
+| [2](../day-2/) | Genesis 3:8-15 | Where Are You? -- God Pursues, Confronts, and Speaks the First Gospel |
+| [3](../day-3/) | Genesis 3:16-24 | Consequences and Covering -- Pain, Thorns, Death, Animal Skins, and the Guarded Gate |
+| [4](../day-4/) | Isaiah 7:14; 9:6-7 | The Seed Foretold -- Immanuel, and the Child Whose Name Is Mighty God |
+| [5](../day-5/) | Psalm 51:1-12 | The Fall Relived -- David's Confession and the Cry for a Clean Heart |
 
 ## Key Themes
 

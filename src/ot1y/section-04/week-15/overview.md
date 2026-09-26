@@ -37,11 +37,11 @@ Seven years of plenty. Seven years of famine. Joseph lays out the vision and the
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Genesis 37:1-36 | The dreamer — the coat, the pit, the silver, and the blood-stained lie |
-| [2](../day-2/) | Genesis 39:1-23 | Potiphar's house — integrity, false accusation, and "the LORD was with Joseph" |
-| [3](../day-3/) | Genesis 40:1-23 | Prison — two dreams, two fates, and the forgotten promise |
-| [4](../day-4/) | Genesis 41:1-40 | Pharaoh's dreams — from the dungeon to the throne room |
-| [5](../day-5/) | Genesis 41:41-57 | Exaltation — the prisoner becomes the prince of Egypt |
+| [1](../day-1/) | Genesis 37:1-36 | The Dreamer -- The Coat, the Pit, the Silver, and the Blood-Stained Lie |
+| [2](../day-2/) | Genesis 39:1-23 | Potiphar's House -- Integrity, False Accusation, and 'The LORD Was With Joseph' |
+| [3](../day-3/) | Genesis 40:1-23 | Prison -- Two Dreams, Two Fates, and the Forgotten Promise |
+| [4](../day-4/) | Genesis 41:1-40 | Pharaoh's Dreams -- From the Dungeon to the Throne Room |
+| [5](../day-5/) | Genesis 41:41-57 | Exaltation -- The Prisoner Becomes the Prince of Egypt |
 
 ## Key Themes
 

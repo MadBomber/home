@@ -31,11 +31,11 @@ But Samuel grows old. His sons prove corrupt — the cycle repeats, as it always
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | 1 Samuel 1:1-2:11 | Hannah's barrenness, her silent prayer, Samuel's birth, and a song that reaches past every king Israel will ever have |
-| [2](../day-2/) | 1 Samuel 2:12-3:21 | Eli's corrupt sons, the boy in the temple, and "Speak, LORD" |
-| [3](../day-3/) | 1 Samuel 4:1-7:17 | The ark captured, returned, and the renewal at Mizpah |
-| [4](../day-4/) | 1 Samuel 8:1-22 | "Give us a king" — Israel rejects divine rule for human monarchy |
-| [5](../day-5/) | Psalm 113; 1 Samuel 2:1-10 | The God who lifts the needy — Hannah's song and Israel's worship of the God who reverses |
+| [1](../day-1/) | 1 Samuel 1:1-2:11 | The Barren Woman's Prayer and a Song That Sees the King |
+| [2](../day-2/) | 1 Samuel 2:12-3:21 | Corruption in the Holy Place and a Voice in the Dark |
+| [3](../day-3/) | 1 Samuel 4:1-7:17 | The Ark Captured, the Glory Departed, and the God Who Cannot Be Contained |
+| [4](../day-4/) | 1 Samuel 8:1-22 | Give Us a King -- Israel Rejects Divine Rule for Human Monarchy |
+| [5](../day-5/) | Psalm 113; 1 Samuel 2:1-10 | The God Who Lifts the Needy -- Hannah's Song and Israel's Hymn of Reversal |
 
 ## Key Themes
 
