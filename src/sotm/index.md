@@ -106,3 +106,4 @@ See [How to Use](<%= relative_url '/documents/how-to-use/' %>) for practical gui
 
 - [How to Use](<%= relative_url '/documents/how-to-use/' %>)
 - [Journaling](<%= relative_url '/documents/journaling/' %>)
+- [Reading Plan](<%= relative_url '/sotm/reading-plan/' %>)

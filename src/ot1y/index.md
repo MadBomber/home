@@ -30,4 +30,5 @@ See [How to Use](<%= relative_url '/documents/how-to-use/' %>) for practical gui
 
 - [How to Use](<%= relative_url '/documents/how-to-use/' %>)
 - [Journaling](<%= relative_url '/documents/journaling/' %>)
+- [Reading Plan (PDF)](<%= relative_url '/downloads/ot1y-handout.pdf' %>)
 - [Topic Index](<%= relative_url '/ot1y/tags/' %>)
