@@ -10,6 +10,6 @@ template_engine: erb
 - [The High Priestly Prayer](<%= relative_url "/ntc1y/section-04/week-18/day-1/" %>)
 - [Spiritual Immaturity, God's Temple, Building on the Foundation](<%= relative_url "/ntc1y/section-05/week-29/day-4/" %>)
 - [Accept One Another as Christ Accepted You](<%= relative_url "/ntc1y/section-05/week-38/day-1/" %>)
-- [Unity, Gifts, New Self](<%= relative_url "/ntc1y/section-05/week-40/day-5/" %>)
+- [Unity, Gifts, and the New Self](<%= relative_url "/ntc1y/section-05/week-40/day-5/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

@@ -13,7 +13,7 @@ template_engine: erb
 - [Parables: Sower, Lamp, Growing Seed, Mustard Seed, Stilling the Storm](<%= relative_url "/ntc1y/section-02/week-06/day-4/" %>)
 - [Clean and Unclean, Syrophoenician Woman, Deaf Man Healed](<%= relative_url "/ntc1y/section-02/week-09/day-4/" %>)
 - [Feeding 4000, Pharisees Demand Sign, Blind Man at Bethsaida](<%= relative_url "/ntc1y/section-02/week-09/day-5/" %>)
-- [Peter's Confession and the First Passion Prediction](<%= relative_url "/ntc1y/section-02/week-10/day-1/" %>)
+- [Peter's Confession at Caesarea Philippi, First Passion Prediction, Take Up the Cross](<%= relative_url "/ntc1y/section-02/week-10/day-1/" %>)
 - [Crucified and Risen](<%= relative_url "/ntc1y/section-04/week-20/day-3/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

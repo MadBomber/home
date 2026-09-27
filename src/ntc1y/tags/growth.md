@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **growth** tag:
 
-- [Growing in Faith, Eyewitnesses of His Majesty](<%= relative_url "/ntc1y/section-06/week-49/day-2/" %>)
+- [Growing in Virtue — Eyewitnesses of His Majesty, Scripture's Origin](<%= relative_url "/ntc1y/section-06/week-49/day-2/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

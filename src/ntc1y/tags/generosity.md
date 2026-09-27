@@ -17,6 +17,6 @@ template_engine: erb
 - [The Fool's Speech and the Catalog of Sufferings](<%= relative_url "/ntc1y/section-05/week-34/day-3/" %>)
 - [The Thorn and the Triumph of Grace](<%= relative_url "/ntc1y/section-05/week-34/day-4/" %>)
 - [Final Warnings and the Trinitarian Benediction](<%= relative_url "/ntc1y/section-05/week-34/day-5/" %>)
-- [Rejoice in the Lord Always](<%= relative_url "/ntc1y/section-06/week-42/day-1/" %>)
+- [Rejoice in the Lord Always, Peace of God, and Contentment](<%= relative_url "/ntc1y/section-06/week-42/day-1/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

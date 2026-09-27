@@ -3,13 +3,13 @@ week: 2
 day: 1
 title: Presentation at Temple & Boy Jesus
 reading: Luke 2:21-52
+section: The Coming of Christ
 tags:
 - birth-narratives
 - temple
 - simeon
 - anna
 - jesus-childhood
-section: The Coming of Christ
 layout: page
 study_slug: ntc1y
 ---
@@ -18,10 +18,6 @@ study_slug: ntc1y
 ## Reading: Luke 2:21-52
 
 Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Luke.2" target="_blank" rel="noopener">Luke chapter 2</a>
-
-> *"Did you not know that I must be in my Father's house?"* -- Luke 2:49 (ESV)
-
----
 
 ## Historical Context
 
@@ -39,26 +35,23 @@ The second episode is the only canonical childhood story of Jesus. At twelve, a 
 
 Jesus' response -- "Did you not know that I must be in my Father's house?" -- is his first recorded speech in any Gospel. The word dei ("it is necessary") is a key Lukan term expressing divine necessity throughout the Gospel. Jesus already grasps his unique identity as the Son of God. Yet Luke notes he "was submissive to them" -- the eternal Son living in obedience to human parents. The growth summary (2:52) echoes 1 Samuel 2:26, drawing a deliberate parallel between Jesus and the young Samuel. Luke frames these two temple scenes as bookends to the silent years, affirming that even in obscurity, God's purposes were advancing.
 
----
+## Key Themes
 
-## Study Questions
+- **The Poverty of the Incarnation** -- Mary and Joseph offered two birds because they could not afford a lamb (Leviticus 12:8). The Son of God entered the world in a family that had to use the law's provision for the poor.
+- **A Light for the Gentiles** -- Simeon's song announces in the first weeks of Jesus' life that the salvation he brings reaches beyond Israel to the nations, a theme Luke carries through the whole of Luke-Acts.
+- **The Son in His Father's House** -- Jesus' first recorded words show a boy who already knows who his Father is, yet he goes home and submits to Mary and Joseph. Full divine identity and genuine human growth stand side by side.
 
-1. Simeon calls Jesus "a light for revelation to the Gentiles." How does this expand the scope of salvation beyond what most first-century Jews expected?
+## Connections
 
-2. What does the offering of two pigeons rather than a lamb tell us about the circumstances into which God chose to send his Son? Why might this matter theologically?
+- **Old Testament Roots**: Leviticus 12:1-8 (purification after childbirth, with the provision for those who cannot afford a lamb), Exodus 13:2, 12 (the consecration of every firstborn male), 1 Samuel 1:24-28 and 2:26 (Hannah presenting the young Samuel, who grew in favor with the Lord and with man), Isaiah 42:6 and 49:6 (the Servant as a light for the nations), Malachi 3:1 (the Lord suddenly coming to his temple).
+- **New Testament Echoes**: John 19:25-27 (Mary standing at the cross, where Simeon's sword pierces her soul), Acts 13:47 (Paul and Barnabas take Isaiah 49:6 as their own commission to the Gentiles), 2 Corinthians 8:9 (though he was rich, for our sake he became poor), Hebrews 2:17 (made like his brothers in every respect).
 
-3. Simeon warns Mary that "a sword will pierce through your own soul." How do you think this prophecy affected Mary throughout Jesus' life and ministry?
+## Reflection Questions
 
-4. Jesus' first recorded words are about his Father's house. What does this tell us about his self-understanding even as a child?
+1. Mary and Joseph offered two pigeons because they could not afford a lamb. What does it tell you that God chose to send his Son into a poor family, and how does that change where you expect to find God at work?
+2. Simeon waited his whole life to see "the Lord's Christ," and Anna worshiped in the temple night and day for decades. What are you waiting on God for, and what would faithful waiting look like for you this week?
+3. At twelve, Jesus knew he must be in his Father's house, yet he went home and "was submissive to them." Where is God asking you to hold together a clear sense of his calling and humble obedience in ordinary life?
 
-5. Luke says Jesus "increased in wisdom and in stature and in favor with God and man." What does this suggest about the reality of the incarnation -- that Jesus truly lived a fully human life?
+## Prayer
 
----
-
-## Cross-References
-
-- **Leviticus 12:1-8** -- The law of purification after childbirth, including the provision for those who cannot afford a lamb.
-- **Exodus 13:2, 12** -- The consecration of every firstborn male, rooted in the Passover.
-- **1 Samuel 1:24-28** -- Hannah presenting the young Samuel at the tabernacle; a direct literary parallel to this passage.
-- **Isaiah 42:6; 49:6** -- The Servant as a light to the nations, quoted by Simeon.
-- **Malachi 3:1** -- "The Lord whom you seek will suddenly come to his temple" -- fulfilled in this passage.
+Father, we thank you that your Son came to us in poverty, carried into the temple by parents who could offer only two birds. Give us the patience of Simeon and the devotion of Anna, who waited for your salvation and knew it when they saw it. Let the light that Simeon held in his arms shine through us to the nations. Teach us, like the boy Jesus, to long to be in our Father's house, and to live faithfully in the ordinary places where you have put us. Through Jesus Christ, the light for revelation to the Gentiles. Amen.

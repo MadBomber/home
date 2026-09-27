@@ -13,10 +13,10 @@ template_engine: erb
 - [Warning to Rich Oppressors — Prayer of Faith](<%= relative_url "/ntc1y/section-05/week-23/day-3/" %>)
 - [Timothy's Encouraging Report, Prayer for Their Growth](<%= relative_url "/ntc1y/section-05/week-27/day-4/" %>)
 - [Every Spiritual Blessing](<%= relative_url "/ntc1y/section-05/week-40/day-2/" %>)
-- [The Mystery Revealed, Prayer for Power](<%= relative_url "/ntc1y/section-05/week-40/day-4/" %>)
+- [The Mystery Revealed — Prayer for Power and Love](<%= relative_url "/ntc1y/section-05/week-40/day-4/" %>)
 - [Children and Parents, The Full Armor of God](<%= relative_url "/ntc1y/section-05/week-41/day-2/" %>)
-- [Rejoice in the Lord Always](<%= relative_url "/ntc1y/section-06/week-42/day-1/" %>)
+- [Rejoice in the Lord Always, Peace of God, and Contentment](<%= relative_url "/ntc1y/section-06/week-42/day-1/" %>)
 - [Wisdom, Prayer, and a Brother Restored](<%= relative_url "/ntc1y/section-06/week-42/day-5/" %>)
-- [One God, One Mediator](<%= relative_url "/ntc1y/section-06/week-43/day-2/" %>)
+- [Pray for All People Including Kings, One God and One Mediator, and Instructions on Worship](<%= relative_url "/ntc1y/section-06/week-43/day-2/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **zion** tag:
 
-- [Run the Race, Fix Eyes on Jesus](<%= relative_url "/ntc1y/section-06/week-47/day-5/" %>)
+- [Run the Race, Fix Eyes on Jesus — Mount Sinai versus Mount Zion](<%= relative_url "/ntc1y/section-06/week-47/day-5/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

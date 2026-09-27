@@ -13,7 +13,7 @@ template_engine: erb
 - [Marriage, Singleness, and Undivided Devotion](<%= relative_url "/ntc1y/section-05/week-30/day-3/" %>)
 - [Food Offered to Idols](<%= relative_url "/ntc1y/section-05/week-30/day-4/" %>)
 - [All Things to All People](<%= relative_url "/ntc1y/section-05/week-30/day-5/" %>)
-- [Walk in Love, Be Filled with the Spirit](<%= relative_url "/ntc1y/section-05/week-41/day-1/" %>)
-- [Husbands and Wives — Suffering for Doing Good](<%= relative_url "/ntc1y/section-06/week-48/day-4/" %>)
+- [Walk in Love, Be Filled with the Spirit, Christ and the Church](<%= relative_url "/ntc1y/section-05/week-41/day-1/" %>)
+- [Wives and Husbands, Suffering for Doing Good — Christ Preached to the Spirits](<%= relative_url "/ntc1y/section-06/week-48/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

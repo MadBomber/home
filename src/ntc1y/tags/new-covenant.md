@@ -12,6 +12,6 @@ template_engine: erb
 - [The God of All Comfort](<%= relative_url "/ntc1y/section-05/week-32/day-3/" %>)
 - [Forgiveness and Triumph](<%= relative_url "/ntc1y/section-05/week-32/day-4/" %>)
 - [Ministers of the New Covenant](<%= relative_url "/ntc1y/section-05/week-32/day-5/" %>)
-- [Jesus Ministers in the True Heavenly Tabernacle](<%= relative_url "/ntc1y/section-06/week-47/day-1/" %>)
+- [Jesus Ministers in the True Heavenly Tabernacle — a New Covenant Replaces the Old](<%= relative_url "/ntc1y/section-06/week-47/day-1/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

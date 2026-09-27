@@ -12,6 +12,6 @@ template_engine: erb
 - [God's Righteous Judgment](<%= relative_url "/ntc1y/section-05/week-35/day-3/" %>)
 - [Justified Freely by Grace](<%= relative_url "/ntc1y/section-05/week-35/day-4/" %>)
 - [Abraham Justified by Faith](<%= relative_url "/ntc1y/section-05/week-35/day-5/" %>)
-- [Silence, Prayers, and Trumpets of Judgment](<%= relative_url "/ntc1y/section-06/week-52/day-2/" %>)
+- [Silence, Prayers, and Trumpets of Judgment — No Repentance](<%= relative_url "/ntc1y/section-06/week-52/day-2/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

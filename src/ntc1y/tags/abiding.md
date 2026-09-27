@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **abiding** tag:
 
-- [The True Vine](<%= relative_url "/ntc1y/section-04/week-17/day-4/" %>)
+- [The True Vine, Abiding in Christ, and the World's Hatred](<%= relative_url "/ntc1y/section-04/week-17/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

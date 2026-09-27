@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **advocate** tag:
 
-- [Our Advocate, Our Test](<%= relative_url "/ntc1y/section-06/week-50/day-2/" %>)
+- [Our Advocate, Our Test — Do Not Love the World, Beware the Antichrist](<%= relative_url "/ntc1y/section-06/week-50/day-2/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

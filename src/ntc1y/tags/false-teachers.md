@@ -14,6 +14,6 @@ template_engine: erb
 - [Final Warnings and the Trinitarian Benediction](<%= relative_url "/ntc1y/section-05/week-34/day-5/" %>)
 - [Setting Things in Order on Crete](<%= relative_url "/ntc1y/section-06/week-44/day-2/" %>)
 - [False Teachers and the Certainty of Judgment](<%= relative_url "/ntc1y/section-06/week-49/day-3/" %>)
-- [Contend for the Faith, Kept by God](<%= relative_url "/ntc1y/section-06/week-49/day-5/" %>)
+- [Contend for the Faith, False Teachers Condemned — Kept by God](<%= relative_url "/ntc1y/section-06/week-49/day-5/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

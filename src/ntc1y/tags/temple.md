@@ -10,6 +10,6 @@ template_engine: erb
 - [Presentation at Temple & Boy Jesus](<%= relative_url "/ntc1y/section-01/week-02/day-1/" %>)
 - [Wedding at Cana, First Temple Cleansing](<%= relative_url "/ntc1y/section-01/week-03/day-3/" %>)
 - [Healing at the Beautiful Gate](<%= relative_url "/ntc1y/section-05/week-21/day-3/" %>)
-- [Arrested in Jerusalem](<%= relative_url "/ntc1y/section-05/week-38/day-4/" %>)
+- [Journey to Jerusalem and Arrest in the Temple](<%= relative_url "/ntc1y/section-05/week-38/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

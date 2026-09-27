@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **pastoral-charge** tag:
 
-- [Farewell to the Elders](<%= relative_url "/ntc1y/section-05/week-38/day-3/" %>)
+- [Eutychus and Farewell to the Ephesian Elders](<%= relative_url "/ntc1y/section-05/week-38/day-3/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

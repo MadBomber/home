@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **women-followers** tag:
 
-- [The Kingdom in Action](<%= relative_url "/ntc1y/section-02/week-07/day-5/" %>)
+- [Women Followers, Parable of Sower, Storm Stilled, Legion, Jairus' Daughter](<%= relative_url "/ntc1y/section-02/week-07/day-5/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

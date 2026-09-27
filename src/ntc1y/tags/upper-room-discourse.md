@@ -9,8 +9,8 @@ template_engine: erb
 
 - [The Last Supper](<%= relative_url "/ntc1y/section-04/week-17/day-1/" %>)
 - [The Foot Washing and New Commandment](<%= relative_url "/ntc1y/section-04/week-17/day-2/" %>)
-- [The Way, the Truth, and the Life](<%= relative_url "/ntc1y/section-04/week-17/day-3/" %>)
-- [The True Vine](<%= relative_url "/ntc1y/section-04/week-17/day-4/" %>)
-- [The Spirit's Work and Christ's Victory](<%= relative_url "/ntc1y/section-04/week-17/day-5/" %>)
+- [The Way, the Truth, the Life, and the Promised Spirit](<%= relative_url "/ntc1y/section-04/week-17/day-3/" %>)
+- [The True Vine, Abiding in Christ, and the World's Hatred](<%= relative_url "/ntc1y/section-04/week-17/day-4/" %>)
+- [The Spirit's Work, Grief Turned to Joy, and Christ's Victory](<%= relative_url "/ntc1y/section-04/week-17/day-5/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

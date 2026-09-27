@@ -9,6 +9,6 @@ template_engine: erb
 
 - [Anointing, Supper, and Gethsemane](<%= relative_url "/ntc1y/section-04/week-18/day-2/" %>)
 - [Friendship with the World — Submit to God](<%= relative_url "/ntc1y/section-05/week-23/day-2/" %>)
-- [Living Stones — Royal Priesthood, Christ's Example](<%= relative_url "/ntc1y/section-06/week-48/day-3/" %>)
+- [Living Stones, Royal Priesthood — Submission to Authority, Christ's Example](<%= relative_url "/ntc1y/section-06/week-48/day-3/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

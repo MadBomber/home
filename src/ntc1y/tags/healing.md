@@ -9,7 +9,7 @@ template_engine: erb
 
 - [Nazareth Rejection, Capernaum Ministry](<%= relative_url "/ntc1y/section-01/week-04/day-2/" %>)
 - [Kingdom Proclaimed, Healings, Leper Cleansed](<%= relative_url "/ntc1y/section-01/week-04/day-4/" %>)
-- [The Kingdom in Action](<%= relative_url "/ntc1y/section-02/week-07/day-5/" %>)
+- [Women Followers, Parable of Sower, Storm Stilled, Legion, Jairus' Daughter](<%= relative_url "/ntc1y/section-02/week-07/day-5/" %>)
 - [Power Over Demons, Disease, and Death](<%= relative_url "/ntc1y/section-02/week-08/day-1/" %>)
 - [Healing at the Pool of Bethesda, Jesus' Authority as the Son](<%= relative_url "/ntc1y/section-02/week-08/day-4/" %>)
 - [Clean and Unclean, Syrophoenician Woman, Deaf Man Healed](<%= relative_url "/ntc1y/section-02/week-09/day-4/" %>)

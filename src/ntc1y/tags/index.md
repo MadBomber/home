@@ -237,7 +237,6 @@ the number beside each tag is its page count.
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/watchfulness/" %>">watchfulness <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/weakness/" %>">weakness <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/wealth/" %>">wealth <span class="tag-count">2</span></a>
-  <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/week-3/" %>">week-3 <span class="tag-count">5</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ntc1y/tags/wilderness/" %>">wilderness <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/wisdom/" %>">wisdom <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ntc1y/tags/woes/" %>">woes <span class="tag-count">4</span></a>

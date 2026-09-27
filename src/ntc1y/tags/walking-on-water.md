@@ -9,6 +9,6 @@ template_engine: erb
 
 - [Feeding the Multitude, Walking on the Sea](<%= relative_url "/ntc1y/section-02/week-08/day-3/" %>)
 - [Feeding the 5000, Walking on Water, Bread of Life Discourse Begins](<%= relative_url "/ntc1y/section-02/week-08/day-5/" %>)
-- [Death of John, Feeding 5000, Walking on Water](<%= relative_url "/ntc1y/section-02/week-09/day-2/" %>)
+- [John the Baptist's Death, Feeding 5000, Walking on Water](<%= relative_url "/ntc1y/section-02/week-09/day-2/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

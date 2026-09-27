@@ -7,7 +7,7 @@ template_engine: erb
 
 2 pages carry the **overseers** tag:
 
-- [Qualifications for Church Leaders](<%= relative_url "/ntc1y/section-06/week-43/day-3/" %>)
+- [Qualifications for Church Leaders and the Mystery of Godliness](<%= relative_url "/ntc1y/section-06/week-43/day-3/" %>)
 - [Setting Things in Order on Crete](<%= relative_url "/ntc1y/section-06/week-44/day-2/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

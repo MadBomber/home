@@ -12,6 +12,6 @@ template_engine: erb
 - [The God of All Comfort](<%= relative_url "/ntc1y/section-05/week-32/day-3/" %>)
 - [Forgiveness and Triumph](<%= relative_url "/ntc1y/section-05/week-32/day-4/" %>)
 - [Ministers of the New Covenant](<%= relative_url "/ntc1y/section-05/week-32/day-5/" %>)
-- [Press On to Maturity](<%= relative_url "/ntc1y/section-06/week-46/day-4/" %>)
+- [Press On to Maturity — Hope as an Anchor](<%= relative_url "/ntc1y/section-06/week-46/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

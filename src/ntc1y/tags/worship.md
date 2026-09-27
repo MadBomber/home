@@ -14,7 +14,7 @@ template_engine: erb
 - [One Body, Many Members](<%= relative_url "/ntc1y/section-05/week-31/day-3/" %>)
 - [The Greatest Is Love](<%= relative_url "/ntc1y/section-05/week-31/day-4/" %>)
 - [Orderly Worship](<%= relative_url "/ntc1y/section-05/week-31/day-5/" %>)
-- [One God, One Mediator](<%= relative_url "/ntc1y/section-06/week-43/day-2/" %>)
-- [Throne Room of God — Holy, Holy, Holy](<%= relative_url "/ntc1y/section-06/week-51/day-4/" %>)
+- [Pray for All People Including Kings, One God and One Mediator, and Instructions on Worship](<%= relative_url "/ntc1y/section-06/week-43/day-2/" %>)
+- [The Throne Room of Heaven — Holy, Holy, Holy](<%= relative_url "/ntc1y/section-06/week-51/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

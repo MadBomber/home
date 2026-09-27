@@ -7,7 +7,7 @@ template_engine: erb
 
 2 pages carry the **false-teaching** tag:
 
-- [Charge Against False Teachers](<%= relative_url "/ntc1y/section-06/week-43/day-1/" %>)
-- [Train Yourself in Godliness](<%= relative_url "/ntc1y/section-06/week-43/day-4/" %>)
+- [Charge Against False Teachers, Sound Doctrine, and Paul's Testimony](<%= relative_url "/ntc1y/section-06/week-43/day-1/" %>)
+- [False Teaching, Training in Godliness, and Timothy's Youth](<%= relative_url "/ntc1y/section-06/week-43/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

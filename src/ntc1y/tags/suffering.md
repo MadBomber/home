@@ -17,8 +17,8 @@ template_engine: erb
 - [The Fool's Speech and the Catalog of Sufferings](<%= relative_url "/ntc1y/section-05/week-34/day-3/" %>)
 - [The Thorn and the Triumph of Grace](<%= relative_url "/ntc1y/section-05/week-34/day-4/" %>)
 - [Final Warnings and the Trinitarian Benediction](<%= relative_url "/ntc1y/section-05/week-34/day-5/" %>)
-- [Called by God, Not Self-Appointed](<%= relative_url "/ntc1y/section-06/week-46/day-3/" %>)
-- [Living Stones — Royal Priesthood, Christ's Example](<%= relative_url "/ntc1y/section-06/week-48/day-3/" %>)
+- [Called by God, Not Self-Appointed — Milk or Solid Food](<%= relative_url "/ntc1y/section-06/week-46/day-3/" %>)
+- [Living Stones, Royal Priesthood — Submission to Authority, Christ's Example](<%= relative_url "/ntc1y/section-06/week-48/day-3/" %>)
 - [Living for God — Suffering as Christians, the Fiery Ordeal](<%= relative_url "/ntc1y/section-06/week-48/day-5/" %>)
 - [Shepherd the Flock, Humble Yourselves, Resist the Devil](<%= relative_url "/ntc1y/section-06/week-49/day-1/" %>)
 

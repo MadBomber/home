@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **outside-the-camp** tag:
 
-- [Final Exhortations and Benediction](<%= relative_url "/ntc1y/section-06/week-48/day-1/" %>)
+- [Mutual Love, Marriage Honored, Contentment, and Jesus Outside the Gate](<%= relative_url "/ntc1y/section-06/week-48/day-1/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

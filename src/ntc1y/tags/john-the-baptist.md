@@ -14,8 +14,8 @@ template_engine: erb
 - [John the Baptist's Witness, First Disciples Called](<%= relative_url "/ntc1y/section-01/week-03/day-2/" %>)
 - [Nicodemus, Born Again, John's Final Witness](<%= relative_url "/ntc1y/section-01/week-03/day-4/" %>)
 - [Centurion's Servant, Widow's Son Raised, John's Question from Prison](<%= relative_url "/ntc1y/section-02/week-06/day-2/" %>)
-- [John's Question, Jesus' Answer](<%= relative_url "/ntc1y/section-02/week-07/day-1/" %>)
+- [John's Question from Prison, Woes on Cities, Come to Me](<%= relative_url "/ntc1y/section-02/week-07/day-1/" %>)
 - [Rejection, Mission, and Martyrdom](<%= relative_url "/ntc1y/section-02/week-08/day-2/" %>)
-- [Death of John, Feeding 5000, Walking on Water](<%= relative_url "/ntc1y/section-02/week-09/day-2/" %>)
+- [John the Baptist's Death, Feeding 5000, Walking on Water](<%= relative_url "/ntc1y/section-02/week-09/day-2/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

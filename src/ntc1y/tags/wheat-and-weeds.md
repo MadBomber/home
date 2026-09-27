@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **wheat-and-weeds** tag:
 
-- [Secrets of the Kingdom](<%= relative_url "/ntc1y/section-02/week-07/day-3/" %>)
+- [Parable of the Sower, Purpose of Parables, Weeds Among Wheat](<%= relative_url "/ntc1y/section-02/week-07/day-3/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

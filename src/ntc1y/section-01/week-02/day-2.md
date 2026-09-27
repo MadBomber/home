@@ -3,13 +3,13 @@ week: 2
 day: 2
 title: Magi Visit, Flight to Egypt, Return to Nazareth
 reading: Matthew 2
+section: The Coming of Christ
 tags:
 - birth-narratives
 - magi
 - herod
 - egypt
 - prophecy-fulfillment
-section: The Coming of Christ
 layout: page
 study_slug: ntc1y
 ---
@@ -18,10 +18,6 @@ study_slug: ntc1y
 ## Reading: Matthew 2
 
 Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Matt.2" target="_blank" rel="noopener">Matthew chapter 2</a>
-
-> *"And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh."* -- Matthew 2:11 (ESV)
-
----
 
 ## Historical Context
 
@@ -41,27 +37,23 @@ The massacre of the innocents is connected to Jeremiah 31:15, Rachel weeping for
 
 After Herod's death in 4 BC, fear of his son Archelaus (eventually deposed by Rome in AD 6 for cruelty) redirects the family to Nazareth. Matthew's final fulfillment quotation -- "He shall be called a Nazarene" (Nazoraios) -- is his most debated, since no Old Testament verse contains the exact phrase. The most likely explanation is a wordplay on netser ("branch" or "shoot") from Isaiah 11:1. The obscure town of Nazareth becomes the hometown of the Messianic Branch. Throughout this chapter, divine sovereignty operates through and despite human wickedness: Herod's fury, political instability, and geographical displacement all serve to place Jesus exactly where prophecy said he would be.
 
----
+## Key Themes
 
-## Study Questions
+- **Seekers from Far Away** -- Gentile Magi travel hundreds of miles to worship the newborn King, while the scribes who know exactly where he will be born stay home. Knowing the answer is not the same as seeking the one it points to.
+- **God's Purposes Through Human Wickedness** -- Herod's rage, a family's flight, and a tyrant's death all end with Jesus living exactly where the prophets said he would. Evil is real in this chapter, and it does not have the final word.
+- **Jesus the True Israel** -- Like Israel, Jesus goes down to Egypt and is called out again. Matthew presents him as the faithful Son who walks the road where the nation stumbled.
 
-1. The Magi were pagan astrologers from the East, yet they were the first to seek and worship the newborn King. What does this tell us about how God reveals himself to people outside the expected channels?
+## Connections
 
-2. The chief priests and scribes knew exactly where the Messiah would be born, yet none of them went to Bethlehem. How can knowledge of Scripture coexist with a failure to act on it?
+- **Old Testament Roots**: Numbers 24:17 (a star rising out of Jacob), Micah 5:2 (the ruler who comes from Bethlehem), Hosea 11:1 ("out of Egypt I called my son"), Jeremiah 31:15 (Rachel weeping for her children), Isaiah 11:1 (the branch from the stump of Jesse, likely behind "He shall be called a Nazarene"), Exodus 1:15-22 (Pharaoh's order to kill the Hebrew boys, a pattern Herod repeats).
+- **New Testament Echoes**: Matthew 8:11 (many will come from east and west to feast with Abraham), Matthew 27:37 (the title "King of the Jews" returns, nailed above the cross), Matthew 28:19 (make disciples of all nations), John 1:46 ("Can anything good come out of Nazareth?").
 
-3. Matthew sees Jesus reliving Israel's story -- going down to Egypt and being called back. What does this "Jesus as the true Israel" pattern mean for understanding his mission?
+## Reflection Questions
 
-4. Herod's political power could not ultimately stop God's purposes. How does this chapter encourage us when we see evil and injustice seemingly prevailing in the world?
+1. The chief priests and scribes knew from Micah that the Messiah would be born in Bethlehem, yet none of them made the short trip to see him. What does this reveal about the difference between knowing Scripture and acting on it?
+2. God led pagan astrologers from the East to worship his Son. Who in your life seems far from God, and how might God already be drawing them toward Jesus?
+3. Herod's violence could not stop God's plan, but it still cost the families of Bethlehem their sons. How does this chapter help you hold together real grief over evil and real trust in God's sovereignty?
 
-5. The gifts of gold, frankincense, and myrrh point to Jesus as King, God, and sacrificial victim. Which of these aspects of Jesus' identity is most challenging or surprising to you?
+## Prayer
 
----
-
-## Cross-References
-
-- **Numbers 24:17** -- Balaam's prophecy of a star rising out of Jacob.
-- **Micah 5:2** -- The Messiah will come from Bethlehem Ephrathah.
-- **Hosea 11:1** -- "Out of Egypt I called my son."
-- **Jeremiah 31:15** -- Rachel weeping for her children.
-- **Isaiah 11:1** -- The "Branch" (netser) from Jesse's stump, likely behind the Nazarene fulfillment.
-- **Exodus 1:15-22** -- Pharaoh's order to kill Hebrew male infants, a typological parallel to Herod's massacre.
+Lord Jesus, King of the Jews and Savior of the nations, we come like the Magi to worship you. Forgive us when we are like the scribes in Jerusalem, knowing where you are to be found and never going to see. Give us hearts that seek you and hands that open their treasures to you. When the Herods of this world rage, remind us that no tyrant can undo your purposes. Comfort all who weep like Rachel for their children, and keep us trusting the Father who called his Son out of Egypt and brings his people home. Amen.

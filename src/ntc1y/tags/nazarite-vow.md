@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **nazarite-vow** tag:
 
-- [Arrested in Jerusalem](<%= relative_url "/ntc1y/section-05/week-38/day-4/" %>)
+- [Journey to Jerusalem and Arrest in the Temple](<%= relative_url "/ntc1y/section-05/week-38/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

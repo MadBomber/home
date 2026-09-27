@@ -3,13 +3,13 @@ week: 2
 day: 4
 title: John's Preaching & Jesus' Baptism
 reading: Luke 3:1-22
+parallel_passages: Mark 1:1-11; Matthew 3:1-17; John 1:29-34
+section: The Coming of Christ
 tags:
 - john-the-baptist
 - baptism
 - holy-spirit
 - jesus-identity
-parallel_passages: Mark 1:1-11; Matthew 3:1-17; John 1:29-34
-section: The Coming of Christ
 layout: page
 study_slug: ntc1y
 ---
@@ -18,10 +18,6 @@ study_slug: ntc1y
 ## Reading: Luke 3:1-22
 
 Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Luke.3" target="_blank" rel="noopener">Luke chapter 3</a>
-
-> *"And the Holy Spirit descended on him in bodily form, like a dove; and a voice came from heaven, 'You are my beloved Son; with you I am well pleased.'"* -- Luke 3:22 (ESV)
-
----
 
 ## Historical Context
 
@@ -41,27 +37,24 @@ The baptism of Jesus receives distinctive Lukan emphasis. Luke alone notes Jesus
 
 The heavenly voice -- "You are my beloved Son; with you I am well pleased" -- combines two Old Testament texts. "You are my Son" echoes Psalm 2:7, the royal enthronement psalm. "With whom I am well pleased" echoes Isaiah 42:1, the first Servant Song. The heavenly voice identifies Jesus simultaneously as Davidic King and Suffering Servant -- two messianic roles most first-century Jews did not expect in the same person. He is the King who reigns by serving, the Sovereign who conquers by suffering. The baptism is a Trinitarian theophany -- Son in the water, Spirit descending, Father speaking -- inaugurating the public ministry that will culminate at the cross and the empty tomb.
 
----
+## Key Themes
 
-## Study Questions
+- **The Gospel in Real History** -- Luke dates John's ministry by an emperor, a governor, three rulers, and two high priests. The word of God comes to a prophet in the wilderness at a particular moment in world history, not in the timeless world of myth.
+- **Repentance That Bears Fruit** -- When the crowds ask "What then shall we do?" John answers with specifics: share food and clothing, collect only what is owed, do not extort. Real repentance shows up in how people handle money, power, and their neighbors.
+- **King and Servant** -- The voice from heaven joins Psalm 2 and Isaiah 42, naming Jesus both the royal Son and the Servant in whom God delights. This Messiah will reign by serving and conquer by suffering.
 
-1. Luke carefully dates John's ministry by referencing six political and religious leaders. Why does Luke go to such lengths to anchor the gospel in world history? What does this tell us about the nature of the Christian faith?
+## Connections
 
-2. John tells tax collectors and soldiers specific ways to demonstrate repentance. What might "fruits worthy of repentance" look like in your own profession or daily circumstances?
+- **Old Testament Roots**: Isaiah 40:3-5 (the voice in the wilderness, which Luke quotes through to "all flesh shall see the salvation of God"), Psalm 2:7 (the royal Son), Isaiah 42:1 (the Servant in whom God delights, with the Spirit upon him), Malachi 3:1-3 (the messenger and the refiner's fire), Genesis 3:15 (the enmity between the serpent and the woman's offspring).
+- **New Testament Echoes**: Luke 4:18-21 (Jesus reads "The Spirit of the Lord is upon me" in the synagogue at Nazareth), Acts 2:1-4 (the Spirit comes with tongues of fire), Acts 10:37-38 (Peter recalls how God anointed Jesus with the Holy Spirit after John's baptism), Luke 19:1-10 (Zacchaeus shows the fruit of repentance John described).
+- **Parallel Passages**: Mark 1:1-11, Matthew 3:1-17, and John 1:29-34 record John's ministry and Jesus' baptism.
 
-3. Why did Jesus, who was sinless, submit to a baptism of repentance? What does this act of solidarity reveal about his character and mission?
+## Reflection Questions
 
-4. The heavenly voice combines Psalm 2:7 (the King) with Isaiah 42:1 (the Servant). How does understanding Jesus as both King and Servant shape the way we think about power, leadership, and greatness?
+1. Luke anchors John's ministry to named rulers and a datable year. Why does it matter to your faith that the gospel happened in real history rather than in a timeless story?
+2. John told tax collectors and soldiers exactly what repentance meant for them. If you asked him "What then shall we do?" what specific answer might he give about your work, your money, or your use of power?
+3. Jesus, who had no sin, stepped into the water alongside people confessing theirs, and he was praying when the heavens opened. What does this tell you about how near he is willing to come to you?
 
-5. The Holy Spirit descends "in bodily form" at Jesus' baptism. How does the visible, physical nature of this event connect to the broader biblical theme that God works through material, tangible means?
+## Prayer
 
----
-
-## Cross-References
-
-- **Isaiah 40:3-5** -- The prophecy of the voice in the wilderness, quoted at length by Luke.
-- **Psalm 2:7** -- "You are my Son; today I have begotten you" -- the royal enthronement declaration echoed in the heavenly voice.
-- **Isaiah 42:1** -- The introduction of the Servant of the Lord, "in whom my soul delights."
-- **Malachi 3:1-3** -- The messenger who prepares the way, and the refiner's fire.
-- **Genesis 3:15** -- The enmity between the serpent and the seed of the woman, evoked by John's "brood of vipers."
-- **John 1:29-34** -- The Fourth Gospel's account of the Baptist's testimony to Jesus' identity.
+Father, you spoke from heaven over your Son: "You are my beloved Son; with you I am well pleased." Thank you that he stood in the water with sinners and was not ashamed to call us his own. Show us what repentance must look like in our work, our spending, and our dealings with others, and give us the courage to do it. Make us people who pray as Jesus prayed. Let the fire of your Spirit burn away what is chaff in us and gather what is good. Through Jesus Christ, King and Servant. Amen.

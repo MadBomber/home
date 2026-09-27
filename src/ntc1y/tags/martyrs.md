@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **martyrs** tag:
 
-- [The Seals Opened, the Multitude Assembled](<%= relative_url "/ntc1y/section-06/week-52/day-1/" %>)
+- [The Six Seals and Four Horsemen — Martyrs' Cry, 144,000, and the Great Multitude](<%= relative_url "/ntc1y/section-06/week-52/day-1/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

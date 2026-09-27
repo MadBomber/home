@@ -12,7 +12,7 @@ template_engine: erb
 - [Paralytic Healed, Matthew Called, Jairus' Daughter, Harvest Prayer](<%= relative_url "/ntc1y/section-02/week-06/day-3/" %>)
 - [Parables: Sower, Lamp, Growing Seed, Mustard Seed, Stilling the Storm](<%= relative_url "/ntc1y/section-02/week-06/day-4/" %>)
 - [Hard Teaching — Many Disciples Desert](<%= relative_url "/ntc1y/section-02/week-09/day-1/" %>)
-- [Death of John, Feeding 5000, Walking on Water](<%= relative_url "/ntc1y/section-02/week-09/day-2/" %>)
+- [John the Baptist's Death, Feeding 5000, Walking on Water](<%= relative_url "/ntc1y/section-02/week-09/day-2/" %>)
 - [Traditions, Canaanite Woman, Feeding 4000](<%= relative_url "/ntc1y/section-02/week-09/day-3/" %>)
 - [Clean and Unclean, Syrophoenician Woman, Deaf Man Healed](<%= relative_url "/ntc1y/section-02/week-09/day-4/" %>)
 - [Feeding 4000, Pharisees Demand Sign, Blind Man at Bethsaida](<%= relative_url "/ntc1y/section-02/week-09/day-5/" %>)

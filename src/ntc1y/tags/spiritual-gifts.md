@@ -12,7 +12,7 @@ template_engine: erb
 - [One Body, Many Members](<%= relative_url "/ntc1y/section-05/week-31/day-3/" %>)
 - [The Greatest Is Love](<%= relative_url "/ntc1y/section-05/week-31/day-4/" %>)
 - [Orderly Worship](<%= relative_url "/ntc1y/section-05/week-31/day-5/" %>)
-- [Unity, Gifts, New Self](<%= relative_url "/ntc1y/section-05/week-40/day-5/" %>)
-- [Train Yourself in Godliness](<%= relative_url "/ntc1y/section-06/week-43/day-4/" %>)
+- [Unity, Gifts, and the New Self](<%= relative_url "/ntc1y/section-05/week-40/day-5/" %>)
+- [False Teaching, Training in Godliness, and Timothy's Youth](<%= relative_url "/ntc1y/section-06/week-43/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

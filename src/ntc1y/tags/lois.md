@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **lois** tag:
 
-- [Fan Into Flame](<%= relative_url "/ntc1y/section-06/week-44/day-5/" %>)
+- [Fan Into Flame, Guard the Good Deposit](<%= relative_url "/ntc1y/section-06/week-44/day-5/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

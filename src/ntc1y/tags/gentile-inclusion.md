@@ -10,6 +10,6 @@ template_engine: erb
 - [Cornelius' Vision — The Gospel to the Gentiles](<%= relative_url "/ntc1y/section-05/week-23/day-5/" %>)
 - [Jerusalem Council — Must Gentiles Be Circumcised?](<%= relative_url "/ntc1y/section-05/week-26/day-1/" %>)
 - [Accept One Another as Christ Accepted You](<%= relative_url "/ntc1y/section-05/week-38/day-1/" %>)
-- [The Mystery Revealed, Prayer for Power](<%= relative_url "/ntc1y/section-05/week-40/day-4/" %>)
+- [The Mystery Revealed — Prayer for Power and Love](<%= relative_url "/ntc1y/section-05/week-40/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

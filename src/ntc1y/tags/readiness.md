@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **readiness** tag:
 
-- [Ten Virgins and the Parable of Talents](<%= relative_url "/ntc1y/section-03/week-16/day-4/" %>)
+- [Ten Virgins and the Parable of the Talents](<%= relative_url "/ntc1y/section-03/week-16/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

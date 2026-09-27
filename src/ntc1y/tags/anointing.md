@@ -9,6 +9,6 @@ template_engine: erb
 
 - [Anointing, Supper, and Gethsemane](<%= relative_url "/ntc1y/section-04/week-18/day-2/" %>)
 - [Mark's Passion — From Anointing to Denial](<%= relative_url "/ntc1y/section-04/week-18/day-4/" %>)
-- [Our Advocate, Our Test](<%= relative_url "/ntc1y/section-06/week-50/day-2/" %>)
+- [Our Advocate, Our Test — Do Not Love the World, Beware the Antichrist](<%= relative_url "/ntc1y/section-06/week-50/day-2/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

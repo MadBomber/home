@@ -3,13 +3,13 @@ week: 2
 day: 3
 title: John the Baptist's Ministry
 reading: Mark 1:1-8
+parallel_passages: Luke 3:1-18; Matthew 3:1-12; John 1:19-28
+section: The Coming of Christ
 tags:
 - john-the-baptist
 - wilderness
 - repentance
 - baptism
-section: The Coming of Christ
-parallel_passages: Luke 3:1-18; Matthew 3:1-12; John 1:19-28
 layout: page
 study_slug: ntc1y
 ---
@@ -18,10 +18,6 @@ study_slug: ntc1y
 ## Reading: Mark 1:1-8
 
 Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Mark.1" target="_blank" rel="noopener">Mark chapter 1</a>
-
-> *"I have baptized you with water, but he will baptize you with the Holy Spirit."* -- Mark 1:8 (ESV)
-
----
 
 ## Historical Context
 
@@ -39,27 +35,24 @@ John's baptism (baptisma metanoias eis aphesin hamartion) introduces central New
 
 The literary structure is carefully crafted. John's self-deprecation -- "the strap of whose sandals I am not worthy to stoop down and untie" -- is striking because untying sandals was a task too menial even for a Jewish slave, assigned only to Gentile slaves. John establishes an infinite gap between himself and Jesus. The contrast between baptisms is equally stark: water cleanses the outside; the Holy Spirit transforms from within. Mark's brevity in compressing John's entire ministry into eight verses is itself a literary choice, signaling that the forerunner's role, while essential, is entirely subordinate. Everything presses urgently toward the arrival of Jesus himself.
 
----
+## Key Themes
 
-## Study Questions
+- **The Good News of Jesus Christ** -- Mark takes the word Rome used for announcements about the emperor and applies it to Jesus. The true good news is not what Caesar has done but what God is doing in his Son.
+- **Repentance as a New Start** -- John calls Israel out to the wilderness and down into the Jordan to turn around and begin again. Repentance is more than regret; it is a change of direction for the whole life.
+- **The Forerunner Who Points Away** -- John counts himself unworthy to untie Jesus' sandals. His whole ministry exists to prepare for someone greater, and he is content to be the one who prepares the way.
 
-1. Mark begins not with a birth story but with John the Baptist preaching in the wilderness. What does this abrupt opening tell us about Mark's priorities and his understanding of the "good news"?
+## Connections
 
-2. The word "gospel" (euangelion) was used in the Roman Empire for imperial announcements. What is Mark claiming by applying this word to Jesus rather than Caesar?
+- **Old Testament Roots**: Isaiah 40:3 (the voice crying in the wilderness), Malachi 3:1 (the messenger sent to prepare the way), Malachi 4:5-6 (Elijah before the day of the Lord), 2 Kings 1:8 (Elijah's garment of hair and leather belt), Leviticus 11:22 (locusts among the clean foods), Joshua 3 (Israel crossing the Jordan into the land).
+- **New Testament Echoes**: Mark 15:39 (the centurion confesses Jesus as the Son of God, answering Mark's opening line), Matthew 11:7-14 (Jesus identifies John as the Elijah who was to come), Acts 1:5 (Jesus promises the baptism with the Holy Spirit), Acts 19:1-7 (disciples at Ephesus who knew only John's baptism).
+- **Parallel Passages**: Compare Luke 3:1-18, Matthew 3:1-12, and John 1:19-28 to see how each Gospel introduces John the Baptist.
 
-3. John the Baptist appeared in the wilderness, not in the temple or a synagogue. Why is the wilderness a significant setting for the beginning of God's new work?
+## Reflection Questions
 
-4. John said he was not worthy even to untie the sandals of the one coming after him. What does this extreme humility teach us about proper perspective in ministry and service?
+1. Mark skips the birth stories and opens with "The beginning of the gospel of Jesus Christ, the Son of God." What makes this news good, and what makes it good for you personally?
+2. John's baptism called people who already belonged to God's covenant people to start over. What would genuine repentance -- a real change of direction, not regret alone -- look like in one area of your life right now?
+3. John said he was not worthy "to stoop down and untie" the strap of Jesus' sandals. Where are you tempted to make your service about yourself, and what would it look like to point others to Jesus instead?
 
-5. What is the difference between being baptized with water and being baptized with the Holy Spirit? How do these two baptisms relate to each other?
+## Prayer
 
----
-
-## Cross-References
-
-- **Isaiah 40:3** -- The voice crying in the wilderness to prepare the way of the Lord.
-- **Malachi 3:1** -- "I send my messenger before your face, who will prepare your way."
-- **Malachi 4:5-6** -- The promise that Elijah will come before the day of the Lord.
-- **2 Kings 1:8** -- The description of Elijah's clothing, echoed in John's appearance.
-- **Leviticus 11:22** -- Locusts listed among clean foods permitted under the Law.
-- **John 1:19-28** -- John the Baptist's testimony about himself in the Fourth Gospel.
+Lord God, we thank you for the good news of Jesus Christ, your Son, better news than any empire has ever announced. Like the crowds who went out to John, we come confessing our sins. Turn us around. Where we have wandered, bring us back; where we have grown comfortable, call us out into the wilderness to meet you again. Give us John's humility, content to prepare the way and to point to the One mightier than we are. And baptize us with your Holy Spirit, cleansing not only the outside but the heart. In the name of Jesus Christ. Amen.

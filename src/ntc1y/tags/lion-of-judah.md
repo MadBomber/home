@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **lion-of-judah** tag:
 
-- [The Scroll and the Lamb — Who Is Worthy?](<%= relative_url "/ntc1y/section-06/week-51/day-5/" %>)
+- [The Scroll and the Lamb — Worthy Is the Lamb](<%= relative_url "/ntc1y/section-06/week-51/day-5/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

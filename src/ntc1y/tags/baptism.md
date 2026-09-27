@@ -10,6 +10,6 @@ template_engine: erb
 - [John the Baptist's Ministry](<%= relative_url "/ntc1y/section-01/week-02/day-3/" %>)
 - [John's Preaching & Jesus' Baptism](<%= relative_url "/ntc1y/section-01/week-02/day-4/" %>)
 - [Matthew's Baptism Account](<%= relative_url "/ntc1y/section-01/week-02/day-5/" %>)
-- [Husbands and Wives — Suffering for Doing Good](<%= relative_url "/ntc1y/section-06/week-48/day-4/" %>)
+- [Wives and Husbands, Suffering for Doing Good — Christ Preached to the Spirits](<%= relative_url "/ntc1y/section-06/week-48/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **defense-of-hope** tag:
 
-- [Husbands and Wives — Suffering for Doing Good](<%= relative_url "/ntc1y/section-06/week-48/day-4/" %>)
+- [Wives and Husbands, Suffering for Doing Good — Christ Preached to the Spirits](<%= relative_url "/ntc1y/section-06/week-48/day-4/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)

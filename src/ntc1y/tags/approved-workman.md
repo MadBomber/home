@@ -7,6 +7,6 @@ template_engine: erb
 
 One page carries the **approved-workman** tag:
 
-- [Soldier, Athlete, Farmer](<%= relative_url "/ntc1y/section-06/week-45/day-1/" %>)
+- [Soldier, Athlete, Farmer — Rightly Handling the Word, Fleeing Youthful Passions](<%= relative_url "/ntc1y/section-06/week-45/day-1/" %>)
 
 [All topics](<%= relative_url "/ntc1y/tags/" %>)
