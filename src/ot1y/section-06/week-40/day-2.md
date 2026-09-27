@@ -2,8 +2,8 @@
 week: 40
 day: 2
 title: "Elisha's Miracles of Multiplication"
-reading: "2 Kings 3:1-4:44"
-parallel_passages: John 2:1-11, Mark 5:35-43, John 6:1-14, Luke 7:11-17
+reading:
+- 2 Kings 3:1-4:44
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -19,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 2 Kings 3:1--4:44
+- 2 Kings 3:1-4:44
 
 ## Historical Context
 
@@ -27,7 +27,7 @@ The political landscape of 2 Kings 3 finds Israel, Judah, and Edom allied agains
 
 The allied armies march through the wilderness of Edom and find themselves without water. Jehoshaphat, the God-fearing king of Judah, asks, "Is there no prophet of the LORD here, through whom we may inquire of the LORD?" (2 Kings 3:11). Elisha is summoned. His response to Jehoram, king of Israel, is blistering: "What have I to do with you? Go to the prophets of your father and the prophets of your mother" (3:13). Only Jehoshaphat's presence softens the prophet. Elisha calls for a musician -- the Hebrew *menaggen*, a harp player -- and "the hand of the LORD came upon him" (3:15). The connection between music and prophetic inspiration appears elsewhere in Israel's tradition (1 Samuel 10:5-6; 1 Chronicles 25:1) and reflects a broader ancient Near Eastern understanding that sacred music could prepare the human spirit for divine communication.
 
-The miracle cycle of 2 Kings 4 is the theological heart of this reading. Elisha purifies poisoned water at Jericho with salt -- the element of covenant preservation (Leviticus 2:13; Numbers 18:19). He multiplies a widow's oil until every borrowed vessel overflows, providing enough to pay her debts and sustain her family. The Hebrew *tseqeth* for the small jar of oil emphasizes the insignificance of what the widow possesses -- almost nothing, barely worth mentioning. Yet this pittance becomes the medium of divine abundance. The miracle operates on a principle that recurs throughout Scripture: God does not bypass what we have. He multiplies it. The widow's oil does not appear from nothing; it flows from what she already holds in her hand.
+The miracle cycle of 2 Kings 4 is the theological heart of this reading. At Gilgal, during a famine, one of the sons of the prophets gathers wild gourds and cuts them up into the pot of stew, and the men cry out, "O man of God, there is death in the pot!" (4:40). Elisha throws flour into the pot, and "there was no harm in the pot" (4:41) -- an ordinary kitchen staple becomes the means of healing. He multiplies a widow's oil until every borrowed vessel overflows, providing enough to pay her debts and sustain her family. The Hebrew *tseqeth* for the small jar of oil emphasizes the insignificance of what the widow possesses -- almost nothing, barely worth mentioning. Yet this pittance becomes the medium of divine abundance. The miracle operates on a principle that recurs throughout Scripture: God does not bypass what we have. He multiplies it. The widow's oil does not appear from nothing; it flows from what she already holds in her hand.
 
 The Shunammite woman -- wealthy, prominent, unnamed -- provides Elisha with a room, a bed, a table, a chair, and a lampstand. The Hebrew *'ishah gedolah* ("great woman") signals her social status but not her deepest need: she is barren. Elisha promises her a son. When the boy grows and dies suddenly in the fields -- the Hebrew suggests sunstroke, with the child crying "my head, my head!" (*ro'shi, ro'shi*) -- the woman's response reveals extraordinary faith. She tells her husband "shalom" (all is well), saddles a donkey, and rides to Elisha at Mount Carmel. Her urgency is matched by her composure. She grasps the prophet's feet and will not let go. Elisha sends his servant Gehazi ahead with the prophet's staff, but the staff produces no response. Only when Elisha himself arrives, enters the room, and stretches his body over the child -- "mouth on his mouth, eyes on his eyes, hands on his hands" (4:34) -- does the boy's flesh grow warm and life return. The agent of resurrection is not a tool or a technique. It is bodily presence.
 
@@ -55,11 +55,7 @@ The widow's oil recalls Elijah's miracle for the widow of Zarephath, where the j
 
 **New Testament Echoes**
 
-John 2:1-11 -- water into wine at Cana, abundance from insufficiency. Mark 5:35-43 and Luke 7:11-17 -- Jesus raising the dead through touch and command. John 6:1-14 -- the feeding of the five thousand, with explicit echoes of the Elisha feeding. John 6:35 -- "I am the bread of life." 1 Corinthians 15:20 -- Christ as the firstfruits of resurrection. Philippians 2:6-8 -- the incarnation as God pressing himself into the condition of human death, the ultimate expression of Elisha's bodily contact with the dead boy.
-
-**Parallel Passages**
-
-Compare the Shunammite's faith-driven response to her son's death (2 Kings 4:23-26) with Mary and Martha's responses to Lazarus's death (John 11:20-32) -- both women go to the one they trust, both refuse to accept death as the final word. Compare Elisha's feeding (2 Kings 4:42-44) with Jesus' feeding (John 6:5-13) side by side: the protest of insufficiency, the prophetic command, the surplus remaining.
+John 2:1-11 -- water into wine at Cana, abundance from insufficiency. Mark 5:35-43 and Luke 7:11-17 -- Jesus raising the dead through touch and command. John 6:1-14 -- the feeding of the five thousand, with explicit echoes of the Elisha feeding. John 6:35 -- "I am the bread of life." 1 Corinthians 15:20 -- Christ as the firstfruits of resurrection. Philippians 2:6-8 -- the incarnation as God pressing himself into the condition of human death, the ultimate expression of Elisha's bodily contact with the dead boy. John 11:20-32 -- Mary and Martha respond to Lazarus's death as the Shunammite responds to her son's (2 Kings 4:23-26): both women go to the one they trust, both refuse to accept death as the final word.
 
 ## Reflection Questions
 

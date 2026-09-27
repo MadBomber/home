@@ -2,8 +2,10 @@
 week: 52
 day: 5
 title: "Songs of the City of God -- Refuge, Praise, and the Wells of Salvation"
-reading: "Psalm 46; Psalm 48; Isaiah 12:1-6"
-parallel_passages: Revelation 22:1-5, Revelation 22:17-21, John 7:37-38, Hebrews 12:22-24, Revelation 5:9-14, 2 Corinthians 1:20
+reading:
+- Psalm 46
+- Psalm 48
+- Isaiah 12:1-6
 section: Consummation
 tags:
 - covenant-8
@@ -18,7 +20,9 @@ study_slug: ot1y
 
 ## Reading
 
-- Psalm 46; Psalm 48; Isaiah 12:1-6
+- Psalm 46
+- Psalm 48
+- Isaiah 12:1-6
 
 ## Historical Context
 
@@ -28,7 +32,7 @@ Psalm 46 is a *Korahite* psalm, attributed to the Sons of Korah -- Levitical mus
 
 Psalm 48 is a *Zion song* -- one of the psalms that celebrate Jerusalem as the dwelling place of God. It opens with a declaration of God's greatness located in a specific geography: "Great is the LORD and greatly to be praised in the city of our God! His holy mountain, beautiful in elevation, is the joy of all the earth, Mount Zion, in the far north, the city of the great King" (48:1-2). The phrase *yarkete tsafon* -- "the far north" or "the heights of Zaphon" -- is loaded with ancient Near Eastern resonance. Zaphon was the mountain of the gods in Canaanite mythology, the seat of Baal's authority. The psalmist is making a polemical claim: the true divine mountain is not Zaphon. It is Zion. The true great king is not Baal. It is Yahweh. The psalm invites the worshipper to walk around the city, count its towers, consider its ramparts, examine its citadels -- not for military reasons but for theological ones: "that you may tell the next generation that this is God, our God forever and ever. He will guide us forever" (48:13-14). The city's defenses are not its walls but its God.
 
-Isaiah 12 is a brief hymn of thanksgiving positioned as the conclusion to the "Book of Immanuel" (chapters 7--12), the section of Isaiah that begins with the promise of a child named "God With Us" and moves through the prophecy of the shoot from Jesse's stump (chapter 11) to this final burst of praise. The hymn contains two movements: a personal thanksgiving ("I will give thanks to you, O LORD, for though you were angry with me, your anger turned away, that you might comfort me" -- 12:1) and a communal call to worship ("Give thanks to the LORD, call upon his name, make known his deeds among the peoples, proclaim that his name is exalted" -- 12:4). At the center stands the image that gathers the study's final themes: "With joy you will draw water from the wells of salvation" (12:3). The Hebrew *ma'ayne hayeshu'ah* -- "the wells of salvation" -- uses *yeshu'ah*, the word from which the name Yeshua (Jesus) is derived. The wells of salvation are, at their deepest etymological and theological root, the wells of Jesus. The water drawn with joy is the same water that flows from Ezekiel's temple, the same water Jesus offered the Samaritan woman, the same water that Revelation 22 shows flowing from the throne of God and of the Lamb.
+Isaiah 12 is a brief hymn of thanksgiving positioned as the conclusion to the "Book of Immanuel" (chapters 7-12), the section of Isaiah that begins with the promise of a child named "God With Us" and moves through the prophecy of the shoot from Jesse's stump (chapter 11) to this final burst of praise. The hymn contains two movements: a personal thanksgiving ("I will give thanks to you, O LORD, for though you were angry with me, your anger turned away, that you might comfort me" -- 12:1) and a communal call to worship ("Give thanks to the LORD, call upon his name, make known his deeds among the peoples, proclaim that his name is exalted" -- 12:4). At the center stands the image that gathers the study's final themes: "With joy you will draw water from the wells of salvation" (12:3). The Hebrew *ma'ayne hayeshu'ah* -- "the wells of salvation" -- uses *yeshu'ah*, the word from which the name Yeshua (Jesus) is derived. The wells of salvation are, at their deepest etymological and theological root, the wells of Jesus. The water drawn with joy is the same water that flows from Ezekiel's temple, the same water Jesus offered the Samaritan woman, the same water that Revelation 22 shows flowing from the throne of God and of the Lamb.
 
 ## Christ in This Day
 
@@ -54,15 +58,11 @@ Every covenant we have studied across fifty-two weeks -- the creation covenant, 
 
 **Old Testament Roots**
 
-Psalm 46:4 connects to Ezekiel 47's temple-river and to the river of Eden (Genesis 2:10). The "city of God" language in both Psalms 46 and 48 echoes Ezekiel 48:35 -- *Yahweh Shammah*. Isaiah 12's "wells of salvation" recall the water from the rock at Meribah (Exodus 17:6; Numbers 20:11), where God provided water in the wilderness -- a type of Christ, as Paul explicitly states: "they drank from the spiritual Rock that followed them, and the Rock was Christ" (1 Corinthians 10:4). The Songs of Ascent (Psalms 120--134), sung by pilgrims approaching Jerusalem, are the liturgical precursors to the worship these psalms describe.
+Psalm 46:4 connects to Ezekiel 47's temple-river and to the river of Eden (Genesis 2:10). The "city of God" language in both Psalms 46 and 48 echoes Ezekiel 48:35 -- *Yahweh Shammah*. Isaiah 12's "wells of salvation" recall the water from the rock at Meribah (Exodus 17:6; Numbers 20:11), where God provided water in the wilderness -- a type of Christ, as Paul explicitly states: "they drank from the spiritual Rock that followed them, and the Rock was Christ" (1 Corinthians 10:4). The Songs of Ascent (Psalms 120-134), sung by pilgrims approaching Jerusalem, are the liturgical precursors to the worship these psalms describe. Psalm 87 celebrates the nations enrolled as citizens of Zion. Psalm 122 sings of the joy of going up to Jerusalem: "Our feet have been standing within your gates, O Jerusalem!" Isaiah 35:10 promises that "the ransomed of the LORD shall return and come to Zion with singing."
 
 **New Testament Echoes**
 
-Hebrews 12:22-24 identifies the "city of the living God" as the destination of all who come to Christ. Revelation 22:1-5 shows the river of life flowing through the city, fulfilling Psalm 46:4 and Ezekiel 47. Revelation 22:17 -- "Let the one who is thirsty come; let the one who desires take the water of life without price" -- is the invitation that answers Isaiah 12:3. John 7:37-38 places Jesus as the source of the living water. Matthew 11:28 makes Christ the refuge Psalm 46 celebrates.
-
-**Parallel Passages**
-
-Psalm 87 celebrates the nations enrolled as citizens of Zion. Psalm 122 sings of the joy of going up to Jerusalem -- "our feet have been standing within your gates, O Jerusalem!" Isaiah 35:10 promises that "the ransomed of the LORD shall return and come to Zion with singing." Revelation 21:1-4 provides the fullest description of the city these psalms anticipate -- the place where God dwells with his people, wipes their tears, and makes all things new.
+Hebrews 12:22-24 identifies the "city of the living God" as the destination of all who come to Christ. Revelation 22:1-5 shows the river of life flowing through the city, fulfilling Psalm 46:4 and Ezekiel 47. Revelation 22:17 -- "Let the one who is thirsty come; let the one who desires take the water of life without price" -- is the invitation that answers Isaiah 12:3. John 7:37-38 places Jesus as the source of the living water. Matthew 11:28 makes Christ the refuge Psalm 46 celebrates. Revelation 21:1-4 provides the fullest description of the city these psalms anticipate -- the place where God dwells with his people, wipes their tears, and makes all things new.
 
 ## Reflection Questions
 

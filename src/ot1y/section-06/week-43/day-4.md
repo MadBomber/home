@@ -2,8 +2,9 @@
 week: 43
 day: 4
 title: "Glory in Exile -- The Throne-Chariot, the Prophet's Call, and the Good Shepherd"
-reading: "Ezekiel 1:1-3:27; 34:1-31"
-parallel_passages: John 10:11-16, Revelation 4:6-8, Matthew 9:36, Luke 15:3-7
+reading:
+- Ezekiel 1:1-3:27
+- Ezekiel 34:1-31
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -16,7 +17,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Ezekiel 1:1-3:27; 34:1-31
+- Ezekiel 1:1-3:27
+- Ezekiel 34:1-31
 
 ## Historical Context
 
@@ -50,15 +52,11 @@ Ezekiel's vision of the *kavod* -- the glory of God appearing in Babylon, outsid
 
 **Old Testament Roots**
 
-Ezekiel's throne vision draws on the imagery of the tabernacle and temple -- the cherubim above the ark (Exodus 25:18-22), the glory cloud that filled the tabernacle (Exodus 40:34-35), and the glory that descended at the temple dedication (1 Kings 8:10-11). The shepherd metaphor extends a long biblical tradition: God as shepherd in Psalm 23 ("The LORD is my shepherd"), Jacob's blessing of Joseph invoking "the Shepherd, the Stone of Israel" (Genesis 49:24), and David's own journey from shepherd of sheep to shepherd of Israel (2 Samuel 5:2). The indictment of false shepherds echoes Jeremiah 23:1-4, where God likewise condemns rulers who scatter rather than gather the flock.
+Ezekiel's throne vision draws on the imagery of the tabernacle and temple -- the cherubim above the ark (Exodus 25:18-22), the glory cloud that filled the tabernacle (Exodus 40:34-35), and the glory that descended at the temple dedication (1 Kings 8:10-11). The shepherd metaphor extends a long biblical tradition: God as shepherd in Psalm 23 ("The LORD is my shepherd"), Jacob's blessing of Joseph invoking "the Shepherd, the Stone of Israel" (Genesis 49:24), and David's own journey from shepherd of sheep to shepherd of Israel (2 Samuel 5:2). The indictment of false shepherds echoes Jeremiah 23:1-4, where God likewise condemns rulers who scatter rather than gather the flock. Zechariah 11:4-17 extends the contrast between true and false leadership in its allegory of the two shepherds, one faithful and one worthless, and Micah 5:2-4 promises a ruler from Bethlehem who will "shepherd his flock in the strength of the LORD."
 
 **New Testament Echoes**
 
 John 10:11-16 -- Jesus claims to be the good shepherd who lays down his life for the sheep. Luke 15:3-7 -- the parable of the lost sheep enacts Ezekiel 34:16. Matthew 9:36 -- Jesus sees the crowds and has compassion, "because they were harassed and helpless, like sheep without a shepherd," echoing Ezekiel 34:5. 1 Peter 5:4 -- Christ is "the chief Shepherd" who will appear in glory. Revelation 4:6-8 -- the four living creatures around the throne echo Ezekiel's *chayyot*, and the rainbow encircling the throne recalls Ezekiel 1:28.
-
-**Parallel Passages**
-
-Psalm 23 -- "The LORD is my shepherd; I shall not want." Jeremiah 23:1-6 -- God's indictment of shepherds who destroy and scatter, followed by the promise of a righteous Branch from David's line. Zechariah 11:4-17 -- the allegory of the two shepherds, one faithful and one worthless, anticipating the contrast between true and false leadership. Micah 5:2-4 -- the ruler from Bethlehem who will "shepherd his flock in the strength of the LORD."
 
 ## Reflection Questions
 

@@ -2,8 +2,10 @@
 week: 30
 day: 1
 title: "The Pattern Begins -- Incomplete Obedience and the First Judges"
-reading: "Judges 1:1-3:31"
-parallel_passages: Hebrews 3:12-19, Romans 6:1-14, 1 Corinthians 10:1-13, Joshua 23:12-13
+reading:
+- Judges 1:1-3:31
+parallel_passages:
+- Psalm 106:34-46
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -19,7 +21,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Judges 1:1--3:31
+- Judges 1:1-3:31
 
 ## Historical Context
 
@@ -51,7 +53,7 @@ The incomplete obedience of Judges 1 also prefigures the spiritual warfare that 
 
 **Old Testament Roots**
 
-The incomplete conquest of Judges 1 is the direct consequence of the warnings issued in Joshua 23:12-13 and Deuteronomy 7:1-5. Joshua had warned: "If you turn back and cling to the remnant of these nations... know for certain that the LORD your God will no longer drive out these nations before you." The angel at Bochim confirms that the warning has come to pass. The cycle of Judges 2 echoes the pattern established in the wilderness: rebellion, judgment, intercession, mercy, and renewed rebellion (Numbers 14; Exodus 32). The Spirit's empowerment of Othniel (Judges 3:10) echoes the Spirit's empowerment of Moses' seventy elders (Numbers 11:25) and anticipates the Spirit's role throughout Judges.
+The incomplete conquest of Judges 1 is the direct consequence of the warnings issued in Joshua 23:12-13 and Deuteronomy 7:1-5. Joshua had warned: "If you turn back and cling to the remnant of these nations... know for certain that the LORD your God will no longer drive out these nations before you." The angel at Bochim confirms that the warning has come to pass. The cycle of Judges 2 echoes the pattern established in the wilderness: rebellion, judgment, intercession, mercy, and renewed rebellion (Numbers 14; Exodus 32). The Spirit's empowerment of Othniel (Judges 3:10) echoes the Spirit's empowerment of Moses' seventy elders (Numbers 11:25) and anticipates the Spirit's role throughout Judges. Compare the angel at Bochim (Judges 2:1-5) with the angel who appears to Joshua at Jericho (Joshua 5:13-15) and the angel who appears to Gideon (Judges 6:11-24).
 
 **New Testament Echoes**
 
@@ -59,7 +61,7 @@ Romans 6:1-14 -- Paul's insistence that believers must not continue in sin so th
 
 **Parallel Passages**
 
-Compare the angel at Bochim (Judges 2:1-5) with the angel who appears to Joshua at Jericho (Joshua 5:13-15) and the angel who appears to Gideon (Judges 6:11-24). Compare the cycle of Judges 2:11-19 with Psalm 106:34-46, which retells the same pattern in liturgical form: "Many times he delivered them, but they were rebellious in their purposes and were brought low through their iniquity. Nevertheless, he looked upon their distress, when he heard their cry."
+Compare the cycle of Judges 2:11-19 with Psalm 106:34-46, which retells the same pattern in liturgical form: "Many times he delivered them, but they were rebellious in their purposes and were brought low through their iniquity. Nevertheless, he looked upon their distress, when he heard their cry."
 
 ## Reflection Questions
 

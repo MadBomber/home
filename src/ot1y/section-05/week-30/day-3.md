@@ -2,8 +2,8 @@
 week: 30
 day: 3
 title: "Gideon's Three Hundred, Jephthah's Vow -- Victory and Tragedy"
-reading: "Judges 7:1-12:15"
-parallel_passages: 2 Corinthians 4:7, Hebrews 11:32-34, Romans 8:31-32, James 1:19-20
+reading:
+- Judges 7:1-12:15
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -19,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Judges 7:1--12:15
+- Judges 7:1-12:15
 
 ## Historical Context
 
@@ -53,15 +53,11 @@ Gideon's golden ephod -- fashioned from the spoils of victory, becoming the very
 
 **Old Testament Roots**
 
-Gideon's reduction of the army echoes God's pattern throughout Scripture of working with the few rather than the many: Abraham's 318 servants against four kings (Genesis 14), the small remnant theology of Isaiah (Isaiah 10:20-22), Elijah's lone stand against 450 prophets of Baal (1 Kings 18). The ephod Gideon fashions recalls Aaron's golden calf (Exodus 32) -- both are made from gold collected after a divine victory, both become objects of false worship. Jephthah's vow stands in tension with the Mosaic prohibition against human sacrifice (Leviticus 18:21; Deuteronomy 12:31) and with the provision for redeeming vows (Leviticus 27:1-8). The Shibboleth episode foreshadows the civil conflicts of 2 Samuel and 1 Kings.
+Gideon's reduction of the army echoes God's pattern throughout Scripture of working with the few rather than the many: Abraham's 318 servants against four kings (Genesis 14), the small remnant theology of Isaiah (Isaiah 10:20-22), Elijah's lone stand against 450 prophets of Baal (1 Kings 18). The ephod Gideon fashions recalls Aaron's golden calf (Exodus 32) -- both are made from gold collected after a divine victory, both become objects of false worship. Jephthah's vow stands in tension with the Mosaic prohibition against human sacrifice (Leviticus 18:21; Deuteronomy 12:31) and with the provision for redeeming vows (Leviticus 27:1-8). The Shibboleth episode foreshadows the civil conflicts of 2 Samuel and 1 Kings. Compare Gideon's golden ephod (Judges 8:27) with Aaron's golden calf (Exodus 32:1-6) and Jeroboam's golden calves (1 Kings 12:28-30) -- three episodes of post-deliverance idolatry. Compare Jephthah's vow (Judges 11:30-31) with Hannah's vow (1 Samuel 1:11) -- both involve dedicating a child to God, but Hannah's vow leads to Samuel's prophetic ministry while Jephthah's leads to tragedy. Compare Abimelech's seizure of power through fratricide (Judges 9) with Absalom's rebellion (2 Samuel 15-18).
 
 **New Testament Echoes**
 
 2 Corinthians 4:7 -- "treasure in jars of clay" draws directly on the imagery of Gideon's torches in clay jars. Hebrews 11:32 lists both Gideon and Jephthah among the heroes of faith -- a remarkable inclusion that demonstrates grace extended even to the deeply flawed. Romans 8:32 -- "He who did not spare his own Son but gave him up for us all" provides the divine counterpoint to Jephthah's tragic sacrifice. James 1:19 -- "let every person be quick to hear, slow to speak" is the wisdom Jephthah lacked.
-
-**Parallel Passages**
-
-Compare Gideon's golden ephod (Judges 8:27) with Aaron's golden calf (Exodus 32:1-6) and Jeroboam's golden calves (1 Kings 12:28-30) -- three episodes of post-deliverance idolatry. Compare Jephthah's vow (Judges 11:30-31) with Hannah's vow (1 Samuel 1:11) -- both involve dedicating a child to God, but Hannah's vow leads to Samuel's prophetic ministry while Jephthah's leads to tragedy. Compare Abimelech's seizure of power through fratricide (Judges 9) with Absalom's rebellion (2 Samuel 15-18).
 
 ## Reflection Questions
 

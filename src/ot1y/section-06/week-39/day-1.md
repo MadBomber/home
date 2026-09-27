@@ -2,8 +2,10 @@
 week: 39
 day: 1
 title: "The Kingdom Splits -- Rehoboam's Folly and Jeroboam's Calves"
-reading: "1 Kings 12:1-33"
-parallel_passages: 2 Chronicles 10:1-11:4, Exodus 32:1-6, Mark 10:42-45, Matthew 20:25-28
+reading:
+- 1 Kings 12:1-33
+parallel_passages:
+- 2 Chronicles 10:1-11:4
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,7 +50,7 @@ Jeroboam's golden calves are the anti-type of everything Christ embodies. Where 
 
 **Old Testament Roots**
 
-The forced labor (*mas*) that provokes the northern tribes echoes Exodus 1:11, where the same word describes Israel's slavery in Egypt. Solomon's kingdom, meant to be the fulfillment of God's promises, has become a new Egypt. Jeroboam's golden calves echo Exodus 32:4 verbatim, and his appointment of non-Levitical priests violates the Levitical regulations of Numbers 3:10. The gathering at Shechem connects to Joshua 24, where Israel last renewed its covenant and chose to serve the LORD -- the same choice they now betray.
+The forced labor (*mas*) that provokes the northern tribes echoes Exodus 1:11, where the same word describes Israel's slavery in Egypt. Solomon's kingdom, meant to be the fulfillment of God's promises, has become a new Egypt. Jeroboam's golden calves echo Exodus 32:4 verbatim, and his appointment of non-Levitical priests violates the Levitical regulations of Numbers 3:10. The gathering at Shechem connects to Joshua 24, where Israel last renewed its covenant and chose to serve the LORD -- the same choice they now betray. Deuteronomy 17:14-20 prescribes the ideal king -- one who writes the law, does not amass horses or wives, and keeps his heart from being "lifted up above his brothers" (Deuteronomy 17:20). Rehoboam violates every requirement.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Jesus' teaching on servant leadership (Mark 10:42-45, John 13:1-17) fulfills wha
 
 **Parallel Passages**
 
-2 Chronicles 10:1-11:4 provides the parallel account, adding that Rehoboam assembled 180,000 warriors to fight Jeroboam before the prophet Shemaiah stopped him. Compare Deuteronomy 17:14-20, which prescribes the ideal king -- one who writes the law, does not amass horses or wives, and does not "lift up his heart above his brothers." Rehoboam violates every requirement.
+2 Chronicles 10:1-11:4 provides the parallel account, following Kings closely through Rehoboam's harsh answer, the northern revolt, and his muster of 180,000 warriors to fight against Israel before the prophet Shemaiah stopped him.
 
 ## Reflection Questions
 

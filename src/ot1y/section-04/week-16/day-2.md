@@ -2,8 +2,8 @@
 week: 16
 day: 2
 title: "Judah's Transformation"
-reading: "Genesis 43:1-44:34"
-parallel_passages: Philippians 2:5-8, John 15:13, Romans 5:6-8, Hebrews 7:22
+reading:
+- Genesis 43:1-44:34
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -27,7 +27,7 @@ The meal Joseph hosts for his brothers upon their return is laden with cultural 
 
 The silver cup planted in Benjamin's sack -- Joseph's *gevi'a* -- was not merely a drinking vessel but a divination cup, used in the practice of lecanomancy (divining by observing the movement of liquids or objects in liquid). Joseph's steward claims, "Is it not from this that my lord drinks, and by this that he practices divination?" (44:5). Whether Joseph actually practiced this Egyptian art or merely used it as cover for his prophetic gift from God is debated, but the claim serves to elevate the cup's significance: this is not a theft of silverware but a sacrilege against the governor's most sacred instrument. The trap is maximally loaded. Benjamin appears guilty of a capital offense.
 
-Judah's speech in 44:18-34 is recognized by scholars as one of the finest pieces of rhetoric in the Hebrew Bible. It is seventeen verses of sustained argument, moving from deference to description to emotional appeal. Judah recounts the family's story from Joseph's own perspective -- he tells the Egyptian governor what the governor already knows, but from the vantage point of a father's grief. The climactic line -- "For how can I go back to my father if the boy is not with me? I fear to see the evil (*ra'ah*) that would find my father" (44:34) -- uses the same word *ra'ah* that described the "evil report" the brothers brought to Jacob about Joseph's death in Genesis 37:33. Judah is circling back to the scene of the crime, and this time choosing differently.
+Judah's speech in 44:18-34 is recognized by scholars as one of the finest pieces of rhetoric in the Hebrew Bible. It is seventeen verses of sustained argument, moving from deference to description to emotional appeal. Judah recounts the family's story from Joseph's own perspective -- he tells the Egyptian governor what the governor already knows, but from the vantage point of a father's grief. The climactic line -- "For how can I go back to my father if the boy is not with me? I fear to see the evil (*ra'*) that would find my father" (44:34) -- draws on a word that runs all through Genesis 37. Joseph brought his father a "bad report" (*dibbatam ra'ah*) about his brothers (37:2). The brothers planned to say that "a fierce animal (*chayyah ra'ah*) has devoured him" (37:20), and Jacob, holding the bloodied robe, said exactly that (37:33). The phrase their deception put in their father's mouth has become, in Judah's speech, a word for the grief Judah will not let his father suffer again. Judah is circling back to the scene of the crime, and this time choosing differently.
 
 ## Christ in This Day
 
@@ -47,15 +47,11 @@ The entire test Joseph constructs -- the favored brother receiving five times th
 
 **Old Testament Roots**
 
-Judah's self-offering echoes and reverses his earlier actions. In Genesis 37:26-27, Judah asked, "What profit is it if we kill our brother?" -- the Hebrew *betsa* ("profit, gain") revealing a transactional mind. In Genesis 44:33, he offers to become a slave -- *eved*, the same word used for Joseph's status after his brothers sold him. The circle closes. The man who profited from his brother's slavery now offers himself for slavery. Isaiah 53:6 -- "the LORD has laid on him the iniquity of us all" -- captures in prophetic poetry what Judah enacts in narrative prose.
+Judah's self-offering echoes and reverses his earlier actions. In Genesis 37:26-27, Judah asked, "What profit is it if we kill our brother?" -- the Hebrew *betsa* ("profit, gain") revealing a transactional mind. In Genesis 44:33, he offers to become a slave -- *eved*, the same word used for Joseph's status after his brothers sold him. The circle closes. The man who profited from his brother's slavery now offers himself for slavery. Isaiah 53:6 -- "the LORD has laid on him the iniquity of us all" -- captures in prophetic poetry what Judah enacts in narrative prose. Ruth 4:1-12 records the legal transaction of redemption by a kinsman -- Boaz, from the tribe of Judah, who pledges himself to redeem what was lost. The pattern of the kinsman-redeemer, the *go'el*, begins here with Judah's pledge and will reach its fulfillment in Christ, the ultimate kinsman-redeemer who binds himself to redeem his people.
 
 **New Testament Echoes**
 
 Philippians 2:5-8 describes Christ's self-emptying in language that mirrors Judah's descent: from status and power to the form of a servant, obedient to the point of death. Romans 5:6-8 declares, "While we were still weak... Christ died for the ungodly... God shows his love for us in that while we were still sinners, Christ died for us." Judah's substitution is offered not for the innocent but for the accused -- and it is offered by a man who is himself deeply guilty. The gospel's substitution follows the same trajectory: the guilty one becomes the substitute, because the truly innocent one -- Christ -- has first stood in his place.
-
-**Parallel Passages**
-
-Ruth 4:1-12 records the legal transaction of redemption by a kinsman -- Boaz, from the tribe of Judah, who pledges himself to redeem what was lost. The pattern of the kinsman-redeemer, the *go'el*, begins here with Judah's pledge and will reach its fulfillment in Christ, the ultimate kinsman-redeemer who binds himself to redeem his people.
 
 ## Reflection Questions
 

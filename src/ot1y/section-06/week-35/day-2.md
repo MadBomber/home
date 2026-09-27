@@ -2,8 +2,8 @@
 week: 35
 day: 2
 title: "Civil War and Patient Waiting"
-reading: "2 Samuel 2:8-4:12"
-parallel_passages: Romans 12:17-21, Philippians 2:9-11, Hebrews 10:36, James 5:7-8
+reading:
+- 2 Samuel 2:8-4:12
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,15 +48,11 @@ Paul captures this logic in Romans 12:17-21: "Repay no one evil for evil... Do n
 
 **Old Testament Roots**
 
-The civil war between David and Ishbosheth echoes the pattern of contested succession throughout Israel's history. The division foreshadows the greater split that will come under Rehoboam, when the kingdom fractures permanently into north and south (1 Kings 12). Abner's defection to David recalls Rahab's recognition that God had given the land to Israel (Joshua 2:9-11) -- in both cases, someone on the losing side reads the trajectory of divine purpose and acts accordingly. David's demand for Michal's return (2 Samuel 3:13) reaches back to his original bride-price of one hundred Philistine foreskins (1 Samuel 18:25-27), reasserting a claim that Saul had tried to sever.
+The civil war between David and Ishbosheth echoes the pattern of contested succession throughout Israel's history. The division foreshadows the greater split that will come under Rehoboam, when the kingdom fractures permanently into north and south (1 Kings 12). Abner's defection to David recalls Rahab's recognition that God had given the land to Israel (Joshua 2:9-11) -- in both cases, someone on the losing side reads the trajectory of divine purpose and acts accordingly. David's demand for Michal's return (2 Samuel 3:13) reaches back to his original bride-price of one hundred Philistine foreskins (1 Samuel 18:25-27), reasserting a claim that Saul had tried to sever. Psalm 37:7-9 -- "Be still before the LORD and wait patiently for him; fret not yourself over the one who prospers in his way" -- reads like the devotional soundtrack of David's years at Hebron. Proverbs 20:22 -- "Do not say, 'I will repay evil'; wait for the LORD, and he will deliver you" -- captures David's posture toward the house of Saul.
 
 **New Testament Echoes**
 
 James writes, "Be patient, therefore, brothers, until the coming of the Lord. See how the farmer waits for the precious fruit of the earth, being patient about it" (James 5:7). David at Hebron is the farmer waiting for the harvest. Philippians 2:9-11 presents Christ as the exalted king whose universal reign is certain but not yet fully manifest -- the same "already but not yet" dynamic that governs David's seven years of partial kingship. Romans 12:19 -- "Vengeance is mine, I will repay, says the Lord" -- is the theological principle David embodies when he refuses to profit from the murders of Abner and Ishbosheth.
-
-**Parallel Passages**
-
-1 Chronicles 11:1-3 provides a parallel account of the elders' eventual coming to David. Psalm 37:7-9 -- "Be still before the LORD and wait patiently for him; fret not yourself over the one who prospers in his way" -- reads like the devotional soundtrack of David's years at Hebron. Proverbs 20:22 -- "Do not say, 'I will repay evil'; wait for the LORD, and he will deliver you" -- captures David's posture toward the house of Saul.
 
 ## Reflection Questions
 

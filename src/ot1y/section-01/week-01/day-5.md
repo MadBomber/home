@@ -2,8 +2,11 @@
 week: 1
 day: 5
 title: "Israel Worships the Creator"
-reading: "Psalm 33:1-9; Psalm 104:1-9"
-parallel_passages: John 1:1-3, Colossians 1:16-17, Hebrews 1:3, Hebrews 11:3, Revelation 4:11
+reading:
+- Psalm 33:1-9
+- Psalm 104:1-9
+parallel_passages:
+- Genesis 1:1-3
 section: Creation Covenant
 tags:
 - covenant-1
@@ -19,7 +22,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Psalm 33:1-9; Psalm 104:1-9
+- Psalm 33:1-9
+- Psalm 104:1-9
 
 ## Historical Context
 
@@ -57,15 +61,15 @@ Hebrews 11:3 draws the theological line from Psalm 33 to Christian faith: "By fa
 
 **Old Testament Roots**
 
-Psalm 33 and Psalm 104 both draw directly on Genesis 1, reframing narrative as worship. Psalm 148 extends the call: "Praise him, sun and moon, praise him, all you shining stars!... For he commanded and they were created" (148:3, 5). Isaiah 40:25-26 echoes Psalm 33's awe: "Lift up your eyes on high and see: who created these? He who brings out their host by number, calling them all by name." Nehemiah 9:6 affirms: "You are the LORD, you alone. You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and you preserve all of them."
+Psalm 33 and Psalm 104 both draw directly on Genesis 1, reframing narrative as worship. Psalm 148 extends the call: "Praise him, sun and moon, praise him, all you shining stars!... For he commanded and they were created" (148:3, 5). Isaiah 40:25-26 echoes Psalm 33's awe: "Lift up your eyes on high and see: who created these? He who brings out their host by number, calling them all by name." Nehemiah 9:6 affirms: "You are the LORD, you alone. You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and you preserve all of them." In Job 38:4-11 God himself describes to Job the creative work Psalm 104:1-9 celebrates.
 
 **New Testament Echoes**
 
-John 1:1-3 identifies the Word of Psalm 33:6 as the pre-incarnate Christ. Colossians 1:16-17 confirms that all things were created through and for Christ, and that in him all things hold together -- the theological reality Psalm 104 celebrates in poetic form. Hebrews 1:3 describes the Son upholding "the universe by the word of his power." Hebrews 11:3 grounds faith in creation by the word. Revelation 4:11 brings the worship of the Psalms into the throne room of heaven.
+John 1:1-3 identifies the Word of Psalm 33:6 as the pre-incarnate Christ. Colossians 1:16-17 confirms that all things were created through and for Christ, and that in him all things hold together -- the theological reality Psalm 104 celebrates in poetic form. Hebrews 1:3 describes the Son upholding "the universe by the word of his power." Hebrews 11:3 grounds faith in creation by the word. Revelation 4:11 brings the worship of the Psalms into the throne room of heaven. Psalm 104:2 ("covering yourself with light as with a garment") finds a counterpart in 1 Timothy 6:16 ("who dwells in unapproachable light").
 
 **Parallel Passages**
 
-Compare Psalm 33:6-9 with Genesis 1:1-3 -- the same event told as narrative and as worship. Compare Psalm 104:1-9 with Job 38:4-11, where God himself describes his creative work to Job. Compare Psalm 104:2 ("covering yourself with light as with a garment") with 1 Timothy 6:16 ("who dwells in unapproachable light").
+Compare Psalm 33:6-9 with Genesis 1:1-3 -- the same event told as narrative and as worship.
 
 ## Reflection Questions
 

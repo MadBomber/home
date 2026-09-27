@@ -2,8 +2,8 @@
 week: 46
 day: 1
 title: "Vashti Deposed, Esther Crowned -- Positioned for a Crisis Not Yet Visible"
-reading: "Esther 1:1-2:23"
-parallel_passages: Hebrews 9:24, Romans 8:28, Proverbs 21:1, Genesis 50:20
+reading:
+- Esther 1:1-2:23
 section: New Covenant
 tags:
 - covenant-7
@@ -17,7 +17,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Esther 1:1--2:23
+- Esther 1:1-2:23
 
 ## Historical Context
 
@@ -41,7 +41,7 @@ Mordecai's uncovering of the assassination plot -- recorded, archived, and forgo
 
 ## Key Themes
 
-- **Providence without spectacle** -- God's name does not appear, yet his fingerprints are on every event. The king's insomnia, the queen's defiance, the orphan's selection -- all are instruments of a purpose no character can see. Providence is not a lesser form of divine action; it is the form most of life actually encounters.
+- **Providence without spectacle** -- God's name does not appear, yet his fingerprints are on every event. The king's drunken command, the queen's defiance, the orphan's selection, the plot overheard at the gate -- all are instruments of a purpose no character can see. Providence is not a lesser form of divine action; it is the form most of life actually encounters.
 
 - **Positioning before purpose** -- Esther is placed in the palace years before the crisis that will require her presence. The calling precedes the crisis. Faithfulness in obscurity -- even faithfulness in morally ambiguous circumstances -- becomes the raw material of deliverance.
 
@@ -51,15 +51,11 @@ Mordecai's uncovering of the assassination plot -- recorded, archived, and forgo
 
 **Old Testament Roots**
 
-Mordecai's genealogy links him to Kish of Benjamin (Esther 2:5), the same tribal line as King Saul (1 Samuel 9:1-2). The unfinished conflict between Saul and the Amalekites (1 Samuel 15) now enters a new chapter. Proverbs 21:1 provides the theological key the narrative never states aloud: "The king's heart is a stream of water in the hand of the LORD; he turns it wherever he will." The God who is never named in Esther is the God who governs the heart of Ahasuerus with the same sovereignty he exercised over Pharaoh.
+Mordecai's genealogy links him to Kish of Benjamin (Esther 2:5), the same tribal line as King Saul (1 Samuel 9:1-2). The unfinished conflict between Saul and the Amalekites (1 Samuel 15) now enters a new chapter. Proverbs 21:1 provides the theological key the narrative never states aloud: "The king's heart is a stream of water in the hand of the LORD; he turns it wherever he will." The God who is never named in Esther is the God who governs the heart of Ahasuerus with the same sovereignty he exercised over Pharaoh. Genesis 50:20 -- "you meant evil against me, but God meant it for good" -- is the theological thesis statement of the entire book of Esther. Daniel 2:21 affirms that God "removes kings and sets up kings," the same sovereignty at work in Vashti's removal and Esther's elevation. Psalm 139:16 -- "in your book were written, every one of them, the days that were formed for me" -- gives voice to the providence that arranges Esther's life before she understands its purpose.
 
 **New Testament Echoes**
 
 Esther's hidden placement in the palace anticipates Christ's hidden placement in the world -- the incarnation as divine positioning. Philippians 2:6-8 describes a king who takes the form of a servant and enters the seat of human experience with his identity veiled. Romans 8:28 provides the doctrinal framework for the "coincidences" of Esther 1-2: all things -- including morally ambiguous things -- work together for good under God's sovereign hand. Hebrews 9:24 will later reveal the ultimate purpose of such positioning: one placed inside the throne room to intercede for a condemned people.
-
-**Parallel Passages**
-
-Genesis 50:20 -- "You meant it for evil, but God meant it for good" -- is the theological thesis statement of the entire book of Esther. Daniel 2:21 affirms that God "removes kings and sets up kings," the same sovereignty at work in Vashti's removal and Esther's elevation. Psalm 139:16 -- "In your book were written, every one of them, the days that were formed for me" -- gives voice to the providence that arranges Esther's life before she understands its purpose.
 
 ## Reflection Questions
 

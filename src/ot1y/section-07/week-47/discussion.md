@@ -51,7 +51,7 @@ The Old Testament has never looked farther forward than it does this week. These
 
 7. **Word and Spirit.** The resurrection in Ezekiel 37 happens in two stages. First, the word is spoken and the bones come together with sinew and flesh -- but there is no breath. Then the Spirit (*ruach*) enters, and they live. The word alone produces structure; the Spirit produces life. How does this two-stage pattern illuminate the relationship between Scripture and the Holy Spirit in the life of the believer?
 
-### Day 4: The Servant of the LORD (Isaiah 42:1-9; 49:1-13)
+### Day 4: The Servant of the LORD (Isaiah 42:1-9; Isaiah 49:1-13)
 
 8. **The Servant Who Is the Covenant.** Isaiah does not say the servant delivers a covenant or mediates one. He says the servant is given "as a covenant to the people, a light for the nations" (Isaiah 49:8, 6). Person and promise become identical. What does it mean that the new covenant is not merely a set of terms to be accepted but a person to be received? How does this change the way you understand your relationship to the covenant?
 

@@ -2,8 +2,10 @@
 week: 9
 day: 2
 title: "Famine and Failure -- Abram in Egypt, Fear Displacing Faith"
-reading: "Genesis 12:10-20"
-parallel_passages: Genesis 20:1-18, Genesis 26:1-11, Psalm 105:12-15, Matthew 26:69-75, Romans 8:28, Exodus 12:35-36
+reading:
+- Genesis 12:10-20
+parallel_passages:
+- Psalm 105:12-15
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -52,7 +54,7 @@ The plagues God sends on Pharaoh's house to rescue Sarai are themselves a Christ
 
 **Old Testament Roots**
 
-Abram's journey to Egypt echoes the pattern of exile that began in Eden. Adam and Eve were driven east from the garden; now Abram is driven south from the promised land. The famine that forces his departure anticipates the greater famine that will bring Jacob's entire family to Egypt (Genesis 42-46), setting the stage for the Exodus. Psalm 105:12-15 reflects on this period: "When they were few in number, of little account, and sojourners in it... he allowed no one to oppress them; he rebuked kings on their account, saying, 'Touch not my anointed ones, do my prophets no harm!'" The psalmist reads God's protection of Abram in Egypt as a paradigm of divine faithfulness to the vulnerable.
+Abram's journey to Egypt echoes the pattern of exile that began in Eden. Adam and Eve were driven east from the garden; now Abram is driven south from the promised land. The famine that forces his departure anticipates the greater famine that will bring Jacob's entire family to Egypt (Genesis 42-46), setting the stage for the Exodus. Psalm 105:12-15 reflects on this period: "When they were few in number, of little account, and sojourners in it... he allowed no one to oppress them; he rebuked kings on their account, saying, 'Touch not my anointed ones, do my prophets no harm!'" The psalmist reads God's protection of Abram in Egypt as a paradigm of divine faithfulness to the vulnerable. Genesis 20:1-18 records Abraham repeating the same deception with Abimelech of Gerar, and Genesis 26:1-11 records Isaac telling the identical lie about Rebekah. The threefold repetition is not narrative carelessness. It is theological argument: the patriarchs cannot stop failing, and the promise cannot stop surviving. Exodus 12:35-36 describes Israel departing Egypt with Egyptian wealth, completing the pattern that Abram's departure initiates.
 
 **New Testament Echoes**
 
@@ -60,7 +62,7 @@ The wife-sister deception anticipates a pattern of patriarchal failure that the 
 
 **Parallel Passages**
 
-Genesis 20:1-18 records Abraham repeating the same deception with Abimelech of Gerar. Genesis 26:1-11 records Isaac telling the identical lie about Rebekah. The threefold repetition is not narrative carelessness. It is theological argument: the patriarchs cannot stop failing, and the promise cannot stop surviving. Exodus 12:35-36 describes Israel departing Egypt with Egyptian wealth, completing the pattern that Abram's departure initiates.
+Psalm 105:12-15 retells these years of wandering "from nation to nation, from one kingdom to another people" (Psalm 105:13), and Pharaoh, whose house the LORD afflicted with great plagues (12:17), is among the kings the psalm says he "rebuked" on the patriarchs' account (Psalm 105:14).
 
 ## Reflection Questions
 

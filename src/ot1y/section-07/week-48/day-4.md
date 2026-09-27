@@ -2,8 +2,8 @@
 week: 48
 day: 4
 title: "The Humble King on a Donkey, Thirty Pieces of Silver, the Pierced One, and the Fountain for Sin"
-reading: "Zechariah 9:1-14:21"
-parallel_passages: Matthew 21:1-11, Matthew 26:14-16, Matthew 27:3-10, John 19:34-37, Revelation 1:7
+reading:
+- Zechariah 9:1-14:21
 section: New Covenant
 tags:
 - covenant-7
@@ -18,7 +18,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Zechariah 9:1--14:21
+- Zechariah 9:1-14:21
 
 ## Historical Context
 
@@ -52,15 +52,11 @@ The book of Revelation draws the circle wider still. "Behold, he is coming with 
 
 **Old Testament Roots**
 
-The donkey of Zechariah 9:9 recalls Genesis 49:10-11, where Judah's royal descendant ties "his foal to the vine and his donkey's colt to the choice vine." The thirty pieces of silver connect to Exodus 21:32, the slave-compensation law. The "only child" and "firstborn" language of 12:10 echoes the binding of Isaac (Genesis 22) and the Passover (Exodus 12:29). The fountain of 13:1 connects to Ezekiel 47:1-12, where living water flows from the temple, and to Joel 3:18, where "a fountain shall come forth from the house of the LORD."
+The donkey of Zechariah 9:9 recalls Genesis 49:10-11, where Judah's royal descendant ties "his foal to the vine and his donkey's colt to the choice vine." The thirty pieces of silver connect to Exodus 21:32, the slave-compensation law. The "only child" and "firstborn" language of 12:10 echoes the binding of Isaac (Genesis 22) and the Passover (Exodus 12:29). The fountain of 13:1 connects to Ezekiel 47:1-12, where living water flows from the temple, and to Joel 3:18, where "a fountain shall come forth from the house of the LORD." Isaiah 53:3-5 parallels the pierced shepherd: "He was despised and rejected ... he was pierced for our transgressions." Psalm 22:16 describes the same wounds: "they have pierced my hands and feet." Ezekiel 34:11-16, where God declares he will shepherd his own flock because the human shepherds have failed, develops the same theme as Zechariah 11.
 
 **New Testament Echoes**
 
-Matthew 21:1-11 fulfills the donkey oracle. Matthew 26:14-16 and 27:3-10 fulfill the thirty-silver-pieces oracle. John 19:34-37 fulfills the piercing and the fountain. Revelation 1:7 extends the mourning of Zechariah 12:10 to all nations. Hebrews 9:13-14 interprets the fountain theologically: "How much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works."
-
-**Parallel Passages**
-
-Isaiah 53:3-5 parallels the pierced shepherd: "He was despised and rejected... he was pierced for our transgressions." Psalm 22:16 -- "They have pierced my hands and my feet." Ezekiel 34:11-16, where God declares he will shepherd his own flock because the human shepherds have failed -- the same theme Zechariah 11 develops. Revelation 21:6 and 22:1 complete the fountain imagery: "the water of life" flowing from the throne of God and of the Lamb.
+Matthew 21:1-11 fulfills the donkey oracle. Matthew 26:14-16 and 27:3-10 fulfill the thirty-silver-pieces oracle. John 19:34-37 fulfills the piercing and the fountain. Revelation 1:7 extends the mourning of Zechariah 12:10 to all nations. Hebrews 9:13-14 interprets the fountain theologically: "How much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works." Revelation 21:6 and 22:1 complete the fountain imagery: "the water of life" flowing from the throne of God and of the Lamb.
 
 ## Reflection Questions
 

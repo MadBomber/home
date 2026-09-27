@@ -29,13 +29,13 @@ This week we watched the world unmade and remade. God summoned Noah into the ark
 
 ## Discussion Questions
 
-### Day 1: Enter the Ark -- "The LORD Shut Him In" (Genesis 7:1-12)
+### Day 1: Enter the Ark -- "You and All Your Household" (Genesis 7:1-12)
 
 1. **Found Righteous.** God declares Noah "righteous before me in this generation" (Genesis 7:1). The Hebrew *tsaddiq* is a judicial verdict -- God finds righteousness, Noah does not claim it. What is the difference between claiming your own righteousness and being declared righteous by God? How does this distinction anticipate the New Testament doctrine of justification by faith?
 
 2. **The Door God Shuts.** "And the LORD shut him in" (Genesis 7:16). Noah does not seal the ark from the inside. God closes the door with his own hand. Those inside are secured by divine action; those outside are excluded by the same hand. What does this detail reveal about the nature of salvation -- who secures it, who controls access, and what it means to be "shut in" by God? Is this comforting, terrifying, or both?
 
-3. **Seven Days of Waiting.** After Noah enters the ark, seven days pass before the rain begins (Genesis 7:10). A week of silence. A week inside a sealed vessel with no evidence that the judgment is coming. What does this waiting period demand of Noah? Where in your life are you living in the gap between God's promise and its visible fulfillment?
+3. **Seven Days of Waiting.** God announces, "in seven days I will send rain on the earth" (Genesis 7:4), and seven days pass before the waters come (Genesis 7:10). A week of silence. A week with the ark finished and no evidence that the judgment is coming. What does this waiting period demand of Noah? Where in your life are you living in the gap between God's promise and its visible fulfillment?
 
 ### Day 2: The Waters Prevail -- De-creation and the End of the Old World (Genesis 7:13-24)
 

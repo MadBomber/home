@@ -2,8 +2,8 @@
 week: 6
 day: 4
 title: "Dry Ground, the First Altar, and God's Promise to Sustain the Earth"
-reading: "Genesis 8:13-22"
-parallel_passages: Ephesians 5:2, Hebrews 10:10-12, Romans 12:1, 2 Peter 3:9, Leviticus 1:9
+reading:
+- Genesis 8:13-22
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -52,15 +52,11 @@ God's promise in Genesis 8:21-22 -- forbearance in the face of an unchanged huma
 
 **Old Testament Roots**
 
-The *olah* of Genesis 8:20 is the prototype of the sacrificial system that will be codified at Sinai. Leviticus 1 provides the detailed regulations for the burnt offering, but the pattern begins here -- fire, blood, ascending smoke, a pleasing aroma to the Lord. Abel's offering in Genesis 4:4, which God "had regard for," appears to have been a similar type, though the text does not use the word *olah*. Noah's altar is the first explicit instance, and it connects the post-flood world to the pre-flood pattern of sacrifice while pointing forward to the temple worship that will define Israel's relationship with God for a thousand years. The promise of Genesis 8:22 -- seedtime and harvest, cold and heat -- will be invoked by Jeremiah as evidence of God's unshakable covenant faithfulness: "Thus says the LORD: If I have not established my covenant with day and night and the fixed order of heaven and earth, then I will reject the offspring of Jacob" (Jeremiah 33:25-26).
+The *olah* of Genesis 8:20 is the prototype of the sacrificial system that will be codified at Sinai. Leviticus 1 provides the detailed regulations for the burnt offering, but the pattern begins here -- fire, blood, ascending smoke, a pleasing aroma to the Lord. Abel's offering in Genesis 4:4, which God "had regard for," appears to have been a similar type, though the text does not use the word *olah*. Noah's altar is the first explicit instance, and it connects the post-flood world to the pre-flood pattern of sacrifice while pointing forward to the temple worship that will define Israel's relationship with God for a thousand years. The promise of Genesis 8:22 -- seedtime and harvest, cold and heat -- will be invoked by Jeremiah as evidence of God's unshakable covenant faithfulness: "Thus says the LORD: If I have not established my covenant with day and night and the fixed order of heaven and earth, then I will reject the offspring of Jacob" (Jeremiah 33:25-26). Psalm 50:7-15 reframes the sacrificial logic by declaring that God does not need animal offerings -- "every beast of the forest is mine, the cattle on a thousand hills" -- but desires the offering of thanksgiving and trust. The external sacrifice points to the internal reality: a heart wholly given, wholly surrendered, wholly ascending to God. Isaiah 1:11-17 will challenge Israel to look beyond the mechanics of sacrifice to the justice and mercy that sacrifice is meant to embody. The arc from Noah's altar to Isaiah's critique to Christ's cross is a single trajectory: from type to fulfillment, from animal to substitute to the Lamb of God who takes away the sin of the world.
 
 **New Testament Echoes**
 
 Ephesians 5:2 identifies Christ's death as the ultimate "fragrant offering and sacrifice to God," the fulfillment of every *olah* from Noah's altar onward. Hebrews 10:10-14 declares that Christ's single offering has accomplished what the entire sacrificial system could not -- the permanent sanctification of those who belong to him. Romans 12:1 transforms the *olah* into the shape of the Christian life: "Present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship." The total offering that began with a clean animal on Noah's altar now becomes the total offering of the believer's life in response to grace. And 2 Peter 3:9 anchors God's patience in his redemptive purpose: the forbearance pledged in Genesis 8:21 is the same forbearance that gives the world time to hear the gospel.
-
-**Parallel Passages**
-
-Psalm 50:7-15 reframes the sacrificial logic by declaring that God does not need animal offerings -- "every beast of the forest is mine, the cattle on a thousand hills" -- but desires the offering of thanksgiving and trust. The external sacrifice points to the internal reality: a heart wholly given, wholly surrendered, wholly ascending to God. Isaiah 1:11-17 will challenge Israel to look beyond the mechanics of sacrifice to the justice and mercy that sacrifice is meant to embody. The arc from Noah's altar to Isaiah's critique to Christ's cross is a single trajectory: from type to fulfillment, from animal to substitute to the Lamb of God who takes away the sin of the world.
 
 ## Reflection Questions
 

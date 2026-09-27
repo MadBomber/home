@@ -2,8 +2,8 @@
 week: 11
 day: 1
 title: "The Visitors at Mamre"
-reading: "Genesis 18:1-15"
-parallel_passages: Hebrews 13:2, Luke 1:37, Romans 4:18-21, John 1:14
+reading:
+- Genesis 18:1-15
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -48,15 +48,11 @@ Paul explicitly connects Sarah's situation to the logic of faith in Romans 4:18-
 
 **Old Testament Roots**
 
-The theophany at Mamre echoes earlier divine appearances to Abraham -- at Shechem (Genesis 12:7), after the separation from Lot (Genesis 13:14-17), and in the covenant ceremony of Genesis 15. But this appearance is unique in its intimacy: God does not merely speak or appear in a vision. He sits, eats, and converses. The verb *pala'* ("too wonderful") appears again in the Exodus narrative when God promises to perform wonders before Pharaoh (Exodus 3:20) and in Psalm 139:14 where the psalmist declares, "I am fearfully and wonderfully made." The God who declares nothing too wonderful at Mamre is the God whose works are themselves *pala'* -- beyond human comprehension.
+The theophany at Mamre echoes earlier divine appearances to Abraham -- at Shechem (Genesis 12:7), after the separation from Lot (Genesis 13:14-17), and in the covenant ceremony of Genesis 15. But this appearance is unique in its intimacy: God does not merely speak or appear in a vision. He sits, eats, and converses. The verb *pala'* ("too wonderful") appears again in the Exodus narrative when God promises to perform wonders before Pharaoh (Exodus 3:20) and in Psalm 139:14 where the psalmist declares, "I am fearfully and wonderfully made." The God who declares nothing too wonderful at Mamre is the God whose works are themselves *pala'* -- beyond human comprehension. The annunciation to Manoah's wife in Judges 13:2-5 follows the same pattern: a barren woman, a divine visitor, the promise of a son who will deliver Israel. Hannah's prayer in 1 Samuel 2:1-10 celebrates the God who reverses impossibility -- "The barren has borne seven." The pattern of divine visitation, impossible promise, and miraculous fulfillment runs from Mamre to Nazareth and beyond.
 
 **New Testament Echoes**
 
 Luke 1:37 directly echoes Genesis 18:14 when Gabriel tells Mary, "For nothing will be impossible with God." Hebrews 13:2 alludes to Abraham's hospitality as a model for the church. Romans 4:18-21 holds up Abraham and Sarah's faith as the paradigm of believing God against all evidence. John 1:14 -- "the Word became flesh and dwelt among us" -- is the fulfillment of the pattern begun at Mamre, where the eternal Word took human form and shared a meal with a man of dust.
-
-**Parallel Passages**
-
-The annunciation to Manoah's wife in Judges 13:2-5 follows the same pattern: a barren woman, a divine visitor, the promise of a son who will deliver Israel. Hannah's prayer in 1 Samuel 2:1-10 celebrates the God who reverses impossibility -- "The barren has borne seven." The pattern of divine visitation, impossible promise, and miraculous fulfillment runs from Mamre to Nazareth and beyond.
 
 ## Reflection Questions
 

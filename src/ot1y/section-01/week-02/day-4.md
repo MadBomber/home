@@ -2,8 +2,8 @@
 week: 2
 day: 4
 title: "Wisdom at Creation -- Rejoicing in His Inhabited World"
-reading: "Proverbs 8:22-31"
-parallel_passages: John 1:1-3, 1 Corinthians 1:24, 1 Corinthians 1:30, Colossians 1:15-17, Colossians 2:2-3, Hebrews 1:1-3
+reading:
+- Proverbs 8:22-31
 section: Creation Covenant
 tags:
 - covenant-1
@@ -64,15 +64,11 @@ The delight of Proverbs 8:30-31 -- Wisdom "daily his delight, rejoicing before h
 
 **Old Testament Roots**
 
-Proverbs 8 connects backward to Genesis 1-2 (the creation it describes) and forward to Job 28 (another poem asking "Where shall wisdom be found?"). Wisdom in Proverbs 1-9 functions as a counterpart to the "forbidden woman" of chapters 5 and 7 -- an invitation to choose life over death, the Creator's way over folly's path. Ecclesiastes 7:23-29 confesses the difficulty of finding wisdom; Proverbs 8 insists that Wisdom is not hidden but calling out in the public square. Psalm 104:24 echoes the theme: "O LORD, how manifold are your works! In wisdom have you made them all."
+Proverbs 8 connects backward to Genesis 1-2 (the creation it describes) and forward to Job 28 (another poem asking "Where shall wisdom be found?"). Wisdom in Proverbs 1-9 functions as a counterpart to the "forbidden woman" of chapters 5 and 7 -- an invitation to choose life over death, the Creator's way over folly's path. Ecclesiastes 7:23-29 confesses the difficulty of finding wisdom; Proverbs 8 insists that Wisdom is not hidden but calling out in the public square. Psalm 104:24 echoes the theme: "O LORD, how manifold are your works! In wisdom have you made them all." Sirach (Ecclesiasticus) 24:1-12 has Wisdom describe her origin in similar terms and take up residence in Israel -- a passage the early church read as a further anticipation of the incarnation. Wisdom of Solomon 7:22-8:1 describes Wisdom as "a breath of the power of God, and a pure emanation of the glory of the Almighty" -- language nearly identical to Hebrews 1:3.
 
 **New Testament Echoes**
 
 1 Corinthians 1:24, 30 -- Christ is the wisdom of God. Colossians 1:15-17 -- Christ is before all things; all things were created through him and for him. Colossians 2:2-3 -- in Christ are hidden all the treasures of wisdom and knowledge. John 1:1-3 -- the Word was with God and was God; all things were made through him. Hebrews 1:1-3 -- through the Son, God created the world; the Son is the radiance of God's glory. John 17:24 -- the Father loved the Son before the foundation of the world.
-
-**Parallel Passages**
-
-Compare Proverbs 8:22-31 with Sirach (Ecclesiasticus) 24:1-12, where Wisdom describes her origin in similar terms and takes up residence in Israel -- a passage the early church read as a further anticipation of the incarnation. Compare with Wisdom of Solomon 7:22-8:1, which describes Wisdom as "a breath of the power of God, and a pure emanation of the glory of the Almighty" -- language nearly identical to Hebrews 1:3.
 
 ## Reflection Questions
 

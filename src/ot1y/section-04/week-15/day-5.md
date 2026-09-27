@@ -2,8 +2,10 @@
 week: 15
 day: 5
 title: "Exaltation -- The Prisoner Becomes the Prince of Egypt"
-reading: "Genesis 41:41-57"
-parallel_passages: Philippians 2:9-11, Revelation 5:9-10, Matthew 28:18, Colossians 1:15-20
+reading:
+- Genesis 41:41-57
+parallel_passages:
+- Psalm 105:21-22
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -48,7 +50,7 @@ Joseph's role as the provider of bread to a starving world carries unmistakable 
 
 **Old Testament Roots**
 
-The phrase "like the sand of the sea" (41:49), used to describe the stored grain, deliberately echoes the Abrahamic covenant promise: "I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore" (Genesis 22:17). The verbal connection signals that Joseph's provision is not merely an act of Egyptian administration but a fulfillment of covenant purpose. The grain that will save the nations will also draw Jacob's family to Egypt, preserving the covenant line through the famine. Psalm 105:16-22 celebrates this sequence as divine orchestration: "He had sent a man ahead of them, Joseph, who was sold as a slave... The king sent and released him; the ruler of the peoples set him free."
+The phrase "like the sand of the sea" (41:49), used to describe the stored grain, deliberately echoes the Abrahamic covenant promise: "I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore" (Genesis 22:17). The verbal connection signals that Joseph's provision is not merely an act of Egyptian administration but a fulfillment of covenant purpose. The grain that will save the nations will also draw Jacob's family to Egypt, preserving the covenant line through the famine. Psalm 105:16-22 celebrates this sequence as divine orchestration: "He had sent a man ahead of them, Joseph, who was sold as a slave... The king sent and released him; the ruler of the peoples set him free." Daniel 2:46-48 records Daniel's elevation to a position of authority after interpreting Nebuchadnezzar's dream, following the same pattern as Joseph: faithful service in exile, divine revelation, and exaltation to a position no one anticipated. Esther 8:1-2 describes Esther receiving the king's signet ring, another instance of a marginalized Israelite elevated to royal authority for the salvation of God's people. Isaiah 55:1-3 extends the invitation to the hungry: "Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat!" -- the prophetic fulfillment of the provision Joseph embodies.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Philippians 2:9-11 describes Christ's exaltation in terms that mirror Joseph's i
 
 **Parallel Passages**
 
-Daniel 2:46-48 records Daniel's elevation to a position of authority after interpreting Nebuchadnezzar's dream, following the same pattern as Joseph: faithful service in exile, divine revelation, and exaltation to a position no one anticipated. Esther 8:1-2 describes Esther receiving the king's signet ring, another instance of a marginalized Israelite elevated to royal authority for the salvation of God's people. Isaiah 55:1-3 extends the invitation to the hungry: "Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat!" -- the prophetic fulfillment of the provision Joseph embodies.
+Psalm 105:21-22 retells Joseph's investiture: Pharaoh "made him lord of his house and ruler of all his possessions, to bind his princes at his pleasure and to teach his elders wisdom."
 
 ## Reflection Questions
 

@@ -2,8 +2,10 @@
 week: 3
 day: 5
 title: "The Fall Relived -- David's Confession and the Cry for a Clean Heart"
-reading: "Psalm 51:1-12"
-parallel_passages: 2 Samuel 11-12, Ezekiel 36:25-27, John 3:3-8, 2 Corinthians 5:17, Hebrews 9:13-14, 1 John 1:8-9, Luke 23:42-43
+reading:
+- Psalm 51:1-12
+parallel_passages:
+- 2 Samuel 11-12
 section: Adamic Covenant
 tags:
 - covenant-2
@@ -65,15 +67,15 @@ Psalm 51 is not only the cry of a fallen king. It is a prophecy -- pointing to t
 
 **Old Testament Roots**
 
-Psalm 51 connects to 2 Samuel 11-12 (its narrative context), to Genesis 3 (the pattern of sin it replays), and to Leviticus 16 (the Day of Atonement, where the sacrificial system addresses the kind of sin David confesses). The hyssop of 51:7 connects to Exodus 12:22 (Passover) and Leviticus 14:4-7 (purification). The *bara* of 51:10 connects to Genesis 1:1 and to Ezekiel 36:26 (the new heart promise). David's fear of losing the Spirit (51:11) connects to 1 Samuel 16:14 (the Spirit departing from Saul).
+Psalm 51 connects to 2 Samuel 11-12 (its narrative context), to Genesis 3 (the pattern of sin it replays), and to Leviticus 16 (the Day of Atonement, where the sacrificial system addresses the kind of sin David confesses). The hyssop of 51:7 connects to Exodus 12:22 (Passover) and Leviticus 14:4-7 (purification). The *bara* of 51:10 connects to Genesis 1:1 and to Ezekiel 36:26 (the new heart promise). David's fear of losing the Spirit (51:11) connects to 1 Samuel 16:14 (the Spirit departing from Saul). Psalm 51:17 ("a broken and contrite heart") is answered by Isaiah 57:15 ("I dwell in the high and holy place, and also with him who is of a contrite and lowly spirit").
 
 **New Testament Echoes**
 
-1 John 1:7-9 -- the blood of Jesus cleanses from all sin; if we confess, he is faithful to forgive. 2 Corinthians 5:17 -- new creation in Christ. 2 Corinthians 4:6 -- the same creative power that said "Let there be light" now shines in our hearts. Hebrews 9:13-14 -- the blood of Christ purifies the conscience. John 3:3-8 -- the new birth Jesus tells Nicodemus about is the *bara* David prayed for. Luke 23:42-43 -- the thief on the cross enters paradise, the presence David feared losing. Luke 18:13-14 -- the tax collector's honest prayer, justified by the same grace that receives David's broken heart.
+1 John 1:7-9 -- the blood of Jesus cleanses from all sin; if we confess, he is faithful to forgive. 2 Corinthians 5:17 -- new creation in Christ. 2 Corinthians 4:6 -- the same creative power that said "Let there be light" now shines in our hearts. Hebrews 9:13-14 -- the blood of Christ purifies the conscience. John 3:3-8 -- the new birth Jesus tells Nicodemus about is the *bara* David prayed for. Luke 23:42-43 -- the thief on the cross enters paradise, the presence David feared losing. Luke 18:13-14 -- the tax collector's honest prayer, justified by the same grace that receives David's broken heart. David's confession, "Against you, you only, have I sinned" (51:4), is echoed in the prodigal son's, "Father, I have sinned against heaven and before you" (Luke 15:21).
 
 **Parallel Passages**
 
-Compare Psalm 51:10 ("Create in me a clean heart") with Ezekiel 36:26 ("I will give you a new heart") -- the prayer and the promise. Compare Psalm 51:17 ("a broken and contrite heart") with Isaiah 57:15 ("I dwell in the high and holy place, and also with him who is of a contrite and lowly spirit"). Compare David's confession ("Against you, you only, have I sinned") with the prodigal son's ("Father, I have sinned against heaven and before you" -- Luke 15:21).
+Psalm 51's superscription sets it "when Nathan the prophet went to him, after he had gone in to Bathsheba," so 2 Samuel 11-12 tells the same event from the outside: the adultery, the death of Uriah, Nathan's "You are the man!" and David's "I have sinned against the LORD." The psalm is David's own side of that confession.
 
 ## Reflection Questions
 

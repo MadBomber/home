@@ -2,8 +2,9 @@
 week: 52
 day: 3
 title: "The River of Life and the City Named for God"
-reading: "Ezekiel 47:1-12; 48:30-35"
-parallel_passages: Revelation 22:1-5, John 7:37-39, Genesis 2:10-14, Zechariah 14:8, Psalm 46:4-5
+reading:
+- Ezekiel 47:1-12
+- Ezekiel 48:30-35
 section: Consummation
 tags:
 - covenant-8
@@ -17,11 +18,12 @@ study_slug: ot1y
 
 ## Reading
 
-- Ezekiel 47:1-12; 48:30-35
+- Ezekiel 47:1-12
+- Ezekiel 48:30-35
 
 ## Historical Context
 
-Ezekiel 47 belongs to the final section of the book (chapters 40--48), a vast architectural vision of the restored temple, the redistributed land, and the reconstituted people that the prophet received "in the twenty-fifth year of our exile" (40:1) -- roughly 573 BC. Ezekiel was a priest, deported to Babylon in the second wave of exile (597 BC), and his entire prophetic ministry was shaped by the catastrophic loss of the temple. He had watched the *kavod* -- the glory of the LORD -- depart from the temple in stages (chapters 10--11), moving from the inner sanctuary to the threshold, from the threshold to the east gate, from the east gate to the Mount of Olives. The departure was not sudden but agonized, as though the glory itself was reluctant to leave. Chapters 40--48 are the answer to that departure: a vision in which the glory returns and never leaves again.
+Ezekiel 47 belongs to the final section of the book (chapters 40-48), a vast architectural vision of the restored temple, the redistributed land, and the reconstituted people that the prophet received "in the twenty-fifth year of our exile" (40:1) -- roughly 573 BC. Ezekiel was a priest, deported to Babylon in the second wave of exile (597 BC), and his entire prophetic ministry was shaped by the catastrophic loss of the temple. He had watched the *kavod* -- the glory of the LORD -- depart from the temple in stages (chapters 10-11), moving from the inner sanctuary to the threshold, from the threshold to the east gate, from the east gate to the Mount of Olives. The departure was not sudden but agonized, as though the glory itself was reluctant to leave. Chapters 40-48 are the answer to that departure: a vision in which the glory returns and never leaves again.
 
 The river that emerges in chapter 47 is one of the most powerful images in the Hebrew Bible. An angelic guide leads Ezekiel to the threshold of the temple, where water trickles from under the south side of the threshold. The guide leads the prophet east, measuring at intervals: a thousand cubits and the water is ankle-deep (*me-ofsayim*, "waters of the ankles"); another thousand and it is knee-deep; another thousand and it is waist-deep (*me-motnayim*, "waters of the loins"); another thousand and it is "a river that I could not pass through, for the water had risen, deep enough to swim in, a river that could not be passed through" (47:5). The progression is deliberate. What begins as a seepage becomes an uncrossable torrent. The source is modest -- a trickle at the temple door -- but the river deepens as it flows, gaining volume from no visible tributary. The implication is theological: the life that flows from God's presence is self-amplifying. It grows not because it is fed by external sources but because its source is inexhaustible.
 
@@ -51,15 +53,11 @@ The name *Yahweh Shammah* -- "The LORD Is There" -- finds its ultimate fulfillme
 
 **Old Testament Roots**
 
-The river of Ezekiel 47 recalls the river of Eden that "flowed out of Eden to water the garden, and there it divided and became four rivers" (Genesis 2:10). But Eden's river watered a garden; this river resurrects a sea. Psalm 46:4 sings of "a river whose streams make glad the city of God," connecting the river to God's dwelling. Zechariah 14:8 prophesies that "on that day living waters shall flow out from Jerusalem" -- a parallel vision of eschatological water. Joel 3:18 sees "a fountain from the house of the LORD" watering the Valley of Shittim. The convergence of these texts makes the river one of the Old Testament's most consistent images of God's life-giving presence.
+The river of Ezekiel 47 recalls the river of Eden that "flowed out of Eden to water the garden, and there it divided and became four rivers" (Genesis 2:10). But Eden's river watered a garden; this river resurrects a sea. Psalm 46:4 sings of "a river whose streams make glad the city of God," connecting the river to God's dwelling. Zechariah 14:8 prophesies that "on that day living waters shall flow out from Jerusalem" -- a parallel vision of eschatological water. Joel 3:18 sees "a fountain from the house of the LORD" watering the Valley of Shittim. The convergence of these texts makes the river one of the Old Testament's most consistent images of God's life-giving presence. Psalm 1:3 describes the blessed person as "a tree planted by streams of water." Jeremiah 17:7-8 echoes the image: "Blessed is the man who trusts in the LORD ... He is like a tree planted by water."
 
 **New Testament Echoes**
 
-Revelation 22:1-2 maps Ezekiel's river onto the new Jerusalem, flowing from "the throne of God and of the Lamb." John 7:37-39 identifies Jesus as the source of "rivers of living water," interpreted as the Holy Spirit. John 4:14 records Jesus' promise to the Samaritan woman: "The water that I will give him will become in him a spring of water welling up to eternal life." John 19:34 -- water and blood flowing from Christ's pierced side -- has been read since the early church as the moment when Ezekiel's temple-river began to flow from the true temple.
-
-**Parallel Passages**
-
-Genesis 2:9-10 establishes the tree of life and the river in Eden. Psalm 1:3 describes the blessed person as "a tree planted by streams of water." Jeremiah 17:7-8 echoes the image: "blessed is the man who trusts in the LORD... he is like a tree planted by water." Revelation 21:1-4, 22-27 provides the fullest New Testament vision of the city Ezekiel names, confirming that its temple is the Lamb and its light is God.
+Revelation 22:1-2 maps Ezekiel's river onto the new Jerusalem, flowing from "the throne of God and of the Lamb." John 7:37-39 identifies Jesus as the source of "rivers of living water," interpreted as the Holy Spirit. John 4:14 records Jesus' promise to the Samaritan woman: "The water that I will give him will become in him a spring of water welling up to eternal life." John 19:34 -- water and blood flowing from Christ's pierced side -- has been read since the early church as the moment when Ezekiel's temple-river began to flow from the true temple. Revelation 21:1-4, 22-27 provides the fullest New Testament vision of the city Ezekiel names, confirming that its temple is the Lamb and its light is God.
 
 ## Reflection Questions
 

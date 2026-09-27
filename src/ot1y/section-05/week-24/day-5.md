@@ -2,8 +2,8 @@
 week: 24
 day: 5
 title: "Sabbath Rest, Jubilee, Blessings, Curses, and the Land That Belongs to God"
-reading: "Leviticus 25:1-27:34"
-parallel_passages: Luke 4:16-21, Isaiah 61:1-3, Galatians 3:10-14, Hebrews 4:1-11, 2 Corinthians 5:17, Revelation 21:1-5, Acts 4:32-35
+reading:
+- Leviticus 25:1-27:34
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -51,15 +51,11 @@ The Sabbath rest of the land points forward to a rest that the author of Hebrews
 
 **Old Testament Roots**
 
-The Sabbath year legislation extends the weekly Sabbath of Genesis 2:2-3 and Exodus 20:8-11 to the agricultural cycle. The Jubilee's proclamation of "liberty" (*deror*) echoes Isaiah 61:1 and Jeremiah 34:8-17 (where Judah's failure to release slaves provokes God's judgment). The blessings and curses of Leviticus 26 parallel those of Deuteronomy 28 and anticipate the covenant renewal at Shechem in Joshua 24. The promise "I will walk among you" (26:12) echoes Genesis 3:8 and anticipates Ezekiel 37:27.
+The Sabbath year legislation extends the weekly Sabbath of Genesis 2:2-3 and Exodus 20:8-11 to the agricultural cycle. The Jubilee's proclamation of "liberty" (*deror*) echoes Isaiah 61:1 and Jeremiah 34:8-17 (where Judah's failure to release slaves provokes God's judgment). The blessings and curses of Leviticus 26 parallel those of Deuteronomy 28 and anticipate the covenant renewal at Shechem in Joshua 24. The promise "I will walk among you" (26:12) echoes Genesis 3:8 and anticipates Ezekiel 37:27. The claim "the land is mine" (25:23) finds its echo in Psalm 24:1: "The earth is the LORD's and the fullness thereof." The promise of restoration after exile (26:40-45) is invoked in Daniel's prayer of confession (Daniel 9:4-19) and in Nehemiah's prayer (Nehemiah 1:5-11), which echoes the same covenant logic.
 
 **New Testament Echoes**
 
 Luke 4:16-21 -- Jesus announces the Jubilee in the Nazareth synagogue. Galatians 3:10-14 -- Christ redeems us from the curse of the law by becoming a curse. Hebrews 4:1-11 -- the Sabbath rest that remains for the people of God. Second Corinthians 5:17 -- "If anyone is in Christ, he is a new creation" -- the Jubilee principle of total renewal. Acts 4:32-35 -- the early church practices Jubilee economics: "There was not a needy person among them." Revelation 21:3 -- "Behold, the dwelling place of God is with man" -- the ultimate fulfillment of Leviticus 26:12.
-
-**Parallel Passages**
-
-Compare Leviticus 25:23 ("the land is mine") with Psalm 24:1 ("The earth is the LORD's and the fullness thereof"). Compare Leviticus 26:11-12 with Revelation 21:3 (God dwelling with his people). Compare Leviticus 26:40-45 (restoration after exile) with Daniel 9:4-19 (Daniel's prayer of confession that invokes these very promises) and Nehemiah 1:5-11 (Nehemiah's prayer echoing the same covenant logic).
 
 ## Reflection Questions
 

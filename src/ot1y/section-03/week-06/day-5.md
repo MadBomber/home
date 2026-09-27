@@ -2,8 +2,8 @@
 week: 6
 day: 5
 title: "Peter Reads the Flood -- Baptism, Resurrection, and Salvation Through Water"
-reading: "1 Peter 3:18-22"
-parallel_passages: Romans 6:3-4, Colossians 2:12, Genesis 7:16, John 10:9, Hebrews 9:14
+reading:
+- 1 Peter 3:18-22
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -54,15 +54,11 @@ The ascension and enthronement of Christ in 3:22 -- "at the right hand of God, w
 
 **Old Testament Roots**
 
-Peter's reading of the flood as a type of salvation is rooted in the Old Testament's own habit of reinterpreting the flood. Isaiah 54:9-10 explicitly invokes the flood as a guarantee of God's steadfast love: "This is like the days of Noah to me: as I swore that the waters of Noah should no more go over the earth, so I have sworn that I will not be angry with you and will not rebuke you." The prophets already understood the flood as more than history. It was a covenant event with ongoing theological significance -- a pledge of God's faithfulness that could be appealed to in every subsequent generation. Peter stands in this prophetic tradition when he reads the flood through the lens of Christ.
+Peter's reading of the flood as a type of salvation is rooted in the Old Testament's own habit of reinterpreting the flood. Isaiah 54:9-10 explicitly invokes the flood as a guarantee of God's steadfast love: "This is like the days of Noah to me: as I swore that the waters of Noah should no more go over the earth, so I have sworn that I will not be angry with you and will not rebuke you." The prophets already understood the flood as more than history. It was a covenant event with ongoing theological significance -- a pledge of God's faithfulness that could be appealed to in every subsequent generation. Peter stands in this prophetic tradition when he reads the flood through the lens of Christ. The flood narrative in Genesis 7-8, the Red Sea crossing in Exodus 14, and the baptism of Christ in the Gospels form a typological chain: in each case, the people of God pass through water as an act of salvation, and the water that saves is simultaneously the water that judges. The pattern is consistent because the God behind it is consistent.
 
 **New Testament Echoes**
 
-Romans 6:3-4 provides the Pauline parallel to Peter's baptismal typology: "We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life." Colossians 2:12 adds that this burial and resurrection is "through faith in the powerful working of God." Hebrews 9:14 addresses the "good conscience" Peter mentions in 3:21: "How much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God." The appeal to God for a good conscience that Peter associates with baptism is made possible by the blood of Christ -- the substance behind the type. And Ephesians 1:20-22 echoes the enthronement language of 3:22: God "raised him from the dead and seated him at his right hand in the heavenly places, far above all rule and authority and power and dominion."
-
-**Parallel Passages**
-
-The Apostles' Creed's affirmation that Christ "descended into hell" (or "descended to the dead") draws in part on 1 Peter 3:19. Whatever the precise interpretation of Christ's proclamation to the imprisoned spirits, the creedal tradition affirms that Christ's saving work extended even beyond the boundary of death itself. The flood narrative in Genesis 7-8, the Red Sea crossing in Exodus 14, and the baptism of Christ in the Gospels form a typological chain: in each case, the people of God pass through water as an act of salvation, and the water that saves is simultaneously the water that judges. The pattern is consistent because the God behind it is consistent.
+Romans 6:3-4 provides the Pauline parallel to Peter's baptismal typology: "We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life." Colossians 2:12 adds that this burial and resurrection is "through faith in the powerful working of God." Hebrews 9:14 addresses the "good conscience" Peter mentions in 3:21: "How much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God." The appeal to God for a good conscience that Peter associates with baptism is made possible by the blood of Christ -- the substance behind the type. And Ephesians 1:20-22 echoes the enthronement language of 3:22: God "raised him from the dead and seated him at his right hand in the heavenly places, far above all rule and authority and power and dominion." The Apostles' Creed's affirmation that Christ "descended into hell" (or "descended to the dead") draws in part on 1 Peter 3:19. Whatever the precise interpretation of Christ's proclamation to the imprisoned spirits, the creedal tradition affirms that Christ's saving work extended even beyond the boundary of death itself.
 
 ## Reflection Questions
 

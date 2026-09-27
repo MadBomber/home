@@ -6,9 +6,9 @@ date_range: "Week 51"
 chapters:
 - Daniel 7:1-28
 - Daniel 8:1-27
-- Daniel 9:20-27; 12:1-13
+- Daniel 9:20-27; Daniel 12:1-13
 - Zechariah 14:1-21
-- Isaiah 11:1-16; 2:1-5
+- Isaiah 11:1-16; Isaiah 2:1-5
 tags:
 - covenant-8
 memory_verse: "Daniel 7:14"
@@ -41,9 +41,9 @@ Isaiah 2 lifts the vision to its broadest horizon: "It shall come to pass in the
 |-----|---------|-------|
 | [1](../day-1/) | Daniel 7:1-28 | The Four Beasts and the Son of Man |
 | [2](../day-2/) | Daniel 8:1-27 | The Ram and the Goat -- Empires Rise and Fall |
-| [3](../day-3/) | Daniel 9:20-27; 12:1-13 | The Anointed One Cut Off and the Resurrection of the Dead |
+| [3](../day-3/) | Daniel 9:20-27; Daniel 12:1-13 | The Anointed One Cut Off and the Resurrection of the Dead |
 | [4](../day-4/) | Zechariah 14:1-21 | The LORD Descends to the Mount of Olives |
-| [5](../day-5/) | Isaiah 11:1-16; 2:1-5 | The Branch from Jesse, the Peaceable Kingdom, and Swords into Plowshares |
+| [5](../day-5/) | Isaiah 11:1-16; Isaiah 2:1-5 | The Branch from Jesse, the Peaceable Kingdom, and Swords into Plowshares |
 
 ## Key Themes
 

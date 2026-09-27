@@ -2,8 +2,10 @@
 week: 23
 day: 4
 title: "Blood on the Ear -- Consecration, Glory, and the Death of Nadab and Abihu"
-reading: "Leviticus 8:1-10:20"
-parallel_passages: Hebrews 4:14-16, Hebrews 7:26-28, Hebrews 5:1-4, 1 Peter 2:9, Hebrews 12:28-29, Acts 5:1-11, John 17:19
+reading:
+- Leviticus 8:1-10:20
+parallel_passages:
+- Exodus 28-29
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -52,7 +54,7 @@ The death of Nadab and Abihu -- fire from the LORD consuming those who offered w
 
 **Old Testament Roots**
 
-The fire from heaven that consumed the burnt offering (9:24) connects to the fire that consumed Elijah's sacrifice on Mount Carmel (1 Kings 18:38) and the fire at Solomon's temple dedication (2 Chronicles 7:1). In each case, divine fire validates the offering and the place of worship. The death of Nadab and Abihu connects to the death of Uzzah, who touched the ark (2 Samuel 6:6-7) -- another instance where proximity to holiness without proper authorization proved fatal. Aaron's silence (10:3) echoes Job's response to suffering: "The LORD gave, and the LORD has taken away; blessed be the name of the LORD" (Job 1:21).
+The fire from heaven that consumed the burnt offering (9:24) connects to the fire that consumed Elijah's sacrifice on Mount Carmel (1 Kings 18:38) and the fire at Solomon's temple dedication (2 Chronicles 7:1). In each case, divine fire validates the offering and the place of worship. The death of Nadab and Abihu connects to the death of Uzzah, who touched the ark (2 Samuel 6:6-7) -- another instance where proximity to holiness without proper authorization proved fatal. Aaron's silence (10:3) echoes Job's response to suffering: "The LORD gave, and the LORD has taken away; blessed be the name of the LORD" (Job 1:21). Compare the fire from heaven in 9:24 with the flaming torch of Genesis 15:17, which passed between the cut pieces of the covenant ceremony. In each case, divine fire seals the covenant arrangement. Compare Nadab and Abihu's offense with Korah's rebellion in Numbers 16, where unauthorized access to priestly duties results in the earth swallowing the rebels and fire consuming 250 men who offered incense.
 
 **New Testament Echoes**
 
@@ -60,7 +62,7 @@ Hebrews 7:26-28 contrasts Aaron's priesthood with Christ's. Hebrews 5:1-4 descri
 
 **Parallel Passages**
 
-Compare Leviticus 8-10 with Exodus 28-29, the original instructions for priestly consecration that Leviticus 8 fulfills. Compare the fire from heaven in 9:24 with the fire from heaven in Genesis 15:17, where God passed between the cut pieces of the covenant ceremony. In each case, divine fire seals the covenant arrangement. Compare Nadab and Abihu's offense with Korah's rebellion in Numbers 16, where unauthorized access to priestly duties results in the earth swallowing the rebels and fire consuming 250 men who offered incense.
+Exodus 28-29 gives the original instructions for priestly consecration that Leviticus 8 fulfills.
 
 ## Reflection Questions
 

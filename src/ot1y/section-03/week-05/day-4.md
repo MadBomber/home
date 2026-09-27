@@ -2,8 +2,10 @@
 week: 5
 day: 4
 title: "Peter Reads the Flood -- The Ancient Pattern of Judgment and Deliverance"
-reading: "2 Peter 2:4-10"
-parallel_passages: 1 Peter 3:18-22, Genesis 6:5-8, Genesis 19:1-29, Jude 1:5-7, Matthew 24:37-39, Romans 8:1
+reading:
+- 2 Peter 2:4-10
+parallel_passages:
+- Jude 1:5-7
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -58,11 +60,11 @@ Peter's three examples -- angels, flood, Sodom -- correspond to Genesis 6:1-4, G
 
 **New Testament Echoes**
 
-1 Peter 3:18-22 draws the explicit typological connection between the flood and baptism, grounding both in the resurrection of Christ. Jude 5-7 presents a nearly identical sequence of examples -- Israel in the wilderness, fallen angels, Sodom -- confirming a shared apostolic tradition of reading Old Testament judgment as precedent for future accountability. Matthew 24:37-39 records Jesus himself making the comparison: "As were the days of Noah, so will be the coming of the Son of Man." Romans 8:1 states the result for those "in Christ" -- no condemnation, the occupants of the ark emerging alive.
+1 Peter 3:18-22 draws the explicit typological connection between the flood and baptism, grounding both in the resurrection of Christ. Jude 5-7 presents a nearly identical sequence of examples -- Israel in the wilderness, fallen angels, Sodom -- confirming a shared apostolic tradition of reading Old Testament judgment as precedent for future accountability. Matthew 24:37-39 records Jesus himself making the comparison: "As were the days of Noah, so will be the coming of the Son of Man." Romans 8:1 states the result for those "in Christ" -- no condemnation, the occupants of the ark emerging alive. Peter's "herald of righteousness" (Greek *keryx*) is the same word Paul uses of his own calling: "a preacher and apostle and teacher" (2 Timothy 1:11). Lot's distress in Sodom (2 Peter 2:7-8) resembles the groaning of creation in Romans 8:22-23 -- the righteous soul tormented by the corruption around it, longing for redemption. The chains of the fallen angels (2 Peter 2:4) anticipate the binding of Satan in Revelation 20:1-3 -- judgment is certain, even if its full execution awaits.
 
 **Parallel Passages**
 
-Compare Peter's "herald of righteousness" with Paul's description of his own calling: "a herald and an apostle and a teacher" (2 Timothy 1:11). Compare Lot's distress in Sodom (2 Peter 2:7-8) with the groaning of creation in Romans 8:22-23 -- the righteous soul tormented by the corruption around it, longing for redemption. Compare the chains of the fallen angels (2 Peter 2:4) with the binding of Satan in Revelation 20:1-3 -- judgment is certain, even if its full execution awaits.
+Jude 1:5-7 records the same teaching, and two of Peter's three examples appear there in nearly the same words: angels kept in chains under gloomy darkness until the judgment, and Sodom and Gomorrah set out as an example.
 
 ## Reflection Questions
 

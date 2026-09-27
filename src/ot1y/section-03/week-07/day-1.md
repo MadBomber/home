@@ -2,8 +2,8 @@
 week: 7
 day: 1
 title: "A New Commission -- Be Fruitful and Multiply, the Image of God, and the Sanctity of Blood"
-reading: "Genesis 9:1-7"
-parallel_passages: Genesis 1:28-30, Acts 17:26-28, Colossians 1:15-20, Hebrews 9:22, Matthew 28:18-20
+reading:
+- Genesis 9:1-7
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -52,15 +52,11 @@ The image of God that Genesis 9:6 declares inviolable -- the *tselem* that survi
 
 **Old Testament Roots**
 
-Genesis 9:1-7 deliberately echoes Genesis 1:28-30, creating a literary bridge between the original creation and the post-flood re-creation. The same God who blessed Adam now blesses Noah with the same words, establishing continuity between the first world and the second. The prohibition of blood in verse 4 anticipates Leviticus 17:11 -- "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls" -- where the principle established here is given its sacrificial application. The institution of capital punishment in verse 6 will be elaborated in the Mosaic law (Exodus 21:12-14) but finds its theological root in the post-flood commission.
+Genesis 9:1-7 deliberately echoes Genesis 1:28-30, creating a literary bridge between the original creation and the post-flood re-creation. The same God who blessed Adam now blesses Noah with the same words, establishing continuity between the first world and the second. The prohibition of blood in verse 4 anticipates Leviticus 17:11 -- "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls" -- where the principle established here is given its sacrificial application. The institution of capital punishment in verse 6 will be elaborated in the Mosaic law (Exodus 21:12-14) but finds its theological root in the post-flood commission. Psalm 8 celebrates humanity's dignity and dominion in language that resonates with both Genesis 1 and Genesis 9.
 
 **New Testament Echoes**
 
-Paul's sermon on Mars Hill echoes Genesis 9 when he declares that God "made from one man every nation of mankind to live on all the face of the earth" (Acts 17:26) -- a direct reflection of the commission to fill the earth through Noah's family. The sanctity of blood established here runs through the New Testament's atonement theology, reaching its climax in Hebrews 9:11-14, where Christ enters "once for all into the holy places... by means of his own blood." And the image of God affirmed in Genesis 9:6 is the foundation for James's prohibition against cursing others: "With it we curse people who are made in the likeness of God" (James 3:9).
-
-**Parallel Passages**
-
-Genesis 1:28-30 provides the original commission that Genesis 9:1-7 echoes and modifies. Leviticus 17:10-14 develops the blood prohibition into the heart of the sacrificial system. Psalm 8 celebrates humanity's dignity and dominion in language that resonates with both Genesis 1 and Genesis 9. Romans 13:1-4, where the governing authority "bears the sword" as "the servant of God, an avenger who carries out God's wrath," reflects the principle of Genesis 9:6 -- that the shedding of innocent blood demands a reckoning.
+Paul's sermon on Mars Hill echoes Genesis 9 when he declares that God "made from one man every nation of mankind to live on all the face of the earth" (Acts 17:26) -- a direct reflection of the commission to fill the earth through Noah's family. The sanctity of blood established here runs through the New Testament's atonement theology, reaching its climax in Hebrews 9:11-14, where Christ enters "once for all into the holy places... by means of his own blood." And the image of God affirmed in Genesis 9:6 is the foundation for James's prohibition against cursing others: "With it we curse people who are made in the likeness of God" (James 3:9). Romans 13:1-4, where the governing authority "bears the sword" as "the servant of God, an avenger who carries out God's wrath," reflects the principle of Genesis 9:6 -- that the shedding of innocent blood demands a reckoning.
 
 ## Reflection Questions
 

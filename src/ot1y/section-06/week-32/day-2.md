@@ -2,8 +2,8 @@
 week: 32
 day: 2
 title: "Victory at Jabesh-gilead, Samuel's Farewell, and the Terms of the Monarchy"
-reading: "1 Samuel 11:1-12:25"
-parallel_passages: Romans 8:31-34, Hebrews 3:1-6, Matthew 12:41-42
+reading:
+- 1 Samuel 11:1-12:25
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -49,15 +49,11 @@ Samuel's self-vindication -- "Whose ox have I taken?" -- also points forward. Th
 
 **Old Testament Roots**
 
-Samuel's farewell address stands in the tradition of Moses' final speeches in Deuteronomy. The structure is identical: a rehearsal of God's saving acts, a statement of covenantal terms, a warning of consequences, and a call to faithfulness. The conditional "if you obey... if you disobey" (1 Samuel 12:14-15) echoes the blessings and curses of Deuteronomy 28. The thunderstorm Samuel calls down recalls the theophany at Sinai (Exodus 19:16-19), reminding Israel that the God of the covenant has not been replaced by the God of the monarchy -- they are the same God, and his terms have not changed.
+Samuel's farewell address stands in the tradition of Moses' final speeches in Deuteronomy. The structure is identical: a rehearsal of God's saving acts, a statement of covenantal terms, a warning of consequences, and a call to faithfulness. The conditional "if you obey... if you disobey" (1 Samuel 12:14-15) echoes the blessings and curses of Deuteronomy 28. The thunderstorm Samuel calls down recalls the theophany at Sinai (Exodus 19:16-19), reminding Israel that the God of the covenant has not been replaced by the God of the monarchy -- they are the same God, and his terms have not changed. Joshua 24 -- Joshua's farewell and covenant renewal at Shechem -- is the closest structural precedent: a review of history, a challenge to faithfulness, a warning of consequences. Judges 2:1-5 records the angel of the LORD delivering a similar indictment at Bochim. Deuteronomy 17:14-20 provides the legal framework for the kingship Samuel is inaugurating.
 
 **New Testament Echoes**
 
 Jesus' farewell discourse in John 14-17 echoes Samuel's pattern: a departing leader who intercedes for the people, lays down terms for faithfulness, and promises the Spirit's continued presence. Paul's speech to the Ephesian elders in Acts 20:17-35 explicitly mirrors Samuel's self-vindication: "I coveted no one's silver or gold or apparel" (Acts 20:33). The pattern of the faithful mediator who departs, leaving behind terms of obedience, runs from Samuel through Jesus to the apostolic witness.
-
-**Parallel Passages**
-
-Joshua 24 -- Joshua's farewell and covenant renewal at Shechem -- is the closest structural parallel: a review of history, a challenge to faithfulness, a warning of consequences. Judges 2:1-5 records the angel of the LORD delivering a similar indictment at Bochim. Deuteronomy 17:14-20 provides the legal framework for the kingship Samuel is inaugurating.
 
 ## Reflection Questions
 
@@ -69,4 +65,4 @@ Joshua 24 -- Joshua's farewell and covenant renewal at Shechem -- is the closest
 
 ## Prayer
 
-Lord God, you gave Israel a victory at Jabesh-gilead that was real, Spirit-empowered, and temporary. The people shouted for their king, but you were the one who fought the battle. Forgive us for the times we celebrate the instrument and forget the hand that wields it. We thank you for Samuel -- the faithful mediator who took nothing and gave everything, who interceded for a people that had rejected him. And we thank you even more for the greater Mediator, your Son, who did not stand before the people and say "I took nothing from you" but instead gave his own body and blood for us. Teach us the obedience Samuel demanded -- not the partial compliance of a king who edits your commands, but the wholehearted surrender of hearts that fear you more than they fear the crowd. In the name of Christ, our Prophet, Priest, and King. Amen.
+Lord God, you gave Israel a victory at Jabesh-gilead that was real, Spirit-empowered, and temporary. The people shouted for their king, but you were the one who fought the battle. Forgive us for the times we celebrate the instrument and forget the hand that wields it. We thank you for Samuel -- the faithful mediator who took nothing and gave everything, who interceded for a people that had rejected him. And we thank you even more for the greater Mediator, your Son, who did not stand before the people and say "I took nothing from you" but instead gave his own body and blood for us. Teach us the obedience Samuel demanded -- not a fear of you that lasts only as long as the thunder, but hearts that fear you and serve you faithfully, considering what great things you have done for us. In the name of Christ, our Prophet, Priest, and King. Amen.

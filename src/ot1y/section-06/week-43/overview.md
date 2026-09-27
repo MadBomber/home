@@ -5,9 +5,9 @@ title: The Major Prophets
 date_range: "Week 43"
 chapters:
 - Isaiah 1:1-6:13
-- Isaiah 7:1-12:6; 52:13-53:12
-- Jeremiah 1:1-3:25; 31:31-34
-- Ezekiel 1:1-3:27; 34:1-31
+- Isaiah 7:1-12:6; Isaiah 52:13-53:12
+- Jeremiah 1:1-3:25; Jeremiah 31:31-34
+- Ezekiel 1:1-3:27; Ezekiel 34:1-31
 - Daniel 1:1-6:28
 tags:
 - covenant-6
@@ -38,9 +38,9 @@ Isaiah 52:13-53:12, the fourth servant song, is the Old Testament's most sustain
 | Day | Reading | Title |
 |-----|---------|-------|
 | [1](../day-1/) | Isaiah 1:1-6:13 | The Holy God and the Sinful Nation |
-| [2](../day-2/) | Isaiah 7:1-12:6; 52:13-53:12 | Immanuel, the Child-King, and the Suffering Servant |
-| [3](../day-3/) | Jeremiah 1:1-3:25; 31:31-34 | Called Before Birth, the Unfaithful Bride, and the New Covenant |
-| [4](../day-4/) | Ezekiel 1:1-3:27; 34:1-31 | Glory in Exile -- The Throne-Chariot, the Prophet's Call, and the Good Shepherd |
+| [2](../day-2/) | Isaiah 7:1-12:6; Isaiah 52:13-53:12 | Immanuel, the Child-King, and the Suffering Servant |
+| [3](../day-3/) | Jeremiah 1:1-3:25; Jeremiah 31:31-34 | Called Before Birth, the Unfaithful Bride, and the New Covenant |
+| [4](../day-4/) | Ezekiel 1:1-3:27; Ezekiel 34:1-31 | Glory in Exile -- The Throne-Chariot, the Prophet's Call, and the Good Shepherd |
 | [5](../day-5/) | Daniel 1:1-6:28 | Faithfulness in Babylon -- The Fiery Furnace, the Lions' Den, and the Sovereign God |
 
 ## Key Themes

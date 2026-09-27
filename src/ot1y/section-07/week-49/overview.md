@@ -6,7 +6,7 @@ date_range: "Week 49"
 chapters:
 - Daniel 9:1-27
 - Daniel 10:1-12:13
-- Isaiah 42:1-9; 49:1-7; 50:4-9
+- Isaiah 42:1-9; Isaiah 49:1-7; Isaiah 50:4-9
 - Isaiah 52:13-53:12
 - Psalm 22; Psalm 16
 tags:
@@ -35,7 +35,7 @@ The week closes with two psalms that will echo from the lips of the crucified. P
 |-----|---------|-------|
 | [1](../day-1/) | Daniel 9:1-27 | The Seventy Weeks and the Anointed One Cut Off |
 | [2](../day-2/) | Daniel 10:1-12:13 | Angels, Empires, and the Resurrection of the Dead |
-| [3](../day-3/) | Isaiah 42:1-9; 49:1-7; 50:4-9 | The Servant Songs -- Called, Equipped, Rejected, Vindicated |
+| [3](../day-3/) | Isaiah 42:1-9; Isaiah 49:1-7; Isaiah 50:4-9 | The Servant Songs -- Called, Equipped, Rejected, Vindicated |
 | [4](../day-4/) | Isaiah 52:13-53:12 | The Suffering Servant -- Pierced, Crushed, Silent, and Bearing the Sin of Many |
 | [5](../day-5/) | Psalm 22; Psalm 16 | The Psalms of the Cross and the Resurrection |
 

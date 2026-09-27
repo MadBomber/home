@@ -2,8 +2,8 @@
 week: 2
 day: 3
 title: "Not Good to Be Alone -- The Making of the Woman and the First Poem"
-reading: "Genesis 2:18-25"
-parallel_passages: Ephesians 5:25-32, Revelation 19:6-9, Revelation 21:2, John 2:1-11, Mark 10:6-9, 1 Corinthians 12:12-27
+reading:
+- Genesis 2:18-25
 section: Creation Covenant
 tags:
 - covenant-1
@@ -68,15 +68,11 @@ The first miracle Jesus performs in John's Gospel is at a wedding in Cana (John 
 
 **Old Testament Roots**
 
-The *ezer* language of Genesis 2:18 connects to Psalm 121:1-2, Exodus 18:4, Deuteronomy 33:7, and Psalm 33:20 -- all passages where *ezer* describes God's own help. The deep sleep (*tardemah*) of 2:21 connects to Genesis 15:12 (Abraham's covenant sleep) and 1 Samuel 26:12 (a divinely imposed sleep during David's sparing of Saul). The Song of Solomon will celebrate the delight of Genesis 2:23 in extended poetic form, and Hosea will use marriage as the dominant metaphor for God's covenant with Israel.
+The *ezer* language of Genesis 2:18 connects to Psalm 121:1-2, Exodus 18:4, Deuteronomy 33:7, and Psalm 33:20 -- all passages where *ezer* describes God's own help. The deep sleep (*tardemah*) of 2:21 connects to Genesis 15:12 (Abraham's covenant sleep) and 1 Samuel 26:12 (a divinely imposed sleep during David's sparing of Saul). The Song of Solomon will celebrate the delight of Genesis 2:23 in extended poetic form, and Hosea will use marriage as the dominant metaphor for God's covenant with Israel. Genesis 3:7-13 shows the same relationship shattered by sin: "naked and not ashamed" becomes "naked and afraid."
 
 **New Testament Echoes**
 
-Ephesians 5:25-32 identifies the Genesis 2 marriage as a type of Christ and the church. Mark 10:6-9 -- Jesus quotes Genesis 2:24 as the Creator explaining his own design. John 2:1-11 -- Christ's first miracle at a wedding. Revelation 19:6-9 -- the marriage supper of the Lamb. Revelation 21:2 -- the new Jerusalem descending "as a bride adorned for her husband." 1 Corinthians 12:12-27 -- the church as the body of Christ, the "not good" of aloneness resolved.
-
-**Parallel Passages**
-
-Compare Genesis 2:18-25 with Genesis 3:7-13 -- the same relationship, shattered by sin. "Naked and not ashamed" becomes "naked and afraid." Compare the first Adam's sleep (2:21) with the last Adam's death (John 19:30-34). Compare the "one flesh" of Genesis 2:24 with the "one body" of 1 Corinthians 12:12.
+Ephesians 5:25-32 identifies the Genesis 2 marriage as a type of Christ and the church. Mark 10:6-9 -- Jesus quotes Genesis 2:24 as the Creator explaining his own design. John 2:1-11 -- Christ's first miracle at a wedding. Revelation 19:6-9 -- the marriage supper of the Lamb. Revelation 21:2 -- the new Jerusalem descending "as a bride adorned for her husband." 1 Corinthians 12:12-27 -- the church as the body of Christ, the "not good" of aloneness resolved. The first Adam's sleep (2:21) finds its counterpart in the last Adam's death (John 19:30-34).
 
 ## Reflection Questions
 

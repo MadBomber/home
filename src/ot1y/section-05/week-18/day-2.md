@@ -2,8 +2,10 @@
 week: 18
 day: 2
 title: "Blood, Frogs, Gnats"
-reading: "Exodus 7:1-8:19"
-parallel_passages: Psalm 78:43-51, Revelation 8:8-9, 2 Timothy 3:8-9
+reading:
+- Exodus 7:1-8:19
+parallel_passages:
+- Psalm 78:43-45
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -48,7 +50,7 @@ The escalating inability of the magicians to match God's power anticipates the p
 
 **Old Testament Roots**
 
-Psalm 78:43-51 recounts the plagues as part of Israel's liturgical memory: "He turned their rivers to blood, so that they could not drink of their streams. He sent among them swarms of flies, which devoured them, and frogs, which destroyed them." The psalmist presents the plagues not as ancient history but as present instruction -- a reminder to each generation that the God who judged Egypt's gods is the God they serve. Psalm 105:27-36 similarly catalogs the plagues as "signs" and "wonders," using the same vocabulary the Exodus text employs.
+Psalm 78:43-51 recounts the plagues as part of Israel's liturgical memory: "He turned their rivers to blood, so that they could not drink of their streams. He sent among them swarms of flies, which devoured them, and frogs, which destroyed them." The psalmist presents the plagues not as ancient history but as present instruction -- a reminder to each generation that the God who judged Egypt's gods is the God they serve. Psalm 105:27-36 similarly catalogs the plagues as "signs" and "wonders," using the same vocabulary the Exodus text employs. Isaiah 19:1-15, a prophecy against Egypt, echoes the plague language: "And the waters of the sea will be dried up, and the river will be dry and parched" (Isaiah 19:5). Wisdom of Solomon 11-19 provides an extended Jewish commentary on the plagues, reading each one as a measure-for-measure judgment. In 1 Samuel 6:6 the Philistines warn each other not to harden their hearts "as the Egyptians and Pharaoh hardened their hearts."
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ The first plague -- water turned to blood -- reappears in Revelation 8:8-9, wher
 
 **Parallel Passages**
 
-Isaiah 19:1-15 -- a prophecy against Egypt that echoes the plague language: "The waters of the Nile will be dried up, and the river will be parched and dry." Wisdom of Solomon 11-19 provides an extended Jewish commentary on the plagues, reading each one as a measure-for-measure judgment. 1 Samuel 6:6 -- the Philistines warning each other not to harden their hearts "as the Egyptians and Pharaoh hardened their hearts."
+Psalm 78:43-45 narrates the opening plagues as Israel's liturgical memory recited them: the "signs in Egypt," the rivers turned to blood so that the Egyptians "could not drink of their streams," and the frogs "which destroyed them."
 
 ## Reflection Questions
 

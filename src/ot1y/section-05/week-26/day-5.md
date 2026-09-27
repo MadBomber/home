@@ -2,8 +2,11 @@
 week: 26
 day: 5
 title: "Baal Peor, the Second Census, and Preparations for the Land"
-reading: "Numbers 25:1-36:13"
-parallel_passages: 1 Corinthians 10:8, Hebrews 4:1-11, Joshua 20:1-9, Revelation 2:14
+reading:
+- Numbers 25:1-36:13
+parallel_passages:
+- Joshua 20:1-9
+- Psalm 106:28-31
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -48,7 +51,7 @@ The transition from the wilderness generation to the generation that will enter 
 
 **Old Testament Roots**
 
-The sin at Baal Peor echoes the golden calf incident (Exodus 32), where idolatry and sexual immorality similarly combined to provoke divine judgment. The daughters of Zelophehad recall the legal innovation God showed in protecting the vulnerable and landless, a theme that will expand through the prophets and the Psalms. The cities of refuge draw on the ancient Near Eastern practice of sanctuary but transform it: asylum is not at the discretion of a king but enshrined in divine law. Deuteronomy 19:1-13 and Joshua 20:1-9 expand and implement the provision.
+The sin at Baal Peor echoes the golden calf incident (Exodus 32), where idolatry and sexual immorality similarly combined to provoke divine judgment. The daughters of Zelophehad recall the legal innovation God showed in protecting the vulnerable and landless, a theme that will expand through the prophets and the Psalms. The cities of refuge draw on the ancient Near Eastern practice of sanctuary but transform it: asylum is not at the discretion of a king but enshrined in divine law. Deuteronomy 19:1-13 and Joshua 20:1-9 expand and implement the provision. Hosea 9:10 remembers Baal Peor as a defining moment of Israel's shame: "They came to Baal-peor and consecrated themselves to the thing of shame." Joshua 22:17 reminds the people of the sin at Peor, "for which there came a plague upon the congregation of the LORD."
 
 **New Testament Echoes**
 
@@ -56,7 +59,7 @@ The sin at Baal Peor echoes the golden calf incident (Exodus 32), where idolatry
 
 **Parallel Passages**
 
-Psalm 106:28-31 recounts the sin at Peor and Phinehas' zeal: "Then Phinehas stood up and intervened, and the plague was stayed. And that was counted to him as righteousness." Hosea 9:10 remembers Baal Peor as a defining moment of Israel's shame: "They came to Baal-peor and consecrated themselves to the thing of shame." Joshua 20:1-9 implements the cities of refuge that Numbers 35 legislates, and Joshua 22:17 reminds the people that "the plague came upon the congregation of the LORD" at Peor.
+Psalm 106:28-31 recounts the sin at Peor and Phinehas' zeal: "Then Phinehas stood up and intervened, and the plague was stayed. And that was counted to him as righteousness." Joshua 20:1-9 implements the cities of refuge that Numbers 35 legislates.
 
 ## Reflection Questions
 

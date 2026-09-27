@@ -2,8 +2,8 @@
 week: 28
 day: 5
 title: "Gibeonite Deception, the Sun Stands Still, and the Conquest Summarized"
-reading: "Joshua 9:1-12:24"
-parallel_passages: Romans 8:31-39, Philippians 2:9-11, Revelation 19:11-16, Ephesians 1:19-22
+reading:
+- Joshua 9:1-12:24
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +50,11 @@ The Gibeonites -- who deceived their way into the covenant and were assigned to 
 
 **Old Testament Roots**
 
-The divine warrior motif -- God fighting for Israel with cosmic weapons -- echoes the Song of the Sea (Exodus 15:3: "The LORD is a man of war; the LORD is his name") and anticipates the prophetic visions of Isaiah 63:1-6, where God treads the winepress of judgment alone. The hailstones of Joshua 10:11 recall the plague of hail in Exodus 9:22-26 and anticipate the eschatological hail of Ezekiel 38:22. The Gibeonites' role as altar servants connects to the *nethinim* ("given ones") who serve in the temple through the postexilic period (Ezra 2:43; 8:20). Joshua 12's list of defeated kings fulfills the promise trajectory that began in Genesis 12:7 and was reaffirmed to each patriarch.
+The divine warrior motif -- God fighting for Israel with cosmic weapons -- echoes the Song of the Sea (Exodus 15:3: "The LORD is a man of war; the LORD is his name") and anticipates the prophetic visions of Isaiah 63:1-6, where God treads the winepress of judgment alone. The hailstones of Joshua 10:11 recall the plague of hail in Exodus 9:22-26 and anticipate the eschatological hail of Ezekiel 38:22. The Gibeonites' role as altar servants connects to the *nethinim* ("given ones") who serve in the temple through the postexilic period (Ezra 2:43; 8:20). Joshua 12's list of defeated kings fulfills the promise trajectory that began in Genesis 12:7 and was reaffirmed to each patriarch. Judges 1 will reveal that much of the land Joshua "took" remained unconquered in practice -- a tension the text itself acknowledges (Joshua 13:1). Psalm 44:1-3 reflects on the conquest: "Not by their own sword did they win the land... but your right hand and your arm, and the light of your face." Habakkuk 3:11 recalls the day the sun stood still: "The sun and moon stood still in their place at the light of your arrows as they sped."
 
 **New Testament Echoes**
 
 Romans 8:31-39 applies the divine warrior logic to the believer's life: if God is for us, no enemy can stand. Philippians 2:9-11 describes Christ's victory in terms that echo Joshua's conquest: "at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord." Revelation 19:11-16 portrays Christ as the rider on the white horse -- the divine warrior who strikes the nations and treads the winepress of God's wrath. Ephesians 1:19-22 describes the power God exerted in raising Christ from the dead and seating him above "all rule and authority and power and dominion" -- a comprehensive victory that makes Joshua's thirty-one kings look modest by comparison.
-
-**Parallel Passages**
-
-Judges 1 will reveal that much of the land Joshua "took" remained unconquered in practice -- a tension the text itself acknowledges (Joshua 13:1). Psalm 44:1-3 reflects on the conquest: "Not by their own sword did they win the land... but your right hand and your arm, and the light of your face." Habakkuk 3:11 recalls the day the sun stood still: "The sun and moon stood still in their place at the light of your arrows as they sped."
 
 ## Reflection Questions
 

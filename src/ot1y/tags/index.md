@@ -148,7 +148,6 @@ the number beside each tag is its page count.
   <a class="tag-size-2" href="<%= relative_url "/ot1y/tags/shunammite/" %>">shunammite <span class="tag-count">2</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ot1y/tags/sin/" %>">sin <span class="tag-count">4</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ot1y/tags/solomon/" %>">solomon <span class="tag-count">5</span></a>
-  <a class="tag-size-2" href="<%= relative_url "/ot1y/tags/son-of-man/" %>">son-of-man <span class="tag-count">2</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ot1y/tags/sovereignty/" %>">sovereignty <span class="tag-count">9</span></a>
   <a class="tag-size-2" href="<%= relative_url "/ot1y/tags/spirit/" %>">spirit <span class="tag-count">3</span></a>
   <a class="tag-size-3" href="<%= relative_url "/ot1y/tags/substitution/" %>">substitution <span class="tag-count">5</span></a>
@@ -167,7 +166,7 @@ the number beside each tag is its page count.
 </div>
 
 <details class="tag-cloud-rare">
-<summary>456 more topics, each on a single page</summary>
+<summary>457 more topics, each on a single page</summary>
 <p><a href="<%= relative_url "/ot1y/tags/aaronic-blessing/" %>">aaronic-blessing</a> &middot;
 <a href="<%= relative_url "/ot1y/tags/abel/" %>">abel</a> &middot;
 <a href="<%= relative_url "/ot1y/tags/abigail/" %>">abigail</a> &middot;
@@ -559,6 +558,7 @@ the number beside each tag is its page count.
 <a href="<%= relative_url "/ot1y/tags/sinai/" %>">sinai</a> &middot;
 <a href="<%= relative_url "/ot1y/tags/skin-disease/" %>">skin-disease</a> &middot;
 <a href="<%= relative_url "/ot1y/tags/sodom/" %>">sodom</a> &middot;
+<a href="<%= relative_url "/ot1y/tags/son-of-man/" %>">son-of-man</a> &middot;
 <a href="<%= relative_url "/ot1y/tags/song-of-solomon/" %>">song-of-solomon</a> &middot;
 <a href="<%= relative_url "/ot1y/tags/song-of-the-sea/" %>">song-of-the-sea</a> &middot;
 <a href="<%= relative_url "/ot1y/tags/speak-lord/" %>">speak-lord</a> &middot;

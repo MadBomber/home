@@ -2,8 +2,8 @@
 week: 14
 day: 3
 title: "The Sons of Jacob -- Twelve Tribes Born Through Rivalry and Heartbreak"
-reading: "Genesis 29:31-30:24"
-parallel_passages: Luke 6:13-16, Romans 9:10-13, Matthew 1:1-3, Revelation 21:12-14
+reading:
+- Genesis 29:31-30:24
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -49,15 +49,11 @@ God's pattern of favoring the unfavored -- opening Leah's womb while Rachel rema
 
 **Old Testament Roots**
 
-The surrogacy arrangement echoes Sarah and Hagar (Genesis 16:1-4), establishing a recurring pattern in which barrenness and rivalry produce the heirs of the covenant. The name *Yehudah* anticipates Genesis 49:8-12, where Judah receives the royal blessing and the promise of a coming ruler. The twelve sons prefigure the tribal structure that will organize Israel from the wilderness (Numbers 1-2) through the monarchy and beyond.
+The surrogacy arrangement echoes Sarah and Hagar (Genesis 16:1-4), establishing a recurring pattern in which barrenness and rivalry produce the heirs of the covenant. The name *Yehudah* anticipates Genesis 49:8-12, where Judah receives the royal blessing and the promise of a coming ruler. The twelve sons prefigure the tribal structure that will organize Israel from the wilderness (Numbers 1-2) through the monarchy and beyond. 1 Samuel 1:1-20 echoes the barrenness-and-rivalry theme: Hannah, like Rachel, is the beloved but barren wife who cries out to God and eventually bears a son (Samuel) who will reshape Israel's history. Psalm 113:9 celebrates the God who "gives the barren woman a home, making her the joyous mother of children." Isaiah 54:1 -- "Sing, O barren one, who did not bear" -- applies the pattern eschatologically, promising that the desolate woman will have more children than the married one.
 
 **New Testament Echoes**
 
 Matthew 1:1-3 traces Christ's genealogy through Judah, the son of the unloved wife. Luke 6:13-16 records Jesus choosing twelve apostles -- a deliberate reconstitution of the twelve tribes. Romans 9:10-13 uses the Jacob narrative to articulate the doctrine of election: God's choice is not based on human merit but on divine purpose. Revelation 21:12-14 unites the twelve tribes and twelve apostles as the architecture of the New Jerusalem.
-
-**Parallel Passages**
-
-1 Samuel 1:1-20 echoes the barrenness-and-rivalry theme: Hannah, like Rachel, is the beloved but barren wife who cries out to God and eventually bears a son (Samuel) who will reshape Israel's history. Psalm 113:9 celebrates the God who "gives the barren woman a home, making her the joyous mother of children." Isaiah 54:1 -- "Sing, O barren one, who did not bear" -- applies the pattern eschatologically, promising that the desolate woman will have more children than the married one.
 
 ## Reflection Questions
 

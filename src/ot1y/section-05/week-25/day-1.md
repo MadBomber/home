@@ -2,8 +2,8 @@
 week: 25
 day: 1
 title: "The Census and the Camp"
-reading: "Numbers 1:1-2:34"
-parallel_passages: Psalm 147:4, Revelation 7:4-8, Revelation 21:12-14
+reading:
+- Numbers 1:1-2:34
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +50,11 @@ The camp arrangement also anticipates the vision of Revelation 21, where the new
 
 **Old Testament Roots**
 
-The creation mandate -- "Be fruitful and multiply and fill the earth" (Genesis 1:28) -- reaches its numerical expression in the census of 603,550. The Abrahamic promise -- "I will make of you a great nation" (Genesis 12:2) and "Look toward heaven, and number the stars... so shall your offspring be" (Genesis 15:5) -- is being counted in the wilderness. Psalm 147:4 -- "He determines the number of the stars; he gives to all of them their names" -- places God's numbering of the heavens alongside his numbering of his people. The God who orders the cosmos orders the camp.
+The creation mandate -- "Be fruitful and multiply and fill the earth" (Genesis 1:28) -- reaches its numerical expression in the census of 603,550. The Abrahamic promise -- "I will make of you a great nation" (Genesis 12:2) and "Look toward heaven, and number the stars... so shall your offspring be" (Genesis 15:5) -- is being counted in the wilderness. Psalm 147:4 -- "He determines the number of the stars; he gives to all of them their names" -- places God's numbering of the heavens alongside his numbering of his people. The God who orders the cosmos orders the camp. 1 Chronicles 21:1-17 records David's census and its devastating consequences -- a reminder that counting God's people for human pride produces plague, while counting them at God's command produces order. Psalm 87:6 -- "The LORD records as he registers the peoples, 'This one was born there'" -- affirms that God himself keeps the census of his people across all nations.
 
 **New Testament Echoes**
 
 John 1:14 -- "The Word became flesh and tabernacled among us" -- places Christ at the center of human life as the *mishkan* stood at the center of the camp. Revelation 7:4-8 records a sealing of 144,000 from the twelve tribes of Israel, echoing the Mosaic census with its tribal enumeration. Revelation 21:12-16 describes the new Jerusalem as a perfect square with twelve gates bearing tribal names -- the wilderness camp in its final, eternal form, with the Lamb at the center where the tabernacle once stood.
-
-**Parallel Passages**
-
-1 Chronicles 21:1-17 records David's census and its devastating consequences -- a reminder that counting God's people for human pride produces plague, while counting them at God's command produces order. Psalm 87:6 -- "The LORD records as he registers the peoples, 'This one was born there'" -- affirms that God himself keeps the census of his people across all nations.
 
 ## Reflection Questions
 

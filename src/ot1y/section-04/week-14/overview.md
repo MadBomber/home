@@ -7,8 +7,8 @@ chapters:
 - Genesis 27:41-28:22
 - Genesis 29:1-30
 - Genesis 29:31-30:24
-- Genesis 31:1-55
-- Genesis 32:1-33:20
+- Genesis 30:25-31:55
+- Genesis 32:1-36:43
 tags:
 - covenant-4
 memory_verse: "Genesis 32:28"
@@ -44,8 +44,8 @@ The reunion with Esau is the narrative's quiet miracle. Jacob approaches terrifi
 | [1](../day-1/) | Genesis 27:41-28:22 | Flight and Bethel -- The Ladder, the Promise, and the Gate of Heaven |
 | [2](../day-2/) | Genesis 29:1-30 | The Deceiver Deceived -- Laban's Substitution and Fourteen Years of Service |
 | [3](../day-3/) | Genesis 29:31-30:24 | The Sons of Jacob -- Twelve Tribes Born Through Rivalry and Heartbreak |
-| [4](../day-4/) | Genesis 31:1-55 | Jacob Flees Laban -- Stolen Gods, Confrontation, and the Covenant at Mizpah |
-| [5](../day-5/) | Genesis 32:1-33:20 | Peniel -- Wrestling with God, a New Name, and the Reunion with Esau |
+| [4](../day-4/) | Genesis 30:25-31:55 | Jacob Flees Laban -- Stolen Gods, Confrontation, and the Covenant at Mizpah |
+| [5](../day-5/) | Genesis 32:1-36:43 | Peniel -- Wrestling with God, a New Name, and the Reunion with Esau |
 
 ## Key Themes
 

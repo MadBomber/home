@@ -2,8 +2,8 @@
 week: 36
 day: 2
 title: "Sit at My Right Hand -- Priest-King Forever After the Order of Melchizedek"
-reading: "Psalm 110"
-parallel_passages: Matthew 22:41-46, Acts 2:34-35, Hebrews 5:6-10, Hebrews 7:1-28
+reading:
+- Psalm 110
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,15 +48,11 @@ The author of Hebrews builds his most sustained theological argument on Psalm 11
 
 **Old Testament Roots**
 
-Genesis 14:18-20 -- Melchizedek blesses Abraham and receives his tithe, establishing a priestly order that predates Israel's entire sacrificial system. 2 Samuel 7:12-16 -- the Davidic covenant promises an eternal throne, but does not explain how the one who sits on it could be David's Lord. Psalm 2:7 -- the decree of sonship that Psalm 110 extends by placing the Son at God's right hand. Zechariah 6:12-13 -- the Branch who "shall sit and rule on his throne" and "shall be a priest on his throne," the only other Old Testament text that explicitly unites the offices of king and priest.
+Genesis 14:18-20 -- Melchizedek blesses Abraham and receives his tithe, establishing a priestly order that predates Israel's entire sacrificial system. 2 Samuel 7:12-16 -- the Davidic covenant promises an eternal throne, but does not explain how the one who sits on it could be David's Lord. Psalm 2:7 -- the decree of sonship that Psalm 110 extends by placing the Son at God's right hand. Zechariah 6:12-13 -- the Branch who "shall sit and rule on his throne" and "shall be a priest on his throne," the only other Old Testament text that explicitly unites the offices of king and priest. Daniel 7:13-14 -- one like a son of man coming to the Ancient of Days and receiving everlasting dominion. Isaiah 53:12 -- the servant who "makes intercession for the transgressors," fulfilling the priestly dimension of the Messiah's work.
 
 **New Testament Echoes**
 
-Matthew 22:41-46 -- Jesus silences the Pharisees with the riddle of Psalm 110. Acts 2:34-36 -- Peter's Pentecost sermon identifies the risen Christ as the one seated at God's right hand. Romans 8:34 -- Christ "is at the right hand of God... interceding for us." Ephesians 1:20-22 -- the Father raised Christ and seated him at his right hand "far above all rule and authority." Hebrews 5:6-10; 6:20; 7:1-28 -- the extended exposition of Christ's Melchizedek priesthood. Hebrews 10:12-13 -- "when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God, waiting from that time until his enemies should be made a footstool for his feet."
-
-**Parallel Passages**
-
-Psalm 2:6-9 -- the king installed on Zion and given the nations as inheritance. Daniel 7:13-14 -- one like a son of man coming to the Ancient of Days and receiving everlasting dominion. Isaiah 53:12 -- the servant who "makes intercession for the transgressors," fulfilling the priestly dimension of the Messiah's work. 1 Corinthians 15:25 -- "For he must reign until he has put all his enemies under his feet."
+Matthew 22:41-46 -- Jesus silences the Pharisees with the riddle of Psalm 110. Acts 2:34-36 -- Peter's Pentecost sermon identifies the risen Christ as the one seated at God's right hand. Romans 8:34 -- Christ "is at the right hand of God... interceding for us." Ephesians 1:20-22 -- the Father raised Christ and seated him at his right hand "far above all rule and authority." Hebrews 5:6-10; 6:20; 7:1-28 -- the extended exposition of Christ's Melchizedek priesthood. Hebrews 10:12-13 -- "when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God, waiting from that time until his enemies should be made a footstool for his feet." 1 Corinthians 15:25 -- "For he must reign until he has put all his enemies under his feet."
 
 ## Reflection Questions
 

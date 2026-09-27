@@ -29,19 +29,19 @@ This week we moved from conquest to settlement. The readings opened with a strik
 
 ## Discussion Questions
 
-### Day 1: The Division Begins and Caleb's Mountain (Joshua 13:1--14:15)
+### Day 1: The Division Begins and Caleb's Mountain (Joshua 13:1-14:15)
 
 1. **Much Land Remains.** Joshua is old, and God tells him, "There remains yet very much land to possess" (Joshua 13:1). The victories are real, but the work is unfinished. How do you live faithfully in the tension between what God has already done and what remains incomplete? Where in your own life do you experience the reality of "much land remains"?
 
 2. **Caleb at Eighty-Five.** Caleb asks not for a comfortable valley but for the hill country where the Anakim -- the giants -- still dwell: "Give me this hill country of which the LORD spoke on that day" (Joshua 14:12). Forty-five years of wilderness wandering did not shrink his faith; it sharpened it. What distinguishes faith that grows stronger over decades from faith that erodes? What does Caleb's request reveal about the relationship between aging and spiritual hunger?
 
-### Day 2: Tribal Allotments (Joshua 15:1--19:51)
+### Day 2: Tribal Allotments (Joshua 15:1-19:51)
 
 3. **Theology in Property Lines.** The land distribution reads like a surveyor's report -- tribal boundaries, city lists, geographic coordinates. But each boundary is a line that says: *God keeps his word.* The promise to Abraham in Genesis 13 -- "all the land that you see I will give to you" -- is being parceled out, acre by acre. How does the specificity of these chapters shape your understanding of God's faithfulness? Is God's care more evident in sweeping promises or in their detailed fulfillment?
 
 4. **The Inheritance of the Specific.** Peter describes the believer's inheritance as "imperishable, undefiled, and unfading, kept in heaven for you" (1 Peter 1:4). Joshua's land could be lost through disobedience. Christ's inheritance cannot. What is the relationship between the tangible land Israel received and the eternal inheritance the New Testament describes? How does the earthly shadow illuminate the heavenly reality?
 
-### Day 3: Cities of Refuge and "Not One Word Has Failed" (Joshua 20:1--21:45)
+### Day 3: Cities of Refuge and "Not One Word Has Failed" (Joshua 20:1-21:45)
 
 5. **A Place to Run.** The cities of refuge provided shelter for those who killed accidentally -- a place to flee from the avenger of blood until the case could be heard (Joshua 20:1-6). The manslayer lived in the city of refuge until the death of the high priest. What does this system reveal about God's commitment to justice and mercy operating together? Why do you think the manslayer's release was tied to the death of the high priest?
 
@@ -53,7 +53,7 @@ This week we moved from conquest to settlement. The readings opened with a strik
 
 8. **The Fragility of Unity.** The crisis in Joshua 22 reveals how quickly covenantal unity can fracture -- one altar, one misunderstanding, and twelve tribes nearly go to war with each other. What practices sustain unity in a community of faith? How does Paul's exhortation to "maintain the unity of the Spirit in the bond of peace" (Ephesians 4:3) speak to this kind of situation?
 
-### Day 5: Joshua's Farewell at Shechem (Joshua 23:1--24:33)
+### Day 5: Joshua's Farewell at Shechem (Joshua 23:1-24:33)
 
 9. **The Rehearsal of Faithfulness.** Before demanding a choice, Joshua rehearses God's history with Israel from Abraham through the conquest (Joshua 24:2-13). The recital is long and detailed. Why does Joshua ground the call to decision in a narrative of what God has already done? How does remembering God's past faithfulness shape present obedience?
 

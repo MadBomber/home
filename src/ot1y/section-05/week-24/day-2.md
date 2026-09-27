@@ -2,8 +2,8 @@
 week: 24
 day: 2
 title: "The Sanctity of Blood and the Boundaries of Sexual Holiness"
-reading: "Leviticus 17:1-18:30"
-parallel_passages: Hebrews 9:22, John 6:53-56, 1 Corinthians 6:18-20, Ephesians 5:25-32, Acts 15:20, Romans 1:24-27
+reading:
+- Leviticus 17:1-18:30
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +50,11 @@ The sexual ethics of Leviticus 18 are likewise fulfilled rather than abolished i
 
 **Old Testament Roots**
 
-The prohibition against consuming blood goes back to the Noahic covenant: "But you shall not eat flesh with its life, that is, its blood" (Genesis 9:4). The centralization of sacrifice anticipates Deuteronomy 12, where Israel is commanded to worship only at "the place that the LORD your God will choose." The connection between sexual sin and the land's judgment echoes Genesis 19 (Sodom) and anticipates the warnings of Deuteronomy 28 and the prophetic indictments of Ezekiel 16 and 23.
+The prohibition against consuming blood goes back to the Noahic covenant: "But you shall not eat flesh with its life, that is, its blood" (Genesis 9:4). The centralization of sacrifice anticipates Deuteronomy 12, where Israel is commanded to worship only at "the place that the LORD your God will choose." The connection between sexual sin and the land's judgment echoes Genesis 19 (Sodom) and anticipates the warnings of Deuteronomy 28 and the prophetic indictments of Ezekiel 16 and 23. The land vomiting out its inhabitants (18:24-28) anticipates Deuteronomy 9:4-5, where the Canaanites are driven out for their wickedness.
 
 **New Testament Echoes**
 
-Hebrews 9:22 -- "without the shedding of blood there is no forgiveness of sins." John 6:53-56 -- Jesus' blood as the means of eternal life. Acts 15:20 -- the Jerusalem council's prohibition of blood and sexual immorality for Gentile believers, directly echoing Leviticus 17-18. First Corinthians 6:18-20 -- the body as the temple of the Holy Spirit, grounding sexual ethics in the indwelling presence of God. Ephesians 5:31-32 -- marriage as a picture of Christ and the church.
-
-**Parallel Passages**
-
-Compare Leviticus 17:11 with Genesis 9:4-6 (the Noahic blood prohibition) and Hebrews 9:11-14 (Christ's blood as the fulfillment). Compare Leviticus 18:24-28 (the land vomiting out its inhabitants) with Deuteronomy 9:4-5 (the Canaanites driven out for their wickedness) and Romans 1:24-27 (the consequences of exchanging God's truth for a lie).
+Hebrews 9:22 -- "without the shedding of blood there is no forgiveness of sins." John 6:53-56 -- Jesus' blood as the means of eternal life. Acts 15:20 -- the Jerusalem council's prohibition of blood and sexual immorality for Gentile believers, directly echoing Leviticus 17-18. First Corinthians 6:18-20 -- the body as the temple of the Holy Spirit, grounding sexual ethics in the indwelling presence of God. Ephesians 5:31-32 -- marriage as a picture of Christ and the church. Hebrews 9:11-14 presents Christ's blood as the fulfillment of the principle of 17:11, and Romans 1:24-27 traces the consequences of exchanging God's truth for a lie.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 23
 day: 5
 title: "Holiness at Breakfast -- Clean and Unclean in Food, Body, and Daily Life"
-reading: "Leviticus 11:1-15:33"
-parallel_passages: Mark 7:14-23, Acts 10:9-16, Acts 10:28, Romans 14:14-17, 1 Corinthians 6:19-20, Matthew 8:1-4, Colossians 2:16-17
+reading:
+- Leviticus 11:1-15:33
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -52,15 +52,11 @@ The bodily discharges of Leviticus 15 -- rendering a person unclean through the 
 
 **Old Testament Roots**
 
-The dietary laws connect to the creation account's distinction between different kinds of animals (Genesis 1:20-25) and the clean/unclean distinction Noah observed when loading the ark (Genesis 7:2-3). The *tsara'at* regulations echo the leprosy of Miriam (Numbers 12:10-15), who was struck with skin disease for speaking against Moses and had to live outside the camp for seven days. The purification rituals requiring sacrifice connect the purity laws directly to the sacrificial system of Leviticus 1-7 -- the two systems are inseparable.
+The dietary laws connect to the creation account's distinction between different kinds of animals (Genesis 1:20-25) and the clean/unclean distinction Noah observed when loading the ark (Genesis 7:2-3). The *tsara'at* regulations echo the leprosy of Miriam (Numbers 12:10-15), who was struck with skin disease for speaking against Moses and had to live outside the camp for seven days. The purification rituals requiring sacrifice connect the purity laws directly to the sacrificial system of Leviticus 1-7 -- the two systems are inseparable. Compare Leviticus 13:45-46 (the leper's cry of "Unclean, unclean" and exile outside the camp) with Isaiah 53:3-4 ("despised and rejected by men... we esteemed him stricken, smitten by God"). The Suffering Servant bears the marks of the outcast -- the one declared unclean, separated from the community, bearing contamination that belongs to others.
 
 **New Testament Echoes**
 
-Matthew 8:1-4 -- Jesus touches the leper and reverses the flow of contamination. Mark 7:14-23 -- Jesus declares all foods clean, fulfilling the dietary laws' pedagogical purpose. Acts 10:9-16, 28 -- Peter's vision abolishes the Jew-Gentile distinction that the purity laws had embodied. Colossians 2:16-17 -- the food laws are "a shadow of the things to come, but the substance belongs to Christ." Romans 14:14-17 -- "nothing is unclean in itself," and the kingdom is about righteousness, peace, and joy. 1 Corinthians 6:19-20 -- the believer's body as a temple, the purity laws' deepest concern fulfilled by the Spirit's indwelling.
-
-**Parallel Passages**
-
-Compare Leviticus 13:45-46 (the leper's cry of "Unclean, unclean" and exile outside the camp) with Isaiah 53:3-4 ("despised and rejected by men... we esteemed him stricken, smitten by God"). The Suffering Servant bears the marks of the outcast -- the one declared unclean, separated from the community, bearing contamination that belongs to others. Compare also with Hebrews 13:11-13: "The bodies of those animals whose blood is brought into the holy places by the high priest as a sacrifice for sin are burned outside the camp. So Jesus also suffered outside the gate in order to sanctify the people through his own blood."
+Matthew 8:1-4 -- Jesus touches the leper and reverses the flow of contamination. Mark 7:14-23 -- Jesus declares all foods clean, fulfilling the dietary laws' pedagogical purpose. Acts 10:9-16, 28 -- Peter's vision abolishes the Jew-Gentile distinction that the purity laws had embodied. Colossians 2:16-17 -- the food laws are "a shadow of the things to come, but the substance belongs to Christ." Romans 14:14-17 -- "nothing is unclean in itself," and the kingdom is about righteousness, peace, and joy. 1 Corinthians 6:19-20 -- the believer's body as a temple, the purity laws' deepest concern fulfilled by the Spirit's indwelling. Hebrews 13:11-13 carries the outside-the-camp theme to the cross: "The bodies of those animals whose blood is brought into the holy places by the high priest as a sacrifice for sin are burned outside the camp. So Jesus also suffered outside the gate in order to sanctify the people through his own blood."
 
 ## Reflection Questions
 

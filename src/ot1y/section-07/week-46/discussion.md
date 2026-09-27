@@ -31,13 +31,13 @@ The doctrine at the center of this week is providence -- the conviction that God
 
 ## Discussion Questions
 
-### Day 1: Vashti Deposed, Esther Crowned (Esther 1:1--2:23)
+### Day 1: Vashti Deposed, Esther Crowned (Esther 1:1-2:23)
 
 1. **The Invisible Setup.** Esther is absorbed into a pagan king's harem, her Jewish identity concealed, her guardian's motives opaque. Nothing in the narrative looks like divine guidance. There is no angelic announcement, no prophetic word, no burning bush. Yet every detail turns out to be preparation. How do you distinguish between random circumstance and providential positioning -- and does the distinction even matter before the crisis arrives?
 
 2. **Moral Ambiguity and Providence.** Esther's placement involves morally ambiguous choices -- concealing her identity, entering a harem, participating in a pagan court. God does not appear to endorse the arrangement, yet he works through it. How does this challenge a simplistic view of providence in which God only works through morally clean channels? What does it suggest about the range of instruments God is willing to use?
 
-### Day 2: Haman's Plot and Mordecai's Challenge (Esther 3:1--4:17)
+### Day 2: Haman's Plot and Mordecai's Challenge (Esther 3:1-4:17)
 
 3. **The Agagite Inheritance.** Haman is identified as an Agagite -- a descendant of the Amalekite king Saul was commanded to destroy and instead spared (1 Samuel 15). Unfinished obedience in one generation produces a genocidal threat in a later one. Where have you seen the consequences of half-obedience -- personal or corporate -- ripple forward in ways that far exceeded the original compromise?
 
@@ -45,13 +45,13 @@ The doctrine at the center of this week is providence -- the conviction that God
 
 5. **"For Such a Time as This."** Mordecai implies that Esther's position is not accidental -- that providence placed her before revealing the reason for the placement. The calling preceded the crisis. Where in your own life has faithfulness in obscurity turned out to be preparation for significance you could not have anticipated?
 
-### Day 3: Esther's Banquets and Haman's Gallows (Esther 5:1--7:10)
+### Day 3: Esther's Banquets and Haman's Gallows (Esther 5:1-7:10)
 
 6. **"If I Perish, I Perish."** Esther's words (4:16) are not resignation but resolve. She counts the cost and acts. How is this different from passive acceptance of fate? What is the relationship between risk and faith -- and where in the New Testament do you see this same posture of costly obedience?
 
 7. **The Sleepless Night.** The king cannot sleep (6:1). A servant reads from the royal records. The overlooked good deed of Mordecai surfaces at precisely the right moment. The pivotal event in the entire narrative turns on insomnia. What does it say about God's providence that the hinge of deliverance is not a miracle but a restless night and a routine reading of bureaucratic records?
 
-### Day 4: The Jews Delivered, Purim Established (Esther 8:1--10:3)
+### Day 4: The Jews Delivered, Purim Established (Esther 8:1-10:3)
 
 8. **Reversal as Divine Signature.** The gallows become Haman's scaffold. The day of destruction becomes a festival. The lots cast for doom give the celebration its name. Evil, in this book, consistently produces the instrument of its own destruction. How does this pattern of reversal -- the weapon detonating in the hand of the one who wielded it -- connect to what happened at the cross (1 Corinthians 2:8)?
 

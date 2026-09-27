@@ -2,8 +2,8 @@
 week: 9
 day: 4
 title: "Abram the Warrior -- The Rescue of Lot from the Kings of the East"
-reading: "Genesis 14:1-16"
-parallel_passages: Matthew 12:29, Luke 15:4-7, Colossians 2:15, Ephesians 6:12, Psalm 110:1-2, 1 John 3:16
+reading:
+- Genesis 14:1-16
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -52,15 +52,11 @@ The detail that Abram did not wait for Lot to ask for help -- that he pursued th
 
 **Old Testament Roots**
 
-The military structure of the narrative -- a surprise night attack, division of forces, pursuit to the north -- anticipates later Israelite military actions, particularly Gideon's night raid against the Midianites (Judges 7:16-22) and Joshua's conquest of the northern coalition (Joshua 11:7). The mention of Dan (14:14) is an anachronism that places the narrative in the context of later Israel's geography, reminding the reader that Abram's story is their story. The four eastern kings represent the same Mesopotamian powers -- Babylon, Elam, and their vassals -- that will later threaten and eventually exile Israel, establishing a pattern of eastern aggression that runs through the entire Old Testament.
+The military structure of the narrative -- a surprise night attack, division of forces, pursuit to the north -- anticipates later Israelite military actions, particularly Gideon's night raid against the Midianites (Judges 7:16-22) and Joshua's conquest of the northern coalition (Joshua 11:7). The mention of Dan (14:14) is an anachronism that places the narrative in the context of later Israel's geography, reminding the reader that Abram's story is their story. The four eastern kings represent the same Mesopotamian powers -- Babylon, Elam, and their vassals -- that will later threaten and eventually exile Israel, establishing a pattern of eastern aggression that runs through the entire Old Testament. Psalm 110:1-2 -- "The LORD says to my Lord: 'Sit at my right hand, until I make your enemies your footstool'" -- envisions the Messianic king subduing hostile powers, the same work Abram performs in miniature. Isaiah 49:24-25 asks, "Can the prey be taken from the mighty, or the captives of a tyrant be rescued?" and answers, "Even the captives of the mighty shall be taken, and the prey of the tyrant be rescued, for I will contend with those who contend with you." This is the theological principle behind Abram's raid -- and behind the cross.
 
 **New Testament Echoes**
 
 Paul's declaration that Christ "disarmed the rulers and authorities and put them to an open shame, by triumphing over them" (Colossians 2:15) is the cosmic version of Abram's defeat of the eastern coalition. Jesus' parable of the strong man bound (Matthew 12:29) employs the same rescue logic. First John 3:16 -- "By this we know love, that he laid down his life for us" -- defines love as the willingness to risk oneself for others, the very quality Abram demonstrates in pursuing the kings to Dan. Hebrews 2:14-15 describes Christ destroying "the one who has the power of death" to "deliver all those who through fear of death were subject to lifelong slavery" -- a rescue operation that dwarfs Abram's but follows the same pattern.
-
-**Parallel Passages**
-
-Psalm 110:1-2 -- "The LORD says to my Lord: 'Sit at my right hand, until I make your enemies your footstool'" -- envisions the Messianic king subduing hostile powers, the same work Abram performs in miniature. Isaiah 49:24-25 asks, "Can the prey be taken from the mighty, or the captives of a tyrant be rescued?" and answers, "Even the captives of the mighty shall be taken, and the prey of the tyrant be rescued, for I will contend with those who contend with you." This is the theological principle behind Abram's raid -- and behind the cross.
 
 ## Reflection Questions
 

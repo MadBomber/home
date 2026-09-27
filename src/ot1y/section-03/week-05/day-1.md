@@ -2,8 +2,8 @@
 week: 5
 day: 1
 title: "The World Unravels -- the Sons of God, Total Corruption, Divine Grief, and the Word 'But'"
-reading: "Genesis 6:1-8"
-parallel_passages: Jude 1:6-7, Romans 3:10-18, Ephesians 2:1-5, Luke 19:41-44, Matthew 24:37-39
+reading:
+- Genesis 6:1-8
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -58,11 +58,7 @@ The diagnosis of Genesis 6:5 reverberates throughout the Old Testament. Jeremiah
 
 **New Testament Echoes**
 
-Paul's catena of quotations in Romans 3:10-18 systematizes the Genesis 6:5 diagnosis. Jesus identifies the heart as the source of defilement: "For out of the heart come evil thoughts, murder, adultery" (Matthew 15:19). The grace that found Noah becomes the grace that saves sinners in Ephesians 2:8-9. And Jesus' reference to the "days of Noah" in Matthew 24:37-39 places the flood narrative squarely within the framework of eschatological expectation -- the pattern repeats, and so does the offer of rescue.
-
-**Parallel Passages**
-
-Compare Genesis 6:1-4 with Jude 6-7, which describes "angels who did not stay within their own position of authority" -- Jude reads the Genesis 6 boundary-crossing as angelic transgression. Compare the grief of God in 6:6 with the grief of the Spirit in Ephesians 4:30: "Do not grieve the Holy Spirit of God." The God who grieves over a corrupt world still grieves when his people participate in corruption.
+Paul's catena of quotations in Romans 3:10-18 systematizes the Genesis 6:5 diagnosis. Jesus identifies the heart as the source of defilement: "For out of the heart come evil thoughts, murder, adultery" (Matthew 15:19). The grace that found Noah becomes the grace that saves sinners in Ephesians 2:8-9. And Jesus' reference to the "days of Noah" in Matthew 24:37-39 places the flood narrative squarely within the framework of eschatological expectation -- the pattern repeats, and so does the offer of rescue. Jude 6-7 describes "angels who did not stay within their own position of authority" -- Jude reads the Genesis 6:1-4 boundary-crossing as angelic transgression. The grief of God in 6:6 is matched by the grief of the Spirit in Ephesians 4:30: "Do not grieve the Holy Spirit of God." The God who grieves over a corrupt world still grieves when his people participate in corruption.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 27
 day: 4
 title: "Worship, Justice, and the Prophet Like Moses"
-reading: "Deuteronomy 12:1-18:22"
-parallel_passages: John 4:19-24, Acts 3:17-26, Hebrews 1:1-2
+reading:
+- Deuteronomy 12:1-26:19
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -17,7 +17,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Deuteronomy 12:1-18:22
+- Deuteronomy 12:1-26:19
 
 ## Historical Context
 
@@ -31,6 +31,12 @@ Chapter 16 establishes the three pilgrimage festivals -- Passover (*Pesach*), We
 
 The section reaches its prophetic climax in Deuteronomy 18:15-22. "The LORD your God will raise up for you a prophet like me from among you, from your brothers -- it is to him you shall listen" (18:15). The verb *tishma'un* ("you shall listen") is the *Shema* verb -- the same root that governs the greatest commandment. To hear the future prophet is to obey the *Shema*. Three features define this coming figure: he will be *like Moses* -- a mediator, one who stands between God and the people; he will arise *from among you, from your brothers* -- not an angel, not a foreign king, but a fellow Israelite; and God will put his own words in the prophet's mouth -- "he shall speak to them all that I command him" (18:18). The passage also includes a solemn warning: "Whoever will not listen to my words that he shall speak in my name, I myself will require it of him" (18:19). The prophet like Moses is not optional. Refusal to hear him is refusal to hear God.
 
+Chapters 19-26 carry the same covenant love into the ordinary business of a settled nation -- courts, war, farms, debts, and families. Chapter 19 sets apart three cities of refuge in the land (19:1-10), so that a person who kills "his neighbor unintentionally without having hated him in the past" (19:4) can flee from the avenger of blood (*go'el haddam*) and live. The deliberate murderer finds no shelter there; the elders of his city hand him over (19:11-13). The same chapter protects the courts from false testimony: "A single witness shall not suffice against a person for any crime or for any wrong in connection with any offense that he has committed. Only on the evidence of two witnesses or of three witnesses shall a charge be established" (19:15). A malicious witness receives the penalty he meant to bring on his neighbor (19:16-19). Chapter 20 governs warfare. Before battle a priest tells the army, "Do not fear" (20:3), and the officers send home the man with a new house, a new vineyard, a new betrothal, or a fearful heart (20:5-8). Even the trees are protected: an army besieging a city may eat the fruit of its trees but may not cut them down -- "Are the trees in the field human, that they should be besieged by you?" (20:19).
+
+Chapter 21 opens with a case no court can solve. A body is found in the open country and no one knows who struck the blow (21:1). The elders of the nearest town break the neck of a heifer in a valley with running water, wash their hands over it, and declare, "Our hands did not shed this blood, nor did our eyes see it shed" (21:7), praying, "Accept atonement, O LORD, for your people Israel" (21:8). Unpunished bloodshed is not a private matter. It stains the land, and the community must answer for it before God. The same chapter closes with a law about the body of an executed criminal hung on a tree: "his body shall not remain all night on the tree, but you shall bury him the same day, for a hanged man is cursed by God" (21:23). Hanging here was a public display after death, not the means of execution. The body is taken down before nightfall so that the land is not defiled.
+
+Much of chapters 22-25 protects the people with the least protection. A neighbor's stray ox must be returned (22:1-4). An escaped slave is not to be handed back to his master (23:15-16). A creditor may not take a millstone in pledge, "for that would be taking a life in pledge" (24:6), and a poor man's cloak must be returned by sunset so that he can sleep in it (24:12-13). A hired worker is paid before the sun goes down (24:15). The forgotten sheaf, the olives left on the branches, and the grapes left on the vine belong to "the sojourner, the fatherless, and the widow" (24:19-21). And the motive is always the same: "You shall remember that you were a slave in Egypt" (24:18; compare 24:22). Israel's memory of its own bondage is meant to shape how it treats the vulnerable. Chapter 26 then gives the worshiper words to say when he brings the first fruit of the harvest to the place God chooses. The confession begins, "A wandering Aramean was my father" (*arammi oved avi*, 26:5) -- Jacob, the homeless ancestor -- and moves through the sojourn in Egypt, the harsh labor, the cry to the LORD, and the deliverance "with a mighty hand and an outstretched arm" (26:8), ending, "And behold, now I bring the first of the fruit of the ground, which you, O LORD, have given me" (26:10). Scholars have often called this passage a short historical creed. The farmer does not offer his basket as a private act of piety. He tells Israel's story as his own. The law section ends with a mutual declaration: Israel has declared that the LORD is its God, and the LORD has declared that Israel is "a people for his treasured possession" (26:17-18).
+
 ## Christ in This Day
 
 The promise of a prophet like Moses in Deuteronomy 18:15 creates the messianic expectation that runs like a river through the rest of the Old Testament and into the first century. When the crowds see Jesus multiply loaves, they exclaim, "This is indeed the Prophet who is to come into the world!" (John 6:14). When the Samaritan woman at the well says, "I know that Messiah is coming," she is drawing on a tradition rooted in Deuteronomy 18. And Peter, in his sermon at Solomon's Portico after healing the lame man, quotes the passage directly: "Moses said, 'The Lord God will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you. And it shall be that every soul who does not listen to that prophet shall be destroyed from the people'" (Acts 3:22-23). Peter's application is unmistakable: the prophet Moses promised is Jesus of Nazareth. The verb "listen" -- *tishma'un* -- carries the full weight of the *Shema*. To hear Jesus is to love God with all your heart, soul, and might. To refuse Jesus is to refuse the God who sent him.
@@ -41,6 +47,8 @@ Jesus' encounter with the Samaritan woman at the well in John 4 fulfills the cen
 
 The three pilgrimage festivals of Deuteronomy 16 -- Passover, Weeks, and Booths -- all find their fulfillment in Christ. Jesus is crucified at Passover, the true Lamb whose blood marks the doorpost of every believing heart (1 Corinthians 5:7). The Holy Spirit descends at Pentecost (*Shavuot*), writing the law not on tablets of stone but on hearts of flesh (Acts 2:1-4; 2 Corinthians 3:3). And the Feast of Booths, which commemorated Israel's wilderness sojourn and anticipated the eschatological ingathering, is the backdrop for Jesus' climactic declaration: "If anyone thirsts, let him come to me and drink" (John 7:37). The worship calendar Moses established was always pointing beyond itself -- beyond the festivals to the events they foreshadowed, beyond the place to the person, beyond the rituals to the reality.
 
+The law of the hanged man in Deuteronomy 21:23 becomes one of the most important verses in Paul's gospel. "Christ redeemed us from the curse of the law by becoming a curse for us -- for it is written, 'Cursed is everyone who is hanged on a tree'" (Galatians 3:13). Jesus died on a Roman cross, and by the standard of this verse his death looked like proof that God had rejected him. Paul reads it the other way around. Jesus took the curse deliberately, in the place of those who deserved it. Even the same-day burial the law required is visible in the Gospels: the Jewish leaders asked Pilate that the bodies not remain on the cross (John 19:31), and Jesus was laid in the tomb before the Sabbath began.
+
 ## Key Themes
 
 - **Centralized worship and undivided allegiance** -- The command to worship at one place is the architectural expression of the *Shema*. Just as Israel must love one God with an undivided heart, they must worship at one place by God's choosing -- not scattered across high places of their own selection. Centralization is not about geography. It is about sovereignty. God chooses where he is to be met, and the people come to him on his terms.
@@ -49,19 +57,17 @@ The three pilgrimage festivals of Deuteronomy 16 -- Passover, Weeks, and Booths 
 
 - **The prophet like Moses** -- Deuteronomy 18:15-19 creates the expectation that will shape Israel's messianic hope for centuries. The coming prophet will be a mediator, an Israelite, and a bearer of God's own words. The *Shema* verb -- "you shall listen to him" -- binds obedience to this future figure with obedience to the greatest commandment. The prophetic office points beyond every prophet who holds it to the one who will hold it finally and fully.
 
+- **Remember that you were a slave** -- The laws of chapters 19-26 guard the innocent manslayer, the accused, the soldier, the poor debtor, the hired worker, the sojourner, the fatherless, and the widow. Their motive is memory: "You shall remember that you were a slave in Egypt" (24:18). The firstfruits confession of 26:5-10 makes the same memory personal, as each worshiper tells the story of deliverance as his own.
+
 ## Connections
 
 **Old Testament Roots**
 
-The centralization command of Deuteronomy 12 anticipates the later establishment of Jerusalem as the place God chooses to put his name (2 Samuel 7; 1 Kings 8:29). The three pilgrimage festivals (Deuteronomy 16) echo their institution in Exodus 23:14-17 and Leviticus 23. The prophet-like-Moses promise (18:15) builds on the mediatorial role Moses assumed at Sinai (Exodus 20:18-21) and anticipates the prophetic succession that runs from Joshua through Samuel to Elijah and beyond. The false prophet test (13:1-5) reflects the concern already present in Numbers 12, where God distinguishes Moses' unique, face-to-face prophetic access from the visionary mode of other prophets.
+The centralization command of Deuteronomy 12 anticipates the later establishment of Jerusalem as the place God chooses to put his name (2 Samuel 7; 1 Kings 8:29). The three pilgrimage festivals (Deuteronomy 16) echo their institution in Exodus 23:14-17 and Leviticus 23. The prophet-like-Moses promise (18:15) builds on the mediatorial role Moses assumed at Sinai (Exodus 20:18-21) and anticipates the prophetic succession that runs from Joshua through Samuel to Elijah and beyond. The false prophet test (13:1-5) reflects the concern already present in Numbers 12, where God distinguishes Moses' unique, face-to-face prophetic access from the visionary mode of other prophets. 1 Kings 8:27-30 -- Solomon's prayer at the temple dedication, which wrestles with the tension between God's transcendence and his "name dwelling" in a particular place, directly develops the name theology of Deuteronomy 12. Jeremiah 7:1-15 -- the temple sermon, where Jeremiah warns that the temple has become a "den of robbers" rather than the place of true worship -- shows what happens when centralized worship degenerates into presumptive ritual. Malachi 1:11 -- "From the rising of the sun to its setting my name will be great among the nations" -- anticipates the universalization of worship that Jesus announces at Jacob's well.
 
 **New Testament Echoes**
 
 Peter identifies Jesus as the prophet like Moses in Acts 3:22-23 and 7:37. Stephen makes the same identification in his speech before the Sanhedrin: "This is the Moses who said to the Israelites, 'God will raise up for you a prophet like me from your brothers'" (Acts 7:37). Jesus' statement about worship "in spirit and truth" (John 4:23-24) fulfills the Deuteronomic principle of centralized worship by relocating it from a place to a person. Paul identifies Jesus as the Passover lamb in 1 Corinthians 5:7, connecting the Deuteronomy 16 festival with the cross. The transfiguration -- where Moses and Elijah appear with Jesus and the Father's voice declares, "This is my beloved Son... listen to him" (Mark 9:7) -- echoes the *Shema* verb of Deuteronomy 18:15 with unmistakable precision.
-
-**Parallel Passages**
-
-1 Kings 8:27-30 -- Solomon's prayer at the temple dedication, which wrestles with the tension between God's transcendence and his "name dwelling" in a particular place, directly develops the name theology of Deuteronomy 12. Jeremiah 7:1-15 -- the temple sermon, where Jeremiah warns that the temple has become a "den of robbers" rather than the place of true worship -- shows what happens when centralized worship degenerates into presumptive ritual. Malachi 1:11 -- "From the rising of the sun to its setting my name will be great among the nations" -- anticipates the universalization of worship that Jesus announces at Jacob's well.
 
 ## Reflection Questions
 
@@ -70,6 +76,8 @@ Peter identifies Jesus as the prophet like Moses in Acts 3:22-23 and 7:37. Steph
 2. The test of a true prophet in Deuteronomy 13 is not miraculous power but covenant fidelity. A sign-worker who leads people away from God is a false prophet, no matter how impressive the signs. How does this standard shape the way you evaluate spiritual leaders and teaching today? Where have you been tempted to prioritize spectacular experience over theological faithfulness?
 
 3. Peter identifies Jesus as the prophet like Moses and then adds: "Every soul who does not listen to that prophet shall be destroyed from the people" (Acts 3:23). The stakes of hearing Jesus are absolute. What does it mean, practically, to "listen" to Jesus in the *Shema* sense -- not just hearing information but obeying, responding, letting his word enter your life? Where is the gap between your hearing and your obeying?
+
+4. The worshiper bringing firstfruits was to begin, "A wandering Aramean was my father" (26:5), and then tell the story of Israel's slavery and deliverance as his own. If you told the story of what God has done for you in a few sentences, how would it go? How might remembering that you were once in bondage change the way you treat those who have the least protection?
 
 ## Prayer
 

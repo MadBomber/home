@@ -2,8 +2,11 @@
 week: 41
 day: 5
 title: "The Fall of Jerusalem -- The Temple Burned, the People Exiled"
-reading: "2 Kings 23:31-25:30"
-parallel_passages: 2 Chronicles 36:1-23, Jeremiah 39:1-18, Lamentations 1:1-22, Luke 1:32-33, Revelation 21:1-5
+reading:
+- 2 Kings 23:31-25:30
+parallel_passages:
+- 2 Chronicles 36:1-23
+- Jeremiah 39:1-10
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -53,7 +56,7 @@ The final image of Kings -- Jehoiachin eating at the king's table in Babylon -- 
 
 **Old Testament Roots**
 
-The destruction of Jerusalem fulfills the covenant curses of Deuteronomy 28:49-68 with terrible precision: a nation "from far away, from the end of the earth, swooping down like an eagle" (28:49), siege conditions so severe that parents consume their own children (28:53), and deportation to a land "that neither you nor your fathers have known" (28:36). Jeremiah 39 provides the parallel account of the fall. Lamentations, traditionally attributed to Jeremiah, gives the poetic response: "How lonely sits the city that was full of people! How like a widow has she become, she who was great among the nations!" (Lamentations 1:1).
+The destruction of Jerusalem fulfills the covenant curses of Deuteronomy 28:49-68 with terrible precision: a nation "from far away, from the end of the earth, swooping down like an eagle" (28:49), siege conditions so severe that parents consume their own children (28:53), and deportation to a land "that neither you nor your fathers have known" (28:36). Jeremiah 39 provides the parallel account of the fall. Lamentations, traditionally attributed to Jeremiah, gives the poetic response: "How lonely sits the city that was full of people! How like a widow has she become, she who was great among the nations!" (Lamentations 1:1). Psalm 137 gives voice to the exiles' grief: "By the waters of Babylon, there we sat down and wept, when we remembered Zion." Ezekiel 37:1-14, the vision of the valley of dry bones, is God's answer to the exile's despair: "O dry bones, hear the word of the LORD... I will put my Spirit within you, and you shall live."
 
 **New Testament Echoes**
 
@@ -61,7 +64,7 @@ Matthew 1:11-12 includes the exile as a structural hinge in Jesus' genealogy, de
 
 **Parallel Passages**
 
-2 Chronicles 36:15-23 provides the same account with a crucial addition: the edict of Cyrus permitting the Jews to return and rebuild the temple. Where Kings ends with a captive king at a foreign table, Chronicles ends with a Persian emperor opening the door to restoration. Psalm 137 gives voice to the exiles' grief: "By the waters of Babylon, there we sat down and wept, when we remembered Zion." Ezekiel 37:1-14, the vision of the valley of dry bones, is God's answer to the exile's despair: "O dry bones, hear the word of the LORD... I will put my Spirit within you, and you shall live."
+2 Chronicles 36:1-23 provides the same account with a crucial addition: the edict of Cyrus permitting the Jews to return and rebuild the temple. Where Kings ends with a captive king at a foreign table, Chronicles ends with a Persian emperor opening the door to restoration. Jeremiah 39:1-10 narrates the fall of the city in the same terms as 2 Kings 25:1-12: the breach of the wall, Zedekiah's flight and capture, the blinding of the king, and the burning of Jerusalem.
 
 ## Reflection Questions
 

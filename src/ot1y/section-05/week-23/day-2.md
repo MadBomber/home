@@ -2,8 +2,8 @@
 week: 23
 day: 2
 title: "When Things Go Wrong -- The Sin and Guilt Offerings"
-reading: "Leviticus 4:1-5:19"
-parallel_passages: 2 Corinthians 5:21, Hebrews 9:11-14, 1 John 1:8-2:2, Romans 3:23-26, Isaiah 53:4-6, 1 Peter 1:18-19
+reading:
+- Leviticus 4:1-5:19
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -28,7 +28,7 @@ The sin offering (*chattat*, from the root *chata*, "to miss the mark") addresse
 
 The system is carefully graduated by status and therefore by responsibility. When the anointed priest sins, the pollution is greatest because his sin contaminates the sanctuary itself -- the blood must be sprinkled seven times before the veil and applied to the horns of the incense altar (4:5-7). When the whole congregation sins, the same procedure applies, because corporate sin defiles the corporate dwelling place of God. When a leader (*nasi*) sins, a male goat suffices, and the blood is applied to the horns of the burnt offering altar in the courtyard (4:22-26). When an ordinary individual sins, a female goat or lamb is brought (4:27-35). The gradation is not arbitrary. It reflects a principle that runs through all of Scripture: greater proximity to God entails greater accountability. The priest who mediates between God and people bears a heavier burden when he himself transgresses.
 
-The guilt offering (*asham*) addresses a related but distinct problem: specific violations that require not only atonement but restitution. The Hebrew *asham* carries the dual sense of "guilt" and "compensation" -- the offering itself is named for the condition it addresses. Where the sin offering covers the pollution of unintentional transgression, the guilt offering addresses concrete acts of unfaithfulness (*ma'al*) -- misuse of sacred property (5:14-16), violations the worshiper suspects but cannot confirm (5:17-19), and offenses against a neighbor that also constitute offenses against God. The guilt offering requires not only a ram sacrificed but restitution plus a twenty-percent penalty paid to the wronged party (5:16). Atonement in this system is never purely vertical. When sin damages a neighbor, the blood on the altar does not eliminate the debt to the neighbor. Both dimensions must be addressed: the sacrificial and the relational, the vertical and the horizontal.
+The guilt offering (*asham*) addresses a related but distinct problem: specific violations that require not only atonement but restitution. The Hebrew *asham* carries the dual sense of "guilt" and "compensation" -- the offering itself is named for the condition it addresses. Where the sin offering covers the pollution of unintentional transgression, the guilt offering addresses concrete acts of unfaithfulness (*ma'al*) -- misuse of sacred property (5:14-16) and violations the worshiper suspects but cannot confirm (5:17-19). When the trespass involves the holy things, the guilt offering requires not only a ram without blemish but repayment: the offender "shall also make restitution for what he has done amiss in the holy thing and shall add a fifth to it and give it to the priest" (5:16). Atonement in this system is never a ritual gesture that leaves the damage in place. The blood on the altar does not cancel what was taken. What was taken must be restored, with a fifth added. Both must be done: the sacrifice and the repayment.
 
 One of the most remarkable features of the sin offering is its provision for the poor. If an Israelite cannot afford a goat, two turtledoves or two pigeons may be substituted (5:7). If even birds are beyond reach, a tenth of an ephah of fine flour -- the grain offering equivalent -- is accepted as a sin offering (5:11-13). The system refuses to let poverty become a barrier to atonement. No Israelite is too poor to be forgiven. The graduated scale reveals a God who accommodates the economic reality of his people without diluting the theological necessity of the offering. Atonement must happen. But the cost is calibrated to what the worshiper can bear.
 
@@ -45,28 +45,24 @@ The sin offering's focus on unintentional transgression -- sins committed withou
 ## Key Themes
 
 - **Sin beyond intention** -- The *chattat* addresses unintentional transgression, insisting that sin is not merely what we choose but a condition that produces effects we do not recognize. Ignorance does not equal innocence before a holy God. The system exposes a need deeper than conscience can measure.
-- **Restitution and atonement** -- The guilt offering (*asham*) refuses to separate the vertical from the horizontal. Sin against God that also damages a neighbor requires both sacrificial blood and concrete repayment. Forgiveness from God does not cancel the debt to the person harmed. Both dimensions must be addressed.
+- **Restitution and atonement** -- The guilt offering (*asham*) refuses to let a sacrifice stand in for repayment. The one who has trespassed against the holy things must restore what he took and add a fifth to it. The ram atones, but it does not excuse the offender from making the loss good. Both are required.
 - **No one too poor for forgiveness** -- The graduated scale of the sin offering -- from a bull to turtledoves to flour -- ensures that economic status never becomes a barrier to atonement. God accommodates the worshiper's poverty without diminishing the necessity of the offering. Grace meets people where they are.
 
 ## Connections
 
 **Old Testament Roots**
 
-The sin offering's concern with unintentional transgression connects to the distinction between intentional and unintentional sin that will be elaborated in Numbers 15:22-31, where deliberate, "high-handed" sin receives no sacrificial remedy -- the offender is "cut off from among his people." The guilt offering's restitution requirement anticipates the justice codes of Exodus 21-22, where theft and damage demand repayment with a penalty. The graduated scale echoes God's provision for the poor throughout the Torah, including the gleaning laws (Leviticus 19:9-10) and the Jubilee provisions (Leviticus 25).
+The sin offering's concern with unintentional transgression connects to the distinction between intentional and unintentional sin that will be elaborated in Numbers 15:22-31, where deliberate, "high-handed" sin receives no sacrificial remedy -- the offender is "cut off from among his people." The guilt offering's restitution requirement anticipates the justice codes of Exodus 21-22, where theft and damage demand repayment with a penalty. The graduated scale echoes God's provision for the poor throughout the Torah, including the gleaning laws (Leviticus 19:9-10) and the Jubilee provisions (Leviticus 25). Compare Leviticus 4-5 with Psalm 19:12: "Who can discern his errors? Declare me innocent from hidden faults." David's prayer assumes what the sin offering enacts -- that our sins exceed our awareness and require atonement we cannot provide for ourselves.
 
 **New Testament Echoes**
 
 2 Corinthians 5:21 -- Christ "made to be sin" -- is the sin offering's fulfillment stated in the starkest possible terms. Isaiah 53:10 -- the Servant's soul as an *asham* (guilt offering) -- is the prophetic bridge between Leviticus and Calvary. Hebrews 9:11-14 argues that Christ's blood accomplishes what animal blood could not: the purification of the conscience. Romans 3:25 describes Christ as a *hilasterion* -- a "propitiation" or "mercy seat" -- the very place where the sin offering's blood was sprinkled. 1 John 2:1-2 identifies Jesus as "the propitiation for our sins, and not for ours only but also for the sins of the whole world."
 
-**Parallel Passages**
-
-Compare Leviticus 4-5 with Psalm 19:12: "Who can discern his errors? Declare me innocent from hidden faults." David's prayer assumes what the sin offering enacts -- that our sins exceed our awareness and require atonement we cannot provide for ourselves. Compare also with Numbers 15:30-31, where deliberate sin receives no sacrificial provision, highlighting the severity of presumptuous rebellion against a holy God.
-
 ## Reflection Questions
 
 1. The sin offering addresses transgressions committed without awareness. What does it mean that you may be carrying guilt you do not even know about? How does the reality of unintentional sin change the way you pray, the way you examine your life, and the way you depend on Christ's finished work?
 
-2. The guilt offering required both a sacrifice and concrete restitution to the person harmed. Is there a relationship in your life where you have sought God's forgiveness but have not yet made things right with the person you wronged? What would restitution look like?
+2. Leviticus 5:5 requires that the one who realizes his guilt "shall confess the sin he has committed" before his offering is made. Why do you think God joins confession to sacrifice rather than accepting the offering alone? Is there a sin you have been carrying that you have never named plainly before God?
 
 3. The graduated scale ensured that no Israelite was too poor for atonement. How does this challenge the subtle ways we make access to God conditional -- on education, on respectability, on having our lives together? How does the cross fulfill what the graduated scale promised?
 

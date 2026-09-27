@@ -2,8 +2,10 @@
 week: 13
 day: 1
 title: "Rebekah -- The Providential Bride and Isaac's Comfort After Sarah"
-reading: "Genesis 24:28-67"
-parallel_passages: Genesis 24:1-27, Genesis 12:1-3, Ephesians 5:25-32, Revelation 19:7-9, John 14:2-3, 2 Corinthians 11:2
+reading:
+- Genesis 24:28-67
+parallel_passages:
+- Genesis 24:1-27
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -50,15 +52,15 @@ Isaac's evening walk in the field, lifting his eyes to see the approaching carav
 
 **Old Testament Roots**
 
-Rebekah's departure from Mesopotamia echoes Abraham's call in Genesis 12:1 -- both leave country, kindred, and father's house. The family's blessing -- "may your offspring possess the gate of those who hate him" (24:60) -- echoes the covenant promise of Genesis 22:17. The meeting at Beer-lahai-roi connects Rebekah's arrival to Hagar's encounter with the God who sees (Genesis 16:13-14). The *betulah* ("virgin," 24:16) language anticipates the prophetic tradition of Israel as God's bride (Isaiah 62:5; Hosea 2:19-20).
+Rebekah's departure from Mesopotamia echoes Abraham's call in Genesis 12:1 -- both leave country, kindred, and father's house. The family's blessing -- "may your offspring possess the gate of those who hate him" (24:60) -- echoes the covenant promise of Genesis 22:17. The meeting at Beer-lahai-roi connects Rebekah's arrival to Hagar's encounter with the God who sees (Genesis 16:13-14). The *betulah* ("virgin," 24:16) language anticipates the prophetic tradition of Israel as God's bride (Isaiah 62:5; Hosea 2:19-20). Rebekah's willing departure can be compared with Ruth's in Ruth 1:16 -- "Where you go I will go."
 
 **New Testament Echoes**
 
-The servant's mission to bring a bride for the father's son anticipates the Spirit's work in calling the Church to Christ (John 16:14; 2 Corinthians 11:2). Rebekah's faith in an unseen groom echoes 1 Peter 1:8 -- "Though you have not seen him, you love him." The marriage of Isaac and Rebekah foreshadows the marriage supper of the Lamb (Revelation 19:7-9). Ephesians 5:25-32 identifies the husband-wife relationship as a "mystery" that refers to "Christ and the church."
+The servant's mission to bring a bride for the father's son anticipates the Spirit's work in calling the Church to Christ (John 16:14; 2 Corinthians 11:2). Rebekah's faith in an unseen groom echoes 1 Peter 1:8 -- "Though you have not seen him, you love him." The marriage of Isaac and Rebekah foreshadows the marriage supper of the Lamb (Revelation 19:7-9). Ephesians 5:25-32 identifies the husband-wife relationship as a "mystery" that refers to "Christ and the church." Isaac's comfort in Rebekah can be compared with the eschatological comfort of Revelation 21:4 -- "He will wipe away every tear."
 
 **Parallel Passages**
 
-Compare Rebekah's willing departure with Ruth's in Ruth 1:16 -- "Where you go I will go." Compare the servant's testimony about the father's wealth (24:35-36) with the Spirit's testimony about Christ (John 16:14-15). Compare Isaac's comfort in Rebekah with the eschatological comfort of Revelation 21:4 -- "He will wipe away every tear."
+Genesis 24:1-27 is the account the servant retells to Laban's household in 24:34-49 -- the oath, the prayer at the spring, and Rebekah's answer, repeated nearly word for word, so that the family hears the LORD's leading in the servant's own mouth before they decide.
 
 ## Reflection Questions
 

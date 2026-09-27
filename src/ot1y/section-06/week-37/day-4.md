@@ -2,8 +2,10 @@
 week: 37
 day: 4
 title: "The Battle, Absalom's Death, and David's Grief"
-reading: "2 Samuel 17:1-19:43"
-parallel_passages: Galatians 3:13, Romans 5:6-8, 2 Corinthians 5:14-15, Isaiah 53:4-6
+reading:
+- 2 Samuel 17:1-19:43
+parallel_passages:
+- Psalm 3
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,7 +50,7 @@ The contrast between David and God as fathers illuminates the entire gospel. Dav
 
 **Old Testament Roots**
 
-Absalom's death in a tree recalls Deuteronomy 21:22-23: "If a man has committed a crime punishable by death and he is put to death, and you hang him on a tree, his body shall not remain overnight on the tree... for a hanged man is cursed by God." The connection between hanging and curse is embedded in Torah. The forest of Ephraim, where "the forest devoured more people that day than the sword" (18:8), echoes the chaotic violence of nature turned against the wicked -- a theme present in the Song of Deborah (Judges 5:20-21), where the stars and the river fight against Sisera.
+Absalom's death in a tree recalls Deuteronomy 21:22-23: "If a man has committed a crime punishable by death and he is put to death, and you hang him on a tree, his body shall not remain overnight on the tree... for a hanged man is cursed by God." The connection between hanging and curse is embedded in Torah. The forest of Ephraim, where "the forest devoured more people that day than the sword" (18:8), echoes the chaotic violence of nature turned against the wicked -- a theme present in the Song of Deborah (Judges 5:20-21), where the stars and the river fight against Sisera. Genesis 22, where Abraham prepares to sacrifice Isaac on Mount Moriah, is the earlier expression of a father's willingness to lose a son -- but in Abraham's case, God provides a substitute. In David's case, no substitute comes. The substitution David cannot achieve, God himself will provide on another hill, in another generation.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Galatians 3:13 quotes Deuteronomy 21:23 and applies it to Christ, making the con
 
 **Parallel Passages**
 
-Psalm 3, written during David's flight from Absalom, gives voice to the faith beneath the grief: "But you, O LORD, are a shield about me, my glory, and the lifter of my head" (3:3). Genesis 22, where Abraham prepares to sacrifice Isaac on Mount Moriah, is the earlier expression of a father's willingness to lose a son -- but in Abraham's case, God provides a substitute. In David's case, no substitute comes. The substitution David cannot achieve, God himself will provide on another hill, in another generation.
+Psalm 3, written during David's flight from Absalom, gives voice to the faith beneath the grief: "But you, O LORD, are a shield about me, my glory, and the lifter of my head" (Psalm 3:3).
 
 ## Reflection Questions
 

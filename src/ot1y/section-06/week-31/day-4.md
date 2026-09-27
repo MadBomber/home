@@ -2,8 +2,8 @@
 week: 31
 day: 4
 title: "Give Us a King -- Israel Rejects Divine Rule for Human Monarchy"
-reading: "1 Samuel 8:1-22"
-parallel_passages: John 19:15, Deuteronomy 17:14-20, John 6:15, Acts 17:7, Revelation 19:16
+reading:
+- 1 Samuel 8:1-22
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -19,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 1 Samuel 8:1--22
+- 1 Samuel 8:1-22
 
 ## Historical Context
 
@@ -53,15 +53,11 @@ Jesus confronted the "like all the nations" impulse throughout his ministry. Aft
 
 **Old Testament Roots**
 
-Deuteronomy 17:14-20 already anticipated Israel's desire for a king and provided the law of the king: he must be chosen by God, must not accumulate horses or wives or wealth, and must keep a copy of the Torah and read it "all the days of his life" (Deuteronomy 17:19). The demand in 1 Samuel 8 is not for the Deuteronomic king -- the humble, Torah-shaped ruler -- but for a king "like all the nations," a fundamentally different request. The *mishpat hammelek* Samuel describes (1 Samuel 8:11-18) echoes the oppression of Pharaoh in Exodus 1-5 -- the irony is devastating: the king they demand will replicate the tyranny God delivered them from.
+Deuteronomy 17:14-20 already anticipated Israel's desire for a king and provided the law of the king: he must be chosen by God, must not accumulate horses or wives or wealth, and must keep a copy of the Torah and read it "all the days of his life" (Deuteronomy 17:19). The demand in 1 Samuel 8 is not for the Deuteronomic king -- the humble, Torah-shaped ruler -- but for a king "like all the nations," a fundamentally different request. The *mishpat hammelek* Samuel describes (1 Samuel 8:11-18) echoes the oppression of Pharaoh in Exodus 1-5 -- the irony is devastating: the king they demand will replicate the tyranny God delivered them from. Gideon had already refused the kingship Israel now demands: "I will not rule over you, and my son will not rule over you; the LORD will rule over you" (Judges 8:22-23). Samuel's warning about the ways of the king (1 Samuel 8:11-18) finds its fulfillment in Solomon (1 Kings 10-11), who accumulates exactly what the law of the king prohibited: horses, wives, and gold.
 
 **New Testament Echoes**
 
 John 19:15 -- "We have no king but Caesar" -- is the final expression of the 1 Samuel 8 impulse: Israel choosing a visible, pagan ruler over the invisible, divine one. John 6:15 -- the crowd attempting to make Jesus king by force -- shows the same demand resurfacing in a new form. Acts 17:7 -- the accusation that Paul and his companions "are all acting against the decrees of Caesar, saying that there is another king, Jesus" -- reveals that the early church proclaimed precisely the kind of kingship 1 Samuel 8 rejected: a ruler whose authority supersedes every earthly power.
-
-**Parallel Passages**
-
-Compare Israel's demand in 1 Samuel 8 with Gideon's refusal of kingship in Judges 8:22-23: "I will not rule over you, and my son will not rule over you. The LORD will rule over you." Compare Samuel's warning about the ways of the king (1 Samuel 8:11-18) with Solomon's fulfillment of those warnings in 1 Kings 10-11, where Solomon accumulates exactly what the law of the king prohibited: horses, wives, and gold. Compare the people's insistence, "No! But there shall be a king over us," with the crowd's insistence before Pilate, "Crucify him!" -- both are moments where the people demand their own destruction and God permits it for his saving purposes.
 
 ## Reflection Questions
 

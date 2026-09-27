@@ -2,8 +2,11 @@
 week: 20
 day: 4
 title: "Property, the Vulnerable, Sabbath, and the Three Annual Feasts"
-reading: "Exodus 22:1-23:19"
-parallel_passages: Matthew 25:31-46, James 1:27, Colossians 2:16-17, 1 Corinthians 5:7-8
+reading:
+- Exodus 22:1-23:19
+parallel_passages:
+- Deuteronomy 16:1-17
+- Leviticus 23
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,7 +52,7 @@ The three annual feasts each find their fulfillment in Christ. The Feast of Unle
 
 **Old Testament Roots**
 
-The triad of sojourner, widow, and orphan appears throughout Deuteronomy (10:18; 14:29; 24:17-21; 27:19), the Psalms (68:5 -- "Father of the fatherless and protector of widows is God in his holy habitation"), and the Prophets (Isaiah 1:17 -- "learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow's cause"). The sabbatical year of Exodus 23:10-11 is expanded in Leviticus 25 into the Jubilee -- every fiftieth year, all debts canceled, all slaves freed, all ancestral land returned. The Sabbath principle does not merely recur. It escalates.
+The triad of sojourner, widow, and orphan appears throughout Deuteronomy (10:18; 14:29; 24:17-21; 27:19), the Psalms (68:5 -- "Father of the fatherless and protector of widows is God in his holy habitation"), and the Prophets (Isaiah 1:17 -- "learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow's cause"). The sabbatical year of Exodus 23:10-11 is expanded in Leviticus 25 into the Jubilee -- every fiftieth year, all debts canceled, all slaves freed, all ancestral land returned. The Sabbath principle does not merely recur. It escalates. Amos 5:21-24 warns that feasts without justice are an abomination: "Let justice roll down like waters, and righteousness like an ever-flowing stream." Micah 6:8 summarizes the ethical heart of the law: "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?"
 
 **New Testament Echoes**
 
@@ -57,7 +60,7 @@ Matthew 25:31-46 -- Christ identifies with the vulnerable. James 1:27 -- "Religi
 
 **Parallel Passages**
 
-Deuteronomy 16:1-17 provides a fuller account of the three annual feasts. Leviticus 23 gives the complete festival calendar including the Day of Atonement. Amos 5:21-24 warns that feasts without justice are an abomination: "Let justice roll down like waters, and righteousness like an ever-flowing stream." Micah 6:8 summarizes the ethical heart of the law: "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?"
+Deuteronomy 16:1-17 provides a fuller account of the three annual feasts. Leviticus 23 gives the complete festival calendar including the Day of Atonement.
 
 ## Reflection Questions
 

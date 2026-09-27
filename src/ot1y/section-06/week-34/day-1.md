@@ -2,8 +2,12 @@
 week: 34
 day: 1
 title: "The Bread, the Madness, and the Cave -- Outcasts Gather to the King"
-reading: "1 Samuel 21:1-22:23"
-parallel_passages: Matthew 12:1-8, Psalm 34, Psalm 56, 1 Corinthians 1:26-29, Luke 6:12-16
+reading:
+- 1 Samuel 21:1-22:23
+parallel_passages:
+- Psalm 34
+- Psalm 56
+- Psalm 52
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -17,7 +21,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 1 Samuel 21:1--22:23
+- 1 Samuel 21:1-22:23
 
 ## Historical Context
 
@@ -49,7 +53,7 @@ David's feigned madness before Achish -- the anointed king drooling on his beard
 
 **Old Testament Roots**
 
-The bread of the Presence is established in Leviticus 24:5-9 and Exodus 25:30. The priestly massacre at Nob echoes the judgment on the house of Eli prophesied in 1 Samuel 2:31-33 -- the priestly line of Eli is nearly extinguished, and only Abiathar survives. The cave of Adullam appears in Genesis 38:1 as part of the territory of Judah, linking David's hiding place to his tribal inheritance.
+The bread of the Presence is established in Leviticus 24:5-9 and Exodus 25:30. The priestly massacre at Nob echoes the judgment on the house of Eli prophesied in 1 Samuel 2:31-33 -- the priestly line of Eli is nearly extinguished, and only Abiathar survives. The cave of Adullam appears in Genesis 38:1 as part of the territory of Judah, linking David's hiding place to his tribal inheritance. David's deception at Nob recalls Abraham's deception in Egypt (Genesis 12:10-20) -- both anointed figures resort to falsehood under threat, and both episodes have devastating consequences for others.
 
 **New Testament Echoes**
 
@@ -57,7 +61,7 @@ Jesus' citation of the Nob episode in Matthew 12:3-4 and Mark 2:25-26 is his mos
 
 **Parallel Passages**
 
-Psalm 34 (composed after the flight from Achish), Psalm 56 (composed "when the Philistines seized him in Gath"), Psalm 52 (composed after Doeg's betrayal). Compare David's deception at Nob with Abraham's deception in Egypt (Genesis 12:10-20) -- both anointed figures resort to falsehood under threat, and both episodes have devastating consequences for others.
+Three psalms are tied by their titles to this reading: Psalm 34 (composed after the flight from Achish), Psalm 56 (composed "when the Philistines seized him in Gath"), and Psalm 52 (composed after Doeg's betrayal).
 
 ## Reflection Questions
 

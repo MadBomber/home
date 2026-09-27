@@ -2,8 +2,11 @@
 week: 25
 day: 5
 title: "Complaint, Quail, the Spies, and the Verdict"
-reading: "Numbers 11:1-14:45"
-parallel_passages: Hebrews 3:7-19, 1 Corinthians 10:1-13, Matthew 4:1-11
+reading:
+- Numbers 11:1-14:45
+parallel_passages:
+- Deuteronomy 1:19-46
+- Joshua 14:6-12
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -60,11 +63,11 @@ The craving for meat echoes the complaint of Exodus 16:3, where the people first
 
 **New Testament Echoes**
 
-Matthew 4:1-11 records Jesus' temptation in the wilderness, where each of his three responses comes from Deuteronomy -- the book Moses delivered to the next generation precisely because the first generation failed the tests Jesus now passes. Hebrews 3:7-4:11 provides the most sustained NT commentary on Kadesh-barnea, applying its warning to the church. 1 Corinthians 10:1-13 -- "Now these things took place as examples for us, that we might not desire evil as they did" -- reads the wilderness narratives as direct instruction for believers.
+Matthew 4:1-11 records Jesus' temptation in the wilderness, where each of his three responses comes from Deuteronomy -- the book Moses delivered to the next generation precisely because the first generation failed the tests Jesus now passes. Hebrews 3:7-4:11 provides the most sustained NT commentary on Kadesh-barnea, applying its warning to the church. 1 Corinthians 10:1-13 -- "Now these things took place as examples for us, that we might not desire evil as they did" -- reads the wilderness narratives as direct instruction for believers. Jude 5 warns: "Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe" -- an arresting identification of the pre-incarnate Christ as the agent of both salvation and judgment in the wilderness.
 
 **Parallel Passages**
 
-Deuteronomy 1:19-46 retells the spy story from Moses' perspective, adding details absent from Numbers. Joshua 14:6-15 records Caleb's claim to his inheritance forty-five years later -- the faithful spy who still trusted God's promise in old age. Jude 5 warns: "Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe" -- an arresting identification of the pre-incarnate Christ as the agent of both salvation and judgment in the wilderness.
+Deuteronomy 1:19-46 retells the spy story from Moses' perspective, adding details absent from Numbers. Joshua 14:6-12 records Caleb's own recollection of the spy mission forty-five years later, when the faithful spy, still trusting God's promise in old age, claims his inheritance.
 
 ## Reflection Questions
 

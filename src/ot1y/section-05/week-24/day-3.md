@@ -2,8 +2,8 @@
 week: 24
 day: 3
 title: "Be Holy, for I Am Holy -- Love Your Neighbor, Do Justice, Show No Partiality"
-reading: "Leviticus 19:1-20:27"
-parallel_passages: Matthew 22:34-40, Matthew 5:43-48, James 2:1-9, 1 Peter 1:14-16, Galatians 5:13-14, Romans 13:8-10
+reading:
+- Leviticus 19:1-20:27
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -56,11 +56,7 @@ The command to love the neighbor appears for the first time in Leviticus 19:18. 
 
 **New Testament Echoes**
 
-Matthew 22:39 -- Jesus identifies Leviticus 19:18 as the second great commandment. Matthew 5:43-48 -- Jesus extends the love command to enemies. Romans 13:8-10 -- Paul declares that love fulfills the entire law. Galatians 5:14 -- "The whole law is fulfilled in one word: 'You shall love your neighbor as yourself.'" James 2:1-9 -- partiality as a violation of the royal law. First Peter 1:15-16 -- Peter quotes Leviticus 19:2 directly: "Be holy, for I am holy."
-
-**Parallel Passages**
-
-Compare Leviticus 19:9-10 with Ruth 2:2-16 (gleaning as the means of provision for the foreigner). Compare Leviticus 19:15 with James 2:1-4 (partiality in the assembly). Compare Leviticus 19:33-34 (love for the sojourner) with Matthew 25:35 ("I was a stranger and you welcomed me").
+Matthew 22:39 -- Jesus identifies Leviticus 19:18 as the second great commandment. Matthew 5:43-48 -- Jesus extends the love command to enemies. Romans 13:8-10 -- Paul declares that love fulfills the entire law. Galatians 5:14 -- "The whole law is fulfilled in one word: 'You shall love your neighbor as yourself.'" James 2:1-9 -- partiality as a violation of the royal law. First Peter 1:15-16 -- Peter quotes Leviticus 19:2 directly: "Be holy, for I am holy." Matthew 25:35 -- "I was a stranger and you welcomed me" -- carries the love for the sojourner commanded in 19:33-34 into Jesus' teaching.
 
 ## Reflection Questions
 

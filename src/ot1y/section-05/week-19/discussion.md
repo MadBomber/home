@@ -31,7 +31,7 @@ The week reveals that deliverance is not the end of the journey. It is the begin
 
 ## Discussion Questions
 
-### Day 1: The Departure (Exodus 12:43--13:22)
+### Day 1: The Departure (Exodus 12:43-13:22)
 
 1. **Led, Not Mapped.** God does not give Israel a route. He gives them a pillar -- his own visible presence moving ahead of them. He deliberately avoids the direct road because "the people might change their minds when they see war and return to Egypt" (Exodus 13:17). What does it reveal about God's character that he accommodates human weakness in his guidance? Have you experienced a time when God's path for you seemed indirect, and the reason only became clear later?
 
@@ -55,7 +55,7 @@ The week reveals that deliverance is not the end of the journey. It is the begin
 
 8. **The Test of Obedience.** God explicitly says the manna is a test: "that I may test them, whether they will walk in my law or not" (Exodus 16:4). The wilderness is not a detour from God's purposes but the curriculum of formation. How does understanding hardship as divine pedagogy -- rather than divine punishment or abandonment -- change the way you walk through difficult seasons?
 
-### Day 5: Water from the Rock and Battle with Amalek (Exodus 17:1--18:27)
+### Day 5: Water from the Rock and Battle with Amalek (Exodus 17:1-18:27)
 
 9. **The Struck Rock.** Moses strikes the rock with the staff that struck the Nile and divided the sea, and water flows for a thirsty nation. Paul reads this image with christological precision: "They drank from the spiritual Rock that followed them, and the Rock was Christ" (1 Corinthians 10:4). The rock gives what it does not naturally contain. It is struck so that others may drink. How does this image deepen your understanding of the cross?
 

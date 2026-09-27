@@ -2,8 +2,8 @@
 week: 50
 day: 3
 title: "The Valley of Decision -- The Nations Gathered, the LORD Roars from Zion"
-reading: "Joel 3:1-21"
-parallel_passages: Matthew 25:31-46, Revelation 14:14-20, Acts 2:17-21, Romans 8:31-39
+reading:
+- Joel 3:1-21
 section: Consummation
 tags:
 - covenant-8
@@ -57,10 +57,6 @@ Joel's imagery of the nations gathered for judgment draws on a long prophetic tr
 **New Testament Echoes**
 
 Jesus' parable of the sheep and goats (Matthew 25:31-46) is the most direct appropriation of Joel 3's courtroom scene. Acts 2:17-21 quotes Joel 2:28-32 as fulfilled at Pentecost -- the Spirit poured out as the first installment of the last days. Revelation 14:14-20 portrays the "harvest of the earth" using Joel 3:13's agricultural imagery: "Put in the sickle, for the harvest is ripe." The blood that flows from the winepress of God's wrath (Revelation 14:20) echoes Joel's call to tread the winepress, "for it is full" (Joel 3:13).
-
-**Parallel Passages**
-
-Amos 1:2 -- the LORD roars from Zion. Isaiah 66:15-18 -- the LORD comes in fire to judge all flesh. Ezekiel 47:1-12 -- the river from the temple that brings life. Zechariah 14:1-9 -- the LORD fights against the nations and reigns as king. Matthew 25:31-46 -- the Son of Man judges all nations from his throne. Revelation 14:14-20 -- the harvest and the winepress.
 
 ## Reflection Questions
 

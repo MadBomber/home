@@ -2,8 +2,10 @@
 week: 14
 day: 2
 title: "The Deceiver Deceived -- Laban's Substitution and Fourteen Years of Service"
-reading: "Genesis 29:1-30"
-parallel_passages: Ephesians 5:25-27, Revelation 19:7-9, Galatians 6:7-8, Hosea 12:12
+reading:
+- Genesis 29:1-30
+parallel_passages:
+- Hosea 12:12
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -28,7 +30,7 @@ The wedding night deception is Laban's masterstroke and the narrative's most dev
 
 Laban justifies his deception with a single devastating sentence: "It is not so done in our country, to give the younger before the firstborn" (Genesis 29:26). The Hebrew *habbechirah* ("the firstborn") strikes like a hammer. Jacob stole the firstborn's blessing. Now the firstborn's rights are enforced against him. The man who disregarded the order of birth in his own family is forced to honor it in another's. Laban demands seven more years of labor for Rachel -- and Jacob agrees. The cost of his original deception has now compounded into fourteen years of indentured service to a man every bit as calculating as himself.
 
-The marriage arrangement that results -- Jacob married to two sisters simultaneously, loving one and merely tolerating the other -- sets the stage for the rivalry and heartbreak that will dominate the next chapter. Leah, the unloved wife (*senuah*, literally "hated"), will bear the sons through whom the covenant promises flow. Rachel, the beloved, will struggle with barrenness. God's purposes will once again run through the overlooked, the rejected, the one who was not chosen by human preference.
+The marriage arrangement that results leaves a household divided at its center. Jacob is married to two sisters within a single week, and the narrator states the imbalance plainly: "he loved Rachel more than Leah" (29:30). Laban's gifts of maidservants -- Zilpah to Leah, Bilhah to Rachel (29:24, 29) -- are recorded without comment. By the chapter's end, every member of the household is in place, and none of them chose the arrangement freely except the man who profited from it.
 
 ## Christ in This Day
 
@@ -48,7 +50,7 @@ The principle of reaping what one sows, which the Jacob-Laban narrative dramatiz
 
 **Old Testament Roots**
 
-The well-encounter echoes Genesis 24:10-27 (Rebekah) and anticipates Exodus 2:15-21 (Zipporah). Laban's invocation of the firstborn's rights (Genesis 29:26) recalls the birthright and blessing narratives of Genesis 25 and 27. Hosea later references Jacob's time in Aram: "Jacob fled to the land of Aram; there Israel served for a wife, and for a wife he guarded sheep" (Hosea 12:12). The prophet sees Jacob's servitude as both consequence and formation -- the crucible through which the patriarch was shaped.
+The well-encounter echoes Genesis 24:10-27 (Rebekah) and anticipates Exodus 2:15-21 (Zipporah). Laban's invocation of the firstborn's rights (Genesis 29:26) recalls the birthright and blessing narratives of Genesis 25 and 27. Hosea later references Jacob's time in Aram: "Jacob fled to the land of Aram; there Israel served for a wife, and for a wife he guarded sheep" (Hosea 12:12). The prophet sees Jacob's servitude as both consequence and formation -- the crucible through which the patriarch was shaped. Genesis 24 provides the contrasting betrothal scene -- Abraham's servant arriving with abundance versus Jacob arriving with nothing. Ruth 4:11-12 invokes Rachel and Leah as the mothers who "together built up the house of Israel," recognizing that both wives, the loved and the unloved, contributed to the nation's foundation. Song of Solomon 8:6-7 celebrates the kind of love that "many waters cannot quench" -- a love Jacob glimpsed but only Christ perfectly embodies.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Ephesians 5:25-27 presents Christ as the bridegroom who labors and sacrifices fo
 
 **Parallel Passages**
 
-Genesis 24 provides the contrasting betrothal scene -- Abraham's servant arriving with abundance versus Jacob arriving with nothing. Ruth 4:11-12 invokes Rachel and Leah as the mothers who "together built up the house of Israel," recognizing that both wives, the loved and the unloved, contributed to the nation's foundation. Song of Solomon 8:6-7 celebrates the kind of love that "many waters cannot quench" -- a love Jacob glimpsed but only Christ perfectly embodies.
+Hosea 12:12 retells these years from the far end of Israel's history, compressing the whole bargain of 29:15-30 into a single line: "there Israel served for a wife, and for a wife he guarded sheep."
 
 ## Reflection Questions
 
@@ -64,7 +66,7 @@ Genesis 24 provides the contrasting betrothal scene -- Abraham's servant arrivin
 
 2. Jacob's seven years of labor "seemed to him but a few days because of the love he had for her." What does this reveal about the relationship between love and endurance? How does it illuminate the love of Christ, who endured the cross "for the joy that was set before him" (Hebrews 12:2)?
 
-3. God's purposes in this narrative run through Leah -- the unloved wife, the one who was not chosen -- rather than through Rachel, the beloved. What does this pattern of God working through the overlooked and rejected say about how he works in your own life and community?
+3. Leah is given in marriage by her father's scheme and spends her wedding morning as the woman Jacob did not want (29:25). The chapter closes with Jacob loving Rachel "more than Leah" (29:30). Who in your family, church, or community lives with the ache of being loved less -- and what would it look like for you to truly see them?
 
 ## Prayer
 

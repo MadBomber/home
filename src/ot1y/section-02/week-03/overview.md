@@ -7,7 +7,7 @@ chapters:
 - Genesis 3:1-7
 - Genesis 3:8-15
 - Genesis 3:16-24
-- Isaiah 7:14; 9:6-7
+- Isaiah 7:14; Isaiah 9:6-7
 - Psalm 51:1-12
 tags:
 - covenant-2
@@ -38,7 +38,7 @@ The week closes with two passages that reach forward from the fall. Isaiah 7:14 
 | [1](../day-1/) | Genesis 3:1-7 | The Temptation -- Distortion, Desire, and the Silence of the Man |
 | [2](../day-2/) | Genesis 3:8-15 | Where Are You? -- God Pursues, Confronts, and Speaks the First Gospel |
 | [3](../day-3/) | Genesis 3:16-24 | Consequences and Covering -- Pain, Thorns, Death, Animal Skins, and the Guarded Gate |
-| [4](../day-4/) | Isaiah 7:14; 9:6-7 | The Seed Foretold -- Immanuel, and the Child Whose Name Is Mighty God |
+| [4](../day-4/) | Isaiah 7:14; Isaiah 9:6-7 | The Seed Foretold -- Immanuel, and the Child Whose Name Is Mighty God |
 | [5](../day-5/) | Psalm 51:1-12 | The Fall Relived -- David's Confession and the Cry for a Clean Heart |
 
 ## Key Themes

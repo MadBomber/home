@@ -2,8 +2,10 @@
 week: 15
 day: 2
 title: "Potiphar's House -- Integrity, False Accusation, and 'The LORD Was With Joseph'"
-reading: "Genesis 39:1-23"
-parallel_passages: Matthew 26:59-63, 1 Peter 2:19-23, Hebrews 4:15, Isaiah 53:7
+reading:
+- Genesis 39:1-23
+parallel_passages:
+- Psalm 105:17-19
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -48,7 +50,7 @@ Peter, writing to suffering Christians scattered across the Roman Empire, draws 
 
 **Old Testament Roots**
 
-Joseph's resistance to sexual temptation contrasts sharply with the pattern of failure that marks the patriarchal narrative: Abraham's deception in Egypt (Genesis 12:10-20), Isaac's deception in Gerar (Genesis 26:6-11), and Judah's encounter with Tamar in the immediately preceding chapter (Genesis 38). Joseph breaks the pattern, and the narrator attributes this not to superior willpower but to a moral framework anchored in God's character. The *chesed* of Genesis 39:21 connects to the broader Old Testament vocabulary of covenant faithfulness -- the same word that will define God's self-revelation at Sinai (Exodus 34:6-7) and sustain the psalmists in their darkest prayers (Psalm 136).
+Joseph's resistance to sexual temptation contrasts sharply with the pattern of failure that marks the patriarchal narrative: Abraham's deception in Egypt (Genesis 12:10-20), Isaac's deception in Gerar (Genesis 26:6-11), and Judah's encounter with Tamar in the immediately preceding chapter (Genesis 38). Joseph breaks the pattern, and the narrator attributes this not to superior willpower but to a moral framework anchored in God's character. The *chesed* of Genesis 39:21 connects to the broader Old Testament vocabulary of covenant faithfulness -- the same word that will define God's self-revelation at Sinai (Exodus 34:6-7) and sustain the psalmists in their darkest prayers (Psalm 136). Psalm 51:4 echoes Joseph's vertical moral framework when David confesses, "Against you, you only, have I sinned." Daniel's faithfulness in Babylon -- tested by exile, temptation, and false accusation -- follows the pattern Joseph establishes here, with the same refrain of divine accompaniment: "My God sent his angel and shut the lions' mouths" (Daniel 6:22).
 
 **New Testament Echoes**
 

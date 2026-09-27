@@ -2,8 +2,8 @@
 week: 12
 day: 4
 title: "Sarah Dies -- Abraham Buys a Grave"
-reading: "Genesis 23:1-20"
-parallel_passages: Hebrews 11:13-16, Acts 7:5, Hebrews 11:39-40
+reading:
+- Genesis 23:1-20
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -46,15 +46,11 @@ There is also a quieter Christological note in Abraham's grief. "Abraham went in
 
 **Old Testament Roots**
 
-The cave of Machpelah becomes the patriarchal burial site: Abraham (25:9), Isaac and Rebekah (35:29; 49:31), and Jacob and Leah (49:29-31; 50:13) are all buried there. Jacob's final request from Egypt is to be carried back to Machpelah (47:29-30), as if the grave in Canaan is more important than a tomb in the most powerful civilization on earth. The purchase anticipates the later land allotments under Joshua, where the Promised Land is finally distributed -- but the first piece was a grave, bought by a pilgrim, for a dead wife.
+The cave of Machpelah becomes the patriarchal burial site: Abraham (25:9), Isaac and Rebekah (35:29; 49:31), and Jacob and Leah (49:29-31; 50:13) are all buried there. Jacob's final request from Egypt is to be carried back to Machpelah (47:29-30), as if the grave in Canaan is more important than a tomb in the most powerful civilization on earth. The purchase anticipates the later land allotments under Joshua, where the Promised Land is finally distributed -- but the first piece was a grave, bought by a pilgrim, for a dead wife. Joseph's request to have his bones carried out of Egypt (Genesis 50:25; Exodus 13:19; Joshua 24:32) mirrors Abraham's insistence on burying Sarah in Canaan -- both are acts of faith in the land promise. Ruth's declaration, "Where you die I will die, and there will I be buried" (Ruth 1:17), carries the same theology: burial location is a statement of covenant belonging.
 
 **New Testament Echoes**
 
-Hebrews 11:13-16 reads Abraham's pilgrimage as a model for Christian faith: living as strangers and exiles, seeking a heavenly homeland, trusting a promise not yet fully realized. Acts 7:5 cites the land promise's non-fulfillment as evidence that God's purposes transcend any single generation. Hebrews 11:39-40 provides the capstone: "All these, though commended through their faith, did not receive what was promised, since God had provided something better for us, that apart from us they should not be made perfect." Abraham's story is incomplete without Christ. The grave at Machpelah awaits the empty tomb at Jerusalem.
-
-**Parallel Passages**
-
-Joseph's request to have his bones carried out of Egypt (Genesis 50:25; Exodus 13:19; Joshua 24:32) mirrors Abraham's insistence on burying Sarah in Canaan -- both are acts of faith in the land promise. Ruth's declaration, "Where you die I will die, and there will I be buried" (Ruth 1:17), carries the same theology: burial location is a statement of covenant belonging. Jesus' burial in the tomb of Joseph of Arimathea (Matthew 27:57-60) -- a specific, known, purchased grave -- parallels Abraham's careful acquisition of Machpelah.
+Hebrews 11:13-16 reads Abraham's pilgrimage as a model for Christian faith: living as strangers and exiles, seeking a heavenly homeland, trusting a promise not yet fully realized. Acts 7:5 cites the land promise's non-fulfillment as evidence that God's purposes transcend any single generation. Hebrews 11:39-40 provides the capstone: "All these, though commended through their faith, did not receive what was promised, since God had provided something better for us, that apart from us they should not be made perfect." Abraham's story is incomplete without Christ. The grave at Machpelah awaits the empty tomb at Jerusalem. Jesus' burial in the tomb of Joseph of Arimathea (Matthew 27:57-60) -- a specific, known, purchased grave -- parallels Abraham's careful acquisition of Machpelah.
 
 ## Reflection Questions
 

@@ -2,8 +2,11 @@
 week: 17
 day: 1
 title: "A New Pharaoh and a Multiplying People"
-reading: "Exodus 1:1-22"
-parallel_passages: Acts 7:17-19, Matthew 2:16-18, Psalm 105:23-25
+reading:
+- Exodus 1:1-22
+parallel_passages:
+- Acts 7:17-19
+- Psalm 105:23-25
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -32,7 +35,7 @@ The chapter closes with Pharaoh's command to "every people" (1:22) -- not merely
 
 ## Christ in This Day
 
-The massacre of Hebrew infants in Exodus 1 casts a long shadow forward to Bethlehem, where another threatened king will order the slaughter of children to protect his throne. Matthew's Gospel draws the connection explicitly. When Herod orders the murder of every male child two years old and under in Bethlehem (Matthew 2:16), the evangelist sees not coincidence but pattern -- the same satanic strategy recurring across the centuries: destroy the deliverer before he can deliver. In both cases, an empire identifies a child as a threat and responds with indiscriminate violence. In both cases, God preserves the life that will carry his purposes forward. Moses is hidden in a basket on the Nile. Jesus is hidden in Egypt itself -- the very land from which the first deliverer was called out. Matthew quotes Hosea 11:1 -- "Out of Egypt I called my son" -- a verse that originally referred to Israel's exodus, now applied to the infant Christ. The typological echo is unmistakable: Jesus does not merely repeat the pattern of Moses. He fulfills it. He is the son called out of Egypt, the deliverer who survives the slaughter, the one through whom God's people will finally be set free.
+The massacre of Hebrew infants in Exodus 1 casts a long shadow forward to Bethlehem, where another threatened king will order the slaughter of children to protect his throne. Matthew's Gospel draws the connection explicitly. When Herod orders the murder of every male child two years old and under in Bethlehem (Matthew 2:16), the evangelist sees not coincidence but pattern -- the same satanic strategy recurring across the centuries: destroy the deliverer before he can deliver. In both cases, an empire identifies a child as a threat and responds with indiscriminate violence. In both cases, God is already at work beneath the decree, preserving life the empire means to end. In Egypt, two midwives refuse to kill the boys, and "the people multiplied and grew very strong" (1:20). In Bethlehem, a warning dream sends the holy family into Egypt itself -- the very land from which Israel will one day be called out. Matthew quotes Hosea 11:1 -- "Out of Egypt I called my son" -- a verse that originally referred to Israel's exodus, now applied to the infant Christ. The typological echo is unmistakable: Jesus does not merely repeat the story of Israel in Egypt. He fulfills it. He is the son called out of Egypt, the child who survives the slaughter, the one through whom God's people will finally be set free.
 
 The paradox of Exodus 1:12 -- "the more they were oppressed, the more they multiplied" -- anticipates the strange logic that will govern the growth of the early church. Acts records that persecution in Jerusalem scattered the believers "throughout the regions of Judea and Samaria" (Acts 8:1), and the scattering became the mechanism of the gospel's advance. Pharaoh's oppression multiplied Israel. The Sanhedrin's persecution multiplied the church. The cross itself -- the ultimate act of opposition against God's anointed -- became the means by which salvation reached the world. Paul will name this logic explicitly: "Where sin increased, grace abounded all the more" (Romans 5:20). The pattern is set in Exodus 1 and consummated at Calvary. God does not merely survive opposition. He multiplies through it.
 
@@ -50,7 +53,7 @@ The courage of Shiphrah and Puah -- two women defying the most powerful ruler on
 
 **Old Testament Roots**
 
-The language of Exodus 1:7 -- "the people of Israel were fruitful and increased greatly; they multiplied and grew exceedingly strong" -- deliberately mirrors the creation mandate of Genesis 1:28 and the post-flood command of Genesis 9:1. God's word to Abraham -- "I will make of you a great nation" (Genesis 12:2) and "Look toward heaven, and number the stars... so shall your offspring be" (Genesis 15:5) -- is being fulfilled in the slave camps of Egypt. Psalm 105:23-25 remembers this period: "Then Israel came to Egypt; Jacob sojourned in the land of Ham. And the Lord made his people very fruitful and made them stronger than their foes. He turned their hearts to hate his people, to deal craftily with his servants." Even Pharaoh's hostility falls within the scope of God's sovereign direction.
+The language of Exodus 1:7 -- "the people of Israel were fruitful and increased greatly; they multiplied and grew exceedingly strong" -- deliberately mirrors the creation mandate of Genesis 1:28 and the post-flood command of Genesis 9:1. God's word to Abraham -- "I will make of you a great nation" (Genesis 12:2) and "Look toward heaven, and number the stars... so shall your offspring be" (Genesis 15:5) -- is being fulfilled in the slave camps of Egypt. Psalm 105:23-25 remembers this period: "Then Israel came to Egypt; Jacob sojourned in the land of Ham. And the LORD made his people very fruitful and made them stronger than their foes. He turned their hearts to hate his people, to deal craftily with his servants." Even Pharaoh's hostility falls within the scope of God's sovereign direction. Psalm 124:1-3 -- "If it had not been the LORD who was on our side... when people rose up against us, then they would have swallowed us up alive" -- captures Israel's retrospective gratitude for survival under impossible conditions. Isaiah 54:17 -- "No weapon that is fashioned against you shall succeed" -- declares the principle that Exodus 1 enacts: opposition to God's people is ultimately self-defeating.
 
 **New Testament Echoes**
 
@@ -58,7 +61,7 @@ Stephen recounts this history in his speech before the Sanhedrin: "As the time o
 
 **Parallel Passages**
 
-Psalm 124:1-3 -- "If it had not been the LORD who was on our side... when people rose up against us, then they would have swallowed us up alive" -- captures Israel's retrospective gratitude for survival under impossible conditions. Isaiah 54:17 -- "No weapon that is fashioned against you shall succeed" -- declares the principle that Exodus 1 enacts: opposition to God's people is ultimately self-defeating.
+Stephen retells this chapter's events before the Sanhedrin in Acts 7:17-19: the people multiplying in Egypt, the rise of a king who did not know Joseph, and the forced exposure of Israel's infants. Psalm 105:23-25 narrates the same years in song, from Jacob's sojourn "in the land of Ham" to the turning of Egyptian hearts "to hate his people."
 
 ## Reflection Questions
 
@@ -66,8 +69,8 @@ Psalm 124:1-3 -- "If it had not been the LORD who was on our side... when people
 
 2. Shiphrah and Puah feared God more than Pharaoh. Their disobedience was quiet, unglamorous, and effective -- two midwives against an empire. What does their example teach you about the kind of courage God honors? Is there a place in your life where fearing God more than a human authority would change how you act?
 
-3. Matthew connects the slaughter of Hebrew infants to the slaughter of the innocents in Bethlehem (Matthew 2:16-18). What does it mean that the pattern of a threatened king killing children to prevent a deliverer recurs across Scripture? How does Jesus' survival of Herod's massacre echo Moses' survival of Pharaoh's decree -- and what does this tell you about God's ability to protect his purposes?
+3. Matthew connects the slaughter of Hebrew infants to the slaughter of the innocents in Bethlehem (Matthew 2:16-18). What does it mean that the pattern of a threatened king killing children to protect his power recurs across Scripture? How does Jesus' escape from Herod's massacre echo the lives God preserved through the midwives' defiance of Pharaoh (1:17-21) -- and what does this tell you about God's ability to protect his purposes?
 
 ## Prayer
 
-Lord God, you are the one who multiplies life in the very places where death commands the field. You heard the groaning of your people in Egypt before they knew your name, and you preserved the deliverer in a basket on the river that was meant to be his grave. We confess that we are often more afraid of the Pharaohs of our age than we are of you -- that we accommodate the powers that oppress rather than trusting the God who liberates. Give us the quiet, stubborn courage of Shiphrah and Puah, who feared you more than the throne of Egypt and chose life when death was the law of the land. And as you preserved Moses through the waters of the Nile, and as you preserved your Son through the violence of Herod, preserve us -- not from every trial, but through every trial -- until the deliverance you have promised is complete. In the name of Jesus Christ, the deliverer whom no empire could destroy. Amen.
+Lord God, you are the one who multiplies life in the very places where death commands the field. You multiplied your people in Egypt before they knew your name, and you raised up two midwives to guard the lives that Pharaoh's decree was meant to end. We confess that we are often more afraid of the Pharaohs of our age than we are of you -- that we accommodate the powers that oppress rather than trusting the God who liberates. Give us the quiet, stubborn courage of Shiphrah and Puah, who feared you more than the throne of Egypt and chose life when death was the law of the land. And as you preserved the Hebrew children through the courage of the midwives, and as you preserved your Son through the violence of Herod, preserve us -- not from every trial, but through every trial -- until the deliverance you have promised is complete. In the name of Jesus Christ, the deliverer whom no empire could destroy. Amen.

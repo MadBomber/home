@@ -55,7 +55,7 @@ This week we watched the world of Genesis 1-2 fracture. The serpent distorted Go
 
 10. **Exile and the Guarded Gate.** God drives Adam and Eve out of the garden and stations cherubim with a flaming sword to guard the way to the tree of life (3:24). This is not cruelty -- eating from the tree of life in a fallen state would have locked them into eternal brokenness. How does exile function here as both judgment and mercy?
 
-### Day 4: The Seed Foretold (Isaiah 7:14; 9:6-7)
+### Day 4: The Seed Foretold (Isaiah 7:14; Isaiah 9:6-7)
 
 11. **The Names of the Child.** Isaiah identifies the promised seed with names no human being could carry: "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace" (9:6). The offspring of Genesis 3:15 is not merely human. How do these titles expand your understanding of who the serpent-crusher will be? Which of these names speaks most directly to where you are right now?
 

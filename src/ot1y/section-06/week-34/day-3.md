@@ -2,8 +2,8 @@
 week: 34
 day: 3
 title: "Nabal and Abigail -- Folly, Wisdom, and the Woman Who Prevents Bloodshed"
-reading: "1 Samuel 25:1-44"
-parallel_passages: Proverbs 9:1-6, Luke 1:46-55, Matthew 5:9, Romans 12:17-21, Proverbs 31:10-31
+reading:
+- 1 Samuel 25:1-44
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -18,7 +18,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 1 Samuel 25:1--44
+- 1 Samuel 25:1-44
 
 ## Historical Context
 
@@ -52,15 +52,11 @@ Abigail's prophetic declaration -- "The LORD will certainly make my lord a sure 
 
 **Old Testament Roots**
 
-Abigail's role as the wise woman who prevents bloodshed echoes the wise woman of Tekoa (2 Samuel 14) and the wise woman of Abel Beth-maacah (2 Samuel 20:14-22). The contrast between Nabal and Abigail mirrors the contrast between folly and wisdom in Proverbs 9, where Lady Wisdom prepares a feast and Lady Folly offers stolen bread. Abigail's description as *tovat-sekhel* (good in wisdom/discernment) connects her to the *eshet chayil* ("woman of valor") of Proverbs 31:10-31.
+Abigail's role as the wise woman who prevents bloodshed echoes the wise woman of Tekoa (2 Samuel 14) and the wise woman of Abel Beth-maacah (2 Samuel 20:14-22). The contrast between Nabal and Abigail mirrors the contrast between folly and wisdom in Proverbs 9, where Lady Wisdom prepares a feast and Lady Folly offers stolen bread. Abigail's description as *tovat-sekhel* (good in wisdom/discernment) connects her to the *eshet chayil* ("woman of valor") of Proverbs 31:10-31. Psalm 37:8-9 -- "Refrain from anger, and forsake wrath... for the evildoers shall be cut off" -- captures the moral logic of this entire chapter.
 
 **New Testament Echoes**
 
-Jesus' beatitude "Blessed are the peacemakers" (Matthew 5:9) describes Abigail's exact role: she makes peace between a wrathful king and a foolish man, and in doing so she preserves the future of the kingdom. Paul's instruction in Romans 12:19-21 -- "Do not avenge yourselves, beloved, but leave it to the wrath of God... overcome evil with good" -- is the doctrinal codification of what Abigail practices narratively. Her bread and wine foreshadow the Lord's Supper, where provision meets the undeserving at the moment of their greatest need.
-
-**Parallel Passages**
-
-Compare Nabal's feast (25:36, "a feast like the feast of a king") with the rich fool of Luke 12:16-21 -- both men feast in ignorance of their imminent death. Compare Abigail's ride to meet David with the woman of Proverbs 31 who "opens her hand to the poor and reaches out her hands to the needy" (Proverbs 31:20). Psalm 37:8-9 -- "Refrain from anger, and forsake wrath... for the evildoers shall be cut off" -- captures the moral logic of this entire chapter.
+Jesus' beatitude "Blessed are the peacemakers" (Matthew 5:9) describes Abigail's exact role: she makes peace between a wrathful king and a foolish man, and in doing so she preserves the future of the kingdom. Paul's instruction in Romans 12:19-21 -- "Do not avenge yourselves, beloved, but leave it to the wrath of God... overcome evil with good" -- is the doctrinal codification of what Abigail practices narratively. Her bread and wine foreshadow the Lord's Supper, where provision meets the undeserving at the moment of their greatest need. Nabal's feast (25:36, "a feast like the feast of a king") finds its New Testament counterpart in the rich fool of Luke 12:16-21 -- both men feast in ignorance of their imminent death.
 
 ## Reflection Questions
 

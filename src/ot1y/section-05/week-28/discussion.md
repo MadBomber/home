@@ -35,25 +35,25 @@ This week we crossed the Jordan with Joshua and a nation born in the wilderness.
 
 2. **The Book of the Law.** Sandwiched between the first and third charges of courage is a different kind of command: "This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night" (Joshua 1:8). Why does God link military courage to meditation on Scripture? What does this suggest about the relationship between obedience to God's word and the ability to face overwhelming circumstances?
 
-### Day 2: Rahab's Faith and the Jordan Crossing (Joshua 2:1--3:17)
+### Day 2: Rahab's Faith and the Jordan Crossing (Joshua 2:1-3:17)
 
 3. **The Unlikely Confessor.** Rahab is a Canaanite, a prostitute, and a resident of a city under divine judgment. Yet her confession -- "The LORD your God, he is God in the heavens above and on the earth beneath" (Joshua 2:11) -- is theologically richer than the report of the ten spies at Kadesh-barnea. What does Rahab's inclusion in the narrative -- and later in the genealogy of Christ (Matthew 1:5) -- reveal about the boundaries of God's grace? Who are the "Rahabs" in your own community that the church might overlook?
 
 4. **Dry Ground Again.** The Jordan crossing deliberately echoes the Red Sea: the waters stop, the people cross on dry ground, and memorial stones are set. But there is a difference -- this is not escape but arrival. Why does God repeat the pattern? What does the echo tell the second generation about the God they are following?
 
-### Day 3: Memorial Stones and the Fall of Jericho (Joshua 4:1--6:27)
+### Day 3: Memorial Stones and the Fall of Jericho (Joshua 4:1-6:27)
 
 5. **Stones That Ask Questions.** God commands twelve stones to be stacked on the western bank "so that when your children ask in time to come, 'What do these stones mean to you?' then you shall tell them" (Joshua 4:6-7). The memorial is designed to provoke questions. How do you build "memorial stones" in your own family or community -- tangible reminders that prompt the next generation to ask about God's faithfulness?
 
 6. **Victory by Worship.** Jericho falls not to siege engines but to seven days of marching, seven priests with seven trumpets, and a shout. The method is absurd by military calculation. Paul later writes, "For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds" (2 Corinthians 10:4). What does Jericho teach about the relationship between obedience and victory? Where in your life are you tempted to rely on strategies that "make sense" rather than trusting methods that require faith?
 
-### Day 4: Achan's Sin and the Defeat at Ai (Joshua 7:1--8:35)
+### Day 4: Achan's Sin and the Defeat at Ai (Joshua 7:1-8:35)
 
 7. **Hidden Disobedience, Public Defeat.** Achan takes a cloak, silver, and gold from Jericho and buries them under his tent. No one sees. But Israel is routed at Ai and thirty-six men die. God says, "Israel has sinned; they have transgressed my covenant" (Joshua 7:11). The sin was individual; the consequence was corporate. What does this episode reveal about the nature of covenant community? Is there such a thing as "private sin" in a body that belongs to God?
 
 8. **The Valley of Achor.** Achan is executed in the Valley of Achor -- a name meaning "trouble." Centuries later, Hosea will prophesy that God will make "the Valley of Achor a door of hope" (Hosea 2:15). The place of judgment becomes, in God's hands, a place of restoration. How does this transformation speak to the way God redeems even the sites of our greatest failures?
 
-### Day 5: The Conquest Summarized (Joshua 9:1--12:24)
+### Day 5: The Conquest Summarized (Joshua 9:1-12:24)
 
 9. **The Gibeonite Deception.** The Gibeonites trick Israel into a covenant by pretending to be from a distant land (Joshua 9:3-15). Joshua and the leaders "did not ask counsel from the LORD" (Joshua 9:14). What does this failure to inquire of God reveal about the danger of making decisions based on visible evidence alone? How do you practice "asking counsel from the LORD" in your own decision-making?
 

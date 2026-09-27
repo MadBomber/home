@@ -2,8 +2,8 @@
 week: 51
 day: 1
 title: "The Four Beasts and the Son of Man"
-reading: "Daniel 7:1-28"
-parallel_passages: Mark 14:61-62, Revelation 1:13-14, Revelation 13:1-7, Matthew 26:64
+reading:
+- Daniel 7:1-28
 section: Consummation
 tags:
 - covenant-8
@@ -51,15 +51,11 @@ The book of Revelation completes the vision. John sees "one like a son of man" s
 
 **Old Testament Roots**
 
-The sea from which the beasts emerge echoes the *tehom* ("deep") of Genesis 1:2 -- the primordial chaos God ordered at creation. The four-beast sequence recalls the judgment pattern of the plagues against Egypt, where each successive act strips Pharaoh's power until nothing remains. The throne-room scene parallels 1 Kings 22:19, where Micaiah sees the LORD seated on his throne with the host of heaven standing beside him. The "books opened" motif connects to the "book of life" in Exodus 32:32-33 and the divine record-keeping of Malachi 3:16.
+The sea from which the beasts emerge echoes the *tehom* ("deep") of Genesis 1:2 -- the primordial chaos God ordered at creation. The four-beast sequence recalls the judgment pattern of the plagues against Egypt, where each successive act strips Pharaoh's power until nothing remains. The throne-room scene parallels 1 Kings 22:19, where Micaiah sees the LORD seated on his throne with the host of heaven standing beside him. The "books opened" motif connects to the "book of life" in Exodus 32:32-33 and the divine record-keeping of Malachi 3:16. Psalm 2:6-9 shows the LORD's anointed king receiving the nations as his inheritance. Psalm 110:1 -- "Sit at my right hand, until I make your enemies your footstool" -- sets the same king beside God's throne. Ezekiel 1:26-28 shows the divine throne with "a likeness with a human appearance" seated above it.
 
 **New Testament Echoes**
 
 Mark 14:62 is the most direct quotation -- Jesus identifies himself as the Son of Man of Daniel 7:13. Revelation 1:13-14 applies both Son of Man and Ancient of Days imagery to the risen Christ. Revelation 13:1-7 draws on Daniel's beast imagery to describe the final concentration of anti-God power. Matthew 25:31-32 depicts the Son of Man coming in glory and separating the nations -- the judgment scene Daniel saw enacted in full.
-
-**Parallel Passages**
-
-Psalm 2:6-9 -- the LORD's anointed king receives the nations as his inheritance. Psalm 110:1 -- "Sit at my right hand, until I make your enemies your footstool." Ezekiel 1:26-28 -- the divine throne with wheels of fire and a figure "with the appearance of a man" seated above it.
 
 ## Reflection Questions
 

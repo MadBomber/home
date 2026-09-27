@@ -2,8 +2,10 @@
 week: 45
 day: 1
 title: "The Decree and the Foundation"
-reading: "Ezra 1:1-3:13"
-parallel_passages: Isaiah 44:28-45:1, 2 Chronicles 36:22-23, Psalm 126:1-6, John 2:19-21
+reading:
+- Ezra 1:1-3:13
+parallel_passages:
+- 2 Chronicles 36:22-23
 section: New Covenant
 tags:
 - covenant-7
@@ -49,7 +51,7 @@ The mingled weeping and shouting at the foundation ceremony is the sound of the 
 
 **Old Testament Roots**
 
-The decree of Cyrus fulfills the prophecy of Isaiah 44:28-45:1, where God names a king who will not be born for generations and calls him "anointed." The seventy-year exile prophesied in Jeremiah 25:11-12 and 29:10 reaches its terminus. The returnees' song -- "For he is good, for his steadfast love endures forever" (Ezra 3:11) -- echoes the refrain of Psalm 136 and the dedication of Solomon's temple in 2 Chronicles 5:13, binding the second temple to the first through liturgical memory.
+The decree of Cyrus fulfills the prophecy of Isaiah 44:28-45:1, where God names a king who will not be born for generations and calls him "anointed." The seventy-year exile prophesied in Jeremiah 25:11-12 and 29:10 reaches its terminus. The returnees' song -- "For he is good, for his steadfast love endures forever" (Ezra 3:11) -- echoes the refrain of Psalm 136 and the dedication of Solomon's temple in 2 Chronicles 5:13, binding the second temple to the first through liturgical memory. Psalm 126 captures the emotional texture of the return: "When the LORD restored the fortunes of Zion, we were like those who dream" (Psalm 126:1). Haggai 2:3-9 addresses the elders' grief directly, promising that the latter glory of this house will surpass the former.
 
 **New Testament Echoes**
 
@@ -57,7 +59,7 @@ Jesus identifies his body as the true temple (John 2:19-21), fulfilling what the
 
 **Parallel Passages**
 
-Psalm 126 captures the emotional texture of the return: "When the LORD restored the fortunes of Zion, we were like those who dream" (126:1). The parallel between the Cyrus decree and 2 Chronicles 36:22-23 shows the Chronicler ending Israel's story with the return -- an open door rather than a closed book. Haggai 2:3-9 addresses the elders' grief directly, promising that the latter glory of this house will surpass the former.
+The parallel between the Cyrus decree and 2 Chronicles 36:22-23 shows the Chronicler ending Israel's story with the return -- an open door rather than a closed book.
 
 ## Reflection Questions
 

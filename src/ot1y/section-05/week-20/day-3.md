@@ -2,8 +2,10 @@
 week: 20
 day: 3
 title: "The Book of the Covenant Begins -- Altars, Slaves, Violence, and Justice"
-reading: "Exodus 20:22-21:36"
-parallel_passages: Philippians 2:5-8, Romans 1:1, Hebrews 10:4-10, Galatians 5:13-14
+reading:
+- Exodus 20:22-21:36
+parallel_passages:
+- Deuteronomy 15:12-18
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -48,7 +50,7 @@ The altar law -- unhewn stone, no human tool, no steps for human ascent -- point
 
 **Old Testament Roots**
 
-The altar law echoes Genesis 8:20, where Noah builds an altar after the flood -- the first act of worship in the renewed world. The slave laws are grounded in Israel's own experience of bondage: "Remember that you were a slave in the land of Egypt" (Deuteronomy 15:15). The *lex talionis* appears again in Leviticus 24:19-20 and Deuteronomy 19:21, consistently functioning as a limit on excessive punishment. The doorpost imagery of Exodus 21:6 echoes the Passover doorpost of Exodus 12:7, where blood on the doorframe marked the boundary between death and life.
+The altar law echoes Genesis 8:20, where Noah builds an altar after the flood -- the first act of worship in the renewed world. The slave laws are grounded in Israel's own experience of bondage: "Remember that you were a slave in the land of Egypt" (Deuteronomy 15:15). The *lex talionis* appears again in Leviticus 24:19-20 and Deuteronomy 19:21, consistently functioning as a limit on excessive punishment. The doorpost imagery of Exodus 21:6 echoes the Passover doorpost of Exodus 12:7, where blood on the doorframe marked the boundary between death and life. The Code of Hammurabi (Laws 196-200) contains a parallel *lex talionis*, but applies it only among social equals -- injuries to slaves or lower classes receive lesser penalties. Israel's law, while not perfectly egalitarian by modern standards, moves significantly toward equal protection: "If a man strikes the eye of his slave, male or female, and destroys it, he shall let the slave go free because of his eye" (Exodus 21:26).
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Philippians 2:5-8 -- Christ takes the form of a servant (*doulos*) and humbles h
 
 **Parallel Passages**
 
-The Code of Hammurabi (Laws 196-200) contains a parallel *lex talionis*, but applies it only among social equals -- injuries to slaves or lower classes receive lesser penalties. Israel's law, while not perfectly egalitarian by modern standards, moves significantly toward equal protection: "If a man strikes the eye of his slave, male or female, and destroys it, he shall let the slave go free because of his eye" (Exodus 21:26). Deuteronomy 15:12-18 revisits the slave laws with an explicit command to provide generously for the departing servant.
+Deuteronomy 15:12-18 revisits the slave laws with an explicit command to provide generously for the departing servant.
 
 ## Reflection Questions
 

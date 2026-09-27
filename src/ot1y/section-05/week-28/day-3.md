@@ -2,8 +2,11 @@
 week: 28
 day: 3
 title: "Twelve Stones, Circumcision Renewed, and Jericho Falls"
-reading: "Joshua 4:1-6:27"
-parallel_passages: 2 Corinthians 10:3-5, 1 Corinthians 1:18-25, Hebrews 11:30, Colossians 2:11-15
+reading:
+- Joshua 4:1-6:27
+parallel_passages:
+- Psalm 114:3-5
+- Micah 6:5
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,7 +53,7 @@ The circumcision at Gilgal, where God "rolled away the reproach of Egypt," finds
 
 **Old Testament Roots**
 
-The twelve memorial stones echo the twelve pillars Moses set up at Sinai (Exodus 24:4) and anticipate Elijah's twelve-stone altar on Mount Carmel (1 Kings 18:31). The circumcision at Gilgal renews the Abrahamic covenant sign (Genesis 17:9-14) for a generation that missed it. The seven-day march around Jericho, climaxing on the seventh day, echoes the creation pattern -- six days of work followed by a seventh of completion. The *cherem* -- the ban that devotes Jericho entirely to God -- recalls the principle of firstfruits: the first city conquered, like the first of the harvest, belongs wholly to the LORD.
+The twelve memorial stones echo the twelve pillars Moses set up at Sinai (Exodus 24:4) and anticipate Elijah's twelve-stone altar on Mount Carmel (1 Kings 18:31). The circumcision at Gilgal renews the Abrahamic covenant sign (Genesis 17:9-14) for a generation that missed it. The seven-day march around Jericho, climaxing on the seventh day, echoes the creation pattern -- six days of work followed by a seventh of completion. The *cherem* -- the ban that devotes Jericho entirely to God -- recalls the principle of firstfruits: the first city conquered, like the first of the harvest, belongs wholly to the LORD. Exodus 3:5 -- "Take your sandals off your feet, for the place on which you are standing is holy ground" -- is echoed almost verbatim in 5:15, linking Moses' commissioning to Joshua's.
 
 **New Testament Echoes**
 
@@ -58,7 +61,7 @@ Hebrews 11:30 cites Jericho's fall as an act of faith. 2 Corinthians 10:3-5 desc
 
 **Parallel Passages**
 
-Psalm 114 celebrates both the Red Sea and the Jordan as acts of the same God: "The sea looked and fled; Jordan turned back. The mountains skipped like rams, the hills like lambs" (Psalm 114:3-4). Exodus 3:5 -- "Take off your sandals, for the place where you are standing is holy ground" -- is echoed verbatim in Joshua 5:15, linking Moses' commissioning to Joshua's. Micah 6:5 instructs Israel to "remember what happened from Shittim to Gilgal" -- the exact journey of Joshua 2-5 -- as evidence of the LORD's righteous acts.
+Psalm 114:3-5 celebrates both the Red Sea and the Jordan as acts of the same God: "The sea looked and fled; Jordan turned back. The mountains skipped like rams, the hills like lambs." Micah 6:5 instructs Israel to "remember what happened from Shittim to Gilgal" -- the exact journey of Joshua 2-5 -- as evidence of the LORD's righteous acts.
 
 ## Reflection Questions
 

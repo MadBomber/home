@@ -47,13 +47,13 @@ This week we followed Jacob from flight to transformation. Fleeing the brother h
 
 6. **Broken Families, Covenant Purposes.** The twelve sons are born to four mothers, motivated by jealousy, longing, and desperation. The family that carries the promise is, by any measure, a wreck. Yet these twelve sons become the twelve tribes of Israel. What does it say about God that he builds his people not from perfect families but from broken ones? How does this liberate you from the assumption that your family's dysfunction disqualifies you from God's purposes?
 
-### Day 4: Jacob Flees Laban -- Stolen Gods and the Covenant at Mizpah (Genesis 31:1-55)
+### Day 4: Jacob Flees Laban -- Stolen Gods and the Covenant at Mizpah (Genesis 30:25-31:55)
 
 7. **The Stolen Gods.** Rachel steals Laban's household gods (*teraphim*) -- and hides them by sitting on them during her menstrual period (Genesis 31:34-35). The narrator's irony is sharp: the gods of the house are powerless, hidden under a woman, unable to reveal themselves or resist being stolen. What does this episode reveal about the nature of idols? How does it contrast with the God who appeared unsought at Bethel?
 
 8. **A Boundary, Not a Blessing.** The covenant at Mizpah -- "The LORD watch between you and me, when we are out of one another's sight" (Genesis 31:49) -- is often quoted as a benediction, but in context it is a boundary between two deceivers who cannot trust each other. What does it mean that this is the best relationship Jacob and Laban can manage? How does the difference between a boundary and a blessing show up in your own relationships?
 
-### Day 5: Peniel -- Wrestling with God, a New Name, and Reunion (Genesis 32:1-33:20)
+### Day 5: Peniel -- Wrestling with God, a New Name, and Reunion (Genesis 32:1-36:43)
 
 9. **The Night at the Jabbok.** Jacob sends his family across the river and remains alone in the dark. A man wrestles with him until dawn. The struggle is physical -- fierce enough to dislocate Jacob's hip with a touch. Why does God choose to meet Jacob through a physical struggle rather than a vision or a voice? What does the physicality of this encounter tell you about how God engages with human beings?
 

@@ -2,8 +2,11 @@
 week: 51
 day: 5
 title: "The Branch from Jesse, the Peaceable Kingdom, and Swords into Plowshares"
-reading: "Isaiah 11:1-16; 2:1-5"
-parallel_passages: Romans 1:3-4, Romans 15:12, Revelation 4:5, Ephesians 2:14-17, Micah 4:1-4
+reading:
+- Isaiah 11:1-16
+- Isaiah 2:1-5
+parallel_passages:
+- Micah 4:1-4
 section: Consummation
 tags:
 - covenant-8
@@ -18,7 +21,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Isaiah 11:1-16; 2:1-5
+- Isaiah 11:1-16
+- Isaiah 2:1-5
 
 ## Historical Context
 
@@ -54,7 +58,7 @@ The swords-into-plowshares vision reaches its deepest christological grounding i
 
 **Old Testament Roots**
 
-The "stump of Jesse" connects to the promise of 2 Samuel 7:12-16 -- an everlasting throne for David's line -- and to Ruth 4:17-22, which traces the genealogy from Boaz through Jesse to David. The sevenfold Spirit echoes the anointing of David in 1 Samuel 16:13 ("the Spirit of the LORD rushed upon David from that day forward") but exceeds it in permanence and scope. The peaceable kingdom reverses the curses of Genesis 3:14-19 -- enmity between humans and serpents, thorns and thistles, death and dust. The swords-into-plowshares vision inverts Joel 3:10's call to arms and fulfills the shalom promised in the Abrahamic covenant ("in you all the families of the earth shall be blessed," Genesis 12:3).
+The "stump of Jesse" connects to the promise of 2 Samuel 7:12-16 -- an everlasting throne for David's line -- and to Ruth 4:17-22, which traces the genealogy from Boaz through Jesse to David. The sevenfold Spirit echoes the anointing of David in 1 Samuel 16:13 ("the Spirit of the LORD rushed upon David from that day forward") but exceeds it in permanence and scope. The peaceable kingdom reverses the curses of Genesis 3:14-19 -- enmity between humans and serpents, thorns and thistles, death and dust. The swords-into-plowshares vision inverts Joel 3:10's call to arms and fulfills the shalom promised in the Abrahamic covenant ("in you all the families of the earth shall be blessed," Genesis 12:3). Isaiah 9:6-7 announces the child born, the son given, the government on his shoulder, the Prince of Peace. Jeremiah 23:5-6 promises, "I will raise up for David a righteous Branch, and he shall reign as king and deal wisely." Ezekiel 34:23-24 adds, "I will set up over them one shepherd, my servant David."
 
 **New Testament Echoes**
 
@@ -62,7 +66,7 @@ Romans 1:3-4 identifies Jesus as the descendant of David declared Son of God by 
 
 **Parallel Passages**
 
-Micah 4:1-4 parallels Isaiah 2:2-4 almost verbatim, adding the promise that "they shall sit every man under his vine and under his fig tree, and no one shall make them afraid." Isaiah 9:6-7 -- the child born, the son given, the government on his shoulder, the Prince of Peace. Jeremiah 23:5-6 -- "I will raise up for David a righteous Branch, and he shall reign as king and deal wisely." Ezekiel 34:23-24 -- "I will set up over them one shepherd, my servant David."
+Micah 4:1-4 parallels Isaiah 2:2-4 almost verbatim, adding the promise that "they shall sit every man under his vine and under his fig tree, and no one shall make them afraid."
 
 ## Reflection Questions
 

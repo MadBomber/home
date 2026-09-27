@@ -2,8 +2,8 @@
 week: 26
 day: 2
 title: "Aaron's Rod Buds, the Red Heifer, and the Ashes of Purification"
-reading: "Numbers 17:1-19:22"
-parallel_passages: Romans 1:4, Hebrews 9:13-14, Hebrews 13:11-13
+reading:
+- Numbers 17:1-19:22
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -48,15 +48,11 @@ The location of the red heifer's sacrifice -- outside the camp -- carries a weig
 
 **Old Testament Roots**
 
-The budding of Aaron's rod echoes the creation language of Genesis 1, where the earth "brings forth" vegetation at God's command. The almond tree imagery connects to Jeremiah 1:11-12, where God tells the prophet, "I am watching (*shoqed*) over my word to perform it." The hyssop and scarlet yarn of the red heifer ceremony link to the Passover (Exodus 12:22) and to the cleansing of the leper (Leviticus 14:4-6), creating a web of purification imagery that spans the Torah.
+The budding of Aaron's rod echoes the creation language of Genesis 1, where the earth "brings forth" vegetation at God's command. The almond tree imagery connects to Jeremiah 1:11-12, where God tells the prophet, "I am watching (*shoqed*) over my word to perform it." The hyssop and scarlet yarn of the red heifer ceremony link to the Passover (Exodus 12:22) and to the cleansing of the leper (Leviticus 14:4-6), creating a web of purification imagery that spans the Torah. Psalm 110:4 declares a priesthood confirmed by divine oath: "You are a priest forever after the order of Melchizedek." Ezekiel 37:1-14 envisions a valley of dry bones coming alive -- the same resurrection logic writ large across a nation.
 
 **New Testament Echoes**
 
-Romans 1:4 declares that Jesus was "declared to be the Son of God in power... by his resurrection from the dead" -- the same logic as Aaron's budding rod. Hebrews 9:13-14 reads the red heifer as a type of Christ's superior sacrifice. Hebrews 13:11-13 connects the burning of the sacrifice outside the camp to Christ's suffering outside the gate of Jerusalem. 2 Corinthians 5:21 articulates the paradox the red heifer foreshadowed: "For our sake he made him to be sin who knew no sin."
-
-**Parallel Passages**
-
-Psalm 110:4 declares a priesthood confirmed by divine oath: "You are a priest forever after the order of Melchizedek." Ezekiel 37:1-14 envisions a valley of dry bones coming alive -- the same resurrection logic writ large across a nation. John 19:17-20 records Christ's crucifixion outside Jerusalem, fulfilling the spatial typology of the red heifer's sacrifice outside the camp.
+Romans 1:4 declares that Jesus was "declared to be the Son of God in power... by his resurrection from the dead" -- the same logic as Aaron's budding rod. Hebrews 9:13-14 reads the red heifer as a type of Christ's superior sacrifice. Hebrews 13:11-13 connects the burning of the sacrifice outside the camp to Christ's suffering outside the gate of Jerusalem. 2 Corinthians 5:21 articulates the paradox the red heifer foreshadowed: "For our sake he made him to be sin who knew no sin." John 19:17-20 records Christ's crucifixion outside Jerusalem, fulfilling the spatial typology of the red heifer's sacrifice outside the camp.
 
 ## Reflection Questions
 

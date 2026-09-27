@@ -2,8 +2,8 @@
 week: 45
 day: 5
 title: "The Covenant Renewed and the People Who Drift"
-reading: "Nehemiah 5:1-13:31"
-parallel_passages: Amos 5:24, Nehemiah 8:10, Jeremiah 31:31-34, Luke 4:16-21, Hebrews 8:8-12, Romans 8:3-4
+reading:
+- Nehemiah 5:1-13:31
 section: New Covenant
 tags:
 - covenant-7
@@ -53,15 +53,11 @@ Nehemiah's anguished refrain -- "Remember me, O my God" -- echoing through chapt
 
 **Old Testament Roots**
 
-Nehemiah's economic reforms in chapter 5 apply the Sabbath-year and jubilee legislation of Leviticus 25 and Deuteronomy 15. The reading of the law in Nehemiah 8 reprises the covenant renewal ceremonies of Deuteronomy 31:10-13 and Joshua 8:34-35. The great prayer of Nehemiah 9 echoes the salvation-history recitals of Psalm 78, Psalm 105, and Psalm 106. The people's drift into Sabbath violation recalls the warnings of Jeremiah 17:19-27, where Sabbath-breaking was identified as a cause of the exile itself.
+Nehemiah's economic reforms in chapter 5 apply the Sabbath-year and jubilee legislation of Leviticus 25 and Deuteronomy 15. The reading of the law in Nehemiah 8 reprises the covenant renewal ceremonies of Deuteronomy 31:10-13 and Joshua 8:34-35. The great prayer of Nehemiah 9 echoes the salvation-history recitals of Psalm 78, Psalm 105, and Psalm 106. The people's drift into Sabbath violation recalls the warnings of Jeremiah 17:19-27, where Sabbath-breaking was identified as a cause of the exile itself. Amos 5:21-24 condemns worship that coexists with injustice, paralleling Nehemiah 5's exposure of exploitation among the builders. Jeremiah 31:31-34 promises the new covenant that will resolve the drift Nehemiah 13 documents. Ezekiel 36:26-27 promises a new heart and a new spirit -- the internal transformation the old covenant could enforce externally but never produce internally. Malachi 3:6-12 confronts the same failures Nehemiah addresses: robbing God of tithes, neglecting the Levites, and treating the covenant as optional.
 
 **New Testament Echoes**
 
 Jesus' reading of Isaiah 61 in the Nazareth synagogue (Luke 4:16-21) fulfills the pattern of Nehemiah 8 -- Scripture read, explained, and declared fulfilled. The jubilee economics of Nehemiah 5 anticipate the early church's radical sharing in Acts 2:44-45 and 4:32-35. Paul's argument in Romans 8:1-4 that the law could not produce the righteousness it demanded directly addresses the failure exposed in Nehemiah 13. Hebrews 8:8-12 quotes the new covenant promise of Jeremiah 31 as the answer to the old covenant's inadequacy -- the very inadequacy Nehemiah's closing chapters demonstrate.
-
-**Parallel Passages**
-
-Amos 5:21-24 condemns worship that coexists with injustice, paralleling Nehemiah 5's exposure of exploitation among the builders. Jeremiah 31:31-34 promises the new covenant that will resolve the drift Nehemiah 13 documents. Ezekiel 36:26-27 promises a new heart and a new spirit -- the internal transformation the old covenant could enforce externally but never produce internally. Malachi 3:6-12 confronts the same failures Nehemiah addresses: robbing God of tithes, neglecting the Levites, and treating the covenant as optional.
 
 ## Reflection Questions
 

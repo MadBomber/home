@@ -2,8 +2,8 @@
 week: 46
 day: 2
 title: "Haman's Plot and Mordecai's Challenge -- For Such a Time as This"
-reading: "Esther 3:1-4:17"
-parallel_passages: 1 Samuel 15:1-9, Hebrews 7:25, Romans 9:17, Exodus 17:8-16
+reading:
+- Esther 3:1-4:17
 section: New Covenant
 tags:
 - covenant-7
@@ -18,7 +18,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Esther 3:1--4:17
+- Esther 3:1-4:17
 
 ## Historical Context
 
@@ -52,15 +52,11 @@ Esther's response -- "Go, gather all the Jews to be found in Susa, and hold a fa
 
 **Old Testament Roots**
 
-The conflict between Mordecai and Haman is the latest chapter in the war between Israel and Amalek that begins in Exodus 17:8-16. God's decree against Amalek -- "I will utterly blot out the memory of Amalek from under heaven" -- is the backstory to every scene in Esther 3-4. Saul's failure to carry out the decree in 1 Samuel 15 is the reason Haman exists. Deuteronomy 25:17-19 commands Israel to "blot out the memory of Amalek" -- a command that finds its ironic fulfillment when Haman's own plot is turned against him.
+The conflict between Mordecai and Haman is the latest chapter in the war between Israel and Amalek that begins in Exodus 17:8-16. God's decree against Amalek -- "I will utterly blot out the memory of Amalek from under heaven" -- is the backstory to every scene in Esther 3-4. Saul's failure to carry out the decree in 1 Samuel 15 is the reason Haman exists. Deuteronomy 25:17-19 commands Israel to "blot out the memory of Amalek" -- a command that finds its ironic fulfillment when Haman's own plot is turned against him. Proverbs 16:33 -- "The lot is cast into the lap, but its every decision is from the LORD" -- provides the theological commentary on Haman's casting of *pur*. Psalm 33:10-11 declares: "The LORD brings the counsel of the nations to nothing; he frustrates the plans of the peoples. The counsel of the LORD stands forever." Job 12:13-25 describes God's sovereign authority over the rise and fall of nations and rulers -- the same authority at work behind the scenes of Esther.
 
 **New Testament Echoes**
 
 Esther's intercession before the throne anticipates Christ's heavenly intercession described in Hebrews 7:25 and 9:24. The three-day fast echoes the three days of Jesus in the tomb (Matthew 12:40). Mordecai's confidence that deliverance will come "from another place" reflects the same unshakable confidence Paul expresses: "If God is for us, who can be against us?" (Romans 8:31). The attempt to destroy the Jews -- and thereby the messianic line -- anticipates Herod's slaughter of the innocents (Matthew 2:16-18) and the dragon's pursuit of the woman in Revelation 12:1-6.
-
-**Parallel Passages**
-
-Proverbs 16:33 -- "The lot is cast into the lap, but its every decision is from the LORD" -- provides the theological commentary on Haman's casting of *pur*. Psalm 33:10-11 declares: "The LORD brings the counsel of the nations to nothing; he frustrates the plans of the peoples. The counsel of the LORD stands forever." Job 12:13-25 describes God's sovereign authority over the rise and fall of nations and rulers -- the same authority at work behind the scenes of Esther.
 
 ## Reflection Questions
 

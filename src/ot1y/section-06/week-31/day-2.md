@@ -2,8 +2,8 @@
 week: 31
 day: 2
 title: "Corruption in the Holy Place and a Voice in the Dark"
-reading: "1 Samuel 2:12-3:21"
-parallel_passages: Hebrews 4:14-16, Hebrews 7:23-28, John 10:27, Malachi 2:1-9, Revelation 2:1-7
+reading:
+- 1 Samuel 2:12-3:21
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -19,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 1 Samuel 2:12--3:21
+- 1 Samuel 2:12-3:21
 
 ## Historical Context
 
@@ -53,15 +53,11 @@ The contrast between Eli's sons and the boy Samuel is also the contrast between 
 
 **Old Testament Roots**
 
-The corruption of Eli's sons echoes the golden calf incident in Exodus 32, where Aaron -- the first high priest -- facilitated Israel's idolatry. The pattern of priestly failure is embedded in the Levitical system from its inception. God's rebuke of Eli's house also connects to the prophetic indictment of corrupt priests in Malachi 2:1-9: "For the lips of a priest should guard knowledge, and people should seek instruction from his mouth, for he is the messenger of the LORD of hosts. But you have turned aside from the way. You have corrupted the covenant of Levi" (Malachi 2:7-8). Samuel's call narrative echoes Abraham's response to God -- "Here I am" (*hinneni*, Genesis 22:1) -- and Moses at the burning bush (Exodus 3:4), placing the boy in the line of those whom God summons for covenant-altering work.
+The corruption of Eli's sons echoes the golden calf incident in Exodus 32, where Aaron -- the first high priest -- facilitated Israel's idolatry. The pattern of priestly failure is embedded in the Levitical system from its inception. God's rebuke of Eli's house also connects to the prophetic indictment of corrupt priests in Malachi 2:1-9: "For the lips of a priest should guard knowledge, and people should seek instruction from his mouth, for he is the messenger of the LORD of hosts. But you have turned aside from the way. You have corrupted the covenant of Levi" (Malachi 2:7-8). Samuel's call narrative echoes Abraham's response to God -- "Here I am" (*hinneni*, Genesis 22:1) -- and Moses at the burning bush (Exodus 3:4), placing the boy in the line of those whom God summons for covenant-altering work. Eli's passive response to his sons' corruption anticipates David's later failure to discipline Amnon (2 Samuel 13) and Absalom (2 Samuel 14-15) -- the same pattern of parental passivity producing institutional catastrophe. Samuel's call also stands beside Isaiah's call (Isaiah 6:1-8) and Jeremiah's call (Jeremiah 1:4-10), showing how God consistently summons prophets in moments of national crisis. The prophecy of the faithful priest (1 Samuel 2:35) looks ahead to the prophecy of a priest after the order of Melchizedek (Psalm 110:4), which Hebrews identifies as Christ.
 
 **New Testament Echoes**
 
 The description of Samuel growing "in stature and in favor with the LORD and also with man" (1 Samuel 2:26) is repeated almost verbatim of Jesus in Luke 2:52: "And Jesus increased in wisdom and in stature and in favor with God and man." The promise of a faithful priest in 1 Samuel 2:35 reaches its fulfillment in the argument of Hebrews 7-10, where Christ's priesthood supersedes the Levitical order entirely. Jesus' warning to the churches in Revelation 2-3 about tolerating corruption within the community echoes the judgment on Eli for failing to restrain his sons.
-
-**Parallel Passages**
-
-Compare Eli's passive response to his sons' corruption with David's later failure to discipline Amnon (2 Samuel 13) and Absalom (2 Samuel 14-15) -- the same pattern of parental passivity producing institutional catastrophe. Compare Samuel's call with Isaiah's call (Isaiah 6:1-8) and Jeremiah's call (Jeremiah 1:4-10) to see how God consistently summons prophets in moments of national crisis. Compare the prophecy of the faithful priest (1 Samuel 2:35) with the prophecy of a priest after the order of Melchizedek (Psalm 110:4), which Hebrews identifies as Christ.
 
 ## Reflection Questions
 

@@ -2,8 +2,10 @@
 week: 38
 day: 5
 title: "Warning, Wealth, Wives, and the Kingdom Torn"
-reading: "1 Kings 9:1-11:43"
-parallel_passages: Matthew 12:42, Luke 11:31, Hebrews 3:1-6, 1 John 2:15-17, John 10:28, Romans 8:35-39, Revelation 2:4-5
+reading:
+- 1 Kings 9:1-11:43
+parallel_passages:
+- 2 Chronicles 7:11-9:31
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -50,15 +52,15 @@ The kingdom torn from Solomon's son prefigures the division and scattering that 
 
 **Old Testament Roots**
 
-The prohibition against foreign wives comes from Deuteronomy 7:3-4, where God explicitly warns that intermarriage will lead to idolatry -- precisely what happens. The warning against accumulating horses, wealth, and wives in Deuteronomy 17:16-17 reads as a prophetic indictment written centuries before Solomon fulfilled every clause. Chemosh (the Moabite deity) appears in the Mesha Stele, an inscription from roughly a century after Solomon, confirming the worship practices described here. Molech worship, associated with child sacrifice, is condemned throughout the prophets (Jeremiah 32:35; Leviticus 18:21; 20:2-5). The tearing of the kingdom echoes Samuel's torn robe (1 Samuel 15:27-28), where Saul's kingdom is torn from him by the same verb (*qara*).
+The prohibition against foreign wives comes from Deuteronomy 7:3-4, where God explicitly warns that intermarriage will lead to idolatry -- precisely what happens. The warning against accumulating horses, wealth, and wives in Deuteronomy 17:16-17 reads as a prophetic indictment written centuries before Solomon fulfilled every clause. Chemosh (the Moabite deity) appears in the Mesha Stele, an inscription from roughly a century after Solomon, confirming the worship practices described here. Molech worship, associated with child sacrifice, is condemned throughout the prophets (Jeremiah 32:35; Leviticus 18:21; 20:2-5). The tearing of the kingdom echoes Samuel's torn robe (1 Samuel 15:27-28), where Saul's kingdom is torn from him by the same verb (*qara*). Solomon's fall also resembles Samson's (Judges 13-16), another man of extraordinary gifts brought down by foreign women.
 
 **New Testament Echoes**
 
-Matthew 12:42 / Luke 11:31 -- Jesus as "something greater than Solomon." Hebrews 3:1-6 -- Christ as faithful Son over God's house, contrasted with servants in the house. 1 John 2:15-17 -- "Do not love the world or the things in the world... the desires of the flesh and the desires of the eyes and pride of life," echoing the pattern of Solomon's compromise. Romans 8:35-39 -- the unbreakable love of Christ, answering the separation that Solomon's infidelity produced. Revelation 2:4-5 -- the warning to Ephesus, "You have abandoned the love you had at first," echoing Solomon's drift from wholehearted devotion.
+Matthew 12:42 / Luke 11:31 -- Jesus as "something greater than Solomon." Hebrews 3:1-6 -- Christ as faithful Son over God's house, contrasted with servants in the house. 1 John 2:15-17 -- "Do not love the world or the things in the world... the desires of the flesh and the desires of the eyes and pride of life," echoing the pattern of Solomon's compromise. Romans 8:35-39 -- the unbreakable love of Christ, answering the separation that Solomon's infidelity produced. Revelation 2:4-5 -- the warning to Ephesus, "You have abandoned the love you had at first," echoing Solomon's drift from wholehearted devotion. Matthew 2:1-12 -- the magi's visit recalls the Queen of Sheba's confession (10:6-7): Gentiles drawn to Israel's king by divine prompting, bringing extravagant gifts.
 
 **Parallel Passages**
 
-Compare 1 Kings 9-11 with 2 Chronicles 7-9, where the Chronicler omits nearly all of Solomon's failures -- a theological choice that emphasizes the ideal of kingship while Kings emphasizes the reality. Compare Solomon's fall with Samson's (Judges 13-16), another man of extraordinary gifts brought down by foreign women. Compare the Queen of Sheba's confession (10:6-7) with the magi's visit (Matthew 2:1-12) -- Gentiles drawn to Israel's king by divine prompting, bringing extravagant gifts.
+Compare 1 Kings 9-11 with 2 Chronicles 7:11-9:31, where the Chronicler omits nearly all of Solomon's failures -- a theological choice that emphasizes the ideal of kingship while Kings emphasizes the reality.
 
 ## Reflection Questions
 

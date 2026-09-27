@@ -2,8 +2,10 @@
 week: 39
 day: 3
 title: "The Parade of Kings -- Faithfulness and Failure in Judah and Israel"
-reading: "1 Kings 15:1-16:34"
-parallel_passages: 2 Chronicles 13:1-16:14, Matthew 1:7-8, Romans 11:1-5, Hebrews 11:32-34
+reading:
+- 1 Kings 15:1-16:34
+parallel_passages:
+- 2 Chronicles 13:1-16:14
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -36,7 +38,7 @@ The "lamp" (*nir*) that God preserves in Jerusalem for David's sake is one of th
 
 The measuring of kings against David -- with every one found wanting -- creates a theological hunger for the king who will finally measure up. David himself was an adulterer and a murderer, yet his heart was "wholly true" to the LORD in a way that his successors' hearts were not. If even David, with all his failures, is the standard, then the standard is not behavioral perfection but covenantal orientation -- a heart that, when confronted with its sin, turns back to God rather than away. But even this standard exposes the insufficiency of every human king. Asa reforms but leaves the high places. Abijam's heart is divided. The northern kings are measured and found not just wanting but worsening. The entire parade of kings is a demonstration of what Paul argues in Romans 3:23: "All have sinned and fall short of the glory of God." The throne of David awaits an occupant who will not merely approximate David's heart but exceed it -- the one whose obedience is perfect, whose heart is undivided, whose reign will have no end. The author of Hebrews points to this king when he says, "Your throne, O God, is forever and ever, the scepter of uprightness is the scepter of your kingdom" (Hebrews 1:8, quoting Psalm 45:6). The parade of insufficient kings finds its resolution in the one sufficient King.
 
-The remnant principle is also at work in this passage. In the midst of systemic failure -- where nearly every king "walks in the way of Jeroboam" and even the reformer Asa falls short -- God preserves a thread of faithfulness. Asa's reform, incomplete as it is, demonstrates that God never leaves himself without a witness. Paul will later argue this explicitly in Romans 11:1-5, citing Elijah's despair ("I alone am left") and God's answer ("I have kept for myself seven thousand who have not bowed the knee to Baal") as evidence that "at the present time there is a remnant, chosen by grace." The parade of kings teaches that the remnant is always smaller than we wish and more significant than we imagine. And the remnant is ultimately concentrated into a single person: Jesus Christ, the faithful Israelite, the true Son of David, the one in whom the entire covenant is kept.
+The remnant principle is also at work in this passage. In the midst of systemic failure -- where nearly every king "walks in the way of Jeroboam" and even the reformer Asa falls short -- God preserves a thread of faithfulness. Asa's reform, incomplete as it is, demonstrates that God never leaves himself without a witness. Paul will later argue this explicitly in Romans 11:1-5, insisting that God has not rejected his people and that "at the present time there is a remnant, chosen by grace." The parade of kings teaches that the remnant is always smaller than we wish and more significant than we imagine. And the remnant is ultimately concentrated into a single person: Jesus Christ, the faithful Israelite, the true Son of David, the one in whom the entire covenant is kept.
 
 ## Key Themes
 
@@ -48,7 +50,7 @@ The remnant principle is also at work in this passage. In the midst of systemic 
 
 **Old Testament Roots**
 
-The evaluation of kings against David echoes the Davidic covenant of 2 Samuel 7, where God promises an eternal dynasty but warns that individual kings who disobey will be disciplined. The removal of the *qedeshim* (male cult prostitutes) by Asa connects to the prohibitions of Deuteronomy 23:17-18. The burning of the Asherah image at the brook Kidron anticipates Josiah's more thorough reform in 2 Kings 23:4-6, where the same brook becomes the disposal site for purged idols. Hiel of Bethel's rebuilding of Jericho at the cost of his sons (16:34) fulfills Joshua's curse in Joshua 6:26 -- a centuries-old word that loses none of its power.
+The evaluation of kings against David echoes the Davidic covenant of 2 Samuel 7, where God promises an eternal dynasty but warns that individual kings who disobey will be disciplined. The removal of the *qedeshim* (male cult prostitutes) by Asa connects to the prohibitions of Deuteronomy 23:17-18. The burning of the Asherah image at the brook Kidron anticipates Josiah's more thorough reform in 2 Kings 23:4-6, where the same brook becomes the disposal site for purged idols. Hiel of Bethel's rebuilding of Jericho at the cost of his sons (16:34) fulfills Joshua's curse in Joshua 6:26 -- a centuries-old word that loses none of its power. The rapid succession of northern kings also recalls the book of Judges, where a similar cycle of decline operates: each generation falls further from God until a deliverer is raised up -- a pattern that in Kings finds no adequate deliverer until Christ.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Matthew's genealogy (Matthew 1:7-8) traces the line through several of these kin
 
 **Parallel Passages**
 
-2 Chronicles 13:1-16:14 provides expanded accounts of Abijah's reign (including a battle speech invoking the Davidic covenant) and Asa's reign (including his reliance on a foreign alliance with Syria rather than God, which the Chronicler condemns). Compare the rapid succession of northern kings with the book of Judges, where a similar cycle of decline operates: each generation falls further from God until a deliverer is raised up -- a pattern that in Kings finds no adequate deliverer until Christ.
+2 Chronicles 13:1-16:14 provides expanded accounts of Abijah's reign (including a battle speech invoking the Davidic covenant) and Asa's reign (including his reliance on a foreign alliance with Syria rather than God, which the Chronicler condemns).
 
 ## Reflection Questions
 

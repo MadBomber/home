@@ -2,8 +2,8 @@
 week: 49
 day: 4
 title: "The Suffering Servant -- Pierced, Crushed, Silent, and Bearing the Sin of Many"
-reading: "Isaiah 52:13-53:12"
-parallel_passages: Acts 8:32-35, 1 Peter 2:22-25, Romans 4:25, Mark 15:27-28
+reading:
+- Isaiah 52:13-53:12
 section: New Covenant
 tags:
 - covenant-7
@@ -50,15 +50,11 @@ The passage's final verse contains a declaration that Jesus himself quoted on th
 
 **Old Testament Roots**
 
-The sacrificial imagery of Isaiah 53 draws on the entire Levitical system -- particularly the sin offering (*chattat*) of Leviticus 4, where an unblemished animal bears the sin of the offerer. The phrase *asham* in Isaiah 53:10 ("his soul makes an offering for guilt") is a technical term from Leviticus 5-7, the guilt offering. The servant does not merely resemble a sacrifice. He *is* one -- the offering the animal sacrifices always pointed toward but could never fully accomplish (Hebrews 10:1-4). The "lamb led to slaughter" echoes the Passover lamb of Exodus 12, whose blood protected Israel from the destroyer.
+The sacrificial imagery of Isaiah 53 draws on the entire Levitical system -- particularly the sin offering (*chattat*) of Leviticus 4, where an unblemished animal bears the sin of the offerer. The phrase *asham* in Isaiah 53:10 ("his soul makes an offering for guilt") is a technical term from Leviticus 5-7, the guilt offering. The servant does not merely resemble a sacrifice. He *is* one -- the offering the animal sacrifices always pointed toward but could never fully accomplish (Hebrews 10:1-4). The "lamb led to slaughter" echoes the Passover lamb of Exodus 12, whose blood protected Israel from the destroyer. Psalm 22, the psalm of the crucifixion, carries graphic physical detail and a cry of God-forsakenness. Zechariah 12:10 speaks of the day "when they look on me, on him whom they have pierced." Daniel 9:26 foresees an anointed one who "shall be cut off and shall have nothing." Leviticus 16, the Day of Atonement, has the scapegoat bear the sins of the people into the wilderness, prefiguring the servant who bears iniquity for many.
 
 **New Testament Echoes**
 
 Acts 8:32-35 -- Philip explains Isaiah 53 to the Ethiopian eunuch as fulfilled in Jesus. 1 Peter 2:22-25 -- Peter quotes Isaiah 53 extensively to describe Christ's atoning work. Romans 4:25 -- Paul compresses Isaiah 53 into a single statement: delivered for our trespasses, raised for our justification. Mark 15:27-28 -- Jesus crucified between two criminals, fulfilling "numbered with the transgressors." Matthew 27:57-60 -- burial in a rich man's tomb, fulfilling "with a rich man in his death." Luke 22:37 -- Jesus quotes Isaiah 53:12 as prophecy about himself that "must be fulfilled."
-
-**Parallel Passages**
-
-Psalm 22 -- the psalm of the crucifixion, with its graphic physical detail and cry of God-forsakenness. Zechariah 12:10 -- "they shall look on me, on him whom they have pierced." Daniel 9:26 -- the anointed one "cut off and having nothing." Leviticus 16 -- the Day of Atonement, where the scapegoat bears the sins of the people into the wilderness, prefiguring the servant who bears iniquity for many.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 32
 day: 4
 title: "Jonathan's Faith, Saul's Foolish Oath, and a Kingdom Already Fracturing"
-reading: "1 Samuel 14:1-52"
-parallel_passages: Hebrews 11:32-34, Romans 8:1-4, Matthew 12:1-8
+reading:
+- 1 Samuel 14:1-52
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -52,15 +52,11 @@ The people's ransom of Jonathan also carries deep Christological resonance. The 
 
 **Old Testament Roots**
 
-Jonathan's "nothing can hinder the LORD from saving by many or by few" echoes Gideon's reduction of forces in Judges 7 -- the same theological principle that God's power is not dependent on human numbers. Saul's rash oath parallels Jephthah's vow in Judges 11:30-31, another instance of a leader binding himself and his family with reckless religious language. The people's eating of meat with blood violates the prohibition of Leviticus 17:10-14 and Genesis 9:4, connecting Saul's poor leadership to ancient covenant violations. Jonathan's use of the verb *'akar* -- "my father has troubled the land" -- deliberately echoes Joshua 7:25, where the same word condemns Achan for bringing covenant violation upon all Israel.
+Jonathan's "nothing can hinder the LORD from saving by many or by few" echoes Gideon's reduction of forces in Judges 7 -- the same theological principle that God's power is not dependent on human numbers. Saul's rash oath parallels Jephthah's vow in Judges 11:30-31, another instance of a leader binding himself and his family with reckless religious language. The people's eating of meat with blood violates the prohibition of Leviticus 17:10-14 and Genesis 9:4, connecting Saul's poor leadership to ancient covenant violations. Jonathan's use of the verb *'akar* -- "my father has troubled the land" -- deliberately echoes Joshua 7:25, where the same word condemns Achan for bringing covenant violation upon all Israel. 2 Samuel 21:1-14 -- Saul's oath-breaking with the Gibeonites -- is another instance of Saul's recklessness with sworn words producing consequences for others. Ecclesiastes 5:2 gives the wisdom verdict: "Be not rash with your mouth... for God is in heaven and you are on earth."
 
 **New Testament Echoes**
 
 Romans 8:1-4 declares that "there is now no condemnation for those who are in Christ Jesus" -- the permanent liberation from the kind of rash religious condemnation Saul imposed. Matthew 12:1-8, where Jesus defends his disciples' Sabbath grain-picking and declares himself "lord of the Sabbath," directly confronts the Saul-like religion that elevates religious pronouncements over human need. Mark 10:45 presents Christ as the ransom -- the permanent *padah* -- for those condemned under judgments they did not deserve.
-
-**Parallel Passages**
-
-Judges 7:1-22 -- Gideon's victory with three hundred men, the same "by many or by few" principle. Judges 11:29-40 -- Jephthah's rash vow and its tragic fulfillment. 2 Samuel 21:1-14 -- Saul's oath-breaking with the Gibeonites, another instance of Saul's reckless vows producing consequences for others. Ecclesiastes 5:2-5 -- "Be not rash with your mouth... for God is in the heavens and you are on earth."
 
 ## Reflection Questions
 

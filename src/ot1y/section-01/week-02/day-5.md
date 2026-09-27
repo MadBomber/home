@@ -2,8 +2,8 @@
 week: 2
 day: 5
 title: "The Everlasting Creator -- Stars by Name, Strength to the Weary"
-reading: "Isaiah 40:21-28"
-parallel_passages: John 1:1-3, Colossians 1:16-17, Hebrews 1:10-12, Romans 1:20, Matthew 11:28-30, Isaiah 9:6, Philippians 2:5-8
+reading:
+- Isaiah 40:21-28
 section: Creation Covenant
 tags:
 - covenant-1
@@ -61,15 +61,11 @@ And the promise of strength to the weary in Isaiah 40:29-31 -- "He gives power t
 
 **Old Testament Roots**
 
-Isaiah 40:21-28 draws directly on the creation theology of Genesis 1-2. The stretching of the heavens (40:22) echoes the firmament of Day 2. The breath that withers the nations (40:24) echoes the breath that gave life in Genesis 2:7. The God who calls stars by name (40:26) is the God who brought animals to Adam for naming (Genesis 2:19). Psalm 147:4 confirms: "He determines the number of the stars; he gives to all of them their names." Job 38-41 uses the same rhetorical strategy -- pointing to creation to establish God's authority over human suffering.
+Isaiah 40:21-28 draws directly on the creation theology of Genesis 1-2. The stretching of the heavens (40:22) echoes the firmament of Day 2. The breath that withers the nations (40:24) echoes the breath that gave life in Genesis 2:7. The God who calls stars by name (40:26) is the God who brought animals to Adam for naming (Genesis 2:19). Psalm 147:4 confirms: "He determines the number of the stars; he gives to all of them their names." Job 38-41 uses the same rhetorical strategy -- pointing to creation to establish God's authority over human suffering. Isaiah 45:18-22 has the Creator declare, "I am the LORD, and there is no other," and Jeremiah 10:6-16 draws another contrast between the living God and the manufactured idols of the nations. Psalm 104:1-9 (read last week) celebrates the same Creator in poetic form.
 
 **New Testament Echoes**
 
 Mark 1:3 and all four Gospels apply Isaiah 40:3 to John the Baptist preparing the way for Christ. Hebrews 1:10-12 applies the Creator language of Isaiah 40 to the Son. Colossians 1:16-17 -- all things created through and for Christ, held together in him. Romans 1:20 -- God's eternal power and divine nature are "clearly perceived... in the things that have been made." Matthew 11:28-30 -- Christ offers the rest that Isaiah 40:28-31 promised.
-
-**Parallel Passages**
-
-Compare Isaiah 40:21-28 with Isaiah 45:18-22, where the Creator declares "I am the LORD, and there is no other." Compare with Jeremiah 10:6-16, another contrast between the living God and the manufactured idols of the nations. Compare with Psalm 104:1-9 (read last week), which celebrates the same Creator in poetic form.
 
 ## Reflection Questions
 

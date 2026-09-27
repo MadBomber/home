@@ -2,8 +2,8 @@
 week: 3
 day: 1
 title: "The Temptation -- Distortion, Desire, and the Silence of the Man"
-reading: "Genesis 3:1-7"
-parallel_passages: Matthew 4:1-11, Luke 4:1-13, 1 John 2:16, James 1:13-15, 2 Corinthians 11:3, Revelation 12:9
+reading:
+- Genesis 3:1-7
 section: Adamic Covenant
 tags:
 - covenant-2
@@ -62,7 +62,7 @@ And where the first Adam was silent when he should have spoken, the last Adam sp
 
 Paul draws the theological conclusion: "For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous" (Romans 5:19). The fall of Genesis 3 is not the end of the story. It is the setup for the rescue. The garden's failure makes the wilderness's victory necessary -- and the victory is won not by a better strategy but by a better Adam.
 
-The serpent of Genesis 3 is identified in Revelation 12:9 as "the devil and Satan, the deceiver of the whole world." His defeat was promised in Genesis 3:15 -- the seed of the woman will crush his head. His defeat was enacted at the cross and the empty tomb. His defeat will be consummated when "the God of peace will soon crush Satan under your feet" (Romans 16:20). The temptation that succeeded in the garden has been answered by the man who would not fall.
+The serpent of Genesis 3 is identified in Revelation 12:9 as "the devil and Satan, the deceiver of the whole world." His defeat was enacted at the cross and the empty tomb. His defeat will be consummated when "the God of peace will soon crush Satan under your feet" (Romans 16:20). The temptation that succeeded in the garden has been answered by the man who would not fall.
 
 ## Key Themes
 
@@ -74,15 +74,11 @@ The serpent of Genesis 3 is identified in Revelation 12:9 as "the devil and Sata
 
 **Old Testament Roots**
 
-The serpent's strategy in Genesis 3:1-5 will be echoed throughout the Old Testament wherever God's word is distorted or denied. Balaam will attempt to curse what God has blessed (Numbers 22-24). The false prophets will say "Peace, peace" when there is no peace (Jeremiah 6:14). The serpent's question -- "Did God actually say?" -- is the ancestral form of every false teaching in Scripture. The three desires of 3:6 reappear in Achan's confession: "When I saw among the spoil a beautiful cloak... and 200 shekels of silver... then I coveted them and took them" (Joshua 7:21) -- seeing, coveting, taking. The pattern repeats.
+The serpent's strategy in Genesis 3:1-5 will be echoed throughout the Old Testament wherever God's word is distorted or denied. Balaam will attempt to curse what God has blessed (Numbers 22-24). The false prophets will say "Peace, peace" when there is no peace (Jeremiah 6:14). The serpent's question -- "Did God actually say?" -- is the ancestral form of every false teaching in Scripture. The three desires of 3:6 reappear in Achan's confession: "When I saw among the spoil a beautiful cloak... and 200 shekels of silver... then I coveted them and took them" (Joshua 7:21) -- seeing, coveting, taking. The pattern repeats. Job 1:6-12 shows Satan appearing before God and given permission to test Job, and 1 Chronicles 21:1 shows Satan inciting David to take a census. The tempter of Genesis 3 does not disappear after the garden. He remains active throughout Scripture -- and his defeat is accomplished only in Christ.
 
 **New Testament Echoes**
 
 Matthew 4:1-11 and Luke 4:1-13 -- the temptation of Jesus as the reversal of Genesis 3. Romans 5:12-21 -- the disobedience of Adam and the obedience of Christ as parallel acts with opposite consequences. 1 John 2:16 -- "the desires of the flesh and the desires of the eyes and the pride of life" echoing the three desires of 3:6. 2 Corinthians 11:3 -- Paul warns the church: "I am afraid that as the serpent deceived Eve by his cunning, your thoughts will be led astray." James 1:14-15 -- "each person is tempted when he is lured and enticed by his own desire. Then desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death."
-
-**Parallel Passages**
-
-Compare Genesis 3:1-7 with Job 1:6-12, where Satan appears before God and is given permission to test Job. Compare with 1 Chronicles 21:1, where Satan incites David to take a census. The tempter of Genesis 3 does not disappear after the garden. He remains active throughout Scripture -- and his defeat is accomplished only in Christ.
 
 ## Reflection Questions
 
@@ -90,8 +86,8 @@ Compare Genesis 3:1-7 with Job 1:6-12, where Satan appears before God and is giv
 
 2. Adam was present during the temptation and said nothing. His silence was as consequential as the woman's reaching. Are there situations in your life where you are failing to speak truth when lies are being spoken? What does it cost to break the silence?
 
-3. The first human response to sin was self-covering -- fig leaves sewn to hide nakedness. What are the "fig leaves" you use to cover your own guilt or shame? How do they compare to what God will provide in Genesis 3:21?
+3. The first human response to sin was self-covering -- fig leaves sewn to hide nakedness. What are the "fig leaves" you use to cover your own guilt or shame? Why can a covering stitched together with your own hands never be enough?
 
 ## Prayer
 
-Lord Jesus, you are the last Adam -- the one who faced the serpent's distortions and did not fall. Where the first Adam was silent, you spoke the word of God. Where the first Adam reached for what was forbidden, you refused what was offered. Where the first Adam grasped at being like God, you -- who are God -- emptied yourself and became a servant. We confess that we are more like the first Adam than the last. We listen to distortions of your word. We add to your commands and subtract from your promises. We reach for what you have not given and ignore what you have. Forgive us. Teach us to answer the serpent the way you did -- not with cleverness but with Scripture, not with silence but with truth. And where we have already fallen, remind us that your obedience is credited to us, your righteousness covers us, and the seed of the woman has already crushed the serpent's head. In your name. Amen.
+Lord Jesus, you are the last Adam -- the one who faced the serpent's distortions and did not fall. Where the first Adam was silent, you spoke the word of God. Where the first Adam reached for what was forbidden, you refused what was offered. Where the first Adam grasped at being like God, you -- who are God -- emptied yourself and became a servant. We confess that we are more like the first Adam than the last. We listen to distortions of your word. We add to your commands and subtract from your promises. We reach for what you have not given and ignore what you have. Forgive us. Teach us to answer the serpent the way you did -- not with cleverness but with Scripture, not with silence but with truth. And where we have already fallen, remind us that your obedience is credited to us, your righteousness covers us, and the tempter who prevailed in the garden has already been defeated by the man who would not fall. In your name. Amen.

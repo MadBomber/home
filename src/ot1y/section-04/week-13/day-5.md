@@ -2,8 +2,8 @@
 week: 13
 day: 5
 title: "The Stolen Blessing -- Deception, Anguish, and an Irrevocable Word"
-reading: "Genesis 27:1-40"
-parallel_passages: Genesis 25:23, Genesis 1:3, Hebrews 12:16-17, Matthew 12:36, Romans 8:28, 2 Corinthians 5:21, Isaiah 61:10, Romans 9:11-13
+reading:
+- Genesis 27:1-40
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -54,15 +54,11 @@ Esau's tears -- "Bless me, even me also, O my father!" -- are the tears of a man
 
 **Old Testament Roots**
 
-The blessing-curse formula of 27:29 -- "Cursed be everyone who curses you, and blessed be everyone who blesses you" -- echoes the Abrahamic covenant of Genesis 12:3. Isaac's trembling (27:33) anticipates the trembling of Sinai (Exodus 19:18) and the prophets' responses to theophany (Daniel 10:7-11; Isaiah 6:5). The goatskin deception anticipates the goat-blood deception of Genesis 37:31, where Jacob's own sons will use animal skin and blood to deceive him about Joseph. The anti-blessing of Esau (27:39-40) anticipates the prophecy of Obadiah against Edom.
+The blessing-curse formula of 27:29 -- "Cursed be everyone who curses you, and blessed be everyone who blesses you" -- echoes the Abrahamic covenant of Genesis 12:3. Isaac's trembling (27:33) anticipates the trembling of Sinai (Exodus 19:18) and the prophets' responses to theophany (Daniel 10:7-11; Isaiah 6:5). The goatskin deception anticipates the goat-blood deception of Genesis 37:31, where Jacob's own sons will use animal skin and blood to deceive him about Joseph. The anti-blessing of Esau (27:39-40) anticipates the prophecy of Obadiah against Edom. Jacob's deception of Isaac can be compared with Tamar's deception of Judah (Genesis 38:14-26) -- both use disguise to secure a covenantal outcome through morally questionable means. Isaac's "Who are you?" (27:18) can be compared with God's "Where are you?" (3:9) -- both questions expose what the one questioned is trying to hide.
 
 **New Testament Echoes**
 
-2 Corinthians 5:21 -- the great exchange, where Christ becomes sin so that sinners become righteousness, inverts the garment exchange of Genesis 27. Isaiah 61:10 -- "the garments of salvation... the robe of righteousness" -- fulfills the typology of borrowed clothing. Hebrews 12:16-17 -- Esau as a warning against trading the sacred for the immediate and finding "no chance to repent." Romans 11:29 -- "the gifts and the calling of God are irrevocable" -- echoes Isaac's inability to revoke the blessing. Matthew 12:36 -- Jesus warns that "on the day of judgment people will give account for every careless word" -- confirming the weight of spoken words.
-
-**Parallel Passages**
-
-Compare Jacob's deception of Isaac with Tamar's deception of Judah (Genesis 38:14-26) -- both use disguise to secure a covenantal outcome through morally questionable means. Compare Esau's cry for blessing with the rich man's cry from Hades in Luke 16:24 -- both are too late. Compare Isaac's "Who are you?" (27:18) with God's "Where are you?" (3:9) -- both questions expose what the one questioned is trying to hide.
+2 Corinthians 5:21 -- the great exchange, where Christ becomes sin so that sinners become righteousness, inverts the garment exchange of Genesis 27. Isaiah 61:10 -- "the garments of salvation... the robe of righteousness" -- fulfills the typology of borrowed clothing. Hebrews 12:16-17 -- Esau as a warning against trading the sacred for the immediate and finding "no chance to repent." Romans 11:29 -- "the gifts and the calling of God are irrevocable" -- echoes Isaac's inability to revoke the blessing. Matthew 12:36 -- Jesus warns that "on the day of judgment people will give account for every careless word" -- confirming the weight of spoken words. Esau's cry for blessing can be compared with the rich man's cry from Hades in Luke 16:24 -- both are too late.
 
 ## Reflection Questions
 

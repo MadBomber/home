@@ -2,8 +2,12 @@
 week: 19
 day: 4
 title: "Manna from Heaven"
-reading: "Exodus 16:1-36"
-parallel_passages: John 6:30-58, Deuteronomy 8:3, Matthew 6:11
+reading:
+- Exodus 16:1-36
+parallel_passages:
+- Deuteronomy 8:3
+- Nehemiah 9:15
+- Psalm 105:40
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,7 +53,7 @@ The instruction that an *'omer* of manna be preserved in a jar and placed before
 
 **Old Testament Roots**
 
-The manna echoes the provision of the Garden of Eden -- God supplying food freely, with one restriction attached. In Eden, the prohibition was one tree; in the wilderness, the prohibition is hoarding and gathering on the Sabbath. Both are tests of trust and obedience in the context of abundance. Deuteronomy 8:3 provides the interpretive key: the manna was given "that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the LORD." Psalm 78:24-25 calls the manna "the grain of heaven" and "the bread of the angels" -- heavenly food given to earthly people.
+The manna echoes the provision of the Garden of Eden -- God supplying food freely, with one restriction attached. In Eden, the prohibition was one tree; in the wilderness, the prohibition is hoarding and gathering on the Sabbath. Both are tests of trust and obedience in the context of abundance. Deuteronomy 8:3 provides the interpretive key: the manna was given "that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the LORD." Psalm 78:24-25 calls the manna "the grain of heaven" and "the bread of the angels" -- heavenly food given to earthly people. Numbers 11:4-9 provides additional details about the manna and records the people's continued complaints. Wisdom of Solomon 16:20-21 (in the Apocrypha) describes the manna as accommodating itself to the taste of each person -- an image of divine provision perfectly fitted to individual need.
 
 **New Testament Echoes**
 
@@ -57,7 +61,7 @@ Jesus quotes Deuteronomy 8:3 in his own wilderness temptation (Matthew 4:4), ref
 
 **Parallel Passages**
 
-Numbers 11:4-9 provides additional details about the manna and records the people's continued complaints. Nehemiah 9:15 remembers the manna in worship: "You gave them bread from heaven for their hunger." Psalm 105:40 recounts: "They asked, and he brought quail, and gave them bread from heaven in abundance." Wisdom of Solomon 16:20-21 (in the Apocrypha) describes the manna as accommodating itself to the taste of each person -- an image of divine provision perfectly fitted to individual need.
+Moses retells the manna in Deuteronomy 8:3: the LORD "humbled you and let you hunger and fed you with manna, which you did not know, nor did your fathers know." Nehemiah 9:15 remembers the manna in worship: "You gave them bread from heaven for their hunger." Psalm 105:40 recounts: "They asked, and he brought quail, and gave them bread from heaven in abundance."
 
 ## Reflection Questions
 

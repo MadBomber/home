@@ -2,8 +2,8 @@
 week: 23
 day: 1
 title: "The Ascending Flame -- Burnt, Grain, and Peace Offerings"
-reading: "Leviticus 1:1-3:17"
-parallel_passages: Romans 12:1, Ephesians 5:2, Philippians 2:5-8, Hebrews 10:5-10, John 6:35, 1 Corinthians 10:16-18, Colossians 1:19-20
+reading:
+- Leviticus 1:1-3:17
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -52,15 +52,11 @@ And beneath all three offerings stands the hand on the head -- the *samakh* of L
 
 **Old Testament Roots**
 
-The burnt offering reaches back to Noah's sacrifice after the flood (Genesis 8:20-21), where the *reach nichoach* first ascended to God. The laying on of hands echoes the binding of Isaac (Genesis 22), where Abraham's hand was stayed and a ram was provided as a substitute -- the first explicit narrative of one dying in place of another. The grain offering's salt requirement (2:13) connects to the "covenant of salt" language that will appear in Numbers 18:19 and 2 Chronicles 13:5, signifying permanence and inviolability.
+The burnt offering reaches back to Noah's sacrifice after the flood (Genesis 8:20-21), where the *reach nichoach* first ascended to God. The laying on of hands echoes the binding of Isaac (Genesis 22), where Abraham's hand was stayed and a ram was provided as a substitute -- the first explicit narrative of one dying in place of another. The grain offering's salt requirement (2:13) connects to the "covenant of salt" language that will appear in Numbers 18:19 and 2 Chronicles 13:5, signifying permanence and inviolability. Compare Leviticus 1:1-3:17 with Psalm 51:16-17, where David declares that God does not desire sacrifice but "a broken and contrite heart." The burnt offering and the broken heart are not contradictions but complements -- the external sacrifice without the internal posture is empty, and the internal posture without a substitute is insufficient.
 
 **New Testament Echoes**
 
-Romans 12:1 -- "present your bodies as a living sacrifice, holy and acceptable to God" -- applies the burnt offering's logic to the Christian life. Ephesians 5:2 uses the exact Levitical vocabulary of "fragrant offering" for Christ's death. Hebrews 10:1-14 argues that the repetition of Levitical sacrifices proved their insufficiency -- "it is impossible for the blood of bulls and goats to take away sins" (10:4) -- and that Christ's single offering accomplished what the entire system could only anticipate.
-
-**Parallel Passages**
-
-Compare Leviticus 1:1-3:17 with Psalm 51:16-17, where David declares that God does not desire sacrifice but "a broken and contrite heart." The burnt offering and the broken heart are not contradictions but complements -- the external sacrifice without the internal posture is empty, and the internal posture without a substitute is insufficient. Compare also with Hebrews 13:15-16, where praise and generosity are called "sacrifices pleasing to God" -- the *reach nichoach* vocabulary applied to the Christian's daily life.
+Romans 12:1 -- "present your bodies as a living sacrifice, holy and acceptable to God" -- applies the burnt offering's logic to the Christian life. Ephesians 5:2 uses the exact Levitical vocabulary of "fragrant offering" for Christ's death. Hebrews 10:1-14 argues that the repetition of Levitical sacrifices proved their insufficiency -- "it is impossible for the blood of bulls and goats to take away sins" (10:4) -- and that Christ's single offering accomplished what the entire system could only anticipate. Hebrews 13:15-16 calls praise and generosity sacrifices, "for such sacrifices are pleasing to God" -- the *reach nichoach* vocabulary applied to the Christian's daily life.
 
 ## Reflection Questions
 

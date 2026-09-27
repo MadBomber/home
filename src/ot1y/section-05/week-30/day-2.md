@@ -2,8 +2,8 @@
 week: 30
 day: 2
 title: "Deborah and Barak, Gideon's Call -- Strength in Weakness"
-reading: "Judges 4:1-6:40"
-parallel_passages: Hebrews 11:32-34, 2 Corinthians 12:9-10, 1 Corinthians 1:26-29, Luke 1:46-55
+reading:
+- Judges 4:1-6:40
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -19,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Judges 4:1--6:40
+- Judges 4:1-6:40
 
 ## Historical Context
 
@@ -57,11 +57,7 @@ Deborah's song echoes the Song of the Sea in Exodus 15 -- both celebrate God's d
 
 **New Testament Echoes**
 
-Hebrews 11:32-34 names Gideon and Barak among the heroes of faith who "through faith conquered kingdoms... were made strong out of weakness." Paul's theology of divine power perfected in human weakness (2 Corinthians 12:9-10) draws on stories like Gideon's. Mary's Magnificat (Luke 1:46-55) echoes the themes and structure of the Song of Deborah. Jesus' choice of fishermen, tax collectors, and women as his primary witnesses follows the Judges pattern of choosing the overlooked.
-
-**Parallel Passages**
-
-Compare the angel's appearance to Gideon (Judges 6:11-24) with the angel's appearance to Moses (Exodus 3:1-15) and to Mary (Luke 1:26-38). Each follows the pattern: divine greeting, human fear, divine commission, human objection, divine sign. Compare Sisera's defeat by water (Judges 5:21) with Pharaoh's defeat by water (Exodus 14:26-28) and the final judgment described in Revelation 19:11-21.
+Hebrews 11:32-34 names Gideon and Barak among the heroes of faith who "through faith conquered kingdoms... were made strong out of weakness." Paul's theology of divine power perfected in human weakness (2 Corinthians 12:9-10) draws on stories like Gideon's. Mary's Magnificat (Luke 1:46-55) echoes the themes and structure of the Song of Deborah. Jesus' choice of fishermen, tax collectors, and women as his primary witnesses follows the Judges pattern of choosing the overlooked. Compare the angel's appearance to Gideon (Judges 6:11-24) with the angel's appearance to Moses (Exodus 3:1-15) and to Mary (Luke 1:26-38). Each follows the pattern: divine greeting, human fear, divine commission, human objection, divine sign. Compare Sisera's defeat by water (Judges 5:21) with Pharaoh's defeat by water (Exodus 14:26-28) and the final judgment described in Revelation 19:11-21.
 
 ## Reflection Questions
 

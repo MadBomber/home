@@ -45,19 +45,19 @@ The law is not a ladder to climb toward God. It is the shape of gratitude for a 
 
 5. **Vertical and Horizontal.** The first four commandments address the relationship between humanity and God; the last six address relationships between people. Jesus will later summarize the entire law with two commands: love God, love neighbor (Matthew 22:37-40). Why does Scripture refuse to separate devotion from ethics, worship from justice? What does it look like when a community tries to keep one without the other?
 
-### Day 3: The Book of the Covenant Begins (Exodus 20:22--21:36)
+### Day 3: The Book of the Covenant Begins (Exodus 20:22-21:36)
 
 6. **Law in the Dirt.** The Book of the Covenant takes the principles of the Ten Commandments and applies them to the gritty details of daily life -- what happens when an ox gores a neighbor, when a servant is injured, when a thief is caught at night. Why does God descend into such specificity? What does it reveal about his character that he cares about property disputes and personal injury cases?
 
 7. **The Servant Who Stays.** Exodus 21:5-6 describes a slave who, at the end of his term, chooses to remain: "I love my master... I will not go out free." His ear is pierced against the doorpost, and he serves for life. The early church saw in this image a portrait of Christ, who, being free, chose to bind himself to his people in love. How does this picture of voluntary servitude illuminate what Paul means when he calls himself a *doulos* -- a bondservant -- of Christ (Romans 1:1)?
 
-### Day 4: The Vulnerable, the Sabbath, and the Feasts (Exodus 22:1--23:19)
+### Day 4: The Vulnerable, the Sabbath, and the Feasts (Exodus 22:1-23:19)
 
 8. **Memory Shapes Ethics.** "You shall not oppress a sojourner. You know the heart of a sojourner, for you were sojourners in the land of Egypt" (Exodus 23:9). The command is grounded not in abstract principle but in lived experience. Israel's ethic toward the vulnerable flows from its own memory of vulnerability. How does your own story of suffering or deliverance shape the way you treat others? Where has the church forgotten its own story and, as a result, failed to show compassion?
 
 9. **The Rhythm of Rest and Feast.** The Sabbath command appears again, now extended to servants, animals, and even the land (Exodus 23:10-12). Three annual feasts structure the national calendar around gratitude -- Unleavened Bread, Harvest, and Ingathering. Why does God embed worship into the rhythm of time rather than leaving it to individual initiative? What is lost when a community abandons shared rhythms of rest and celebration?
 
-### Day 5: The Covenant Sealed in Blood (Exodus 23:20--24:18)
+### Day 5: The Covenant Sealed in Blood (Exodus 23:20-24:18)
 
 10. **Blood on the Altar, Blood on the People.** Moses reads the law aloud. The people respond: "All that the LORD has spoken we will do, and we will be obedient" (Exodus 24:7). Then Moses throws half the blood on the altar and half on the people: "Behold the blood of the covenant" (Exodus 24:8). At the Last Supper, Jesus will say, "This cup is the new covenant in my blood" (Luke 22:20). What does it mean that every covenant in Scripture is sealed in blood? Why does relationship with God require something to die?
 

@@ -2,8 +2,10 @@
 week: 16
 day: 3
 title: "I Am Joseph"
-reading: "Genesis 45:1-28"
-parallel_passages: Acts 2:22-24, Acts 7:13, Zechariah 12:10, 2 Corinthians 5:18-19
+reading:
+- Genesis 45:1-28
+parallel_passages:
+- Acts 7:13
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -47,15 +49,15 @@ Joseph weeps before he speaks. He does not begin with theology. He begins with t
 
 **Old Testament Roots**
 
-Joseph's claim to be "sent" by God (*shelachani*) places him in the line of divinely commissioned agents that includes Moses (Exodus 3:10-15), the judges, and the prophets. The concept of a *she'erit* -- a remnant preserved through catastrophe -- becomes a major prophetic theme. Isaiah 10:20-22 promises that "a remnant will return" after exile; Micah 2:12 envisions God gathering the remnant "like sheep in a fold." Joseph is the first to use this language, and he applies it to the covenant family: God's purpose in his suffering was to preserve the line through which all nations would be blessed.
+Joseph's claim to be "sent" by God (*shelachani*) places him in the line of divinely commissioned agents that includes Moses (Exodus 3:10-15), the judges, and the prophets. The concept of a *she'erit* -- a remnant preserved through catastrophe -- becomes a major prophetic theme. Isaiah 10:20-22 promises that "a remnant will return" after exile; Micah 2:12 envisions God gathering the remnant "like sheep in a fold." Joseph is the first to use this language, and he applies it to the covenant family: God's purpose in his suffering was to preserve the line through which all nations would be blessed. Hosea 2:14-23 describes God wooing unfaithful Israel back to himself, speaking tenderly to her in the wilderness and restoring the covenant relationship. The dynamic is the same: the offended one takes the initiative in reconciliation, bearing the cost rather than demanding payment.
 
 **New Testament Echoes**
 
-Stephen recounts this scene in Acts 7:13: "On the second visit Joseph made himself known to his brothers, and Joseph's family became known to Pharaoh." Stephen is drawing a deliberate parallel: just as the brothers did not recognize Joseph on the first visit but recognized him on the second, so Israel did not recognize the Messiah at his first coming but will recognize him at his return. The two-visit pattern of the Joseph story becomes a template for understanding Christ's relationship with Israel.
+Stephen recounts this scene in Acts 7:13: "On the second visit Joseph made himself known to his brothers, and Joseph's family became known to Pharaoh." Stephen is drawing a deliberate parallel: just as the brothers did not recognize Joseph on the first visit but recognized him on the second, so Israel did not recognize the Messiah at his first coming but will recognize him at his return. The two-visit pattern of the Joseph story becomes a template for understanding Christ's relationship with Israel. Romans 5:10 -- "While we were enemies we were reconciled to God by the death of his Son" -- captures the same logic: reconciliation is initiated by the one who was wronged, not the one who did the wrong.
 
 **Parallel Passages**
 
-Hosea 2:14-23 describes God wooing unfaithful Israel back to himself, speaking tenderly to her in the wilderness and restoring the covenant relationship. The dynamic is the same: the offended one takes the initiative in reconciliation, bearing the cost rather than demanding payment. Romans 5:10 -- "While we were enemies we were reconciled to God by the death of his Son" -- captures the same logic: reconciliation is initiated by the one who was wronged, not the one who did the wrong.
+Stephen's speech retells this scene in Acts 7:13 -- "Joseph made himself known to his brothers, and Joseph's family became known to Pharaoh" -- matching both halves of the chapter's disclosure: to the brothers (45:1-3) and to Pharaoh's house (45:16).
 
 ## Reflection Questions
 

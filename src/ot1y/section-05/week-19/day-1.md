@@ -2,8 +2,11 @@
 week: 19
 day: 1
 title: "The Departure"
-reading: "Exodus 12:43-13:22"
-parallel_passages: 1 Corinthians 5:7-8, Luke 2:22-23, John 8:12
+reading:
+- Exodus 12:43-13:22
+parallel_passages:
+- Psalm 78:14
+- Nehemiah 9:12
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,7 +52,7 @@ The pillar of cloud and fire -- God's visible, leading presence -- finds its dee
 
 **Old Testament Roots**
 
-The carrying of Joseph's bones (Exodus 13:19) fulfills Genesis 50:25, where the dying patriarch made Israel swear to bring his remains out of Egypt. The oath, made four hundred years earlier, binds the generations together. The pillar of cloud and fire echoes the smoking fire pot and flaming torch that passed between the divided animals in Abraham's covenant ceremony (Genesis 15:17) -- God's glory in motion, sealing his promises with his presence.
+The carrying of Joseph's bones (Exodus 13:19) fulfills Genesis 50:25, where the dying patriarch made Israel swear to bring his remains out of Egypt. The oath, made four hundred years earlier, binds the generations together. The pillar of cloud and fire echoes the smoking fire pot and flaming torch that passed between the divided animals in Abraham's covenant ceremony (Genesis 15:17) -- God's glory in motion, sealing his promises with his presence. Isaiah 4:5-6 projects the pillar forward: "Then the LORD will create over the whole site of Mount Zion and over her assemblies a cloud by day, and smoke and the shining of a flaming fire by night."
 
 **New Testament Echoes**
 
@@ -57,7 +60,7 @@ Paul reads the unleavened bread as a metaphor for the purified life of the belie
 
 **Parallel Passages**
 
-Psalm 78:14 remembers the pillar: "In the daytime he led them with a cloud, and all the night with a fiery light." Nehemiah 9:12 recounts it in worship: "By a pillar of cloud you led them in the day, and by a pillar of fire in the night." Isaiah 4:5-6 projects it forward: "Then the LORD will create over the whole site of Mount Zion and over her assemblies a cloud by day, and smoke and the shining of a flaming fire by night."
+Psalm 78:14 remembers the pillar: "In the daytime he led them with a cloud, and all the night with a fiery light." Nehemiah 9:12 recounts it in worship: "By a pillar of cloud you led them in the day, and by a pillar of fire in the night."
 
 ## Reflection Questions
 

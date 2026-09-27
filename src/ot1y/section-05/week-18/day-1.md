@@ -2,8 +2,8 @@
 week: 18
 day: 1
 title: "Let My People Go"
-reading: "Exodus 5:1-6:13"
-parallel_passages: Acts 7:34-35, Romans 9:17, 2 Corinthians 1:8-10
+reading:
+- Exodus 5:1-6:30
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -16,7 +16,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Exodus 5:1-6:13
+- Exodus 5:1-6:30
 
 ## Historical Context
 
@@ -28,7 +28,9 @@ The retaliation is immediate and calculated. Pharaoh does not merely refuse the 
 
 Moses' response to the disaster is raw and unguarded: "O Lord, why have you done evil to this people? Why did you ever send me?" (5:22). The Hebrew *lamah hare'ota* ("why have you brought evil upon") uses the same root (*ra'a*) that describes moral evil elsewhere in the Torah. Moses is not politely questioning God's timing. He is accusing God of causing harm. And God does not rebuke the accusation. Instead, he responds with self-revelation. The divine speech of Exodus 6:2-8 contains seven "I will" statements anchored in one foundational declaration: *ani YHWH* -- "I am the LORD." The covenant name itself is the answer. God's identity is his argument.
 
-The genealogical interlude of Exodus 6:14-27 -- which breaks the narrative momentum to trace the lineage of Moses and Aaron through the tribe of Levi -- serves a purpose the original audience would have recognized immediately. It establishes the priestly credentials of the mediators. In ancient Near Eastern culture, a messenger's authority depended on his lineage. Moses and Aaron are not self-appointed prophets. They are sons of Amram and Jochebed, descendants of Levi, the tribe God will set apart for worship. The genealogy is not a digression. It is a credential.
+The genealogical interlude of Exodus 6:14-27 -- which breaks the narrative momentum to trace the lineage of Moses and Aaron through the tribe of Levi -- serves a purpose the original audience would have recognized immediately. The list opens like a full register of Jacob's sons, naming Reuben and Simeon, but it stops at Levi, the third son, and follows his line alone. It establishes the priestly credentials of the mediators. In ancient Near Eastern culture, a messenger's authority depended on his lineage. Moses and Aaron are not self-appointed prophets. They are sons of Amram and Jochebed, descendants of Levi, the tribe God will set apart for worship. The genealogy is not a digression. It is a credential.
+
+The list even reaches past Moses and Aaron to name Aaron's sons and his grandson Phinehas (6:23-25), and among Levi's descendants it records Korah and his sons (6:21, 24) -- names that will matter again in the wilderness. Then the narrator closes the parenthesis with a formal marker: "These are the Aaron and Moses to whom the LORD said: 'Bring out the people of Israel from the land of Egypt by their hosts'" (6:26). The story resumes exactly where it broke off (6:28-30). God repeats his charge -- "I am the LORD; tell Pharaoh king of Egypt all that I say to you" (6:29) -- and Moses repeats his objection: "Behold, I am of uncircumcised lips. How will Pharaoh listen to me?" (6:30; compare 6:12). The phrase *aral sefatayim* ("uncircumcised of lips") pictures lips that are closed off and unfit for the task, and it belongs to Moses' earlier complaint that he is "slow of speech and of tongue" (4:10). The repetition is a deliberate literary device, a resumptive echo that picks up the thread after the genealogy. But it also leaves the chapter on an unresolved note. The credentials are in order. The messenger still doubts himself. God's answer in the next chapter will not be to improve Moses' lips but to send Aaron to speak for him.
 
 ## Christ in This Day
 
@@ -38,25 +40,24 @@ The pattern of suffering increasing after divine intervention begins here and ru
 
 God's response to Moses' despair -- "Now you shall see what I will do to Pharaoh" (6:1) -- is a promise that echoes forward through the entire biblical narrative to its climax in the resurrection. When the disciples stood before the sealed tomb on Saturday, they stood where Moses stood after the bricks doubled: in the place where obedience had produced catastrophe and God appeared absent. The answer in both cases is the same -- God's "I will" declarations. "I will bring you out... I will deliver you... I will redeem you with an outstretched arm" (6:6). Paul heard these promises fulfilled in Christ: "He has delivered us from such a deadly peril, and he will deliver us. On him we have set our hope that he will deliver us again" (2 Corinthians 1:10). The God who answered Pharaoh's contempt with ten plagues answered the tomb's finality with an empty grave.
 
+The chapter closes with Moses still protesting his "uncircumcised lips" (6:30). The messenger feels inadequate to his message, and God sends him anyway. The deliverance will never rest on the eloquence of the one who announces it. Paul understood this about his own preaching: "my speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power, so that your faith might not rest in the wisdom of men but in the power of God" (1 Corinthians 2:4-5).
+
 ## Key Themes
 
 - **Obedience that precedes visible results** -- Moses obeys, and the situation worsens. The people suffer more after God's intervention, not less. This pattern -- suffering intensifying between the promise and its fulfillment -- defines the entire biblical experience of faith, from Abraham's long wait to the disciples' dark Saturday.
 - **Pharaoh's question as the narrative engine** -- "Who is the LORD?" drives the entire plague sequence. Every subsequent plague is an answer to this question. The God Pharaoh does not know will make himself known -- not through theological argument but through power that dismantles every false god in the Egyptian pantheon.
 - **Divine self-revelation as the answer to despair** -- When Moses accuses God of causing harm, God does not explain his strategy. He reveals his name. The sevenfold "I will" of Exodus 6:6-8, anchored in *ani YHWH*, establishes that God's identity is the ground of his promises. He does not say "Here is my plan." He says "Here is who I am."
+- **A credentialed messenger who still doubts** -- The genealogy of 6:14-27 establishes Moses and Aaron in the line of Levi, and then Moses immediately repeats that he is "of uncircumcised lips" (6:30). Lineage settles his authority. It does not settle his fear. God's commission rests on God's word, not on the messenger's confidence.
 
 ## Connections
 
 **Old Testament Roots**
 
-God's declaration "I appeared to Abraham, to Isaac, and to Jacob, as God Almighty (*El Shaddai*), but by my name the LORD (*YHWH*) I did not make myself known to them" (6:3) ties the Exodus directly to the patriarchal narratives. The God of the burning bush is the God of the covenant -- the same God, now revealing a deeper dimension of his character. The promise of land, offspring, and blessing given to Abraham in Genesis 12:1-3 is here being activated through national deliverance. Exodus is the fulfillment of Genesis.
+God's declaration "I appeared to Abraham, to Isaac, and to Jacob, as God Almighty (*El Shaddai*), but by my name the LORD (*YHWH*) I did not make myself known to them" (6:3) ties the Exodus directly to the patriarchal narratives. The God of the burning bush is the God of the covenant -- the same God, now revealing a deeper dimension of his character. The promise of land, offspring, and blessing given to Abraham in Genesis 12:1-3 is here being activated through national deliverance. Exodus is the fulfillment of Genesis. God answers the groaning of the oppressed in Psalm 12:5: "Because the poor are plundered, because the needy groan, I will now arise," says the LORD. In Isaiah 40:27-31, Israel's complaint that "my way is hidden from the LORD" is met with the promise that those who wait on the LORD shall renew their strength. Habakkuk's complaint, "O LORD, how long shall I cry for help, and you will not hear?" (Habakkuk 1:2-4), echoes Moses' own anguished prayer.
 
 **New Testament Echoes**
 
 Stephen's speech in Acts 7:34-35 recounts this scene: "I have surely seen the affliction of my people... and I have come down to deliver them. And now come, I will send you to Egypt." Paul quotes the Pharaoh narrative in Romans 9:17: "For this very purpose I have raised you up, that I might show my power in you, and that my name might be proclaimed in all the earth." Pharaoh's resistance serves God's revelatory purpose -- a truth that anticipates the way the cross itself serves God's saving purpose.
-
-**Parallel Passages**
-
-Psalm 12:5 -- "Because the poor are plundered, because the needy groan, I will now arise, says the LORD." Isaiah 40:27-31 -- Israel's complaint that "my way is hidden from the LORD" met with the promise that those who wait on the LORD shall renew their strength. Habakkuk 1:2-4 -- the prophet's complaint, "O LORD, how long shall I cry for help, and you will not hear?" echoes Moses' own anguished prayer.
 
 ## Reflection Questions
 

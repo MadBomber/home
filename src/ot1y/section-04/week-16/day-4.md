@@ -2,8 +2,12 @@
 week: 16
 day: 4
 title: "Jacob Comes to Egypt"
-reading: "Genesis 46:1-47:31"
-parallel_passages: Acts 7:14-15, Hebrews 11:9-10, Hebrews 11:21, Matthew 25:34-40
+reading:
+- Genesis 46:1-47:31
+parallel_passages:
+- Acts 7:14-15
+- Psalm 105:23-24
+- Deuteronomy 10:22
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -47,7 +51,7 @@ Jacob's self-description as a pilgrim whose days have been "few and evil" is the
 
 **Old Testament Roots**
 
-God's nighttime vision to Jacob at Beersheba (46:2-4) echoes the vision at Bethel in Genesis 28:13-15, where God promised, "I am with you and will keep you wherever you go, and will bring you back to this land." The promise of accompaniment bookends Jacob's life -- Bethel at the beginning, Beersheba at the end. The seventy souls who descend to Egypt fulfill the Abrahamic promise that Abraham's descendants would be "sojourners in a land that is not theirs" (Genesis 15:13). Deuteronomy 10:22 will later recall this moment: "Your fathers went down to Egypt seventy persons, and now the LORD your God has made you as numerous as the stars of heaven."
+God's nighttime vision to Jacob at Beersheba (46:2-4) echoes the vision at Bethel in Genesis 28:13-15, where God promised, "I am with you and will keep you wherever you go, and will bring you back to this land." The promise of accompaniment bookends Jacob's life -- Bethel at the beginning, Beersheba at the end. The seventy souls who descend to Egypt fulfill the Abrahamic promise that Abraham's descendants would be "sojourners in a land that is not theirs" (Genesis 15:13). Deuteronomy 10:22 will later recall this moment: "Your fathers went down to Egypt seventy persons, and now the LORD your God has made you as numerous as the stars of heaven." Psalm 39:12 -- "Hear my prayer, O LORD, and give ear to my cry; hold not your peace at my tears! For I am a sojourner with you, a guest, like all my fathers." This psalm captures Jacob's self-understanding perfectly: a temporary resident in God's world, weeping and worshiping simultaneously.
 
 **New Testament Echoes**
 
@@ -55,7 +59,7 @@ Stephen cites the seventy-five souls descending to Egypt as a pivotal moment in 
 
 **Parallel Passages**
 
-Psalm 39:12 -- "Hear my prayer, O LORD, and give ear to my cry; hold not your peace at my tears! For I am a sojourner with you, a guest, like all my fathers." This psalm captures Jacob's self-understanding perfectly: a temporary resident in God's world, weeping and worshiping simultaneously. Psalm 105:23-24 remembers the descent to Egypt as part of God's plan: "Then Israel came to Egypt; Jacob sojourned in the land of Ham. And the LORD made his people very fruitful and made them stronger than their foes."
+Stephen retells the descent in Acts 7:14-15: Joseph summoned "Jacob his father and all his relatives," and "Jacob went down into Egypt." Psalm 105:23-24 remembers the descent to Egypt as part of God's plan: "Then Israel came to Egypt; Jacob sojourned in the land of Ham. And the LORD made his people very fruitful and made them stronger than their foes." Deuteronomy 10:22 recalls the same seventy persons (46:27) in Moses' words to the generation about to enter the land.
 
 ## Reflection Questions
 

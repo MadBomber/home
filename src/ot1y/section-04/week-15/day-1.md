@@ -2,8 +2,11 @@
 week: 15
 day: 1
 title: "The Dreamer -- The Coat, the Pit, the Silver, and the Blood-Stained Lie"
-reading: "Genesis 37:1-36"
-parallel_passages: Matthew 26:14-16, Matthew 27:28-31, Acts 7:9-16, Philippians 2:5-11
+reading:
+- Genesis 37:1-36
+parallel_passages:
+- Acts 7:9
+- Psalm 105:17
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -50,7 +53,7 @@ The *bor* -- the empty, waterless cistern -- functions as Joseph's first grave. 
 
 **Old Testament Roots**
 
-The rejection of Joseph by his brothers echoes the pattern established in Genesis 4, where Cain rises against Abel out of jealousy over divine favor. The *qinah* -- jealousy, envy -- that drives the brothers is the same impulse that drove Cain: the inability to bear the sight of another receiving what one believes should be one's own. The pit (*bor*) into which Joseph is cast connects to the broader Old Testament vocabulary of Sheol and death (Psalm 28:1; 30:3; 88:4-6). Jacob's mourning -- "I shall go down to Sheol to my son" (37:35) -- uses the same language of descent that will characterize Israel's theology of death throughout the Psalms and the Prophets.
+The rejection of Joseph by his brothers echoes the pattern established in Genesis 4, where Cain rises against Abel out of jealousy over divine favor. The *qinah* -- jealousy, envy -- that drives the brothers is the same impulse that drove Cain: the inability to bear the sight of another receiving what one believes should be one's own. The pit (*bor*) into which Joseph is cast connects to the broader Old Testament vocabulary of Sheol and death (Psalm 28:1; 30:3; 88:4-6). Jacob's mourning -- "I shall go down to Sheol to my son" (37:35) -- uses the same language of descent that will characterize Israel's theology of death throughout the Psalms and the Prophets. Zechariah 11:12-13 echoes the silver-for-betrayal motif: "They weighed out as my wages thirty pieces of silver." Isaiah 53:3 describes the suffering servant as "despised and rejected by men" -- language that captures Joseph's experience at the hands of his brothers and anticipates Christ's at the hands of his people.
 
 **New Testament Echoes**
 
@@ -58,7 +61,7 @@ Stephen's speech in Acts 7:9-16 explicitly identifies the brothers' jealousy and
 
 **Parallel Passages**
 
-Psalm 105:17-22 summarizes the Joseph narrative as an act of divine providence: "He had sent a man ahead of them, Joseph, who was sold as a slave." Zechariah 11:12-13 echoes the silver-for-betrayal motif: "They weighed out as my wages thirty pieces of silver." Isaiah 53:3 describes the suffering servant as "despised and rejected by men" -- language that captures Joseph's experience at the hands of his brothers and anticipates Christ's at the hands of his people.
+Stephen's speech retells the sale in a single clause: "the patriarchs, jealous of Joseph, sold him into Egypt" (Acts 7:9). Psalm 105:17 summarizes the same event as an act of divine providence: "He had sent a man ahead of them, Joseph, who was sold as a slave."
 
 ## Reflection Questions
 

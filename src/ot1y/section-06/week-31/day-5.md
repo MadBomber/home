@@ -2,8 +2,9 @@
 week: 31
 day: 5
 title: "The God Who Lifts the Needy -- Hannah's Song and Israel's Hymn of Reversal"
-reading: "Psalm 113; 1 Samuel 2:1-10"
-parallel_passages: Luke 1:46-55, James 4:6, Matthew 5:3-12, 1 Corinthians 1:26-31, Psalm 75:6-7
+reading:
+- Psalm 113
+- 1 Samuel 2:1-10
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -20,7 +21,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Psalm 113; 1 Samuel 2:1--10
+- Psalm 113
+- 1 Samuel 2:1-10
 
 ## Historical Context
 
@@ -54,15 +56,11 @@ The Beatitudes of Jesus (Matthew 5:3-12) are the ethical application of this sam
 
 **Old Testament Roots**
 
-Psalm 113 belongs to the Egyptian Hallel (Psalms 113-118), sung at Passover, connecting Israel's worship of the God who reverses to the foundational act of reversal in their history: the exodus, where God took a nation of slaves and made them his people. Hannah's song echoes the Song of Moses (Exodus 15:1-18) in its celebration of divine victory, and the Song of Deborah (Judges 5) in its female-voiced praise after deliverance. The dust-and-ash-heap imagery connects to Abraham's self-description before God: "I who am but dust and ashes" (Genesis 18:27) -- the patriarch who received the promise was himself a man of the dust, exalted by grace alone. Psalm 75:6-7 provides a theological parallel: "For not from the east or from the west and not from the wilderness comes lifting up, but it is God who executes judgment, putting down one and lifting up another."
+Psalm 113 belongs to the Egyptian Hallel (Psalms 113-118), sung at Passover, connecting Israel's worship of the God who reverses to the foundational act of reversal in their history: the exodus, where God took a nation of slaves and made them his people. Hannah's song echoes the Song of Moses (Exodus 15:1-18) in its celebration of divine victory, and the Song of Deborah (Judges 5) in its female-voiced praise after deliverance. The dust-and-ash-heap imagery connects to Abraham's self-description before God: "I who am but dust and ashes" (Genesis 18:27) -- the patriarch who received the promise was himself a man of the dust, exalted by grace alone. Psalm 75:6-7 provides a theological parallel: "For not from the east or from the west and not from the wilderness comes lifting up, but it is God who executes judgment, putting down one and lifting up another." Hannah's "The barren has borne seven, but she who has many children is forlorn" (1 Samuel 2:5) finds its echo in Isaiah 54:1: "Sing, O barren one, who did not bear; break forth into singing and cry aloud, you who have not been in labor! For the children of the desolate one will be more than the children of her who is married."
 
 **New Testament Echoes**
 
-Mary's Magnificat (Luke 1:46-55) is the most direct echo, borrowing Hannah's structure, themes, and even specific phrases. Paul's theology of divine reversal in 1 Corinthians 1:26-31 and the Christ hymn of Philippians 2:5-11 -- the one who emptied himself and was therefore exalted to the highest name -- are the apostolic commentary on the pattern Hannah and the psalmist celebrate. Jesus' Beatitudes (Matthew 5:3-12) apply the reversal pattern to the ethics of the kingdom. And the Hallel psalms, including Psalm 113, were almost certainly sung by Jesus at the Last Supper (Matthew 26:30), meaning the God who stoops down to lift the needy was himself stooping toward the cross even as he sang.
-
-**Parallel Passages**
-
-Compare Psalm 113:7-8 with 1 Samuel 2:8 to see the nearly identical language of raising the poor from the dust. Compare Hannah's "the barren has borne seven, but she who has many children is feeble" (1 Samuel 2:5) with Isaiah 54:1: "Sing, O barren one, who did not bear; break forth into singing and cry aloud, you who have not been in labor! For the children of the desolate one will be more than the children of her who is married." Compare the reversal theology of both texts with the Magnificat (Luke 1:46-55) and with the eschatological reversal in Revelation 21:1-5, where God makes all things new.
+Mary's Magnificat (Luke 1:46-55) is the most direct echo, borrowing Hannah's structure, themes, and even specific phrases. Paul's theology of divine reversal in 1 Corinthians 1:26-31 and the Christ hymn of Philippians 2:5-11 -- the one who emptied himself and was therefore exalted to the highest name -- are the apostolic commentary on the pattern Hannah and the psalmist celebrate. Jesus' Beatitudes (Matthew 5:3-12) apply the reversal pattern to the ethics of the kingdom. And the Hallel psalms, including Psalm 113, were almost certainly sung by Jesus at the Last Supper (Matthew 26:30), meaning the God who stoops down to lift the needy was himself stooping toward the cross even as he sang. The eschatological reversal of Revelation 21:1-5, where God makes all things new, carries the same pattern to its end.
 
 ## Reflection Questions
 

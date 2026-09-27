@@ -2,8 +2,8 @@
 week: 42
 day: 2
 title: "The Proverbs of Solomon"
-reading: "Proverbs 10:1-22:16"
-parallel_passages: Matthew 12:33-37, James 3:1-12, Romans 12:9-21, Matthew 6:19-21
+reading:
+- Proverbs 10:1-22:16
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -47,15 +47,11 @@ But Christ also fulfills the proverbs in a way Solomon could never have anticipa
 
 **Old Testament Roots**
 
-The Deuteronomic principle of blessing and curse (Deuteronomy 28) provides the theological framework for Proverbs' confidence that righteousness leads to life and wickedness to death. The creation mandate to exercise dominion (Genesis 1:28) is here applied to the management of speech, relationships, and resources. The Torah's concern for the poor -- "You shall not oppress a hired worker who is poor and needy" (Deuteronomy 24:14) -- is woven throughout the collection: "Whoever oppresses a poor man insults his Maker" (Proverbs 14:31).
+The Deuteronomic principle of blessing and curse (Deuteronomy 28) provides the theological framework for Proverbs' confidence that righteousness leads to life and wickedness to death. The creation mandate to exercise dominion (Genesis 1:28) is here applied to the management of speech, relationships, and resources. The Torah's concern for the poor -- "You shall not oppress a hired worker who is poor and needy" (Deuteronomy 24:14) -- is woven throughout the collection: "Whoever oppresses a poor man insults his Maker" (Proverbs 14:31). Psalm 1 sets out the two ways of the righteous and the wicked, and Psalm 37 contrasts the wicked who flourish temporarily with the righteous who endure. Sirach 1-2 (deuterocanonical) likewise roots wisdom in the fear of the LORD.
 
 **New Testament Echoes**
 
-Jesus's teaching on the heart and the mouth (Matthew 12:33-37; 15:18-19) draws directly on the Proverbs tradition. James 3:1-12, on the untamable tongue, is a sustained commentary on the proverbs about speech. Paul's ethic of generosity and honest dealing in Romans 12:9-21 -- "Repay no one evil for evil... overcome evil with good" -- echoes Proverbs 25:21-22, which Paul explicitly quotes. The Beatitudes (Matthew 5:3-12) restate in kingdom terms what Proverbs teaches about humility, meekness, and hunger for righteousness.
-
-**Parallel Passages**
-
-Psalm 1 -- the two ways of the righteous and the wicked. Psalm 37 -- the contrast between the wicked who flourish temporarily and the righteous who endure. Sirach 1-2 (deuterocanonical) -- fear of the LORD as the root of wisdom. James 1:19-27 -- hearing and doing, the slow tongue, care for the vulnerable.
+Jesus's teaching on the heart and the mouth (Matthew 12:33-37; 15:18-19) draws directly on the Proverbs tradition. James 3:1-12, on the untamable tongue, is a sustained commentary on the proverbs about speech. Paul's ethic of generosity and honest dealing in Romans 12:9-21 -- "Repay no one evil for evil... overcome evil with good" -- echoes Proverbs 25:21-22, which Paul explicitly quotes. The Beatitudes (Matthew 5:3-12) restate in kingdom terms what Proverbs teaches about humility, meekness, and hunger for righteousness. James 1:19-27 gathers the same concerns: hearing and doing, the slow tongue, care for the vulnerable.
 
 ## Reflection Questions
 

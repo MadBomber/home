@@ -2,8 +2,9 @@
 week: 9
 day: 5
 title: "Melchizedek -- The Priest-King of Salem Who Foreshadows Christ"
-reading: "Genesis 14:17-24; Hebrews 7:1-10"
-parallel_passages: Psalm 110:4, Hebrews 5:5-10, Hebrews 6:19-20, 2 Chronicles 26:16-21, Matthew 26:26-28, Revelation 19:16, Zechariah 6:12-13
+reading:
+- Genesis 14:17-24
+- Hebrews 7:1-10
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -19,7 +20,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Genesis 14:17-24; Hebrews 7:1-10
+- Genesis 14:17-24
+- Hebrews 7:1-10
 
 ## Historical Context
 
@@ -57,15 +59,11 @@ Zechariah 6:12-13 prophesies a figure who will "bear royal honor, and shall sit 
 
 **Old Testament Roots**
 
-Melchizedek's priesthood exists before the Levitical system, before the giving of the law, before the establishment of the tabernacle. He serves *El Elyon* in a land not yet claimed by Israel, in a city not yet called Jerusalem. His priesthood is universal in scope -- not limited to one tribe or nation -- and permanent in duration. Psalm 110:4 revives his name after a silence of nearly a thousand years, attaching his priestly order to the Messianic king whom David calls "my Lord" (Psalm 110:1). The silence between Genesis 14 and Psalm 110 is not forgetfulness. It is gestation. The mystery needed time to ripen.
+Melchizedek's priesthood exists before the Levitical system, before the giving of the law, before the establishment of the tabernacle. He serves *El Elyon* in a land not yet claimed by Israel, in a city not yet called Jerusalem. His priesthood is universal in scope -- not limited to one tribe or nation -- and permanent in duration. Psalm 110:4 revives his name after a silence of nearly a thousand years, attaching his priestly order to the Messianic king whom David calls "my Lord" (Psalm 110:1). The silence between Genesis 14 and Psalm 110 is not forgetfulness. It is gestation. The mystery needed time to ripen. Zechariah 6:12-13 envisions the "Branch" who will be both king and priest, with "the counsel of peace" between the two offices.
 
 **New Testament Echoes**
 
-Hebrews 5-7 constructs a sustained theological argument from the Melchizedek encounter. Jesus is "designated by God a high priest after the order of Melchizedek" (Hebrews 5:10). He has entered the inner sanctuary "as a forerunner on our behalf, having become a high priest forever after the order of Melchizedek" (Hebrews 6:20). The argument culminates in the declaration that "if perfection had been attainable through the Levitical priesthood... what further need would there have been for another priest to arise after the order of Melchizedek, rather than one named after the order of Aaron?" (Hebrews 7:11). The entire Levitical system was provisional -- a placeholder for the priesthood that Melchizedek had already previewed.
-
-**Parallel Passages**
-
-Zechariah 6:12-13 envisions the "Branch" who will be both king and priest, with "the counsel of peace" between the two offices. Revelation 19:16 identifies the returning Christ as "King of kings and Lord of lords" -- the royal dimension of the Melchizedekian office. Matthew 26:26-28 records the institution of the Lord's Supper with bread and wine -- the same elements Melchizedek brought to Abram, now filled with the blood of the new covenant. The table in the King's Valley and the table in the upper room are connected by a single thread of priestly provision that runs through the entire Bible.
+Hebrews 5-7 constructs a sustained theological argument from the Melchizedek encounter. Jesus is "designated by God a high priest after the order of Melchizedek" (Hebrews 5:10). He has entered the inner sanctuary "as a forerunner on our behalf, having become a high priest forever after the order of Melchizedek" (Hebrews 6:20). The argument culminates in the declaration that "if perfection had been attainable through the Levitical priesthood... what further need would there have been for another priest to arise after the order of Melchizedek, rather than one named after the order of Aaron?" (Hebrews 7:11). The entire Levitical system was provisional -- a placeholder for the priesthood that Melchizedek had already previewed. Revelation 19:16 identifies the returning Christ as "King of kings and Lord of lords" -- the royal dimension of the Melchizedekian office. Matthew 26:26-28 records the institution of the Lord's Supper with bread and wine -- the same elements Melchizedek brought to Abram, now filled with the blood of the new covenant. The table in the King's Valley and the table in the upper room are connected by a single thread of priestly provision that runs through the entire Bible.
 
 ## Reflection Questions
 

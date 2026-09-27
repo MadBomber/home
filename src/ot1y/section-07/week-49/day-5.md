@@ -2,8 +2,11 @@
 week: 49
 day: 5
 title: "The Psalms of the Cross and the Resurrection"
-reading: "Psalm 22; Psalm 16"
-parallel_passages: Matthew 27:35-46, John 19:23-24, Acts 2:25-32, Hebrews 2:12
+reading:
+- Psalm 22
+- Psalm 16
+parallel_passages:
+- Acts 2:25-28
 section: New Covenant
 tags:
 - covenant-7
@@ -16,7 +19,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Psalm 22; Psalm 16
+- Psalm 22
+- Psalm 16
 
 ## Historical Context
 
@@ -48,7 +52,7 @@ Together, these two psalms voice the complete experience of the Christ: the fors
 
 **Old Testament Roots**
 
-Psalm 22's opening cry echoes the lament tradition of the Psalter (cf. Psalm 13:1 -- "How long, O LORD? Will you forget me forever?"; Psalm 42:9 -- "Why have you forgotten me?"), but intensifies it beyond any other psalm. The "pierced hands and feet" connect to the servant who is "pierced for our transgressions" in Isaiah 53:5. The garments divided by lot recall the priestly garments of Exodus 28 -- the high priest's clothing, now stripped from the ultimate priest. Psalm 16's confidence that the holy one will not see corruption connects to Daniel 12:2's promise of resurrection from dust and to Isaiah 53:10's declaration that the slain servant will prolong his days.
+Psalm 22's opening cry echoes the lament tradition of the Psalter (cf. Psalm 13:1 -- "How long, O LORD? Will you forget me forever?"; Psalm 42:9 -- "Why have you forgotten me?"), but intensifies it beyond any other psalm. The "pierced hands and feet" connect to the servant who is "pierced for our transgressions" in Isaiah 53:5. The garments divided by lot recall the priestly garments of Exodus 28 -- the high priest's clothing, now stripped from the ultimate priest. Psalm 16's confidence that the holy one will not see corruption connects to Daniel 12:2's promise of resurrection from dust and to Isaiah 53:10's declaration that the slain servant will prolong his days. Psalm 69 is another psalm of the righteous sufferer, with details fulfilled in the passion (vinegar offered for thirst, Psalm 69:21; cf. John 19:28-29). Isaiah 50:6 describes the servant who gives his back to strikers and does not hide his face from spitting. Jonah 2, the prayer from the belly of the fish, mirrors in its death and deliverance the pattern of Psalm 22's descent and Psalm 16's vindication. Hosea 6:2 -- "After two days he will revive us; on the third day he will raise us up" -- is a text whose "third day" resonance the early church connected to Christ's resurrection.
 
 **New Testament Echoes**
 
@@ -56,7 +60,7 @@ Matthew 27:35-46 records the fulfillment of Psalm 22 in the crucifixion -- the d
 
 **Parallel Passages**
 
-Psalm 69 -- another psalm of the righteous sufferer, with details fulfilled in the passion (vinegar offered for thirst, 69:21; cf. John 19:28-29). Isaiah 50:6 -- the servant who gives his back to strikers and does not hide his face from spitting. Jonah 2 -- the prayer from the belly of the fish, where death and deliverance mirror the pattern of Psalm 22's descent and Psalm 16's vindication. Hosea 6:2 -- "After two days he will revive us; on the third day he will raise us up" -- a text whose "third day" resonance the early church connected to Christ's resurrection.
+Acts 2:25-28 reproduces Psalm 16:8-11 in full, as Peter quotes David's confidence that God will not abandon his soul to Sheol or let his holy one see corruption.
 
 ## Reflection Questions
 

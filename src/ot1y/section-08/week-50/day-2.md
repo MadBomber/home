@@ -2,8 +2,8 @@
 week: 50
 day: 2
 title: "The Mountain Feast -- Death Swallowed, Tears Wiped, the Trumpet Sounds"
-reading: "Isaiah 25:1-27:13"
-parallel_passages: 1 Corinthians 15:54-57, Revelation 19:6-9, Revelation 21:1-4, Matthew 22:1-14
+reading:
+- Isaiah 25:1-27:13
 section: Consummation
 tags:
 - covenant-8
@@ -52,15 +52,11 @@ And the great trumpet of Isaiah 27:13 becomes, in Paul's theology, the trumpet t
 
 **Old Testament Roots**
 
-The feast on the mountain connects to the covenant meal at Sinai, where Moses, Aaron, Nadab, Abihu, and the seventy elders "beheld God, and ate and drank" (Exodus 24:9-11). That meal was for Israel's leaders. Isaiah's feast is for all peoples. The progression from Sinai to Zion is a progression from the particular to the universal. The vineyard of Isaiah 27 deliberately reverses the vineyard of Isaiah 5: where God expected justice and found bloodshed (*mishpat/mispach*), he now tends the vineyard himself and guards it day and night. The trumpet of Isaiah 27:13 echoes the Jubilee trumpet of Leviticus 25:9-10 -- the sound that announced liberation, the return of land, the restoration of what was lost.
+The feast on the mountain connects to the covenant meal at Sinai, where Moses, Aaron, Nadab, Abihu, and the seventy elders "beheld God, and ate and drank" (Exodus 24:9-11). That meal was for Israel's leaders. Isaiah's feast is for all peoples. The progression from Sinai to Zion is a progression from the particular to the universal. The vineyard of Isaiah 27 deliberately reverses the vineyard of Isaiah 5: where God expected justice and found bloodshed (*mishpat/mispach*), he now tends the vineyard himself and guards it day and night. The trumpet of Isaiah 27:13 echoes the Jubilee trumpet of Leviticus 25:9-10 -- the sound that announced liberation, the return of land, the restoration of what was lost. Hosea 13:14 -- "O Death, where are your plagues? O Sheol, where is your sting?" -- is quoted alongside Isaiah 25:8 in 1 Corinthians 15:55. Daniel 12:2 -- "many of those who sleep in the dust of the earth shall awake" -- stands closest to Isaiah 26:19.
 
 **New Testament Echoes**
 
 Paul's use of Isaiah 25:8 in 1 Corinthians 15:54 places the verse at the theological apex of resurrection theology. Revelation 19:6-9 transforms the mountain feast into the marriage supper of the Lamb. Revelation 21:4 quotes the wiping of tears almost verbatim. Matthew 22:1-14 and Luke 14:15-24 present Jesus' parables of the great banquet, where the invited refuse and the unexpected are welcomed -- a narrative enactment of Isaiah's universal guest list. And 1 Thessalonians 4:16 connects the great trumpet to the resurrection of the dead at Christ's return.
-
-**Parallel Passages**
-
-Exodus 24:9-11 -- the covenant meal on Sinai. Isaiah 5:1-7 -- the vineyard that failed, reversed in Isaiah 27:2-6. Hosea 13:14 -- "O Death, where are your plagues? O Sheol, where is your sting?" -- quoted alongside Isaiah 25:8 in 1 Corinthians 15:55. Daniel 12:2 -- "many of those who sleep in the dust of the earth shall awake" -- the clearest parallel to Isaiah 26:19. Revelation 21:1-4 -- the new heaven and new earth where death is no more and tears are wiped away.
 
 ## Reflection Questions
 

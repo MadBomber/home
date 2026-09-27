@@ -2,8 +2,8 @@
 week: 32
 day: 3
 title: "Saul's Presumption at Gilgal -- The Sacrifice, the Rebuke, the Kingdom Forfeited"
-reading: "1 Samuel 13:1-23"
-parallel_passages: Hebrews 5:1-10, Hebrews 4:14-16, Numbers 16:1-35
+reading:
+- 1 Samuel 13:1-23
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -50,15 +50,11 @@ The phrase "a man after his own heart" also carries Christological weight. It po
 
 **Old Testament Roots**
 
-Korah's rebellion in Numbers 16 is the primary Old Testament precedent for the sin Saul commits. Korah, Dathan, and Abiram challenged Aaron's priestly authority, claiming "all the congregation is holy" and asserting the right to offer incense. The earth swallowed them. King Uzziah's later attempt to burn incense in the temple (2 Chronicles 26:16-21) results in leprosy. The pattern is consistent: seizing priestly office without divine authorization brings judgment. Gilgal itself carries layered significance -- it is the place where Israel first camped after crossing the Jordan (Joshua 4:19-20), the place of covenant renewal through circumcision (Joshua 5:2-9), and now the place where the first king violates the covenant by crossing the priestly boundary.
+Korah's rebellion in Numbers 16 is the primary Old Testament precedent for the sin Saul commits. Korah, Dathan, and Abiram challenged Aaron's priestly authority, claiming "all the congregation is holy" and asserting the right to offer incense. The earth swallowed them. King Uzziah's later attempt to burn incense in the temple (2 Chronicles 26:16-21) results in leprosy. The pattern is consistent: seizing priestly office without divine authorization brings judgment. Gilgal itself carries layered significance -- it is the place where Israel first camped after crossing the Jordan (Joshua 4:19-20), the place of covenant renewal through circumcision (Joshua 5:2-9), and now the place where the first king violates the covenant by crossing the priestly boundary. Psalm 110:4 records the divine oath establishing the Melchizedekian priesthood that resolves the tension between king and priest.
 
 **New Testament Echoes**
 
-Hebrews 5:1-10 is the definitive commentary on Saul's presumption. The author establishes that high priesthood is not self-appointed but divinely conferred, then demonstrates that Christ received his priesthood from the Father. Hebrews 4:14-16 presents Christ as the "great high priest who has passed through the heavens" -- the priest Saul tried to become but could not, the priest Israel needed but no human king could provide. Philippians 2:6-8 describes Christ as one who "did not count equality with God a thing to be grasped" -- the anti-Saul, the king who empties rather than seizes.
-
-**Parallel Passages**
-
-2 Chronicles 26:16-21 -- Uzziah's presumption in the temple. Numbers 16:1-35 -- Korah's rebellion against priestly authority. Psalm 110:4 -- the divine oath establishing the Melchizedekian priesthood that resolves the tension between king and priest. Hebrews 7:11-28 -- the argument that the Levitical priesthood was always provisional, awaiting the priest-king who would hold both offices by divine appointment.
+Hebrews 5:1-10 is the definitive commentary on Saul's presumption. The author establishes that high priesthood is not self-appointed but divinely conferred, then demonstrates that Christ received his priesthood from the Father. Hebrews 4:14-16 presents Christ as the "great high priest who has passed through the heavens" -- the priest Saul tried to become but could not, the priest Israel needed but no human king could provide. Philippians 2:6-8 describes Christ as one who "did not count equality with God a thing to be grasped" -- the anti-Saul, the king who empties rather than seizes. Hebrews 7:11-28 argues that the Levitical priesthood was always provisional, awaiting the priest-king who would hold both offices by divine appointment.
 
 ## Reflection Questions
 

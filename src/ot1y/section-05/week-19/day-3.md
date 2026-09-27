@@ -2,8 +2,10 @@
 week: 19
 day: 3
 title: "The Song of the Sea"
-reading: "Exodus 15:1-27"
-parallel_passages: Revelation 15:2-4, John 4:13-14, James 1:2-4
+reading:
+- Exodus 15:1-27
+parallel_passages:
+- Psalm 106:12-13
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,7 +51,7 @@ The bitter water at Marah, made sweet by the wood Moses throws into it, presents
 
 **Old Testament Roots**
 
-The Song of the Sea echoes the creation account: the *ruach* (wind/breath/spirit) that parts the waters recalls the *ruach 'elohim* of Genesis 1:2. The question "Who is like you among the gods?" (Exodus 15:11) will be echoed by the psalmists (Psalm 35:10, 71:19, 89:6-8) and the prophets (Isaiah 40:18, 25). Miriam's role as *hannevi'ah* anticipates the prophetesses Deborah (Judges 4:4), Huldah (2 Kings 22:14), and Anna (Luke 2:36) -- women whose voices carry divine authority.
+The Song of the Sea echoes the creation account: the *ruach* (wind/breath/spirit) that parts the waters recalls the *ruach 'elohim* of Genesis 1:2. The question "Who is like you among the gods?" (Exodus 15:11) will be echoed by the psalmists (Psalm 35:10, 71:19, 89:6-8) and the prophets (Isaiah 40:18, 25). Miriam's role as *hannevi'ah* anticipates the prophetesses Deborah (Judges 4:4), Huldah (2 Kings 22:14), and Anna (Luke 2:36) -- women whose voices carry divine authority. Habakkuk 3:3-15 reworks the Song of the Sea as a prayer of faith in the midst of uncertainty. Deuteronomy 32 -- the Song of Moses before his death -- forms a bookend with the Song of the Sea, framing the entire wilderness journey in song.
 
 **New Testament Echoes**
 
@@ -57,7 +59,7 @@ Revelation 15:2-4 places the Song of Moses alongside the Song of the Lamb -- the
 
 **Parallel Passages**
 
-Psalm 106:12-13 remembers this exact transition: "Then they believed his words; they sang his praise. But they soon forgot his works; they did not wait for his counsel." Habakkuk 3:3-15 reworks the Song of the Sea as a prayer of faith in the midst of uncertainty. Deuteronomy 32 -- the Song of Moses before his death -- forms a bookend with the Song of the Sea, framing the entire wilderness journey in song.
+Psalm 106:12-13 remembers this exact transition: "Then they believed his words; they sang his praise. But they soon forgot his works; they did not wait for his counsel."
 
 ## Reflection Questions
 

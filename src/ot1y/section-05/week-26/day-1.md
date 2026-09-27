@@ -2,8 +2,11 @@
 week: 26
 day: 1
 title: "Korah's Rebellion -- The Earth Opens, Authority Confirmed"
-reading: "Numbers 15:1-16:50"
-parallel_passages: Jude 1:11, Hebrews 5:1-4, 2 Timothy 2:19
+reading:
+- Numbers 15:1-16:50
+parallel_passages:
+- Psalm 106:16-18
+- Numbers 26:11
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -24,7 +27,7 @@ Numbers 15 opens with a detail that is easy to miss but theologically explosive:
 
 The rebellion of Korah in chapter 16 is the most organized and ideologically sophisticated challenge to Moses' leadership in the entire Pentateuch. Korah was a Levite, a son of Kohath, whose clan was responsible for carrying the most holy objects of the tabernacle -- the ark, the table, the lampstand, the altars (Numbers 4:4-15). He was not an outsider but an insider, not a man without privilege but a man who wanted more. He allied himself with Dathan and Abiram, sons of Reuben -- Jacob's firstborn, whose tribe may have nursed a grievance about primacy lost -- and together they assembled 250 leaders of the congregation, men described as *nesi'e edah* ("princes of the assembly") and *anshei shem* ("men of renown"). This was no mob. It was a coalition of the credentialed.
 
-Korah's argument is framed in the language of holiness and equality: "For all in the congregation are holy, every one of them, and the LORD is among them. Why then do you exalt yourselves above the assembly of the LORD?" (Numbers 16:3). The claim contains a truth -- Israel is indeed a holy nation (Exodus 19:6) -- but deploys it to dismantle the mediatorial structure God has established. In the ancient Near East, priesthood was not a human invention but a divine appointment. The *komer* (priest) in Mesopotamian temples served at the pleasure of the deity; unauthorized entry into the sacred precinct was understood across cultures as an act inviting divine wrath. Korah's error was not in affirming the congregation's holiness but in concluding that holiness eliminates the need for appointed mediation. The Hebrew verb *rav lakhem* ("you have gone too far") that Korah levels at Moses is the same phrase God will later use against Moses himself at Meribah -- a bitter irony the text leaves for the reader to discover.
+Korah's argument is framed in the language of holiness and equality: "For all in the congregation are holy, every one of them, and the LORD is among them. Why then do you exalt yourselves above the assembly of the LORD?" (Numbers 16:3). The claim contains a truth -- Israel is indeed a holy nation (Exodus 19:6) -- but deploys it to dismantle the mediatorial structure God has established. In the ancient Near East, priesthood was not a human invention but a divine appointment. The *komer* (priest) in Mesopotamian temples served at the pleasure of the deity; unauthorized entry into the sacred precinct was understood across cultures as an act inviting divine wrath. Korah's error was not in affirming the congregation's holiness but in concluding that holiness eliminates the need for appointed mediation. The Hebrew expression *rav lakhem* ("you have gone too far," literally "too much for you") that Korah levels at Moses and Aaron comes straight back at him. When Moses sets the test of the censers, he closes with the same words: "You have gone too far, sons of Levi!" (16:7). The charge of overreaching returns on the ones who made it -- a bitter irony the text leaves for the reader to discover.
 
 Moses' response is to fall on his face -- a posture of intercession, not defeat -- and then to propose a test. The 250 men are to bring censers filled with incense and offer fire before the LORD. Aaron will do the same. The one whom the LORD chooses is the holy one. The test is not democratic. It is theophanic. God himself will answer the question of who may approach him. The Hebrew word *boqer* ("morning") in Moses' instruction -- "In the morning the LORD will show who is his" (Numbers 16:5) -- carries overtones of divine revelation throughout the Old Testament, as morning is the time when God acts, judges, and makes his purposes known (cf. Exodus 14:27; Psalm 46:5).
 

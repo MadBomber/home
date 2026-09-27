@@ -2,8 +2,8 @@
 week: 45
 day: 3
 title: "The Scribe Who Wept"
-reading: "Ezra 7:1-10:44"
-parallel_passages: Nehemiah 8:1-12, 2 Timothy 2:15, Hebrews 4:12-13, 2 Corinthians 5:21, Romans 7:24-25
+reading:
+- Ezra 7:1-10:44
 section: New Covenant
 tags:
 - covenant-7
@@ -52,15 +52,11 @@ The painful separation in Ezra 10 -- the tearing apart of families for the sake 
 
 **Old Testament Roots**
 
-The prohibition against intermarriage with the nations originates in Deuteronomy 7:1-4 and is rooted in the concern for religious assimilation, not ethnic purity. Solomon's foreign wives "turned away his heart after other gods" (1 Kings 11:4), confirming Moses' warning. Ezra's prayer echoes the corporate confessions of Daniel 9 and Nehemiah 9, where righteous leaders bear the guilt of the community before God. The *asham* (guilt) language in Ezra's prayer connects to the guilt offering of Leviticus 5-7.
+The prohibition against intermarriage with the nations originates in Deuteronomy 7:1-4 and is rooted in the concern for religious assimilation, not ethnic purity. Solomon's foreign wives "turned away his heart after other gods" (1 Kings 11:4), confirming Moses' warning. Ezra's prayer echoes the corporate confessions of Daniel 9 and Nehemiah 9, where righteous leaders bear the guilt of the community before God. The *asham* (guilt) language in Ezra's prayer connects to the guilt offering of Leviticus 5-7. Nehemiah 8:1-12 continues the narrative: Ezra reads the law aloud and the people weep with conviction, then are told that "the joy of the LORD is your strength."
 
 **New Testament Echoes**
 
 Paul quotes the principle of separation in 2 Corinthians 6:17 -- "Therefore go out from their midst, and be separate from them" -- but immediately redefines it through the new covenant: God dwells within his people, not merely among them. The corporate identification of Ezra's prayer anticipates Christ's substitutionary work (2 Corinthians 5:21; Isaiah 53:4-6). Hebrews 4:12-13 affirms that the word of God is "living and active," capable of the discernment Ezra practiced -- and the letter's author identifies Jesus as the great high priest who sympathizes with our weaknesses (Hebrews 4:14-15), perfecting the priestly intercession Ezra modeled.
-
-**Parallel Passages**
-
-Daniel 9:3-19 parallels Ezra's corporate confession in structure, language, and theology -- both righteous leaders bearing communal guilt. Nehemiah 8:1-12 continues the narrative: Ezra reads the law aloud and the people weep with conviction, then are told that "the joy of the LORD is your strength." Nehemiah 9 provides another extended prayer of confession and covenant renewal, completing the trilogy of post-exilic repentance prayers.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 7
 day: 2
 title: "The Covenant with All Creation -- I Have Set My Bow in the Cloud"
-reading: "Genesis 9:8-17"
-parallel_passages: Genesis 8:21-22, Jeremiah 31:35-37, Revelation 4:3, Colossians 1:16-17, Romans 8:19-22
+reading:
+- Genesis 9:8-17
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -52,15 +52,11 @@ The rainbow appears one final time in Scripture, and its placement is extraordin
 
 **Old Testament Roots**
 
-The Noahic covenant builds directly on Genesis 8:21-22, where God declared, "While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease." The covenant of Genesis 9 formalizes what Genesis 8 announced: the created order will be sustained by divine commitment. Jeremiah 31:35-37 later appeals to this same principle -- the fixed order of sun, moon, and stars -- as proof that God's covenant with Israel is equally unbreakable: "If this fixed order departs from before me, declares the LORD, then shall the offspring of Israel cease from being a nation before me forever." The stability of nature itself becomes a witness to the faithfulness of God.
+The Noahic covenant builds directly on Genesis 8:21-22, where God declared, "While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease." The covenant of Genesis 9 formalizes what Genesis 8 announced: the created order will be sustained by divine commitment. Jeremiah 31:35-37 later appeals to this same principle -- the fixed order of sun, moon, and stars -- as proof that God's covenant with Israel is equally unbreakable: "If this fixed order departs from before me, declares the LORD, then shall the offspring of Israel cease from being a nation before me forever." The stability of nature itself becomes a witness to the faithfulness of God. Psalm 36:5-6 celebrates God's faithfulness that reaches "to the clouds" and the LORD who saves "man and beast" -- language that resonates with the cosmic scope of the Noahic covenant. Isaiah 54:9-10 explicitly invokes the Noahic covenant as a metaphor for God's unfailing love, reading the rainbow as a sign of *chesed* rather than merely restraint. Hosea 2:18 envisions a future covenant "with the beasts of the field, the birds of the heavens, and the creeping things of the ground" -- a renewal of the peace with creation that the Noahic covenant partially anticipates.
 
 **New Testament Echoes**
 
 The rainbow around God's throne in Revelation 4:3 is the most striking New Testament echo of the Noahic covenant -- the sign of patience framing the seat of judgment. Paul's assertion that in Christ "all things hold together" (Colossians 1:17) provides the Christological basis for the cosmic preservation God pledged in Genesis 9. And Peter's declaration that "the Lord is not slow to fulfill his promise... but is patient toward you, not wishing that any should perish" (2 Peter 3:9) interprets the divine patience of the Noahic covenant as redemptive in purpose -- God sustains the world so that the gospel can reach every corner of it.
-
-**Parallel Passages**
-
-Psalm 36:5-6 celebrates God's faithfulness that "reaches to the clouds" and his righteousness that preserves "both man and beast" -- language that resonates with the cosmic scope of the Noahic covenant. Isaiah 54:9-10 explicitly invokes the Noahic covenant as a metaphor for God's unfailing love, reading the rainbow as a sign of *chesed* rather than merely restraint. Hosea 2:18 envisions a future covenant "with the beasts of the field, the birds of the heavens, and the creeping things of the ground" -- a renewal of the peace with creation that the Noahic covenant partially anticipates.
 
 ## Reflection Questions
 

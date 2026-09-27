@@ -7,7 +7,7 @@ chapters:
 - Jeremiah 31:1-40
 - Ezekiel 36:1-38
 - Ezekiel 37:1-28
-- Isaiah 42:1-9; 49:1-13
+- Isaiah 42:1-9; Isaiah 49:1-13
 - Isaiah 55:1-13; Joel 2:28-32
 tags:
 - covenant-7
@@ -36,7 +36,7 @@ Isaiah 55 issues the invitation: "Come, everyone who thirsts, come to the waters
 | [1](../day-1/) | Jeremiah 31:1-40 | The New Covenant -- Law on Hearts, Sins Remembered No More |
 | [2](../day-2/) | Ezekiel 36:1-38 | A New Heart and a New Spirit -- The Heart of Stone Replaced |
 | [3](../day-3/) | Ezekiel 37:1-28 | The Valley of Dry Bones -- Resurrection as the Image of New Covenant Life |
-| [4](../day-4/) | Isaiah 42:1-9; 49:1-13 | The Servant of the LORD -- A Covenant for the People, a Light for the Nations |
+| [4](../day-4/) | Isaiah 42:1-9; Isaiah 49:1-13 | The Servant of the LORD -- A Covenant for the People, a Light for the Nations |
 | [5](../day-5/) | Isaiah 55:1-13; Joel 2:28-32 | Come, Everyone Who Thirsts -- And I Will Pour Out My Spirit on All Flesh |
 
 ## Key Themes

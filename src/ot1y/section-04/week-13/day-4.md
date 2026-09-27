@@ -2,8 +2,8 @@
 week: 13
 day: 4
 title: "Isaac's Chapter -- The Lie, the Wells, and the Covenant Reaffirmed"
-reading: "Genesis 26:1-35"
-parallel_passages: Genesis 12:10-20, Genesis 20:1-18, Genesis 21:22-34, John 4:10-14, John 7:37-38, Isaiah 12:3, Psalm 1:3
+reading:
+- Genesis 26:1-35
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -51,15 +51,11 @@ Isaac's lie about Rebekah -- the same sin Abraham committed, the same words, the
 
 **Old Testament Roots**
 
-Isaac's lie echoes Abraham's in Genesis 12:10-20 and 20:1-18 -- the same sin, the same structure, the same divine rescue. The well disputes recall Abraham's well covenant with Abimelech at Beersheba (Genesis 21:22-34). The covenant reaffirmation of 26:3-5 echoes Genesis 12:1-3, 15:1-21, and 22:15-18. The vocabulary of 26:5 -- "commandments, statutes, and laws" -- anticipates the Sinai legislation (Exodus 20; Deuteronomy 6:1-2). The well-naming anticipates Jacob's well-naming and altar-building practices.
+Isaac's lie echoes Abraham's in Genesis 12:10-20 and 20:1-18 -- the same sin, the same structure, the same divine rescue. The well disputes recall Abraham's well covenant with Abimelech at Beersheba (Genesis 21:22-34). The covenant reaffirmation of 26:3-5 echoes Genesis 12:1-3, 15:1-21, and 22:15-18. The vocabulary of 26:5 -- "commandments, statutes, and laws" -- anticipates the Sinai legislation (Exodus 20; Deuteronomy 6:1-2). The well-naming anticipates Jacob's well-naming and altar-building practices. Abimelech's recognition that "the LORD has been with you" (26:28) can be compared with pagan kings throughout Scripture who acknowledge Israel's God (Daniel 2:47; 3:28-29; 6:26-27).
 
 **New Testament Echoes**
 
-Jesus at the well of Samaria (John 4:7-14) fulfills the typology of Isaac's wells -- offering living water that never runs dry. John 7:37-38 -- "rivers of living water" flowing from the believer -- echoes the reopened wells of Genesis 26. Romans 5:19 -- the logic of covenant headship, the obedience of one credited to many -- explains how Isaac benefits from Abraham's faith. Matthew 28:20 -- "I am with you always" -- echoes God's promise to Isaac in 26:3.
-
-**Parallel Passages**
-
-Compare Isaac's hundredfold harvest (26:12) with Jesus's parable of the sower, where good soil yields "a hundredfold" (Mark 4:8, 20). Compare the Philistines stopping up Abraham's wells with the opponents who seek to silence the gospel in Acts (Acts 4:18; 5:28) -- the same pattern of hostility toward the source of life. Compare Abimelech's recognition that "the LORD has been with you" (26:28) with pagan kings throughout Scripture who acknowledge Israel's God (Daniel 2:47; 3:28-29; 6:26-27).
+Jesus at the well of Samaria (John 4:7-14) fulfills the typology of Isaac's wells -- offering living water that never runs dry. John 7:37-38 -- "rivers of living water" flowing from the believer -- echoes the reopened wells of Genesis 26. Romans 5:19 -- the logic of covenant headship, the obedience of one credited to many -- explains how Isaac benefits from Abraham's faith. Matthew 28:20 -- "I am with you always" -- echoes God's promise to Isaac in 26:3. Isaac's hundredfold harvest (26:12) can be compared with Jesus's parable of the sower, where good soil yields "a hundredfold" (Mark 4:8, 20). The Philistines stopping up Abraham's wells can be compared with the opponents who seek to silence the gospel in Acts (Acts 4:18; 5:28) -- the same pattern of hostility toward the source of life.
 
 ## Reflection Questions
 

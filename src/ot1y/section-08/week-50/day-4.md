@@ -2,8 +2,9 @@
 week: 50
 day: 4
 title: "The Furnace and the Song -- Judgment for the Arrogant, Healing for the Faithful"
-reading: "Malachi 4:1-6; Zephaniah 3:8-20"
-parallel_passages: Luke 1:17, Luke 1:78-79, Revelation 22:1-5, Philippians 2:9-11, John 1:14
+reading:
+- Malachi 4:1-6
+- Zephaniah 3:8-20
 section: Consummation
 tags:
 - covenant-8
@@ -16,7 +17,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Malachi 4:1-6; Zephaniah 3:8-20
+- Malachi 4:1-6
+- Zephaniah 3:8-20
 
 ## Historical Context
 
@@ -50,15 +52,11 @@ Zephaniah's vision of God singing over his people finds its deepest resonance in
 
 **Old Testament Roots**
 
-Malachi's furnace imagery connects to the refiner's fire of Malachi 3:2-3, where the LORD "will sit as a refiner and purifier of silver" -- purging the Levites so that their offerings are acceptable. The concept of fire as both destructive and purifying runs through the Old Testament: the burning bush that consumed nothing (Exodus 3:2), the fire on Sinai (Exodus 19:18), the fire that consumed Nadab and Abihu's strange offering (Leviticus 10:1-2), and the fire that fell on Elijah's sacrifice at Carmel (1 Kings 18:38). Zephaniah 3:17's portrait of God singing connects to the Song of Moses (Deuteronomy 32) and the Song of the Sea (Exodus 15), where Israel sings to God after deliverance -- but Zephaniah reverses the direction. Now God sings to Israel.
+Malachi's furnace imagery connects to the refiner's fire of Malachi 3:2-3, where the LORD "will sit as a refiner and purifier of silver" -- purging the Levites so that their offerings are acceptable. The concept of fire as both destructive and purifying runs through the Old Testament: the burning bush that consumed nothing (Exodus 3:2), the fire on Sinai (Exodus 19:18), the fire that consumed Nadab and Abihu's strange offering (Leviticus 10:1-2), and the fire that fell on Elijah's sacrifice at Carmel (1 Kings 18:38). Zephaniah 3:17's portrait of God singing connects to the Song of Moses (Deuteronomy 32) and the Song of the Sea (Exodus 15), where Israel sings to God after deliverance -- but Zephaniah reverses the direction. Now God sings to Israel. 2 Kings 2:11 records Elijah taken up in a chariot of fire. Isaiah 40:3 announces the voice crying in the wilderness, "Prepare the way of the LORD." Zephaniah 1:14-18, the day of wrath, is the counterpoint to the joy of 3:17.
 
 **New Testament Echoes**
 
-Luke 1:17 explicitly connects John the Baptist to Malachi's Elijah prophecy. Luke 1:78-79 connects the "sunrise from on high" to Malachi's sun of righteousness. Hebrews 12:29 declares that "our God is a consuming fire" -- echoing Malachi's furnace. Revelation 22:1-5 describes the river of life flowing from the throne of God and of the Lamb, with the tree of life whose leaves are "for the healing of the nations" -- the ultimate fulfillment of Malachi's "healing in its wings." And Philippians 2:9-11 envisions the day when every knee bows and every tongue confesses that Jesus Christ is Lord -- the universal acknowledgment that the sun of righteousness has risen.
-
-**Parallel Passages**
-
-Malachi 3:1-4 -- the Lord coming suddenly to his temple and the refiner's fire. 2 Kings 2:11 -- Elijah taken up in a chariot of fire. Isaiah 40:3 -- the voice crying in the wilderness, "Prepare the way of the LORD." Luke 1:13-17 -- Gabriel's announcement of John's birth and mission. Zephaniah 1:14-18 -- the day of wrath, counterpoint to the joy of 3:17. Revelation 21:3 -- "Behold, the dwelling place of God is with man."
+Luke 1:17 explicitly connects John the Baptist to Malachi's Elijah prophecy. Luke 1:78-79 connects the "sunrise from on high" to Malachi's sun of righteousness. Hebrews 12:29 declares that "our God is a consuming fire" -- echoing Malachi's furnace. Revelation 22:1-5 describes the river of life flowing from the throne of God and of the Lamb, with the tree of life whose leaves are "for the healing of the nations" -- the ultimate fulfillment of Malachi's "healing in its wings." And Philippians 2:9-11 envisions the day when every knee bows and every tongue confesses that Jesus Christ is Lord -- the universal acknowledgment that the sun of righteousness has risen. Revelation 21:3 completes the picture: "Behold, the dwelling place of God is with man."
 
 ## Reflection Questions
 

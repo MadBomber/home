@@ -2,8 +2,8 @@
 week: 46
 day: 4
 title: "The Jews Delivered, Purim Established -- What Was Meant for Death Becomes Celebration"
-reading: "Esther 8:1-10:3"
-parallel_passages: Colossians 2:15, Revelation 19:11-16, Romans 8:31-39, Isaiah 54:17
+reading:
+- Esther 8:1-10:3
 section: New Covenant
 tags:
 - covenant-7
@@ -19,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Esther 8:1--10:3
+- Esther 8:1-10:3
 
 ## Historical Context
 
@@ -57,15 +57,11 @@ The establishment of Purim as a perpetual feast -- a communal act of remembrance
 
 **Old Testament Roots**
 
-The Jews' refusal to take plunder (Esther 9:10, 15-16) deliberately corrects Saul's failure in 1 Samuel 15:9, where he spared the best of the Amalekite livestock in violation of God's command. The reversal of fortunes echoes the pattern of the Exodus: the sea that Pharaoh expected to trap Israel drowned his army (Exodus 14:26-28). The establishment of a commemorative feast follows the pattern of Passover (Exodus 12:14) -- deliverance sealed by a meal and a story told across generations. Isaiah 54:17 provides the prophetic framework: "No weapon that is fashioned against you shall succeed."
+The Jews' refusal to take plunder (Esther 9:10, 15-16) deliberately corrects Saul's failure in 1 Samuel 15:9, where he spared the best of the Amalekite livestock in violation of God's command. The reversal of fortunes echoes the pattern of the Exodus: the sea that Pharaoh expected to trap Israel drowned his army (Exodus 14:26-28). The establishment of a commemorative feast follows the pattern of Passover (Exodus 12:14) -- deliverance sealed by a meal and a story told across generations. Isaiah 54:17 provides the prophetic framework: "No weapon that is fashioned against you shall succeed." Psalm 124 declares: "If it had not been the LORD who was on our side ... then they would have swallowed us up alive" -- the same logic as Esther's narrative. Psalm 2:1-4 describes the nations plotting against the LORD and his Anointed, only to be met with divine laughter -- the same disproportion between human schemes and divine sovereignty visible in Haman's downfall. 2 Chronicles 20:15-17, where Jehoshaphat is told "the battle is not yours but God's," captures the same principle: the Jews' victory in Esther is God's war completed through human hands.
 
 **New Testament Echoes**
 
 Colossians 2:14-15 describes the cross using the legal imagery that governs Esther 8: the "record of debt" is nailed to the cross, and the hostile powers are publicly disarmed. Romans 8:31-39 articulates the theology of irreversible deliverance: "If God is for us, who can be against us?... Who shall separate us from the love of Christ?" Revelation 19:11-16 portrays the ultimate reversal -- Christ riding forth to final victory over the nations that assembled against him, the last and greatest Purim. The Lord's Supper (Luke 22:19; 1 Corinthians 11:23-26) institutionalizes the same impulse as Purim: communal remembrance of deliverance through a shared meal.
-
-**Parallel Passages**
-
-Psalm 124 declares: "If it had not been the LORD who was on our side... then they would have swallowed us up alive" -- the same logic as Esther's narrative. Psalm 2:1-4 describes the nations plotting against the LORD and his Anointed, only to be met with divine laughter -- the same disproportion between human schemes and divine sovereignty visible in Haman's downfall. 2 Chronicles 20:15-17, where Jehoshaphat is told "the battle is not yours but God's," captures the same principle: the Jews' victory in Esther is God's war completed through human hands.
 
 ## Reflection Questions
 

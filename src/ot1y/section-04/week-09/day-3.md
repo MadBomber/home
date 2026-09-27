@@ -2,8 +2,8 @@
 week: 9
 day: 3
 title: "Abram and Lot Separate -- Generosity Rewarded, the Promise Reaffirmed"
-reading: "Genesis 13:1-18"
-parallel_passages: Matthew 16:25, Luke 6:38, 2 Peter 2:7-8, Philippians 2:3-8, Proverbs 15:1, Romans 12:10
+reading:
+- Genesis 13:1-18
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -52,15 +52,11 @@ God's command to Abram -- "Lift up your eyes" -- resonates with the way Jesus re
 
 **Old Testament Roots**
 
-The description of the Jordan valley as "like the garden of the LORD" (13:10) deliberately recalls Eden -- and the comparison is ominous. Every garden-like place in Genesis carries the shadow of the fall. Eden was lost to sin; the Jordan valley will be destroyed by judgment (Genesis 19). The promise of offspring "as the dust of the earth" (13:16) echoes and expands the original creation mandate to "be fruitful and multiply" (Genesis 1:28) and the post-flood blessing of Genesis 9:1. The command to walk through the land recalls ancient Near Eastern land-grant ceremonies, where a vassal would ceremonially traverse the territory his lord bestowed upon him.
+The description of the Jordan valley as "like the garden of the LORD" (13:10) deliberately recalls Eden -- and the comparison is ominous. Every garden-like place in Genesis carries the shadow of the fall. Eden was lost to sin; the Jordan valley will be destroyed by judgment (Genesis 19). The promise of offspring "as the dust of the earth" (13:16) echoes and expands the original creation mandate to "be fruitful and multiply" (Genesis 1:28) and the post-flood blessing of Genesis 9:1. The command to walk through the land recalls ancient Near Eastern land-grant ceremonies, where a vassal would ceremonially traverse the territory his lord bestowed upon him. Psalm 37:11 -- "the meek shall inherit the land" -- captures the paradox of Abram's generosity: the one who yields inherits everything. Jesus quotes this psalm in the Beatitudes (Matthew 5:5), connecting the Abrahamic pattern to the kingdom he inaugurates.
 
 **New Testament Echoes**
 
-Jesus' teaching that "whoever loses his life for my sake will find it" (Matthew 16:25) is the New Testament articulation of the principle Abram embodies in this chapter. Luke 6:38 -- "Give, and it will be given to you. Good measure, pressed down, shaken together, running over" -- describes the same divine economy. Paul exhorts the Philippians to "in humility count others more significant than yourselves" (Philippians 2:3), the very posture Abram adopts toward Lot. Second Peter 2:7-8 identifies Lot as a "righteous man" who was "greatly distressed by the sensual conduct of the wicked" -- a reminder that Lot's choice of Sodom, though foolish, did not entirely extinguish his moral sensitivity.
-
-**Parallel Passages**
-
-Psalm 37:11 -- "The meek shall inherit the earth" -- captures the paradox of Abram's generosity: the one who yields inherits everything. Jesus quotes this psalm in the Beatitudes (Matthew 5:5), connecting the Abrahamic pattern to the kingdom he inaugurates. Romans 4:13 states that "the promise to Abraham and his offspring that he would be heir of the world" was given "through the righteousness of faith" -- the same faith that enabled Abram to let go of the Jordan valley and receive the whole land from God's hand.
+Jesus' teaching that "whoever loses his life for my sake will find it" (Matthew 16:25) is the New Testament articulation of the principle Abram embodies in this chapter. Luke 6:38 -- "Give, and it will be given to you. Good measure, pressed down, shaken together, running over" -- describes the same divine economy. Paul exhorts the Philippians to "in humility count others more significant than yourselves" (Philippians 2:3), the very posture Abram adopts toward Lot. Second Peter 2:7-8 identifies Lot as a "righteous man" who was "greatly distressed by the sensual conduct of the wicked" -- a reminder that Lot's choice of Sodom, though foolish, did not entirely extinguish his moral sensitivity. Romans 4:13 states that "the promise to Abraham and his offspring that he would be heir of the world" was given "through the righteousness of faith" -- the same faith that enabled Abram to let go of the Jordan valley and receive the whole land from God's hand.
 
 ## Reflection Questions
 

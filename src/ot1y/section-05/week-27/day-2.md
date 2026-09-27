@@ -2,8 +2,8 @@
 week: 27
 day: 2
 title: "The Shema and the Great Commandment"
-reading: "Deuteronomy 4:44-6:25"
-parallel_passages: Matthew 22:34-40, Mark 12:28-34, Matthew 4:1-11
+reading:
+- Deuteronomy 4:44-6:25
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +50,11 @@ The people at Horeb begged for a mediator: "You speak to us, and we will listen;
 
 **Old Testament Roots**
 
-The Ten Commandments restated in Deuteronomy 5 are rooted in the original Sinai revelation of Exodus 20:1-17. The shift in Sabbath motivation -- from creation (Exodus 20:11) to redemption (Deuteronomy 5:15) -- reflects the complementary theological foundations of Israel's rest. The *Shema*'s demand for exclusive love echoes the first commandment ("You shall have no other gods before me," Exodus 20:3) and the covenant formula of Exodus 34:14: "The LORD, whose name is Jealous, is a jealous God." The instruction to teach children (Deuteronomy 6:7) extends the patriarchal mandate of Genesis 18:19, where God says of Abraham, "I have chosen him, that he may command his children and his household after him to keep the way of the LORD."
+The Ten Commandments restated in Deuteronomy 5 are rooted in the original Sinai revelation of Exodus 20:1-17. The shift in Sabbath motivation -- from creation (Exodus 20:11) to redemption (Deuteronomy 5:15) -- reflects the complementary theological foundations of Israel's rest. The *Shema*'s demand for exclusive love echoes the first commandment ("You shall have no other gods before me," Exodus 20:3) and the covenant formula of Exodus 34:14: "The LORD, whose name is Jealous, is a jealous God." The instruction to teach children (Deuteronomy 6:7) extends the patriarchal mandate of Genesis 18:19, where God says of Abraham, "I have chosen him, that he may command his children and his household after him to keep the way of the LORD." Joshua 22:5 -- "Be very careful to observe the commandment and the law... to love the LORD your God, and to walk in all his ways and to keep his commandments and to cling to him and to serve him with all your heart and with all your soul" -- repeats the *Shema* language as Joshua passes the torch. 2 Kings 23:25 applies it to Josiah: "Before him there was no king like him, who turned to the LORD with all his heart and with all his soul and with all his might, according to all the Law of Moses." Yet even Josiah's faithfulness could not avert the exile -- a reminder that the *Shema* awaits its ultimate fulfillment in one greater than any king.
 
 **New Testament Echoes**
 
 Jesus quotes the *Shema* as the greatest commandment in Matthew 22:37-40 and Mark 12:29-31. In Mark's account, the scribe who asked the question agrees -- "You are right, Teacher. You have truly said that he is one, and there is no other besides him" -- and Jesus responds, "You are not far from the kingdom of God" (Mark 12:32-34). Paul echoes the *Shema* in 1 Corinthians 8:6: "Yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist" -- a reformulation that places Christ within the identity of the one God Israel confesses. The wilderness temptation (Matthew 4:1-11) is a sustained engagement with the Deuteronomy 6-8 passage, with Jesus demonstrating the *Shema* obedience that Israel could not sustain.
-
-**Parallel Passages**
-
-Joshua 22:5 -- "Be very careful to observe the commandment and the law... to love the LORD your God, and to walk in all his ways and to keep his commandments and to cling to him and to serve him with all your heart and with all your soul" -- repeats the *Shema* language as Joshua passes the torch. 2 Kings 23:25 applies it to Josiah: "Before him there was no king like him, who turned to the LORD with all his heart and with all his soul and with all his might, according to all the Law of Moses." Yet even Josiah's faithfulness could not avert the exile -- a reminder that the *Shema* awaits its ultimate fulfillment in one greater than any king.
 
 ## Reflection Questions
 

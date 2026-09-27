@@ -6,8 +6,8 @@ date_range: "Week 52"
 chapters:
 - Isaiah 65:17-25
 - Isaiah 66:1-24
-- Ezekiel 47:1-12; 48:30-35
-- Isaiah 25:6-9; 60:1-22
+- Ezekiel 47:1-12; Ezekiel 48:30-35
+- Isaiah 25:6-9; Isaiah 60:1-22
 - Psalm 46; Psalm 48; Isaiah 12:1-6
 tags:
 - covenant-8
@@ -37,8 +37,8 @@ The week — and the study — closes with songs. Psalm 46: "God is our refuge a
 |-----|---------|-------|
 | [1](../day-1/) | Isaiah 65:17-25 | New Heavens and a New Earth |
 | [2](../day-2/) | Isaiah 66:1-24 | All Flesh Shall Worship |
-| [3](../day-3/) | Ezekiel 47:1-12; 48:30-35 | The River of Life and the City Named for God |
-| [4](../day-4/) | Isaiah 25:6-9; 60:1-22 | The Feast on the Mountain and the City of Everlasting Light |
+| [3](../day-3/) | Ezekiel 47:1-12; Ezekiel 48:30-35 | The River of Life and the City Named for God |
+| [4](../day-4/) | Isaiah 25:6-9; Isaiah 60:1-22 | The Feast on the Mountain and the City of Everlasting Light |
 | [5](../day-5/) | Psalm 46; Psalm 48; Isaiah 12:1-6 | Songs of the City of God -- Refuge, Praise, and the Wells of Salvation |
 
 ## Key Themes

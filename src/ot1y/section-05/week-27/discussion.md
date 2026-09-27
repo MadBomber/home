@@ -51,13 +51,13 @@ Deuteronomy is the most passionate book in the Pentateuch -- not a legal code de
 
 7. **Not Because of Your Righteousness.** Moses is blunt: "Not because of your righteousness or the uprightness of your heart are you going in to possess their land" (Deuteronomy 9:5). The inheritance is grace, not reward. How does this preemptive correction echo throughout the rest of Scripture? How does Paul develop this same logic in Ephesians 2:8-9 and Romans 9:16?
 
-### Day 4: Worship, Justice, and the Prophet (Deuteronomy 12:1-18:22)
+### Day 4: Worship, Justice, and the Prophet (Deuteronomy 12:1-26:19)
 
 8. **Centralized Worship.** God commands Israel to worship only "at the place that the LORD your God will choose" (Deuteronomy 12:5) -- no freelance altars, no repurposed Canaanite shrines. Why does it matter *where* and *how* God is worshiped? What does centralized worship protect against? How does Jesus' statement to the Samaritan woman -- "the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father" (John 4:21) -- fulfill rather than abolish this principle?
 
 9. **The Prophet Like Moses.** "The LORD your God will raise up for you a prophet like me from among you, from your brothers -- it is to him you shall listen" (Deuteronomy 18:15). The verb "listen" is *tishma'un* -- the *Shema* verb. To hear the future prophet is to obey the greatest commandment. How does this promise create the expectation that shapes Israel's messianic hope? How does Peter identify its fulfillment in Acts 3:22-23?
 
-### Day 5: Blessings, Curses, and the Death of Moses (Deuteronomy 28:1-34:12)
+### Day 5: Blessings, Curses, and the Death of Moses (Deuteronomy 27:1-34:12)
 
 10. **The Choice.** "I have set before you life and death, blessing and curse. Therefore choose life" (Deuteronomy 30:19). The covenant is not a fate but a decision. Yet the rest of the Old Testament will reveal that Israel consistently chooses death. What does this relentless failure reveal about the human condition? How does Paul's argument in Romans 7-8 address the gap between the command to choose life and the inability to do so apart from the Spirit?
 

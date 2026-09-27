@@ -2,8 +2,8 @@
 week: 43
 day: 1
 title: "The Holy God and the Sinful Nation"
-reading: "Isaiah 1:1-6:13"
-parallel_passages: Revelation 4:8, John 12:41, Acts 28:25-27
+reading:
+- Isaiah 1:1-6:13
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -36,7 +36,7 @@ John's Gospel makes a claim about Isaiah 6 that reshapes the entire vision. Afte
 
 The commission to harden hearts -- that troubling oracle of Isaiah 6:9-10 -- becomes one of the most frequently cited Old Testament texts in the New Testament. Jesus quotes it to explain why he teaches in parables (Matthew 13:14-15). Paul cites it at the end of Acts to explain Israel's rejection of the gospel (Acts 28:25-27). The pattern Isaiah inaugurates -- God's word going forth and meeting resistance, the very proclamation of truth deepening the divide between those who hear and those who refuse -- is the pattern of Jesus' own ministry. He speaks, and some fall at his feet while others plot his death. The word that divides is the same word that saves. The same sun that melts wax hardens clay.
 
-The coal that cleanses Isaiah's lips anticipates the greater cleansing the servant will accomplish. Isaiah receives atonement from an altar where animal blood has been shed. The church receives atonement from a cross where the servant's own blood was poured out. The sequence of Isaiah 6 -- holiness revealed, sin exposed, atonement provided, mission given -- is the sequence of the gospel itself. No one is sent who has not first been cleansed. No one is cleansed who has not first seen the holiness of God. And the holiness that terrifies is the same holiness that, through the servant's wounds, heals. The burning coal on Isaiah's lips is a foretaste of Pentecost, when tongues of fire descended on the apostles and they were sent to speak -- not to harden hearts this time, but to open them, because the servant had already been pierced and the new covenant had already been sealed.
+The coal that cleanses Isaiah's lips anticipates the greater cleansing Christ will accomplish. Isaiah receives atonement from an altar where animal blood has been shed. The church receives atonement from a cross where the Son's own blood was poured out. The sequence of Isaiah 6 -- holiness revealed, sin exposed, atonement provided, mission given -- is the sequence of the gospel itself. No one is sent who has not first been cleansed. No one is cleansed who has not first seen the holiness of God. And the holiness that terrifies is the same holiness that, through the cross, heals. The burning coal on Isaiah's lips is a foretaste of Pentecost, when tongues of fire descended on the apostles and they were sent to speak -- not to harden hearts this time, but to open them, because Christ had already been crucified and raised and the new covenant had already been sealed.
 
 ## Key Themes
 
@@ -50,15 +50,11 @@ The coal that cleanses Isaiah's lips anticipates the greater cleansing the serva
 
 **Old Testament Roots**
 
-Isaiah's throne vision echoes Moses' encounter at the burning bush (Exodus 3:1-6), where God's holiness requires distance -- "Do not come near; take your sandals off your feet." The *riv* or covenant lawsuit of Isaiah 1 draws on the Deuteronomic covenant structure, particularly Deuteronomy 32:1 ("Give ear, O heavens, and let me speak; and let the earth hear the words of my mouth"), where heaven and earth are summoned as witnesses. The remnant theology of Isaiah 6:13 ("the holy seed is its stump") echoes the pattern of judgment-and-preservation seen in the flood narrative (Genesis 6-9) and in the survival of a remnant through every crisis in Israel's history.
+Isaiah's throne vision echoes Moses' encounter at the burning bush (Exodus 3:1-6), where God's holiness requires distance -- "Do not come near; take your sandals off your feet." The *riv* or covenant lawsuit of Isaiah 1 draws on the Deuteronomic covenant structure, particularly Deuteronomy 32:1 ("Give ear, O heavens, and let me speak; and let the earth hear the words of my mouth"), where heaven and earth are summoned as witnesses. The remnant theology of Isaiah 6:13 ("the holy seed is its stump") echoes the pattern of judgment-and-preservation seen in the flood narrative (Genesis 6-9) and in the survival of a remnant through every crisis in Israel's history. Exodus 33:18-23 records Moses asking to see God's glory and being told, "You cannot see my face, for man shall not see me and live." In Ezekiel 1:26-28 the glory of God on the throne-chariot appears "like the appearance of the bow that is in the cloud," and the prophet falls on his face. Psalm 99:1-5 sings of the same throne: "The LORD reigns; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake! The LORD is great in Zion... Holy is he!"
 
 **New Testament Echoes**
 
 John 12:41 identifies the glory Isaiah saw as the glory of Christ. Revelation 4:8 places the triple "Holy, holy, holy" on the lips of the four living creatures surrounding the throne of God and of the Lamb -- the same cry, the same throne, now with the slain Lamb at its center. Jesus' quotation of Isaiah 6:9-10 in Matthew 13:14-15 and Paul's use of it in Acts 28:25-27 trace the pattern of prophetic hardening from Isaiah's commission through the ministry of Christ and into the apostolic mission.
-
-**Parallel Passages**
-
-Exodus 33:18-23 -- Moses asks to see God's glory and is told, "You cannot see my face, for man shall not see me and live." Ezekiel 1:26-28 -- Ezekiel's vision of the throne-chariot, where the glory of God appears "like the appearance of the bow that is in the cloud" and the prophet falls on his face. Psalm 99:1-5 -- "The LORD reigns; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake! The LORD is great in Zion... Holy is he!"
 
 ## Reflection Questions
 
@@ -70,4 +66,4 @@ Exodus 33:18-23 -- Moses asks to see God's glory and is told, "You cannot see my
 
 ## Prayer
 
-Holy, holy, holy Lord -- we come to you as Isaiah came, aware that we are people of unclean lips dwelling among a people of unclean lips. The seraphim cover their faces before your throne; how much more should we tremble. And yet you do not leave us in our undoing. You send the coal from the altar. You provide the atonement we could never earn. You cleanse before you commission, and you commission because you have cleansed. We thank you that the glory Isaiah saw on the throne is the glory John tells us belongs to Christ -- that the God whose holiness shattered the prophet is the same God who took on flesh and bore our sin in his own body. Give us eyes to see your holiness and hearts that respond not with terror alone but with the gratitude of those who know the coal has already touched our lips, because the servant has already been pierced. In the name of Jesus, the holy one who makes us holy. Amen.
+Holy, holy, holy Lord -- we come to you as Isaiah came, aware that we are people of unclean lips dwelling among a people of unclean lips. The seraphim cover their faces before your throne; how much more should we tremble. And yet you do not leave us in our undoing. You send the coal from the altar. You provide the atonement we could never earn. You cleanse before you commission, and you commission because you have cleansed. We thank you that the glory Isaiah saw on the throne is the glory John tells us belongs to Christ -- that the God whose holiness shattered the prophet is the same God who took on flesh and bore our sin in his own body. Give us eyes to see your holiness and hearts that respond not with terror alone but with the gratitude of those who know the coal has already touched our lips, because your Son has already gone to the cross for us. In the name of Jesus, the holy one who makes us holy. Amen.

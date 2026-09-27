@@ -11,7 +11,7 @@ template_engine: erb
 - [The Covenant Announced -- 'I Will Establish My Covenant with You' -- and Noah Obeys](<%= relative_url "/ot1y/section-03/week-05/day-3/" %>)
 - [Peter Reads the Flood -- The Ancient Pattern of Judgment and Deliverance](<%= relative_url "/ot1y/section-03/week-05/day-4/" %>)
 - [Noah, Daniel, and Job -- Individual Righteousness in a World Under Judgment](<%= relative_url "/ot1y/section-03/week-05/day-5/" %>)
-- [Enter the Ark -- The LORD Shut Him In](<%= relative_url "/ot1y/section-03/week-06/day-1/" %>)
+- [Enter the Ark -- You and All Your Household](<%= relative_url "/ot1y/section-03/week-06/day-1/" %>)
 - [The Waters Prevail -- De-creation and the End of the Old World](<%= relative_url "/ot1y/section-03/week-06/day-2/" %>)
 - [The Tower of Babel -- Let Us Make a Name for Ourselves](<%= relative_url "/ot1y/section-03/week-08/day-3/" %>)
 - [Abraham Intercedes for Sodom](<%= relative_url "/ot1y/section-04/week-11/day-2/" %>)

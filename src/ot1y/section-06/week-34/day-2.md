@@ -2,8 +2,11 @@
 week: 34
 day: 2
 title: "The Pursuit and the Cave at En-gedi -- Restraint as Worship"
-reading: "1 Samuel 23:1-24:22"
-parallel_passages: Psalm 57, Psalm 63, Matthew 26:47-54, Romans 12:17-21, Psalm 142
+reading:
+- 1 Samuel 23:1-24:22
+parallel_passages:
+- Psalm 57
+- Psalm 142
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -17,7 +20,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 1 Samuel 23:1--24:22
+- 1 Samuel 23:1-24:22
 
 ## Historical Context
 
@@ -49,7 +52,7 @@ Jonathan's words -- "You shall be king over Israel, and I shall be next to you" 
 
 **Old Testament Roots**
 
-The concept of the LORD's anointed (*meshiach YHWH*) traces to the anointing of Saul in 1 Samuel 10:1 and David in 1 Samuel 16:13. The *kanaph* (hem/wing) of the robe carries significance from Ruth 3:9, where Ruth asks Boaz to spread his *kanaph* over her -- a request for covenantal protection. David's cutting of Saul's *kanaph* symbolically removes the king's covering authority. The wilderness of Judah as a place of divine encounter connects to Hagar's experience in Genesis 16 and Israel's wilderness formation in Deuteronomy 8.
+The concept of the LORD's anointed (*meshiach YHWH*) traces to the anointing of Saul in 1 Samuel 10:1 and David in 1 Samuel 16:13. The *kanaph* (hem/wing) of the robe carries significance from Ruth 3:9, where Ruth asks Boaz to spread his *kanaph* over her -- a request for covenantal protection. David's cutting of Saul's *kanaph* symbolically removes the king's covering authority. The wilderness of Judah as a place of divine encounter connects to Hagar's experience in Genesis 16 and Israel's wilderness formation in Deuteronomy 8. Psalm 63 ("in the wilderness of Judah") captures the spirituality of the fugitive years. David's inquiry of God (23:2, 4, 10-12) set beside Saul's inability to hear from God (1 Samuel 28:6) defines the difference between the two kings.
 
 **New Testament Echoes**
 
@@ -57,7 +60,7 @@ Jesus' command to Peter in Gethsemane (Matthew 26:52-53) is the direct fulfillme
 
 **Parallel Passages**
 
-Psalm 57 (composed "when he fled from Saul, in the cave") and Psalm 142 (composed "when he was in the cave") provide the devotional interior of this narrative. Psalm 63 ("in the wilderness of Judah") captures the spirituality of the fugitive years. Compare David's inquiry of God (1 Samuel 23:2, 4, 10-12) with Saul's inability to hear from God (1 Samuel 28:6) -- the contrast defines the difference between the two kings.
+Psalm 57 (composed "when he fled from Saul, in the cave") and Psalm 142 (composed "when he was in the cave") provide the devotional interior of this narrative.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 7
 day: 5
 title: "The Flood as Pattern -- The World Preserved for Fire, the Promise of New Heavens and Earth"
-reading: "2 Peter 3:3-13"
-parallel_passages: Genesis 6:5-7, Genesis 8:21-22, Genesis 9:11-15, Matthew 24:37-39, Romans 2:4, Revelation 21:1-5
+reading:
+- 2 Peter 3:3-13
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -56,11 +56,7 @@ Peter's argument rests on the foundation of Genesis 6-9 -- the flood as the para
 
 **New Testament Echoes**
 
-Jesus' comparison of his return to the days of Noah (Matthew 24:37-39; Luke 17:26-27) is the foundation for Peter's argument. Paul's warning that "the kindness of God is meant to lead you to repentance" (Romans 2:4) reflects the same theology of patience -- God's restraint is not indifference but invitation. And John's vision of "a new heaven and a new earth" in Revelation 21:1-5 is the eschatological fulfillment of Peter's promise -- the world in which "death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away."
-
-**Parallel Passages**
-
-Isaiah 65:17-25 describes the new creation in vivid terms -- longevity, peace, fruitfulness, the wolf and the lamb feeding together. Romans 8:19-23 describes the creation itself "groaning" in anticipation of the final liberation from bondage to corruption. Revelation 21:1-22:5 provides the fullest portrait of the new heavens and new earth, where the presence of God fills the entire creation and the need for a temple, a sun, or even a sea has passed away. The arc from Noah's flood to John's new Jerusalem is the arc of the entire biblical story: patience, judgment, and the creation God always intended.
+Jesus' comparison of his return to the days of Noah (Matthew 24:37-39; Luke 17:26-27) is the foundation for Peter's argument. Paul's warning that "the kindness of God is meant to lead you to repentance" (Romans 2:4) reflects the same theology of patience -- God's restraint is not indifference but invitation. And John's vision of "a new heaven and a new earth" in Revelation 21:1-5 is the eschatological fulfillment of Peter's promise -- the world in which "death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away." Romans 8:19-23 describes the creation itself "groaning" in anticipation of the final liberation from bondage to corruption.
 
 ## Reflection Questions
 

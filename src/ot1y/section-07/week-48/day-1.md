@@ -2,8 +2,10 @@
 week: 48
 day: 1
 title: "Build the House -- and the Latter Glory Shall Be Greater Than the Former"
-reading: "Haggai 1:1-2:23"
-parallel_passages: Matthew 12:6, Matthew 21:12-13, John 1:14, John 2:19-21, Hebrews 3:3-6
+reading:
+- Haggai 1:1-2:23
+parallel_passages:
+- Ezra 5:1-2
 section: New Covenant
 tags:
 - covenant-7
@@ -17,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Haggai 1:1--2:23
+- Haggai 1:1-2:23
 
 ## Historical Context
 
@@ -49,7 +51,7 @@ The signet ring promise to Zerubbabel also finds its fulfillment in Christ. Zeru
 
 **Old Testament Roots**
 
-The glory (*kavod*) that filled Solomon's temple (1 Kings 8:10-11) and the shekinah that rested on the tabernacle (Exodus 40:34-35) form the background for Haggai's promise. The signet ring language reverses God's specific judgment on Jehoiachin in Jeremiah 22:24: "As I live, declares the LORD, though Coniah the son of Jehoiakim, king of Judah, were the signet ring on my right hand, yet I would tear you off." What God tears off in Jeremiah, he restores in Haggai. The economic imagery of "a bag with holes" echoes Deuteronomy 28:38-40, where covenant unfaithfulness produces agricultural futility.
+The glory (*kavod*) that filled Solomon's temple (1 Kings 8:10-11) and the shekinah that rested on the tabernacle (Exodus 40:34-35) form the background for Haggai's promise. The signet ring language reverses God's specific judgment on Jehoiachin in Jeremiah 22:24: "As I live, declares the LORD, though Coniah the son of Jehoiakim, king of Judah, were the signet ring on my right hand, yet I would tear you off." What God tears off in Jeremiah, he restores in Haggai. The economic imagery of "a bag with holes" echoes Deuteronomy 28:38-40, where covenant unfaithfulness produces agricultural futility. Psalm 84 expresses the longing for God's dwelling place: "How lovely is your dwelling place, O LORD of hosts!" Isaiah 66:1 pushes the theology further: "Heaven is my throne, and the earth is my footstool; what is the house that you would build for me?" -- a question the incarnation answers definitively.
 
 **New Testament Echoes**
 
@@ -57,7 +59,7 @@ Jesus claims to be greater than the temple (Matthew 12:6) and identifies his bod
 
 **Parallel Passages**
 
-Ezra 5:1-2 records the historical response to Haggai's preaching: Zerubbabel and Joshua rose and began rebuilding. Psalm 84 expresses the longing for God's dwelling place: "How lovely is your dwelling place, O LORD of hosts!" Isaiah 66:1 pushes the theology further: "Heaven is my throne, and the earth is my footstool; what is the house that you would build for me?" -- a question the incarnation answers definitively.
+Ezra 5:1-2 records the historical response to Haggai's preaching: Zerubbabel and Joshua rose and began rebuilding.
 
 ## Reflection Questions
 

@@ -2,8 +2,10 @@
 week: 28
 day: 2
 title: "Rahab's Faith and the Jordan Crossing"
-reading: "Joshua 2:1-3:17"
-parallel_passages: Hebrews 11:31, James 2:25, Matthew 1:5, Exodus 14:21-22
+reading:
+- Joshua 2:1-3:17
+parallel_passages:
+- Psalm 114:3-5
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -29,7 +31,7 @@ Rahab's confession in Joshua 2:9-11 is remarkable for its theological precision.
 
 The Jordan crossing in chapter 3 is narrated with deliberate echoes of the Red Sea. The priests carry the *aron habberit* -- the ark of the covenant -- into the river at flood stage. The text specifies the timing: "the Jordan overflows all its banks throughout the time of harvest" (Joshua 3:15). The river at its most impassable is the river God chooses to part. The moment the priests' feet touch the water, the flow stops -- the waters "rose up in a heap" at Adam, a town roughly twenty miles upstream. The language *ned echad* ("one heap") is the same used in Exodus 15:8 to describe the Red Sea waters. The echo is unmistakable and intentional. What God did for the fathers, he does for the children. The Jordan becomes a second baptism -- not of escape but of entry.
 
-The ark goes first. The people follow at a distance of about two thousand cubits -- roughly half a mile. They have never gone this way before (Joshua 3:4). The ark, which represents God's presence and his covenant, leads them into unknown territory. The priests stand in the middle of the dry riverbed, holding the ark, while the entire nation crosses. God's presence holds back the waters. The moment the priests' feet leave the riverbed, the Jordan resumes its flow (Joshua 4:18). The crossing is sustained entirely by divine presence standing in the gap.
+The ark goes first. The people follow at a distance of about two thousand cubits -- roughly half a mile. They have never gone this way before (Joshua 3:4). The ark, which represents God's presence and his covenant, leads them into unknown territory. The priests stand in the middle of the dry riverbed, holding the ark, while the entire nation crosses: "the priests bearing the ark of the covenant of the LORD stood firmly on dry ground in the midst of the Jordan, and all Israel was passing over on dry ground until all the nation finished passing over the Jordan" (Joshua 3:17). God's presence holds back the waters. The crossing is sustained entirely by divine presence standing in the gap.
 
 ## Christ in This Day
 
@@ -49,7 +51,7 @@ The Jordan crossing itself prefigures baptism. Paul writes that Israel was "bapt
 
 **Old Testament Roots**
 
-The Jordan crossing echoes Exodus 14:21-22, where God divides the Red Sea and Israel crosses on dry ground. The language of waters standing "in a heap" (*ned*) appears in both the Song of the Sea (Exodus 15:8) and Joshua 3:13, 16 -- a verbal link binding the two events. Rahab's act of hiding the spies recalls the Hebrew midwives' defiance of Pharaoh in Exodus 1:15-21: in both cases, women outside the covenant community risk their lives to protect God's people, and God honors their faith. The scarlet cord (Joshua 2:18, *tiqvat chut hashani*) evokes the Passover blood on the doorposts (Exodus 12:7, 13).
+The Jordan crossing echoes Exodus 14:21-22, where God divides the Red Sea and Israel crosses on dry ground. The language of waters standing "in a heap" (*ned*) appears in both the Song of the Sea (Exodus 15:8) and Joshua 3:13, 16 -- a verbal link binding the two events. Rahab's act of hiding the spies recalls the Hebrew midwives' defiance of Pharaoh in Exodus 1:15-21: in both cases, women outside the covenant community risk their lives to protect God's people, and God honors their faith. The scarlet cord (Joshua 2:18, *tiqvat chut hashani*) evokes the Passover blood on the doorposts (Exodus 12:7, 13). Ruth 1-4 continues Rahab's story through her descendants -- Boaz, Obed, Jesse, David. Isaiah 43:2 extends the promise: "When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you."
 
 **New Testament Echoes**
 
@@ -57,7 +59,7 @@ Matthew 1:5 places Rahab in the genealogy of Christ. Hebrews 11:31 celebrates he
 
 **Parallel Passages**
 
-Psalm 114:1-8 celebrates both the Red Sea and the Jordan in a single poem: "The sea looked and fled; Jordan turned back." The two events are inseparable in Israel's liturgical memory. Ruth 1-4 continues Rahab's story through her descendants -- Boaz, Obed, Jesse, David. Isaiah 43:2 extends the promise: "When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you."
+Psalm 114:3-5 celebrates both the Red Sea and the Jordan in a single poem: "The sea looked and fled; Jordan turned back." The two events are inseparable in Israel's liturgical memory.
 
 ## Reflection Questions
 

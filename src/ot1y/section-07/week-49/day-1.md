@@ -2,8 +2,8 @@
 week: 49
 day: 1
 title: "The Seventy Weeks and the Anointed One Cut Off"
-reading: "Daniel 9:1-27"
-parallel_passages: Luke 24:25-27, Galatians 4:4, Mark 10:45, Romans 5:6-8
+reading:
+- Daniel 9:1-27
 section: New Covenant
 tags:
 - covenant-7
@@ -48,15 +48,11 @@ The phrase "cut off and shall have nothing" finds its most haunting echo in the 
 
 **Old Testament Roots**
 
-Daniel's intercessory prayer draws heavily on the covenant language of Deuteronomy 28-30, particularly the curses for disobedience and the promise of restoration after repentance. The concept of being "cut off" (*karat*) from the covenant community appears throughout the Torah as the most severe penalty -- applied to violations of circumcision (Genesis 17:14), Passover (Numbers 9:13), and the Day of Atonement (Leviticus 23:29). Jeremiah 25:11-12 provides the seventy-year framework that prompts Daniel's prayer, and Leviticus 26:34-35 explains the exile as the land receiving its Sabbaths -- suggesting the seventy years correspond to 490 years of neglected Sabbatical rest.
+Daniel's intercessory prayer draws heavily on the covenant language of Deuteronomy 28-30, particularly the curses for disobedience and the promise of restoration after repentance. The concept of being "cut off" (*karat*) from the covenant community appears throughout the Torah as the most severe penalty -- applied to violations of circumcision (Genesis 17:14), Passover (Numbers 9:13), and the Day of Atonement (Leviticus 23:29). Jeremiah 25:11-12 provides the seventy-year framework that prompts Daniel's prayer, and Leviticus 26:34-35 explains the exile as the land receiving its Sabbaths -- suggesting the seventy years correspond to 490 years of neglected Sabbatical rest. Leviticus 16, the Day of Atonement ritual, provides the theological background for the promise "to atone for iniquity" (9:24). Isaiah 53:8 -- "he was cut off out of the land of the living" -- applies the same concept of cutting off to the servant. Zechariah 9:9 portrays the humble king who comes to Jerusalem, whose arrival and rejection the Gospels will narrate.
 
 **New Testament Echoes**
 
 Jesus' announcement that "the time is fulfilled" (Mark 1:15) assumes a prophetic calendar that has reached its appointed hour -- the language presupposes Daniel's seventy weeks. Galatians 4:4 ("the fullness of time") carries the same weight. Hebrews 9:26 explicitly connects Christ's once-for-all sacrifice with the end of the ages. And Jesus' reference to "the abomination of desolation spoken of by the prophet Daniel" (Matthew 24:15) shows that he read Daniel 9 as prophecy still unfolding, with implications extending to Jerusalem's destruction in AD 70 and beyond.
-
-**Parallel Passages**
-
-Jeremiah 25:11-12 and 29:10 -- the seventy-year prophecy Daniel reads. Leviticus 16 -- the Day of Atonement ritual that provides the theological background for "atoning for iniquity." Isaiah 53:8 -- "he was cut off out of the land of the living" -- uses the same concept of cutting off applied to the servant. Zechariah 9:9 -- the humble king who comes to Jerusalem, whose arrival and rejection the Gospels will narrate.
 
 ## Reflection Questions
 

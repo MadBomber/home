@@ -2,8 +2,10 @@
 week: 17
 day: 3
 title: "The Burning Bush and the Name Above All Names"
-reading: "Exodus 3:1-22"
-parallel_passages: John 8:58, Philippians 2:5-8, Acts 7:30-34, Isaiah 6:1-8
+reading:
+- Exodus 3:1-22
+parallel_passages:
+- Acts 7:30-34
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +52,15 @@ God's four verbs -- seen, heard, known, come down -- are the architecture of the
 
 **Old Testament Roots**
 
-The burning bush echoes and anticipates other theophanies in the Old Testament. The smoking fire pot and flaming torch that passed between the animal pieces in God's covenant with Abraham (Genesis 15:17) revealed a God who binds himself by fire. The pillar of fire that will lead Israel through the wilderness (Exodus 13:21) extends the bush's flame into a traveling presence. The fire that fills the tabernacle (Exodus 40:34-38) and the temple (1 Kings 8:10-11) fulfills the pattern the bush inaugurated: God dwelling in the midst of his people, blazing with holiness, yet not destroying the vessel that contains him. Isaiah's vision of the Lord "high and lifted up" with seraphim crying "Holy, holy, holy" (Isaiah 6:1-3) carries the same tension -- overwhelming holiness that nonetheless commissions a human messenger.
+The burning bush echoes and anticipates other theophanies in the Old Testament. The smoking fire pot and flaming torch that passed between the animal pieces in God's covenant with Abraham (Genesis 15:17) revealed a God who binds himself by fire. The pillar of fire that will lead Israel through the wilderness (Exodus 13:21) extends the bush's flame into a traveling presence. The fire that fills the tabernacle (Exodus 40:34-38) and the temple (1 Kings 8:10-11) fulfills the pattern the bush inaugurated: God dwelling in the midst of his people, blazing with holiness, yet not destroying the vessel that contains him. Isaiah's vision of the Lord "high and lifted up" with seraphim crying "Holy, holy, holy" (Isaiah 6:1-3) carries the same tension -- overwhelming holiness that nonetheless commissions a human messenger. Psalm 103:7 -- "He made known his ways to Moses, his acts to the people of Israel" -- distinguishes between knowing God's actions and knowing his character, and the burning bush is where that deeper knowledge begins.
 
 **New Testament Echoes**
 
-Jesus' claim to the divine name in John 8:58 is the most direct New Testament appropriation of Exodus 3:14. But the burning bush also resonates in the Transfiguration (Matthew 17:1-8), where Jesus' face "shone like the sun, and his clothes became white as light" -- the glory that inhabited the bush now inhabiting human flesh, visible to Peter, James, and John on a mountain. Acts 7:30-34 records Stephen's retelling of the burning bush narrative, connecting it directly to Jesus: the God who spoke to Moses is the God who has now spoken through his Son. Hebrews 1:1-2 -- "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son" -- places the bush within the long trajectory of divine speech that culminates in Christ.
+Jesus' claim to the divine name in John 8:58 is the most direct New Testament appropriation of Exodus 3:14. But the burning bush also resonates in the Transfiguration (Matthew 17:1-8), where Jesus' face "shone like the sun, and his clothes became white as light" -- the glory that inhabited the bush now inhabiting human flesh, visible to Peter, James, and John on a mountain. Acts 7:30-34 records Stephen's retelling of the burning bush narrative, connecting it directly to Jesus: the God who spoke to Moses is the God who has now spoken through his Son. Hebrews 1:1-2 -- "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son" -- places the bush within the long trajectory of divine speech that culminates in Christ. John 1:18 -- "No one has ever seen God; the only God, who is at the Father's side, he has made him known" -- affirms that the God who partially revealed himself at the bush has now fully revealed himself in Christ.
 
 **Parallel Passages**
 
-Isaiah 6:1-8 -- the prophet's call in the temple -- mirrors the structure of Exodus 3: a theophany of overwhelming holiness, a commission, and a human response of inadequacy ("Woe is me!"). Psalm 103:7 -- "He made known his ways to Moses, his acts to the people of Israel" -- distinguishes between knowing God's actions and knowing his character, and the burning bush is where that deeper knowledge begins. John 1:18 -- "No one has ever seen God; the only God, who is at the Father's side, he has made him known" -- affirms that the God who partially revealed himself at the bush has now fully revealed himself in Christ.
+Stephen retells the burning bush in Acts 7:30-34: the angel in a flame of fire in a bush in the wilderness of Mount Sinai, the voice declaring "I am the God of your fathers," the command to take off his sandals, and the commission to go to Egypt.
 
 ## Reflection Questions
 

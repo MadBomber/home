@@ -2,8 +2,10 @@
 week: 30
 day: 5
 title: "Ruth and Boaz -- Loyalty, Redemption, and the Line of David"
-reading: "Ruth 1:1-4:22"
-parallel_passages: Matthew 1:1-6, Hebrews 2:14-17, 1 Peter 1:18-19, John 10:17-18, Ephesians 2:11-13
+reading:
+- Ruth 1:1-4:22
+parallel_passages:
+- Matthew 1:3-6
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -20,7 +22,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Ruth 1:1--4:22
+- Ruth 1:1-4:22
 
 ## Historical Context
 
@@ -60,11 +62,11 @@ The *goel* institution is rooted in Leviticus 25:23-55, which prescribes the kin
 
 **New Testament Echoes**
 
-Matthew 1:5 -- Ruth appears in the genealogy of Jesus, one of only five women named, alongside Tamar, Rahab, Bathsheba, and Mary. Each entry is irregular, unexpected, or scandalous by human standards -- and each demonstrates that grace writes the genealogy of the Messiah. Hebrews 2:14-17 -- Christ's incarnation as kinsman-redeemer. 1 Peter 1:18-19 -- redemption by the blood of Christ. Ephesians 2:11-13 -- Gentiles brought near by Christ's blood, fulfilling what Ruth's inclusion foreshadowed. John 10:17-18 -- Christ's willing sacrifice.
+Matthew 1:5 -- Ruth appears in the genealogy of Jesus, one of only five women named, alongside Tamar, Rahab, Bathsheba, and Mary. Each entry is irregular, unexpected, or scandalous by human standards -- and each demonstrates that grace writes the genealogy of the Messiah. Hebrews 2:14-17 -- Christ's incarnation as kinsman-redeemer. 1 Peter 1:18-19 -- redemption by the blood of Christ. Ephesians 2:11-13 -- Gentiles brought near by Christ's blood, fulfilling what Ruth's inclusion foreshadowed. John 10:17-18 -- Christ's willing sacrifice. Compare Ruth's declaration (Ruth 1:16-17) with Peter's confession (Matthew 16:16) -- both are statements of covenant loyalty that define the speaker's identity and destiny. Compare the nearer kinsman's refusal (Ruth 4:6) with the rich young ruler's departure (Matthew 19:22) -- both turn away because the cost of redemption is too high. Compare Boaz's treatment of Ruth at the harvest meal (Ruth 2:14) with Jesus' table fellowship with sinners and outcasts (Luke 15:1-2) -- both welcome the marginalized to eat at the table of the redeemer.
 
 **Parallel Passages**
 
-Compare Ruth's declaration (Ruth 1:16-17) with Peter's confession (Matthew 16:16) -- both are statements of covenant loyalty that define the speaker's identity and destiny. Compare the nearer kinsman's refusal (Ruth 4:6) with the rich young ruler's departure (Matthew 19:22) -- both turn away because the cost of redemption is too high. Compare Boaz's treatment of Ruth at the harvest meal (Ruth 2:14) with Jesus' table fellowship with sinners and outcasts (Luke 15:1-2) -- both welcome the marginalized to eat at the table of the redeemer.
+Matthew 1:3-6 reproduces the genealogy of 4:18-22 -- Perez, Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, David -- and names Tamar, Rahab, and Ruth along the way.
 
 ## Reflection Questions
 

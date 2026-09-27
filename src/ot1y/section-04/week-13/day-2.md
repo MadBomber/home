@@ -2,8 +2,8 @@
 week: 13
 day: 2
 title: "Abraham's Death and Ishmael's Line -- The Patriarch's Legacy"
-reading: "Genesis 25:1-18"
-parallel_passages: Genesis 12:1-3, Genesis 17:20, Genesis 21:13, Hebrews 11:8-16, Acts 3:25, Galatians 3:8-9, Romans 4:16-17
+reading:
+- Genesis 25:1-18
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -55,11 +55,7 @@ Abraham's burial in Machpelah (25:9-10) fulfills the purchase of Genesis 23. The
 
 **New Testament Echoes**
 
-Hebrews 11:13-16 interprets Abraham's death through the lens of faith: "These all died in faith, not having received the things promised, but having seen them and greeted them from afar." Paul claims Abraham's many-nations fatherhood for the gospel in Romans 4:16-17 and Galatians 3:8-9. Acts 3:25 identifies believers as "the sons of the prophets and of the covenant that God made with your fathers, saying to Abraham, 'And in your offspring shall all the families of the earth be blessed.'"
-
-**Parallel Passages**
-
-Compare Isaac and Ishmael burying Abraham (25:9) with Jacob and Esau burying Isaac (35:29) -- the same pattern of divided brothers reuniting at a father's grave. Compare Abraham's gifts to Keturah's sons with the father's generous distribution to the older brother in the parable of the prodigal (Luke 15:31). Compare Ishmael's twelve princes with Jacob's twelve sons -- both fulfillments of divine promise, one outside the covenant line and one within it.
+Hebrews 11:13-16 interprets Abraham's death through the lens of faith: "These all died in faith, not having received the things promised, but having seen them and greeted them from afar." Paul claims Abraham's many-nations fatherhood for the gospel in Romans 4:16-17 and Galatians 3:8-9. Acts 3:25 identifies believers as "the sons of the prophets and of the covenant that God made with your fathers, saying to Abraham, 'And in your offspring shall all the families of the earth be blessed.'" Abraham's gifts to Keturah's sons can be compared with the father's generous distribution to the older brother in the parable of the prodigal (Luke 15:31).
 
 ## Reflection Questions
 

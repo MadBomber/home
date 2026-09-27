@@ -2,8 +2,10 @@
 week: 19
 day: 2
 title: "The Red Sea"
-reading: "Exodus 14:1-31"
-parallel_passages: 1 Corinthians 10:1-2, Hebrews 11:29, Isaiah 43:1-3
+reading:
+- Exodus 14:1-31
+parallel_passages:
+- Psalm 77:16-20
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,7 +51,7 @@ The destruction of Pharaoh's army in the returning waters carries a weight that 
 
 **Old Testament Roots**
 
-The east wind that parts the sea echoes the *ruach 'elohim* of Genesis 1:2 -- the Spirit of God hovering over the waters before creation. The separation of water from dry land at the sea recapitulates the separation of water from dry land on the third day of creation (Genesis 1:9-10). The crossing is a new creation act: God makes a world where no world existed, a path where there was only ocean. Joshua 3-4 will repeat the pattern at the Jordan River, and Elijah and Elisha will part the Jordan with a mantle (2 Kings 2:8, 14) -- each crossing echoing the original.
+The east wind that parts the sea echoes the *ruach 'elohim* of Genesis 1:2 -- the Spirit of God hovering over the waters before creation. The separation of water from dry land at the sea recapitulates the separation of water from dry land on the third day of creation (Genesis 1:9-10). The crossing is a new creation act: God makes a world where no world existed, a path where there was only ocean. Joshua 3-4 will repeat the pattern at the Jordan River, and Elijah and Elisha will part the Jordan with a mantle (2 Kings 2:8, 14) -- each crossing echoing the original. Isaiah 43:1-3 applies the crossing's logic to every generation: "When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you." Isaiah 51:10-11 projects it forward: "Was it not you who dried up the sea, the waters of the great deep, who made the depths of the sea a way for the redeemed to pass over?"
 
 **New Testament Echoes**
 
@@ -57,7 +59,7 @@ Paul reads the crossing as baptism (1 Corinthians 10:1-2) and the destruction of
 
 **Parallel Passages**
 
-Psalm 77:16-20 remembers the crossing in poetry: "When the waters saw you, O God, when the waters saw you, they were afraid; indeed, the deep trembled." Isaiah 43:1-3 applies its logic to every generation: "When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you." Isaiah 51:10-11 projects it forward: "Was it not you who dried up the sea, the waters of the great deep, who made the depths of the sea a way for the redeemed to pass over?"
+Psalm 77:16-20 remembers the crossing in poetry: "When the waters saw you, O God, when the waters saw you, they were afraid; indeed, the deep trembled."
 
 ## Reflection Questions
 

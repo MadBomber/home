@@ -2,8 +2,10 @@
 week: 38
 day: 3
 title: "The Temple Built -- Cedar, Gold, and Seven Years of Construction"
-reading: "1 Kings 5:1-6:38"
-parallel_passages: John 2:19-21, Ephesians 2:19-22, 1 Peter 2:4-5, Hebrews 9:11-12, John 1:14, Revelation 21:22
+reading:
+- 1 Kings 5:1-6:38
+parallel_passages:
+- 2 Chronicles 2-3
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -49,15 +51,15 @@ The cubic perfection of the Most Holy Place -- twenty cubits in every dimension 
 
 **Old Testament Roots**
 
-The temple's design echoes the tabernacle (Exodus 25-31, 35-40) -- the same tripartite structure (outer court, holy place, most holy place), the same cherubim, the same gold. But the dimensions are amplified, the materials permanent rather than portable. The cherubim in the *devir* recall Genesis 3:24, where cherubim guard the way back to God's presence after the fall. The carved palm trees and flowers echo the garden imagery of Eden (Genesis 2:8-9). The seven-year construction mirrors the seven-day creation account (Genesis 1:1-2:3). David's preparation for the temple is recorded in 1 Chronicles 22 and 28-29, where he provides the plans and materials he was not permitted to build with.
+The temple's design echoes the tabernacle (Exodus 25-31, 35-40) -- the same tripartite structure (outer court, holy place, most holy place), the same cherubim, the same gold. But the dimensions are amplified, the materials permanent rather than portable. The cherubim in the *devir* recall Genesis 3:24, where cherubim guard the way back to God's presence after the fall. The carved palm trees and flowers echo the garden imagery of Eden (Genesis 2:8-9). The seven-year construction mirrors the seven-day creation account (Genesis 1:1-2:3). David's preparation for the temple is recorded in 1 Chronicles 22 and 28-29, where he provides the plans and materials he was not permitted to build with. The temple's garden imagery also looks ahead to Ezekiel 40-48, where the prophet envisions a restored temple with water flowing from its threshold -- a return to Eden's river.
 
 **New Testament Echoes**
 
-John 2:19-21 -- Jesus identifies his body as the true temple. John 1:14 -- the Word "tabernacles" among us (*eskenosen*). Ephesians 2:19-22 -- the church as a holy temple growing in the Lord. 1 Peter 2:4-5 -- believers as living stones built into a spiritual house. 1 Corinthians 3:16 -- "You are God's temple and God's Spirit dwells in you." Hebrews 9:11 -- Christ enters "the greater and more perfect tent, not made with hands." Revelation 21:16, 22 -- the cubic New Jerusalem whose temple is God himself.
+John 2:19-21 -- Jesus identifies his body as the true temple. John 1:14 -- the Word "tabernacles" among us (*eskenosen*). Ephesians 2:19-22 -- the church as a holy temple growing in the Lord. 1 Peter 2:4-5 -- believers as living stones built into a spiritual house. 1 Corinthians 3:16 -- "You are God's temple and God's Spirit dwells in you." Hebrews 9:11 -- Christ enters "the greater and more perfect tent, not made with hands." Revelation 21:16, 22 -- the cubic New Jerusalem whose temple is God himself. Revelation 8:1 -- the silence of heaven, which, like the silence of construction (6:7), signals the weight of divine activity by the absence of sound.
 
 **Parallel Passages**
 
-Compare 1 Kings 5-6 with 2 Chronicles 2-4, which provides additional details about the craftsmen, the bronze work, and the furnishings. Compare the temple's garden imagery with Ezekiel 40-48, where the prophet envisions a restored temple with water flowing from its threshold -- a return to Eden's river. Compare the silence of construction (6:7) with the silence of heaven in Revelation 8:1, another moment where the absence of sound signals the weight of divine activity.
+Compare 1 Kings 5-6 with 2 Chronicles 2-3, which provides additional details about the craftsmen and the building itself.
 
 ## Reflection Questions
 

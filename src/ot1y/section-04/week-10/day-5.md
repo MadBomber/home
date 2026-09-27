@@ -2,8 +2,8 @@
 week: 10
 day: 5
 title: "Sarah Will Bear a Son -- Abraham Laughs, and God Names the Boy Laughter"
-reading: "Genesis 17:15-27"
-parallel_passages: Romans 4:17-22, Hebrews 11:11-12, Matthew 1:1-2, Luke 1:36-37
+reading:
+- Genesis 17:15-27
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -50,15 +50,11 @@ The laughter itself carries Christological weight. Abraham laughs at the absurdi
 
 **Old Testament Roots**
 
-Sarah's promised motherhood connects to the broader biblical theme of barren women who become mothers of pivotal figures: Rebekah (Genesis 25:21), Rachel (Genesis 30:22), the mother of Samson (Judges 13:2-3), Hannah (1 Samuel 1:2), and the Shunammite woman (2 Kings 4:14-17). Each barren womb is a stage on which God demonstrates that the children who carry his purposes forward are gifts, not products of human fertility. The promise that "kings of peoples shall come from her" (17:16) will be fulfilled through the royal line of Judah -- David, Solomon, and ultimately Jesus, "the son of David, the son of Abraham" (Matthew 1:1).
+Sarah's promised motherhood connects to the broader biblical theme of barren women who become mothers of pivotal figures: Rebekah (Genesis 25:21), Rachel (Genesis 30:22), the mother of Samson (Judges 13:2-3), Hannah (1 Samuel 1:2), and the Shunammite woman (2 Kings 4:14-17). Each barren womb is a stage on which God demonstrates that the children who carry his purposes forward are gifts, not products of human fertility. The promise that "kings of peoples shall come from her" (17:16) will be fulfilled through the royal line of Judah -- David, Solomon, and ultimately Jesus, "the son of David, the son of Abraham" (Matthew 1:1). Isaiah 51:1-2 calls Israel to "look to Abraham your father and to Sarah who bore you; for he was but one when I called him, that I might bless him and multiply him." Isaiah 54:1 -- "Sing, O barren one, who did not bear" -- is applied by Paul to the church in Galatians 4:27, the community born of promise rather than flesh.
 
 **New Testament Echoes**
 
-Romans 4:17-22 describes Abraham's faith as trust in the God who "gives life to the dead and calls into existence the things that do not exist" -- language that applies equally to Isaac's birth and Christ's resurrection. Hebrews 11:11-12 credits Sarah herself with faith: "By faith Sarah herself received power to conceive, even when she was past the age, since she considered him faithful who had promised." Luke 1:36-37 -- the angel's announcement to Mary that the barren Elizabeth has conceived -- explicitly connects the impossible births of the Old Testament to the virgin birth: "For nothing will be impossible with God." Matthew 1:1-2 opens the genealogy of Jesus with "Abraham... the father of Isaac" -- the very line promised in Genesis 17.
-
-**Parallel Passages**
-
-Isaiah 51:1-2 calls Israel to "look to Abraham your father and to Sarah who bore you; for he was but one when I called him, that I might bless him and multiply him." Isaiah 54:1 -- "Sing, O barren one, who did not bear" -- is applied by Paul to the church in Galatians 4:27, the community born of promise rather than flesh. Romans 9:7-9 cites Isaac specifically: "Through Isaac shall your offspring be named... it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring."
+Romans 4:17-22 describes Abraham's faith as trust in the God who "gives life to the dead and calls into existence the things that do not exist" -- language that applies equally to Isaac's birth and Christ's resurrection. Hebrews 11:11-12 credits Sarah herself with faith: "By faith Sarah herself received power to conceive, even when she was past the age, since she considered him faithful who had promised." Luke 1:36-37 -- the angel's announcement to Mary that the barren Elizabeth has conceived -- explicitly connects the impossible births of the Old Testament to the virgin birth: "For nothing will be impossible with God." Matthew 1:1-2 opens the genealogy of Jesus with "Abraham... the father of Isaac" -- the very line promised in Genesis 17. Romans 9:7-9 cites Isaac specifically: "Through Isaac shall your offspring be named... it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring."
 
 ## Reflection Questions
 
@@ -70,4 +66,4 @@ Isaiah 51:1-2 calls Israel to "look to Abraham your father and to Sarah who bore
 
 ## Prayer
 
-Father, you are the God who makes ninety-year-old women laugh and then names the child after the laughter. You are the God who blesses Ishmael and covenants with Isaac, who is generous beyond measure and sovereign beyond question. We stand with Abraham in the dust, faces down, laughing at promises we cannot explain and obeying commands we do not fully understand. Forgive us when our laughter is the laughter of unbelief rather than the laughter of wonder. Teach us to trust the God who gives life to the dead -- who brought Isaac from a barren womb, who brought Jesus from a sealed tomb, and who brings new life from the deadness of our own hearts. We thank you that the line of promise runs from Abraham through Isaac through David to Jesus, and that by faith in Christ we are written into that line -- children of promise, born not of the flesh but of the Spirit, named not by our circumstances but by your covenant. In the name of Jesus, the son of Abraham, the seed of promise, the resurrection and the life. Amen.
+Father, you are the God who makes a ninety-nine-year-old man laugh and then names the child after the laughter. You are the God who blesses Ishmael and covenants with Isaac, who is generous beyond measure and sovereign beyond question. We stand with Abraham in the dust, faces down, laughing at promises we cannot explain and obeying commands we do not fully understand. Forgive us when our laughter is the laughter of unbelief rather than the laughter of wonder. Teach us to trust the God who gives life to the dead -- who brought Isaac from a barren womb, who brought Jesus from a sealed tomb, and who brings new life from the deadness of our own hearts. We thank you that the line of promise runs from Abraham through Isaac through David to Jesus, and that by faith in Christ we are written into that line -- children of promise, born not of the flesh but of the Spirit, named not by our circumstances but by your covenant. In the name of Jesus, the son of Abraham, the seed of promise, the resurrection and the life. Amen.

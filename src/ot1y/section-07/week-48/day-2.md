@@ -2,8 +2,8 @@
 week: 48
 day: 2
 title: "Night Visions -- Lampstands, Horsemen, and 'Not by Might, Nor by Power, but by My Spirit'"
-reading: "Zechariah 1:1-6:15"
-parallel_passages: Revelation 1:12-20, Revelation 5:6, John 15:26, Acts 1:8, Philippians 2:9-11
+reading:
+- Zechariah 1:1-6:15
 section: New Covenant
 tags:
 - covenant-7
@@ -18,7 +18,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Zechariah 1:1--6:15
+- Zechariah 1:1-6:15
 
 ## Historical Context
 
@@ -52,15 +52,11 @@ And at the center of it all, spoken to a governor hauling stones up a hill: "Not
 
 **Old Testament Roots**
 
-The "Branch" (*tsemach*) title connects to Isaiah 4:2 ("the branch of the LORD shall be beautiful and glorious"), Jeremiah 23:5 ("I will raise up for David a righteous Branch"), and Jeremiah 33:15. The golden lampstand echoes the tabernacle *menorah* of Exodus 25:31-40, which was to burn "continually" before the LORD. The horsemen patrolling the earth recall the divine council scenes of 1 Kings 22:19-23 and Job 1:6-7, where spiritual beings report to the LORD. The separation of priest and king that Zechariah's vision overturns was established in the Mosaic law and enforced dramatically in the case of Uzziah (2 Chronicles 26:16-21).
+The "Branch" (*tsemach*) title connects to Isaiah 4:2 ("the branch of the LORD shall be beautiful and glorious"), Jeremiah 23:5 ("I will raise up for David a righteous Branch"), and Jeremiah 33:15. The golden lampstand echoes the tabernacle *menorah* of Exodus 25:31-40, which was to burn "continually" before the LORD. The horsemen patrolling the earth recall the divine council scenes of 1 Kings 22:19-23 and Job 1:6-7, where spiritual beings report to the LORD. The separation of priest and king that Zechariah's vision overturns was established in the Mosaic law and enforced dramatically in the case of Uzziah (2 Chronicles 26:16-21). Psalm 110:4 declares: "You are a priest forever after the order of Melchizedek" -- the psalm Jesus cites to identify himself as the priest-king the Old Testament anticipates. Genesis 14:18-20 introduces Melchizedek as the original priest-king of Salem (Jerusalem). Isaiah 11:1-2 describes the Branch on whom "the Spirit of the LORD shall rest" -- the convergence of the Branch title and Spirit empowerment that Zechariah develops.
 
 **New Testament Echoes**
 
 Revelation 1:12-20 places Jesus among seven golden lampstands, drawing on Zechariah 4. Hebrews 5:5-10 and 7:1-28 identify Jesus as the priest-king "after the order of Melchizedek," the fulfillment of Zechariah 6:12-13. The exchange of filthy for clean garments (Zechariah 3:4) anticipates 2 Corinthians 5:21 and the "white robes" given to the saints in Revelation 7:14. Acts 1:8 and John 15:26 describe the Spirit's empowerment of the church -- the ongoing fulfillment of Zechariah 4:6.
-
-**Parallel Passages**
-
-Psalm 110:4 declares: "You are a priest forever after the order of Melchizedek" -- the psalm Jesus cites to identify himself as the priest-king the Old Testament anticipates. Genesis 14:18-20 introduces Melchizedek as the original priest-king of Salem (Jerusalem). Isaiah 11:1-2 describes the Branch on whom "the Spirit of the LORD shall rest" -- the convergence of the Branch title and Spirit empowerment that Zechariah develops.
 
 ## Reflection Questions
 

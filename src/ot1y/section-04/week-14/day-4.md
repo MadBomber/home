@@ -2,8 +2,8 @@
 week: 14
 day: 4
 title: "Jacob Flees Laban -- Stolen Gods, Confrontation, and the Covenant at Mizpah"
-reading: "Genesis 31:1-55"
-parallel_passages: 1 Corinthians 8:4-6, Isaiah 46:1-2, Colossians 2:15, Hebrews 13:5-6
+reading:
+- Genesis 30:25-31:55
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -17,11 +17,13 @@ study_slug: ot1y
 
 ## Reading
 
-- Genesis 31:1-55
+- Genesis 30:25-31:55
 
 ## Historical Context
 
-Twenty years have passed since Jacob arrived in Haran with nothing. He has accumulated wives, children, servants, and enormous flocks through a combination of hard labor and shrewd animal husbandry (Genesis 30:25-43). The breeding scheme involving peeled branches -- placing striped rods before the strongest animals at mating time -- reflects ancient pastoral beliefs about prenatal influence that were widespread in the Near East. Whatever the mechanism, the narrator credits the outcome to God: "Thus God has taken away the livestock of your father and given them to me" (Genesis 31:9). Jacob's prosperity is framed as divine provision, not merely human cunning.
+Twenty years have passed since Jacob arrived in Haran with nothing -- fourteen years of service for two wives and six for the flock (Genesis 31:41). The reading opens at the hinge between those two periods. As soon as Rachel has borne Joseph, Jacob asks Laban to send him home (Genesis 30:25-26). Laban stalls with a remarkable admission: "I have learned by divination that the LORD has blessed me because of you" (Genesis 30:27). The uncle who keeps household gods has worked out by omens what God promised Abraham in plain words -- that blessing would flow through the chosen family to those around it (Genesis 12:3). Jacob agrees to stay, but for wages of an unusual kind. He asks for no silver, only the off-colored animals: "every speckled and spotted sheep and every black lamb, and the spotted and speckled among the goats" (Genesis 30:32). Sheep in the region were ordinarily white and goats dark, so the terms seemed to hand Laban nearly the whole flock. Laban agrees at once -- and that same day removes every striped, spotted, and dark animal, puts them in the charge of his sons, and sets three days' journey between himself and Jacob (Genesis 30:35-36). The man who swapped a bride in the dark has rigged the contract before the work begins.
+
+Jacob answers trick with trick. He takes fresh branches of poplar, almond, and plane trees, peels white streaks into them -- *petsalot levanot* -- and sets them in the watering troughs where the flocks come to breed (Genesis 30:37-39). The narrator enjoys the wordplay: the poplar is *livneh*, the streaks are "white," and *Lavan*, Laban's own name, means "white." Jacob is beating Laban with his own name. He also breeds selectively, setting the rods before the stronger animals and withholding them from the weaker, "so the feebler would be Laban's, and the stronger Jacob's" (Genesis 30:42). The peeled rods reflect ancient pastoral beliefs about prenatal influence that were widespread in the Near East; the selective breeding, at least, is sound husbandry. By the end of the chapter "the man increased greatly and had large flocks, female servants and male servants, and camels and donkeys" (Genesis 30:43). But chapter 31 corrects any impression that Jacob's cleverness did the work. Laban "changed my wages ten times," Jacob tells his wives, "but God did not permit him to harm me" (Genesis 31:7). In a dream the angel of God showed him the real cause: "I have seen all that Laban is doing to you" (Genesis 31:12). Whatever the mechanism, the narrator credits the outcome to God: "Thus God has taken away the livestock of your father and given them to me" (Genesis 31:9). Jacob's prosperity is framed as divine provision, not merely human cunning.
 
 The tension between Jacob and Laban has reached a breaking point. Laban's sons accuse Jacob of stealing their father's wealth (Genesis 31:1), and Laban's own demeanor has shifted -- literally, "his face was not toward him as before" (Genesis 31:2). God intervenes directly, commanding Jacob to return to the land of his fathers (Genesis 31:3). The departure is clandestine. Jacob gathers his family and flocks and flees while Laban is away shearing sheep -- a task that took several days and would have taken Laban a significant distance from his home compound.
 
@@ -33,6 +35,8 @@ The chapter concludes with a covenant at Mizpah -- from the Hebrew *mitspah*, "w
 
 ## Christ in This Day
 
+Even Laban's grudging confession belongs to the larger story. "The LORD has blessed me because of you" (Genesis 30:27) is the promise of Genesis 12:3 at work in miniature -- blessing spilling over from the chosen family onto the household of an Aramean who keeps household gods. Paul names where that promise finally lands: "in Christ Jesus the blessing of Abraham" comes "to the Gentiles" (Galatians 3:14).
+
 The impotence of Laban's household gods -- stolen by a woman, hidden under a saddle, rendered unclean by menstrual contact, unable to reveal their own location or defend themselves -- stands in stark contrast to the God who appeared to Jacob unsought at Bethel and who now commands him to return home with sovereign authority. The theological polemic is sharp and anticipates the prophetic mockery of idols throughout the Old Testament. Isaiah will later taunt the gods of Babylon: "Bel bows down; Nebo stoops; their idols are on beasts and livestock; these things you carry are borne as burdens on weary beasts. They stoop; they bow down together; they cannot save the burden, but themselves go into captivity" (Isaiah 46:1-2). Gods that are carried rather than carrying, hidden rather than revealing, stolen rather than sovereign -- these are the gods of the nations. The God of Jacob is something else entirely: a God who speaks, who appears, who commands, who cannot be contained in a figurine or hidden in a saddle.
 
 Paul articulates the theological conclusion that the *teraphim* narrative implies: "We know that 'an idol has no real existence,' and that 'there is no God but one.' For although there may be so-called gods in heaven or on earth -- as indeed there are many 'gods' and many 'lords' -- yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist" (1 Corinthians 8:4-6). The contrast between the stolen, impotent *teraphim* and the sovereign, self-revealing God of Jacob reaches its climax in the incarnation: God does not sit passively in a saddle waiting to be found. He enters the world in person. Christ is the anti-idol -- not a representation of divinity crafted by human hands, but divinity itself taking on human flesh. Colossians 2:15 describes Christ's victory over the spiritual powers in language that echoes the humiliation of the *teraphim*: "He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him." The gods that Rachel sat on are a preview of every false power that Christ will publicly defeat.
@@ -42,22 +46,18 @@ The covenant at Mizpah -- a boundary between two deceivers who cannot trust each
 ## Key Themes
 
 - **The impotence of idols** -- Rachel's theft and concealment of the *teraphim* is a devastating narrative polemic against false gods. Deities that can be stolen, hidden, sat upon, and rendered ritually unclean are not deities at all. The episode exposes the absurdity of idolatry and contrasts it with the sovereign, self-revealing God who commands Jacob to return home.
-- **Providence through cunning** -- God's direction of Jacob's departure from Laban operates through dreams, animal husbandry, and clandestine flight. The divine purpose works through human agency -- even through the morally ambiguous agency of a deceiver fleeing another deceiver. God does not sanitize the means; he sovereignly directs the outcome.
+- **Providence through cunning** -- God's direction of Jacob's prosperity and departure operates through a rigged wage contract answered by peeled rods and selective breeding, through dreams, and through clandestine flight. The divine purpose works through human agency -- even through the morally ambiguous agency of a deceiver fleeing another deceiver. God does not sanitize the means; he sovereignly directs the outcome.
 - **The boundary as the limit of human trust** -- The Mizpah covenant is the best relationship two deceivers can achieve: not intimacy but distance, not trust but surveillance. It represents the ceiling of what broken human beings can manage on their own -- and sets the stage for the encounter at the Jabbok, where God will offer something far greater than a boundary.
 
 ## Connections
 
 **Old Testament Roots**
 
-The *teraphim* appear again in Judges 17-18, where they are associated with unauthorized Levitical worship and the corruption of the tribe of Dan. 1 Samuel 19:13 records Michal using a *teraphim* to deceive Saul's messengers -- another instance of household gods being manipulated by humans rather than serving any divine function. The prophetic critique of idols (Isaiah 44:9-20; Jeremiah 10:1-16) extends the logic of the Rachel episode into full-scale theological polemic.
+The *teraphim* appear again in Judges 17-18, where they are associated with unauthorized Levitical worship and the corruption of the tribe of Dan. 1 Samuel 19:13 records Michal using a *teraphim* to deceive Saul's messengers -- another instance of household gods being manipulated by humans rather than serving any divine function. The prophetic critique of idols (Isaiah 44:9-20; Jeremiah 10:1-16) extends the logic of the Rachel episode into full-scale theological polemic. Genesis 16:1-6 provides the earlier instance of household conflict involving surrogacy and flight. Genesis 26:26-31 records Isaac's covenant with Abimelech -- another boundary agreement between parties who distrust each other, though less bitter in tone than Mizpah. Exodus 20:3-4 -- "You shall have no other gods before me. You shall not make for yourself a carved image" -- codifies the principle that the *teraphim* narrative illustrates through story rather than law.
 
 **New Testament Echoes**
 
 1 Corinthians 8:4-6 declares that idols have no real existence and that there is one God and one Lord, Jesus Christ. Colossians 2:15 describes Christ's triumph over spiritual powers in language that parallels the humiliation of the *teraphim*. Acts 17:24-25 -- "The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, nor is he served by human hands, as though he needed anything" -- articulates the principle that Rachel's episode illustrates narratively. Hebrews 13:5-6 contrasts Mizpah's surveillance-based covenant with Christ's promise of permanent, loving presence.
-
-**Parallel Passages**
-
-Genesis 16:1-6 provides the earlier instance of household conflict involving surrogacy and flight. Genesis 26:26-31 records Isaac's covenant with Abimelech -- another boundary agreement between parties who distrust each other, though less bitter in tone than Mizpah. Exodus 20:3-4 -- "You shall have no other gods before me. You shall not make for yourself a carved image" -- codifies the principle that the *teraphim* narrative illustrates through story rather than law.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 6
 day: 3
 title: "But God Remembered Noah -- The Waters Recede, the Dove Returns"
-reading: "Genesis 8:1-12"
-parallel_passages: Exodus 2:24, Genesis 1:2, Luke 3:21-22, Romans 8:11, Isaiah 54:9-10
+reading:
+- Genesis 8:1-12
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -52,15 +52,11 @@ The incremental nature of the dove's three flights also illuminates the way God'
 
 **Old Testament Roots**
 
-The *zakar* of Genesis 8:1 establishes a pattern that will recur at every critical juncture of Israel's story. God remembers his covenant with Abraham when Israel cries out in Egypt (Exodus 2:24). God remembers Rachel in her barrenness (Genesis 30:22). God remembers Hannah (1 Samuel 1:19). In each case, the remembrance is not a cognitive event but a saving act -- the moment when divine faithfulness becomes visible. The *ruach* over the waters connects this passage to Genesis 1:2 and forward to Ezekiel 37, where the Spirit breathes on dry bones and they live. The re-creation pattern -- Spirit, water, new life -- is woven throughout the Old Testament.
+The *zakar* of Genesis 8:1 establishes a pattern that will recur at every critical juncture of Israel's story. God remembers his covenant with Abraham when Israel cries out in Egypt (Exodus 2:24). God remembers Rachel in her barrenness (Genesis 30:22). God remembers Hannah (1 Samuel 1:19). In each case, the remembrance is not a cognitive event but a saving act -- the moment when divine faithfulness becomes visible. The *ruach* over the waters connects this passage to Genesis 1:2 and forward to Ezekiel 37, where the Spirit breathes on dry bones and they live. The re-creation pattern -- Spirit, water, new life -- is woven throughout the Old Testament. Psalm 104:6-9 poetically describes God setting boundaries for the waters -- "You set a boundary that they may not pass, so that they might not again cover the earth" -- language that applies both to creation and to the post-flood restraint. Psalm 46:1-3 acknowledges the terror of waters that "roar and foam" while affirming that "God is our refuge and strength." The post-flood world is a world in which the waters are restrained by promise, and the promise is kept by the God who remembers.
 
 **New Testament Echoes**
 
 The descent of the Spirit "like a dove" at Jesus' baptism (Matthew 3:16, Mark 1:10, Luke 3:22, John 1:32) deliberately evokes the dove of Genesis 8. The connection is not ornamental. It is typological: Jesus' emergence from the water is the definitive re-creation event, the moment the new world begins in earnest. Romans 8:11 identifies the Spirit who raised Christ as the same Spirit who gives life to believers -- the *ruach* of Genesis 8 still at work, still driving back the waters of death, still bringing forth life from what appeared to be irreversible destruction. Isaiah 54:9-10, written centuries after the flood, explicitly invokes Noah's waters as a type of God's unbreakable covenant love: "This is like the days of Noah to me: as I swore that the waters of Noah should no more go over the earth, so I have sworn that I will not be angry with you."
-
-**Parallel Passages**
-
-Psalm 104:6-9 poetically describes God setting boundaries for the waters -- "You set a boundary that they may not pass, so that they might not again cover the earth" -- language that applies both to creation and to the post-flood restraint. Psalm 46:1-3 acknowledges the terror of waters that "roar and foam" while affirming that "God is our refuge and strength." The post-flood world is a world in which the waters are restrained by promise, and the promise is kept by the God who remembers.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 15
 day: 4
 title: "Pharaoh's Dreams -- From the Dungeon to the Throne Room"
-reading: "Genesis 41:1-40"
-parallel_passages: Daniel 2:27-30, Philippians 2:6-11, Acts 2:33, John 3:27
+reading:
+- Genesis 41:1-40
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -36,7 +36,7 @@ Joseph's self-emptying declaration before Pharaoh -- "It is not in me" (*bil'ada
 
 The recognition of the *ruach elohim* -- the Spirit of God -- in Joseph by a pagan ruler anticipates the universal scope of the Spirit's work that the New Testament will reveal. Pharaoh, who worships the gods of Egypt, nonetheless perceives something in Joseph that transcends human wisdom. "Can we find a man like this, in whom is the Spirit of God?" (41:38). The question is more profound than Pharaoh realizes. The Spirit of God in Joseph is not a general inspiration; it is the specific, personal presence of the God of Abraham, Isaac, and Jacob operating in a foreign court, through a prisoner, for the salvation of nations. The pattern anticipates Pentecost, where the Spirit will be poured out "on all flesh" (Acts 2:17) -- not confined to Israel, not restricted to the temple, but working wherever God sends his servants, including in places and through people the religious establishment would never expect. The Spirit that Pharaoh recognizes in Joseph is the same Spirit that will rest upon Jesus at his baptism (Matthew 3:16), empower his ministry, and after his ascension, fill the church.
 
-Joseph's emergence from the *bor* -- the pit, the prison, the place of death -- to stand before Pharaoh and receive authority over all Egypt is the narrative equivalent of resurrection and exaltation. He descends into darkness. He is forgotten. He is summoned out by a power beyond his own. And he is elevated to a position of authority that no one -- least of all his brothers -- could have anticipated. Peter's sermon at Pentecost describes Christ's exaltation in strikingly similar terms: "This Jesus God raised up, and of that we all are witnesses. Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing" (Acts 2:32-33). Joseph is raised from the *bor* and given authority over all Egypt to save the nations from famine. Christ is raised from the tomb and given authority over all creation to save the nations from death. The pit and the tomb are the same shape. The exaltation and the ascension are the same movement. And in both cases, the one who descends is the one through whom the many are saved.
+Joseph's emergence from the *bor* -- the pit, the prison, the place of death -- to stand before Pharaoh and receive authority over all Egypt is the narrative equivalent of resurrection and exaltation. He descends into darkness. He is forgotten. He is summoned out by a power beyond his own. And he is elevated to a position of authority that no one -- least of all his brothers -- could have anticipated. Peter's sermon at Pentecost describes Christ's exaltation in strikingly similar terms: "This Jesus God raised up, and of that we all are witnesses. Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing" (Acts 2:32-33). Joseph is raised from the *bor* and given authority over Pharaoh's house and people to save the land from famine. Christ is raised from the tomb and given authority over all creation to save the nations from death. The pit and the tomb are the same shape. The exaltation and the ascension are the same movement. And in both cases, the one who descends is the one through whom the many are saved.
 
 ## Key Themes
 
@@ -48,15 +48,11 @@ Joseph's emergence from the *bor* -- the pit, the prison, the place of death -- 
 
 **Old Testament Roots**
 
-Joseph's deflection -- "It is not in me; God will give Pharaoh a favorable answer" -- establishes a pattern that subsequent servants of God will follow. Daniel, standing before Nebuchadnezzar, will make the same move: "No wise men, enchanters, magicians, or astrologers can show to the king the mystery that the king has asked, but there is a God in heaven who reveals mysteries" (Daniel 2:27-28). The connection is deliberate: Daniel is a second Joseph, a Hebrew exile in a foreign court, interpreting dreams by divine revelation rather than human skill. The *ruach elohim* of Genesis 41:38 connects to the *ruach* that will empower the judges (Judges 3:10; 6:34), rest upon David (1 Samuel 16:13), and fill the prophets -- the same Spirit, progressively revealed through Israel's history.
+Joseph's deflection -- "It is not in me; God will give Pharaoh a favorable answer" -- establishes a pattern that subsequent servants of God will follow. Daniel, standing before Nebuchadnezzar, will make the same move: "No wise men, enchanters, magicians, or astrologers can show to the king the mystery that the king has asked, but there is a God in heaven who reveals mysteries" (Daniel 2:27-28). The connection is deliberate: Daniel is a second Joseph, a Hebrew exile in a foreign court, interpreting dreams by divine revelation rather than human skill. The *ruach elohim* of Genesis 41:38 connects to the *ruach* that will empower the judges (Judges 3:10; 6:34), rest upon David (1 Samuel 16:13), and fill the prophets -- the same Spirit, progressively revealed through Israel's history. Psalm 113:7-8 celebrates this pattern in worship: "He raises the poor from the dust and lifts the needy from the ash heap, to make them sit with princes." Isaiah 61:1 prophesies that the Spirit of the Lord will rest upon the anointed one to "proclaim liberty to the captives, and the opening of the prison to those who are bound" -- a prophecy Jesus claims as his own in Luke 4:18-21.
 
 **New Testament Echoes**
 
 Philippians 2:6-11 traces the pattern of self-emptying and exaltation that Joseph's life embodies: descent from glory, the form of a servant, humiliation, and then exaltation to the highest place. John 3:27 -- "A person cannot receive even one thing unless it is given him from heaven" -- echoes Joseph's insistence that interpretation belongs to God. Acts 2:33 describes Christ's exaltation to the right hand of God and the outpouring of the Spirit in terms that parallel Joseph's elevation and the recognition of the Spirit within him. The movement from dungeon to throne room in Genesis 41 is the Old Testament's most vivid enactment of the movement from tomb to throne that defines the gospel.
-
-**Parallel Passages**
-
-Daniel 2 presents a nearly identical narrative: a foreign king has a dream no one can interpret, and a Hebrew prisoner -- forgotten and marginalized -- is brought from obscurity to reveal God's purposes and is subsequently elevated to a position of authority. Psalm 113:7-8 celebrates this pattern in worship: "He raises the poor from the dust and lifts the needy from the ash heap, to make them sit with princes." Isaiah 61:1 prophesies that the Spirit of the Lord will rest upon the anointed one to "proclaim liberty to the captives, and the opening of the prison to those who are bound" -- a prophecy Jesus claims as his own in Luke 4:18-21.
 
 ## Reflection Questions
 

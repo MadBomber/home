@@ -2,8 +2,8 @@
 week: 33
 day: 3
 title: "Jonathan's Covenant, Saul's Jealousy, and David's Rising Fame"
-reading: "1 Samuel 18:1-30"
-parallel_passages: Philippians 2:5-8, John 3:29-30, Romans 8:31, Proverbs 27:4, John 15:13
+reading:
+- 1 Samuel 18:1-30
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -50,15 +50,11 @@ Meanwhile, Saul represents the opposite response -- the one who sees God's anoin
 
 **Old Testament Roots**
 
-Jonathan's covenant echoes the covenants of Genesis. As God made a covenant with Abraham by passing between the pieces (Genesis 15), Jonathan makes a covenant with David by giving away the symbols of his identity. The concept of *berith* -- binding agreement with personal cost -- is the backbone of Israel's theology. Jonathan's act also echoes Ruth's covenant speech to Naomi: "Where you go I will go" (Ruth 1:16). In both cases, covenant loyalty overrides self-interest and even family obligation.
+Jonathan's covenant echoes the covenants of Genesis. As God made a covenant with Abraham by passing between the pieces (Genesis 15), Jonathan makes a covenant with David by giving away the symbols of his identity. The concept of *berith* -- binding agreement with personal cost -- is the backbone of Israel's theology. Jonathan's act also echoes Ruth's covenant speech to Naomi: "Where you go I will go" (Ruth 1:16). In both cases, covenant loyalty overrides self-interest and even family obligation. Saul's jealousy repeats Cain's in Genesis 4:5-8 -- both men see God's favor on another, both burn with anger, both turn to violence.
 
 **New Testament Echoes**
 
 Philippians 2:5-8 -- Christ's self-emptying mirrors Jonathan's stripping off his royal garments. John 3:29-30 -- the Baptist's joy at decreasing so that Christ might increase. John 15:13 -- "Greater love has no one than this, that someone lay down his life for his friends." Jonathan does not literally die here, but he lays down his kingship, which is a form of dying to self. Romans 8:31 -- "If God is for us, who can be against us?" -- the question Saul's failure answers from the negative side: if God is with David, all of Saul's schemes will fail.
-
-**Parallel Passages**
-
-Compare Saul's jealousy with Cain's in Genesis 4:5-8 -- both men see God's favor on another, both burn with anger, both turn to violence. Compare Jonathan's covenant with the covenant between Ruth and Naomi (Ruth 1:16-17) -- both involve voluntary self-binding at personal cost, both are acts of loyalty that transcend natural obligation.
 
 ## Reflection Questions
 

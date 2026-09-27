@@ -2,8 +2,9 @@
 week: 46
 day: 5
 title: "The Grief of Exile and the Joy of Return -- Those Who Sow in Tears Shall Reap with Shouts of Joy"
-reading: "Psalm 137; Psalm 126"
-parallel_passages: Revelation 21:4, John 16:20-22, 2 Corinthians 4:17-18, Romans 8:18-25
+reading:
+- Psalm 137
+- Psalm 126
 section: New Covenant
 tags:
 - covenant-7
@@ -19,7 +20,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Psalm 137; Psalm 126
+- Psalm 137
+- Psalm 126
 
 ## Historical Context
 
@@ -55,15 +57,11 @@ The imprecatory rage of Psalm 137:8-9 -- the cry for justice against Babylon -- 
 
 **Old Testament Roots**
 
-Psalm 137 draws on the prophetic tradition of Babylon's judgment: Isaiah 13:1-22 and Jeremiah 50-51 pronounce extended oracles against Babylon, including the reversal of its cruelty. The image of weeping by the waters echoes the lament traditions of Jeremiah, often called "the weeping prophet" (Jeremiah 9:1; Lamentations 1-5). Psalm 126's streams in the Negev recall Isaiah 35:6-7, where the desert blooms at God's restoration: "waters break forth in the wilderness, and streams in the desert." The sowing-and-reaping metaphor connects to Hosea 10:12: "Sow for yourselves righteousness; reap steadfast love."
+Psalm 137 draws on the prophetic tradition of Babylon's judgment: Isaiah 13:1-22 and Jeremiah 50-51 pronounce extended oracles against Babylon, including the reversal of its cruelty. The image of weeping by the waters echoes the lament traditions of Jeremiah, often called "the weeping prophet" (Jeremiah 9:1; Lamentations 1-5). Psalm 126's streams in the Negev recall Isaiah 35:6-7, where the desert blooms at God's restoration: "waters break forth in the wilderness, and streams in the desert." The sowing-and-reaping metaphor connects to Hosea 10:12: "Sow for yourselves righteousness; reap steadfast love." Lamentations 5:21 -- "Restore us to yourself, O LORD, that we may be restored! Renew our days as of old" -- voices the same plea as Psalm 126:4. Isaiah 61:1-3 promises that God will "comfort all who mourn ... give them a beautiful headdress instead of ashes, the oil of gladness instead of mourning, the garment of praise instead of a faint spirit." Jeremiah 31:13 declares: "I will turn their mourning into joy; I will comfort them, and give them gladness for sorrow" -- the prophetic equivalent of Psalm 126:5.
 
 **New Testament Echoes**
 
 Jesus weeps over Jerusalem (Luke 19:41-44), entering the lament of Psalm 137 in his own person. His cry of dereliction from the cross (Matthew 27:46) is the ultimate "song of Zion" sung in the ultimate "foreign land" of God-forsakenness. John 16:20-22 explicitly promises the Psalm 126 pattern: "your sorrow will turn into joy." 2 Corinthians 4:17-18 reframes exile's suffering: "this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison." Romans 8:18-25 describes all of creation groaning in labor pains -- the cosmic version of sowing in tears -- waiting for the revelation of the sons of God. Revelation 21:4 is the final Psalm 126: every tear wiped away, every lyre unstrung from the willows, every silenced song restored.
-
-**Parallel Passages**
-
-Lamentations 5:21 -- "Restore us to yourself, O LORD, that we may be restored! Renew our days as of old" -- voices the same plea as Psalm 126:4. Isaiah 61:1-3 promises that God will "comfort all who mourn... give them a beautiful headdress instead of ashes, the oil of gladness instead of mourning, the garment of praise instead of a faint spirit." Jeremiah 31:13 declares: "I will turn their mourning into joy; I will comfort them, and give them gladness for sorrow" -- the prophetic equivalent of Psalm 126:5.
 
 ## Reflection Questions
 

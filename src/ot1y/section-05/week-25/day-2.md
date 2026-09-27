@@ -2,8 +2,8 @@
 week: 25
 day: 2
 title: "The Levites -- Guardians of the Holy"
-reading: "Numbers 3:1-4:49"
-parallel_passages: Hebrews 9:1-10, 1 Peter 2:5-9, Revelation 1:5-6
+reading:
+- Numbers 3:1-4:49
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +50,11 @@ Peter takes the Levitical vocation and applies it to the entire church: "You you
 
 **Old Testament Roots**
 
-The Levitical vocation of guarding (*shamar*) the sacred space echoes Adam's commission in Genesis 2:15 to "keep" the garden. After the fall, God stations cherubim at the entrance to Eden "to guard the way to the tree of life" (Genesis 3:24) -- the same guardianship the Levites now perform at the entrance to the tabernacle. The death of Nadab and Abihu (Leviticus 10:1-3) provides the backdrop: unauthorized approach to God's holiness is fatal. The substitution of Levites for firstborn reaches back to the Passover night (Exodus 13:1-2, 11-16), when the firstborn were claimed as belonging to God.
+The Levitical vocation of guarding (*shamar*) the sacred space echoes Adam's commission in Genesis 2:15 to "keep" the garden. After the fall, God stations cherubim at the entrance to Eden "to guard the way to the tree of life" (Genesis 3:24) -- the same guardianship the Levites now perform at the entrance to the tabernacle. The death of Nadab and Abihu (Leviticus 10:1-3) provides the backdrop: unauthorized approach to God's holiness is fatal. The substitution of Levites for firstborn reaches back to the Passover night (Exodus 13:1-2, 11-16), when the firstborn were claimed as belonging to God. 1 Chronicles 23:28-32 elaborates the Levitical duties in the later temple period, showing the continuity of their guardianship across centuries. Ezekiel 44:10-16 distinguishes between faithful and unfaithful Levites in the eschatological temple, demonstrating that the vocation of guarding the holy carries permanent significance.
 
 **New Testament Echoes**
 
 Hebrews 8:1-5 identifies the earthly tabernacle as a "copy and shadow" of the heavenly sanctuary where Christ ministers. Hebrews 9:11-12 declares that Christ entered "the greater and more perfect tent" not with the blood of animals but "through his own blood, thus securing an eternal redemption." 1 Peter 2:5-9 extends the priesthood to all believers. Revelation 1:5-6 and 5:10 proclaim that Christ has made his people "a kingdom and priests to our God."
-
-**Parallel Passages**
-
-1 Chronicles 23:28-32 elaborates the Levitical duties in the later temple period, showing the continuity of their guardianship across centuries. Ezekiel 44:10-16 distinguishes between faithful and unfaithful Levites in the eschatological temple, demonstrating that the vocation of guarding the holy carries permanent significance.
 
 ## Reflection Questions
 

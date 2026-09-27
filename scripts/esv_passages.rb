@@ -27,9 +27,11 @@
 #
 # Requires ESV_API_KEY in the environment. Free, non-commercial, from api.esv.org.
 
+require "date"
 require "json"
 require "net/http"
 require "uri"
+require "yaml"
 
 VERSE_CAP = 500
 
@@ -148,8 +150,12 @@ def blockquote(passage)
   HTML
 end
 
+# A key may hold one string ("Matthew 5:1-12; Luke 6:20-23") or a YAML list
+# with one reference per item; either way the caller gets "; "-joined text.
 def front_matter_value(content, key)
-  value = content[/^#{key}:[ ]*(.*)$/, 1].to_s.strip
+  front_matter = content[/\A---\n(.*?)\n---/m, 1].to_s
+  value = YAML.safe_load(front_matter, permitted_classes: [Date])&.dig(key)
+  value = Array(value).map { |ref| ref.to_s.strip }.reject(&:empty?).join("; ")
   value.empty? ? nil : value
 end
 

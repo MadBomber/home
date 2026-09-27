@@ -31,7 +31,7 @@ Then, before the tenth and final blow -- the death of every firstborn -- God did
 
 ## Discussion Questions
 
-### Day 1: "Let My People Go" (Exodus 5:1-6:13)
+### Day 1: "Let My People Go" (Exodus 5:1-6:30)
 
 1. **Things Get Worse First.** Moses delivers God's demand, and Pharaoh responds by stripping the slaves of straw while maintaining the same quota of bricks. The suffering increases *after* God intervenes, not before. The Israelites blame Moses: "You have made us stink in the sight of Pharaoh" (5:21). Have you experienced seasons where obedience to God made things worse before they got better? What does this pattern reveal about the difference between God's timing and ours?
 

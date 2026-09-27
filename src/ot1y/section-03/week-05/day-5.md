@@ -2,8 +2,8 @@
 week: 5
 day: 5
 title: "Noah, Daniel, and Job -- Individual Righteousness in a World Under Judgment"
-reading: "Ezekiel 14:12-20"
-parallel_passages: Romans 5:18-19, Isaiah 53:11, Hebrews 7:25, Ezekiel 36:26-27, James 5:16, Jeremiah 15:1
+reading:
+- Ezekiel 14:12-20
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -58,11 +58,7 @@ Ezekiel's oracle stands in dialogue with the intercessory tradition. Abraham bar
 
 **New Testament Echoes**
 
-Romans 5:18-19 directly addresses the transferability question Ezekiel raises: one man's obedience makes the many righteous. Isaiah 53:11 prophesies a Servant whose knowledge makes "many to be accounted righteous." Hebrews 7:25 describes Christ's perpetual intercession -- the answer to the limited intercession of the Old Testament. 1 Timothy 2:5 names the solution explicitly: "There is one mediator between God and men, the man Christ Jesus." James 5:16 affirms that "the prayer of a righteous person has great power" -- intercession is still real, but its ultimate efficacy rests on Christ.
-
-**Parallel Passages**
-
-Compare the fourfold judgment sequence of Ezekiel 14 (famine, beasts, sword, pestilence) with the four horsemen of Revelation 6 -- the same categories of divine judgment reappearing in eschatological context. Compare Noah, Daniel, and Job as exemplars of faithfulness with the "cloud of witnesses" in Hebrews 11 -- figures whose faith was real but who "did not receive what was promised, since God had provided something better" (Hebrews 11:39-40). Their stories are incomplete without Christ.
+Romans 5:18-19 directly addresses the transferability question Ezekiel raises: one man's obedience makes the many righteous. Isaiah 53:11 prophesies a Servant whose knowledge makes "many to be accounted righteous." Hebrews 7:25 describes Christ's perpetual intercession -- the answer to the limited intercession of the Old Testament. 1 Timothy 2:5 names the solution explicitly: "There is one mediator between God and men, the man Christ Jesus." James 5:16 affirms that "the prayer of a righteous person has great power" -- intercession is still real, but its ultimate efficacy rests on Christ. The fourfold judgment sequence of Ezekiel 14 (famine, beasts, sword, pestilence) reappears with the four horsemen of Revelation 6 -- the same categories of divine judgment in eschatological context. Noah, Daniel, and Job, as exemplars of faithfulness, belong with the "cloud of witnesses" in Hebrews 11 -- figures whose faith was real but who "did not receive what was promised, since God had provided something better" (Hebrews 11:39-40). Their stories are incomplete without Christ.
 
 ## Reflection Questions
 

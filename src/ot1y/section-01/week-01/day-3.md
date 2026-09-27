@@ -2,8 +2,10 @@
 week: 1
 day: 3
 title: "Day 6: Let Us Make Man in Our Image"
-reading: "Genesis 1:26-31"
-parallel_passages: John 1:1-3, Colossians 1:15-17, Philippians 2:5-8, Hebrews 2:5-9, James 3:9, Genesis 9:6
+reading:
+- Genesis 1:24-31
+parallel_passages:
+- Genesis 2:7-8
 section: Creation Covenant
 tags:
 - covenant-1
@@ -18,11 +20,15 @@ study_slug: ot1y
 
 ## Reading
 
-- Genesis 1:26-31
+- Genesis 1:24-31
 
 ## Historical Context
 
-Everything in Genesis 1 has been building to this moment. Five days of forming and filling -- light, sky, land, vegetation, luminaries, sea creatures, birds -- have constructed an elaborate stage. Now the audience is about to meet the lead actor. But before the act of creation occurs, something unprecedented happens: God pauses to deliberate.
+Everything in Genesis 1 has been building to this moment. Five days of forming and filling -- light, sky, land, vegetation, luminaries, sea creatures, birds -- have constructed an elaborate stage. Now the audience is about to meet the lead actor.
+
+Day 6 does not open with humanity, though. It opens with the land. "And God said, 'Let the earth bring forth living creatures according to their kinds -- livestock and creeping things and beasts of the earth according to their kinds.' And it was so" (1:24). The pattern is familiar: the dry land that appeared on Day 3 now receives its inhabitants, just as the sky and seas received theirs on Day 5. Livestock, creeping things, and wild beasts are each made "according to their kinds" -- a phrase repeated through both verses, the same ordered variety seen in the vegetation of Day 3 and the sea creatures and birds of Day 5. "And God saw that it was good" (1:25). The verdict is the one spoken over the earlier days. But the land animals share their day with the creature who will be given dominion over them (1:26). Humanity does not receive a day of its own. It is made on the same day as the cattle and the creeping things -- a quiet reminder that the image-bearer is also a creature, formed alongside the animals and, as Genesis 2:7 will say, from the dust of the same ground. What sets humanity apart is not a separate day but a different kind of word.
+
+And before that act of creation occurs, something unprecedented happens: God pauses to deliberate.
 
 "Then God said, 'Let us make man in our image, after our likeness'" (Genesis 1:26).
 
@@ -58,15 +64,15 @@ And the "very good" of Genesis 1:31 -- God's delight in a creation crowned by it
 
 **Old Testament Roots**
 
-Genesis 9:6 grounds the sanctity of human life in the image of God: "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." The image survives the fall. Psalm 8 is a meditation on Genesis 1:26-28, marveling at humanity's exalted position in creation. Genesis 5:1-3 uses the same language of image and likeness to describe the transmission of the *tselem* from Adam to Seth, establishing a theological bloodline that runs through the rest of Scripture.
+Genesis 9:6 grounds the sanctity of human life in the image of God: "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." The image survives the fall. Psalm 8 is a meditation on Genesis 1:26-28, marveling at humanity's exalted position in creation. Genesis 5:1-3 uses the same language of image and likeness to describe the transmission of the *tselem* from Adam to Seth, establishing a theological bloodline that runs through the rest of Scripture. The dominion mandate of Genesis 1:28 is distorted in Genesis 3:17-19 and restored in Hebrews 2:5-9.
 
 **New Testament Echoes**
 
-Colossians 1:15 identifies Christ as "the image of the invisible God" -- the perfect fulfillment of what Genesis 1:26 inaugurated. 2 Corinthians 3:18 describes believers being "transformed into the same image from one degree of glory to another" -- the restoration of the *tselem* through union with Christ. Hebrews 2:5-9 applies Psalm 8's dominion language to Jesus, the faithful image-bearer who succeeds where Adam failed. Philippians 2:5-8 describes Christ taking the form of a servant -- the image of God humbling himself to take on the likeness of the image-bearers he created. James 3:9 warns against cursing people "who are made in the likeness of God" -- a direct appeal to Genesis 1:26.
+Colossians 1:15 identifies Christ as "the image of the invisible God" -- the perfect fulfillment of what Genesis 1:26 inaugurated. 2 Corinthians 3:18 describes believers being "transformed into the same image from one degree of glory to another" -- the restoration of the *tselem* through union with Christ. Hebrews 2:5-9 applies Psalm 8's dominion language to Jesus, the faithful image-bearer who succeeds where Adam failed. Philippians 2:5-8 describes Christ taking the form of a servant -- the image of God humbling himself to take on the likeness of the image-bearers he created. James 3:9 warns against cursing people "who are made in the likeness of God" -- a direct appeal to Genesis 1:26. The "very good" of Genesis 1:31 finds its echo in the Father's "well pleased" at Jesus' baptism (Matthew 3:17).
 
 **Parallel Passages**
 
-Compare Genesis 1:26-28 with Genesis 2:7-8, where the creation of humanity is retold in intimate, ground-level detail. Compare the dominion mandate of Genesis 1:28 with its distortion in Genesis 3:17-19 and its restoration in Hebrews 2:5-9. Compare "very good" in Genesis 1:31 with "well pleased" in Matthew 3:17.
+Compare Genesis 1:26-28 with Genesis 2:7-8, where the creation of humanity is retold in intimate, ground-level detail.
 
 ## Reflection Questions
 

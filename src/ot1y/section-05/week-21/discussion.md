@@ -43,7 +43,7 @@ The tabernacle is not a building project. It is a theology of divine presence --
 
 4. **The Veil and the Cherubim.** The *parokhet* -- the inner veil -- is woven with cherubim in blue, purple, and scarlet yarn. The same guardians who stood at the entrance to Eden after the fall (Genesis 3:24) now appear embroidered into the barrier between the holy place and the Most Holy Place. The veil says what the cherubim said: the way back to God's presence is blocked. But it also says something else: the way exists. It is simply not yet open. How does this architectural detail connect the tabernacle to Eden? What does it mean that the exile from God's presence, which began in the garden, is physically expressed in every thread of this curtain?
 
-### Day 3: The Bronze Altar and the Priestly Garments (Exodus 27:1--28:43)
+### Day 3: The Bronze Altar and the Priestly Garments (Exodus 27:1-28:43)
 
 5. **Blood Before Beauty.** The bronze altar stands in the courtyard -- the first thing a worshiper encounters. Before the bread, before the lampstand, before the incense -- blood. The altar is made of bronze, not gold, because this is where the raw cost of approaching a holy God is measured in the lives of animals. Why does God require blood before access? What does the placement of the altar -- outside, unavoidable, first -- teach about the nature of worship?
 
@@ -55,7 +55,7 @@ The tabernacle is not a building project. It is a theology of divine presence --
 
 8. **"I Will Dwell Among the People of Israel."** The chapter of priestly consecration ends with God's climactic declaration: "I will dwell among the people of Israel and will be their God. And they shall know that I am the LORD their God, who brought them out of the land of Egypt that I might dwell among them" (Exodus 29:45-46). The purpose of the exodus is not freedom. It is not even the promised land. It is *this* -- God dwelling among his people. How does this reframe the entire story we have been reading? What was the exodus ultimately *for*?
 
-### Day 5: Incense, Anointing Oil, and the Sabbath (Exodus 30:1--31:18)
+### Day 5: Incense, Anointing Oil, and the Sabbath (Exodus 30:1-31:18)
 
 9. **The Altar of Incense.** The altar of incense stands inside the holy place, filling the sanctuary with fragrant smoke that rises continually before the LORD. The psalmist prays, "Let my prayer be counted as incense before you" (Psalm 141:2), and Revelation 8:3-4 describes the prayers of the saints rising with incense before God's throne. What does the image of incense teach about the nature of prayer? What does it mean that prayer has a fragrance, a rising quality, a persistence?
 

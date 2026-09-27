@@ -2,8 +2,10 @@
 week: 26
 day: 3
 title: "Meribah -- Moses Strikes the Rock, and the Consequence Is Final"
-reading: "Numbers 20:1-21:35"
-parallel_passages: 1 Corinthians 10:4, John 3:14-15, 1 Peter 3:18, Hebrews 3:1-6
+reading:
+- Numbers 20:1-21:35
+parallel_passages:
+- Deuteronomy 32:51
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -48,7 +50,7 @@ Moses' exclusion from the Promised Land because of his failure at Meribah carrie
 
 **Old Testament Roots**
 
-The rock at Meribah connects to the rock at Rephidim (Exodus 17:1-7), where God told Moses to strike the rock and water flowed. The bronze serpent reaches back to the serpent of Genesis 3, where the creature associated with the curse and the fall now becomes, by God's command, the instrument of deliverance. Moses' death outside the land echoes the pattern of the wilderness generation: the promise is real, but this generation -- even its leader -- will not see its fulfillment.
+The rock at Meribah connects to the rock at Rephidim (Exodus 17:1-7), where God told Moses to strike the rock and water flowed. The bronze serpent reaches back to the serpent of Genesis 3, where the creature associated with the curse and the fall now becomes, by God's command, the instrument of deliverance. Moses' death outside the land echoes the pattern of the wilderness generation: the promise is real, but this generation -- even its leader -- will not see its fulfillment. Psalm 95:8-11 warns against hardening the heart "as at Meribah" and connects the wilderness rebellion to the forfeiture of God's rest. 2 Kings 18:4 records that Hezekiah later destroyed the bronze serpent because Israel had turned it into an idol -- a warning that even God's good gifts can become objects of false worship when separated from the faith they were meant to evoke.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ The rock at Meribah connects to the rock at Rephidim (Exodus 17:1-7), where God 
 
 **Parallel Passages**
 
-Psalm 95:8-11 warns against hardening the heart "as at Meribah" and connects the wilderness rebellion to the forfeiture of God's rest. Deuteronomy 32:51 revisits Moses' sin at Meribah in Moses' own farewell. 2 Kings 18:4 records that Hezekiah later destroyed the bronze serpent because Israel had turned it into an idol -- a warning that even God's good gifts can become objects of false worship when separated from the faith they were meant to evoke.
+Deuteronomy 32:51 revisits Moses' sin at Meribah as God prepares Moses for his death: "you broke faith with me in the midst of the people of Israel at the waters of Meribah-kadesh."
 
 ## Reflection Questions
 

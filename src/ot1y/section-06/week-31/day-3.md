@@ -2,8 +2,10 @@
 week: 31
 day: 3
 title: "The Ark Captured, the Glory Departed, and the God Who Cannot Be Contained"
-reading: "1 Samuel 4:1-7:17"
-parallel_passages: John 2:19-21, Colossians 2:15, Romans 8:28, Psalm 78:56-66, 1 Corinthians 3:16-17
+reading:
+- 1 Samuel 4:1-7:17
+parallel_passages:
+- Psalm 78:56-66
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -20,7 +22,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 1 Samuel 4:1--7:17
+- 1 Samuel 4:1-7:17
 
 ## Historical Context
 
@@ -58,11 +60,11 @@ The ark narrative connects back to the ark's construction in Exodus 25:10-22 and
 
 **New Testament Echoes**
 
-Romans 3:25 identifies Christ as the *hilasterion* -- the mercy seat -- fulfilling the ark's typological function. Colossians 2:15 describes Christ's victory over the powers in terms that echo the ark's destruction of Dagon. John 2:19-21 identifies Christ's body as the true temple. Paul tells the Corinthian believers, "Do you not know that you are God's temple and that God's Spirit dwells in you?" (1 Corinthians 3:16) -- extending the presence theology of the ark to the community of faith. The Ebenezer stone anticipates Peter's identification of Christ as the "living stone" (1 Peter 2:4) on which the church is built.
+Romans 3:25 identifies Christ as the *hilasterion* -- the mercy seat -- fulfilling the ark's typological function. Colossians 2:15 describes Christ's victory over the powers in terms that echo the ark's destruction of Dagon. John 2:19-21 identifies Christ's body as the true temple. Paul tells the Corinthian believers, "Do you not know that you are God's temple and that God's Spirit dwells in you?" (1 Corinthians 3:16) -- extending the presence theology of the ark to the community of faith. The Ebenezer stone anticipates Peter's identification of Christ as the "living stone" (1 Peter 2:4) on which the church is built. The ark's sojourn among the Philistines (1 Samuel 5-6) also finds an echo in Christ's descent into Hades (1 Peter 3:18-22; Ephesians 4:8-10) -- both describe divine presence entering enemy territory and emerging victorious. Eli's death at the news of the ark's capture corresponds to the tearing of the temple veil at Christ's death (Matthew 27:51) -- both mark the end of an era of mediation. The Mizpah renewal (1 Samuel 7:3-6) and the Pentecost event (Acts 2:1-4) both involve corporate repentance followed by divine intervention.
 
 **Parallel Passages**
 
-Compare the ark's sojourn among the Philistines (1 Samuel 5-6) with Christ's descent into Hades (1 Peter 3:18-22; Ephesians 4:8-10) -- both describe divine presence entering enemy territory and emerging victorious. Compare Eli's death at the news of the ark's capture with the tearing of the temple veil at Christ's death (Matthew 27:51) -- both mark the end of an era of mediation. Compare the Mizpah renewal (1 Samuel 7:3-6) with the Pentecost event (Acts 2:1-4) -- both involve corporate repentance followed by divine intervention.
+Psalm 78:56-66 narrates the same events from the far side of them: Israel's unfaithfulness, the LORD's abandonment of Shiloh and surrender of the ark "to the hand of the foe" (Psalm 78:61), the priests who "fell by the sword" (Psalm 78:64), and then the Lord awaking "as from sleep" to put "his adversaries to rout" (Psalm 78:65-66).
 
 ## Reflection Questions
 

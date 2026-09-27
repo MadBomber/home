@@ -2,8 +2,10 @@
 week: 21
 day: 4
 title: "The Consecration of Priests"
-reading: "Exodus 29:1-46"
-parallel_passages: Hebrews 7:26-28, Hebrews 9:11-14, 1 John 2:1-2, Exodus 29:45-46
+reading:
+- Exodus 29:1-46
+parallel_passages:
+- Leviticus 8:1-36
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -53,7 +55,7 @@ The wave offering -- the filled hand -- anticipates one final reality. Aaron's h
 
 **Old Testament Roots**
 
-The washing of the priests echoes the cleansing motif that runs from the flood (Genesis 6-8) through the Red Sea crossing (Exodus 14). The clothing of Aaron recalls God's clothing of Adam and Eve (Genesis 3:21) -- both are acts of covering human insufficiency with divine provision. The blood on the right ear, thumb, and toe reappears in the cleansing ritual for healed lepers in Leviticus 14:14, connecting priestly consecration with the restoration of the outcast.
+The washing of the priests echoes the cleansing motif that runs from the flood (Genesis 6-8) through the Red Sea crossing (Exodus 14). The clothing of Aaron recalls God's clothing of Adam and Eve (Genesis 3:21) -- both are acts of covering human insufficiency with divine provision. The blood on the right ear, thumb, and toe reappears in the cleansing ritual for healed lepers in Leviticus 14:14, connecting priestly consecration with the restoration of the outcast. Leviticus 16:1-34 details the Day of Atonement -- the annual climax of the high priest's ministry. Isaiah 61:1-3 describes the anointing of the coming servant-priest, a passage Jesus applies to himself in Luke 4:18-21.
 
 **New Testament Echoes**
 
@@ -61,7 +63,7 @@ Hebrews 7:26-28 contrasts Aaron's priesthood with Christ's sinless, permanent pr
 
 **Parallel Passages**
 
-Leviticus 8:1-36 describes the actual execution of the consecration ritual commanded in Exodus 29. Leviticus 16:1-34 details the Day of Atonement -- the annual climax of the high priest's ministry. Isaiah 61:1-3 describes the anointing of the coming servant-priest, a passage Jesus applies to himself in Luke 4:18-21.
+Leviticus 8:1-36 describes the actual execution of the consecration ritual commanded in Exodus 29.
 
 ## Reflection Questions
 

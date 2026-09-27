@@ -2,8 +2,8 @@
 week: 8
 day: 3
 title: "The Tower of Babel -- Let Us Make a Name for Ourselves"
-reading: "Genesis 11:1-9"
-parallel_passages: Acts 2:1-12, Philippians 2:5-11, Revelation 7:9-10, Zephaniah 3:9, Isaiah 14:13-15
+reading:
+- Genesis 11:1-9
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -52,15 +52,11 @@ The prophet Zephaniah foresaw this reversal: "At that time I will change the spe
 
 **Old Testament Roots**
 
-The pattern of human reaching and divine coming down echoes throughout the Old Testament. Isaiah 14:13-15 describes the king of Babylon -- the spiritual heir of Babel's builders -- declaring, "I will ascend to heaven," only to be brought down to Sheol. The golden calf of Exodus 32 is another corporate project of self-made worship. The prophetic critique of human pride in Isaiah, Jeremiah, and Ezekiel repeatedly returns to the imagery of towers and cities built in defiance of God. Babel is the prototype of every human civilization that organizes itself around its own glory.
+The pattern of human reaching and divine coming down echoes throughout the Old Testament. Isaiah 14:13-15 describes the king of Babylon -- the spiritual heir of Babel's builders -- declaring, "I will ascend to heaven," only to be brought down to Sheol. The golden calf of Exodus 32 is another corporate project of self-made worship. The prophetic critique of human pride in Isaiah, Jeremiah, and Ezekiel repeatedly returns to the imagery of towers and cities built in defiance of God. Babel is the prototype of every human civilization that organizes itself around its own glory. Psalm 2 describes the nations conspiring against the LORD and his anointed -- "Let us burst their bonds apart" -- and the LORD's response is laughter. The pattern of Babel is repeated: human defiance meets divine sovereignty. Zephaniah 3:9 promises the restoration of a "pure speech" to the peoples, reversing the confusion of Genesis 11. Deuteronomy 32:8 attributes the division of the nations to the Most High's sovereign apportionment.
 
 **New Testament Echoes**
 
 Acts 2:1-12 is the definitive New Testament reversal of Babel. Philippians 2:5-11 contrasts the grasping of human ambition with the self-emptying of Christ, who receives the name above every name not by ascending but by descending to death. Revelation 17-18 describes the fall of "Babylon the great" -- the spiritual successor of the city begun on the plain of Shinar. And Revelation 7:9-10 shows the final gathering of what Babel scattered: every nation, tribe, people, and language united before the throne of the Lamb.
-
-**Parallel Passages**
-
-Psalm 2 describes the nations conspiring against the LORD and his anointed -- "Let us burst their bonds apart" -- and the LORD's response is laughter. The pattern of Babel is repeated: human defiance meets divine sovereignty. Zephaniah 3:9 promises the restoration of a "pure speech" to the peoples, reversing the confusion of Genesis 11. Deuteronomy 32:8 attributes the division of the nations to the Most High's sovereign apportionment.
 
 ## Reflection Questions
 

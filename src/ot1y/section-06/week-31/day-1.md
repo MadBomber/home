@@ -2,8 +2,8 @@
 week: 31
 day: 1
 title: "The Barren Woman's Prayer and a Song That Sees the King"
-reading: "1 Samuel 1:1-2:11"
-parallel_passages: Luke 1:46-55, Genesis 25:21, Genesis 30:22-23, Acts 2:36, Philippians 2:5-11
+reading:
+- 1 Samuel 1:1-2:11
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -19,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 1 Samuel 1:1--2:11
+- 1 Samuel 1:1-2:11
 
 ## Historical Context
 
@@ -27,9 +27,9 @@ The book of 1 Samuel opens in a world that has collapsed from within. The final 
 
 Hannah is one of two wives of Elkanah, a Levite from the hill country of Ephraim. The Hebrew text introduces her rival, Peninnah, with a word that carries spite: *tsarah*, which means "adversary" or "rival wife" but shares a root with *tsarah* ("distress, trouble"). Peninnah has children. Hannah has none. In the Ancient Near East, barrenness was not a private sorrow but a public verdict. A woman's status, security, and social identity were bound to her fertility. The closed womb was read as a sign of divine disfavor -- an interpretation the text itself will subvert, since the narrator tells us plainly that "the LORD had closed her womb" (1 Samuel 1:5-6). God is not absent from Hannah's suffering. He is sovereign over it.
 
-The setting is Shiloh, where the tabernacle has stood since the conquest. But the priesthood is in decay. Eli, the high priest, sits at the doorpost -- a detail that suggests age and passivity. His sons, Hophni and Phinehas, have turned the sacrificial system into an instrument of personal gain and sexual exploitation. The temple where Hannah prays is not a sanctuary of holiness; it is a place where the mediators have become the polluters. This matters because Hannah's prayer and the son it produces will begin the process that dismantles the old order and inaugurates the new.
+The setting is Shiloh, where the tabernacle has stood since the conquest. The narrator introduces its priesthood with a single, flat notice: "the two sons of Eli, Hophni and Phinehas, were priests of the LORD" there (1 Samuel 1:3). Eli himself sits "on the seat beside the doorpost of the temple of the LORD" (1 Samuel 1:9) -- a detail that suggests age and passivity. The priest is present at the threshold of the sanctuary, but as the scene unfolds he will prove unable to discern what is happening in front of him. This matters because Hannah's prayer and the son it produces will begin the process that dismantles the old order and inaugurates the new.
 
-Hannah's prayer is described with the Hebrew phrase *shaphak nephesh* -- "she poured out her soul" (1 Samuel 1:15). The verb *shaphak* is the same word used for pouring out a drink offering (*nesek*) on the altar (Genesis 35:14; Numbers 28:7). Her prayer is itself a kind of sacrifice -- not the controlled, ritualized offering of the Levitical system but an unmediated outpouring of the self before God. She prays silently, her lips moving without sound, a form so unusual that Eli mistakes her for a drunk. The irony is devastating: the priest cannot recognize genuine prayer when he sees it, because he has spent his ministry in the company of men who have turned worship into a transaction.
+Hannah's prayer is described with the Hebrew phrase *shaphak nephesh* -- "she poured out her soul" (1 Samuel 1:15). The verb *shaphak* is the same word used for pouring out a drink offering (*nesek*) on the altar (Genesis 35:14; Numbers 28:7). Her prayer is itself a kind of sacrifice -- not the controlled, ritualized offering of the Levitical system but an unmediated outpouring of the self before God. She prays silently, her lips moving without sound, a form so unusual that Eli mistakes her for a drunk. The irony is devastating: the priest cannot recognize genuine prayer when he sees it. "How long will you go on being drunk? Put your wine away from you" (1 Samuel 1:14). The man appointed to stand between Israel and God mistakes a woman pouring out her soul for a woman who has poured out too much wine.
 
 When God opens Hannah's womb, she names her son *Shemu'el* -- "heard by God" or "asked of God." The name itself is a theological statement: this child exists because God listened. And Hannah's vow -- to return the boy to the LORD for his entire life as a Nazirite (1 Samuel 1:11, 22, 28) -- establishes the paradox that will govern the rest of the story: what God gives, he gives to be given back, and the giving back multiplies the gift. Hannah's song of praise (1 Samuel 2:1-10) then explodes past her personal circumstances into the architecture of cosmic theology. She sings of a God who kills and makes alive, who brings down to Sheol and raises up, who makes the barren bear seven while the mother of many is feeble. And she ends with a word that has no referent in Israel's current reality: *mashiach* -- "anointed." Hannah speaks of a king before Israel has one. She sees what the elders of chapter 8 cannot.
 
@@ -57,11 +57,7 @@ Hannah's barrenness places her in a genealogy of barren women that stretches bac
 
 **New Testament Echoes**
 
-Mary's Magnificat (Luke 1:46-55) is the most direct echo of Hannah's song in the New Testament. Paul's hymn in Philippians 2:5-11 -- the Christ who emptied himself and was therefore exalted to the highest place -- follows the same logic of reversal that Hannah celebrates. Peter's declaration at Pentecost that "God has made him both Lord and Christ" (Acts 2:36) is the fulfillment of Hannah's final word. And the pattern of giving back what was given -- Hannah returning Samuel, the Father sending the Son -- governs the theology of John 3:16 and Romans 8:32: "He who did not spare his own Son but gave him up for us all."
-
-**Parallel Passages**
-
-Compare Hannah's song with the Magnificat (Luke 1:46-55) verse by verse to see the theological continuity. Compare the barren women of Genesis -- Sarah (Genesis 11:30), Rebekah (Genesis 25:21), Rachel (Genesis 30:22-23) -- with Hannah's story to trace the pattern of divine reversal through Israel's history. Compare Hannah's silent prayer with the wordless groaning of the Spirit in Romans 8:26: "The Spirit himself intercedes for us with groanings too deep for words."
+Mary's Magnificat (Luke 1:46-55) is the most direct echo of Hannah's song in the New Testament. Paul's hymn in Philippians 2:5-11 -- the Christ who emptied himself and was therefore exalted to the highest place -- follows the same logic of reversal that Hannah celebrates. Peter's declaration at Pentecost that "God has made him both Lord and Christ" (Acts 2:36) is the fulfillment of Hannah's final word. And the pattern of giving back what was given -- Hannah returning Samuel, the Father sending the Son -- governs the theology of John 3:16 and Romans 8:32: "He who did not spare his own Son but gave him up for us all." Hannah's silent prayer also anticipates the wordless groaning of the Spirit in Romans 8:26: "The Spirit himself intercedes for us with groanings too deep for words."
 
 ## Reflection Questions
 

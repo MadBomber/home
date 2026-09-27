@@ -2,8 +2,8 @@
 week: 33
 day: 2
 title: "David and Goliath -- Five Stones, One Name, and the Giant Falls on His Face"
-reading: "1 Samuel 17:1-58"
-parallel_passages: 1 Corinthians 1:25-29, 2 Corinthians 12:9-10, Hebrews 2:14-15, Colossians 2:15, Ephesians 6:10-17
+reading:
+- 1 Samuel 17:1-58
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -52,15 +52,11 @@ The detail that David takes Goliath's own sword to sever his head is worth linge
 
 **Old Testament Roots**
 
-The fear of giants paralyzed Israel once before. In Numbers 13:33, the spies at Kadesh Barnea reported, "We seemed to ourselves like grasshoppers" before the inhabitants of Canaan. That failure of nerve cost Israel forty years in the wilderness. Now, at the valley of Elah, the same fear has returned -- and the same question is posed: will Israel trust God's power or be defeated by the size of the opposition? David's faith is the answer the spies should have given. His victory is the conquest of Canaan in miniature -- the young man trusting God against giants when the older generation could not.
+The fear of giants paralyzed Israel once before. In Numbers 13:33, the spies at Kadesh Barnea reported, "We seemed to ourselves like grasshoppers" before the inhabitants of Canaan. That failure of nerve cost Israel forty years in the wilderness. Now, at the valley of Elah, the same fear has returned -- and the same question is posed: will Israel trust God's power or be defeated by the size of the opposition? David's faith is the answer the spies should have given. His victory is the conquest of Canaan in miniature -- the young man trusting God against giants when the older generation could not. David's confidence in God's deliverance (17:37, "The LORD who delivered me from the paw of the lion and from the paw of the bear will deliver me from the hand of this Philistine") anticipates Daniel's confidence before the lions' den (Daniel 6:22) and that of Shadrach, Meshach, and Abednego before the furnace (Daniel 3:17-18). The pattern is the same: past faithfulness as the ground for present trust.
 
 **New Testament Echoes**
 
 1 Corinthians 1:25-29 -- God chooses the weak and foolish to shame the strong and wise, the logic of the valley of Elah applied universally. Ephesians 6:10-17 -- the armor of God passage, where the believer's true equipment is not human weaponry but truth, righteousness, faith, salvation, and the word of God. Hebrews 2:14-15 -- Christ destroys the one who holds the power of death by entering death himself. 2 Corinthians 12:9-10 -- "My power is made perfect in weakness."
-
-**Parallel Passages**
-
-Compare David's confidence in God's deliverance (17:37, "The LORD who delivered me from the paw of the lion and from the paw of the bear will deliver me from the hand of this Philistine") with Daniel's confidence before the lions' den (Daniel 6:22) and Shadrach, Meshach, and Abednego before the furnace (Daniel 3:17-18). The pattern is the same: past faithfulness as the ground for present trust.
 
 ## Reflection Questions
 

@@ -2,8 +2,11 @@
 week: 41
 day: 3
 title: "Hezekiah's Faith -- Sennacherib's Siege and God's Deliverance"
-reading: "2 Kings 18:1-20:21"
-parallel_passages: Isaiah 36:1-39:8, 2 Chronicles 29:1-32:33, Psalm 46:1-11, Matthew 1:9-10
+reading:
+- 2 Kings 18:1-20:21
+parallel_passages:
+- Isaiah 36:1-39:8
+- 2 Chronicles 29:1-32:33
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -51,7 +54,7 @@ Hezekiah's illness and recovery -- "I have heard your prayer; I have seen your t
 
 **Old Testament Roots**
 
-Hezekiah's prayer echoes Moses' intercession after the golden calf (Exodus 32:11-14) and Solomon's prayer at the temple dedication (1 Kings 8:27-30) -- both prayers that appeal to God's own character and reputation rather than Israel's merit. The destruction of the Assyrian army recalls the destruction of Pharaoh's army at the Red Sea (Exodus 14:26-28): in both cases, the LORD fights for his people while they stand still. The angel of the LORD who strikes the Assyrians has appeared before -- to Abraham at Moriah (Genesis 22:11), to Israel in the pillar of cloud (Exodus 14:19), and to the commander Joshua at Jericho (Joshua 5:13-15).
+Hezekiah's prayer echoes Moses' intercession after the golden calf (Exodus 32:11-14) and Solomon's prayer at the temple dedication (1 Kings 8:27-30) -- both prayers that appeal to God's own character and reputation rather than Israel's merit. The destruction of the Assyrian army recalls the destruction of Pharaoh's army at the Red Sea (Exodus 14:26-28): in both cases, the LORD fights for his people while they stand still. The angel of the LORD who strikes the Assyrians has appeared before -- to Abraham at Moriah (Genesis 22:11), to Israel in the pillar of cloud (Exodus 14:19), and to the commander Joshua at Jericho (Joshua 5:13-15). Psalm 46 -- "God is our refuge and strength, a very present help in trouble" -- may reflect the deliverance of Jerusalem from Sennacherib, celebrating the truth that "the LORD of hosts is with us; the God of Jacob is our fortress."
 
 **New Testament Echoes**
 
@@ -59,7 +62,7 @@ Hezekiah appears in the genealogy of Jesus (Matthew 1:9-10), linking the king wh
 
 **Parallel Passages**
 
-Isaiah 36-39 provides a parallel and expanded account of the same events. 2 Chronicles 29-32 adds significant detail about Hezekiah's temple reforms. Psalm 46 -- "God is our refuge and strength, a very present help in trouble" -- may reflect the deliverance of Jerusalem from Sennacherib, celebrating the truth that "the LORD of hosts is with us; the God of Jacob is our fortress."
+Isaiah 36:1-39:8 provides a parallel and expanded account of the same events. 2 Chronicles 29:1-32:33 adds significant detail about Hezekiah's temple reforms.
 
 ## Reflection Questions
 

@@ -2,8 +2,10 @@
 week: 39
 day: 5
 title: "Ahab's Wars, Naboth's Vineyard, and the Death of a Wicked King"
-reading: "1 Kings 20:1-22:53"
-parallel_passages: 2 Chronicles 18:1-19:3, Luke 12:15-21, Acts 5:1-11, Revelation 6:15-17, Matthew 21:33-41
+reading:
+- 1 Kings 20:1-22:53
+parallel_passages:
+- 2 Chronicles 18:1-19:3
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -53,7 +55,7 @@ The arrow that finds Ahab despite his disguise is a parable of divine justice th
 
 **Old Testament Roots**
 
-Naboth's *nachalah* connects to the land distribution in Joshua 13-21 and the Jubilee laws of Leviticus 25, which prohibited the permanent sale of ancestral land. The *bene beliyya'al* who bear false witness against Naboth recall the same term used for the men of Gibeah in Judges 19:22 and for Eli's sons in 1 Samuel 2:12 -- worthless men who destroy the fabric of community. Micaiah's vision of Israel "scattered on the mountains, as sheep that have no shepherd" echoes Numbers 27:17, where Moses asks God to appoint a successor so Israel will not be "as sheep that have no shepherd." The prophetic verdict on Ahab's blood connects to Elijah's earlier confrontation in 21:19 and is fulfilled in 2 Kings 9:25-26.
+Naboth's *nachalah* connects to the land distribution in Joshua 13-21 and the Jubilee laws of Leviticus 25, which prohibited the permanent sale of ancestral land. The *bene beliyya'al* who bear false witness against Naboth recall the same term used for the men of Gibeah in Judges 19:22 and for Eli's sons in 1 Samuel 2:12 -- worthless men who destroy the fabric of community. Micaiah's vision of Israel "scattered on the mountains, as sheep that have no shepherd" echoes Numbers 27:17, where Moses asks God to appoint a successor so Israel will not be "as sheep that have no shepherd." The prophetic verdict on Ahab's blood connects to Elijah's earlier confrontation in 21:19 and is fulfilled in 2 Kings 9:25-26. Micaiah's vision of the heavenly council also invites comparison with Job 1:6-12, where Satan appears before God and receives permission to test Job. Both passages reveal that events on earth are connected to deliberations in heaven. Naboth's judicial murder resembles Susanna's story in the Additions to Daniel (Daniel 13 in Catholic and Orthodox canons) -- another righteous person falsely accused by corrupt elders.
 
 **New Testament Echoes**
 
@@ -61,7 +63,7 @@ Jesus' parable of the wicked tenants (Matthew 21:33-41) draws directly on the vi
 
 **Parallel Passages**
 
-2 Chronicles 18:1-19:3 provides the parallel account of the Ramoth-gilead battle, adding Jehu the seer's rebuke of Jehoshaphat for allying with Ahab. Compare Micaiah's vision of the heavenly council with Job 1:6-12, where Satan appears before God and receives permission to test Job. Both passages reveal that events on earth are connected to deliberations in heaven. Compare Naboth's judicial murder with Susanna's story in the Additions to Daniel (Daniel 13 in Catholic and Orthodox canons) -- another righteous person falsely accused by corrupt elders.
+2 Chronicles 18:1-19:3 provides the parallel account of the Ramoth-gilead battle, adding Jehu the seer's rebuke of Jehoshaphat for allying with Ahab.
 
 ## Reflection Questions
 

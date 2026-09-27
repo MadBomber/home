@@ -2,8 +2,8 @@
 week: 5
 day: 2
 title: "Noah Walks with God -- Blameless in His Generation, the Ark's Blueprint"
-reading: "Genesis 6:9-16"
-parallel_passages: Hebrews 11:7, John 10:9, 1 Peter 3:20-21, Ephesians 2:10, Genesis 5:24
+reading:
+- Genesis 6:9-16
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -54,15 +54,11 @@ And the ark has no rudder. Noah cannot steer it. He can only enter it and trust.
 
 **Old Testament Roots**
 
-Noah "walked with God" -- the same language used for Enoch (Genesis 5:24). Both men stand out in generations defined by decline. The *tevah* (ark) appears again only in Exodus 2:3, where it describes the basket carrying Moses through the Nile -- both vessels preserve a deliverer through water. The word *tamim* (blameless) will become the standard for sacrificial animals throughout Leviticus, linking Noah's character to the unblemished offerings that point toward Christ.
+Noah "walked with God" -- the same language used for Enoch (Genesis 5:24). Both men stand out in generations defined by decline. The *tevah* (ark) appears again only in Exodus 2:3, where it describes the basket carrying Moses through the Nile -- both vessels preserve a deliverer through water. The word *tamim* (blameless) will become the standard for sacrificial animals throughout Leviticus, linking Noah's character to the unblemished offerings that point toward Christ. Noah's walk with God finds its counterpart in Abraham's call in Genesis 17:1: "Walk before me, and be blameless" -- the same call, the same vocabulary, extended across the covenants. The *kopher* of the ark anticipates the blood on the doorposts at Passover (Exodus 12:7, 13) -- both are coverings that preserve life through judgment.
 
 **New Testament Echoes**
 
-Hebrews 11:7 identifies Noah's ark-building as an act of faith that condemned the world and secured righteousness. 1 Peter 3:20-21 explicitly reads the flood as a type of baptism -- the waters of judgment becoming the waters of salvation. John 10:9 echoes the single door of the ark: "I am the door." Ephesians 2:10 describes believers as God's "workmanship," created for good works God prepared in advance -- the same dynamic of divine design and human obedience seen in the ark's construction.
-
-**Parallel Passages**
-
-Compare the ark's one door with "the way, the truth, and the life" of John 14:6 -- singular, specific, designed by God. Compare Noah's walk with God to Abraham's walk in Genesis 17:1: "Walk before me, and be blameless" -- the same call, the same vocabulary, extended across the covenants. Compare the *kopher* of the ark with the blood on the doorposts at Passover (Exodus 12:7, 13) -- both are coverings that preserve life through judgment.
+Hebrews 11:7 identifies Noah's ark-building as an act of faith that condemned the world and secured righteousness. 1 Peter 3:20-21 explicitly reads the flood as a type of baptism -- the waters of judgment becoming the waters of salvation. John 10:9 echoes the single door of the ark: "I am the door." Ephesians 2:10 describes believers as God's "workmanship," created for good works God prepared in advance -- the same dynamic of divine design and human obedience seen in the ark's construction. The ark's one door anticipates "the way, and the truth, and the life" of John 14:6 -- singular, specific, designed by God.
 
 ## Reflection Questions
 

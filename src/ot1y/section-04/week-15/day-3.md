@@ -2,8 +2,10 @@
 week: 15
 day: 3
 title: "Prison -- Two Dreams, Two Fates, and the Forgotten Promise"
-reading: "Genesis 40:1-23"
-parallel_passages: Luke 23:39-43, Matthew 25:31-46, Isaiah 53:12, Genesis 8:1
+reading:
+- Genesis 40:1-23
+parallel_passages:
+- Psalm 105:18-19
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -28,7 +30,7 @@ The dreams of the cupbearer and baker follow the conventions of ancient Near Eas
 
 The two dreams are structurally parallel but opposite in outcome. The cupbearer sees a vine with three branches budding, blossoming, and producing grapes, which he presses into Pharaoh's cup. Joseph interprets: in three days, Pharaoh will "lift up your head" -- the Hebrew *yissa et roshekha* is deliberately ambiguous at first hearing -- and restore you to your position. The baker, encouraged by the favorable interpretation, shares his dream: three baskets of bread on his head, with birds eating from the top basket. Joseph interprets: in three days, Pharaoh will "lift up your head -- from you" -- *yissa et roshekha me'alekha* -- and hang you on a tree, and the birds will eat your flesh. The same phrase, *lift up your head*, means restoration for one and execution for the other. The wordplay is grimly precise, and the narrator confirms both outcomes: "On the third day, which was Pharaoh's birthday, he made a feast for all his servants and lifted up the head of the chief cupbearer and the head of the chief baker among his servants" (40:20). One is restored. One is hanged. Both on the third day.
 
-The chapter closes with a single devastating sentence: "Yet the chief cupbearer did not remember Joseph, but forgot him" (40:23). The Hebrew *zakar* -- "remember" -- is the same word used when "God remembered Noah" (Genesis 8:1) and when "God remembered Abraham" (Genesis 19:29). Divine remembering in Genesis is always an act of salvation -- God turns toward the one in peril and acts on their behalf. Human forgetting is its dark counterpart. The cupbearer's failure to remember Joseph is not mere absentmindedness; it is the opposite of what God does. Two full years of silence will follow this verse. The narrator offers no divine speech, no angelic visitation, no promise that relief is coming. Just prison. And waiting. And the *chesed* that the reader knows is present even when the text does not name it.
+The chapter closes with a single devastating sentence: "Yet the chief cupbearer did not remember Joseph, but forgot him" (40:23). The Hebrew *zakar* -- "remember" -- is the same word used when "God remembered Noah" (Genesis 8:1) and when "God remembered Abraham" (Genesis 19:29). Divine remembering in Genesis is always an act of salvation -- God turns toward the one in peril and acts on their behalf. Human forgetting is its dark counterpart. The cupbearer's failure to remember Joseph is not mere absentmindedness; it is the opposite of what God does. The chapter ends on that note of forgetting. The narrator offers no divine speech, no angelic visitation, no promise that relief is coming. Just prison. And waiting. And the *chesed* that the reader knows is present even when the text does not name it.
 
 ## Christ in This Day
 
@@ -42,13 +44,13 @@ Joseph's request to the cupbearer -- "Remember me, when it is well with you" (40
 
 - **"Do not interpretations belong to God?"** -- Joseph's question reorients the entire practice of dream interpretation from human skill to divine revelation. He positions himself not as the source of wisdom but as the instrument through whom God speaks. The shift from Genesis 37 -- where Joseph announced his own dreams -- to Genesis 40 -- where he interprets others' dreams and credits God -- marks a profound transformation forged in suffering.
 - **Two fates, one day** -- The cupbearer and the baker receive opposite outcomes on the same day: restoration and execution. The narrative places the righteous prisoner between two condemned men, establishing a structural pattern that will recur at the cross with theological precision.
-- **The forgotten promise** -- The cupbearer's failure to remember Joseph introduces the theme of human unfaithfulness set against the backdrop of divine *chesed*. The two years of silence that follow are sustained not by human memory but by the steadfast love of the LORD who has not forgotten.
+- **The forgotten promise** -- The cupbearer's failure to remember Joseph introduces the theme of human unfaithfulness set against the backdrop of divine *chesed*. The silence that follows is sustained not by human memory but by the steadfast love of the LORD who has not forgotten.
 
 ## Connections
 
 **Old Testament Roots**
 
-The *zakar* -- "remember" -- of Genesis 40:23 connects to the broader biblical theology of remembering. When God remembers Noah (Genesis 8:1), the floodwaters recede. When God remembers Abraham (Genesis 19:29), Lot is rescued from Sodom. When God remembers Rachel (Genesis 30:22), she conceives Joseph. Divine remembering is always an act of salvation. The cupbearer's failure to remember is the human inversion of this divine pattern -- and its consequences are measured in years of silence and imprisonment. The hanging of the baker "on a tree" (40:19) connects to the Deuteronomic pronouncement: "A hanged man is cursed by God" (Deuteronomy 21:23) -- a text Paul will apply to Christ's crucifixion in Galatians 3:13.
+The *zakar* -- "remember" -- of Genesis 40:23 connects to the broader biblical theology of remembering. When God remembers Noah (Genesis 8:1), the floodwaters recede. When God remembers Abraham (Genesis 19:29), Lot is rescued from Sodom. When God remembers Rachel (Genesis 30:22), she conceives Joseph. Divine remembering is always an act of salvation. The cupbearer's failure to remember is the human inversion of this divine pattern -- and its consequences are measured in years of silence and imprisonment. The hanging of the baker "on a tree" (40:19) connects to the Deuteronomic pronouncement: "A hanged man is cursed by God" (Deuteronomy 21:23) -- a text Paul will apply to Christ's crucifixion in Galatians 3:13. Isaiah 53:12 prophesies that the suffering servant would be "numbered with the transgressors" -- a description that fits both Joseph among the prisoners and Christ between the thieves. Daniel 2:27-28, where Daniel tells Nebuchadnezzar, "No wise men, enchanters, magicians, or astrologers can show to the king the mystery... but there is a God in heaven who reveals mysteries," echoes Joseph's deflection in Genesis 40:8.
 
 **New Testament Echoes**
 
@@ -64,8 +66,8 @@ Psalm 105:18-19 describes Joseph's imprisonment as a season of divine testing: "
 
 2. The cupbearer is restored; the baker is executed. Both outcomes are announced by the same person on the same day. How does the reality that the gospel is simultaneously a message of salvation and a message of judgment shape the way you share it?
 
-3. "Yet the chief cupbearer did not remember Joseph, but forgot him." Two years of silence followed. Have you experienced the pain of a forgotten promise? How does the knowledge that God never forgets -- that his *zakar* is perfect and permanent -- sustain you in the waiting?
+3. "Yet the chief cupbearer did not remember Joseph, but forgot him." Joseph was left in the prison with no word of when -- or whether -- relief would come. Have you experienced the pain of a forgotten promise? How does the knowledge that God never forgets -- that his *zakar* is perfect and permanent -- sustain you in the waiting?
 
 ## Prayer
 
-God of remembering, you are the one who remembered Noah in the flood and Abraham in Sodom and Rachel in her barrenness. You do not forget. You do not lose track. You do not allow the cries of your servants to fade into silence, even when human memory fails and human promises dissolve. We bring before you the places where we feel forgotten -- the unanswered prayers, the unfulfilled promises, the seasons of silence that stretch beyond what we thought we could bear. You were with Joseph in the prison. You showed him *chesed* when the cupbearer showed him nothing. Teach us to trust that the two years of silence are not wasted years but prepared years, that your timing is not our timing, and that the day of remembering will come -- because you are the God who remembers. In the name of Jesus, who said to the thief on the cross, "Today you will be with me in paradise," and who has never forgotten a single one who called on his name. Amen.
+God of remembering, you are the one who remembered Noah in the flood and Abraham in Sodom and Rachel in her barrenness. You do not forget. You do not lose track. You do not allow the cries of your servants to fade into silence, even when human memory fails and human promises dissolve. We bring before you the places where we feel forgotten -- the unanswered prayers, the unfulfilled promises, the seasons of silence that stretch beyond what we thought we could bear. You were with Joseph in the prison. You showed him *chesed* when the cupbearer showed him nothing. Teach us to trust that the seasons of silence are not wasted seasons but prepared seasons, that your timing is not our timing, and that the day of remembering will come -- because you are the God who remembers. In the name of Jesus, who said to the thief on the cross, "Today you will be with me in paradise," and who has never forgotten a single one who called on his name. Amen.

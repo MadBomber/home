@@ -37,19 +37,19 @@ This week we entered the world of the major prophets -- Isaiah, Jeremiah, Ezekie
 
 3. **The Coal on the Lips.** Before Isaiah is sent, a seraph touches his mouth with a burning coal: "Your guilt is taken away, and your sin atoned for" (6:7). Cleansing precedes commission. God does not send the unhealed to do his work. How does this pattern -- atonement before mission -- appear elsewhere in Scripture and in your own experience?
 
-### Day 2: Immanuel, the Child-King, and the Suffering Servant (Isaiah 7:1-12:6; 52:13-53:12)
+### Day 2: Immanuel, the Child-King, and the Suffering Servant (Isaiah 7:1-12:6; Isaiah 52:13-53:12)
 
 4. **Names That Break Categories.** The child of Isaiah 9:6 carries titles no human being could bear: "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace." This child sits on David's throne -- but is called Mighty God. How does this passage press the Davidic covenant to its breaking point? What kind of king is being described?
 
 5. **The Wound as the Cure.** Isaiah 53 says the servant is "pierced for our transgressions" and "crushed for our iniquities," and then adds the staggering declaration: "It was the will of the LORD to crush him" (53:10). The servant's suffering is not tragedy but strategy. How do you hold together the horror of what is described with the purposefulness behind it? What does it mean that God's plan to heal involved deliberate wounding?
 
-### Day 3: The Weeping Prophet and the New Covenant (Jeremiah 1:1-3:25; 31:31-34)
+### Day 3: The Weeping Prophet and the New Covenant (Jeremiah 1:1-3:25; Jeremiah 31:31-34)
 
 6. **Known Before Birth.** God tells Jeremiah, "Before I formed you in the womb I knew you, before you were born I consecrated you" (1:5). The prophet's calling precedes his existence. What does this say about divine initiative in calling and commissioning? How does it change the way you think about your own sense of purpose or vocation?
 
 7. **Stone to Flesh.** Jeremiah announces a covenant "not like" the one God made with the fathers (31:32). The old covenant was written on stone; the new will be written on hearts. External law will become internal reality. Why did the old covenant fail -- and what does Jeremiah's promise reveal about what God always intended?
 
-### Day 4: Glory in Exile (Ezekiel 1:1-3:27; 34:1-31)
+### Day 4: Glory in Exile (Ezekiel 1:1-3:27; Ezekiel 34:1-31)
 
 8. **The Portable Glory.** Ezekiel sees the *kavod* -- the glory of God -- not in the temple but by the Kebar canal in Babylon. The glory that filled Solomon's temple now appears among exiles in a foreign land. What does this vision say about where God can be found? What assumptions about God's presence does it shatter?
 

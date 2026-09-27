@@ -2,8 +2,8 @@
 week: 48
 day: 3
 title: "True Fasting, True Justice, and the Nations Drawn to Jerusalem"
-reading: "Zechariah 7:1-8:23"
-parallel_passages: Matthew 23:23, James 1:27, Isaiah 58:6-7, Micah 6:8, Acts 2:5-12
+reading:
+- Zechariah 7:1-8:23
 section: New Covenant
 tags:
 - covenant-7
@@ -18,7 +18,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Zechariah 7:1--8:23
+- Zechariah 7:1-8:23
 
 ## Historical Context
 
@@ -52,15 +52,11 @@ The fusion of ethical demand and eschatological hope in these chapters reflects 
 
 **Old Testament Roots**
 
-Isaiah 58:1-12 is the primary prophetic parallel: God rejects the fast that serves the self and demands the fast that serves the oppressed. Micah 6:8 condenses the prophetic ethic into a single verse: "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?" Amos 5:21-24 delivers the same verdict: "I hate, I despise your feasts... But let justice roll down like waters, and righteousness like an ever-flowing stream." The prophetic chorus is unanimous.
+Isaiah 58:1-12 is the primary prophetic parallel: God rejects the fast that serves the self and demands the fast that serves the oppressed. Micah 6:8 condenses the prophetic ethic into a single verse: "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?" Amos 5:21-24 delivers the same verdict: "I hate, I despise your feasts... But let justice roll down like waters, and righteousness like an ever-flowing stream." The prophetic chorus is unanimous. Hosea 6:6 -- "I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings" -- is a verse Jesus quotes twice (Matthew 9:13; 12:7). Samuel told Saul the same thing, "to obey is better than sacrifice" (1 Samuel 15:22), and David confessed it: "The sacrifices of God are a broken spirit" (Psalm 51:17).
 
 **New Testament Echoes**
 
 Matthew 23:23 applies Zechariah's principle directly: Jesus names justice, mercy, and faithfulness as "the weightier matters of the law." James 1:27 defines "pure religion" in terms Zechariah would recognize: "to visit orphans and widows in their affliction, and to keep oneself unstained from the world." Acts 2:5-12 fulfills the vision of the nations gathering in Jerusalem, drawn by the Spirit's manifest presence. Romans 2:28-29 redefines the markers of God's people: "A Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit."
-
-**Parallel Passages**
-
-Hosea 6:6 -- "I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings" -- a verse Jesus quotes twice (Matthew 9:13, 12:7). 1 Samuel 15:22 -- "To obey is better than sacrifice." Psalm 51:16-17 -- "You will not delight in burnt offering. The sacrifices of God are a broken spirit." The entire Old Testament insists that God values the heart behind the form.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 2
 day: 2
 title: "Dust, Breath, Garden, Vocation, and the One Boundary"
-reading: "Genesis 2:4-17"
-parallel_passages: John 20:22, John 15:1-5, John 10:10, 1 Corinthians 15:45-49, Romans 5:12-21, Ezekiel 37:5-10
+reading:
+- Genesis 2:4-17
 section: Creation Covenant
 tags:
 - covenant-1
@@ -61,15 +61,11 @@ The one boundary -- "you shall not eat" -- is the hinge on which the entire stor
 
 **Old Testament Roots**
 
-Isaiah 64:8 echoes the potter imagery: "But now, O LORD, you are our Father; we are the clay, and you are our potter; we are all the work of your hand." Jeremiah 18:1-6 develops the same metaphor for God's sovereign reshaping of Israel. Ezekiel 37:5-10 extends the breath motif: God breathes life into dry bones and a dead nation rises. The pattern of Genesis 2:7 -- breath into lifeless material producing life -- is the pattern of every divine rescue in Scripture.
+Isaiah 64:8 echoes the potter imagery: "But now, O LORD, you are our Father; we are the clay, and you are our potter; we are all the work of your hand." Jeremiah 18:1-6 develops the same metaphor for God's sovereign reshaping of Israel. Ezekiel 37:5-10 extends the breath motif: God breathes life into dry bones and a dead nation rises. The pattern of Genesis 2:7 -- breath into lifeless material producing life -- is the pattern of every divine rescue in Scripture. Genesis 3:19 ("for you are dust, and to dust you shall return") shows the breath given in creation taken in death. Adam's placement in the garden (Genesis 2:15) is matched by Israel's placement in the Promised Land (Deuteronomy 8:7-10) -- the same pattern of gift, vocation, and boundary.
 
 **New Testament Echoes**
 
-John 20:22 -- the risen Christ breathes the Holy Spirit onto his disciples, echoing Genesis 2:7. 1 Corinthians 15:45-49 -- Adam as the first man from dust; Christ as the last Adam, the life-giving Spirit. Romans 5:12-21 -- Adam's disobedience and Christ's obedience as parallel acts with opposite consequences. John 14:2-3 -- Christ prepares a place, as God prepared the garden. Hebrews 8:1-2 -- Christ as the true priest, fulfilling Adam's *abad*/*shamar* vocation.
-
-**Parallel Passages**
-
-Compare Genesis 2:7 with Genesis 3:19 ("for you are dust, and to dust you shall return") -- the breath given in creation will be taken in death. Compare Adam's placement in the garden (Genesis 2:15) with Israel's placement in the Promised Land (Deuteronomy 8:7-10) -- the same pattern of gift, vocation, and boundary. Compare the tree of life in Genesis 2:9 with the tree of life in Revelation 22:2 -- the tree that was guarded at the fall will be freely available in the new creation.
+John 20:22 -- the risen Christ breathes the Holy Spirit onto his disciples, echoing Genesis 2:7. 1 Corinthians 15:45-49 -- Adam as the first man from dust; Christ as the last Adam, the life-giving Spirit. Romans 5:12-21 -- Adam's disobedience and Christ's obedience as parallel acts with opposite consequences. John 14:2-3 -- Christ prepares a place, as God prepared the garden. Hebrews 8:1-2 -- Christ as the true priest, fulfilling Adam's *abad*/*shamar* vocation. The tree of life in Genesis 2:9 reappears in Revelation 22:2 -- the tree that was guarded at the fall will be freely available in the new creation.
 
 ## Reflection Questions
 

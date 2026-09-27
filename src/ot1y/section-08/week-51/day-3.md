@@ -2,8 +2,9 @@
 week: 51
 day: 3
 title: "The Anointed One Cut Off and the Resurrection of the Dead"
-reading: "Daniel 9:20-27; 12:1-13"
-parallel_passages: Mark 8:31, Luke 24:25-27, 1 Corinthians 15:20-23, John 5:28-29
+reading:
+- Daniel 9:20-27
+- Daniel 12:1-13
 section: Consummation
 tags:
 - covenant-8
@@ -17,7 +18,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Daniel 9:20-27; 12:1-13
+- Daniel 9:20-27
+- Daniel 12:1-13
 
 ## Historical Context
 
@@ -51,15 +53,11 @@ Daniel 12:2 provides the Old Testament foundation for the bodily resurrection th
 
 **Old Testament Roots**
 
-The "cutting off" of the anointed one echoes the covenant-curse language of Genesis 17:14 and Leviticus 7:20 -- exclusion from the covenant community through death. Isaiah 53:8 uses the same verb to describe the Servant's death. The resurrection of Daniel 12:2 fulfills the hope expressed in Job 19:25-27 ("I know that my Redeemer lives... and after my skin has been thus destroyed, yet in my flesh I shall see God") and Isaiah 26:19 ("Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy"). The "dust" of Daniel 12:2 deliberately echoes Genesis 2:7 (formed from dust) and Genesis 3:19 (returning to dust).
+The "cutting off" of the anointed one echoes the covenant-curse language of Genesis 17:14 and Leviticus 7:20 -- exclusion from the covenant community through death. Isaiah 53:8 uses the same verb to describe the Servant's death. The resurrection of Daniel 12:2 fulfills the hope expressed in Job 19:25-27 ("I know that my Redeemer lives... and after my skin has been thus destroyed, yet in my flesh I shall see God") and Isaiah 26:19 ("Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy"). The "dust" of Daniel 12:2 deliberately echoes Genesis 2:7 (formed from dust) and Genesis 3:19 (returning to dust). Psalm 22 portrays the righteous sufferer abandoned by God yet vindicated before the nations. Hosea 6:2 hopes in the same terms: "After two days he will revive us; on the third day he will raise us up." Ezekiel 37:1-14, the valley of dry bones, shows God breathing life into the dead.
 
 **New Testament Echoes**
 
 Luke 24:25-27 records the risen Jesus explaining to the Emmaus disciples that "the Christ should suffer these things and enter into his glory," interpreting "Moses and all the Prophets" -- a category that includes Daniel. John 5:28-29 directly echoes Daniel 12:2: "An hour is coming when all who are in the tombs will hear his voice and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment." Acts 3:18 declares that "what God foretold by the mouth of all the prophets, that his Christ would suffer, he thus fulfilled."
-
-**Parallel Passages**
-
-Isaiah 53:1-12 -- the Suffering Servant cut off from the land of the living. Psalm 22:1-31 -- the righteous sufferer abandoned by God yet vindicated before the nations. Hosea 6:2 -- "After two days he will revive us; on the third day he will raise us up." Ezekiel 37:1-14 -- the valley of dry bones, where God breathes life into the dead.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 10
 day: 4
 title: "I Am God Almighty -- Abram Becomes Abraham, Circumcision Instituted"
-reading: "Genesis 17:1-14"
-parallel_passages: Romans 4:9-12, Colossians 2:11-12, Philippians 3:3, Deuteronomy 10:16
+reading:
+- Genesis 17:1-14
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -49,15 +49,11 @@ The name change from Abram to Abraham also points forward to Christ. In the bibl
 
 **Old Testament Roots**
 
-The command to "walk before me and be blameless" echoes the descriptions of Enoch (Genesis 5:22-24) and Noah (Genesis 6:9), establishing a line of faithful walkers with God. Circumcision as covenant sign will become central to Israelite identity -- so central that the uncircumcised are excluded from Passover (Exodus 12:48) and the term "uncircumcised" becomes a synonym for "outsider" (1 Samuel 17:26). Yet the prophets will insist that the physical sign is worthless without the inward reality: "Circumcise yourselves to the LORD; remove the foreskin of your hearts" (Jeremiah 4:4; cf. Deuteronomy 10:16; 30:6). The sign always pointed beyond itself to a transformation of the heart.
+The command to "walk before me and be blameless" echoes the descriptions of Enoch (Genesis 5:22-24) and Noah (Genesis 6:9), establishing a line of faithful walkers with God. Circumcision as covenant sign will become central to Israelite identity -- so central that the uncircumcised are excluded from Passover (Exodus 12:48) and the term "uncircumcised" becomes a synonym for "outsider" (1 Samuel 17:26). Yet the prophets will insist that the physical sign is worthless without the inward reality: "Circumcise yourselves to the LORD; remove the foreskin of your hearts" (Jeremiah 4:4; cf. Deuteronomy 10:16; 30:6). The sign always pointed beyond itself to a transformation of the heart. Ezekiel 36:26-27 promises a "new heart" and a "new spirit" -- the fulfillment of what circumcision foreshadowed.
 
 **New Testament Echoes**
 
-Romans 4:9-12 uses the chronology of Genesis 15-17 to prove that justification by faith precedes and grounds all covenant signs. Colossians 2:11-12 identifies Christian baptism as the fulfillment of circumcision -- a "circumcision made without hands." Philippians 3:3 declares that "we are the circumcision, who worship by the Spirit of God and glory in Christ Jesus and put no confidence in the flesh." Galatians 5:6 states that "in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love" -- the principle of Genesis 15:6 carried to its logical conclusion.
-
-**Parallel Passages**
-
-Deuteronomy 10:16 and 30:6 call for "circumcision of the heart" -- the inward reality the outward sign was always meant to signify. Ezekiel 36:26-27 promises a "new heart" and a "new spirit" -- the fulfillment of what circumcision foreshadowed. Romans 2:28-29 makes the distinction explicit: "No one is a Jew who is merely one outwardly, nor is circumcision merely outward and physical. But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter."
+Romans 4:9-12 uses the chronology of Genesis 15-17 to prove that justification by faith precedes and grounds all covenant signs. Colossians 2:11-12 identifies Christian baptism as the fulfillment of circumcision -- a "circumcision made without hands." Philippians 3:3 declares that "we are the circumcision, who worship by the Spirit of God and glory in Christ Jesus and put no confidence in the flesh." Galatians 5:6 states that "in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love" -- the principle of Genesis 15:6 carried to its logical conclusion. Romans 2:28-29 makes the distinction explicit: "No one is a Jew who is merely one outwardly, nor is circumcision merely outward and physical. But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter."
 
 ## Reflection Questions
 

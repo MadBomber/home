@@ -2,8 +2,8 @@
 week: 40
 day: 3
 title: "Naaman the Syrian -- A Pagan Commander Washed Clean"
-reading: "2 Kings 5:1-6:23"
-parallel_passages: Luke 4:24-30, Mark 1:40-45, Acts 10:1-48, Romans 10:12-13
+reading:
+- 2 Kings 5:1-6:23
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -20,7 +20,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 2 Kings 5:1--6:23
+- 2 Kings 5:1-6:23
 
 ## Historical Context
 
@@ -56,11 +56,7 @@ Naaman's leprosy and cleansing connect to the extensive purity laws of Leviticus
 
 **New Testament Echoes**
 
-Luke 4:24-30 -- Jesus' citation of Naaman in the Nazareth sermon, provoking violent rejection. Mark 1:40-45 -- Jesus touches a leper and cleanses him, fulfilling what Elisha accomplished at a distance. Acts 10:1-48 -- Cornelius the centurion, another Gentile military commander who encounters God's grace. Romans 10:12-13 -- "There is no distinction between Jew and Greek." Matthew 18:3 -- becoming like children, echoing Naaman's childlike flesh. Galatians 3:28 -- "There is neither Jew nor Greek... for you are all one in Christ Jesus."
-
-**Parallel Passages**
-
-Compare Naaman's journey to the Jordan (2 Kings 5) with the Ethiopian eunuch's encounter with Philip at the water (Acts 8:26-39) -- both are powerful foreigners, both encounter the word of God through an unlikely messenger, both descend into water and emerge transformed. Compare the chariots of fire at Dothan (2 Kings 6:17) with the angelic hosts at Christ's birth (Luke 2:13-14) -- the invisible army revealed, not to bring war but to announce peace.
+Luke 4:24-30 -- Jesus' citation of Naaman in the Nazareth sermon, provoking violent rejection. Mark 1:40-45 -- Jesus touches a leper and cleanses him, fulfilling what Elisha accomplished at a distance. Acts 10:1-48 -- Cornelius the centurion, another Gentile military commander who encounters God's grace. Romans 10:12-13 -- "There is no distinction between Jew and Greek." Matthew 18:3 -- becoming like children, echoing Naaman's childlike flesh. Galatians 3:28 -- "There is neither Jew nor Greek... for you are all one in Christ Jesus." Acts 8:26-39 -- the Ethiopian eunuch's encounter with Philip at the water mirrors Naaman's journey to the Jordan: both are powerful foreigners, both encounter the word of God through an unlikely messenger, both descend into water and emerge transformed. Luke 2:13-14 -- the angelic hosts at Christ's birth recall the chariots of fire at Dothan (6:17), the invisible army revealed, not to bring war but to announce peace.
 
 ## Reflection Questions
 

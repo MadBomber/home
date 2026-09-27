@@ -2,8 +2,8 @@
 week: 28
 day: 1
 title: "Be Strong and Courageous -- Joshua Commissioned"
-reading: "Joshua 1:1-18"
-parallel_passages: Hebrews 4:8-11, Hebrews 13:5-6, Matthew 28:18-20, Deuteronomy 31:1-8
+reading:
+- Joshua 1:1-18
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,15 +49,11 @@ The fact that God commissions Joshua only after Moses' death carries its own Chr
 
 **Old Testament Roots**
 
-God's charge to Joshua echoes the charge Moses gave him publicly in Deuteronomy 31:7-8: "Be strong and courageous, for you shall go with this people into the land... It is the LORD who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed." The promise of divine presence reaches back further still -- to Jacob at Bethel ("Behold, I am with you," Genesis 28:15), to Moses at the burning bush ("I will be with you," Exodus 3:12), and forward to Jeremiah ("Do not be afraid of them, for I am with you to deliver you," Jeremiah 1:8). The commissioning language is covenantal shorthand: God pledges his presence to those he sends.
+God's charge to Joshua echoes the charge Moses gave him publicly in Deuteronomy 31:7-8: "Be strong and courageous, for you shall go with this people into the land... It is the LORD who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed." The promise of divine presence reaches back further still -- to Jacob at Bethel ("Behold, I am with you," Genesis 28:15), to Moses at the burning bush ("I will be with you," Exodus 3:12), and forward to Jeremiah ("Do not be afraid of them, for I am with you to deliver you," Jeremiah 1:8). The commissioning language is covenantal shorthand: God pledges his presence to those he sends. Numbers 27:18-23 describes the laying on of hands and the transfer of authority. Psalm 1:1-3 develops the theme of Torah meditation, using the same root *hagah* and the same promise of prosperity. Isaiah 41:10 extends the promise of presence and courage to exilic Israel: "Fear not, for I am with you; be not dismayed, for I am your God."
 
 **New Testament Echoes**
 
 Hebrews 4:8-11 uses Joshua's story to argue for a greater rest that Joshua could not provide. Matthew 28:18-20 echoes the commission structure -- authority, command, promised presence. Hebrews 13:5-6 applies the Deuteronomy/Joshua promise of presence directly to the church: "I will never leave you nor forsake you." Paul's exhortation in 1 Corinthians 16:13 -- "Be watchful, stand firm in the faith, act like men, be strong" -- carries the same verbal energy as the charge to Joshua, now directed to believers in Corinth.
-
-**Parallel Passages**
-
-Deuteronomy 31:1-8 records Moses' public commission of Joshua. Numbers 27:18-23 describes the laying on of hands and the transfer of authority. Psalm 1:1-3 develops the theme of Torah meditation, using the same root *hagah* and the same promise of prosperity. Isaiah 41:10 extends the promise of presence and courage to exilic Israel: "Fear not, for I am with you; be not dismayed, for I am your God."
 
 ## Reflection Questions
 

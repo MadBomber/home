@@ -2,8 +2,10 @@
 week: 41
 day: 4
 title: "Manasseh's Evil and Josiah's Reform -- The Book of the Law Rediscovered"
-reading: "2 Kings 21:1-23:30"
-parallel_passages: 2 Chronicles 33:1-35:27, Deuteronomy 31:9-13, Jeremiah 31:31-34, Matthew 23:29-39
+reading:
+- 2 Kings 21:1-23:30
+parallel_passages:
+- 2 Chronicles 33:1-35:27
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -53,7 +55,7 @@ Jeremiah, who prophesied during Josiah's reign and witnessed the failure of Josi
 
 **Old Testament Roots**
 
-Josiah's response to hearing the Law echoes the covenant ceremony at Sinai, where Moses "took the Book of the Covenant and read it in the hearing of the people" (Exodus 24:7). His reform recapitulates the instructions of Deuteronomy 12, which commands the destruction of every pagan shrine and the centralization of worship at the place the LORD chooses. The language of 2 Kings 23:25 -- "all his heart and all his soul and all his might" -- is a direct quotation of Deuteronomy 6:5, the Shema. Josiah is the king who finally lives the Shema, and even that is not enough.
+Josiah's response to hearing the Law echoes the covenant ceremony at Sinai, where Moses "took the Book of the Covenant and read it in the hearing of the people" (Exodus 24:7). His reform recapitulates the instructions of Deuteronomy 12, which commands the destruction of every pagan shrine and the centralization of worship at the place the LORD chooses. The language of 2 Kings 23:25 -- "all his heart and all his soul and all his might" -- is a direct quotation of Deuteronomy 6:5, the Shema. Josiah is the king who finally lives the Shema, and even that is not enough. Zephaniah 1:1-6 prophesies during Josiah's reign and exposes the depth of corruption his reform addressed.
 
 **New Testament Echoes**
 
@@ -61,7 +63,7 @@ Jesus quotes the Shema as the "greatest commandment" (Mark 12:29-30), affirming 
 
 **Parallel Passages**
 
-2 Chronicles 33:10-17 adds a remarkable detail absent from Kings: Manasseh repented during Assyrian captivity, prayed, and was restored to Jerusalem, where he removed some of the idols he had installed. If historical, this deepens the tragedy -- even Manasseh's personal repentance could not undo the institutional damage. 2 Chronicles 34-35 provides a more detailed account of Josiah's reform, including the celebration of Passover. Zephaniah 1:1-6 prophesies during Josiah's reign and exposes the depth of corruption his reform addressed.
+2 Chronicles 33:1-35:27 retells the reigns of Manasseh, Amon, and Josiah. 2 Chronicles 33:10-17 adds a remarkable detail absent from Kings: Manasseh repented during Assyrian captivity, prayed, and was restored to Jerusalem, where he removed some of the idols he had installed. If historical, this deepens the tragedy -- even Manasseh's personal repentance could not undo the institutional damage. 2 Chronicles 34-35 provides a more detailed account of Josiah's reform, including the celebration of Passover.
 
 ## Reflection Questions
 

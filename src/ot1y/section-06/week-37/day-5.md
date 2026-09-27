@@ -2,8 +2,10 @@
 week: 37
 day: 5
 title: "Sheba's Revolt, the Census, the Plague, and Araunah's Threshing Floor"
-reading: "2 Samuel 20:1-24:25"
-parallel_passages: 1 Corinthians 5:7, 2 Chronicles 3:1, Genesis 22:1-14, 1 Chronicles 21:1-30
+reading:
+- 2 Samuel 20:1-24:25
+parallel_passages:
+- 1 Chronicles 21:1-30
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,7 +50,7 @@ The threshing floor of Araunah becoming the site of Solomon's temple -- and trad
 
 **Old Testament Roots**
 
-Genesis 22:1-14 records Abraham's binding of Isaac on "one of the mountains" in the land of Moriah -- identified in 2 Chronicles 3:1 as the same site where Solomon builds the temple and, by extension, where David erected his altar. The destroying angel (*mal'akh hamashchit*) at the threshing floor recalls the destroying angel in Egypt (Exodus 12:23), who passed over the houses marked with blood. The connection between plague, sacrifice, and the cessation of divine wrath runs from Exodus through David to the prophets.
+Genesis 22:1-14 records Abraham's binding of Isaac on "one of the mountains" in the land of Moriah -- identified in 2 Chronicles 3:1 as the same site where Solomon builds the temple and, by extension, where David erected his altar. The destroying angel (*mal'akh hamashchit*) at the threshing floor recalls the destroying angel in Egypt (Exodus 12:23), who passed over the houses marked with blood. The connection between plague, sacrifice, and the cessation of divine wrath runs from Exodus through David to the prophets. Psalm 24, traditionally associated with the ark's arrival in Jerusalem, asks the question the threshing floor answers: "Who shall ascend the hill of the LORD? And who shall stand in his holy place? He who has clean hands and a pure heart" (Psalm 24:3-4).
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Genesis 22:1-14 records Abraham's binding of Isaac on "one of the mountains" in 
 
 **Parallel Passages**
 
-1 Chronicles 21:1-30 provides the parallel account of the census, the plague, and the purchase of the threshing floor, with the significant addition that "Satan" incites David. 2 Chronicles 3:1 explicitly identifies the threshing floor as the site of Solomon's temple on Mount Moriah. Psalm 24, traditionally associated with the ark's arrival in Jerusalem, asks the question the threshing floor answers: "Who shall ascend the hill of the LORD? And who shall stand in his holy place? He who has clean hands and a pure heart" (24:3-4).
+1 Chronicles 21:1-30 provides the parallel account of the census, the plague, and the purchase of the threshing floor, with the significant addition that "Satan" incites David.
 
 ## Reflection Questions
 

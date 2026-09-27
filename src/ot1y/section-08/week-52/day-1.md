@@ -2,8 +2,10 @@
 week: 52
 day: 1
 title: "New Heavens and a New Earth"
-reading: "Isaiah 65:17-25"
-parallel_passages: Revelation 21:1-5, 2 Peter 3:13, Romans 8:19-23, Isaiah 11:6-9
+reading:
+- Isaiah 65:17-25
+parallel_passages:
+- Isaiah 11:6-9
 section: Consummation
 tags:
 - covenant-8
@@ -20,11 +22,11 @@ study_slug: ot1y
 
 ## Historical Context
 
-Isaiah 65 belongs to the final section of the book (chapters 56--66), often called Third Isaiah by critical scholars, though the canonical text presents the entire prophecy as the unified vision of Isaiah ben Amoz. The immediate audience is a post-exilic community grappling with a devastating gap between promise and reality. They had returned from Babylon, yes -- but the second temple was a shadow of Solomon's glory, the land remained under Persian administration, and the sweeping promises of restoration in chapters 40--55 seemed stalled. The question pressing on the community was whether God's promises had failed or merely been delayed. Isaiah 65 answers with neither -- it leaps beyond any historical restoration to announce something no exile and no return could produce: a new cosmos.
+Isaiah 65 belongs to the final section of the book (chapters 56-66), often called Third Isaiah by critical scholars, though the canonical text presents the entire prophecy as the unified vision of Isaiah ben Amoz. The immediate audience is a post-exilic community grappling with a devastating gap between promise and reality. They had returned from Babylon, yes -- but the second temple was a shadow of Solomon's glory, the land remained under Persian administration, and the sweeping promises of restoration in chapters 40-55 seemed stalled. The question pressing on the community was whether God's promises had failed or merely been delayed. Isaiah 65 answers with neither -- it leaps beyond any historical restoration to announce something no exile and no return could produce: a new cosmos.
 
 The verb at the center of this passage is *bara* (Hebrew: בָּרָא), the same verb used in Genesis 1:1 for God's original act of creation. In the entire Old Testament, *bara* is reserved exclusively for divine activity -- it is never predicated of a human agent. When Isaiah deploys it here -- "For behold, I am creating (*bore*) new heavens and a new earth" -- the grammatical form is a participle, suggesting ongoing or imminent action. God is not merely promising a distant future. He is announcing what he is already setting in motion. The scope is cosmic: *shamayim chadashim ve'erets chadashah* -- new heavens and a new earth. Not a renovated Jerusalem. Not an improved political arrangement. A new creation.
 
-The description that follows in verses 18--25 is not abstract or otherworldly. It is intensely concrete. Infants do not die. The elderly live to fullness. Those who build houses inhabit them. Those who plant vineyards eat their fruit. The curse of futility -- "you shall plant but another shall eat" (Deuteronomy 28:30) -- is reversed. The covenant curses of Leviticus 26 and Deuteronomy 28, which had defined Israel's experience in exile, are systematically undone. This is not escapism. It is the most thorough political, economic, and ecological vision in the Hebrew Bible -- a world where every dimension of human life functions as God intended.
+The description that follows in verses 18-25 is not abstract or otherworldly. It is intensely concrete. Infants do not die. The elderly live to fullness. Those who build houses inhabit them. Those who plant vineyards eat their fruit. The curse of futility -- "you shall plant but another shall eat" (Deuteronomy 28:30) -- is reversed. The covenant curses of Leviticus 26 and Deuteronomy 28, which had defined Israel's experience in exile, are systematically undone. This is not escapism. It is the most thorough political, economic, and ecological vision in the Hebrew Bible -- a world where every dimension of human life functions as God intended.
 
 The passage closes with a deliberate echo of Isaiah 11:6-9, the messianic vision of the peaceable kingdom: "The wolf and the lamb shall graze together; the lion shall eat straw like the ox, and dust shall be the serpent's food" (65:25). But there is a significant addition. The serpent eats dust -- a direct allusion to Genesis 3:14, where God cursed the serpent: "on your belly you shall go, and dust you shall eat all the days of your life." In the new creation, the serpent is not absent. It is diminished. The curse of Genesis 3 is the serpent's permanent condition. The predatory order of the fallen world is undone, and the creature who introduced death into the story is consigned to the lowest possible existence.
 
@@ -50,7 +52,7 @@ The concrete blessings of Isaiah 65:20-25 -- long life, fruitful labor, answered
 
 **Old Testament Roots**
 
-Isaiah 65:17 reaches back to Genesis 1:1 with the verb *bara*, forming an inclusio -- a literary bracket -- around the entire biblical story. The peaceable kingdom of 65:25 echoes Isaiah 11:6-9, the messianic vision of the shoot from Jesse's stump. The reversal of futile labor ("they shall not build and another inhabit; they shall not plant and another eat") directly undoes the covenant curses of Deuteronomy 28:30-33. The serpent eating dust recalls Genesis 3:14. The entire passage is woven from threads that stretch back to the Torah, the prophets, and the Psalms.
+Isaiah 65:17 reaches back to Genesis 1:1 with the verb *bara*, forming an inclusio -- a literary bracket -- around the entire biblical story. The peaceable kingdom of 65:25 echoes Isaiah 11:6-9, the messianic vision of the shoot from Jesse's stump. The reversal of futile labor ("they shall not build and another inhabit; they shall not plant and another eat") directly undoes the covenant curses of Deuteronomy 28:30-33. The serpent eating dust recalls Genesis 3:14. The entire passage is woven from threads that stretch back to the Torah, the prophets, and the Psalms. Isaiah 43:18-19 anticipates the theme: "Remember not the former things ... behold, I am doing a new thing." Psalm 102:25-27 contrasts the perishability of the heavens with God's eternal nature, setting up the need for new heavens. Isaiah 51:6 warns that "the heavens vanish like smoke" -- clearing the way for the new creation Isaiah 65 announces.
 
 **New Testament Echoes**
 
@@ -58,7 +60,7 @@ Revelation 21:1-5 explicitly fulfills Isaiah 65:17, with John seeing "a new heav
 
 **Parallel Passages**
 
-Isaiah 11:6-9 provides the earlier version of the peaceable kingdom. Isaiah 43:18-19 anticipates the theme: "Remember not the former things... behold, I am doing a new thing." Psalm 102:25-27 contrasts the perishability of the heavens with God's eternal nature, setting up the need for new heavens. Isaiah 51:6 warns that "the heavens will vanish like smoke" -- clearing the way for the new creation Isaiah 65 announces.
+Isaiah 11:6-9 provides the earlier version of the peaceable kingdom. The closing verse of today's reading (65:25) draws its wolf, lamb, lion, and ox from there, repeats "the lion shall eat straw like the ox" word for word, and ends with the same line: "They shall not hurt or destroy in all my holy mountain."
 
 ## Reflection Questions
 

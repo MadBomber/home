@@ -2,8 +2,11 @@
 week: 33
 day: 1
 title: "The Anointing -- The LORD Looks on the Heart"
-reading: "1 Samuel 16:1-23"
-parallel_passages: Micah 5:2, Psalm 78:70-72, Isaiah 53:2, Luke 2:4-7, Acts 13:22, Philippians 2:6-7
+reading:
+- 1 Samuel 16:1-23
+parallel_passages:
+- Psalm 78:70-72
+- Acts 13:22
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -50,15 +53,15 @@ Paul will later articulate what the scene at Jesse's house foreshadowed: God "ch
 
 **Old Testament Roots**
 
-The pattern of the younger son chosen over the elder runs throughout Genesis: Abel over Cain, Isaac over Ishmael, Jacob over Esau, Joseph over his brothers, Ephraim over Manasseh. David's anointing is the culmination of a pattern God has been establishing since the beginning -- the reversal of human primogeniture as a sign that election belongs to God alone. Psalm 78:70-72 narrates the anointing in retrospect: "He chose David his servant and took him from the sheepfolds; from following the nursing ewes he brought him to shepherd Jacob his people."
+The pattern of the younger son chosen over the elder runs throughout Genesis: Abel over Cain, Isaac over Ishmael, Jacob over Esau, Joseph over his brothers, Ephraim over Manasseh. David's anointing is the culmination of a pattern God has been establishing since the beginning -- the reversal of human primogeniture as a sign that election belongs to God alone. Psalm 78:70-72 narrates the anointing in retrospect: "He chose David his servant and took him from the sheepfolds; from following the nursing ewes he brought him to shepherd Jacob his people." The Spirit's departure from Saul (16:14) recalls Judges 16:20, where Samson did not know "that the LORD had left him." Both passages depict the catastrophe of divine withdrawal.
 
 **New Testament Echoes**
 
-Luke 2:4-7 -- Jesus is born in Bethlehem, "the city of David," in circumstances as obscure as David's anointing. Acts 13:22 -- Paul explicitly identifies David as "a man after [God's] heart." Philippians 2:6-7 -- Christ, who was in the form of God, "emptied himself, by taking the form of a servant" -- the divine king entering human service, as David entered Saul's court. John 1:10-11 -- "He was in the world, and the world was made through him, yet the world did not know him."
+Luke 2:4-7 -- Jesus is born in Bethlehem, "the city of David," in circumstances as obscure as David's anointing. Acts 13:22 -- Paul explicitly identifies David as "a man after [God's] heart." Philippians 2:6-7 -- Christ, who was in the form of God, "emptied himself, by taking the form of a servant" -- the divine king entering human service, as David entered Saul's court. John 1:10-11 -- "He was in the world, and the world was made through him, yet the world did not know him." Paul's contrast in 2 Corinthians 5:12 between those who "boast about outward appearance and not about what is in the heart" echoes 16:7.
 
 **Parallel Passages**
 
-Compare 1 Samuel 16:7 with 2 Corinthians 5:12, where Paul contrasts those who "boast about outward appearance" with those who value "what is in the heart." Compare the Spirit's departure from Saul (16:14) with Judges 16:20, where Samson did not know "that the LORD had left him." Both passages depict the catastrophe of divine withdrawal.
+Psalm 78:70-72 narrates this same choice in retrospect, from the sheepfolds to the shepherding of Israel. Acts 13:22 retells it in Paul's sermon at Pisidian Antioch: God "raised up David to be their king, of whom he testified and said, 'I have found in David the son of Jesse a man after my heart, who will do all my will.'"
 
 ## Reflection Questions
 

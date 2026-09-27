@@ -2,8 +2,8 @@
 week: 51
 day: 4
 title: "The LORD Descends to the Mount of Olives"
-reading: "Zechariah 14:1-21"
-parallel_passages: Acts 1:9-12, Revelation 22:1-5, Ezekiel 47:1-12, John 7:37-39
+reading:
+- Zechariah 14:1-21
 section: Consummation
 tags:
 - covenant-8
@@ -53,15 +53,11 @@ The declaration "the LORD will be one and his name one" (Zechariah 14:9) finds i
 
 **Old Testament Roots**
 
-The splitting of the Mount of Olives echoes the parting of the Red Sea (Exodus 14:21-22) and the earthquake at Sinai (Exodus 19:18). The living waters recall Ezekiel 47:1-12, where water flows from the threshold of the temple, deepening as it goes, healing the Dead Sea and producing trees whose leaves are for the healing of the nations. The inscription "Holy to the LORD" on the horse bells recalls the same phrase engraved on the high priest's turban (Exodus 28:36) -- what was once reserved for the holiest person in the holiest place now covers common animals and kitchen utensils.
+The splitting of the Mount of Olives echoes the parting of the Red Sea (Exodus 14:21-22) and the earthquake at Sinai (Exodus 19:18). The living waters recall Ezekiel 47:1-12, where water flows from the threshold of the temple, deepening as it goes, healing the Dead Sea and producing trees whose leaves are for the healing of the nations. The inscription "Holy to the LORD" on the horse bells recalls the same phrase engraved on the high priest's turban (Exodus 28:36) -- what was once reserved for the holiest person in the holiest place now covers common animals and kitchen utensils. Joel 3:18 promises that "a fountain shall come forth from the house of the LORD and water the Valley of Shittim." Isaiah 25:6-8 describes the mountain feast where the LORD swallows up death forever. Psalm 46:4-5 sings, "There is a river whose streams make glad the city of God."
 
 **New Testament Echoes**
 
 Acts 1:9-12 records the ascension from and the promised return to the Mount of Olives. John 7:37-39 identifies the living waters with the Holy Spirit given through Christ. Revelation 22:1-5 depicts the river of life flowing from the throne of God and of the Lamb. Philippians 2:9-11 echoes Zechariah 14:9's "one name" with the name of Jesus at which every knee bows.
-
-**Parallel Passages**
-
-Joel 3:18 -- "A fountain shall come forth from the house of the LORD and water the Valley of Shittim." Ezekiel 47:1-12 -- the temple river that deepens and heals. Isaiah 25:6-8 -- the mountain feast where the LORD swallows up death forever. Psalm 46:4-5 -- "There is a river whose streams make glad the city of God."
 
 ## Reflection Questions
 

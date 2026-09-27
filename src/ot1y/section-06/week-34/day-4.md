@@ -2,8 +2,8 @@
 week: 34
 day: 4
 title: "The Spear, the Water Jug, and 'The LORD Forbid'"
-reading: "1 Samuel 26:1-27:12"
-parallel_passages: Philippians 2:5-11, Matthew 4:1-11, Psalm 31, 1 Peter 2:21-23, Hebrews 10:36-39
+reading:
+- 1 Samuel 26:1-27:12
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -18,7 +18,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 1 Samuel 26:1--27:12
+- 1 Samuel 26:1-27:12
 
 ## Historical Context
 
@@ -50,15 +50,11 @@ David's despair in chapter 27 -- "I shall perish one day by the hand of Saul" --
 
 **Old Testament Roots**
 
-The spear (*chanit*) at Saul's head connects to every earlier reference to Saul's spear: the weapon he threw at David (1 Samuel 18:11; 19:10) and at Jonathan (20:33). The spear is Saul's signature instrument of violent power. That David leaves it untouched is a symbolic repudiation of Saul's entire approach to kingship. David's flight to Philistine territory echoes Abraham's descent to Egypt (Genesis 12:10) and Jacob's flight to Paddan-aram (Genesis 28:2) -- each patriarch enters foreign territory under duress, and each survives through a mixture of divine providence and morally questionable deception.
+The spear (*chanit*) at Saul's head connects to every earlier reference to Saul's spear: the weapon he threw at David (1 Samuel 18:11; 19:10) and at Jonathan (20:33). The spear is Saul's signature instrument of violent power. That David leaves it untouched is a symbolic repudiation of Saul's entire approach to kingship. David's flight to Philistine territory echoes Abraham's descent to Egypt (Genesis 12:10) and Jacob's flight to Paddan-aram (Genesis 28:2) -- each patriarch enters foreign territory under duress, and each survives through a mixture of divine providence and morally questionable deception. Psalm 31 -- "Into your hand I commit my spirit" -- is the prayer of the fugitive who trusts God with his life because he will not take another's. David's address to Saul across the valley (26:17-20) follows the structure of his earlier speech at the mouth of the En-gedi cave (1 Samuel 24:8-15), but the tone has shifted from appeal to weariness. His flight to Gath (27:1-4) likewise revisits his earlier visit (1 Samuel 21:10-15) -- the first time he plays the madman, the second time he plays the vassal. The trajectory shows increasing compromise under increasing pressure.
 
 **New Testament Echoes**
 
 The kenosis hymn of Philippians 2:5-11 is the theological commentary on David's restraint: the one who had every right to grasp chose instead to empty himself. First Peter 2:21-23 describes Christ's passion in language that could describe David at Hachilah: "When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly." Hebrews 10:36 -- "For you have need of endurance, so that when you have done the will of God you may receive what is promised" -- captures the sustained patience David is called to practice.
-
-**Parallel Passages**
-
-Psalm 31 -- "Into your hand I commit my spirit" -- is the prayer of the fugitive who trusts God with his life because he will not take another's. Compare David's address to Saul across the valley (26:17-20) with his earlier speech at the mouth of the En-gedi cave (24:8-15) -- the structure is parallel, but the tone has shifted from appeal to weariness. Compare David's flight to Gath (27:1-4) with his earlier visit (21:10-15) -- the first time he plays the madman, the second time he plays the vassal. The trajectory shows increasing compromise under increasing pressure.
 
 ## Reflection Questions
 

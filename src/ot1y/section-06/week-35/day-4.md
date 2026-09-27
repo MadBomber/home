@@ -2,8 +2,11 @@
 week: 35
 day: 4
 title: "The Davidic Covenant"
-reading: "2 Samuel 7:1-29"
-parallel_passages: Luke 1:30-33, Acts 2:29-36, Romans 1:3-4, Hebrews 1:5, Revelation 22:16
+reading:
+- 2 Samuel 7:1-29
+parallel_passages:
+- 1 Chronicles 17:1-27
+- Psalm 89:19-37
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -51,7 +54,7 @@ David wanted to build God a house of cedar. God built David a house of flesh -- 
 
 **Old Testament Roots**
 
-The Davidic covenant builds on and extends every previous covenant. The Abrahamic promise of descendants (Genesis 12:2) narrows to a single royal line. The Mosaic covenant's provision for a king (Deuteronomy 17:14-20) receives its permanent occupant. The language of divine sonship (2 Samuel 7:14) will be taken up in Psalm 2:7 ("You are my Son; today I have begotten you"), Psalm 89:26-27 ("He shall cry to me, 'You are my Father'"), and Psalm 110:1 ("The LORD says to my Lord: 'Sit at my right hand'"). Isaiah will prophesy a child on David's throne whose government will have "no end" (Isaiah 9:6-7) -- the same *ad-olam* now applied to a specific person.
+The Davidic covenant builds on and extends every previous covenant. The Abrahamic promise of descendants (Genesis 12:2) narrows to a single royal line. The Mosaic covenant's provision for a king (Deuteronomy 17:14-20) receives its permanent occupant. The language of divine sonship (2 Samuel 7:14) will be taken up in Psalm 2:7 ("You are my Son; today I have begotten you"), Psalm 89:26-27 ("He shall cry to me, 'You are my Father'"), and Psalm 110:1 ("The LORD says to my Lord: 'Sit at my right hand'"). Isaiah will prophesy a child on David's throne whose government will have "no end" (Isaiah 9:6-7) -- the same *ad-olam* now applied to a specific person. Psalm 132 connects the ark's arrival in Jerusalem with the covenant promise: "The LORD swore to David a sure oath from which he will not turn back." Isaiah 55:3 extends the covenant to the people: "I will make with you an everlasting covenant, my steadfast, sure love for David."
 
 **New Testament Echoes**
 
@@ -59,7 +62,7 @@ Luke 1:32-33 quotes the Davidic covenant through Gabriel's announcement to Mary.
 
 **Parallel Passages**
 
-1 Chronicles 17:1-27 provides the parallel account of Nathan's oracle. Psalm 89 celebrates and wrestles with the Davidic covenant, especially in its lament section (89:38-51), where the psalmist accuses God of abandoning the promise. Psalm 132 connects the ark's arrival in Jerusalem with the covenant promise: "The LORD swore to David a sure oath from which he will not turn back." Isaiah 55:3 extends the covenant to the people: "I will make with you an everlasting covenant, my steadfast, sure love for David."
+1 Chronicles 17:1-27 provides the parallel account of Nathan's oracle. Psalm 89:19-37 recites the same oracle as the vision in which God spoke "to your godly one" (Psalm 89:19), promising David an offspring established forever and a throne "as the days of the heavens" (Psalm 89:29).
 
 ## Reflection Questions
 

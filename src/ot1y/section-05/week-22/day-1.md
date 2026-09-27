@@ -2,8 +2,13 @@
 week: 22
 day: 1
 title: "The Golden Calf -- Idolatry at the Foot of the Mountain"
-reading: "Exodus 32:1-35"
-parallel_passages: Deuteronomy 9:7-21, Nehemiah 9:18, Psalm 106:19-23, Acts 7:39-41, Romans 1:22-25, 1 Corinthians 10:7
+reading:
+- Exodus 32:1-35
+parallel_passages:
+- Deuteronomy 9:7-21
+- Nehemiah 9:18
+- Psalm 106:19-23
+- Acts 7:39-41
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,7 +54,7 @@ The shattering of the stone tablets at the foot of the mountain carries its own 
 
 **Old Testament Roots**
 
-The golden calf episode echoes and inverts the exodus itself. The gold used for the calf came from the Egyptians (Exodus 12:35-36) -- plunder that was meant to furnish the tabernacle is instead melted for an idol. The "feast to the LORD" (32:5) parodies the Passover feast. The three thousand slain by the Levites (32:28) foreshadow the consequences of covenant breaking throughout the wilderness. Psalm 106:19-23 memorializes the event: "They made a calf in Horeb and worshiped a metal image. They exchanged the glory of God for the image of an ox that eats grass." The language of "exchange" will reappear in Romans 1:23.
+The golden calf episode echoes and inverts the exodus itself. The gold used for the calf came from the Egyptians (Exodus 12:35-36) -- plunder that was meant to furnish the tabernacle is instead melted for an idol. The "feast to the LORD" (32:5) parodies the Passover feast. The three thousand slain by the Levites (32:28) foreshadow the consequences of covenant breaking throughout the wilderness. Psalm 106:19-23 memorializes the event: "They made a calf in Horeb and worshiped a metal image. They exchanged the glory of God for the image of an ox that eats grass." The language of "exchange" will reappear in Romans 1:23. Compare Exodus 32 with 1 Kings 12:28-30, where Jeroboam erects golden calves at Dan and Bethel and uses the same words Aaron used: "Behold your gods, O Israel, who brought you up out of the land of Egypt." The repetition is deliberate -- the narrator of Kings wants the reader to hear the echo.
 
 **New Testament Echoes**
 
@@ -57,7 +62,7 @@ Stephen's speech in Acts 7:39-41 places the golden calf at the center of Israel'
 
 **Parallel Passages**
 
-Compare Exodus 32 with 1 Kings 12:28-30, where Jeroboam erects golden calves at Dan and Bethel and uses the same words Aaron used: "Behold your gods, O Israel, who brought you up out of the land of Egypt." The repetition is deliberate -- the narrator of Kings wants the reader to hear the echo. Compare also Deuteronomy 9:7-21, Moses' own retrospective on the event, where he emphasizes that he "lay prostrate before the LORD for forty days and forty nights" interceding for the people.
+Deuteronomy 9:7-21 is Moses' own retrospective on the event, where he recalls that he "lay prostrate before the LORD as before, forty days and forty nights" (Deuteronomy 9:18) interceding for the people. Nehemiah 9:18 recalls the calf in the Levites' confession, and Psalm 106:19-23 retells both the calf at Horeb and Moses standing "in the breach" before God "to turn away his wrath." Stephen retells the episode in Acts 7:39-41, from the people's demand that Aaron make them gods to the sacrifice they offered to the idol.
 
 ## Reflection Questions
 

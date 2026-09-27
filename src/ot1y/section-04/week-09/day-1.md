@@ -2,8 +2,11 @@
 week: 9
 day: 1
 title: "The Call of Abram -- Go from Everything You Know into Everything You Do Not"
-reading: "Genesis 12:1-9"
-parallel_passages: Acts 7:2-4, Hebrews 11:8-10, Galatians 3:8, Matthew 1:1, Joshua 24:2-3, Isaiah 51:1-2
+reading:
+- Genesis 12:1-9
+parallel_passages:
+- Acts 7:2-4
+- Joshua 24:2-3
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -52,15 +55,15 @@ The author of Hebrews captures the faith dimension of Abram's departure with cry
 
 **Old Testament Roots**
 
-The call of Abram echoes and reverses the failures of Genesis 3-11. Where Adam and Eve grasped for knowledge and were exiled eastward, Abram is called to go westward into a land God will show him. Where Babel's builders sought to "make a name for ourselves" (Genesis 11:4), God promises to "make your name great" (12:2). Where the flood judged a cursed earth, God now promises blessing through a single family. Isaiah 51:1-2 will later call Israel to "look to Abraham your father and to Sarah who bore you; for he was but one when I called him, that I might bless him and multiply him." The call of Genesis 12 is the hinge on which the entire Old Testament turns.
+The call of Abram echoes and reverses the failures of Genesis 3-11. Where Adam and Eve grasped for knowledge and were exiled eastward, Abram is called to go westward into a land God will show him. Where Babel's builders sought to "make a name for ourselves" (Genesis 11:4), God promises to "make your name great" (12:2). Where the flood judged a cursed earth, God now promises blessing through a single family. Isaiah 51:1-2 will later call Israel to "look to Abraham your father and to Sarah who bore you; for he was but one when I called him, that I might bless him and multiply him." The call of Genesis 12 is the hinge on which the entire Old Testament turns. Genesis 22:2 uses the same *lekh-lekha* construction -- "Go to the land of Moriah" -- creating a deliberate literary bracket around Abraham's life of faith. Psalm 105:6-11 celebrates the promise to Abraham as the foundation of God's covenant with Israel.
 
 **New Testament Echoes**
 
-Stephen, in his speech before the Sanhedrin, begins the story of Israel's faith with this very moment: "The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran, and said to him, 'Go out from your land and from your kindred and go into the land that I will show you'" (Acts 7:2-3). Paul identifies the promise to Abraham as the gospel itself (Galatians 3:8). Hebrews 11:8-10 holds Abram up as the paradigm of faith -- one who "went out, not knowing where he was going" and "was looking forward to the city that has foundations, whose designer and builder is God."
+Stephen, in his speech before the Sanhedrin, begins the story of Israel's faith with this very moment: "The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran, and said to him, 'Go out from your land and from your kindred and go into the land that I will show you'" (Acts 7:2-3). Paul identifies the promise to Abraham as the gospel itself (Galatians 3:8). Hebrews 11:8-10 holds Abram up as the paradigm of faith -- one who "went out, not knowing where he was going" and "was looking forward to the city that has foundations, whose designer and builder is God." Romans 4:17-21 expands on the nature of Abram's trust in God "who gives life to the dead and calls into existence the things that do not exist."
 
 **Parallel Passages**
 
-Genesis 22:2 uses the same *lekh-lekha* construction -- "Go to the land of Moriah" -- creating a deliberate literary bracket around Abraham's life of faith. Romans 4:17-21 expands on the nature of Abram's trust in God "who gives life to the dead and calls into existence the things that do not exist." Psalm 105:6-11 celebrates the promise to Abraham as the foundation of God's covenant with Israel.
+Stephen's retelling in Acts 7:2-4 places this call within the sweep of Israel's history, from Mesopotamia through Haran to "this land in which you are now living" (Acts 7:4). Joshua 24:2-3 narrates the same moment in Joshua's farewell at Shechem: "Then I took your father Abraham from beyond the River and led him through all the land of Canaan."
 
 ## Reflection Questions
 

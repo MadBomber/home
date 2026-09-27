@@ -2,8 +2,12 @@
 week: 24
 day: 4
 title: "The Priests, the Feasts, and the Bread of the Presence"
-reading: "Leviticus 21:1-24:23"
-parallel_passages: 1 Corinthians 5:7-8, John 7:37-39, John 1:14, Hebrews 7:23-28, Colossians 2:16-17, 1 Corinthians 15:20-23
+reading:
+- Leviticus 21:1-24:23
+parallel_passages:
+- Exodus 12:1-20
+- Deuteronomy 16:1-17
+- Numbers 28-29
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -55,11 +59,11 @@ The feast calendar of Leviticus 23 builds on the Passover institution of Exodus 
 
 **New Testament Echoes**
 
-First Corinthians 5:7 -- "Christ, our Passover lamb, has been sacrificed." First Corinthians 15:20 -- Christ as the firstfruits of the resurrection. Acts 2:1-4 -- the Spirit poured out on Pentecost (the Feast of Weeks). John 7:37-39 -- Jesus' declaration at the Feast of Booths: "If anyone thirsts, let him come to me and drink." Colossians 2:16-17 -- the feasts as "a shadow of the things to come, but the substance belongs to Christ." Hebrews 7:23-28 -- Christ as the perfect, permanent high priest.
+First Corinthians 5:7 -- "Christ, our Passover lamb, has been sacrificed." First Corinthians 15:20 -- Christ as the firstfruits of the resurrection. Acts 2:1-4 -- the Spirit poured out on Pentecost (the Feast of Weeks). John 7:37-39 -- Jesus' declaration at the Feast of Booths: "If anyone thirsts, let him come to me and drink." Colossians 2:16-17 -- the feasts as "a shadow of the things to come, but the substance belongs to Christ." Hebrews 7:23-28 -- Christ as the perfect, permanent high priest. John 6:32-35 (Jesus as the true bread from heaven) and 1 Corinthians 10:16-17 (the one bread of communion) take up the bread of the Presence.
 
 **Parallel Passages**
 
-Compare Leviticus 23 with Exodus 12 (Passover), Deuteronomy 16 (the three pilgrimage feasts), and Numbers 28-29 (the offerings prescribed for each feast). Compare the bread of the Presence with John 6:32-35 (Jesus as the true bread from heaven) and 1 Corinthians 10:16-17 (the one bread of communion).
+Compare the feast calendar of Leviticus 23 with Exodus 12:1-20 (Passover and the Feast of Unleavened Bread), Deuteronomy 16:1-17 (the three pilgrimage feasts), and Numbers 28-29 (the offerings prescribed for each feast).
 
 ## Reflection Questions
 

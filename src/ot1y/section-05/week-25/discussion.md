@@ -49,7 +49,7 @@ The distance between divine provision and human faithlessness has rarely been dr
 
 6. **The Shining Face.** The Hebrew behind "make his face to shine upon you" (*ya'er YHWH panav*) is the image of a face turned toward someone in warmth and delight. The opposite -- a hidden or averted face -- is the language of judgment throughout the Psalms. How does the image of God's face change the way you understand his disposition toward you? How does Paul connect this to Christ in 2 Corinthians 4:6?
 
-### Day 4: The Cloud Lifts (Numbers 9:1-10:36)
+### Day 4: The Cloud Lifts (Numbers 7:1-10:36)
 
 7. **Following the Cloud.** Israel moves when the cloud lifts and stays when it settles. There is no itinerary, no map, no five-year plan -- only the visible presence of God dictating the pace. What would it look like to live with that kind of radical dependence on God's leading? Where do you find it hardest to wait for the cloud to move?
 

@@ -2,8 +2,8 @@
 week: 3
 day: 2
 title: "Where Are You? -- God Pursues, Confronts, and Speaks the First Gospel"
-reading: "Genesis 3:8-15"
-parallel_passages: Luke 15:1-7, Luke 19:10, Romans 5:6-8, Romans 16:20, Galatians 4:4, Revelation 12:9, John 3:8
+reading:
+- Genesis 3:8-15
 section: Adamic Covenant
 tags:
 - covenant-2
@@ -66,15 +66,11 @@ Revelation 12 retells the Genesis 3 story on a cosmic scale. A woman gives birth
 
 **Old Testament Roots**
 
-The divine pursuit of Genesis 3:9 is echoed in God's pursuit of Jonah (Jonah 1-2), his pursuit of Israel through the prophets (Hosea 11:1-4; Ezekiel 34:11-16), and his persistence with David after the sin with Bathsheba (2 Samuel 12:1-7 -- Nathan's confrontation follows the same pattern as God's questions in the garden). The *zera* ("seed/offspring") of Genesis 3:15 becomes the central thread of the genealogies: the seed narrows from the woman to Seth to Noah to Shem to Abraham to Judah to David to Mary's son. Every genealogy in Scripture is tracking this promise.
+The divine pursuit of Genesis 3:9 is echoed in God's pursuit of Jonah (Jonah 1-2), his pursuit of Israel through the prophets (Hosea 11:1-4; Ezekiel 34:11-16), and his persistence with David after the sin with Bathsheba (2 Samuel 12:1-7 -- Nathan's confrontation follows the same pattern as God's questions in the garden). The *zera* ("seed/offspring") of Genesis 3:15 becomes the central thread of the genealogies: the seed narrows from the woman to Seth to Noah to Shem to Abraham to Judah to David to Mary's son. Every genealogy in Scripture is tracking this promise. "Where are you?" (Genesis 3:9) is matched by "Where is Abel your brother?" (Genesis 4:9) -- two divine questions, both invitations to confession, both met with evasion. Isaiah 7:14 and 9:6-7 will identify the seed of 3:15 as Immanuel, the child whose name is Mighty God. In Numbers 21:8-9 the bronze serpent lifted on a pole foreshadows the one who will be "lifted up" to defeat the serpent (John 3:14-15).
 
 **New Testament Echoes**
 
 Luke 19:10 -- "The Son of Man came to seek and to save the lost." Romans 5:6-8 -- Christ died for sinners while they were still sinners. Galatians 4:4 -- "born of woman," fulfilling the specificity of the woman's seed. Romans 16:20 -- "The God of peace will soon crush Satan under your feet." Revelation 12:9 -- the serpent identified as the devil and Satan. Hebrews 2:14 -- Christ took on flesh "that through death he might destroy the one who has the power of death, that is, the devil."
-
-**Parallel Passages**
-
-Compare "Where are you?" (Genesis 3:9) with "Where is Abel your brother?" (Genesis 4:9) -- two divine questions, both invitations to confession, both met with evasion. Compare the protoevangelium (3:15) with Isaiah 7:14 and 9:6-7, which will identify the seed as Immanuel, the child whose name is Mighty God. Compare with Numbers 21:8-9, where the bronze serpent lifted on a pole foreshadows the one who will be "lifted up" to defeat the serpent (John 3:14-15).
 
 ## Reflection Questions
 

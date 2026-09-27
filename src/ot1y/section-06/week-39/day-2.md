@@ -2,8 +2,10 @@
 week: 39
 day: 2
 title: "Prophets and Kings -- The Man of God from Judah and Jeroboam's Judgment"
-reading: "1 Kings 13:1-14:31"
-parallel_passages: 2 Chronicles 11:5-12:16, 2 Kings 23:15-20, Hebrews 4:12-13, 1 Timothy 1:18-19
+reading:
+- 1 Kings 13:1-14:31
+parallel_passages:
+- 2 Chronicles 11:5-12:16
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -36,7 +38,7 @@ The man of God from Judah who stands before Jeroboam's altar is a figure who poi
 
 The withering and restoration of Jeroboam's hand is a small parable of the gospel. The king who stretches out his hand against God's messenger finds that hand rendered useless -- a physical enactment of what rebellion against God produces. But when the prophet intercedes, the hand is restored. The pattern is the pattern of the gospel itself: human rebellion brings death and incapacity, but intercession brings restoration. Christ is the ultimate intercessor -- the one who stands between God's judgment and the sinner's withered hand and prays, "Father, forgive them" (Luke 23:34). Hebrews 7:25 says Christ "always lives to make intercession" for those who draw near to God through him. Jeroboam's hand was restored by a prophet's prayer. Our entire lives are restored by the intercession of the great high priest.
 
-Ahijah's oracle against Jeroboam's house -- total destruction because of persistent idolatry -- reveals the severity of God's judgment against leaders who institutionalize unfaithfulness. Yet even within this judgment, there is a note of grace: Abijah, the child in whom "something pleasing to the LORD" is found, will die but will receive a dignified burial. God sees and honors even small sparks of faithfulness in the midst of systemic corruption. This is the same God who tells Elijah, "I have kept for myself seven thousand who have not bowed the knee to Baal" (1 Kings 19:18) -- a remnant hidden within the wreckage. Paul seizes on this in Romans 11:4-5: "So too at the present time there is a remnant, chosen by grace." The remnant theology that runs from Ahijah's oracle through Elijah's despair to Paul's argument is ultimately fulfilled in Christ, who is himself the faithful remnant of Israel -- the one in whom everything pleasing to the LORD is found, not as a spark but as a consuming fire of perfect obedience.
+Ahijah's oracle against Jeroboam's house -- total destruction because of persistent idolatry -- reveals the severity of God's judgment against leaders who institutionalize unfaithfulness. Yet even within this judgment, there is a note of grace: Abijah, the child in whom "something pleasing to the LORD" is found, will die but will receive a dignified burial. God sees and honors even small sparks of faithfulness in the midst of systemic corruption -- a remnant hidden within the wreckage. Paul states the principle plainly in Romans 11:5: "So too at the present time there is a remnant, chosen by grace." The remnant theology that runs from Ahijah's oracle through the prophets to Paul's argument is ultimately fulfilled in Christ, who is himself the faithful remnant of Israel -- the one in whom everything pleasing to the LORD is found, not as a spark but as a consuming fire of perfect obedience.
 
 ## Key Themes
 
@@ -48,7 +50,7 @@ Ahijah's oracle against Jeroboam's house -- total destruction because of persist
 
 **Old Testament Roots**
 
-The man of God's prophecy naming Josiah connects directly to 2 Kings 23:15-20, where Josiah fulfills it by desecrating the altar at Bethel. Ahijah's oracle in chapter 14 echoes and extends his earlier prophecy in 1 Kings 11:29-39, where he tore his garment into twelve pieces. The lion that kills but does not devour recalls the theology of precise, restrained divine judgment seen in passages like Numbers 16 (the earth swallowing Korah) and 2 Samuel 6 (the death of Uzzah). The withering of Jeroboam's hand echoes the leprous hand Moses received as a sign in Exodus 4:6-7 -- both are physical manifestations of divine authority over the body of the one who resists.
+The man of God's prophecy naming Josiah connects directly to 2 Kings 23:15-20, where Josiah fulfills it by desecrating the altar at Bethel. Ahijah's oracle in chapter 14 echoes and extends his earlier prophecy in 1 Kings 11:29-39, where he tore his garment into twelve pieces. The lion that kills but does not devour recalls the theology of precise, restrained divine judgment seen in passages like Numbers 16 (the earth swallowing Korah) and 2 Samuel 6 (the death of Uzzah). The withering of Jeroboam's hand echoes the leprous hand Moses received as a sign in Exodus 4:6-7 -- both are physical manifestations of divine authority over the body of the one who resists. The man of God's story also invites comparison with 1 Kings 22:1-28, where Micaiah stands alone against four hundred false prophets before Ahab -- another scene where the true prophetic word is outnumbered and opposed but vindicated -- and with Balaam's story in Numbers 22-24, where a prophet's words are true but his character is compromised.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Paul's warning in Galatians 1:8 -- "even if we or an angel from heaven should pr
 
 **Parallel Passages**
 
-2 Chronicles 11:5-12:16 provides the parallel account of Rehoboam's reign in Judah. Compare 1 Kings 13 with 1 Kings 22:1-28, where Micaiah stands alone against four hundred false prophets before Ahab -- another scene where the true prophetic word is outnumbered and opposed but vindicated. Compare the man of God's deception with Balaam's story in Numbers 22-24, where a prophet's words are true but his character is compromised.
+2 Chronicles 11:5-12:16 provides the parallel account of Rehoboam's reign in Judah.
 
 ## Reflection Questions
 

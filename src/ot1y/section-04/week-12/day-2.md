@@ -2,8 +2,9 @@
 week: 12
 day: 2
 title: "The Walk to Moriah"
-reading: "Genesis 21:22-34; 22:1-8"
-parallel_passages: Hebrews 11:17-19, James 1:2-4, John 8:56
+reading:
+- Genesis 21:22-34
+- Genesis 22:1-8
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -16,7 +17,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Genesis 21:22-34; 22:1-8
+- Genesis 21:22-34
+- Genesis 22:1-8
 
 ## Historical Context
 
@@ -32,33 +34,29 @@ Abraham rises early, saddles his donkey, splits the wood, and walks for three da
 
 ## Christ in This Day
 
-The walk to Moriah is the Old Testament's most sustained preparation for Calvary, and every detail of the journey points forward to a Father and Son who will walk a similar road. The command to offer "your son, your only son, whom you love" uses language that the New Testament will appropriate directly. At Jesus' baptism, the Father's voice declares, "This is my beloved Son, with whom I am well pleased" (Matthew 3:17) -- your Son, your only Son, whom you love. The verbal correspondence between Genesis 22:2 and the baptismal declaration is not coincidental. The Father identifies Jesus using the same categories God used to identify Isaac: beloved, unique, the one through whom all the promises run. What Abraham was asked to do on Moriah, the Father will choose to do at Golgotha -- and no angel will intervene.
+The walk to Moriah is the Old Testament's most sustained preparation for Calvary, and every detail of the journey points forward to a Father and Son who will walk a similar road. The command to offer "your son, your only son, whom you love" uses language that the New Testament will appropriate directly. At Jesus' baptism, the Father's voice declares, "This is my beloved Son, with whom I am well pleased" (Matthew 3:17) -- your Son, your only Son, whom you love. The verbal correspondence between Genesis 22:2 and the baptismal declaration is not coincidental. The Father identifies Jesus using the same categories God used to identify Isaac: beloved, unique, the one through whom all the promises run. What Abraham was asked to do on Moriah, the Father will choose to do at Golgotha.
 
 Isaac carries the wood of his own sacrifice on his back (22:6). The detail is spare but unmistakable to any reader who knows the end of the story. Jesus carries his own cross to the place of execution (John 19:17). The son ascends the hill bearing the instrument of his death. Isaac's question -- "Where is the lamb for a burnt offering?" (22:7) -- is the question the entire Old Testament is asking. The tabernacle will not answer it. The temple will not answer it. A thousand years of bulls and goats will not answer it, because, as the author of Hebrews will insist, "it is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4). The question hangs in the air for fifteen centuries until John the Baptist points at a man and says, "Behold, the Lamb of God, who takes away the sin of the world" (John 1:29). Abraham's answer -- *Elohim yir'eh-lo*, "God will provide for himself the lamb, my son" (22:8) -- is prophecy before it is theology. God will provide the lamb. And the lamb will be his own Son.
 
-Jesus himself points to this moment as the one in which Abraham glimpsed the shape of the gospel. "Your father Abraham rejoiced that he would see my day. He saw it and was glad" (John 8:56). The Pharisees are incredulous -- Abraham has been dead for two millennia. But Jesus is not speaking of chronology. He is speaking of typology. On the road to Moriah, walking in silence for three days with his beloved son, Abraham saw the pattern: a father, a son, a mountain, a sacrifice, a substitute, a son received back as from the dead. He could not have articulated it as a doctrine of atonement. But he saw it. And in seeing it, he saw Christ's day -- the day when all these elements would converge in a single irreversible act on a hill within sight of Moriah.
+Jesus himself points to this moment as the one in which Abraham glimpsed the shape of the gospel. "Your father Abraham rejoiced that he would see my day. He saw it and was glad" (John 8:56). The Pharisees are incredulous -- Abraham has been dead for two millennia. But Jesus is not speaking of chronology. He is speaking of typology. On the road to Moriah, walking in silence for three days with his beloved son, Abraham saw the pattern: a father, a son, a mountain, the wood, the fire, the knife, and a lamb that God himself would provide. He could not have articulated it as a doctrine of atonement. But he saw it. And in seeing it, he saw Christ's day -- the day when all these elements would converge in a single irreversible act on a hill within sight of Moriah.
 
-The three-day journey itself is laden with Christological weight. For seventy-two hours, from Abraham's perspective, Isaac is as good as dead -- the command has been given, the father has accepted it, the outcome is certain. When the knife is stayed and Isaac rises from the altar alive, he is, in the author of Hebrews' extraordinary phrase, received back "figuratively speaking" from the dead (Hebrews 11:19). The three-day interval between death and restoration will become God's signature rhythm: Joseph in the pit for three days before being raised to power, Jonah in the belly of the fish for three days before being vomited onto dry land, and -- the event to which all others point -- Jesus in the tomb for three days before the resurrection. Abraham's three-day walk to Moriah is the first time this pattern appears, and it already carries the shape of Easter.
+The three-day journey itself is laden with Christological weight. For seventy-two hours, from Abraham's perspective, Isaac is as good as dead -- the command has been given, the father has accepted it, the outcome is certain. And the author of Hebrews says that Abraham walked those three days already reckoning "that God was able even to raise him from the dead" (Hebrews 11:19). The three-day interval between death and restoration will become God's signature rhythm: Joseph in the pit for three days before being raised to power, Jonah in the belly of the fish for three days before being vomited onto dry land, and -- the event to which all others point -- Jesus in the tomb for three days before the resurrection. Abraham's three-day walk to Moriah is the first time this pattern appears, and it already carries the shape of Easter.
 
 ## Key Themes
 
 - **Testing reveals, it does not create** -- The *Aqedah* does not manufacture Abraham's faith. It exposes it. The question God is asking is not "Can Abraham obey?" -- he has already demonstrated that through decades of following. The question is "Has the gift become more important than the Giver?" Testing in the biblical sense is not punishment but refinement -- the fire that reveals whether the gold is pure (1 Peter 1:6-7).
 - **The silence of obedient faith** -- Abraham does not argue, bargain, or delay. He rises early and goes. The contrast with his earlier bargaining over Sodom is striking. This is not passive resignation but active trust -- the kind of faith that has moved past the need for explanation because it knows the character of the one who commands.
-- **"God will provide"** -- Abraham's answer to Isaac's question is the theological center of the passage. It is simultaneously an evasion, a hope, and a prophecy. Abraham does not know how God will provide. He only knows that God must, because God has promised descendants through this boy. The sentence *Elohim yir'eh-lo* becomes the name of the mountain and the character of God for all time.
+- **"God will provide"** -- Abraham's answer to Isaac's question is the theological center of the passage. It is simultaneously an evasion, a hope, and a prophecy. Abraham does not know how God will provide. He only knows that God must, because God has promised descendants through this boy. The sentence *Elohim yir'eh-lo* -- literally "God will see to it for himself" -- rests the whole outcome on God, and Abraham leaves it there as father and son walk on, "both of them together" (22:8).
 
 ## Connections
 
 **Old Testament Roots**
 
-The land of Moriah (*ha-Moriyah*) appears only twice in the Old Testament: here and in 2 Chronicles 3:1, where it is identified as the site of Solomon's temple. The connection is deliberate: the mountain where God provides a substitute for Isaac becomes the mountain where substitutionary sacrifice defines Israel's worship for a millennium. The three-day journey echoes the three days Jonah spent in the fish (Jonah 1:17) and the three days the spies hid at Jericho (Joshua 2:16). The command to go to "one of the mountains of which I shall tell you" echoes the original call: "Go... to the land that I will show you" (Genesis 12:1). Abraham's life is bookended by commands to walk toward the unknown.
+The land of Moriah (*ha-Moriyah*) appears only twice in the Old Testament: here and in 2 Chronicles 3:1, where it is identified as the site of Solomon's temple. The connection is deliberate: the mountain toward which Abraham carries the wood and the fire becomes the mountain where sacrifice defines Israel's worship for a millennium. The three-day journey echoes the three days Jonah spent in the fish (Jonah 1:17) and the three days the spies hid at Jericho (Joshua 2:16). The command to go to "one of the mountains of which I shall tell you" echoes the original call: "Go... to the land that I will show you" (Genesis 12:1). Abraham's life is bookended by commands to walk toward the unknown. Job 1-2 presents another divine test in which a faithful servant is asked to endure devastating loss -- and the test, like the *Aqedah*, reveals rather than creates the sufferer's character. Deuteronomy 8:2 describes the wilderness wandering as a forty-year test: "The LORD your God has led you these forty years in the wilderness, that he might humble you, testing you to know what was in your heart."
 
 **New Testament Echoes**
 
-Hebrews 11:17-19 provides the definitive commentary: Abraham offered Isaac "by faith," considering "that God was able even to raise him from the dead, from which, figuratively speaking, he did receive him back." James 2:21-23 cites the *Aqedah* as the moment when Abraham's faith was "completed by his works" -- not faith versus works, but faith demonstrated through obedience. John 8:56 places the *Aqedah* at the center of Abraham's encounter with Christ's "day." Romans 8:32 echoes the language directly: God "did not spare his own Son" -- the same verb (*pheidomai*) used in the Septuagint of Genesis 22:12, where God says Abraham "did not withhold" his son.
-
-**Parallel Passages**
-
-Job 1-2 presents another divine test in which a faithful servant is asked to endure devastating loss -- and the test, like the *Aqedah*, reveals rather than creates the sufferer's character. Deuteronomy 8:2 describes the wilderness wandering as a forty-year test: "The LORD your God has led you these forty years in the wilderness, that he might humble you, testing you to know what was in your heart." James 1:2-4 transforms the theology of testing into a New Testament ethic: "Count it all joy... when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."
+Hebrews 11:17-19 provides the definitive commentary: Abraham offered Isaac "by faith," considering "that God was able even to raise him from the dead, from which, figuratively speaking, he did receive him back." James 2:21-23 cites the *Aqedah* as the moment when Abraham's faith was "completed by his works" -- not faith versus works, but faith demonstrated through obedience. John 8:56 places the *Aqedah* at the center of Abraham's encounter with Christ's "day." James 1:2-4 transforms the theology of testing into a New Testament ethic: "Count it all joy... when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."
 
 ## Reflection Questions
 

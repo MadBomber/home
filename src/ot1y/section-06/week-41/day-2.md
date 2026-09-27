@@ -2,8 +2,10 @@
 week: 41
 day: 2
 title: "The Fall of Samaria -- They Became False"
-reading: "2 Kings 16:1-17:41"
-parallel_passages: Hosea 8:1-14, Isaiah 7:1-17, Deuteronomy 28:36-37, Romans 1:21-25
+reading:
+- 2 Kings 16:1-17:41
+parallel_passages:
+- Isaiah 7:1-17
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,7 +50,7 @@ The Samaritan syncretism described in 2 Kings 17:24-41 -- fearing the LORD while
 
 **Old Testament Roots**
 
-The fall of Samaria fulfills the covenant curses of Deuteronomy 28-29 with terrible precision. Moses had warned of siege ("until your high and fortified walls, in which you trusted, come down throughout all your land," Deuteronomy 28:52), deportation (28:36), and replacement by foreigners (28:43). The narrator explicitly connects Israel's fall to the original exodus: "The LORD removed Israel out of his sight, as he had spoken by all his servants the prophets" (2 Kings 17:23). The God who brought them out of Egypt has now sent them into a new captivity -- not because he is unfaithful but because they were.
+The fall of Samaria fulfills the covenant curses of Deuteronomy 28-29 with terrible precision. Moses had warned of siege ("until your high and fortified walls, in which you trusted, come down throughout all your land," Deuteronomy 28:52), deportation (28:36), and replacement by foreigners (28:43). The narrator explicitly connects Israel's fall to the original exodus: "The LORD removed Israel out of his sight, as he had spoken by all his servants the prophets" (2 Kings 17:23). The God who brought them out of Egypt has now sent them into a new captivity -- not because he is unfaithful but because they were. Hosea 8:1-14 prophesies the fall of the northern kingdom and identifies the golden calves as the root cause: "Israel has forgotten his Maker" (Hosea 8:14). Psalm 106:34-42 recounts Israel's history of syncretism and its consequences in language that echoes the narrator's indictment in 2 Kings 17.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Romans 1:21-25 is Paul's theological expansion of the principle stated in 2 King
 
 **Parallel Passages**
 
-Hosea 8:1-14 prophesies the fall of the northern kingdom and identifies the golden calves as the root cause: "Israel has forgotten his Maker" (8:14). Isaiah 7:1-17, set during the Syro-Ephraimite crisis that forms the backdrop of Ahaz's reign, delivers the Immanuel prophecy -- God's promise of presence precisely when the human king has abandoned faith. Psalm 106:34-42 recounts Israel's history of syncretism and its consequences in language that parallels the narrator's indictment in 2 Kings 17.
+Isaiah 7:1-17, set during the Syro-Ephraimite crisis that forms the backdrop of Ahaz's reign, narrates the same siege from the prophet's side: its opening verse retells 2 Kings 16:5 almost word for word, as Rezin of Syria and Pekah of Israel come up to wage war against Jerusalem but cannot take it. There Isaiah delivers the Immanuel prophecy -- God's promise of presence precisely when the human king has abandoned faith.
 
 ## Reflection Questions
 

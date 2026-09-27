@@ -29,7 +29,7 @@ This week we read the entire book of Judges and the book of Ruth -- a pairing th
 
 ## Discussion Questions
 
-### Day 1: The Pattern Begins (Judges 1:1--3:31)
+### Day 1: The Pattern Begins (Judges 1:1-3:31)
 
 1. **Incomplete Obedience.** The opening chapter of Judges repeats a devastating refrain: Judah "could not drive out" the inhabitants of the plain; Manasseh "did not drive out" the inhabitants of Beth-shean; Ephraim, Asher, Naphtali -- tribe after tribe fails to complete what God commanded. The compromises seem small. The consequences will be catastrophic. Where do you see the pattern of incomplete obedience -- partial faithfulness that tolerates what should be removed -- in your own life or in the life of the church?
 
@@ -37,25 +37,25 @@ This week we read the entire book of Judges and the book of Ruth -- a pairing th
 
 3. **Othniel and Ehud.** The first judges establish a spectrum: Othniel is a model deliverer on whom the Spirit rests; Ehud is a left-handed assassin who drives a sword into a Moabite king's belly. Both are instruments of God. What does it mean that God works through such different kinds of people -- the noble and the gritty, the straightforward and the cunning?
 
-### Day 2: Deborah, Barak, and Gideon's Call (Judges 4:1--6:40)
+### Day 2: Deborah, Barak, and Gideon's Call (Judges 4:1-6:40)
 
 4. **The Woman Who Led.** Deborah judges Israel because no man will lead. She tells Barak, "Up! For this is the day in which the LORD has given Sisera into your hand. Does not the LORD go out before you?" (Judges 4:14). Barak refuses to go to battle without her. What does Deborah's leadership reveal about God's willingness to work through those the culture overlooks? How does her story challenge assumptions -- ancient and modern -- about who God calls?
 
 5. **Gideon's Weakness.** God calls Gideon while he is threshing wheat in a winepress -- hiding from the Midianites. The greeting -- "The LORD is with you, O mighty man of valor" (Judges 6:12) -- seems almost ironic. Then God reduces Gideon's army from 32,000 to 300. Why does God so often choose the weak and then further reduce their resources? What does Paul's statement -- "My grace is sufficient for you, for my power is made perfect in weakness" (2 Corinthians 12:9) -- owe to stories like Gideon's?
 
-### Day 3: Gideon's Victory and Jephthah's Tragedy (Judges 7:1--12:15)
+### Day 3: Gideon's Victory and Jephthah's Tragedy (Judges 7:1-12:15)
 
 6. **Three Hundred Torches.** God defeats Midian with 300 men carrying torches in jars. The method is absurd. The victory is total. And yet immediately after, Gideon fashions an ephod of gold and "all Israel whored after it" (Judges 8:27). How does a deliverer become an occasion for idolatry? What does Gideon's trajectory warn us about the danger of success unmoored from sustained obedience?
 
 7. **Jephthah's Vow.** Jephthah -- an outcast, the son of a prostitute -- wins a great victory but loses his daughter to a rash vow (Judges 11:30-40). The narrative does not condemn or excuse; it simply records, with devastating restraint. What does Jephthah's story reveal about the human tendency to bargain with God rather than trust him? How does the tragedy of the vow deepen the book's argument that Israel needs something more than human deliverers?
 
-### Day 4: Samson and the Final Darkness (Judges 13:1--21:25)
+### Day 4: Samson and the Final Darkness (Judges 13:1-21:25)
 
 8. **Set Apart, Self-Destroyed.** Samson is consecrated from the womb as a Nazirite, empowered by the Spirit to impossible feats. Yet he sleeps with a prostitute in Gaza, surrenders his secret to Delilah, loses his hair, his strength, his eyes, and pulls a pagan temple down on his own head. His final prayer -- "O Lord GOD, please remember me and please strengthen me only this once" (Judges 16:28) -- is heartbreaking. What does Samson's life reveal about the relationship between spiritual gifting and personal holiness? Can God use a person whose life is a wreck? At what cost?
 
 9. **The Darkest Chapters.** Judges 19-21 -- the rape and murder of the Levite's concubine, the near-annihilation of Benjamin, the kidnapping of women from Shiloh -- is the darkest material in the Old Testament. The narrator offers no commentary, only the epitaph: "In those days there was no king in Israel. Everyone did what was right in his own eyes" (Judges 21:25). Why does Scripture include material this disturbing? What is the theological function of unflinching honesty about human depravity? How does the refrain "no king in Israel" serve as both diagnosis and argument?
 
-### Day 5: Ruth -- Loyalty, Redemption, and the Line of David (Ruth 1:1--4:22)
+### Day 5: Ruth -- Loyalty, Redemption, and the Line of David (Ruth 1:1-4:22)
 
 10. **Clinging in the Dark.** Ruth's declaration to Naomi -- "Where you go I will go" -- is spoken on a road between two countries, by a widow with nothing. Naomi has told her to turn back. Orpah has left. Every reasonable calculation says go home. Ruth clings. What makes her loyalty irrational by worldly standards and profoundly rational by faith? What does her choice reveal about the nature of covenant commitment?
 

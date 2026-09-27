@@ -2,8 +2,8 @@
 week: 36
 day: 1
 title: "You Are My Son -- The Nations Rage, God Laughs, the King Reigns"
-reading: "Psalm 2"
-parallel_passages: Acts 4:25-28, Acts 13:33, Hebrews 1:5, Revelation 2:26-27
+reading:
+- Psalm 2
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,15 +48,11 @@ The author of Hebrews opens his letter by establishing the Son's superiority to 
 
 **Old Testament Roots**
 
-The language of divine sonship in Psalm 2:7 reaches back to the Davidic covenant of 2 Samuel 7:14: "I will be to him a father, and he shall be to me a son." The nations raging against God's purposes echoes the tower of Babel narrative (Genesis 11:1-9), where humanity conspires to build a name for itself apart from God. The universal scope of the king's dominion anticipates the Abrahamic promise that "in you all the families of the earth shall be blessed" (Genesis 12:3) -- but now the blessing comes through a king, not merely a patriarch.
+The language of divine sonship in Psalm 2:7 reaches back to the Davidic covenant of 2 Samuel 7:14: "I will be to him a father, and he shall be to me a son." The nations raging against God's purposes echoes the tower of Babel narrative (Genesis 11:1-9), where humanity conspires to build a name for itself apart from God. The universal scope of the king's dominion anticipates the Abrahamic promise that "in you all the families of the earth shall be blessed" (Genesis 12:3) -- but now the blessing comes through a king, not merely a patriarch. The same royal vision runs through Psalm 110:1-2, where the king is enthroned at God's right hand and rules in the midst of his enemies; Isaiah 9:6-7, where the child is born to reign on David's throne with a government that has no end; and Daniel 7:13-14, where the Son of Man is given dominion over all nations and peoples.
 
 **New Testament Echoes**
 
-Mark 1:11 -- the Father's voice at Jesus' baptism. Acts 4:25-28 -- the early church reads the crucifixion as the fulfillment of Psalm 2's conspiracy. Acts 13:33 -- Paul identifies the resurrection as the "today" of the enthronement decree. Hebrews 1:5 -- the Son's superiority to angels grounded in Psalm 2:7. Revelation 2:26-27 and 19:15 -- the risen Christ rules with the rod of iron and shares his authority with his people.
-
-**Parallel Passages**
-
-Psalm 110:1-2 -- the king enthroned at God's right hand and ruling in the midst of his enemies. Isaiah 9:6-7 -- the child born to reign on David's throne with a government that has no end. Daniel 7:13-14 -- the Son of Man given dominion over all nations and peoples. Philippians 2:9-11 -- every knee bows and every tongue confesses that Jesus Christ is Lord.
+Mark 1:11 -- the Father's voice at Jesus' baptism. Acts 4:25-28 -- the early church reads the crucifixion as the fulfillment of Psalm 2's conspiracy. Acts 13:33 -- Paul identifies the resurrection as the "today" of the enthronement decree. Hebrews 1:5 -- the Son's superiority to angels grounded in Psalm 2:7. Revelation 2:26-27 and 19:15 -- the risen Christ rules with the rod of iron and shares his authority with his people. Philippians 2:9-11 -- every knee bows and every tongue confesses that Jesus Christ is Lord.
 
 ## Reflection Questions
 

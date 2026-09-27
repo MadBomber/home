@@ -2,8 +2,8 @@
 week: 32
 day: 5
 title: "The Amalekites -- Partial Obedience, Royal Excuses, and 'To Obey Is Better Than Sacrifice'"
-reading: "1 Samuel 15:1-35"
-parallel_passages: Hebrews 10:1-10, Philippians 2:5-11, Isaiah 1:11-17, Micah 6:6-8
+reading:
+- 1 Samuel 15:1-35
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -53,15 +53,11 @@ Samuel's grief over Saul -- "Samuel grieved over Saul. And the LORD regretted th
 
 **Old Testament Roots**
 
-The *cherem* against the Amalekites fulfills the promise of Exodus 17:14-16 and the command of Deuteronomy 25:17-19. Achan's violation of the *cherem* at Jericho (Joshua 7) is the primary precedent for the sin Saul commits -- keeping what God had devoted to destruction. Samuel's principle that "obedience is better than sacrifice" anticipates the prophetic critique that will dominate the 8th-century prophets: Isaiah 1:11-17 ("I have had enough of burnt offerings of rams"); Amos 5:21-24 ("I hate, I despise your feasts"); Hosea 6:6 ("I desire steadfast love and not sacrifice"); Micah 6:6-8 ("What does the LORD require of you?"). The prophets are not innovating. They are applying Samuel's principle to successive generations.
+The *cherem* against the Amalekites fulfills the promise of Exodus 17:14-16 and the command of Deuteronomy 25:17-19. Achan's violation of the *cherem* at Jericho (Joshua 7) is the primary precedent for the sin Saul commits -- keeping what God had devoted to destruction. Samuel's principle that "obedience is better than sacrifice" anticipates the prophetic critique that will dominate the 8th-century prophets: Isaiah 1:11-17 ("I have had enough of burnt offerings of rams"); Amos 5:21-24 ("I hate, I despise your feasts"); Hosea 6:6 ("I desire steadfast love and not sacrifice"); Micah 6:6-8 ("What does the LORD require of you?"). The prophets are not innovating. They are applying Samuel's principle to successive generations. Ahab's later sparing of Ben-hadad in violation of the *cherem* brings the same result: "Your life shall be for his life" (1 Kings 20:42). David later articulates the same principle in Psalm 51:16-17: "You will not delight in sacrifice... The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise."
 
 **New Testament Echoes**
 
 Hebrews 10:1-10 resolves the tension between obedience and sacrifice by presenting Christ as the one whose sacrifice is his obedience. Jesus quotes Hosea 6:6 -- "I desire mercy, and not sacrifice" -- in Matthew 9:13 and 12:7, placing himself within the prophetic tradition Samuel inaugurated. Philippians 2:5-11 is the anti-Saul hymn: where Saul grasped at authority, Christ emptied himself; where Saul feared the people, Christ became obedient to death; where Saul's disobedience cost him the throne, Christ's obedience earned him "the name that is above every name."
-
-**Parallel Passages**
-
-Joshua 7:1-26 -- Achan's violation of the *cherem* and its consequences for all Israel. 1 Kings 20:42 -- Ahab's later sparing of Ben-hadad in violation of the *cherem*, with the same result: "Your life shall be for his life." Psalm 51:16-17 -- David's later articulation of the same principle: "You will not delight in sacrifice... The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise."
 
 ## Reflection Questions
 

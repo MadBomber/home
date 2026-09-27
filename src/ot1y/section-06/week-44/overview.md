@@ -4,8 +4,8 @@ section: Davidic Covenant
 title: The Twelve
 date_range: "Week 44"
 chapters:
-- Hosea 1:1-3:5; 11:1-11
-- Amos 1:1-2:16; 5:18-27
+- Hosea 1:1-3:5; Hosea 11:1-11
+- Amos 1:1-2:16; Amos 5:18-27
 - Jonah 1:1-4:11
 - Micah 1:1-5:15
 - Habakkuk 1:1-3:19; Zephaniah 1:1-3:20
@@ -37,8 +37,8 @@ Hosea 11 shifts the metaphor from marriage to parenthood, and the tenderness is 
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Hosea 1:1-3:5; 11:1-11 | The Faithful Husband |
-| [2](../day-2/) | Amos 1:1-2:16; 5:18-27 | Justice Like a River |
+| [1](../day-1/) | Hosea 1:1-3:5; Hosea 11:1-11 | The Faithful Husband |
+| [2](../day-2/) | Amos 1:1-2:16; Amos 5:18-27 | Justice Like a River |
 | [3](../day-3/) | Jonah 1:1-4:11 | Three Days in the Fish |
 | [4](../day-4/) | Micah 1:1-5:15 | The Ruler from Bethlehem |
 | [5](../day-5/) | Habakkuk 1:1-3:19; Zephaniah 1:1-3:20 | Wrestling with God and the God Who Sings |

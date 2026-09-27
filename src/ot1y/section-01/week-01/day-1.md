@@ -2,8 +2,11 @@
 week: 1
 day: 1
 title: "Days 1-3: Light, Sky, Land, and Vegetation"
-reading: "Genesis 1:1-13"
-parallel_passages: John 1:1-5, Colossians 1:15-17, Hebrews 1:1-3, 2 Corinthians 4:6
+reading:
+- Genesis 1:1-13
+parallel_passages:
+- Psalm 33:6-9
+- Psalm 104:1-9
 section: Creation Covenant
 tags:
 - covenant-1
@@ -47,7 +50,7 @@ The author of Hebrews adds a further claim: the Son is the one "through whom als
 
 **Old Testament Roots**
 
-Genesis 1:1-13 establishes the vocabulary and patterns that the rest of the Old Testament will use to describe God's saving acts. The separation of waters on Day 2 will be echoed at the Red Sea (Exodus 14:21-22) and at the Jordan River (Joshua 3:15-17). The dry land appearing from under the waters on Day 3 will be echoed after the flood (Genesis 8:13-14). Isaiah will describe the new creation God promises in the same terms: "Behold, I am doing a new thing; now it springs forth, do you not perceive it?" (Isaiah 43:19). Creation is the template; redemption is the re-creation.
+Genesis 1:1-13 establishes the vocabulary and patterns that the rest of the Old Testament will use to describe God's saving acts. The separation of waters on Day 2 will be echoed at the Red Sea (Exodus 14:21-22) and at the Jordan River (Joshua 3:15-17). The dry land appearing from under the waters on Day 3 will be echoed after the flood (Genesis 8:13-14). Isaiah will describe the new creation God promises in the same terms: "Behold, I am doing a new thing; now it springs forth, do you not perceive it?" (Isaiah 43:19). Creation is the template; redemption is the re-creation. Proverbs 8:22-31 personifies Wisdom as present at creation, "rejoicing in his inhabited world" -- a figure the New Testament identifies as Christ (1 Corinthians 1:24).
 
 **New Testament Echoes**
 
@@ -55,7 +58,7 @@ John 1:1-5 identifies the creative Word as the pre-incarnate Christ. Colossians 
 
 **Parallel Passages**
 
-Psalm 33:6-9 celebrates creation by the word: "By the word of the LORD the heavens were made." Psalm 104:1-9 describes the same ordering of waters and land in poetic form. Proverbs 8:22-31 personifies Wisdom as present at creation, "rejoicing in his inhabited world" -- a figure the New Testament identifies as Christ (1 Corinthians 1:24).
+Psalm 33:6-9 celebrates creation by the word: "By the word of the LORD the heavens were made." Psalm 104:1-9 describes the same ordering of waters and land in poetic form.
 
 ## Reflection Questions
 

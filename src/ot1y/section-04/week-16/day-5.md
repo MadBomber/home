@@ -2,8 +2,8 @@
 week: 16
 day: 5
 title: "Blessings, the Scepter, and the Coffin"
-reading: "Genesis 48:1-50:26"
-parallel_passages: Revelation 5:5, Hebrews 11:21-22, Acts 2:23, Romans 8:28, 1 Corinthians 1:27-28
+reading:
+- Genesis 48:1-50:26
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -53,15 +53,11 @@ Joseph's coffin -- the *aron* waiting in Egypt for an exodus that will not come 
 
 **Old Testament Roots**
 
-The scepter promise of Genesis 49:10 is the foundation on which all subsequent royal theology is built. When Samuel anoints David -- from the tribe of Judah -- as king (1 Samuel 16:1-13), Jacob's prophecy begins its fulfillment. When Nathan promises David an eternal throne (2 Samuel 7:12-16), the scepter is extended into perpetuity. When the Davidic line fails and the exile comes, the prophets cling to the scepter promise: "There shall come forth a shoot from the stump of Jesse" (Isaiah 11:1). Joseph's request that his bones be carried out of Egypt is fulfilled in Exodus 13:19: "Moses took the bones of Joseph with him, for Joseph had made the sons of Israel solemnly swear, saying, 'God will surely visit you, and you shall carry up my bones with you from here.'" The coffin travels. The promise holds.
+The scepter promise of Genesis 49:10 is the foundation on which all subsequent royal theology is built. When Samuel anoints David -- from the tribe of Judah -- as king (1 Samuel 16:1-13), Jacob's prophecy begins its fulfillment. When Nathan promises David an eternal throne (2 Samuel 7:12-16), the scepter is extended into perpetuity. When the Davidic line fails and the exile comes, the prophets cling to the scepter promise: "There shall come forth a shoot from the stump of Jesse" (Isaiah 11:1). Joseph's request that his bones be carried out of Egypt is fulfilled in Exodus 13:19: "Moses took the bones of Joseph with him, for Joseph had made the sons of Israel solemnly swear, saying, 'God will surely visit you, and you shall carry up my bones with you from here.'" The coffin travels. The promise holds. Psalm 2:6-9 -- "I have set my King on Zion, my holy hill... Ask of me, and I will make the nations your heritage" -- develops the scepter promise into a coronation psalm that the New Testament applies to Christ (Acts 13:33, Hebrews 1:5). Numbers 24:17 -- "A star shall come out of Jacob, and a scepter shall rise out of Israel" -- extends the scepter imagery from Judah to a future king whose rule encompasses the nations.
 
 **New Testament Echoes**
 
 Revelation 5:5 -- "Weep no more; behold, the Lion of the tribe of Judah, the Root of David, has conquered, so that he can open the scroll" -- directly fulfills Genesis 49:9-10. Christ is the Lion of Judah, the one to whom the scepter belongs, the king before whom every knee bows. Hebrews 11:21-22 honors both Jacob and Joseph for their faith in blessing and in bones: Jacob blessed Joseph's sons "bowing in worship over the head of his staff," and Joseph "made mention of the exodus" and gave instructions about his bones. Romans 8:28 -- "all things work together for good for those who love God" -- is the New Testament's broadest application of the theology Joseph articulates in Genesis 50:20.
-
-**Parallel Passages**
-
-Psalm 2:6-9 -- "I have set my King on Zion, my holy hill... Ask of me, and I will make the nations your heritage" -- develops the scepter promise into a coronation psalm that the New Testament applies to Christ (Acts 13:33, Hebrews 1:5). Numbers 24:17 -- "A star shall come out of Jacob, and a scepter shall rise out of Israel" -- extends the scepter imagery from Judah to a future king whose rule encompasses the nations.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 3
 day: 3
 title: "Consequences and Covering -- Pain, Thorns, Death, Animal Skins, and the Guarded Gate"
-reading: "Genesis 3:16-24"
-parallel_passages: John 1:29, John 19:1-5, John 19:30, John 20:15, Romans 5:12-21, Romans 8:19-22, Hebrews 9:22, Revelation 22:1-5
+reading:
+- Genesis 3:16-24
 section: Adamic Covenant
 tags:
 - covenant-2
@@ -64,15 +64,11 @@ Genesis 3:16-24 is the problem statement of the entire Bible. The rest of Script
 
 **Old Testament Roots**
 
-The thorns of Genesis 3:18 reappear throughout the prophets as a sign of judgment and desolation (Isaiah 5:6; 7:23-25; 32:13). The animal skins of 3:21 anticipate the entire Levitical sacrificial system (Leviticus 1-7, 16). The exile from Eden is echoed in Israel's exile from the Promised Land (2 Kings 17:23; 25:21) -- the same pattern of sin, consequence, and separation from God's land. The cherubim of 3:24 reappear on the tabernacle veil (Exodus 26:31), above the ark (Exodus 25:18-20), and in Ezekiel's vision of God's glory departing the temple (Ezekiel 10).
+The thorns of Genesis 3:18 reappear throughout the prophets as a sign of judgment and desolation (Isaiah 5:6; 7:23-25; 32:13). The animal skins of 3:21 anticipate the entire Levitical sacrificial system (Leviticus 1-7, 16). The exile from Eden is echoed in Israel's exile from the Promised Land (2 Kings 17:23; 25:21) -- the same pattern of sin, consequence, and separation from God's land. The cherubim of 3:24 reappear on the tabernacle veil (Exodus 26:31), above the ark (Exodus 25:18-20), and in Ezekiel's vision of God's glory departing the temple (Ezekiel 10). What God made from dust returns to dust: "to dust you shall return" (3:19) answers "formed the man of dust from the ground" (Genesis 2:7). The exile from Eden is also matched by the exile from the Promised Land threatened in Deuteronomy 28:63-68 and the promise of return in Deuteronomy 30:1-6.
 
 **New Testament Echoes**
 
 John 19:2 -- the crown of thorns on Christ's head, the curse of Genesis 3:18 worn by the Redeemer. John 1:29 -- "Behold, the Lamb of God" -- the fulfillment of the covering begun in Genesis 3:21. Romans 5:12-21 -- Adam's death and Christ's life as parallel and opposite. Romans 8:19-22 -- creation itself groans under the curse, awaiting redemption. Hebrews 9:22 -- "without the shedding of blood there is no forgiveness." Revelation 22:1-5 -- the tree of life restored, the curse removed, the exile ended.
-
-**Parallel Passages**
-
-Compare Genesis 3:19 ("to dust you shall return") with Genesis 2:7 ("formed the man of dust from the ground") -- what God made from dust returns to dust. Compare the guarded tree of life (3:24) with the accessible tree of life (Revelation 22:2). Compare the exile from Eden with the exile from the Promised Land (Deuteronomy 28:63-68) and the promise of return (Deuteronomy 30:1-6).
 
 ## Reflection Questions
 

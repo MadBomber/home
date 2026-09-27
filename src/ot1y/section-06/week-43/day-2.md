@@ -2,8 +2,9 @@
 week: 43
 day: 2
 title: "Immanuel, the Child-King, and the Suffering Servant"
-reading: "Isaiah 7:1-12:6; 52:13-53:12"
-parallel_passages: Matthew 1:22-23, Luke 1:32-33, Acts 8:32-35, 1 Peter 2:24-25
+reading:
+- Isaiah 7:1-12:6
+- Isaiah 52:13-53:12
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -16,7 +17,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Isaiah 7:1-12:6; 52:13-53:12
+- Isaiah 7:1-12:6
+- Isaiah 52:13-53:12
 
 ## Historical Context
 
@@ -50,15 +52,11 @@ Isaiah 53:10 contains perhaps the most staggering line in all of prophetic liter
 
 **Old Testament Roots**
 
-The Immanuel prophecy builds on God's promise to David in 2 Samuel 7:12-16, extending the royal line into divine territory. The branch from Jesse's stump (Isaiah 11:1) recalls the same Davidic covenant -- Jesse was David's father, and the "stump" implies the dynasty has been cut down but not destroyed. The servant's silence before his accusers (53:7) echoes the Passover lamb of Exodus 12, led to slaughter without resistance. The language of bearing sin (53:4-6, 11-12) draws on the Levitical system, particularly the scapegoat of Yom Kippur (Leviticus 16:21-22), which carried the sins of the people into the wilderness.
+The Immanuel prophecy builds on God's promise to David in 2 Samuel 7:12-16, extending the royal line into divine territory. The branch from Jesse's stump (Isaiah 11:1) recalls the same Davidic covenant -- Jesse was David's father, and the "stump" implies the dynasty has been cut down but not destroyed. The servant's silence before his accusers (53:7) echoes the Passover lamb of Exodus 12, led to slaughter without resistance. The language of bearing sin (53:4-6, 11-12) draws on the Levitical system, particularly the scapegoat of Yom Kippur (Leviticus 16:21-22), which carried the sins of the people into the wilderness. Psalm 22, the psalm of the pierced one, describes suffering that parallels Isaiah 53 in striking detail: "they have pierced my hands and feet" (Psalm 22:16), "they divide my garments among them" (Psalm 22:18). Zechariah 12:10 speaks of the same figure: "when they look on me, on him whom they have pierced, they shall mourn for him." Daniel 9:26 foresees that "an anointed one shall be cut off and shall have nothing," echoing the servant who is "cut off out of the land of the living" (Isaiah 53:8).
 
 **New Testament Echoes**
 
 Matthew 1:22-23 cites Isaiah 7:14 as fulfilled in the virgin birth. Luke 1:32-33 echoes Isaiah 9:6-7 in Gabriel's announcement. Acts 8:32-35 identifies the servant of Isaiah 53 as Jesus. 1 Peter 2:24-25 transposes Isaiah 53:5-6 into accomplished reality. Romans 15:12 cites Isaiah 11:10 ("the root of Jesse") as fulfilled in Christ's lordship over the Gentiles. Philippians 2:6-11 -- the Christ hymn -- follows the same trajectory as Isaiah 52:13-53:12: pre-existent glory, humiliation unto death, exaltation above every name.
-
-**Parallel Passages**
-
-Psalm 22 -- the psalm of the pierced one, whose suffering parallels Isaiah 53 in striking detail: "they have pierced my hands and feet" (22:16), "they divide my garments among them" (22:18). Zechariah 12:10 -- "they look on me, on him whom they have pierced, and they shall mourn for him." Daniel 9:26 -- "an anointed one shall be cut off and shall have nothing," echoing the servant who is "cut off out of the land of the living" (Isaiah 53:8).
 
 ## Reflection Questions
 

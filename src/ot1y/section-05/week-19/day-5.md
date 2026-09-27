@@ -2,8 +2,8 @@
 week: 19
 day: 5
 title: "Water from the Rock, Battle with Amalek, and Jethro's Counsel"
-reading: "Exodus 17:1-18:27"
-parallel_passages: 1 Corinthians 10:4, 1 Timothy 2:8, Hebrews 7:25
+reading:
+- Exodus 17:1-18:27
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +50,11 @@ The name *Yehoshu'a* -- Joshua -- is the Hebrew equivalent of the Greek *Iesous*
 
 **Old Testament Roots**
 
-The rock at Rephidim is echoed in Numbers 20:1-13, where Moses strikes the rock at Meribah a second time -- but this time in disobedience, for God had told him to speak to it. The contrast between the two rock episodes reveals the gravity of representation: to strike when God says speak misrepresents God's character to the people. Psalm 114:8 celebrates the original event: "who turned the rock into a pool of water, the flint into a spring of water." The war with Amalek creates a permanent enmity: "The LORD will have war with Amalek from generation to generation" (Exodus 17:16), fulfilled in Saul's war against the Amalekites (1 Samuel 15) and Haman's descent from Agag the Amalekite (Esther 3:1).
+The rock at Rephidim is echoed in Numbers 20:1-13, where Moses strikes the rock at Meribah a second time -- but this time in disobedience, for God had told him to speak to it. The contrast between the two rock episodes reveals the gravity of representation: to strike when God says speak misrepresents God's character to the people. Psalm 114:8 celebrates the original event: "who turned the rock into a pool of water, the flint into a spring of water." The war with Amalek creates a permanent enmity: "The LORD will have war with Amalek from generation to generation" (Exodus 17:16), fulfilled in Saul's war against the Amalekites (1 Samuel 15) and Haman's descent from Agag the Amalekite (Esther 3:1). Psalm 95:8-9 warns against repeating Meribah: "Do not harden your hearts, as at Meribah, as on the day at Massah in the wilderness." Isaiah 48:21 recalls the water from the rock: "They did not thirst when he led them through the deserts; he made water flow for them from the rock." Numbers 11:14-17 extends Jethro's principle when God takes some of Moses' spirit and distributes it among seventy elders.
 
 **New Testament Echoes**
 
-Paul identifies the rock as Christ (1 Corinthians 10:4). Jesus promises "rivers of living water" flowing from within the believer (John 7:38-39), connecting the wilderness rock to the Spirit's indwelling. The raised arms of Moses anticipate the cross (Hebrews 7:25, where Christ's perpetual intercession secures salvation). Paul exhorts Timothy that men should "pray, lifting holy hands" (1 Timothy 2:8) -- an echo of Moses' posture. Jethro's counsel anticipates the appointment of deacons in Acts 6:1-7, where the apostles delegate practical administration to focus on prayer and the ministry of the word.
-
-**Parallel Passages**
-
-Psalm 95:8-9 warns against repeating Meribah: "Do not harden your hearts, as at Meribah, as on the day at Massah in the wilderness." Hebrews 3:7-11 quotes this psalm as a warning to the church. Isaiah 48:21 recalls the water from the rock: "They did not thirst when he led them through the deserts; he made water flow for them from the rock." Numbers 11:14-17 extends Jethro's principle when God takes some of Moses' spirit and distributes it among seventy elders.
+Paul identifies the rock as Christ (1 Corinthians 10:4). Jesus promises "rivers of living water" flowing from within the believer (John 7:38-39), connecting the wilderness rock to the Spirit's indwelling. The raised arms of Moses anticipate the cross (Hebrews 7:25, where Christ's perpetual intercession secures salvation). Paul exhorts Timothy that men should "pray, lifting holy hands" (1 Timothy 2:8) -- an echo of Moses' posture. Jethro's counsel anticipates the appointment of deacons in Acts 6:1-7, where the apostles delegate practical administration to focus on prayer and the ministry of the word. Hebrews 3:7-11 quotes Psalm 95 as a warning to the church.
 
 ## Reflection Questions
 

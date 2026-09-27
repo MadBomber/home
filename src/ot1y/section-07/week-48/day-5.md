@@ -2,8 +2,8 @@
 week: 48
 day: 5
 title: "God's Dispute with His People -- and the Last Words Before the Silence: 'I Will Send Elijah'"
-reading: "Malachi 1:1-4:6"
-parallel_passages: Luke 1:13-17, Luke 1:76-79, Matthew 3:1-3, Matthew 11:10-14, Matthew 17:10-13, Mark 1:2-4
+reading:
+- Malachi 1:1-4:6
 section: New Covenant
 tags:
 - covenant-7
@@ -18,7 +18,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Malachi 1:1--4:6
+- Malachi 1:1-4:6
 
 ## Historical Context
 
@@ -54,15 +54,11 @@ And the promise that "the Lord whom you seek will suddenly come to his temple" (
 
 **Old Testament Roots**
 
-Malachi's covenant-lawsuit form draws on the *rib* tradition found in Deuteronomy 32 (the Song of Moses), Isaiah 1:2-20 (God's case against Judah), Hosea 4:1-3 (the LORD's indictment of Israel), and Micah 6:1-8 (God's lawsuit and the summary of what he requires). The promise to send "Elijah" points back to the historical Elijah of 1 Kings 17-19 and 2 Kings 1-2, the prophet who was taken up to heaven without dying (2 Kings 2:11) and whose return was therefore expected. The command to "remember the law of my servant Moses" (Malachi 4:4) anchors the closing of the Prophets to the Torah.
+Malachi's covenant-lawsuit form draws on the *rib* tradition found in Deuteronomy 32 (the Song of Moses), Isaiah 1:2-20 (God's case against Judah), Hosea 4:1-3 (the LORD's indictment of Israel), and Micah 6:1-8 (God's lawsuit and the summary of what he requires). The promise to send "Elijah" points back to the historical Elijah of 1 Kings 17-19 and 2 Kings 1-2, the prophet who was taken up to heaven without dying (2 Kings 2:11) and whose return was therefore expected. The command to "remember the law of my servant Moses" (Malachi 4:4) anchors the closing of the Prophets to the Torah. 2 Chronicles 36:15-16 describes the pattern Malachi's audience continues: "The LORD, the God of their fathers, sent persistently to them by his messengers ... But they kept mocking the messengers of God, despising his words and scoffing at his prophets." Isaiah 40:3 parallels Malachi 3:1: "A voice cries: 'In the wilderness prepare the way of the LORD'" -- a verse all four Gospels apply to John the Baptist. 1 Kings 19:10 captures Elijah's zeal that Malachi's promised figure will embody.
 
 **New Testament Echoes**
 
 Luke 1:13-17 fulfills Malachi 4:5-6 in the announcement of John the Baptist. Matthew 11:10 and Mark 1:2 identify John as the messenger of Malachi 3:1. Matthew 17:10-13 confirms John as the Elijah who was to come. Luke 2:22-32 records the Lord's sudden arrival at his temple -- as a baby, in the arms of his mother. Hebrews 9:14 and 1 Peter 1:19 present Christ as the unblemished offering Malachi's priests refused to provide.
-
-**Parallel Passages**
-
-2 Chronicles 36:15-16 describes the pattern Malachi's audience continues: "The LORD, the God of their fathers, sent persistently to them by his messengers... but they kept mocking the messengers of God, despising his words, and scoffing at his prophets." Isaiah 40:3 parallels Malachi 3:1: "A voice cries: 'In the wilderness prepare the way of the LORD'" -- a verse all four Gospels apply to John the Baptist. 1 Kings 19:10 captures Elijah's zeal that Malachi's promised figure will embody.
 
 ## Reflection Questions
 

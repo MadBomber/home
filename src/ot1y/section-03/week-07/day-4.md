@@ -2,8 +2,8 @@
 week: 7
 day: 4
 title: "As I Swore That the Waters of Noah -- The Covenant as a Metaphor for Unfailing Love"
-reading: "Isaiah 54:9-10"
-parallel_passages: Genesis 9:8-17, Isaiah 53:3-6, Jeremiah 31:31-34, Romans 8:31-39, Hebrews 13:20-21
+reading:
+- Isaiah 54:9-10
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -52,15 +52,11 @@ The comparison Isaiah draws between the Noahic covenant and God's love for his p
 
 **Old Testament Roots**
 
-Isaiah 54:9-10 explicitly references the Noahic covenant of Genesis 9:8-17, drawing a typological connection between God's pledge to sustain the physical world and his pledge to sustain his relationship with Israel. The passage also resonates with Psalm 89:33-34, where God declares regarding the Davidic covenant: "I will not violate my covenant or alter the word that went forth from my lips." The pattern is consistent: God's covenants, once made, are irrevocable. Jeremiah 31:35-37 will make the same argument using the fixed order of creation as proof of God's unchanging commitment to Israel.
+Isaiah 54:9-10 explicitly references the Noahic covenant of Genesis 9:8-17, drawing a typological connection between God's pledge to sustain the physical world and his pledge to sustain his relationship with Israel. The passage also resonates with Psalm 89:33-34, where God declares regarding the Davidic covenant: "I will not violate my covenant or alter the word that went forth from my lips." The pattern is consistent: God's covenants, once made, are irrevocable. Jeremiah 31:35-37 will make the same argument using the fixed order of creation as proof of God's unchanging commitment to Israel. Jeremiah 31:31-34 describes the new covenant that God will make with Israel -- writing his law on their hearts, forgiving their sin, knowing them intimately. This is the covenant of peace in its fullest articulation: not merely a pledge from outside but a transformation from within. Ezekiel 37:26 uses the same phrase -- "covenant of peace" (*berith shalom*) -- in the context of the restored kingdom, linking Isaiah's promise to the eschatological hope of a renewed creation. Hosea 2:18-20 envisions a future covenant that restores the relationship between God and his people in terms of faithfulness, steadfast love, and mercy.
 
 **New Testament Echoes**
 
 Romans 8:31-39 is the most direct New Testament parallel -- Paul's declaration that nothing in all creation can separate believers from the love of God in Christ Jesus mirrors Isaiah's claim that mountains may depart but *chesed* will not. Hebrews 13:20-21 explicitly names the "blood of the eternal covenant" as the basis for the God of peace's continuing work in believers. And Ephesians 2:14-16 declares that Christ "is our peace" (*eirene*, the Greek equivalent of *shalom*) -- he himself is the fulfillment of the *berith shelomi* that Isaiah promised.
-
-**Parallel Passages**
-
-Jeremiah 31:31-34 describes the new covenant that God will make with Israel -- writing his law on their hearts, forgiving their sin, knowing them intimately. This is the covenant of peace in its fullest articulation: not merely a pledge from outside but a transformation from within. Ezekiel 37:26 uses the same phrase -- "covenant of peace" (*berith shalom*) -- in the context of the restored kingdom, linking Isaiah's promise to the eschatological hope of a renewed creation. Hosea 2:18-20 envisions a future covenant that restores the relationship between God and his people in terms of faithfulness, steadfast love, and mercy.
 
 ## Reflection Questions
 

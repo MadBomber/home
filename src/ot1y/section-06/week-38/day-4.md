@@ -2,8 +2,10 @@
 week: 38
 day: 4
 title: "The Dedication -- The Glory Fills the House, Solomon Prays"
-reading: "1 Kings 7:1-8:66"
-parallel_passages: John 1:14, John 2:19-21, Acts 7:48-50, Hebrews 8:1-5, Matthew 27:51, Revelation 21:3, 2 Corinthians 6:16
+reading:
+- 1 Kings 7:1-8:66
+parallel_passages:
+- 2 Chronicles 5:1-7:10
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -50,7 +52,7 @@ Solomon prayed for the foreigner who would come from a far country to pray towar
 
 **Old Testament Roots**
 
-The glory filling the temple (8:10-11) echoes the glory filling the tabernacle (Exodus 40:34-35) -- Moses could not enter because of the cloud, and now the priests cannot stand. The cloud and fire that led Israel through the wilderness (Exodus 13:21-22) now rests permanently in a building. Solomon's prayer draws on Deuteronomic theology: the repeated "hear and forgive" pattern reflects the blessings-and-curses framework of Deuteronomy 28-30. The vision of foreigners coming to the temple anticipates Isaiah 56:6-7: "My house shall be called a house of prayer for all peoples."
+The glory filling the temple (8:10-11) echoes the glory filling the tabernacle (Exodus 40:34-35) -- Moses could not enter because of the cloud, and now the priests cannot stand. The cloud and fire that led Israel through the wilderness (Exodus 13:21-22) now rests permanently in a building. Solomon's prayer draws on Deuteronomic theology: the repeated "hear and forgive" pattern reflects the blessings-and-curses framework of Deuteronomy 28-30. The vision of foreigners coming to the temple anticipates Isaiah 56:6-7: "My house shall be called a house of prayer for all peoples." Solomon's prayer finds its answer in Daniel 6:10, where Daniel prays toward Jerusalem from exile -- exactly the scenario Solomon anticipated. The glory filling the temple stands in contrast with Ezekiel 10-11, where the glory departs from the temple before the Babylonian destruction, and Ezekiel 43:1-5, where the glory returns to the visionary temple.
 
 **New Testament Echoes**
 
@@ -58,7 +60,7 @@ John 1:14 -- the Word tabernacles in flesh. John 2:19-21 -- Jesus' body as the t
 
 **Parallel Passages**
 
-Compare 1 Kings 8 with 2 Chronicles 5-7, which adds the detail of fire falling from heaven to consume the sacrifices (2 Chronicles 7:1) -- another echo of God's acceptance of the tabernacle offerings. Compare Solomon's prayer with Daniel 6:10, where Daniel prays toward Jerusalem from exile -- exactly the scenario Solomon anticipated. Compare the glory filling the temple with Ezekiel 10-11, where the glory departs from the temple before the Babylonian destruction, and Ezekiel 43:1-5, where the glory returns to the visionary temple.
+Compare 1 Kings 8 with 2 Chronicles 5:1-7:10, which adds the detail of fire falling from heaven to consume the sacrifices (2 Chronicles 7:1) -- another echo of God's acceptance of the tabernacle offerings.
 
 ## Reflection Questions
 

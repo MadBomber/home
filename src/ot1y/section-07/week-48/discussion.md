@@ -29,25 +29,25 @@ This week we heard the Old Testament's final prophetic voices. Haggai rebuked a 
 
 ## Discussion Questions
 
-### Day 1: "Build the House" (Haggai 1:1--2:23)
+### Day 1: "Build the House" (Haggai 1:1-2:23)
 
 1. **Misplaced Priorities.** "Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?" (Haggai 1:4). The rebuke is not about architecture. It is about allegiance -- where you build reveals whom you serve. Where in your own life do you see the pattern Haggai identifies: personal comfort pursued while God's work goes unfinished? What would it look like to reverse the order?
 
 2. **A Greater Glory.** Haggai promises that the latter glory of the second temple will surpass the former (Haggai 2:9). By every measurable standard, this temple is inferior to Solomon's -- smaller, poorer, lacking the ark and the shekinah. The promise cannot be about the building. It must be about who will one day enter it. How does this reshape the way you evaluate the "success" of a church, a ministry, or a life -- by visible metrics or by the presence they carry?
 
-### Day 2: Night Visions (Zechariah 1:1--6:15)
+### Day 2: Night Visions (Zechariah 1:1-6:15)
 
 3. **"Not by Might, Nor by Power."** Spoken to Zerubbabel, a governor facing impossible odds in rebuilding the temple, this word negates every resource the world trusts -- military strength (*chayil*) and human capacity (*koach*) -- and replaces them with *ruach*, the Spirit. The principle is not anti-effort but anti-self-sufficiency. Where are you currently laboring in your own strength on something that requires the Spirit's power? What would it look like to work with equal diligence but different dependence?
 
 4. **The Lampstand and the Olive Trees.** Zechariah sees a golden lampstand fed continuously by two olive trees (Zechariah 4:2-3). The oil flows without human intervention -- the lamp does not run dry because the source is inexhaustible. What does this image say about the sustainability of Spirit-empowered work versus effort-driven work? How do you know when you are drawing from the olive trees and when you are running on fumes?
 
-### Day 3: True Fasting, True Justice (Zechariah 7:1--8:23)
+### Day 3: True Fasting, True Justice (Zechariah 7:1-8:23)
 
 5. **Ritual Without Reality.** The people ask whether they should continue their ritual fasts, and God responds not with liturgical instruction but with a demand for justice: "Render true judgments, show kindness and mercy to one another, do not oppress the widow, the fatherless, the sojourner, or the poor" (Zechariah 7:9-10). Why does God answer a question about fasting with a command about justice? What does this reveal about what God actually values in worship?
 
 6. **The Nations Drawn In.** Zechariah 8:23 envisions a day when "ten men from the nations of every tongue shall take hold of the robe of a Jew, saying, 'Let us go with you, for we have heard that God is with you.'" The attraction is not argument or coercion but presence -- the visible reality of God dwelling among his people. What would it take for your community to be the kind of place people are drawn to because they sense that God is there?
 
-### Day 4: The Humble King and the Pierced One (Zechariah 9:1--14:21)
+### Day 4: The Humble King and the Pierced One (Zechariah 9:1-14:21)
 
 7. **The King on a Donkey.** "Righteous and having salvation is he, humble and mounted on a donkey, on a colt, the foal of a donkey" (Zechariah 9:9). The image is deliberately anti-imperial -- not a war horse, not a chariot, not a display of force. Every empire rides a war horse. This king rides a beast of burden. What does the donkey communicate about the nature of God's kingdom? How does it challenge your own instincts about how power should be exercised?
 
@@ -55,7 +55,7 @@ This week we heard the Old Testament's final prophetic voices. Haggai rebuked a 
 
 9. **The Pierced One and the Fountain.** "When they look on me, on him whom they have pierced, they shall mourn for him, as one mourns for an only child" (Zechariah 12:10). The first-person pronoun is God's own -- the pierced one is identified with God himself. And from the piercing, a fountain for sin (13:1). The wound becomes the source. How does this passage hold together judgment and mercy, grief and cleansing, death and healing in a single image?
 
-### Day 5: God's Final Dispute (Malachi 1:1--4:6)
+### Day 5: God's Final Dispute (Malachi 1:1-4:6)
 
 10. **"How Have You Loved Us?"** God opens with tenderness: "I have loved you" (Malachi 1:2). The people's first word back is a sullen challenge: "How have you loved us?" The tone is not atheism but something more corrosive -- spiritual boredom, entitled familiarity, the assumption that God owes more than he has given. Where do you recognize this posture in yourself? What is the cure for a heart that has stopped being grateful?
 

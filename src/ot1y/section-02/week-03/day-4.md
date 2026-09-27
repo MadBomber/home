@@ -2,8 +2,9 @@
 week: 3
 day: 4
 title: "The Seed Foretold -- Immanuel, and the Child Whose Name Is Mighty God"
-reading: "Isaiah 7:14; 9:6-7"
-parallel_passages: Matthew 1:22-23, Matthew 28:20, Luke 1:31-33, Luke 2:11, John 1:14, Philippians 2:5-11, Revelation 19:16
+reading:
+- Isaiah 7:14
+- Isaiah 9:6-7
 section: Adamic Covenant
 tags:
 - covenant-2
@@ -19,7 +20,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Isaiah 7:14; 9:6-7
+- Isaiah 7:14
+- Isaiah 9:6-7
 
 ## Historical Context
 
@@ -78,15 +80,11 @@ The angel Gabriel echoes Isaiah 9:6-7 directly when he speaks to Mary: "He will 
 
 **Old Testament Roots**
 
-Isaiah 7:14 connects to the barren-wife tradition (Sarah, Rebekah, Rachel, Hannah) -- God's pattern of bringing life from impossible circumstances. Isaiah 9:6-7 connects to the Davidic covenant of 2 Samuel 7:12-16 ("your throne shall be established forever") and to the royal psalms (Psalm 2, Psalm 72, Psalm 110). The title *El Gibbor* in 9:6 connects to Isaiah 10:21, where the same title refers to God himself -- confirming that the child on the throne is divine.
+Isaiah 7:14 connects to the barren-wife tradition (Sarah, Rebekah, Rachel, Hannah) -- God's pattern of bringing life from impossible circumstances. Isaiah 9:6-7 connects to the Davidic covenant of 2 Samuel 7:12-16 ("your throne shall be established forever") and to the royal psalms (Psalm 2, Psalm 72, Psalm 110). The title *El Gibbor* in 9:6 connects to Isaiah 10:21, where the same title refers to God himself -- confirming that the child on the throne is divine. Isaiah 7:14 also looks back to Genesis 3:15, the seed of the woman -- both passages specify an unusual birth. Isaiah 9:6-7 finds a companion in Micah 5:2 ("But you, O Bethlehem Ephrathah... from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days") and in Daniel 7:13-14, where the Son of Man receives an everlasting kingdom.
 
 **New Testament Echoes**
 
 Matthew 1:22-23 -- the virgin birth as fulfillment of Isaiah 7:14. Matthew 28:20 -- "I am with you always" as the closing echo of Immanuel. Luke 1:31-33 -- Gabriel's announcement to Mary, echoing Isaiah 9:6-7. Luke 2:11 -- "For unto you is born this day in the city of David a Savior, who is Christ the Lord." John 1:14 -- the Word became flesh and "dwelt" (*eskenosen*, "tabernacled") among us. Philippians 2:5-11 -- the one who was in the form of God took the form of a servant. Revelation 19:16 -- the returning Christ bears the title "King of kings and Lord of lords."
-
-**Parallel Passages**
-
-Compare Isaiah 7:14 with Genesis 3:15 (the seed of the woman -- both passages specify an unusual birth). Compare Isaiah 9:6-7 with Micah 5:2 ("But you, O Bethlehem Ephrathah... from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days"). Compare with Daniel 7:13-14, where the Son of Man receives an everlasting kingdom.
 
 ## Reflection Questions
 

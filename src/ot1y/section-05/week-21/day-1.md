@@ -2,8 +2,8 @@
 week: 21
 day: 1
 title: "The Ark, the Mercy Seat, and the Table of Showbread"
-reading: "Exodus 25:1-40"
-parallel_passages: Romans 3:25, John 6:35, Hebrews 9:5, Hebrews 4:16
+reading:
+- Exodus 25:1-40
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,15 +49,11 @@ The table of showbread -- twelve loaves perpetually before God's face -- anticip
 
 **Old Testament Roots**
 
-The cherubim on the mercy seat connect directly to the cherubim of Genesis 3:24, who guard the way to the tree of life after the fall. The ark's placement in the Most Holy Place -- behind the veil, approached only once a year -- echoes the restricted access to Eden. The showbread recalls the manna God provided in the wilderness (Exodus 16), extending the theme that God feeds his people in every season.
+The cherubim on the mercy seat connect directly to the cherubim of Genesis 3:24, who guard the way to the tree of life after the fall. The ark's placement in the Most Holy Place -- behind the veil, approached only once a year -- echoes the restricted access to Eden. The showbread recalls the manna God provided in the wilderness (Exodus 16), extending the theme that God feeds his people in every season. Leviticus 16:1-16 describes the Day of Atonement ritual in which the high priest sprinkles blood on the *kapporet*. 1 Samuel 4:4 and 2 Samuel 6:2 describe God as "enthroned on the cherubim." Psalm 80:1 appeals to the "Shepherd of Israel... you who are enthroned upon the cherubim." The ark is consistently understood as God's earthly throne.
 
 **New Testament Echoes**
 
 Romans 3:25 identifies Christ as the *hilasterion* -- the mercy seat where God's wrath is propitiated. Hebrews 9:5 describes the cherubim of glory overshadowing the mercy seat and interprets the entire tabernacle as a "copy and shadow" of heavenly realities (Hebrews 8:5). John 6:35 and John 8:12 reveal Jesus as both the bread and the light that the tabernacle's furnishings prefigured. John 20:12 places two angels at the head and foot of where Jesus' body had lain -- the mercy seat geometry fulfilled.
-
-**Parallel Passages**
-
-Leviticus 16:1-16 describes the Day of Atonement ritual in which the high priest sprinkles blood on the *kapporet*. 1 Samuel 4:4 and 2 Samuel 6:2 describe God as "enthroned on the cherubim." Psalm 80:1 appeals to the "Shepherd of Israel... you who are enthroned upon the cherubim." The ark is consistently understood as God's earthly throne.
 
 ## Reflection Questions
 

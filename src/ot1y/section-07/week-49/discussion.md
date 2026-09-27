@@ -43,7 +43,7 @@ These are not scattered predictions assembled after the fact. They are a single 
 
 4. **Dust That Wakes.** Daniel 12:2 -- "many of those who sleep in the dust of the earth shall awake, some to everlasting life" -- is the Old Testament's clearest statement of bodily resurrection. Why do you think this revelation comes so late in the Old Testament story? What had to be established first about God's character, justice, and covenant faithfulness before this promise could be heard rightly?
 
-### Day 3: The Servant Songs (Isaiah 42:1-9; 49:1-7; 50:4-9)
+### Day 3: The Servant Songs (Isaiah 42:1-9; Isaiah 49:1-7; Isaiah 50:4-9)
 
 5. **Gentleness as Method.** The servant "will not cry aloud or lift up his voice in the streets; a bruised reed he will not break, and a faintly burning wick he will not quench" (Isaiah 42:2-3). In a world that equates power with volume and force, what does it mean that the Messiah's chosen instrument is gentleness? Where have you seen this kind of quiet strength accomplish what noise and coercion could not?
 

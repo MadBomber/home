@@ -2,8 +2,8 @@
 week: 5
 day: 3
 title: "The Covenant Announced -- 'I Will Establish My Covenant with You' -- and Noah Obeys"
-reading: "Genesis 6:17-22"
-parallel_passages: Hebrews 11:7, Genesis 9:8-17, Jeremiah 31:31-34, Luke 22:20, Philippians 2:8
+reading:
+- Genesis 6:17-22
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -52,15 +52,11 @@ Noah's total obedience -- "he did all that God commanded him" -- anticipates the
 
 **Old Testament Roots**
 
-The word *berit* (covenant) introduced here will appear over 280 times in the Old Testament, structuring God's relationship with humanity from Noah through the new covenant promise of Jeremiah 31:31-34. The language of "male and female" preserving every kind echoes Genesis 1:27-28, making the ark a miniature creation. The breath of life (*ruach chayyim*) that God withdraws in the flood is the same breath he gave in Genesis 2:7 -- judgment as the reversal of creation, the un-breathing of what God breathed.
+The word *berit* (covenant) introduced here will appear over 280 times in the Old Testament, structuring God's relationship with humanity from Noah through the new covenant promise of Jeremiah 31:31-34. The language of "male and female" preserving every kind echoes Genesis 1:27-28, making the ark a miniature creation. The breath of life (*ruach chayyim*) that God withdraws in the flood is the same breath he gave in Genesis 2:7 -- judgment as the reversal of creation, the un-breathing of what God breathed. Noah's unquestioning obedience is matched by Abraham's in Genesis 22:3 -- "Abraham rose early in the morning" -- and by Mary's in Luke 1:38 -- "Let it be to me according to your word." The pattern of faith is consistent: God speaks, the faithful obey, and the questions come later or not at all.
 
 **New Testament Echoes**
 
 Hebrews 11:7 reads Noah's obedience as faith: "being warned by God concerning events as yet unseen, in reverent fear constructed an ark." Luke 22:20 places the new covenant in Christ's blood -- the *berit* trajectory that began with Noah reaches its climax at the Last Supper. Philippians 2:8 describes Christ's obedience "to the point of death" -- the ultimate fulfillment of the pattern Genesis 6:22 establishes. Peter reads the flood waters as a type of baptism (1 Peter 3:20-21), confirming that the simultaneous judgment-and-salvation pattern finds its fulfillment in union with Christ.
-
-**Parallel Passages**
-
-Compare "I will establish my covenant with you" (Genesis 6:18) with "I will make a new covenant" (Jeremiah 31:31) -- the first and the promised-final covenants both initiated entirely by God. Compare Noah's unquestioning obedience with Abraham's in Genesis 22:3 -- "Abraham rose early in the morning" -- and with Mary's in Luke 1:38 -- "Let it be to me according to your word." The pattern of faith is consistent: God speaks, the faithful obey, and the questions come later or not at all.
 
 ## Reflection Questions
 

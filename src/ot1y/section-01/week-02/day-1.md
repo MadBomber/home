@@ -2,8 +2,8 @@
 week: 2
 day: 1
 title: "The Seventh Day -- God Rests and Sanctifies"
-reading: "Genesis 2:1-3"
-parallel_passages: Exodus 20:8-11, Hebrews 4:1-11, Matthew 11:28-30, Mark 2:27-28, Colossians 2:16-17
+reading:
+- Genesis 2:1-3
 section: Creation Covenant
 tags:
 - covenant-1
@@ -59,15 +59,11 @@ And consider the timing of Christ's own rest. On Good Friday, Jesus "finished" h
 
 **Old Testament Roots**
 
-Exodus 20:8-11 grounds the Sabbath commandment directly in Genesis 2:1-3: "For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy." Deuteronomy 5:12-15 gives a second rationale for the Sabbath -- not creation but liberation from slavery in Egypt. The Sabbath carries both a creation theology and a redemption theology. Isaiah 58:13-14 calls the Sabbath "a delight," revealing that the command to rest is also an invitation to joy.
+Exodus 20:8-11 grounds the Sabbath commandment directly in Genesis 2:1-3: "For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy." Deuteronomy 5:12-15 gives a second rationale for the Sabbath -- not creation but liberation from slavery in Egypt. The Sabbath carries both a creation theology and a redemption theology. Isaiah 58:13-14 calls the Sabbath "a delight," revealing that the command to rest is also an invitation to joy. Exodus 31:12-17 calls the Sabbath a "sign" of the covenant between God and Israel.
 
 **New Testament Echoes**
 
-Matthew 11:28-30 -- Jesus offers himself as the true rest. Mark 2:27-28 -- the Son of Man is Lord of the Sabbath. Hebrews 4:1-11 -- a Sabbath rest remains for the people of God. Colossians 2:16-17 -- the Sabbath is a shadow; Christ is the substance. John 19:30 -- "It is finished," followed by the Sabbath rest of the tomb.
-
-**Parallel Passages**
-
-Compare Genesis 2:1-3 with Exodus 31:12-17, where the Sabbath is called a "sign" of the covenant between God and Israel. Compare with Revelation 14:13 -- "Blessed are the dead who die in the Lord from now on... that they may rest from their labors" -- the final Sabbath, the rest that has no evening.
+Matthew 11:28-30 -- Jesus offers himself as the true rest. Mark 2:27-28 -- the Son of Man is Lord of the Sabbath. Hebrews 4:1-11 -- a Sabbath rest remains for the people of God. Colossians 2:16-17 -- the Sabbath is a shadow; Christ is the substance. John 19:30 -- "It is finished," followed by the Sabbath rest of the tomb. Revelation 14:13 -- "Blessed are the dead who die in the Lord from now on... that they may rest from their labors" -- points to the final Sabbath, the rest that has no evening.
 
 ## Reflection Questions
 

@@ -2,8 +2,11 @@
 week: 16
 day: 1
 title: "The Brothers Come to Egypt"
-reading: "Genesis 42:1-38"
-parallel_passages: Acts 7:9-13, Romans 8:28, Psalm 105:16-22
+reading:
+- Genesis 42:1-38
+parallel_passages:
+- Acts 7:11-12
+- Psalm 105:16
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -46,7 +49,7 @@ The dreams of Genesis 37 -- the sheaves bowing, the sun and moon and stars bowin
 
 **Old Testament Roots**
 
-The famine that drives Jacob's family to Egypt fulfills the prophecy of Genesis 15:13, where God told Abraham that his offspring would be "sojourners in a land that is not theirs." The journey down to Egypt echoes Abraham's own famine-driven descent in Genesis 12:10. Psalm 105:16-22 remembers this moment explicitly: "When he summoned a famine on the land and broke all supply of bread, he had sent a man ahead of them, Joseph, who was sold as a slave." The psalmist sees the famine not as accident but as divine summons -- God breaking the bread supply to draw his people toward the man he had already positioned to save them.
+The famine that drives Jacob's family to Egypt fulfills the prophecy of Genesis 15:13, where God told Abraham that his offspring would be "sojourners in a land that is not theirs." The journey down to Egypt echoes Abraham's own famine-driven descent in Genesis 12:10. Psalm 105:16-22 remembers this moment explicitly: "When he summoned a famine on the land and broke all supply of bread, he had sent a man ahead of them, Joseph, who was sold as a slave." The psalmist sees the famine not as accident but as divine summons -- God breaking the bread supply to draw his people toward the man he had already positioned to save them. Psalm 42:1-2 -- "As a deer pants for flowing streams, so pants my soul for you, O God" -- captures the desperation that drives the brothers to Egypt, a physical hunger that mirrors spiritual need. Isaiah 55:1 -- "Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat!" -- echoes the invitation to come and receive sustenance from the one who holds all provision.
 
 **New Testament Echoes**
 
@@ -54,7 +57,7 @@ Stephen's speech in Acts 7:9-13 recounts this scene: "The patriarchs, jealous of
 
 **Parallel Passages**
 
-Psalm 42:1-2 -- "As a deer pants for flowing streams, so pants my soul for you, O God" -- captures the desperation that drives the brothers to Egypt, a physical hunger that mirrors spiritual need. Isaiah 55:1 -- "Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat!" -- echoes the invitation to come and receive sustenance from the one who holds all provision.
+Stephen retells this journey in Acts 7:11-12: when "there came a famine throughout all Egypt and Canaan" and the fathers "could find no food," Jacob heard there was grain in Egypt and sent his sons down. Psalm 105:16 names the same famine as the LORD's own act: "When he summoned a famine on the land and broke all supply of bread."
 
 ## Reflection Questions
 

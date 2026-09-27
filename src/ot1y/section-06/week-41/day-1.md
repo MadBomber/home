@@ -2,8 +2,8 @@
 week: 41
 day: 1
 title: "The Parade of Kings -- Decline in Israel and Judah"
-reading: "2 Kings 14:1-15:38"
-parallel_passages: Hosea 1:4-5, Amos 7:10-17, Isaiah 6:1-13
+reading:
+- 2 Kings 14:1-15:38
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,15 +48,11 @@ The contrast runs deeper than longevity. The kings of Israel and Judah "did not 
 
 **Old Testament Roots**
 
-The assassination of king after king in Israel fulfills the trajectory set in motion by Jeroboam I's original sin (1 Kings 12:26-33). The golden calves at Dan and Bethel were not merely cultic innovations -- they were covenant violations that severed the north from the Davidic line and the Jerusalem temple. Every king who "walked in the way of Jeroboam" inherited a kingdom already under sentence. The prophecy of Ahijah the Shilonite -- "the LORD will strike Israel as a reed is shaken in the water, and root up Israel out of this good land" (1 Kings 14:15) -- is being fulfilled one assassination at a time.
+The assassination of king after king in Israel fulfills the trajectory set in motion by Jeroboam I's original sin (1 Kings 12:26-33). The golden calves at Dan and Bethel were not merely cultic innovations -- they were covenant violations that severed the north from the Davidic line and the Jerusalem temple. Every king who "walked in the way of Jeroboam" inherited a kingdom already under sentence. The prophecy of Ahijah the Shilonite -- "the LORD will strike Israel as a reed is shaken in the water, and root up Israel out of this good land" (1 Kings 14:15) -- is being fulfilled one assassination at a time. Hosea 1:4-5 pronounces judgment on the dynasty of Jehu, fulfilled when Zechariah son of Jeroboam is assassinated (2 Kings 15:10). Amos 7:10-17 records the confrontation between the prophet and Amaziah the priest of Bethel during Jeroboam II's reign -- prophetic rebuke delivered at the height of political power. Isaiah 6:1-13 records Isaiah's vision of the LORD on his throne "in the year that King Uzziah died" -- the true King revealed at precisely the moment the earthly king's reign ends.
 
 **New Testament Echoes**
 
 Jesus warns against the kind of incremental spiritual decay these chapters catalogue: "No one can serve two masters" (Matthew 6:24). The high places that Judah's kings left standing are the Old Testament equivalent of the divided loyalty Jesus rejects. Paul echoes the same concern: "Do not be conformed to this world, but be transformed by the renewal of your mind" (Romans 12:2). The parade of kings who conformed to Jeroboam's pattern instead of being transformed by covenant faithfulness is the negative illustration of what Paul commands.
-
-**Parallel Passages**
-
-Hosea 1:4-5 pronounces judgment on the dynasty of Jehu, fulfilled when Zechariah son of Jeroboam is assassinated (2 Kings 15:10). Amos 7:10-17 records the confrontation between the prophet and Amaziah the priest of Bethel during Jeroboam II's reign -- prophetic rebuke delivered at the height of political power. Isaiah 6:1-13 records Isaiah's vision of the LORD on his throne "in the year that King Uzziah died" -- the true King revealed at precisely the moment the earthly king's reign ends.
 
 ## Reflection Questions
 

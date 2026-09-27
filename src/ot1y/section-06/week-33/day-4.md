@@ -2,8 +2,10 @@
 week: 33
 day: 4
 title: "Saul Hunts David -- Spears, Plots, and the Spirit That Will Not Be Stopped"
-reading: "1 Samuel 19:1-24"
-parallel_passages: Psalm 59:1-4, Matthew 2:13-15, Acts 9:23-25, Romans 8:28-31, John 10:28-29, Revelation 12:13-16
+reading:
+- 1 Samuel 19:1-24
+parallel_passages:
+- Psalm 59:1-4
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -54,11 +56,11 @@ Michal's lowering of David through a window echoes Rahab's lowering of the Israe
 
 **New Testament Echoes**
 
-Matthew 2:13-15 -- the holy family's flight to Egypt, the new David escaping the new Saul. Acts 9:23-25 -- Paul's escape from Damascus through a window in the wall, a direct parallel to David's escape through the window. John 10:28-29 -- "No one will snatch them out of my hand" -- the theological principle demonstrated at Ramah. Romans 8:28-31 -- the confidence that nothing can separate God's people from his purposes.
+Matthew 2:13-15 -- the holy family's flight to Egypt, the new David escaping the new Saul. Acts 9:23-25 -- Paul's escape from Damascus through a window in the wall, a direct parallel to David's escape through the window. John 10:28-29 -- "No one will snatch them out of my hand" -- the theological principle demonstrated at Ramah. Romans 8:28-31 -- the confidence that nothing can separate God's people from his purposes. Caiaphas's involuntary prophecy that "it is better for you that one man should die for the people" (John 11:49-52) belongs with Saul's involuntary prophesying (19:24): God uses his opponents' own mouths and bodies to advance his purposes -- the ultimate demonstration that sovereignty belongs to the LORD and not to the kings and priests who imagine they control the narrative.
 
 **Parallel Passages**
 
-Compare Saul's involuntary prophesying (19:24) with Balaam's involuntary blessing (Numbers 24:2-9) and with Caiaphas's involuntary prophecy that "it is better that one man should die for the people" (John 11:49-52). In each case, God uses his opponents' own mouths and bodies to advance his purposes -- the ultimate demonstration that sovereignty belongs to the LORD and not to the kings and priests who imagine they control the narrative.
+Psalm 59 is titled "A Miktam of David, when Saul sent men to watch his house in order to kill him," tying it to this night (19:11), and its opening plea (Psalm 59:1-4) is the prayer of the man inside that house: "Deliver me from my enemies, O my God; protect me from those who rise up against me" (Psalm 59:1).
 
 ## Reflection Questions
 

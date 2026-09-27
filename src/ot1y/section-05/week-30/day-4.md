@@ -2,8 +2,8 @@
 week: 30
 day: 4
 title: "Samson, the Levite's Concubine, and the Cry for a King"
-reading: "Judges 13:1-21:25"
-parallel_passages: Philippians 2:5-11, Romans 1:18-32, Luke 19:10, Revelation 21:1-5
+reading:
+- Judges 13:1-21:25
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -19,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Judges 13:1--21:25
+- Judges 13:1-21:25
 
 ## Historical Context
 
@@ -53,15 +53,11 @@ The contrast between Judges' ending and the New Testament's ending is the entire
 
 **Old Testament Roots**
 
-Samson's birth announcement echoes the announcements of Isaac (Genesis 18:10) and Samuel (1 Samuel 1:11-20) -- all born to women who could not conceive, all set apart for God's purposes. The Gibeah narrative in Judges 19 deliberately echoes Genesis 19 (Sodom) in its vocabulary, structure, and horror -- the narrator is making the theological point that Israel has become indistinguishable from Sodom. The cry "no king in Israel" points forward to 1 Samuel 8, where the people will demand a king -- and get Saul, who will prove that merely having a king is not enough. The king must be the right one.
+Samson's birth announcement echoes the announcements of Isaac (Genesis 18:10) and Samuel (1 Samuel 1:11-20) -- all born to women who could not conceive, all set apart for God's purposes. The Gibeah narrative in Judges 19 deliberately echoes Genesis 19 (Sodom) in its vocabulary, structure, and horror -- the narrator is making the theological point that Israel has become indistinguishable from Sodom. The cry "no king in Israel" points forward to 1 Samuel 8, where the people will demand a king -- and get Saul, who will prove that merely having a king is not enough. The king must be the right one. Compare the refrain "no king in Israel" (Judges 21:25) with Samuel's warnings about kingship (1 Samuel 8:10-18) and with the arrival of David (1 Samuel 16:1-13).
 
 **New Testament Echoes**
 
-Hebrews 11:32 includes Samson among the heroes of faith -- a remarkable grace that honors what God accomplished through him despite his failures. Philippians 2:5-11 provides the Christological counterpoint to Samson: Christ, "though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself" -- the anti-Samson, who was powerful and obedient. Romans 1:18-32 traces the same downward spiral that Judges 17-21 narrates. Luke 19:10 and Matthew 9:12-13 present Jesus as the king who comes for the broken, the lost, and the morally destroyed -- the very people Judges describes.
-
-**Parallel Passages**
-
-Compare Samson's final prayer (Judges 16:28) with Jesus' prayers from the cross (Luke 23:34, 46) -- both pray in the moment of death, but one prays for revenge and the other for forgiveness. Compare the Gibeah narrative (Judges 19) with the Sodom narrative (Genesis 19) to see how the narrator uses literary echo to make theological argument. Compare the refrain "no king in Israel" (Judges 21:25) with Samuel's warnings about kingship (1 Samuel 8:10-18) and with the arrival of David (1 Samuel 16:1-13).
+Hebrews 11:32 includes Samson among the heroes of faith -- a remarkable grace that honors what God accomplished through him despite his failures. Philippians 2:5-11 provides the Christological counterpoint to Samson: Christ, "though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself" -- the anti-Samson, who was powerful and obedient. Romans 1:18-32 traces the same downward spiral that Judges 17-21 narrates. Luke 19:10 and Matthew 9:12-13 present Jesus as the king who comes for the broken, the lost, and the morally destroyed -- the very people Judges describes. Compare Samson's final prayer (Judges 16:28) with Jesus' prayers from the cross (Luke 23:34, 46) -- both pray in the moment of death, but one prays for revenge and the other for forgiveness.
 
 ## Reflection Questions
 

@@ -35,7 +35,7 @@ This week we witnessed the arrival of the impossible son. Isaac is born -- twent
 
 2. **The Painful Separation.** God tells Abraham to listen to Sarah and send Hagar and Ishmael away: "Through Isaac shall your offspring be named" (21:12). The scene is grievous -- Abraham rises early, gives bread and water, and sends them into the wilderness. Yet God promises to make Ishmael a nation and hears the boy's cry in the desert. How do you hold together the harshness of the separation and the tenderness of God's provision for those outside the chosen line?
 
-### Day 2: The Walk to Moriah (Genesis 21:22-34; 22:1-8)
+### Day 2: The Walk to Moriah (Genesis 21:22-34; Genesis 22:1-8)
 
 3. **The Nature of the Test.** "After these things God tested Abraham" (22:1). The Hebrew *nissah* means to test, prove, or refine -- not to tempt toward evil. What is the difference between testing and tempting? What was God revealing about Abraham's heart, and why would such a test be necessary after decades of faithfulness?
 
@@ -43,7 +43,7 @@ This week we witnessed the arrival of the impossible son. Isaac is born -- twent
 
 5. **"We Will Come Back."** Abraham tells the servants, "I and the boy will go over there and worship and come back to you" (22:5). The plural verb -- "come back" -- is either desperate faith or unconscious prophecy. Hebrews 11:19 says Abraham "considered that God was able even to raise him from the dead." What does it mean to obey a command you cannot understand on the basis of a character you trust?
 
-### Day 3: The Knife, the Ram, the Name (Genesis 22:9-19)
+### Day 3: The Knife, the Ram, the Name (Genesis 22:9-24)
 
 6. **Isaac's Question.** "Behold, the fire and the wood, but where is the lamb for a burnt offering?" (22:7). This question echoes across the centuries -- through the tabernacle, through Solomon's temple, through millions of animal sacrifices -- until John the Baptist answers it: "Behold, the Lamb of God" (John 1:29). How does reading Isaac's question in light of its final answer change the way you understand the entire Old Testament sacrificial system?
 

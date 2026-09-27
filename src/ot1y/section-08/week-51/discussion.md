@@ -45,7 +45,7 @@ The empires that seemed eternal have all fallen. The kingdom Daniel saw has not 
 
 5. **Horns That Break.** The great horn of the goat (Alexander) breaks at the height of its power, and four horns replace it. Empires fracture even at the peak of their strength. What does the pattern of imperial fragmentation reveal about the inherent instability of human power? How does this pattern make Daniel 7:14's "everlasting dominion, which shall not pass away" all the more remarkable?
 
-### Day 3: The Anointed One Cut Off and the Resurrection (Daniel 9:20-27; 12:1-13)
+### Day 3: The Anointed One Cut Off and the Resurrection (Daniel 9:20-27; Daniel 12:1-13)
 
 6. **Cross Before Crown.** Daniel 9:26 says the anointed one will be "cut off and shall have nothing," and Daniel 12:2 promises resurrection from the dust. The Son of Man who receives everlasting dominion first suffers -- cut off from the living. How does the sequence -- death, then dominion; cross, then crown -- challenge expectations of what messianic victory looks like? Why must the king die before he reigns?
 
@@ -57,7 +57,7 @@ The empires that seemed eternal have all fallen. The kingdom Daniel saw has not 
 
 9. **One LORD, One Name.** "On that day the LORD will be one and his name one" (Zechariah 14:9). The fractured loyalties, the multiplied idolatries, the endless compromises -- all resolved. What would it look like for the LORD to be "one" in your own life -- not competing with other allegiances but reigning without rival? What idolatries, subtle or overt, does this verse expose?
 
-### Day 5: The Peaceable Kingdom (Isaiah 11:1-16; 2:1-5)
+### Day 5: The Peaceable Kingdom (Isaiah 11:1-16; Isaiah 2:1-5)
 
 10. **The Stump That Sprouts.** Isaiah 11 begins with a stump -- Jesse's dynasty cut down, apparently dead. But a shoot springs from it, and the Spirit rests upon the shoot with sevenfold fullness. What does the image of a stump suggest about the apparent failure of God's promises? How does the shoot from a dead stump become the most hopeful image in the Old Testament?
 

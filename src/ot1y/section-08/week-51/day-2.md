@@ -2,8 +2,8 @@
 week: 51
 day: 2
 title: "The Ram and the Goat -- Empires Rise and Fall"
-reading: "Daniel 8:1-27"
-parallel_passages: Revelation 13:11-18, Acts 17:26-27, Ephesians 1:9-10, James 4:13-15
+reading:
+- Daniel 8:1-27
 section: Consummation
 tags:
 - covenant-8
@@ -51,15 +51,11 @@ Paul places the entire sweep of imperial history under Christ's lordship in a si
 
 **Old Testament Roots**
 
-The ram and goat imagery echoes the sacrificial system: both animals feature prominently in Levitical offerings (Leviticus 16:5-10). The irony is pointed -- the empires that will desecrate the temple are symbolized by the very animals the temple uses for atonement. The "host of heaven" cast down and trampled (Daniel 8:10) recalls the cosmic warfare language of Isaiah 14:12-15, where a tyrant reaches for the stars and is cast into the pit. The "2,300 evenings and mornings" (Daniel 8:14) echoes the creation days of Genesis 1 -- the daily rhythm of evening and morning that structures God's ordering of the world.
+The ram and goat imagery echoes the sacrificial system: both animals feature prominently in Levitical offerings (Leviticus 16:5-10). The irony is pointed -- the empires that will desecrate the temple are symbolized by the very animals the temple uses for atonement. The "host of heaven" cast down and trampled (Daniel 8:10) recalls the cosmic warfare language of Isaiah 14:12-15, where a tyrant reaches for the stars and is cast into the pit. The "2,300 evenings and mornings" (Daniel 8:14) echoes the creation days of Genesis 1 -- the daily rhythm of evening and morning that structures God's ordering of the world. Daniel 2:36-45, the statue of four metals, represents the same imperial succession from a different angle. Daniel 11:2-4 gives a more detailed prophecy of the Persian and Greek sequence. Isaiah 10:5-12 presents Assyria as God's instrument of judgment, raised and felled according to divine purpose.
 
 **New Testament Echoes**
 
 Matthew 24:15 directly cites Daniel's "abomination of desolation" as a future event. 2 Thessalonians 2:3-4 describes a "man of lawlessness" who "takes his seat in the temple of God, proclaiming himself to be God" -- extending the Antiochus pattern into the eschatological future. Revelation 13:5-7 depicts a beast given authority for a limited time to make war on the saints -- the same temporal limitation ("a time, times, and half a time") that governs the persecution in Daniel.
-
-**Parallel Passages**
-
-Daniel 2:36-45 -- the statue of four metals, representing the same imperial succession from a different angle. Daniel 11:2-4 -- a more detailed prophecy of the Persian and Greek sequence. Isaiah 10:5-12 -- Assyria as God's instrument of judgment, raised and felled according to divine purpose.
 
 ## Reflection Questions
 

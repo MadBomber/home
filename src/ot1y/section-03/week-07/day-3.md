@@ -2,8 +2,8 @@
 week: 7
 day: 3
 title: "Noah's Failure -- The Flood Purged the World but Not the Human Heart"
-reading: "Genesis 9:18-29"
-parallel_passages: Genesis 3:7-10, Genesis 6:5, Genesis 8:21, Romans 3:10-12, Romans 5:12-21, Hebrews 4:15
+reading:
+- Genesis 9:18-29
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -52,15 +52,11 @@ The contrast between Noah and Christ is the contrast Paul draws in Romans 5:12-2
 
 **Old Testament Roots**
 
-The parallel between Noah's exposure and Adam's nakedness in Genesis 3:7-10 is unmistakable. Adam and Eve "knew that they were naked" and attempted to cover themselves; Noah lies naked and must be covered by others. Both episodes follow a moment of consuming something from a plant -- the fruit of the tree, the fruit of the vine -- and both result in shame, exposure, and consequences that ripple through subsequent generations. The literary pattern is deliberate: Noah recapitulates Adam's fall, confirming that the cycle of sin has not been broken by the flood.
+The parallel between Noah's exposure and Adam's nakedness in Genesis 3:7-10 is unmistakable. Adam and Eve "knew that they were naked" and attempted to cover themselves; Noah lies naked and must be covered by others. Both episodes follow a moment of consuming something from a plant -- the fruit of the tree, the fruit of the vine -- and both result in shame, exposure, and consequences that ripple through subsequent generations. The literary pattern is deliberate: Noah recapitulates Adam's fall, confirming that the cycle of sin has not been broken by the flood. Lot's drunkenness and the resulting scandal with his daughters (Genesis 19:30-38) mirrors Noah's episode with troubling precision -- both righteous men, both delivered from judgment, both undone by wine. David's sin with Bathsheba (2 Samuel 11) follows a similar pattern: the man after God's own heart falls grievously at the height of his success. The recurring pattern in Scripture is clear: no human deliverer, however righteous, can sustain the righteousness the world needs. Only Christ breaks the pattern.
 
 **New Testament Echoes**
 
 Paul's argument in Romans 5:12-21 -- that sin entered through one man and death through sin -- provides the theological framework for understanding Noah's failure. If even the best man of his generation cannot sustain righteousness, the need for a "second man" who is "from heaven" (1 Corinthians 15:47) is undeniable. Peter's reference to Noah's salvation "through water" as a type of baptism (1 Peter 3:20-21) carries an implicit acknowledgment that the water saved but did not sanctify -- the deeper cleansing belongs to the "appeal to God for a good conscience, through the resurrection of Jesus Christ."
-
-**Parallel Passages**
-
-Lot's drunkenness and the resulting scandal with his daughters (Genesis 19:30-38) mirrors Noah's episode with troubling precision -- both righteous men, both delivered from judgment, both undone by wine. David's sin with Bathsheba (2 Samuel 11) follows a similar pattern: the man after God's own heart falls grievously at the height of his success. The recurring pattern in Scripture is clear: no human deliverer, however righteous, can sustain the righteousness the world needs. Only Christ breaks the pattern.
 
 ## Reflection Questions
 

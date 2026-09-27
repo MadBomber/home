@@ -2,8 +2,8 @@
 week: 8
 day: 1
 title: "The Sons of Japheth and Ham -- The Nations Spread Across the Earth"
-reading: "Genesis 10:1-20"
-parallel_passages: Acts 17:26-27, Revelation 7:9, Matthew 28:19, Romans 1:18-23
+reading:
+- Genesis 10:1-20
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -51,15 +51,11 @@ Paul, standing before the Athenian philosophers on Mars Hill, declares that God 
 
 **Old Testament Roots**
 
-The Table of Nations builds on the blessing and commission of Genesis 9:1 -- "Be fruitful and multiply and fill the earth." The spreading of the nations is the outworking of that command, even when it is accomplished through the judgment of Babel. The genealogical structure echoes the *toledot* of Genesis 5, continuing the line from Adam through Noah to all the peoples of the earth. The inclusion of Canaan among Ham's descendants (10:15-19) foreshadows the long conflict between Israel and the Canaanite peoples that will dominate Joshua and Judges.
+The Table of Nations builds on the blessing and commission of Genesis 9:1 -- "Be fruitful and multiply and fill the earth." The spreading of the nations is the outworking of that command, even when it is accomplished through the judgment of Babel. The genealogical structure echoes the *toledot* of Genesis 5, continuing the line from Adam through Noah to all the peoples of the earth. The inclusion of Canaan among Ham's descendants (10:15-19) foreshadows the long conflict between Israel and the Canaanite peoples that will dominate Joshua and Judges. Deuteronomy 32:8 declares that "when the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders of the peoples according to the number of the sons of God" (or "sons of Israel," depending on the text tradition). This verse reads the Table of Nations as a deliberate act of divine apportionment. Psalm 87 envisions God registering the nations -- "Rahab and Babylon... Philistia and Tyre, with Cush" -- among those who know him, echoing the very peoples listed in Genesis 10.
 
 **New Testament Echoes**
 
 The Great Commission of Matthew 28:19 -- "make disciples of all nations" -- is the redemptive counterpart to the Table of Nations. Paul's sermon in Athens (Acts 17:26-27) explicitly connects the diversity of nations to God's providential purpose. The vision of Revelation 7:9 -- a multitude from every nation, tribe, people, and language -- is the eschatological fulfillment of what Genesis 10 merely catalogues. The table becomes a throne room.
-
-**Parallel Passages**
-
-Deuteronomy 32:8 declares that "when the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders of the peoples according to the number of the sons of God" (or "sons of Israel," depending on the text tradition). This verse reads the Table of Nations as a deliberate act of divine apportionment. Psalm 87 envisions God registering the nations -- "Rahab and Babylon... Philistia and Tyre, with Cush" -- among those who know him, echoing the very peoples listed in Genesis 10.
 
 ## Reflection Questions
 

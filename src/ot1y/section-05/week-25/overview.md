@@ -7,7 +7,7 @@ chapters:
 - Numbers 1:1-2:34
 - Numbers 3:1-4:49
 - Numbers 5:1-6:27
-- Numbers 9:1-10:36
+- Numbers 7:1-10:36
 - Numbers 11:1-14:45
 tags:
 - covenant-5
@@ -40,7 +40,7 @@ God's response is judgment tempered by mercy. The generation that refused to ent
 | [1](../day-1/) | Numbers 1:1-2:34 | The Census and the Camp |
 | [2](../day-2/) | Numbers 3:1-4:49 | The Levites -- Guardians of the Holy |
 | [3](../day-3/) | Numbers 5:1-6:27 | Purity, the Nazirite Vow, and the Aaronic Blessing |
-| [4](../day-4/) | Numbers 9:1-10:36 | The Second Passover, the Cloud, and the March |
+| [4](../day-4/) | Numbers 7:1-10:36 | The Second Passover, the Cloud, and the March |
 | [5](../day-5/) | Numbers 11:1-14:45 | Complaint, Quail, the Spies, and the Verdict |
 
 ## Key Themes

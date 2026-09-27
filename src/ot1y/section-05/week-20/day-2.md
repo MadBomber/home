@@ -2,8 +2,11 @@
 week: 20
 day: 2
 title: "The Ten Commandments -- The Moral Heart of the Covenant"
-reading: "Exodus 20:1-21"
-parallel_passages: Matthew 5:17-48, Romans 13:8-10, Matthew 22:36-40
+reading:
+- Exodus 20:1-21
+parallel_passages:
+- Deuteronomy 5:6-21
+- Nehemiah 9:13-14
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -48,7 +51,7 @@ Paul draws the connection between the commandments and Christ to its simplest ex
 
 **Old Testament Roots**
 
-The Decalogue is rooted in creation. The Sabbath commandment explicitly references Genesis 2:2-3. The prohibition against murder rests on the *imago Dei* established in Genesis 1:26-27 and made explicit in Genesis 9:6: "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." The command against coveting reaches back to the garden, where Eve "saw that the tree was good for food, and that it was a delight to the eyes" (Genesis 3:6) -- the first act of covetousness in Scripture.
+The Decalogue is rooted in creation. The Sabbath commandment explicitly references Genesis 2:2-3. The prohibition against murder rests on the *imago Dei* established in Genesis 1:26-27 and made explicit in Genesis 9:6: "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." The command against coveting reaches back to the garden, where Eve "saw that the tree was good for food, and that it was a delight to the eyes" (Genesis 3:6) -- the first act of covetousness in Scripture. Psalm 19:7-11 celebrates the law as sweeter than honey, more desirable than gold. Psalm 119 devotes 176 verses to the beauty of Torah.
 
 **New Testament Echoes**
 
@@ -56,7 +59,7 @@ Matthew 5:17-48 -- Jesus fulfills and deepens every commandment. Romans 3:20 -- 
 
 **Parallel Passages**
 
-Deuteronomy 5:6-21 repeats the Decalogue with slight variations, grounding the Sabbath in the exodus rather than creation. Psalm 19:7-11 celebrates the law as sweeter than honey, more desirable than gold. Psalm 119 devotes 176 verses to the beauty of Torah. Nehemiah 9:13-14 recounts the giving of the law as an act of divine generosity.
+Deuteronomy 5:6-21 repeats the Decalogue with slight variations, grounding the Sabbath in the exodus rather than creation. Nehemiah 9:13-14 recounts the giving of the law as an act of divine generosity.
 
 ## Reflection Questions
 

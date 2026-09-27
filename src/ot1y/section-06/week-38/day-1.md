@@ -2,8 +2,10 @@
 week: 38
 day: 1
 title: "Solomon's Accession -- The Struggle for the Throne"
-reading: "1 Kings 1:1-2:46"
-parallel_passages: Matthew 1:6, Luke 1:32-33, Hebrews 1:8-9, Revelation 3:21, Philippians 2:6-8
+reading:
+- 1 Kings 1:1-2:46
+parallel_passages:
+- 1 Chronicles 28-29
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -51,7 +53,7 @@ The writer of Hebrews draws the contrast to its sharpest point: "Your throne, O 
 
 **Old Testament Roots**
 
-The succession crisis echoes earlier power struggles: Jacob and Esau (Genesis 25-27), where divine election overrides primogeniture; Joseph and his brothers (Genesis 37-50), where the chosen son suffers before he rules; David and Saul (1 Samuel 16-31), where God's anointed waits while the rejected king clings to power. In each case, God's choice does not follow human expectation. The youngest, the overlooked, the unlikely -- these are the ones God lifts to the throne. Solomon, the child of the restored marriage, born from the wreckage of David's worst sin, continues the pattern.
+The succession crisis echoes earlier power struggles: Jacob and Esau (Genesis 25-27), where divine election overrides primogeniture; Joseph and his brothers (Genesis 37-50), where the chosen son suffers before he rules; David and Saul (1 Samuel 16-31), where God's anointed waits while the rejected king clings to power. In each case, God's choice does not follow human expectation. The youngest, the overlooked, the unlikely -- these are the ones God lifts to the throne. Solomon, the child of the restored marriage, born from the wreckage of David's worst sin, continues the pattern. Adonijah's bid for the throne also invites comparison with 2 Samuel 15-19, Absalom's earlier coup attempt.
 
 **New Testament Echoes**
 
@@ -59,7 +61,7 @@ Matthew 1:6 -- Solomon's place in the genealogy of Christ, explicitly linked to 
 
 **Parallel Passages**
 
-Compare 1 Kings 1-2 with 2 Samuel 15-19 (Absalom's earlier coup attempt) and 1 Chronicles 28-29 (the Chronicler's more liturgical account of the transition, emphasizing David's temple preparations and Solomon's anointing before the assembly). The different emphases reveal different theological purposes: Kings focuses on the political realities; Chronicles focuses on the worship context.
+Compare 1 Kings 1-2 with 1 Chronicles 28-29, the Chronicler's more liturgical account of the transition, emphasizing David's temple preparations and Solomon's anointing before the assembly. The different emphases reveal different theological purposes: Kings focuses on the political realities; Chronicles focuses on the worship context.
 
 ## Reflection Questions
 

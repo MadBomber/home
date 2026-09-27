@@ -2,8 +2,8 @@
 week: 28
 day: 4
 title: "Achan's Sin and Ai -- Hidden Disobedience and Covenant Renewal"
-reading: "Joshua 7:1-8:35"
-parallel_passages: 1 Corinthians 5:6-7, Galatians 5:9, Hosea 2:15, Romans 8:1-4, 2 Corinthians 5:21
+reading:
+- Joshua 7:1-8:35
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +50,11 @@ The covenant renewal at Ebal and Gerizim (Joshua 8:30-35) -- where the blessings
 
 **Old Testament Roots**
 
-Achan's "I saw... I coveted... I took" echoes Genesis 3:6, where Eve "saw that the tree was good... a delight to the eyes... she took." The Valley of Achor becomes a place of prophetic hope in Hosea 2:15 and Isaiah 65:10. The covenant renewal at Ebal and Gerizim fulfills Moses' explicit command in Deuteronomy 27:1-8 and 11:29. The *cherem* -- the ban of total devotion -- echoes the firstfruits principle: the first belongs entirely to God (Leviticus 27:28-29; cf. the death of Nadab and Abihu for offering unauthorized fire in Leviticus 10:1-2).
+Achan's "I saw... I coveted... I took" echoes Genesis 3:6, where Eve "saw that the tree was good... a delight to the eyes... she took." The Valley of Achor becomes a place of prophetic hope in Hosea 2:15 and Isaiah 65:10. The covenant renewal at Ebal and Gerizim fulfills Moses' explicit command in Deuteronomy 27:1-8 and 11:29. The *cherem* -- the ban of total devotion -- echoes the firstfruits principle: the first belongs entirely to God (Leviticus 27:28-29; cf. the death of Nadab and Abihu for offering unauthorized fire in Leviticus 10:1-2). 1 Samuel 15 narrates Saul's violation of the *cherem* against the Amalekites -- the same sin as Achan's, committed by a king, with the same devastating consequences. 2 Samuel 24 shows corporate punishment for David's sin in the census -- the same principle of one man's transgression affecting the whole community. Nehemiah 8:1-8 records another public reading of the Torah, echoing the Ebal/Gerizim ceremony as a pattern of covenant renewal after failure.
 
 **New Testament Echoes**
 
 Romans 5:12-19 develops the corporate logic that Achan's story illustrates: one man's sin affects many, and one man's obedience redeems many. 1 Corinthians 5:6-7 and Galatians 5:9 apply the "leaven" principle to church discipline. James 1:14-15 traces the anatomy of temptation -- desire, sin, death -- in language that echoes Achan's confession. Hosea 2:15's promise of the Valley of Achor as a "door of hope" anticipates the gospel pattern of Romans 8:1: "There is therefore now no condemnation for those who are in Christ Jesus."
-
-**Parallel Passages**
-
-1 Samuel 15 narrates Saul's violation of the *cherem* against the Amalekites -- the same sin as Achan's, committed by a king, with the same devastating consequences. 2 Samuel 24 shows corporate punishment for David's sin in the census -- the same principle of one man's transgression affecting the whole community. Nehemiah 8:1-8 records another public reading of the Torah, echoing the Ebal/Gerizim ceremony as a pattern of covenant renewal after failure.
 
 ## Reflection Questions
 

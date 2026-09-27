@@ -43,13 +43,13 @@ The Old Testament ends not in silence but in singing. Not with a period but with
 
 4. **The God Too Large for a Temple.** "Heaven is my throne, and the earth is my footstool; what is the house that you would build for me?" (Isaiah 66:1). God challenges the assumption that he can be contained in any structure. How does this question -- posed at the end of the Old Testament's prophetic vision -- connect to Stephen's quotation of it just before his martyrdom (Acts 7:49)? What does it mean that the God who commanded the temple also outgrows it?
 
-### Day 3: The River of Life (Ezekiel 47:1-12; 48:30-35)
+### Day 3: The River of Life (Ezekiel 47:1-12; Ezekiel 48:30-35)
 
 5. **The Deepening River.** Ezekiel's temple-river begins as a trickle at the threshold and becomes a torrent no one can cross. Wherever it flows, everything lives -- even the Dead Sea teems with fish. What does the image of a river that deepens as it flows from God's presence communicate about the nature of grace? Where have you experienced the trickle that became a flood?
 
 6. ***Yahweh Shammah*.** The final word of Ezekiel is a name: "The LORD Is There" (Ezekiel 48:35). Not "the LORD visits" or "the LORD occasionally manifests." The LORD *is there* -- permanently, fully, irrevocably. How does this name answer the question the entire biblical story has been asking -- from Eden's forfeited presence, through the tabernacle, the temple, the exile, and the incomplete restoration? What has the story been about, if this is how it ends?
 
-### Day 4: The Feast and the Light (Isaiah 25:6-9; 60:1-22)
+### Day 4: The Feast and the Light (Isaiah 25:6-9; Isaiah 60:1-22)
 
 7. **Death at the Table.** Isaiah 25:6-8 places the feast on the mountain where death is swallowed and tears are wiped from every face. The banquet is not merely celebration; it is the first meal in a world where the last enemy no longer exists. How does the image of a feast -- rather than, say, a battle or a courtroom -- shape your expectations of what the consummation feels like? Why does God choose a table as the setting for death's defeat?
 

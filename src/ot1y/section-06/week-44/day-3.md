@@ -2,8 +2,8 @@
 week: 44
 day: 3
 title: "Three Days in the Fish"
-reading: "Jonah 1:1-4:11"
-parallel_passages: Matthew 12:38-42, Luke 11:29-32, Matthew 28:19-20, Romans 5:10
+reading:
+- Jonah 1:1-4:11
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -49,15 +49,11 @@ The unanswered question that closes the book -- "Should not I pity Nineveh, that
 
 **Old Testament Roots**
 
-The descent-and-emergence pattern echoes Joseph's descent into the pit (Genesis 37:24) and Daniel's night in the lions' den (Daniel 6:16-23). Jonah's prayer from the fish draws on Psalm 18:4-6, Psalm 42:7, Psalm 69:1-2, and Psalm 88:3-6 -- the psalms of descent into Sheol. The relenting (*naham*) of God toward Nineveh echoes Exodus 32:14 (God relenting after the golden calf) and Joel 2:13-14 ("Who knows whether he will not turn and relent?").
+The descent-and-emergence pattern echoes Joseph's descent into the pit (Genesis 37:24) and Daniel's night in the lions' den (Daniel 6:16-23). Jonah's prayer from the fish draws on Psalm 18:4-6, Psalm 42:7, Psalm 69:1-2, and Psalm 88:3-6 -- the psalms of descent into Sheol. The relenting (*naham*) of God toward Nineveh echoes Exodus 32:14 (God relenting after the golden calf) and Joel 2:13-14 ("Who knows whether he will not turn and relent?"). 1 Kings 19:1-8 shows Elijah fleeing from his prophetic commission and being met by God in the wilderness. Nahum prophesies Nineveh's eventual destruction -- the mercy of Jonah's day was real but not permanent; the city would later return to its violence. Isaiah 49:6 declares that the servant's mission extends "to the end of the earth" as "a light for the nations" -- the global scope of salvation that Jonah found intolerable.
 
 **New Testament Echoes**
 
 Matthew 12:38-42 and Luke 11:29-32 present Jonah as the sign of Christ's resurrection. Romans 5:10 declares that "while we were enemies we were reconciled to God by the death of his Son" -- answering Jonah's resistance to mercy for the enemy. Ephesians 4:9-10 describes Christ's descent "into the lower regions of the earth" and his subsequent ascension -- the Jonah pattern writ cosmically large. Matthew 28:19-20 extends the mission Jonah resisted to "all nations."
-
-**Parallel Passages**
-
-1 Kings 19:1-8 shows Elijah fleeing from his prophetic commission and being met by God in the wilderness. Nahum prophesies Nineveh's eventual destruction -- the mercy of Jonah's day was real but not permanent; the city would later return to its violence. Isaiah 49:6 declares that the servant's mission extends "to the end of the earth" as "a light for the nations" -- the global scope of salvation that Jonah found intolerable.
 
 ## Reflection Questions
 

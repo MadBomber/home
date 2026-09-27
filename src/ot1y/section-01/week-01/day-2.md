@@ -2,8 +2,10 @@
 week: 1
 day: 2
 title: "Days 4-5: Sun, Moon, Stars, Sea Creatures, Birds"
-reading: "Genesis 1:14-25"
-parallel_passages: Psalm 8:3-4, Psalm 136:7-9, Psalm 148:1-5, Jeremiah 31:35-36, Matthew 6:26
+reading:
+- Genesis 1:14-23
+parallel_passages:
+- Psalm 136:7-9
 section: Creation Covenant
 tags:
 - covenant-1
@@ -18,7 +20,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Genesis 1:14-25
+- Genesis 1:14-23
 
 ## Historical Context
 
@@ -52,7 +54,7 @@ And when Jesus tells his disciples, "Look at the birds of the air: they neither 
 
 **Old Testament Roots**
 
-Psalm 8:3-4 captures the wonder of Day 4: "When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is man that you are mindful of him?" The psalmist gazes at the luminaries and is driven not to worship them but to marvel that the God who made them pays attention to human beings. Psalm 136:7-9 turns Day 4 into liturgy, praising the God "who made the great lights... the sun to rule over the day... the moon and stars to rule over the night." Jeremiah 31:35-36 uses the fixed order of sun, moon, and stars as a guarantee of God's covenant faithfulness: if the sun still rises, God's promises still stand.
+Psalm 8:3-4 captures the wonder of Day 4: "When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is man that you are mindful of him?" The psalmist gazes at the luminaries and is driven not to worship them but to marvel that the God who made them pays attention to human beings. Psalm 136:7-9 turns Day 4 into liturgy, praising the God "who made the great lights... the sun to rule over the day... the moon and stars to rule over the night." Jeremiah 31:35-36 uses the fixed order of sun, moon, and stars as a guarantee of God's covenant faithfulness: if the sun still rises, God's promises still stand. Psalm 148:1-5 commands the sun, moon, and shining stars to praise the LORD: "Let them praise the name of the LORD! For he commanded and they were created." Job 38:4-11 describes God's ordering of the sea with language that echoes Day 5: "Who shut in the sea with doors when it burst out from the womb?"
 
 **New Testament Echoes**
 
@@ -60,7 +62,7 @@ Colossians 1:16 declares that all things -- including every star, every sea crea
 
 **Parallel Passages**
 
-Psalm 148:1-5 commands the sun, moon, stars, sea creatures, and everything that has breath to praise the LORD: "Let them praise the name of the LORD! For he commanded and they were created." Job 38:4-11 describes God's ordering of the sea with language that echoes Day 5: "Who shut in the sea with doors when it burst out from the womb?"
+Psalm 136:7-9 narrates Day 4 in the same order as Genesis 1:16: the great lights made, the sun given to rule over the day, the moon and stars given to rule over the night.
 
 ## Reflection Questions
 

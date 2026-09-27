@@ -2,8 +2,8 @@
 week: 40
 day: 5
 title: "Jehu's Revolution, Ahab's End, and Elisha's Death"
-reading: "2 Kings 9:1-13:25"
-parallel_passages: Revelation 2:20-23, Galatians 6:7-8, 1 Corinthians 15:42-44, John 12:24
+reading:
+- 2 Kings 9:1-13:25
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -20,7 +20,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 2 Kings 9:1--13:25
+- 2 Kings 9:1-13:25
 
 ## Historical Context
 
@@ -58,11 +58,7 @@ Jehu's anointing echoes the anointing of Saul (1 Samuel 10:1) and David (1 Samue
 
 **New Testament Echoes**
 
-Revelation 2:20-23 -- the risen Christ uses Jezebel as a type of seductive false teaching. Galatians 6:7-8 -- "Whatever one sows, that will he also reap," the principle embodied in Ahab's house reaping the consequences of Ahab's sins. 1 Corinthians 15:42-44 -- the resurrection body, anticipated by the dead man raised through contact with Elisha's bones. John 12:24 -- the grain of wheat that dies and bears much fruit. Galatians 4:4 -- "When the fullness of time had come," the principle of prophetic words fulfilled on God's schedule.
-
-**Parallel Passages**
-
-Compare the dead man raised by Elisha's bones (2 Kings 13:21) with the saints raised at Jesus' crucifixion (Matthew 27:52-53) -- in both cases, death is interrupted by proximity to God's anointed. Compare Jehu's zeal (2 Kings 10:16) with Paul's pre-conversion zeal (Philippians 3:6) -- both men destroy in God's name, but only one is transformed from zealot to servant. Compare Jezebel's defiant final performance (2 Kings 9:30) with Herod's self-glorifying final performance (Acts 12:21-23) -- both end in immediate, gruesome judgment.
+Revelation 2:20-23 -- the risen Christ uses Jezebel as a type of seductive false teaching. Galatians 6:7-8 -- "Whatever one sows, that will he also reap," the principle embodied in Ahab's house reaping the consequences of Ahab's sins. 1 Corinthians 15:42-44 -- the resurrection body, anticipated by the dead man raised through contact with Elisha's bones. John 12:24 -- the grain of wheat that dies and bears much fruit. Galatians 4:4 -- "When the fullness of time had come," the principle of prophetic words fulfilled on God's schedule. Matthew 27:52-53 -- the saints raised at Jesus' crucifixion, like the dead man raised by Elisha's bones (13:21), show death interrupted by proximity to God's anointed. Philippians 3:6 -- Paul's pre-conversion zeal recalls Jehu's (10:16): both men destroy in God's name, but only one is transformed from zealot to servant. Acts 12:21-23 -- Herod's self-glorifying final performance, like Jezebel's (9:30), ends in immediate, gruesome judgment.
 
 ## Reflection Questions
 

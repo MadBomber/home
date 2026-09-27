@@ -2,8 +2,8 @@
 week: 49
 day: 2
 title: "Angels, Empires, and the Resurrection of the Dead"
-reading: "Daniel 10:1-12:13"
-parallel_passages: Ephesians 6:12, Revelation 12:7-9, John 5:28-29, 1 Corinthians 15:20-23
+reading:
+- Daniel 10:1-12:13
 section: New Covenant
 tags:
 - covenant-7
@@ -48,15 +48,11 @@ Daniel 12:2 -- "many of those who sleep in the dust of the earth shall awake" --
 
 **Old Testament Roots**
 
-The language of "sleeping in the dust" in Daniel 12:2 reaches back to Genesis 3:19 -- "you are dust, and to dust you shall return." The curse of Eden is not revoked but reversed: the dust that received humanity in death will give humanity back in resurrection. The angelic conflict of Daniel 10 echoes the divine council scenes of Job 1-2 and 1 Kings 22:19-23, where spiritual beings operate behind the scenes of earthly events. Isaiah 26:19 anticipates Daniel's promise: "Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy!"
+The language of "sleeping in the dust" in Daniel 12:2 reaches back to Genesis 3:19 -- "you are dust, and to dust you shall return." The curse of Eden is not revoked but reversed: the dust that received humanity in death will give humanity back in resurrection. The angelic conflict of Daniel 10 echoes the divine council scenes of Job 1-2 and 1 Kings 22:19-23, where spiritual beings operate behind the scenes of earthly events. Isaiah 26:19 anticipates Daniel's promise: "Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy!" Ezekiel 37:1-14, the valley of dry bones, uses resurrection as both metaphor for national restoration and anticipation of bodily resurrection. Job 19:25-27 voices the same hope: "I know that my Redeemer lives, and at the last he will stand upon the earth. And after my skin has been thus destroyed, yet in my flesh I shall see God."
 
 **New Testament Echoes**
 
 Revelation 1:13-16 identifies the glorious figure of Daniel 10 as the risen Christ. Ephesians 6:12 and Colossians 2:15 interpret the spiritual warfare of Daniel 10 through the lens of Christ's victory on the cross. John 5:28-29 echoes Daniel 12:2 almost verbatim, placing the promise of resurrection in the mouth of Jesus himself. 1 Corinthians 15:20-23 declares that Christ's resurrection is the "firstfruits" of the general resurrection Daniel foresaw -- the first awakening from dust that guarantees all the rest.
-
-**Parallel Passages**
-
-Ezekiel 37:1-14 -- the valley of dry bones, where God promises to raise Israel from death, using resurrection as both metaphor for national restoration and anticipation of bodily resurrection. Isaiah 26:19 -- "Your dead shall live; their bodies shall rise." Job 19:25-27 -- "I know that my Redeemer lives, and at the last he will stand upon the earth. And after my skin has been thus destroyed, yet in my flesh I shall see God."
 
 ## Reflection Questions
 

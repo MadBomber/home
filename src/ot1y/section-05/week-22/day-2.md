@@ -2,8 +2,8 @@
 week: 22
 day: 2
 title: "Show Me Your Glory -- The Cleft of the Rock and the Back of God"
-reading: "Exodus 33:1-23"
-parallel_passages: Exodus 34:5-7, 1 Kings 19:9-13, Psalm 27:4-5, Isaiah 2:10, John 1:14-18, Colossians 3:3, Hebrews 1:1-3
+reading:
+- Exodus 33:1-23
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -53,11 +53,7 @@ The cleft of the rock echoes forward to 1 Kings 19:9-13, where Elijah stands in 
 
 **New Testament Echoes**
 
-John 1:14-18 is the definitive New Testament response to Exodus 33. "No one has ever seen God; the only God, who is at the Father's side, he has made him known" (John 1:18). The Greek *exegesato* ("made him known") is the word from which "exegesis" derives -- Christ is the exegesis of the Father, the interpretation of the invisible God in visible form. Hebrews 1:3 identifies Christ as the *apaugasma* ("radiance") of God's glory -- not a reflection but an emanation, the glory itself streaming from the source. Colossians 3:3 relocates the cleft of the rock into the person of Christ.
-
-**Parallel Passages**
-
-Compare Moses' "Show me your glory" (Exodus 33:18) with Philip's "Show us the Father" (John 14:8). Jesus' response -- "Whoever has seen me has seen the Father" -- is the answer Moses never received. Compare also 2 Corinthians 3:7-18, where Paul contrasts the veiled glory of Moses' face with the unveiled glory available in Christ: "We all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another."
+John 1:14-18 is the definitive New Testament response to Exodus 33. "No one has ever seen God; the only God, who is at the Father's side, he has made him known" (John 1:18). The Greek *exegesato* ("made him known") is the word from which "exegesis" derives -- Christ is the exegesis of the Father, the interpretation of the invisible God in visible form. Hebrews 1:3 identifies Christ as the *apaugasma* ("radiance") of God's glory -- not a reflection but an emanation, the glory itself streaming from the source. Colossians 3:3 relocates the cleft of the rock into the person of Christ. Compare Moses' "Show me your glory" (Exodus 33:18) with Philip's "Show us the Father" (John 14:8). Jesus' response -- "Whoever has seen me has seen the Father" -- is the answer Moses never received. In 2 Corinthians 3:7-18, Paul contrasts the veiled glory of Moses' face with the unveiled glory available in Christ: "We all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another."
 
 ## Reflection Questions
 

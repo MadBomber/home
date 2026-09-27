@@ -2,8 +2,8 @@
 week: 42
 day: 3
 title: "Vanity of Vanities"
-reading: "Ecclesiastes 1:1-6:12"
-parallel_passages: Romans 8:18-25, 1 Corinthians 15:17-20, James 4:13-16, John 4:13-14
+reading:
+- Ecclesiastes 1:1-6:12
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -49,15 +49,11 @@ The moments of grace the Teacher identifies -- the enjoyment of food, drink, and
 
 **Old Testament Roots**
 
-Genesis 3:17-19 provides the theological foundation for the *hevel*: "Cursed is the ground because of you; in pain you shall eat of it all the days of your life... By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return." The Teacher's observation that "all are from the dust, and to dust all return" (3:20) is a direct echo. The *hevel* is the curse of the fall, experienced as the futility of life in a world estranged from its Creator. Psalm 39:5-6 echoes the same diagnosis: "Surely all mankind stands as a mere breath (*hevel*)! Surely a man goes about as a shadow!"
+Genesis 3:17-19 provides the theological foundation for the *hevel*: "Cursed is the ground because of you; in pain you shall eat of it all the days of your life... By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return." The Teacher's observation that "all are from the dust, and to dust all return" (3:20) is a direct echo. The *hevel* is the curse of the fall, experienced as the futility of life in a world estranged from its Creator. Psalm 39:5-6 echoes the same diagnosis: "Surely all mankind stands as a mere breath (*hevel*)! Surely a man goes about as a shadow!" Psalm 49 insists that wealth cannot redeem a life or purchase escape from death, and in Psalm 73 the psalmist nearly stumbles at the prosperity of the wicked until he enters the sanctuary and sees their end. Job speaks of his own life the same way: "I loathe my life... for my days are a breath (*hevel*)" (Job 7:16).
 
 **New Testament Echoes**
 
-Romans 8:18-25 names the *hevel* as *mataiotes* ("futility") and declares that it was imposed by God "in hope" -- with the resurrection as its resolution. 1 Corinthians 15:17-20 answers the Teacher's complaint that death makes everything vain by proclaiming that Christ has been raised. James 4:13-16 echoes the Teacher's warning against presuming on the future: "You are a mist (*atmis*) that appears for a little time and then vanishes." John 4:13-14 offers living water that answers the Teacher's thirst for something that lasts.
-
-**Parallel Passages**
-
-Psalm 49 -- wealth cannot redeem a life or purchase escape from death. Psalm 73 -- the psalmist nearly stumbles at the prosperity of the wicked until he enters the sanctuary and sees their end. Job 7:7, 16 -- "My days are a breath (*hevel*)... I loathe my life." Romans 1:21 -- "They became futile (*emataiothesan*) in their thinking" -- the *hevel* applied to the mind that refuses to honor God.
+Romans 8:18-25 names the *hevel* as *mataiotes* ("futility") and declares that it was imposed by God "in hope" -- with the resurrection as its resolution. 1 Corinthians 15:17-20 answers the Teacher's complaint that death makes everything vain by proclaiming that Christ has been raised. James 4:13-16 echoes the Teacher's warning against presuming on the future: "You are a mist (*atmis*) that appears for a little time and then vanishes." John 4:13-14 offers living water that answers the Teacher's thirst for something that lasts. Romans 1:21 applies the *hevel* to the mind that refuses to honor God: "they became futile (*emataiothesan*) in their thinking."
 
 ## Reflection Questions
 

@@ -4,7 +4,7 @@ section: Mosaic Covenant
 title: The Plagues and Passover
 date_range: "Week 18"
 chapters:
-- Exodus 5:1-6:13
+- Exodus 5:1-6:30
 - Exodus 7:1-8:19
 - Exodus 8:20-9:35
 - Exodus 10:1-11:10
@@ -31,7 +31,7 @@ At midnight, the destroyer passes through Egypt. Every firstborn dies — from t
 
 | Day | Reading | Title |
 |-----|---------|-------|
-| [1](../day-1/) | Exodus 5:1-6:13 | Let My People Go |
+| [1](../day-1/) | Exodus 5:1-6:30 | Let My People Go |
 | [2](../day-2/) | Exodus 7:1-8:19 | Blood, Frogs, Gnats |
 | [3](../day-3/) | Exodus 8:20-9:35 | Flies, Livestock, Boils, Hail |
 | [4](../day-4/) | Exodus 10:1-11:10 | Locusts, Darkness, and the Final Announcement |

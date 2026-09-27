@@ -2,8 +2,8 @@
 week: 23
 day: 3
 title: "The Perpetual Fire -- Priestly Instructions and the Portions of Atonement"
-reading: "Leviticus 6:1-7:38"
-parallel_passages: Hebrews 10:10-14, 1 Corinthians 9:13-14, Hebrews 7:23-27, Hebrews 13:10-16, Romans 12:1, Revelation 8:3-4
+reading:
+- Leviticus 6:1-7:38
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -22,6 +22,8 @@ study_slug: ot1y
 ## Historical Context
 
 Leviticus 1-5 described the five offerings from the worshiper's perspective -- what to bring, how to present it, what the laying on of hands means. Leviticus 6-7 shifts the angle of vision. Now God addresses the priests: how to handle the offerings, what portions belong to whom, when the fire burns, and how the holy is to be managed by consecrated hands. The section is introduced with the repeated formula *tsav et Aharon v'et banav* -- "command Aaron and his sons" (6:9). The offerings have not changed. The audience has. And the shift reveals a dimension of the sacrificial system that the worshiper's perspective alone cannot show: the system requires not only offerings but administrators, not only blood but the men authorized to carry it.
+
+Before that shift, the chapter opens by completing the law of the guilt offering (6:1-7), and the case it adds is striking. The offenses are all against a neighbor -- deceiving him about a deposit or security, robbery, oppression, finding something he lost and lying about it, swearing falsely. Yet the text calls each of them a "breach of faith against the LORD" (6:2). To wrong a neighbor is to trespass against God. And the remedy runs in both directions. The offender "shall restore it in full and shall add a fifth to it, and give it to him to whom it belongs on the day he realizes his guilt" (6:5) -- and only then brings his ram to the priest as "his compensation to the LORD" (6:6). Atonement in this system is never purely vertical. The blood on the altar does not erase the debt to the neighbor. The neighbor is repaid first, in full, with a fifth added, and then the sacrifice is offered.
 
 The most striking command in this section concerns the altar fire: "The fire on the altar shall be kept burning on it; it shall not go out. The priest shall burn wood on it every morning, and he shall arrange the burnt offering on it and shall burn on it the fat of the peace offerings. Fire shall be kept burning on the altar continually; it shall not go out" (6:12-13). The repetition is emphatic -- three times in two verses the command insists that the fire must not die. The Hebrew *tamid* ("continually, perpetually") appears here with the force of an absolute: the altar fire is never extinguished. It burns through the night. It burns on Sabbath. It burns during travel. The perpetual flame is a visible declaration that the need for atonement never pauses, that the distance between a holy God and a sinful people is never bridged permanently by animal blood, that the fire must keep burning because the sin keeps coming.
 
@@ -49,15 +51,11 @@ The severity of the "cut off" penalty for eating the peace offering in a state o
 
 **Old Testament Roots**
 
-The perpetual fire connects to the fire that fell from heaven to inaugurate the tabernacle's altar (Leviticus 9:24) and the fire that will fall again at Solomon's temple dedication (2 Chronicles 7:1). God initiates the flame; the priests maintain it. The priestly portions echo the provision God made for the Levites throughout the Torah -- no land inheritance, because "the LORD is their inheritance" (Deuteronomy 18:2). The "cut off" penalty for unclean eating connects to the Passover regulations, where the uncircumcised and the unclean were excluded from the meal (Exodus 12:43-49).
+The perpetual fire connects to the dedication of Solomon's temple, when "fire came down from heaven and consumed the burnt offering and the sacrifices" (2 Chronicles 7:1). God kindles the flame; the priests keep it burning. The priestly portions echo the provision God made for the Levites throughout the Torah -- no land inheritance, because "the LORD is their inheritance" (Deuteronomy 18:2). The "cut off" penalty for unclean eating connects to the Passover regulations, where the uncircumcised and the unclean were excluded from the meal (Exodus 12:43-49). In Malachi 1:10 God declares, "I have no pleasure in you... and I will not accept an offering from your hand" -- a devastating reversal of the *reach nichoach* that reveals what happens when the system is maintained without the heart it was designed to express.
 
 **New Testament Echoes**
 
-Hebrews 10:11-12 contrasts the standing priest (perpetually offering) with the seated Christ (offering complete). 1 Corinthians 9:13-14 applies the priestly portion principle to gospel ministry. Hebrews 13:10 declares that the new altar transcends the old. 1 Corinthians 11:27-30 applies the peace offering's severity to the Lord's Supper. Revelation 8:3-4 depicts an angel offering incense with the prayers of the saints on the golden altar before God's throne -- the heavenly fulfillment of the perpetual fire and the ascending fragrance.
-
-**Parallel Passages**
-
-Compare Leviticus 6:12-13 with Hebrews 7:23-27, where the contrast between the many priests who die and the one priest who lives forever makes explicit what the perpetual fire implied: the old system required repetition because its mediators were mortal and its sacrifices were temporary. Compare also with Malachi 1:10, where God declares, "I have no pleasure in you... and I will not accept an offering from your hand" -- a devastating reversal of the *reach nichoach* that reveals what happens when the system is maintained without the heart it was designed to express.
+Hebrews 10:11-12 contrasts the standing priest (perpetually offering) with the seated Christ (offering complete). 1 Corinthians 9:13-14 applies the priestly portion principle to gospel ministry. Hebrews 13:10 declares that the new altar transcends the old. 1 Corinthians 11:27-30 applies the peace offering's severity to the Lord's Supper. Revelation 8:3-4 depicts an angel offering incense with the prayers of the saints on the golden altar before God's throne -- the heavenly fulfillment of the perpetual fire and the ascending fragrance. Compare Leviticus 6:12-13 with Hebrews 7:23-27, where the contrast between the many priests who die and the one priest who lives forever makes explicit what the perpetual fire implied: the old system required repetition because its mediators were mortal and its sacrifices were temporary.
 
 ## Reflection Questions
 

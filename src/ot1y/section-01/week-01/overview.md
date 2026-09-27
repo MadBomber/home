@@ -5,9 +5,9 @@ title: In the Beginning
 date_range: "Week 1"
 chapters:
 - Genesis 1:1-13
-- Genesis 1:14-25
-- Genesis 1:26-31
-- Genesis 1 (review)
+- Genesis 1:14-23
+- Genesis 1:24-31
+- Genesis 1
 - Psalm 33:1-9; Psalm 104:1-9
 tags:
 - covenant-1
@@ -30,9 +30,9 @@ The week closes with Israel's own worship of the Creator in the Psalms. Psalm 33
 | Day | Reading | Title |
 |-----|---------|-------|
 | [1](../day-1/) | Genesis 1:1-13 | Days 1-3: Light, Sky, Land, and Vegetation |
-| [2](../day-2/) | Genesis 1:14-25 | Days 4-5: Sun, Moon, Stars, Sea Creatures, Birds |
-| [3](../day-3/) | Genesis 1:26-31 | Day 6: Let Us Make Man in Our Image |
-| [4](../day-4/) | Genesis 1 (review) | The Structure of Genesis 1 |
+| [2](../day-2/) | Genesis 1:14-23 | Days 4-5: Sun, Moon, Stars, Sea Creatures, Birds |
+| [3](../day-3/) | Genesis 1:24-31 | Day 6: Let Us Make Man in Our Image |
+| [4](../day-4/) | Genesis 1 | The Structure of Genesis 1 |
 | [5](../day-5/) | Psalm 33:1-9; Psalm 104:1-9 | Israel Worships the Creator |
 
 ## Key Themes

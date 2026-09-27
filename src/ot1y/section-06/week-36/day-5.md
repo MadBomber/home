@@ -2,8 +2,8 @@
 week: 36
 day: 5
 title: "The King's Beauty -- Your Throne, O God, Is Forever and Ever"
-reading: "Psalm 45"
-parallel_passages: Hebrews 1:8-9, Ephesians 5:25-32, Revelation 19:6-9, Song of Solomon 4:1-7
+reading:
+- Psalm 45
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -50,15 +50,11 @@ Revelation brings the psalm's wedding song to its cosmic conclusion: "Let us rej
 
 **Old Testament Roots**
 
-Genesis 2:24 -- "Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh." The bridal theology of Psalm 45 draws on the creation pattern of leaving and cleaving. Isaiah 62:4-5 -- "As the bridegroom rejoices over the bride, so shall your God rejoice over you." Hosea 2:19-20 -- "I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy." Song of Solomon 4:1-7 -- the beloved's beauty celebrated in lavish, intimate detail, a parallel to Psalm 45's bridal portrait.
+Genesis 2:24 -- "Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh." The bridal theology of Psalm 45 draws on the creation pattern of leaving and cleaving. Isaiah 62:4-5 -- "As the bridegroom rejoices over the bride, so shall your God rejoice over you." Hosea 2:19-20 -- "I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy." Song of Solomon 4:1-7 -- the beloved's beauty celebrated in lavish, intimate detail, a parallel to Psalm 45's bridal portrait. Psalm 2:6-7 -- the king enthroned and declared God's Son. Psalm 110:1 -- the king seated at God's right hand. Isaiah 61:10 -- "He has clothed me with the garments of salvation; he has covered me with the robe of righteousness, as a bridegroom decks himself like a priest with a beautiful headdress, and as a bride adorns herself with her jewels." Isaiah 54:5 -- "For your Maker is your husband, the LORD of hosts is his name."
 
 **New Testament Echoes**
 
 Hebrews 1:8-9 -- the definitive application of Psalm 45:6-7 to the Son. Ephesians 5:25-32 -- Christ's love for the church described in marital terms, with Paul calling it "a profound mystery" that refers to Christ and the church. 2 Corinthians 11:2 -- Paul presents the church as "a pure virgin to Christ." Revelation 19:6-9 -- the marriage supper of the Lamb. Revelation 21:2, 9 -- the new Jerusalem as the bride adorned for her husband. John 3:29 -- John the Baptist identifies Jesus as the bridegroom: "The one who has the bride is the bridegroom."
-
-**Parallel Passages**
-
-Psalm 2:6-7 -- the king enthroned and declared God's Son. Psalm 110:1 -- the king seated at God's right hand. Isaiah 61:10 -- "He has clothed me with the garments of salvation; he has covered me with the robe of righteousness, as a bridegroom decks himself like a priest with a beautiful headdress, and as a bride adorns herself with her jewels." Isaiah 54:5 -- "For your Maker is your husband, the LORD of hosts is his name."
 
 ## Reflection Questions
 

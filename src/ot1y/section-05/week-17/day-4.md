@@ -2,8 +2,8 @@
 week: 17
 day: 4
 title: "Objections and Signs -- Moses Resists, God Persists"
-reading: "Exodus 4:1-17"
-parallel_passages: Jeremiah 1:4-10, Judges 6:14-16, 2 Corinthians 12:9-10, John 14:11
+reading:
+- Exodus 4:1-17
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +50,11 @@ God's answer to Moses' inadequacy -- "Who has made man's mouth?... Is it not I, 
 
 **Old Testament Roots**
 
-Moses' reluctance echoes a pattern that stretches across the prophetic tradition. Gideon asks for sign after sign before he will believe God's commission (Judges 6:17-40). Jeremiah protests his youth and is told, "Do not say, 'I am only a youth'; for to all to whom I send you, you shall go" (Jeremiah 1:7). Jonah does not merely object -- he flees in the opposite direction (Jonah 1:3). In each case, God's response is the same: the mission does not depend on the messenger's readiness. It depends on the message's author. The staff that becomes a serpent also connects to the serpent imagery of Genesis 3 -- the *nachash* whose power God now demonstrates he can command and contain.
+Moses' reluctance echoes a pattern that stretches across the prophetic tradition. Gideon asks for sign after sign before he will believe God's commission (Judges 6:17-40). Jeremiah protests his youth and is told, "Do not say, 'I am only a youth'; for to all to whom I send you, you shall go" (Jeremiah 1:7). Jonah does not merely object -- he flees in the opposite direction (Jonah 1:3). In each case, God's response is the same: the mission does not depend on the messenger's readiness. It depends on the message's author. The staff that becomes a serpent also connects to the serpent imagery of Genesis 3 -- the *nachash* whose power God now demonstrates he can command and contain. 1 Samuel 10:1-7 -- Saul's anointing and the signs given to confirm his calling -- follows the same structural pattern as Exodus 4: commission, signs, and the assurance "God is with you."
 
 **New Testament Echoes**
 
-Jesus sends out his disciples with instructions that echo God's commission of Moses: "Do not be anxious about how you should speak or what you should say, for what you are to say will be given to you in that hour. For it is not you who speak, but the Spirit of your Father speaking through you" (Matthew 10:19-20). The principle is identical: the speaker is not the source. Paul extends the pattern in 2 Corinthians 4:7: "We have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us." Moses is the original jar of clay -- cracked, reluctant, heavy of tongue -- carrying a treasure that does not depend on the vessel's quality. Jesus' invitation to Philip -- "Believe me that I am in the Father and the Father is in me, or else believe on account of the works themselves" (John 14:11) -- echoes the logic of the signs: if the words are not sufficient, the works will authenticate the sender.
-
-**Parallel Passages**
-
-1 Samuel 10:1-7 -- Saul's anointing and the signs given to confirm his calling -- follows the same structural pattern as Exodus 4: commission, signs, and the assurance "God is with you." 1 Corinthians 1:26-29 -- "Not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth. But God chose what is foolish in the world to shame the wise" -- is the New Testament's fullest articulation of the principle established at the burning bush: God's choice of the inadequate is not accidental. It is strategic.
+Jesus sends out his disciples with instructions that echo God's commission of Moses: "Do not be anxious about how you should speak or what you should say, for what you are to say will be given to you in that hour. For it is not you who speak, but the Spirit of your Father speaking through you" (Matthew 10:19-20). The principle is identical: the speaker is not the source. Paul extends the pattern in 2 Corinthians 4:7: "We have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us." Moses is the original jar of clay -- cracked, reluctant, heavy of tongue -- carrying a treasure that does not depend on the vessel's quality. Jesus' invitation to Philip -- "Believe me that I am in the Father and the Father is in me, or else believe on account of the works themselves" (John 14:11) -- echoes the logic of the signs: if the words are not sufficient, the works will authenticate the sender. 1 Corinthians 1:26-29 -- "Not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth. But God chose what is foolish in the world to shame the wise" -- is the New Testament's fullest articulation of the principle established at the burning bush: God's choice of the inadequate is not accidental. It is strategic.
 
 ## Reflection Questions
 

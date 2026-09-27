@@ -2,8 +2,10 @@
 week: 22
 day: 5
 title: "The Tabernacle Completed -- And the Glory of the LORD Fills It"
-reading: "Exodus 37:1-40:38"
-parallel_passages: Exodus 25:10-40, 1 Kings 8:10-11, Ezekiel 10:18-19, Ezekiel 43:1-5, John 1:14, John 2:19-21, Revelation 21:1-4, Hebrews 9:11-12, Hebrews 9:24
+reading:
+- Exodus 37:1-40:38
+parallel_passages:
+- Exodus 25:10-40
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +52,15 @@ The closing image of Exodus -- the cloud by day and fire by night guiding Israel
 
 **Old Testament Roots**
 
-The *kavod* filling the tabernacle (40:34) will fill Solomon's temple in 1 Kings 8:10-11 with identical language: "the glory of the LORD filled the house of the LORD." The departure of the glory from the temple in Ezekiel 10:18-19 marks the most devastating moment in Israel's prophetic history -- the God who moved in has moved out. Ezekiel 43:1-5 records the vision of the glory's return to a future temple. The refrain "as the LORD had commanded Moses" echoes the creation account's structural pattern, where each day ends with "and God saw that it was good" -- both are narratives of an ordered work executed according to divine design.
+The *kavod* filling the tabernacle (40:34) will fill Solomon's temple in 1 Kings 8:10-11 with identical language: "the glory of the LORD filled the house of the LORD." The departure of the glory from the temple in Ezekiel 10:18-19 marks the most devastating moment in Israel's prophetic history -- the God who moved in has moved out. Ezekiel 43:1-5 records the vision of the glory's return to a future temple. The refrain "as the LORD had commanded Moses" echoes the creation account's structural pattern, where each day ends with "and God saw that it was good" -- both are narratives of an ordered work executed according to divine design. Compare the completion of the tabernacle (Exodus 39:32, 43) with the completion of creation (Genesis 2:1-3) -- both follow a pattern of divine instruction, faithful execution, inspection, blessing, and rest. Compare the cloud and fire of Exodus 40:36-38 with the pillar of cloud and fire at the Red Sea (Exodus 13:21-22) -- the same God who led them out of Egypt now dwells among them in the wilderness.
 
 **New Testament Echoes**
 
-John 1:14 -- the Word "tabernacled" among us. John 2:19-21 -- Jesus identifies his body as the true temple: "Destroy this temple, and in three days I will raise it up." Hebrews 9:11-12, 24 -- Christ enters the true holy of holies, not made with hands, securing eternal redemption. Revelation 21:1-4 -- the final tabernacle, where God dwells with his people permanently and "death shall be no more." The trajectory from Exodus 40 to Revelation 21 is the arc of the entire Bible: God moving ever closer, from mountain to tent to temple to body to permanent, unmediated, indestructible presence.
+John 1:14 -- the Word "tabernacled" among us. John 2:19-21 -- Jesus identifies his body as the true temple: "Destroy this temple, and in three days I will raise it up." Hebrews 9:11-12, 24 -- Christ enters the true holy of holies, not made with hands, securing eternal redemption. Revelation 21:1-4 -- the final tabernacle, where God dwells with his people permanently and "death shall be no more." The trajectory from Exodus 40 to Revelation 21 is the arc of the entire Bible: God moving ever closer, from mountain to tent to temple to body to permanent, unmediated, indestructible presence. Compare Moses' inability to enter the glory-filled tabernacle with the tearing of the temple veil at the crucifixion (Matthew 27:51) -- what was closed in Exodus is opened at the cross.
 
 **Parallel Passages**
 
-Compare the completion of the tabernacle (Exodus 39:32, 43) with the completion of creation (Genesis 2:1-3) -- both follow a pattern of divine instruction, faithful execution, inspection, blessing, and rest. Compare the cloud and fire of Exodus 40:36-38 with the pillar of cloud and fire at the Red Sea (Exodus 13:21-22) -- the same God who led them out of Egypt now dwells among them in the wilderness. Compare Moses' inability to enter the glory-filled tabernacle with the tearing of the temple veil at the crucifixion (Matthew 27:51) -- what was closed in Exodus is opened at the cross.
+Exodus 25:10-40 gives the instructions for the ark, the table, and the lampstand that 37:1-24 records being made, piece by piece, as commanded.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 13
 day: 3
 title: "The Twins -- Struggle in the Womb, the Birthright Sold for Stew"
-reading: "Genesis 25:19-34"
-parallel_passages: Romans 9:10-13, Hebrews 12:16-17, Malachi 1:2-3, Genesis 3:15, Galatians 3:29, 1 Corinthians 1:27-29
+reading:
+- Genesis 25:19-34
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -53,15 +53,11 @@ The birthright Esau despised -- the *bekhorah*, the right to stand in the line o
 
 **Old Testament Roots**
 
-The oracle of 25:23 extends the pattern of Genesis 3:15 -- conflict between two seeds -- and narrows it further within Abraham's own line. Barrenness resolved by divine intervention echoes Sarah (Genesis 11:30; 21:1-2) and anticipates Rachel (29:31), Hannah (1 Samuel 1), and the Shunammite (2 Kings 4:14-17). The *bekhorah* (birthright) connects to the broader legal framework of the firstborn's double portion (Deuteronomy 21:17). Esau's association with Edom and Seir anticipates the long Israel-Edom conflict (Numbers 20:14-21; Obadiah; Psalm 137:7).
+The oracle of 25:23 extends the pattern of Genesis 3:15 -- conflict between two seeds -- and narrows it further within Abraham's own line. Barrenness resolved by divine intervention echoes Sarah (Genesis 11:30; 21:1-2) and anticipates Rachel (29:31), Hannah (1 Samuel 1), and the Shunammite (2 Kings 4:14-17). The *bekhorah* (birthright) connects to the broader legal framework of the firstborn's double portion (Deuteronomy 21:17). Esau's association with Edom and Seir anticipates the long Israel-Edom conflict (Numbers 20:14-21; Obadiah; Psalm 137:7). The oracle over the twins (25:23) can be compared with God's choice of David, the youngest son, over his older brothers (1 Samuel 16:1-13).
 
 **New Testament Echoes**
 
-Romans 9:10-13 -- Paul's definitive use of the Jacob-Esau narrative for the doctrine of election. Hebrews 12:16-17 -- Esau as a warning against trading the sacred for the immediate. Malachi 1:2-3 -- "Jacob I loved, but Esau I hated," quoted by Paul. Galatians 3:29 -- the inheritance Esau despised is the inheritance believers receive in Christ. 1 Corinthians 1:27-29 -- God's pattern of choosing the weak and despised.
-
-**Parallel Passages**
-
-Compare the oracle over the twins (25:23) with God's choice of David, the youngest son, over his older brothers (1 Samuel 16:1-13). Compare Esau's contempt for the birthright with the rich young ruler's unwillingness to trade his possessions for the kingdom (Mark 10:17-22). Compare the five verbs of 25:34 with the rapid narrative of Judas's betrayal: "he went out, and it was night" (John 13:30) -- both compress spiritual catastrophe into flat, devastating prose.
+Romans 9:10-13 -- Paul's definitive use of the Jacob-Esau narrative for the doctrine of election. Hebrews 12:16-17 -- Esau as a warning against trading the sacred for the immediate. Malachi 1:2-3 -- "Jacob I loved, but Esau I hated," quoted by Paul. Galatians 3:29 -- the inheritance Esau despised is the inheritance believers receive in Christ. 1 Corinthians 1:27-29 -- God's pattern of choosing the weak and despised. Esau's contempt for the birthright can be compared with the rich young ruler's unwillingness to trade his possessions for the kingdom (Mark 10:17-22), and the five verbs of 25:34 with the rapid narrative of Judas's betrayal: "he went out, and it was night" (John 13:30) -- both compress spiritual catastrophe into flat, devastating prose.
 
 ## Reflection Questions
 

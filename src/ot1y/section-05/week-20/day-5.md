@@ -2,8 +2,8 @@
 week: 20
 day: 5
 title: "The Angel, the Promise of the Land, and the Covenant Sealed in Blood"
-reading: "Exodus 23:20-24:18"
-parallel_passages: Luke 22:20, Hebrews 9:18-22, Hebrews 12:24, Revelation 19:6-9
+reading:
+- Exodus 23:20-24:18
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,15 +49,11 @@ The meal on the mountain -- seventy-four leaders of Israel eating and drinking i
 
 **Old Testament Roots**
 
-The angel of the LORD (*malakh YHWH*) appeared to Hagar (Genesis 16:7-13), to Abraham at the binding of Isaac (Genesis 22:11-18), to Jacob at the Jabbok (Genesis 32:24-30), and to Moses at the burning bush (Exodus 3:2-6). In each case, the angel speaks as God, acts as God, and is identified as God -- yet is somehow distinct. This pattern of identity-within-distinction prepares Israel for the fuller revelation of the Trinity. The blood covenant echoes Genesis 15, where God alone passes between the pieces, and anticipates the sacrificial system of Leviticus, where blood is the central element of atonement: "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls" (Leviticus 17:11).
+The angel of the LORD (*malakh YHWH*) appeared to Hagar (Genesis 16:7-13), to Abraham at the binding of Isaac (Genesis 22:11-18), to Jacob at the Jabbok (Genesis 32:24-30), and to Moses at the burning bush (Exodus 3:2-6). In each case, the angel speaks as God, acts as God, and is identified as God -- yet is somehow distinct. This pattern of identity-within-distinction prepares Israel for the fuller revelation of the Trinity. The blood covenant echoes Genesis 15, where God alone passes between the pieces, and anticipates the sacrificial system of Leviticus, where blood is the central element of atonement: "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls" (Leviticus 17:11). Jeremiah 31:31-34 promises a new covenant written on the heart. Ezekiel 1:26 sees the likeness of a throne "in appearance like sapphire," echoing the sapphire pavement of Exodus 24:10. Zechariah 9:11 grounds deliverance in the same covenant blood: "As for you also, because of the blood of my covenant with you, I will set your prisoners free from the waterless pit."
 
 **New Testament Echoes**
 
 Luke 22:20 -- "This cup is the new covenant in my blood." Hebrews 9:18-22 -- the first covenant inaugurated with blood; the new covenant inaugurated with better blood. Hebrews 12:24 -- Jesus is "the mediator of a new covenant" whose sprinkled blood "speaks a better word than the blood of Abel." 1 Corinthians 10:4 -- Christ was the Rock that followed Israel. Revelation 19:6-9 -- the marriage supper of the Lamb, the final covenant meal. John 21:12-13 -- the risen Christ hosts a meal for his disciples, echoing both Sinai and the upper room.
-
-**Parallel Passages**
-
-Genesis 15:7-21 -- the covenant with Abraham, ratified by God passing through the pieces. Jeremiah 31:31-34 -- the promise of a new covenant written on the heart. Ezekiel 1:26 -- the throne vision with sapphire beneath God's feet, echoing the pavement of Exodus 24:10. Zechariah 9:11 -- "As for you also, because of the blood of my covenant with you, I will set your prisoners free."
 
 ## Reflection Questions
 

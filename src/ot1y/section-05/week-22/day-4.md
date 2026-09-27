@@ -2,8 +2,11 @@
 week: 22
 day: 4
 title: "Willing Hearts and Skilled Hands -- The Tabernacle Begins"
-reading: "Exodus 35:1-36:38"
-parallel_passages: Exodus 25:1-9, Exodus 31:1-11, 2 Corinthians 8:1-5, 2 Corinthians 9:6-8, Ephesians 2:10, 1 Corinthians 12:4-11
+reading:
+- Exodus 35:1-36:38
+parallel_passages:
+- Exodus 25:1-9
+- Exodus 31:1-11
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,7 +53,7 @@ The fact that the tabernacle is built by forgiven sinners -- the very people who
 
 **Old Testament Roots**
 
-The voluntary offerings of Exodus 35 stand in deliberate contrast to the forced labor of Exodus 1. In Egypt, the people built Pharaoh's store cities under the whip; now they build God's dwelling from willing hearts. The reversal is complete: slavery to compulsion has become freedom to give. The materials themselves -- gold, silver, bronze, linen -- echo the tabernacle instructions of Exodus 25:1-9 nearly verbatim, confirming that the people are executing the divine blueprint precisely. Bezalel's Spirit-filling (35:31) parallels Exodus 31:1-11, where his appointment was first announced, and anticipates the broader Spirit-empowerment of the seventy elders in Numbers 11:25.
+The voluntary offerings of Exodus 35 stand in deliberate contrast to the forced labor of Exodus 1. In Egypt, the people built Pharaoh's store cities under the whip; now they build God's dwelling from willing hearts. The reversal is complete: slavery to compulsion has become freedom to give. The materials themselves -- gold, silver, bronze, linen -- echo the tabernacle instructions of Exodus 25:1-9 nearly verbatim, confirming that the people are executing the divine blueprint precisely. Bezalel's Spirit-filling (35:31) parallels Exodus 31:1-11, where his appointment was first announced, and anticipates the broader Spirit-empowerment of the seventy elders in Numbers 11:25. Compare the restraining of Israel's generosity (Exodus 36:6) with the restraining of David's desire to build the temple (2 Samuel 7:1-7) -- in both cases, the impulse to give or build is honored but bounded by divine instruction. Compare Bezalel's appointment with Hiram of Tyre in 1 Kings 7:13-14, the craftsman who builds Solomon's temple -- both are Spirit-endowed artisans commissioned for sacred construction.
 
 **New Testament Echoes**
 
@@ -58,7 +61,7 @@ The voluntary offerings of Exodus 35 stand in deliberate contrast to the forced 
 
 **Parallel Passages**
 
-Compare the restraining of Israel's generosity (Exodus 36:6) with the restraining of David's desire to build the temple (2 Samuel 7:1-7) -- in both cases, the impulse to give or build is honored but bounded by divine instruction. Compare Bezalel's appointment with Hiram of Tyre in 1 Kings 7:13-14, the craftsman who builds Solomon's temple -- both are Spirit-endowed artisans commissioned for sacred construction.
+Exodus 25:1-9 is the instruction this chapter carries out: a contribution from "every man whose heart moves him," drawn from the same list of gold, silver, bronze, yarns, linen, skins, wood, oil, spices, and stones. Exodus 31:1-11 first announces the appointment of Bezalel and Oholiab that 35:30-36:1 repeats before the congregation.
 
 ## Reflection Questions
 

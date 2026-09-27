@@ -2,8 +2,11 @@
 week: 50
 day: 5
 title: "All Creation Sings -- For He Comes to Judge the Earth with Righteousness"
-reading: "Psalm 96; Psalm 98"
-parallel_passages: Romans 8:19-23, Revelation 5:13, Colossians 1:15-20, Acts 17:30-31
+reading:
+- Psalm 96
+- Psalm 98
+parallel_passages:
+- 1 Chronicles 16:23-33
 section: Consummation
 tags:
 - covenant-8
@@ -16,7 +19,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Psalm 96; Psalm 98
+- Psalm 96
+- Psalm 98
 
 ## Historical Context
 
@@ -52,7 +56,7 @@ Colossians 1:15-20 provides the theological architecture that explains why all c
 
 **Old Testament Roots**
 
-Psalm 96 is quoted almost verbatim in 1 Chronicles 16:23-33, where it is associated with the ark's arrival in Jerusalem under David. The ark -- the throne of God between the cherubim -- entering the city foreshadows the day the LORD himself enters his creation as king. The "new song" language connects to Isaiah 42:10, where a new song celebrates the servant of the LORD. The dismissal of the nations' gods as *elilim* (Psalm 96:5) echoes the polemic of Isaiah 40-48, where idols are mocked as the work of human hands. The cosmic response of nature to God's presence appears in Habakkuk 3:3-15, Psalm 29, and Psalm 114 -- the earth trembling, the waters fleeing, the mountains skipping at the approach of the Holy One.
+Psalm 96 is quoted almost verbatim in 1 Chronicles 16:23-33, where it is associated with the ark's arrival in Jerusalem under David. The ark -- the throne of God between the cherubim -- entering the city foreshadows the day the LORD himself enters his creation as king. The "new song" language connects to Isaiah 42:10, where a new song celebrates the servant of the LORD. The dismissal of the nations' gods as *elilim* (Psalm 96:5) echoes the polemic of Isaiah 40-48, where idols are mocked as the work of human hands. The cosmic response of nature to God's presence appears in Habakkuk 3:3-15, Psalm 29, and Psalm 114 -- the earth trembling, the waters fleeing, the mountains skipping at the approach of the Holy One. Psalm 148 issues the comprehensive call to praise from every layer of creation.
 
 **New Testament Echoes**
 
@@ -60,7 +64,7 @@ Revelation 5:9-13 places the "new song" in the context of the Lamb's worthiness,
 
 **Parallel Passages**
 
-1 Chronicles 16:23-33 -- Psalm 96 in its historical context. Isaiah 42:10-13 -- the new song and the LORD going out as a warrior. Habakkuk 3:3-15 -- creation's response to God's march. Psalm 148 -- the comprehensive call to praise from every layer of creation. Revelation 5:9-14 -- the new song of the Lamb. Revelation 21:1-5 -- the new heaven and new earth where the former things have passed away.
+1 Chronicles 16:23-33 reproduces Psalm 96 almost verbatim, setting it in its historical context as part of the thanksgiving David appointed when the ark came to Jerusalem.
 
 ## Reflection Questions
 

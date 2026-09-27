@@ -2,8 +2,9 @@
 week: 43
 day: 3
 title: "Called Before Birth, the Unfaithful Bride, and the New Covenant"
-reading: "Jeremiah 1:1-3:25; 31:31-34"
-parallel_passages: Luke 22:20, Hebrews 8:8-12, 2 Corinthians 3:3-6
+reading:
+- Jeremiah 1:1-3:25
+- Jeremiah 31:31-34
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -16,7 +17,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Jeremiah 1:1-3:25; 31:31-34
+- Jeremiah 1:1-3:25
+- Jeremiah 31:31-34
 
 ## Historical Context
 
@@ -52,15 +54,11 @@ Jeremiah himself -- called before birth, rejected by his people, imprisoned, thr
 
 **Old Testament Roots**
 
-Jeremiah's call echoes Moses' reluctance at the burning bush (Exodus 3-4) and anticipates the pattern of prophetic resistance (see also Gideon in Judges 6:15 and Isaiah in Isaiah 6:5). The marriage metaphor draws on Hosea's earlier use of the same imagery (Hosea 1-3), where God commands the prophet to marry a prostitute as a living parable of divine faithfulness to an unfaithful people. Jeremiah 31:33's promise that God will "put my law within them" echoes Deuteronomy 30:6 -- "the LORD your God will circumcise your heart" -- and anticipates Ezekiel 36:26-27, where God promises a "new heart" and a "new spirit."
+Jeremiah's call echoes Moses' reluctance at the burning bush (Exodus 3-4) and anticipates the pattern of prophetic resistance (see also Gideon in Judges 6:15 and Isaiah in Isaiah 6:5). The marriage metaphor draws on Hosea's earlier use of the same imagery (Hosea 1-3), where God commands the prophet to marry a prostitute as a living parable of divine faithfulness to an unfaithful people. Jeremiah 31:33's promise that God will "put my law within them" echoes Deuteronomy 30:6 -- "the LORD your God will circumcise your heart" -- and anticipates Ezekiel 36:26-27, where God promises a "new heart" and a "new spirit." Psalm 51:10-12, David's prayer for a "clean heart" and a "right spirit," anticipates the very transformation Jeremiah promises God will accomplish.
 
 **New Testament Echoes**
 
 Luke 22:20 -- Jesus inaugurates the new covenant at the Last Supper. Hebrews 8:8-12 quotes Jeremiah 31:31-34 as the definitive promise fulfilled in Christ's priesthood. 2 Corinthians 3:3-6 contrasts the ministry of the old covenant (letters on stone) with the new (the Spirit writing on hearts). Galatians 1:15 -- Paul's description of his own calling ("set apart before I was born") echoes Jeremiah 1:5, linking the prophetic pattern of pre-birth consecration to the apostolic mission.
-
-**Parallel Passages**
-
-Hosea 2:14-20 -- God's promise to betroth Israel to himself "in righteousness and in justice, in steadfast love and in mercy." Ezekiel 36:25-27 -- "I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh." Psalm 51:10-12 -- David's prayer for a "clean heart" and a "right spirit" anticipates the very transformation Jeremiah promises God will accomplish.
 
 ## Reflection Questions
 

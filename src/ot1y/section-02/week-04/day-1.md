@@ -2,8 +2,8 @@
 week: 4
 day: 1
 title: "Cain and Abel -- Two Offerings, a Predator at the Door, and the Blood That Cries Out"
-reading: "Genesis 4:1-16"
-parallel_passages: Hebrews 11:4, Hebrews 12:24, Matthew 23:35, 1 John 3:11-12, Matthew 4:1-11, 1 Peter 5:8, John 1:29
+reading:
+- Genesis 4:1-16
 section: Adamic Covenant
 tags:
 - covenant-2
@@ -65,15 +65,11 @@ Abel's offering -- firstborn, fat portions, blood shed -- anticipates the offeri
 
 **Old Testament Roots**
 
-The offerings of Genesis 4 anticipate the sacrificial system of Leviticus. Abel's animal sacrifice -- firstborn, fat portions -- echoes Leviticus 3-4. The cry of blood (*tsaaq*) echoes Israel's cry under Egyptian bondage (Exodus 2:23; 3:7). The mark on Cain (4:15) anticipates the Passover blood on the doorframes (Exodus 12:13) -- a sign that preserves life in the midst of judgment.
+The offerings of Genesis 4 anticipate the sacrificial system of Leviticus. Abel's animal sacrifice -- firstborn, fat portions -- echoes Leviticus 3-4. The cry of blood (*tsaaq*) echoes Israel's cry under Egyptian bondage (Exodus 2:23; 3:7). The mark on Cain (4:15) anticipates the Passover blood on the doorframes (Exodus 12:13) -- a sign that preserves life in the midst of judgment. "Where is Abel your brother?" (4:9) echoes "Where are you?" (Genesis 3:9) -- two divine questions, both invitations to confession. Cain's offering from the cursed ground stands in contrast to the animal skins God provided in Genesis 3:21.
 
 **New Testament Echoes**
 
-Hebrews 11:4 -- Abel offered "by faith." Hebrews 12:24 -- Christ's blood speaks a "better word." Matthew 23:35 -- Jesus names "righteous Abel." 1 John 3:11-12 -- "We should not be like Cain, who was of the evil one." 1 Peter 5:8 -- the devil as a roaring lion echoes the crouching predator. John 1:29 -- "Behold, the Lamb of God."
-
-**Parallel Passages**
-
-Compare "Where is Abel your brother?" (4:9) with "Where are you?" (3:9) -- two divine questions, both invitations to confession. Compare Cain's offering from the cursed ground with the animal skins God provided in 3:21. Compare the mark on Cain with the seal of God on believers (Ephesians 1:13; Revelation 7:3).
+Hebrews 11:4 -- Abel offered "by faith." Hebrews 12:24 -- Christ's blood speaks a "better word." Matthew 23:35 -- Jesus names "righteous Abel." 1 John 3:11-12 -- "We should not be like Cain, who was of the evil one." 1 Peter 5:8 -- the devil as a roaring lion echoes the crouching predator. John 1:29 -- "Behold, the Lamb of God." The mark on Cain anticipates the seal of God on believers (Ephesians 1:13; Revelation 7:3).
 
 ## Reflection Questions
 

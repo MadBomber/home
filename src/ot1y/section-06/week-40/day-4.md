@@ -2,8 +2,8 @@
 week: 40
 day: 4
 title: "Siege, Famine, and the Calculus of Faith"
-reading: "2 Kings 6:24-8:29"
-parallel_passages: 2 Corinthians 4:16-18, Matthew 26:53, Revelation 6:5-6, Romans 8:31-39
+reading:
+- 2 Kings 6:24-8:29
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -20,7 +20,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 2 Kings 6:24--8:29
+- 2 Kings 6:24-8:29
 
 ## Historical Context
 
@@ -52,15 +52,11 @@ The invisible army of God -- heard by the Arameans as the thunder of chariots an
 
 **Old Testament Roots**
 
-The famine and cannibalism during the siege fulfill the covenant curses of Deuteronomy 28:53-57 almost verbatim. The "windows of heaven" language (2 Kings 7:2) connects to Genesis 7:11 (the flood), Genesis 8:2 (the closing of the windows), and Malachi 3:10 (the promise of blessing through opened windows). The four lepers at the gate recall the laws of Leviticus 13:46, which required lepers to "dwell alone outside the camp." The Shunammite's land restoration (2 Kings 8:1-6) echoes the Jubilee principle of Leviticus 25, where lost property is returned and debts are canceled.
+The famine and cannibalism during the siege fulfill the covenant curses of Deuteronomy 28:53-57 almost verbatim. The "windows of heaven" language (2 Kings 7:2) connects to Genesis 7:11 (the flood), Genesis 8:2 (the closing of the windows), and Malachi 3:10 (the promise of blessing through opened windows). The four lepers at the gate recall the laws of Leviticus 13:46, which required lepers to "dwell alone outside the camp." The Shunammite's land restoration (2 Kings 8:1-6) echoes the Jubilee principle of Leviticus 25, where lost property is returned and debts are canceled. The same famine and cannibalism recur in the siege of Jerusalem under Nebuchadnezzar (2 Kings 25:1-3; Lamentations 2:20; 4:10).
 
 **New Testament Echoes**
 
-2 Corinthians 4:16-18 -- "The things that are seen are transient, but the things that are unseen are eternal." Matthew 26:53 -- Jesus' reference to twelve legions of angels at Gethsemane. Romans 8:31-39 -- "If God is for us, who can be against us?" parallels Elisha's "those who are with us are more than those who are with them." Revelation 6:5-6 -- the black horse of famine, where a day's wages buy a quart of wheat, echoing the inverted economics of Samaria's siege.
-
-**Parallel Passages**
-
-Compare the siege of Samaria (2 Kings 6:24-7:20) with the siege of Jerusalem under Nebuchadnezzar (2 Kings 25:1-3; Lamentations 2:20; 4:10), where the same famine and cannibalism recur. Compare the lepers' discovery of the abandoned camp with the women's discovery of the empty tomb (Mark 16:1-8) -- in both cases, those who expect death find life and must carry the news to others who will initially disbelieve.
+2 Corinthians 4:16-18 -- "The things that are seen are transient, but the things that are unseen are eternal." Matthew 26:53 -- Jesus' reference to twelve legions of angels at Gethsemane. Romans 8:31-39 -- "If God is for us, who can be against us?" parallels Elisha's "those who are with us are more than those who are with them." Revelation 6:5-6 -- the black horse of famine, where a day's wages buy a quart of wheat, echoing the inverted economics of Samaria's siege. Mark 16:1-8 -- as at the lepers' discovery of the abandoned camp, those who expect death at the empty tomb find life and must carry the news to others who will initially disbelieve.
 
 ## Reflection Questions
 

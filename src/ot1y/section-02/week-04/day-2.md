@@ -2,8 +2,8 @@
 week: 4
 day: 2
 title: "Two Lines Diverge -- Cain's City, Lamech's War Song, and Seth's Worship"
-reading: "Genesis 4:17-26"
-parallel_passages: Matthew 18:21-22, Romans 12:17-21, Luke 4:18-19, Revelation 21:2, Acts 2:21, Joel 2:32
+reading:
+- Genesis 4:17-26
 section: Adamic Covenant
 tags:
 - covenant-2
@@ -63,15 +63,11 @@ And the phrase "to call upon the name of the LORD" -- which begins here in Genes
 
 **Old Testament Roots**
 
-The city-building of Genesis 4:17 anticipates the tower of Babel (Genesis 11:1-9) -- another human attempt to construct meaning and identity apart from God. The musical instruments of 4:21 will reappear in Israel's worship (Psalm 150) -- the arts redeemed and directed toward God. The metallurgy of 4:22 will produce both the weapons of Israel's enemies and the implements of the tabernacle. "Calling on the name of the LORD" (4:26) appears throughout the patriarchal narratives (Genesis 12:8; 13:4; 21:33; 26:25) and in the Psalms (Psalm 116:4, 13, 17).
+The city-building of Genesis 4:17 anticipates the tower of Babel (Genesis 11:1-9) -- another human attempt to construct meaning and identity apart from God. The musical instruments of 4:21 will reappear in Israel's worship (Psalm 150) -- the arts redeemed and directed toward God. The metallurgy of 4:22 will produce both the weapons of Israel's enemies and the implements of the tabernacle. "Calling on the name of the LORD" (4:26) appears throughout the patriarchal narratives (Genesis 12:8; 13:4; 21:33; 26:25) and in the Psalms (Psalm 116:4, 13, 17). Lamech's song of violence (4:23-24) stands against the Song of Moses (Exodus 15) and the Song of the Lamb (Revelation 15:3) -- songs of deliverance, not destruction.
 
 **New Testament Echoes**
 
 Matthew 18:21-22 -- Jesus inverts Lamech's seventy-sevenfold into unlimited forgiveness. Romans 10:9, 13 -- "everyone who calls on the name of the Lord will be saved." Acts 2:21 -- Peter quotes Joel 2:32 at Pentecost, extending the worship of Genesis 4:26 to all nations. Revelation 18:2 -- "Fallen, fallen is Babylon the great" -- the city of Cain judged. Revelation 21:2 -- the new Jerusalem descending -- the city of God replacing the city of man.
-
-**Parallel Passages**
-
-Compare Cain's city (4:17) with Babel's tower (11:4) and Babylon in Revelation 17-18 -- human constructions built in defiance of God. Compare Lamech's song of violence (4:23-24) with the Song of Moses (Exodus 15) and the Song of the Lamb (Revelation 15:3) -- songs of deliverance, not destruction. Compare "calling on the name of the LORD" (4:26) with Abraham at Bethel (12:8) and the church at Pentecost (Acts 2:21).
 
 ## Reflection Questions
 

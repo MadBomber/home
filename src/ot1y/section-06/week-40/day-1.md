@@ -2,8 +2,8 @@
 week: 40
 day: 1
 title: "Elijah's Departure and Elisha's Commissioning"
-reading: "2 Kings 1:1-2:25"
-parallel_passages: Acts 1:6-11, Luke 9:51, Hebrews 11:5, John 14:12-14
+reading:
+- 2 Kings 1:1-2:25
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -19,7 +19,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 2 Kings 1:1--2:25
+- 2 Kings 1:1-2:25
 
 ## Historical Context
 
@@ -55,11 +55,7 @@ Elijah's parting of the Jordan recalls Moses at the Red Sea (Exodus 14:21) and J
 
 **New Testament Echoes**
 
-Acts 1:6-11 -- Jesus ascends while the disciples watch, just as Elijah ascended while Elisha watched. Luke 9:51 -- Jesus "set his face to go to Jerusalem," using the Greek *analempsis* ("taking up"), the same word used in the Septuagint for Elijah's translation. Matthew 11:14 and 17:10-13 -- Jesus identifies John the Baptist as the Elijah who was to come. John 14:12-14 -- Jesus promises that his followers will do "greater works" than his own, echoing the double portion that Elisha received.
-
-**Parallel Passages**
-
-Compare Elijah's departure (2 Kings 2:1-12) with Enoch's translation (Genesis 5:24; Hebrews 11:5) and Jesus' ascension (Acts 1:9-11). Compare the fire from heaven on Ahaziah's soldiers (2 Kings 1:10-12) with the disciples' request to call down fire on a Samaritan village, which Jesus rebukes (Luke 9:54-55) -- the same power, exercised under a different dispensation.
+Acts 1:6-11 -- Jesus ascends while the disciples watch, just as Elijah ascended while Elisha watched. Luke 9:51 -- Jesus "set his face to go to Jerusalem," using the Greek *analempsis* ("taking up"), the same word used in the Septuagint for Elijah's translation. Matthew 11:14 and 17:10-13 -- Jesus identifies John the Baptist as the Elijah who was to come. John 14:12-14 -- Jesus promises that his followers will do "greater works" than his own, echoing the double portion that Elisha received. Luke 9:54-55 -- the disciples ask to call down fire on a Samaritan village, as Elijah did on Ahaziah's soldiers (2 Kings 1:10-12), and Jesus rebukes them: the same power, exercised under a different dispensation.
 
 ## Reflection Questions
 

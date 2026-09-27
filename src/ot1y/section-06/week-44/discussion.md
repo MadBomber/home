@@ -29,7 +29,7 @@ This week we heard from six of the twelve "minor" prophets -- a chorus of voices
 
 ## Discussion Questions
 
-### Day 1: The Faithful Husband (Hosea 1:1-3:5; 11:1-11)
+### Day 1: The Faithful Husband (Hosea 1:1-3:5; Hosea 11:1-11)
 
 1. **Scandalous Love.** God commands Hosea to marry a prostitute -- to enact in his own body the anguish of loving someone who will not stay. The marriage is a living parable: God's love for Israel performed in flesh, bone, and heartbreak. What does it reveal about God's character that he chose to communicate his love not through a sermon but through a prophet's suffering marriage? What does it cost to love someone who keeps leaving?
 
@@ -37,7 +37,7 @@ This week we heard from six of the twelve "minor" prophets -- a chorus of voices
 
 3. **Out of Egypt.** "When Israel was a child, I loved him, and out of Egypt I called my son" (Hosea 11:1). Matthew quotes this verse as fulfilled in Jesus' return from Egypt as an infant (Matthew 2:15). How can a statement about Israel's history also be a prophecy about Christ? What does this "typological" reading tell you about how the New Testament understands the Old?
 
-### Day 2: Justice Like a River (Amos 1:1-2:16; 5:18-27)
+### Day 2: Justice Like a River (Amos 1:1-2:16; Amos 5:18-27)
 
 4. **Worship God Hates.** "I hate, I despise your feasts, and I take no delight in your solemn assemblies" (Amos 5:21). God rejects Israel's worship -- not because the rituals are improperly performed but because the worshipers oppress the poor on weekdays and sing psalms on the Sabbath. What is the relationship between worship and ethics in Amos? Can the two ever be separated, or is justice itself a form of worship?
 

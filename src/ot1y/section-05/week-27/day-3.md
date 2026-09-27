@@ -2,8 +2,8 @@
 week: 27
 day: 3
 title: "Choose God -- Warnings Against Idolatry, Reminders of Grace"
-reading: "Deuteronomy 7:1-11:32"
-parallel_passages: Ephesians 2:8-9, Romans 9:10-16, 1 Corinthians 10:1-13
+reading:
+- Deuteronomy 7:1-11:32
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -51,15 +51,11 @@ The warning against self-righteousness in Deuteronomy 9 -- "Do not say in your h
 
 **Old Testament Roots**
 
-The election language of Deuteronomy 7:6-8 echoes God's choice of Abraham in Genesis 12:1-3 -- uncaused, sovereign, and grounded in nothing but divine initiative. The golden calf narrative retold in Deuteronomy 9:7-21 refers back to Exodus 32, where Aaron fashioned the idol while Moses was on the mountain receiving the law. The manna theology of Deuteronomy 8:3 looks back to Exodus 16, where the daily provision of *man hu* taught Israel to trust God one day at a time. Moses' intercession after the golden calf (Deuteronomy 9:25-29) parallels Exodus 32:11-14 and Numbers 14:13-19, establishing the mediatorial pattern that runs through the entire Pentateuch.
+The election language of Deuteronomy 7:6-8 echoes God's choice of Abraham in Genesis 12:1-3 -- uncaused, sovereign, and grounded in nothing but divine initiative. The golden calf narrative retold in Deuteronomy 9:7-21 refers back to Exodus 32, where Aaron fashioned the idol while Moses was on the mountain receiving the law. The manna theology of Deuteronomy 8:3 looks back to Exodus 16, where the daily provision of *man hu* taught Israel to trust God one day at a time. Moses' intercession after the golden calf (Deuteronomy 9:25-29) parallels Exodus 32:11-14 and Numbers 14:13-19, establishing the mediatorial pattern that runs through the entire Pentateuch. Psalm 103:8-14 -- "The LORD is merciful and gracious, slow to anger and abounding in steadfast love... He does not deal with us according to our sins" -- captures the grace that Deuteronomy 9 describes. Ezekiel 16:1-14 retells Israel's election as a story of God finding an abandoned infant and lavishing love on one who had nothing to commend her. Hosea 11:1-4 -- "When Israel was a child, I loved him, and out of Egypt I called my son" -- expresses the same uncaused, parental love that chose the fewest of all peoples.
 
 **New Testament Echoes**
 
 Paul's argument in Romans 9:10-16 -- that God's election is not based on human works or merit -- is the theological heir of Deuteronomy 7:7-8 and 9:4-6. Ephesians 2:8-9 ("by grace you have been saved... not a result of works") universalizes the Deuteronomic principle for the church. Paul's warning in 1 Corinthians 10:1-13 uses the wilderness generation as a cautionary example for believers: "These things happened to them as examples, and they were written down for our instruction." Jesus' wilderness temptation (Matthew 4:1-11) engages Deuteronomy 6-8 directly, with each response drawn from the very chapters that surround today's reading.
-
-**Parallel Passages**
-
-Psalm 103:8-14 -- "The LORD is merciful and gracious, slow to anger and abounding in steadfast love... He does not deal with us according to our sins" -- captures the grace that Deuteronomy 9 describes. Ezekiel 16:1-14 retells Israel's election as a story of God finding an abandoned infant and lavishing love on one who had nothing to commend her. Hosea 11:1-4 -- "When Israel was a child, I loved him, and out of Egypt I called my son" -- expresses the same uncaused, parental love that chose the fewest of all peoples.
 
 ## Reflection Questions
 

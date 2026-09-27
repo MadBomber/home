@@ -2,8 +2,8 @@
 week: 52
 day: 2
 title: "All Flesh Shall Worship"
-reading: "Isaiah 66:1-24"
-parallel_passages: Acts 7:48-50, Revelation 21:24-26, Matthew 24:30-31, Mark 13:10, Romans 11:25-27
+reading:
+- Isaiah 66:1-24
 section: Consummation
 tags:
 - covenant-8
@@ -50,15 +50,11 @@ The universal ingathering of 66:18-21 is the missionary mandate of the New Testa
 
 **Old Testament Roots**
 
-Isaiah 66:1 echoes Solomon's prayer at the temple dedication (1 Kings 8:27): "Behold, heaven and the highest heaven cannot contain you." The vision of nations streaming to Zion recalls Isaiah 2:2-4, where "all the nations shall flow" to the mountain of the LORD. The promise that God will take Gentiles "for priests and for Levites" (66:21) overturns the exclusive Levitical priesthood established at Sinai and anticipated in Exodus 19:6, where Israel was called "a kingdom of priests" -- a vocation now extended to all nations. The closing doxology of perpetual worship echoes the Sabbath theology of Genesis 2:1-3.
+Isaiah 66:1 echoes Solomon's prayer at the temple dedication (1 Kings 8:27): "Behold, heaven and the highest heaven cannot contain you." The vision of nations streaming to Zion recalls Isaiah 2:2-4, where "all the nations shall flow" to the mountain of the LORD. The promise that God will take Gentiles "for priests and for Levites" (66:21) overturns the exclusive Levitical priesthood established at Sinai and anticipated in Exodus 19:6, where Israel was called "a kingdom of priests" -- a vocation now extended to all nations. The closing doxology of perpetual worship echoes the Sabbath theology of Genesis 2:1-3. Micah 4:1-3, repeating Isaiah 2:2-4, gives the same earlier vision of the nations' pilgrimage to Zion. Psalm 87 celebrates the nations enrolled as citizens of Zion. Zechariah 14:16 envisions survivors from all nations going up to Jerusalem to worship. Malachi 1:11 declares, "From the rising of the sun to its setting my name will be great among the nations" -- the prophetic consensus that Israel's God would become the world's God.
 
 **New Testament Echoes**
 
 Acts 7:48-50 quotes Isaiah 66:1 in Stephen's speech, reinterpreting the temple in light of Christ. Revelation 21:22 declares that the new Jerusalem has no temple, "for its temple is the Lord God the Almighty and the Lamb" -- the ultimate answer to Isaiah's question. Revelation 21:24-26 shows the nations bringing their glory into the city, fulfilling Isaiah 66:18-20. Galatians 3:28 -- "neither Jew nor Greek" -- is the theological shorthand for Isaiah's vision of Gentile priests.
-
-**Parallel Passages**
-
-Isaiah 2:2-4 and Micah 4:1-3 provide earlier visions of the nations' pilgrimage to Zion. Psalm 87 celebrates the nations enrolled as citizens of Zion. Zechariah 14:16 envisions survivors from all nations going up to Jerusalem to worship. Malachi 1:11 declares, "From the rising of the sun to its setting my name will be great among the nations" -- the prophetic consensus that Israel's God would become the world's God.
 
 ## Reflection Questions
 

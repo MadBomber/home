@@ -2,8 +2,8 @@
 week: 37
 day: 2
 title: "Amnon, Tamar, Absalom -- The Consequences Unfold"
-reading: "2 Samuel 13:1-14:33"
-parallel_passages: Deuteronomy 22:25-27, Genesis 34, Romans 12:17-21, Hebrews 12:5-11
+reading:
+- 2 Samuel 13:1-14:33
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,15 +48,11 @@ The author of Hebrews draws a distinction between divine discipline and punitive
 
 **Old Testament Roots**
 
-Tamar's assault echoes the story of Dinah in Genesis 34, where Shechem violates Jacob's daughter and her brothers Simeon and Levi take bloody revenge. In both cases, a father's passivity in the face of his daughter's suffering provokes sons to act with violence that exceeds the bounds of justice. The torn *ketonet passim* -- the ornamented robe -- connects Tamar to Joseph (Genesis 37:3), another favored child whose garment becomes evidence of violence committed against the innocent. Deuteronomy 22:25-27 provides the legal framework for sexual assault, prescribing death for the perpetrator -- the very justice David fails to execute.
+Tamar's assault echoes the story of Dinah in Genesis 34, where Shechem violates Jacob's daughter and her brothers Simeon and Levi take bloody revenge. In both cases, a father's passivity in the face of his daughter's suffering provokes sons to act with violence that exceeds the bounds of justice. The torn *ketonet passim* -- the ornamented robe -- connects Tamar to Joseph (Genesis 37:3), another favored child whose garment becomes evidence of violence committed against the innocent. Deuteronomy 22:25-27 provides the legal framework for sexual assault, prescribing death for the perpetrator -- the very justice David fails to execute. Judges 19 (the Levite's concubine) presents an even more horrifying account of sexual violence and its catastrophic aftermath. Psalm 55, traditionally associated with this period, gives voice to the anguish of betrayal from within one's own household: "For it is not an enemy who taunts me -- then I could bear it... But it is you, a man, my equal, my companion, my familiar friend" (Psalm 55:12-13).
 
 **New Testament Echoes**
 
 Romans 12:17-21 addresses the cycle of violence directly: "Repay no one evil for evil... Do not be overcome by evil, but overcome evil with good." The pattern of Absalom's revenge -- answering sin with sin, violence with violence -- is precisely what the gospel disrupts. Hebrews 12:5-11 interprets suffering within the covenant as divine discipline rather than divine abandonment, providing the theological framework for understanding why the sword remains in David's house even after forgiveness has been granted.
-
-**Parallel Passages**
-
-Genesis 34 (Dinah's assault and the revenge of Simeon and Levi) provides the closest Old Testament parallel to the Amnon-Tamar-Absalom cycle. Judges 19 (the Levite's concubine) presents an even more horrifying account of sexual violence and its catastrophic aftermath. Psalm 55, traditionally associated with this period, gives voice to the anguish of betrayal from within one's own household: "For it is not an enemy who taunts me -- then I could bear it... But it is you, a man, my equal, my companion, my familiar friend" (55:12-13).
 
 ## Reflection Questions
 

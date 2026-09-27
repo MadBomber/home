@@ -2,8 +2,8 @@
 week: 17
 day: 5
 title: "The Return to Egypt -- Circumcision, Aaron, and the First Worship"
-reading: "Exodus 4:18-31"
-parallel_passages: Romans 4:11, Colossians 2:11-12, Luke 2:21, Philippians 2:10-11
+reading:
+- Exodus 4:18-31
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -48,15 +48,11 @@ The chapter closes with Israel's worship -- bowed heads and prostrate bodies bef
 
 **Old Testament Roots**
 
-The word *paqad* ("visited") in 4:31 fulfills Joseph's deathbed prophecy in Genesis 50:24-25: "God will surely visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob." The circumcision crisis recalls the institution of circumcision in Genesis 17, where God commanded Abraham to circumcise every male as the sign of the covenant -- "any uncircumcised male... shall be cut off from his people; he has broken my covenant" (Genesis 17:14). Moses, the covenant mediator, cannot bear an uncircumcised son and remain the covenant messenger. The appointment of Aaron as Moses' spokesman (4:14-16) foreshadows Aaron's later role as high priest -- the one who will speak to God on behalf of the people, mediating between the holy and the human.
+The word *paqad* ("visited") in 4:31 fulfills Joseph's deathbed prophecy in Genesis 50:24-25: "God will surely visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob." The circumcision crisis recalls the institution of circumcision in Genesis 17, where God commanded Abraham to circumcise every male as the sign of the covenant -- "any uncircumcised male... shall be cut off from his people; he has broken my covenant" (Genesis 17:14). Moses, the covenant mediator, cannot bear an uncircumcised son and remain the covenant messenger. The appointment of Aaron as Moses' spokesman (4:14-16) foreshadows Aaron's later role as high priest -- the one who will speak to God on behalf of the people, mediating between the holy and the human. Genesis 22:1-14 -- the binding of Isaac -- shares the pattern of a father's son threatened with death and then spared through divine intervention, with the provision of a substitute. Malachi 3:1 -- "the Lord whom you seek will suddenly come to his temple" -- echoes the language of divine visitation, the sudden arrival of the God who has been silent.
 
 **New Testament Echoes**
 
-Paul's extended argument about circumcision in Romans 4 and Galatians 3-4 finds its roots in passages like this one. Circumcision was always a sign pointing toward a deeper reality -- the cutting away of the flesh's rebellion, the mark of covenant belonging. In Christ, Paul argues, the sign has been superseded by the reality: "For neither circumcision counts for anything, nor uncircumcision, but a new creation" (Galatians 6:15). Luke records that Jesus himself was circumcised on the eighth day (Luke 2:21), submitting to the covenant sign as the one who would fulfill everything it signified. The people's worship in 4:31 -- upon hearing that God has visited and seen -- anticipates Simeon's response when he holds the infant Jesus: "Lord, now you are letting your servant depart in peace, according to your word; for my eyes have seen your salvation" (Luke 2:29-30). Both are moments when long-awaited divine visitation produces spontaneous, reverent worship.
-
-**Parallel Passages**
-
-Genesis 22:1-14 -- the binding of Isaac -- shares the pattern of a father's son threatened with death and then spared through divine intervention, with the provision of a substitute. Malachi 3:1 -- "the Lord whom you seek will suddenly come to his temple" -- echoes the language of divine visitation, the sudden arrival of the God who has been silent. Revelation 5:8-14 -- the worship of the Lamb by every creature in heaven and earth -- is the consummation of the worship that began in Exodus 4:31, when a battered people bowed their heads because God had finally come.
+Paul's extended argument about circumcision in Romans 4 and Galatians 3-4 finds its roots in passages like this one. Circumcision was always a sign pointing toward a deeper reality -- the cutting away of the flesh's rebellion, the mark of covenant belonging. In Christ, Paul argues, the sign has been superseded by the reality: "For neither circumcision counts for anything, nor uncircumcision, but a new creation" (Galatians 6:15). Luke records that Jesus himself was circumcised on the eighth day (Luke 2:21), submitting to the covenant sign as the one who would fulfill everything it signified. The people's worship in 4:31 -- upon hearing that God has visited and seen -- anticipates Simeon's response when he holds the infant Jesus: "Lord, now you are letting your servant depart in peace, according to your word; for my eyes have seen your salvation" (Luke 2:29-30). Both are moments when long-awaited divine visitation produces spontaneous, reverent worship. Revelation 5:8-14 -- the worship of the Lamb by every creature in heaven and earth -- is the consummation of the worship that began in Exodus 4:31, when a battered people bowed their heads because God had finally come.
 
 ## Reflection Questions
 

@@ -2,8 +2,11 @@
 week: 35
 day: 3
 title: "Jerusalem Conquered, the Ark Brought Home"
-reading: "2 Samuel 5:1-6:23"
-parallel_passages: Hebrews 12:22-24, John 12:12-15, Ephesians 2:14, Colossians 1:19-20
+reading:
+- 2 Samuel 5:1-6:23
+parallel_passages:
+- 1 Chronicles 13-16
+- Psalm 132:1-10
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -47,7 +50,7 @@ The ark's procession into Jerusalem carries its own christological weight. The a
 
 **Old Testament Roots**
 
-The ark's journey into Jerusalem echoes its earlier movements: carried through the Jordan (Joshua 3-4), circling Jericho (Joshua 6), captured by the Philistines (1 Samuel 4-6), and now finally arriving at its intended resting place. David's dancing in a linen ephod recalls the priestly garments of Exodus 28 and anticipates the royal priesthood the psalmist will celebrate: "You are a priest forever after the order of Melchizedek" (Psalm 110:4). The death of Uzzah recalls Nadab and Abihu's unauthorized fire (Leviticus 10:1-3) -- in both cases, well-intentioned but unauthorized approach to God's holy presence results in death.
+The ark's journey into Jerusalem echoes its earlier movements: carried through the Jordan (Joshua 3-4), circling Jericho (Joshua 6), captured by the Philistines (1 Samuel 4-6), and now finally arriving at its intended resting place. David's dancing in a linen ephod recalls the priestly garments of Exodus 28 and anticipates the royal priesthood the psalmist will celebrate: "You are a priest forever after the order of Melchizedek" (Psalm 110:4). The death of Uzzah recalls Nadab and Abihu's unauthorized fire (Leviticus 10:1-3) -- in both cases, well-intentioned but unauthorized approach to God's holy presence results in death. Psalm 24 -- "Lift up your heads, O gates!" -- is traditionally associated with the ark's entry into Jerusalem.
 
 **New Testament Echoes**
 
@@ -55,7 +58,7 @@ Jesus' triumphal entry into Jerusalem (John 12:12-15) deliberately fulfills Zech
 
 **Parallel Passages**
 
-1 Chronicles 13-16 provides a parallel and expanded account of the ark's transfer, including the Levitical singers and the psalm David composed for the occasion (1 Chronicles 16:8-36). Psalm 132 celebrates the ark's arrival in Zion: "Arise, O LORD, and go to your resting place, you and the ark of your might." Psalm 24 -- "Lift up your heads, O gates!" -- is traditionally associated with the ark's entry into Jerusalem.
+1 Chronicles 13-16 provides a parallel and expanded account of the ark's transfer, including the Levitical singers and the psalm David composed for the occasion (1 Chronicles 16:8-36). Psalm 132:1-10 recalls the same journey, from finding the ark "in the fields of Jaar" to bringing it to its place in Zion: "Arise, O LORD, and go to your resting place, you and the ark of your might."
 
 ## Reflection Questions
 

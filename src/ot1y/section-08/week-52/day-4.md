@@ -2,8 +2,9 @@
 week: 52
 day: 4
 title: "The Feast on the Mountain and the City of Everlasting Light"
-reading: "Isaiah 25:6-9; 60:1-22"
-parallel_passages: Revelation 21:22-27, 1 Corinthians 15:54-57, Luke 14:15-24, Matthew 8:11, Revelation 19:6-9
+reading:
+- Isaiah 25:6-9
+- Isaiah 60:1-22
 section: Consummation
 tags:
 - covenant-8
@@ -17,17 +18,18 @@ study_slug: ot1y
 
 ## Reading
 
-- Isaiah 25:6-9; 60:1-22
+- Isaiah 25:6-9
+- Isaiah 60:1-22
 
 ## Historical Context
 
-Isaiah 25:6-9 is set within the so-called "Isaiah Apocalypse" (chapters 24--27), a section of the book that lifts the prophetic gaze from the immediate political landscape of Judah, Assyria, and Babylon to the cosmic horizon of God's final triumph over every enemy -- including death itself. The literary context is important: chapter 24 has just described the devastation of the entire earth (*erets*), a comprehensive judgment that levels the proud city, silences the songs of the ruthless, and strips away every human pretension. Out of that devastation, chapter 25 erupts in praise -- and at its center is a feast.
+Isaiah 25:6-9 is set within the so-called "Isaiah Apocalypse" (chapters 24-27), a section of the book that lifts the prophetic gaze from the immediate political landscape of Judah, Assyria, and Babylon to the cosmic horizon of God's final triumph over every enemy -- including death itself. The literary context is important: chapter 24 has just described the devastation of the entire earth (*erets*), a comprehensive judgment that levels the proud city, silences the songs of the ruthless, and strips away every human pretension. Out of that devastation, chapter 25 erupts in praise -- and at its center is a feast.
 
 The feast takes place "on this mountain" (25:6) -- Mount Zion, the location of the temple and the symbolic center of God's rule. The Hebrew is vivid: *mishteh shemanin* -- "a feast of rich food" -- literally "a feast of fat things," where *sheman* (fat, oil) connotes the most luxurious provisions the ancient world knew. The parallelism intensifies: *shemanin memuchayim* -- "rich food full of marrow" -- and *shemarim mezuqqaqim* -- "aged wine well refined." The repetition is deliberate excess. This is not a modest meal of thanksgiving. It is a banquet of staggering abundance, prepared by God himself, served to "all peoples" (*kol ha'ammim*). The guest list is universal. Every nation is invited to the mountain where Israel's God dwells, and the fare is the finest the Creator can provide.
 
 But the feast is not the climax. The climax is what happens at the table: "He will swallow up death forever. And the Lord GOD will wipe away tears from all faces, and the reproach of his people he will take away from all the earth" (25:8). The verb *billa* -- "he will swallow" -- is the same verb used for death's own action throughout the Old Testament. Death swallows; it devours; it consumes. Here, in a stunning reversal, death is itself swallowed. The devourer is devoured. The Hebrew *lanetsach* can mean "forever" or "in victory" -- the ambiguity is productive, and Paul will exploit both senses. And alongside death's defeat, tears are wiped from faces. The Hebrew *macha* means to wipe, blot out, or erase -- the same verb used for God blotting out sin (Psalm 51:1) and blotting out the memory of enemies (Deuteronomy 25:19). The tears are not merely dried. They are removed from existence.
 
-Isaiah 60 shifts to the imagery of light. The chapter belongs to the section sometimes called the "glory of Zion" (chapters 60--62), and it opens with a command: "Arise, shine, for your light has come, and the glory of the LORD has risen upon you" (60:1). The Hebrew *qumi 'ori* -- "arise, shine" -- uses the feminine singular, addressing Zion as a woman emerging from darkness. The world around her remains dark -- "behold, darkness shall cover the earth, and thick darkness the peoples" (60:2) -- but she radiates because the *kavod* (glory) of the LORD is upon her. Nations walk toward her light. Kings come to "the brightness of your rising" (60:3).
+Isaiah 60 shifts to the imagery of light. The chapter belongs to the section sometimes called the "glory of Zion" (chapters 60-62), and it opens with a command: "Arise, shine, for your light has come, and the glory of the LORD has risen upon you" (60:1). The Hebrew *qumi 'ori* -- "arise, shine" -- uses the feminine singular, addressing Zion as a woman emerging from darkness. The world around her remains dark -- "behold, darkness shall cover the earth, and thick darkness the peoples" (60:2) -- but she radiates because the *kavod* (glory) of the LORD is upon her. Nations walk toward her light. Kings come to "the brightness of your rising" (60:3).
 
 The chapter reaches its theological apex in verse 19: "The sun shall be no more your light by day, nor for brightness shall the moon give you light; but the LORD will be your everlasting light, and your God will be your glory." The Hebrew *'or 'olam* -- "everlasting light" -- transcends any natural phenomenon. The sun and moon, which Genesis 1:14-18 assigned to "govern" day and night, are rendered unnecessary. They are not destroyed but eclipsed -- outshone by the direct radiance of God's presence. The light of Day 1, which existed before any celestial body, was always a theological confession: light originates in God, not in stars. Isaiah 60:19 declares that the new creation will make that confession visible. The intermediaries will be removed. The source will shine directly. The age of shadows will be over.
 
@@ -51,15 +53,11 @@ The everlasting light of Isaiah 60:19 finds its fulfillment in the Lamb who is t
 
 **Old Testament Roots**
 
-Isaiah 25:6 draws on the covenant meal tradition. After receiving the law at Sinai, Moses, Aaron, Nadab, Abihu, and the seventy elders "beheld God, and ate and drank" (Exodus 24:9-11) -- a feast in the presence of God on a mountain. Isaiah 25 universalizes that experience: not seventy elders but all peoples, not a covenant ratification but the consummation of all covenants. Isaiah 60 connects to the pillar of cloud and fire that led Israel through the wilderness (Exodus 13:21-22) -- God as Israel's light, preceding them, never failing. The Shekinah glory that filled the tabernacle (Exodus 40:34) and Solomon's temple (1 Kings 8:10-11) was always headed toward the unmediated radiance Isaiah 60 describes.
+Isaiah 25:6 draws on the covenant meal tradition. After receiving the law at Sinai, Moses, Aaron, Nadab, Abihu, and the seventy elders "beheld God, and ate and drank" (Exodus 24:9-11) -- a feast in the presence of God on a mountain. Isaiah 25 universalizes that experience: not seventy elders but all peoples, not a covenant ratification but the consummation of all covenants. Isaiah 60 connects to the pillar of cloud and fire that led Israel through the wilderness (Exodus 13:21-22) -- God as Israel's light, preceding them, never failing. The Shekinah glory that filled the tabernacle (Exodus 40:34) and Solomon's temple (1 Kings 8:10-11) was always headed toward the unmediated radiance Isaiah 60 describes. Isaiah 35:10 promises that "sorrow and sighing shall flee away" -- an earlier version of the wiped tears. Psalm 23:5 -- "You prepare a table before me" -- is the personal form of what Isaiah 25 describes cosmically. Isaiah 2:2-5 calls the nations to "walk in the light of the LORD," anticipating the everlasting light of chapter 60. Zechariah 14:7 envisions a day that is "neither day nor night, but at evening time there shall be light" -- the same eschatological reality.
 
 **New Testament Echoes**
 
 1 Corinthians 15:54-57 directly quotes Isaiah 25:8 in Paul's resurrection argument. Revelation 7:17 and 21:4 echo Isaiah 25:8 -- "God will wipe away every tear from their eyes." Revelation 21:23 and 22:5 fulfill Isaiah 60:19-20, with the Lamb as the city's lamp. Luke 14:15-24 and Matthew 22:1-14 present Jesus' parables of the great feast. Matthew 8:11 envisions the nations reclining at table in the kingdom.
-
-**Parallel Passages**
-
-Isaiah 35:10 promises that "sorrow and sighing shall flee away" -- an earlier version of the wiped tears. Psalm 23:5 -- "you prepare a table before me" -- is the personal form of what Isaiah 25 describes cosmically. Isaiah 2:2-5 calls the nations to "walk in the light of the LORD," anticipating the everlasting light of chapter 60. Zechariah 14:7 envisions "continuous day" with "no night" -- the same eschatological reality.
 
 ## Reflection Questions
 

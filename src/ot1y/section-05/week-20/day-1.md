@@ -2,8 +2,11 @@
 week: 20
 day: 1
 title: "Sinai -- Thunder, Fire, and a Kingdom of Priests"
-reading: "Exodus 19:1-25"
-parallel_passages: Hebrews 12:18-24, 1 Peter 2:9, Revelation 1:6
+reading:
+- Exodus 19:1-25
+parallel_passages:
+- Deuteronomy 4:10-13
+- Psalm 68:7-8
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -36,7 +39,7 @@ The author of Hebrews places the Sinai theophany alongside the work of Christ an
 
 The promise of a "kingdom of priests" spoken at Sinai finds its fulfillment in Christ. Peter takes the exact vocabulary of Exodus 19:5-6 and applies it to the church: "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light" (1 Peter 2:9). The Greek *basileion hierateuma* translates the Hebrew *mamlekhet kohanim* almost word for word. But the priesthood Israel could not sustain -- because the mountain burned, the people trembled, and the law they vowed to keep exposed the sin they could not conquer -- Christ fulfills permanently. He is both the high priest who needs no successor (Hebrews 7:24) and the sacrifice that needs no repetition (Hebrews 10:12). Through his finished work, the original Sinai vision is restored: every believer a priest, every life a living sacrifice, every gathering of the church an approach to the holy mountain where the fire no longer kills but warms.
 
-The God who descended on Sinai in fire and smoke descended again at Pentecost in tongues of flame (Acts 2:3). The parallels are deliberate. At Sinai, the people stood at a distance and begged Moses to speak for them. At Pentecost, the Spirit fell on each person individually, and they spoke the word themselves. At Sinai, the law was written on stone. At Pentecost, the law was written on hearts (Jeremiah 31:33; 2 Corinthians 3:3). The mountain that once kept people out became the upper room that sent people out. What changed was not the God who descended but the mediator through whom he came. Christ's death and resurrection accomplished what Sinai could only promise: a kingdom of priests who could stand in the presence of a holy God and live.
+The God who descended on Sinai in fire and smoke descended again at Pentecost in tongues of flame (Acts 2:3). The parallels are deliberate. At Sinai, the people were held back by a boundary at the foot of the mountain, and only Moses went up to hear God's word (19:12, 20-23). At Pentecost, the Spirit fell on each person individually, and they spoke the word themselves. At Sinai, the law was written on stone. At Pentecost, the law was written on hearts (Jeremiah 31:33; 2 Corinthians 3:3). The mountain that once kept people out became the upper room that sent people out. What changed was not the God who descended but the mediator through whom he came. Christ's death and resurrection accomplished what Sinai could only promise: a kingdom of priests who could stand in the presence of a holy God and live.
 
 ## Key Themes
 
@@ -48,7 +51,7 @@ The God who descended on Sinai in fire and smoke descended again at Pentecost in
 
 **Old Testament Roots**
 
-The burning bush (Exodus 3:1-6) was the private preview of what Sinai reveals publicly. The same mountain, the same fire, the same command to keep distance from holy ground. God's self-revelation to Moses at the bush now extends to the entire nation. The "consuming fire" motif will recur throughout the Old Testament -- in the pillar of fire (Exodus 13:21), in the fire on the altar (Leviticus 9:24), in Elijah's contest on Carmel (1 Kings 18:38), and in Isaiah's vision of the Lord whose glory fills the temple with smoke (Isaiah 6:4).
+The burning bush (Exodus 3:1-6) was the private preview of what Sinai reveals publicly. The same mountain, the same fire, the same command to keep distance from holy ground. God's self-revelation to Moses at the bush now extends to the entire nation. The "consuming fire" motif will recur throughout the Old Testament -- in the pillar of fire (Exodus 13:21), in the fire on the altar (Leviticus 9:24), in Elijah's contest on Carmel (1 Kings 18:38), and in Isaiah's vision of the Lord whose glory fills the temple with smoke (Isaiah 6:4). Habakkuk 3:3-6 echoes the theophany imagery -- God's brightness like light, pestilence before him, the mountains scattered. The pattern is consistent: when God draws near, creation trembles.
 
 **New Testament Echoes**
 
@@ -56,7 +59,7 @@ Hebrews 12:18-24 explicitly contrasts Sinai's terror with the access believers h
 
 **Parallel Passages**
 
-Deuteronomy 4:10-13 retells the Sinai theophany with emphasis on the voice from the fire. Psalm 68:7-8 celebrates God's march through the wilderness and the trembling of Sinai. Habakkuk 3:3-6 echoes the theophany imagery -- God's brightness like light, pestilence before him, the mountains scattered. The pattern is consistent: when God draws near, creation trembles.
+Deuteronomy 4:10-13 retells the Sinai theophany with emphasis on the voice from the fire. Psalm 68:7-8 celebrates God's march through the wilderness and the trembling of Sinai.
 
 ## Reflection Questions
 

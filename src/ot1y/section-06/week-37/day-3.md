@@ -2,8 +2,11 @@
 week: 37
 day: 3
 title: "Absalom's Rebellion -- David Flees Jerusalem Barefoot"
-reading: "2 Samuel 15:1-16:23"
-parallel_passages: Luke 19:41-44, Matthew 26:30-46, Psalm 3, Psalm 63
+reading:
+- 2 Samuel 15:1-16:23
+parallel_passages:
+- Psalm 3
+- Psalm 63
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -34,7 +37,7 @@ Ahithophel's counsel to Absalom upon entering Jerusalem is calculated to make th
 
 David's ascent of the Mount of Olives is the Old Testament's most vivid foreshadowing of Christ's journey to Gethsemane. The parallels are too precise to be accidental and too theologically loaded to be mere coincidence. Both kings leave Jerusalem. Both cross the Kidron Valley (15:23; John 18:1). Both ascend the Mount of Olives. Both weep. Both are betrayed by a trusted companion -- David by Ahithophel, Jesus by Judas. Both face the rebellion of those they came to serve. The geography is identical. The posture of grief is identical. But the direction of the journey is reversed. David flees *from* judgment, driven out by a rebellious son. Jesus walks *into* judgment, driven forward by a love that will not turn back. David weeps for himself and for what his sin has cost. Jesus weeps for Jerusalem: "Would that you, even you, had known on this day the things that make for peace!" (Luke 19:41-42). The barefoot king and the Gethsemane King travel the same road in opposite directions -- one running from the consequences of his own sin, the other running toward the consequences of everyone else's.
 
-The betrayal of Ahithophel casts a long shadow into the New Testament. David's lament -- "Even my close friend in whom I trusted, who ate my bread, has lifted his heel against me" (Psalm 41:9) -- is the verse Jesus quotes at the Last Supper to describe Judas's betrayal (John 13:18). Ahithophel's end is also Judas's end: when his counsel is rejected, Ahithophel goes home, sets his affairs in order, and hangs himself (2 Samuel 17:23). Judas, after betraying Jesus, goes out and hangs himself (Matthew 27:5). The trusted counselor who turns traitor, the death by hanging, the betrayal of the anointed king -- the pattern established in David's story is completed in Christ's. But where Ahithophel's betrayal succeeds in its immediate aim (David is driven from the city), Judas's betrayal accomplishes the opposite of what the enemy intends. The cross that Judas helps set in motion becomes the instrument of salvation. The betrayal meant to destroy the King becomes the means by which the King saves the world.
+The betrayal of Ahithophel casts a long shadow into the New Testament. David's lament -- "Even my close friend in whom I trusted, who ate my bread, has lifted his heel against me" (Psalm 41:9) -- is the verse Jesus quotes at the Last Supper to describe Judas's betrayal (John 13:18). Ahithophel sat at David's council; Judas sat at Jesus' table and carried the common purse. The trusted counselor who turns traitor, the friend who shares the king's bread and then lifts his heel against him -- the pattern established in David's story is completed in Christ's. But where Ahithophel's betrayal succeeds in its immediate aim (David is driven from the city), Judas's betrayal accomplishes the opposite of what the enemy intends. The cross that Judas helps set in motion becomes the instrument of salvation. The betrayal meant to destroy the King becomes the means by which the King saves the world.
 
 David's submission on the Mount of Olives -- his refusal to retaliate against Shimei, his willingness to absorb insult and injury, his trust that God will vindicate him in his own time -- is a faint and imperfect image of what Christ will do perfectly. "When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly" (1 Peter 2:23). David's humility on the road is genuine but born of guilt -- he knows he deserves what is happening. Christ's humility on the same road is born of a different source entirely: not guilt but grace, not the acknowledgment that he deserves the suffering but the determination to bear suffering he does not deserve so that those who do deserve it might go free.
 

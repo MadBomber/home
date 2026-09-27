@@ -2,8 +2,12 @@
 week: 49
 day: 3
 title: "The Servant Songs -- Called, Equipped, Rejected, Vindicated"
-reading: "Isaiah 42:1-9; 49:1-7; 50:4-9"
-parallel_passages: Matthew 12:15-21, Luke 2:32, Acts 13:47, Matthew 26:67
+reading:
+- Isaiah 42:1-9
+- Isaiah 49:1-7
+- Isaiah 50:4-9
+parallel_passages:
+- Matthew 12:18-21
 section: New Covenant
 tags:
 - covenant-7
@@ -16,7 +20,9 @@ study_slug: ot1y
 
 ## Reading
 
-- Isaiah 42:1-9; 49:1-7; 50:4-9
+- Isaiah 42:1-9
+- Isaiah 49:1-7
+- Isaiah 50:4-9
 
 ## Historical Context
 
@@ -46,15 +52,15 @@ The third servant song's description of voluntary suffering -- the back given to
 
 **Old Testament Roots**
 
-The servant's anointing with the Spirit (Isaiah 42:1) echoes the anointing of David (1 Samuel 16:13) and anticipates Isaiah 61:1 ("The Spirit of the Lord GOD is upon me, because the LORD has anointed me"). The phrase "light of nations" (*or goyim*) recalls God's original promise to Abraham that "in you all the families of the earth shall be blessed" (Genesis 12:3) -- the servant fulfills the Abrahamic mission. The voluntary suffering of Isaiah 50:6 echoes the posture of the righteous sufferer in the Psalms (Psalm 69:7-12) and anticipates the fourth servant song's fuller description of substitutionary suffering.
+The servant's anointing with the Spirit (Isaiah 42:1) echoes the anointing of David (1 Samuel 16:13) and anticipates Isaiah 61:1 ("The Spirit of the Lord GOD is upon me, because the LORD has anointed me"). The phrase "light of nations" (*or goyim*) recalls God's original promise to Abraham that "in you all the families of the earth shall be blessed" (Genesis 12:3) -- the servant fulfills the Abrahamic mission. The voluntary suffering of Isaiah 50:6 echoes the posture of the righteous sufferer in the Psalms (Psalm 69:7-12) and anticipates the fourth servant song's fuller description of substitutionary suffering. Isaiah 11:1-5 describes the shoot from the stump of Jesse, upon whom the Spirit rests, who judges with righteousness and equity. Zechariah 3:8 -- "I will bring my servant the Branch" -- connects the servant title to the messianic branch imagery.
 
 **New Testament Echoes**
 
-Matthew 12:17-21 quotes Isaiah 42:1-4 as fulfilled in Jesus' healing ministry. Luke 2:32 identifies the infant Jesus as the "light for revelation to the Gentiles" promised in Isaiah 49:6. Acts 13:47 applies Isaiah 49:6 to the apostolic mission to the Gentiles. Matthew 26:67 and Mark 14:65 describe the spitting and striking that fulfill Isaiah 50:6. Romans 8:33-34 echoes the servant's confident challenge -- "Who shall bring any charge against God's elect? ... Who is to condemn?" -- drawing its logic directly from Isaiah 50:8-9.
+Matthew 12:17-21 quotes Isaiah 42:1-4 as fulfilled in Jesus' healing ministry. Luke 2:32 identifies the infant Jesus as the "light for revelation to the Gentiles" promised in Isaiah 49:6. Acts 13:47 applies Isaiah 49:6 to the apostolic mission to the Gentiles. Matthew 26:67 and Mark 14:65 describe the spitting and striking that fulfill Isaiah 50:6. Romans 8:33-34 echoes the servant's confident challenge -- "Who shall bring any charge against God's elect? ... Who is to condemn?" -- drawing its logic directly from Isaiah 50:8-9. Philippians 2:5-11 -- Christ Jesus, who took the form of a servant, humbled himself, and was exalted -- is the New Testament's most compressed retelling of the servant songs' trajectory.
 
 **Parallel Passages**
 
-Isaiah 11:1-5 -- the shoot from the stump of Jesse, upon whom the Spirit rests, who judges with righteousness and equity. Isaiah 61:1-3 -- the anointed one who brings good news to the poor, binds up the brokenhearted, and proclaims liberty to the captives. Zechariah 3:8 -- "I will bring my servant the Branch," connecting the servant title to the messianic branch imagery. Philippians 2:5-11 -- Christ Jesus, who took the form of a servant, humbled himself, and was exalted -- the New Testament's most compressed retelling of the servant songs' trajectory.
+Matthew 12:18-21 reproduces the opening of the first servant song (42:1-4) in full, from the chosen servant on whom the Spirit rests to the Gentiles who will hope in his name.
 
 ## Reflection Questions
 
@@ -66,4 +72,4 @@ Isaiah 11:1-5 -- the shoot from the stump of Jesse, upon whom the Spirit rests, 
 
 ## Prayer
 
-Lord God, you introduced your servant with delight -- "my chosen, in whom my soul delights" -- and then sent him into a world that would strike his back, tear his beard, and spit in his face. He did not resist. He did not retaliate. He gave himself to the blows because he trusted that you, his vindicator, were near. We see in Jesus the fulfillment of every servant song -- the quiet healer who would not break a bruised reed, the light for nations that Israel alone could not illuminate, the willing sufferer who opened not his mouth. Teach us his gentleness. Grow in us his trust. And send us, as you sent him, to the broken and the barely flickering -- not with judgment but with the preserving love that restores what the world would discard. Through Christ our servant-king. Amen.
+Lord God, you introduced your servant with delight -- "my chosen, in whom my soul delights" -- and then sent him into a world that would strike his back, tear his beard, and spit in his face. He did not resist. He did not retaliate. He gave himself to the blows because he trusted that you, his vindicator, were near. We see in Jesus the fulfillment of every servant song -- the quiet healer who would not break a bruised reed, the light for nations that Israel alone could not illuminate, the willing sufferer who set his face like a flint. Teach us his gentleness. Grow in us his trust. And send us, as you sent him, to the broken and the barely flickering -- not with judgment but with the preserving love that restores what the world would discard. Through Christ our servant-king. Amen.

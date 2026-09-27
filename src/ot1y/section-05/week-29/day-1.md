@@ -2,8 +2,12 @@
 week: 29
 day: 1
 title: "Much Land Remains -- The Division Begins and Caleb's Mountain"
-reading: "Joshua 13:1-14:15"
-parallel_passages: Numbers 13:26-33, Numbers 14:24, Deuteronomy 1:34-36, Hebrews 11:8-16, Philippians 3:12-14
+reading:
+- Joshua 13:1-14:15
+parallel_passages:
+- Numbers 13:26-33
+- Numbers 14:24
+- Deuteronomy 1:34-36
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -17,13 +21,13 @@ study_slug: ot1y
 
 ## Reading
 
-- Joshua 13:1--14:15
+- Joshua 13:1-14:15
 
 ## Historical Context
 
 The opening of Joshua 13 presents one of the most theologically layered tensions in the entire conquest narrative. God speaks to an aging Joshua -- the Hebrew *zaqanta ba'ta bayyamim* ("you are old, advanced in days") -- and delivers a statement that is simultaneously an acknowledgment and a commission: "There remains yet very much land to possess" (*eretz nish'arah harbeh me'od lerishtah*). The phrase does not rebuke Joshua for failure. It establishes a pattern that will define Israel's life in the land: the promise is real, the victories are genuine, and the work is incomplete. God has given the land, but Israel must still inhabit it. The indicative precedes the imperative, as it does throughout Scripture.
 
-The land distribution that begins in Joshua 13 follows an ancient Near Eastern convention well attested in second-millennium texts. Land grants from a sovereign to a vassal -- documented in Hittite treaties, Egyptian administrative records, and Ugaritic texts -- described boundaries in precise geographic terms: rivers, mountains, city names, and compass headings. The form of Joshua 13--19 mirrors these documents intentionally. Israel's God is functioning as the divine sovereign distributing territory to his vassal tribes, and the boundary descriptions serve as the official deed of ownership. The specificity is not accidental -- it is legal, covenantal, and theological. Every boundary marker is a clause in the covenant of promise.
+The land distribution that begins in Joshua 13 follows an ancient Near Eastern convention well attested in second-millennium texts. Land grants from a sovereign to a vassal -- documented in Hittite treaties, Egyptian administrative records, and Ugaritic texts -- described boundaries in precise geographic terms: rivers, mountains, city names, and compass headings. The form of Joshua 13-19 mirrors these documents intentionally. Israel's God is functioning as the divine sovereign distributing territory to his vassal tribes, and the boundary descriptions serve as the official deed of ownership. The specificity is not accidental -- it is legal, covenantal, and theological. Every boundary marker is a clause in the covenant of promise.
 
 The tribes of Reuben, Gad, and the half-tribe of Manasseh receive their allocations in the Transjordan -- the territory east of the Jordan River that Moses had granted them on condition that they cross over and fight alongside their brothers (Numbers 32). The text carefully notes that Moses gave these allotments, not Joshua, preserving the continuity of leadership and underscoring that the promise did not begin with Joshua and will not end with him. The mention of Balaam's death in Joshua 13:22 -- "Balaam also, the son of Beor, the one who practiced divination, the people of Israel killed with the sword" -- is a pointed reminder that the enemies of God's people, even those who speak true prophecy under compulsion, do not escape judgment.
 
@@ -37,7 +41,7 @@ The tension that opens this passage -- much land has been given, much remains to
 
 Caleb's faith -- unchanged after forty-five years, asking for the hardest assignment at eighty-five -- is a portrait of the perseverance the New Testament holds up as the mark of genuine salvation. The author of Hebrews describes Abraham and the patriarchs as those who "died in faith, not having received the things promised, but having seen them and greeted them from afar" (Hebrews 11:13). Caleb is cut from the same cloth. He saw the promised land from Kadesh-barnea, believed the promise when ten others did not, endured four decades of consequence for a sin that was not his own, and emerged asking for the mountain. His faith was not passive waiting. It was active, hungry, and specific: "Give me this hill country." Christ himself is the fulfillment of what Caleb's faith anticipated -- the one who not only promises an inheritance but secures it permanently, who not only gives the land but holds the deed in heaven where moths and rust cannot corrupt.
 
-The land of Hebron that Caleb claims is the land where Abraham first received the promise of descendants and territory (Genesis 13:14--18). It is the land where the cave of Machpelah held the bones of Abraham, Isaac, Jacob, Sarah, Rebekah, and Leah -- the patriarchal burial ground that was Israel's first legal property in Canaan. When Caleb takes Hebron, the circle closes: the land of promise returns to the people of promise. But the deeper closure comes in Christ. Abraham looked for "the city that has foundations, whose designer and builder is God" (Hebrews 11:10). Hebron was never the final destination. It was a signpost pointing to the eternal city, the heavenly Jerusalem, whose builder is the Son through whom all things were made. Caleb's mountain was real dirt and real battle, but it was also a shadow of the inheritance that Christ would purchase with his own blood -- imperishable, undefiled, and unfading.
+The land of Hebron that Caleb claims is the land where Abraham first received the promise of descendants and territory (Genesis 13:14-18). It is the land where the cave of Machpelah held the bones of Abraham, Isaac, Jacob, Sarah, Rebekah, and Leah -- the patriarchal burial ground that was Israel's first legal property in Canaan. When Caleb takes Hebron, the circle closes: the land of promise returns to the people of promise. But the deeper closure comes in Christ. Abraham looked for "the city that has foundations, whose designer and builder is God" (Hebrews 11:10). Hebron was never the final destination. It was a signpost pointing to the eternal city, the heavenly Jerusalem, whose builder is the Son through whom all things were made. Caleb's mountain was real dirt and real battle, but it was also a shadow of the inheritance that Christ would purchase with his own blood -- imperishable, undefiled, and unfading.
 
 ## Key Themes
 
@@ -49,15 +53,15 @@ The land of Hebron that Caleb claims is the land where Abraham first received th
 
 **Old Testament Roots**
 
-The promise being fulfilled here traces directly to Genesis 13:14--17, where God told Abraham, "Lift up your eyes and look from the place where you are, northward and southward and eastward and westward, for all the land that you see I will give to you and to your offspring forever." Caleb's specific claim to Hebron echoes Abraham's settlement at the oaks of Mamre in Hebron (Genesis 13:18) and his purchase of the cave of Machpelah (Genesis 23). The spy narrative of Numbers 13--14 provides the backstory: Caleb and Joshua alone believed the promise, and only they survived to enter the land.
+The promise being fulfilled here traces directly to Genesis 13:14-17, where God told Abraham, "Lift up your eyes and look from the place where you are, northward and southward and eastward and westward, for all the land that you see I will give to you and to your offspring forever." Caleb's specific claim to Hebron echoes Abraham's settlement at the oaks of Mamre in Hebron (Genesis 13:18) and his purchase of the cave of Machpelah (Genesis 23). The spy narrative of Numbers 13-14 provides the backstory: Caleb and Joshua alone believed the promise, and only they survived to enter the land. Psalm 37:9, 11 promises that "those who wait for the LORD shall inherit the land" and "the meek shall inherit the land" -- language Jesus echoes in the Beatitudes (Matthew 5:5).
 
 **New Testament Echoes**
 
-Philippians 3:12--14 captures the "much land remains" dynamic: Paul presses forward, not having attained, but straining toward the goal. Hebrews 11:8--16 celebrates the patriarchs who received promises about land they never fully possessed and who looked for a heavenly city. First Peter 1:3--5 describes the believer's inheritance as "kept in heaven" -- the eternal version of the land Joshua is distributing.
+Philippians 3:12-14 captures the "much land remains" dynamic: Paul presses forward, not having attained, but straining toward the goal. Hebrews 11:8-16 celebrates the patriarchs who received promises about land they never fully possessed and who looked for a heavenly city. First Peter 1:3-5 describes the believer's inheritance as "kept in heaven" -- the eternal version of the land Joshua is distributing.
 
 **Parallel Passages**
 
-Deuteronomy 1:34--36 records God's oath that Caleb alone would see the land because he "wholly followed the LORD." Numbers 14:24 repeats the promise: "But my servant Caleb, because he has a different spirit and has followed me fully, I will bring into the land." Psalm 37:9, 11 promises that "those who wait for the LORD shall inherit the land" and "the meek shall inherit the land" -- language Jesus echoes in the Beatitudes (Matthew 5:5).
+Numbers 13:26-33 is the original account of the report Caleb recalls in 14:7-8, when his fellow spies "made the heart of the people melt" and he alone urged Israel to go up and occupy the land. Deuteronomy 1:34-36 records God's oath that Caleb alone would see the land because he "wholly followed the LORD." Numbers 14:24 repeats the promise: "But my servant Caleb, because he has a different spirit and has followed me fully, I will bring into the land."
 
 ## Reflection Questions
 

@@ -2,8 +2,10 @@
 week: 37
 day: 1
 title: "Bathsheba, Uriah, Nathan's Parable -- 'You Are the Man'"
-reading: "2 Samuel 11:1-12:31"
-parallel_passages: Psalm 51, Genesis 3:6, Romans 5:12-21, Hebrews 4:13
+reading:
+- 2 Samuel 11:1-12:31
+parallel_passages:
+- Psalm 51
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,7 +50,7 @@ David's prayer in Psalm 51, born from this confrontation, reaches for something 
 
 **Old Testament Roots**
 
-The verb *laqach* ("he took") in 2 Samuel 11:4 echoes Genesis 3:6, where the woman "took of its fruit and ate." The pattern of seeing, desiring, and taking what is forbidden is the template of the original fall, repeated now in the life of the man after God's own heart. Nathan's juridical parable draws on a tradition of prophetic storytelling that includes Jotham's fable of the trees (Judges 9:7-15) and anticipates Isaiah's song of the vineyard (Isaiah 5:1-7) -- stories designed to elicit judgment from the very people who stand under it.
+The verb *laqach* ("he took") in 2 Samuel 11:4 echoes Genesis 3:6, where the woman "took of its fruit and ate." The pattern of seeing, desiring, and taking what is forbidden is the template of the original fall, repeated now in the life of the man after God's own heart. Nathan's juridical parable draws on a tradition of prophetic storytelling that includes Jotham's fable of the trees (Judges 9:7-15) and anticipates Isaiah's song of the vineyard (Isaiah 5:1-7) -- stories designed to elicit judgment from the very people who stand under it. Psalm 32 records David's reflection on the burden of unconfessed sin and the relief of forgiveness: "Blessed is the one whose transgression is forgiven, whose sin is covered" (Psalm 32:1).
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ James 1:14-15 describes the sequence of sin in terms that mirror David's fall ex
 
 **Parallel Passages**
 
-Psalm 51 is David's prayer of repentance after Nathan's confrontation -- the fullest expression of the confession compressed into 2 Samuel 12:13. Psalm 32 records David's reflection on the burden of unconfessed sin and the relief of forgiveness: "Blessed is the one whose transgression is forgiven, whose sin is covered" (32:1). Genesis 3:6-13 provides the original pattern of sin, excuse, and divine confrontation that David's story replays in a royal key.
+Psalm 51 is David's prayer of repentance after Nathan's confrontation -- the fullest expression of the confession compressed into 2 Samuel 12:13.
 
 ## Reflection Questions
 

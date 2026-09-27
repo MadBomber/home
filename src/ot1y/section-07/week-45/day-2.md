@@ -2,8 +2,12 @@
 week: 45
 day: 2
 title: "Opposition, Delay, and the Temple Completed"
-reading: "Ezra 4:1-6:22"
-parallel_passages: Haggai 1:2-11, Haggai 2:3-9, Zechariah 4:6-10, Matthew 16:18, Revelation 21:22
+reading:
+- Ezra 4:1-6:22
+parallel_passages:
+- Haggai 1:2-11
+- Haggai 2:3-9
+- Zechariah 4:6-10
 section: New Covenant
 tags:
 - covenant-7
@@ -41,7 +45,7 @@ The Passover celebration at the temple's dedication (Ezra 6:19-22) completes the
 
 ## Key Themes
 
-- **Opposition as confirmation** -- The work of God is never unopposed. Sanballat's mockery, Tobiah's sabotage, bureaucratic obstruction, and false accusations are not signs that the work is failing but that it matters. Nehemiah's posture -- prayer and vigilance -- and Zerubbabel's persistence through fifteen years of delay both testify that opposition is the expected environment for kingdom building.
+- **Opposition as confirmation** -- The work of God is never unopposed. The false offer of partnership, the campaign to discourage the builders and make them afraid (4:4), the counselors bribed to frustrate their purpose (4:5), and the letters of accusation sent to the Persian court are not signs that the work is failing but that it matters. Zerubbabel's persistence through fifteen years of delay testifies that opposition is the expected environment for kingdom building.
 
 - **The eye of God upon the builders** -- When the work resumes, the text says "the eye of their God was upon the elders of the Jews, and they did not stop them" (Ezra 5:5). The Hebrew *'eyn* ("eye") conveys watchful care, protective oversight. The opposition did not disappear; it was overruled by a God who was watching. Divine sovereignty does not eliminate the threat. It ensures the outcome.
 
@@ -51,7 +55,7 @@ The Passover celebration at the temple's dedication (Ezra 6:19-22) completes the
 
 **Old Testament Roots**
 
-The opposition to the temple rebuilding echoes the resistance Israel faced when entering the land under Joshua -- the same pattern of external threat and internal failure. The enemies' offer to "build with you" mirrors the Gibeonite deception in Joshua 9, where an apparent ally threatened to compromise the covenant community from within. The fifteen-year delay recalls the wilderness wandering: a generation waiting because the work was paused, not abandoned.
+The opposition to the temple rebuilding echoes the resistance Israel faced when entering the land under Joshua -- the same pattern of external threat and internal failure. The enemies' offer to "build with you" mirrors the Gibeonite deception in Joshua 9, where an apparent ally threatened to compromise the covenant community from within. The fifteen-year delay recalls the wilderness wandering: a generation waiting because the work was paused, not abandoned. Psalm 127:1 provides the theological foundation: "Unless the LORD builds the house, those who build it labor in vain."
 
 **New Testament Echoes**
 
@@ -59,7 +63,7 @@ Jesus promises that the gates of hell will not prevail against his church (Matth
 
 **Parallel Passages**
 
-Haggai 1:2-11 diagnoses the people's misplaced priorities -- finishing their own houses while God's house lies in ruins. Haggai 2:3-9 addresses the grief of the elders and promises a greater glory. Zechariah 4:6-10 declares that the temple will be completed by the Spirit's power and that those who despised "the day of small things" will rejoice. Psalm 127:1 provides the theological foundation: "Unless the LORD builds the house, those who build it labor in vain."
+The prophets named in 5:1 left their own record of the same moment. Haggai 1:2-11 diagnoses the people's misplaced priorities -- finishing their own houses while God's house lies in ruins. Haggai 2:3-9 addresses the grief of the elders and promises a greater glory. Zechariah 4:6-10 declares that the temple will be completed by the Spirit's power and that those who despised "the day of small things" will rejoice.
 
 ## Reflection Questions
 

@@ -2,8 +2,8 @@
 week: 39
 day: 4
 title: "Elijah -- Drought, the Widow's Oil, Carmel's Fire, and the Still Small Voice"
-reading: "1 Kings 17:1-19:21"
-parallel_passages: James 5:17-18, Luke 4:25-26, Luke 1:17, Malachi 4:5-6, Matthew 4:1-11, Matthew 12:18-21, Matthew 17:1-8, Romans 11:2-5
+reading:
+- 1 Kings 17:1-19:21
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -53,15 +53,11 @@ Elijah's collapse under the broom tree is also a Christological moment, though o
 
 **Old Testament Roots**
 
-Elijah's forty-day journey to Horeb parallels Moses' forty days on the same mountain (Exodus 24:18, 34:28) and Israel's forty years in the wilderness. The twelve stones of the rebuilt altar echo Joshua's twelve stones from the Jordan crossing (Joshua 4:1-9). The drought recalls Deuteronomy 11:16-17, where God warns that if Israel turns to other gods, "he will shut up the heavens, so that there will be no rain." The *qol demamah daqqah* at Horeb contrasts with the thunder, lightning, and thick cloud of God's appearance at Sinai in Exodus 19:16-19. The widow of Zarephath anticipates Ruth, another Gentile woman who finds provision within God's covenant people.
+Elijah's forty-day journey to Horeb parallels Moses' forty days on the same mountain (Exodus 24:18, 34:28) and Israel's forty years in the wilderness. The twelve stones of the rebuilt altar echo Joshua's twelve stones from the Jordan crossing (Joshua 4:1-9). The drought recalls Deuteronomy 11:16-17, where God warns that if Israel turns to other gods, "he will shut up the heavens, so that there will be no rain." The *qol demamah daqqah* at Horeb contrasts with the thunder, lightning, and thick cloud of God's appearance at Sinai in Exodus 19:16-19. The widow of Zarephath anticipates Ruth, another Gentile woman who finds provision within God's covenant people. Elijah's ministry concludes in 2 Kings 1-2 with fire from heaven and his departure in a chariot of fire. The raising of the widow's son looks ahead to Elisha's raising of the Shunammite's son (2 Kings 4:32-37). The theophany at Horeb also recalls Exodus 33:18-23, where Moses asks to see God's glory and is hidden in the cleft of a rock.
 
 **New Testament Echoes**
 
-James 5:17-18 cites Elijah's prayer for drought and rain as a model for the prayer of faith. Luke 4:25-26 uses the widow of Zarephath to demonstrate God's grace extending beyond Israel. Matthew 17:1-8 places Elijah alongside Moses at the transfiguration. Romans 11:2-5 uses God's answer to Elijah ("seven thousand who have not bowed the knee to Baal") to argue for a present-day remnant chosen by grace. Luke 1:17 identifies John the Baptist as coming "in the spirit and power of Elijah."
-
-**Parallel Passages**
-
-Compare 1 Kings 17-19 with 2 Kings 1-2, where Elijah's ministry concludes with fire from heaven and his departure in a chariot of fire. Compare the raising of the widow's son with Elisha's raising of the Shunammite's son (2 Kings 4:32-37) and with Jesus' raising of the widow of Nain's son (Luke 7:11-17) -- a deliberate echo. Compare the theophany at Horeb with Exodus 33:18-23, where Moses asks to see God's glory and is hidden in the cleft of a rock.
+James 5:17-18 cites Elijah's prayer for drought and rain as a model for the prayer of faith. Luke 4:25-26 uses the widow of Zarephath to demonstrate God's grace extending beyond Israel. Matthew 17:1-8 places Elijah alongside Moses at the transfiguration. Romans 11:2-5 uses God's answer to Elijah ("seven thousand who have not bowed the knee to Baal") to argue for a present-day remnant chosen by grace. Luke 1:17 identifies John the Baptist as coming "in the spirit and power of Elijah." Luke 7:11-17 -- Jesus' raising of the widow of Nain's son deliberately echoes Elijah's raising of the widow's son at Zarephath.
 
 ## Reflection Questions
 

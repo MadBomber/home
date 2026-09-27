@@ -2,8 +2,8 @@
 week: 42
 day: 4
 title: "Fear God and Keep His Commandments"
-reading: "Ecclesiastes 7:1-12:14"
-parallel_passages: 1 Corinthians 15:50-58, 2 Corinthians 5:10, Revelation 20:11-15, Romans 8:28
+reading:
+- Ecclesiastes 7:1-12:14
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -51,15 +51,11 @@ The Teacher's observation that God "has put eternity into man's heart, yet so th
 
 **Old Testament Roots**
 
-Deuteronomy 10:12-13 anticipates the Teacher's conclusion: "What does the LORD your God require of you, but to fear the LORD your God, to walk in all his ways, to love him, to serve the LORD your God with all your heart and with all your soul, and to keep the commandments and statutes of the LORD?" The Teacher arrives at the same destination by a different road -- not through the Sinai revelation but through the exhaustive demolition of every alternative. Genesis 3:19 -- "For you are dust, and to dust you shall return" -- is the foundation of the Teacher's meditation on death in chapter 12. Psalm 90:12 echoes the Teacher's counsel: "Teach us to number our days that we may get a heart of wisdom."
+Deuteronomy 10:12-13 anticipates the Teacher's conclusion: "What does the LORD your God require of you, but to fear the LORD your God, to walk in all his ways, to love him, to serve the LORD your God with all your heart and with all your soul, and to keep the commandments and statutes of the LORD?" The Teacher arrives at the same destination by a different road -- not through the Sinai revelation but through the exhaustive demolition of every alternative. Genesis 3:19 -- "For you are dust, and to dust you shall return" -- is the foundation of the Teacher's meditation on death in chapter 12. Psalm 90:12 echoes the Teacher's counsel: "Teach us to number our days that we may get a heart of wisdom." Job 28:28 ("The fear of the Lord, that is wisdom") and Psalm 111:10 ("The fear of the LORD is the beginning of wisdom") reach the same conclusion as the Teacher. Psalm 73:16-17 resolves the psalmist's perplexity at injustice only when "I went into the sanctuary of God; then I discerned their end." Micah 6:8 sums up the same duty: "What does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?"
 
 **New Testament Echoes**
 
 1 Corinthians 15:50-58 answers the Teacher's despair over death by proclaiming the resurrection: "Death is swallowed up in victory." 2 Corinthians 5:10 fulfills the promise of judgment before the seat of Christ. Romans 8:28 -- "All things work together for good for those who love God" -- answers the Teacher's complaint that the ways of God are inscrutable. Revelation 20:11-15 portrays the final judgment the Teacher could only anticipate, where "the dead were judged by what was written in the books."
-
-**Parallel Passages**
-
-Job 28:28 -- "The fear of the Lord, that is wisdom." Psalm 111:10 -- "The fear of the LORD is the beginning of wisdom." Psalm 73:16-17 -- the psalmist's perplexity at injustice resolved only when "I went into the sanctuary of God; then I discerned their end." Micah 6:8 -- "What does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?"
 
 ## Reflection Questions
 

@@ -2,8 +2,10 @@
 week: 34
 day: 5
 title: "The Medium at Endor, the Death of Saul, and the End of an Era"
-reading: "1 Samuel 28:1-31:13"
-parallel_passages: Deuteronomy 18:10-12, 1 Chronicles 10:13-14, Matthew 27:3-5, John 10:11-18, 2 Timothy 1:10, Romans 6:23
+reading:
+- 1 Samuel 28:1-31:13
+parallel_passages:
+- 1 Chronicles 10:13-14
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -18,7 +20,7 @@ study_slug: ot1y
 
 ## Reading
 
-- 1 Samuel 28:1--31:13
+- 1 Samuel 28:1-31:13
 
 ## Historical Context
 
@@ -54,15 +56,15 @@ The loyalty of the men of Jabesh-gilead -- marching through the night to recover
 
 **Old Testament Roots**
 
-The prohibition against necromancy is rooted in Deuteronomy 18:10-12 and Leviticus 19:31; 20:6, 27. Saul's death on Gilboa is interpreted in 1 Chronicles 10:13-14 with theological precision: "Saul died for his breach of faith. He broke faith with the LORD in that he did not keep the command of the LORD, and also consulted a medium, seeking guidance. He did not seek guidance from the LORD. Therefore the LORD put him to death and turned the kingdom over to David the son of Jesse." The recovery of bodies from Beth-shan echoes the ancient Near Eastern custom of displaying defeated enemies' remains as trophies -- a practice the men of Jabesh-gilead defy at personal risk.
+The prohibition against necromancy is rooted in Deuteronomy 18:10-12 and Leviticus 19:31; 20:6, 27. Saul's death on Gilboa is interpreted in 1 Chronicles 10:13-14 with theological precision: "Saul died for his breach of faith. He broke faith with the LORD in that he did not keep the command of the LORD, and also consulted a medium, seeking guidance. He did not seek guidance from the LORD. Therefore the LORD put him to death and turned the kingdom over to David the son of Jesse." The recovery of bodies from Beth-shan echoes the ancient Near Eastern custom of displaying defeated enemies' remains as trophies -- a practice the men of Jabesh-gilead defy at personal risk. Saul's death also anticipates the death of Ahithophel, David's counselor who hangs himself after his counsel is rejected (2 Samuel 17:23) -- both suicides follow the failure of a plan. Psalm 31:5 -- "Into your hand I commit my spirit" -- is the prayer Saul could not pray and Christ did (Luke 23:46).
 
 **New Testament Echoes**
 
-Judas' death -- "he went and hanged himself" (Matthew 27:5) -- parallels Saul's suicide as the end of a trajectory of betrayal. Both men began with divine calling and ended in self-destruction. Christ's authority over death (John 11:25-26; Revelation 1:18) stands in direct contrast to Saul's desperate resort to necromancy. Joseph of Arimathea's burial of Jesus (Matthew 27:57-60) parallels the men of Jabesh-gilead: loyal devotion to a fallen king that the world has discarded, performed at personal risk.
+Judas' death -- "he went and hanged himself" (Matthew 27:5) -- parallels Saul's suicide as the end of a trajectory of betrayal. Both men began with divine calling and ended in self-destruction. Christ's authority over death (John 11:25-26; Revelation 1:18) stands in direct contrast to Saul's desperate resort to necromancy. Joseph of Arimathea's burial of Jesus (Matthew 27:57-60) parallels the men of Jabesh-gilead: loyal devotion to a fallen king that the world has discarded, performed at personal risk. The medium's meal for Saul (bread and a fattened calf, 28:24) contrasts with the prodigal son's feast (Luke 15:23) -- both involve a fattened calf, but one is a meal of despair and the other a meal of restoration.
 
 **Parallel Passages**
 
-Compare Saul's death with the death of Ahithophel, David's counselor who also hangs himself after his counsel is rejected (2 Samuel 17:23) -- both suicides follow the failure of a plan. Compare the medium's meal for Saul (bread and a fattened calf, 28:24) with the prodigal son's feast (Luke 15:23) -- both involve a fattened calf, but one is a meal of despair and the other a meal of restoration. Psalm 31:5 -- "Into your hand I commit my spirit" -- is the prayer Saul could not pray and Christ did (Luke 23:46).
+1 Chronicles 10:13-14 closes the Chronicler's own account of Saul's death on Gilboa with its verdict on why he died, naming the consultation of a medium (28:7-8) as part of his breach of faith.
 
 ## Reflection Questions
 

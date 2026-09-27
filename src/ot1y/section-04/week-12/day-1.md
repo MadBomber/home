@@ -2,8 +2,8 @@
 week: 12
 day: 1
 title: "Isaac Born, Ishmael Sent Away"
-reading: "Genesis 21:1-21"
-parallel_passages: Galatians 4:21-31, Romans 9:6-9, Hebrews 11:11-12
+reading:
+- Genesis 21:1-21
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -48,15 +48,11 @@ The expulsion of Ishmael, painful as it is, also foreshadows a pattern that runs
 
 **Old Testament Roots**
 
-The pattern of the younger or unexpected son receiving the promise begins here and recurs throughout Genesis: Isaac over Ishmael, Jacob over Esau, Joseph over his brothers, Ephraim over Manasseh. The barren-woman motif -- Sarah, Rebekah, Rachel, Hannah, the Shunammite -- becomes a recurring sign that God's purposes depend on divine power, not human fertility. The well in the wilderness (21:19) anticipates the wells that will mark covenant encounters: Hagar's earlier well at Beer-lahai-roi (16:14), the wells of strife in Genesis 26, and the well where Moses will meet his bride (Exodus 2:15-17).
+The pattern of the younger or unexpected son receiving the promise begins here and recurs throughout Genesis: Isaac over Ishmael, Jacob over Esau, Joseph over his brothers, Ephraim over Manasseh. The barren-woman motif -- Sarah, Rebekah, Rachel, Hannah, the Shunammite -- becomes a recurring sign that God's purposes depend on divine power, not human fertility. The well in the wilderness (21:19) anticipates the wells that will mark covenant encounters: Hagar's earlier well at Beer-lahai-roi (16:14), the wells of strife in Genesis 26, and the well where Moses will meet his bride (Exodus 2:15-17). The birth of Samuel to barren Hannah (1 Samuel 1-2) closely parallels Isaac's birth -- divine visitation, long waiting, a child dedicated to God's purposes.
 
 **New Testament Echoes**
 
-Galatians 4:21-31 is the primary interpretive key: Paul reads Isaac and Ishmael as representing two covenants, two modes of relating to God -- promise versus law, freedom versus slavery, Spirit versus flesh. Romans 9:6-9 uses Isaac's birth to establish the doctrine of election: "the children of the promise are counted as offspring." Hebrews 11:11-12 celebrates Sarah's faith: "By faith Sarah herself received power to conceive, even when she was past the age, since she considered him faithful who had promised."
-
-**Parallel Passages**
-
-The birth of Samuel to barren Hannah (1 Samuel 1-2) closely parallels Isaac's birth -- divine visitation, long waiting, a child dedicated to God's purposes. The Magnificat of Mary (Luke 1:46-55) echoes Hannah's song and Sarah's laughter: God has done the impossible through a woman who had no natural claim to motherhood. The annunciation to Mary -- "nothing will be impossible with God" (Luke 1:37) -- directly recalls the angel's question to Abraham: "Is anything too hard for the LORD?" (Genesis 18:14).
+Galatians 4:21-31 is the primary interpretive key: Paul reads Isaac and Ishmael as representing two covenants, two modes of relating to God -- promise versus law, freedom versus slavery, Spirit versus flesh. Romans 9:6-9 uses Isaac's birth to establish the doctrine of election: "the children of the promise are counted as offspring." Hebrews 11:11-12 celebrates Sarah's faith: "By faith Sarah herself received power to conceive, even when she was past the age, since she considered him faithful who had promised." The Magnificat of Mary (Luke 1:46-55) echoes Hannah's song and Sarah's laughter: God has done the impossible through a woman who had no natural claim to motherhood. The annunciation to Mary -- "nothing will be impossible with God" (Luke 1:37) -- directly recalls the angel's question to Abraham: "Is anything too hard for the LORD?" (Genesis 18:14).
 
 ## Reflection Questions
 

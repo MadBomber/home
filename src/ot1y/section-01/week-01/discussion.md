@@ -37,13 +37,13 @@ The Bible does not open with a proof of God's existence. It does not argue or de
 
 2. **Order from Chaos.** The earth begins "without form and void" (*tohu wabohu*), shrouded in darkness and water. God's creative work moves from disorder to order, emptiness to fullness, darkness to light. Where have you seen this pattern -- chaos yielding to divine order -- in your own life or in the larger story of Scripture?
 
-### Days 4-5: Filling the Stages (Genesis 1:14-25)
+### Days 4-5: Filling the Stages (Genesis 1:14-23)
 
 3. **Forming and Filling.** Days 1-3 create stages (light, sky, land); Days 4-6 populate them (luminaries, sea creatures, land animals). The architecture is deliberate: God prepares a place and then fills it with life. Where else in Scripture -- or in your own experience -- have you seen God work by first preparing a space and then filling it?
 
 4. **Abundance and Blessing.** God blesses the sea creatures and birds with the first blessing in Scripture: "Be fruitful and multiply and fill the waters" (1:22). The Creator does not make a sparse, minimal world. He makes an extravagant one. What does God's generosity in creation reveal about his character?
 
-### Day 6: The Crown of Creation (Genesis 1:26-31)
+### Day 6: The Crown of Creation (Genesis 1:24-31)
 
 5. **The Startling Plural.** "Let *us* make man in *our* image" (1:26). The shift from "God said, 'Let there be...'" to "Let us make" is unique in the chapter. The early church heard in it the first whisper of the Trinity. Whether or not you find that reading persuasive, what does this shift in language signal about the significance of what is about to happen?
 

@@ -2,8 +2,8 @@
 week: 24
 day: 1
 title: "The Day of Atonement -- One Priest, One Sacrifice, Two Goats, and the Mercy Seat"
-reading: "Leviticus 16:1-34"
-parallel_passages: Hebrews 9:1-28, Hebrews 10:1-22, Philippians 2:5-11, Romans 3:23-26, 1 John 2:2, Isaiah 53:6-12
+reading:
+- Leviticus 16:1-34
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -52,15 +52,11 @@ And the crucial contrast: the high priest entered the Most Holy Place once a yea
 
 **Old Testament Roots**
 
-The mercy seat (*kapporet*) was constructed in Exodus 25:17-22, where God promised, "There I will meet with you, and from above the mercy seat... I will speak with you about all that I will give you in commandment." The concept of substitutionary blood goes back to Genesis 22, where a ram was provided in place of Isaac, and to the Passover lamb of Exodus 12, whose blood on the doorposts turned aside the destroyer. The scapegoat sent into the wilderness carrying Israel's sin anticipates the Suffering Servant of Isaiah 53:6 -- "the LORD has laid on him the iniquity of us all."
+The mercy seat (*kapporet*) was constructed in Exodus 25:17-22, where God promised, "There I will meet with you, and from above the mercy seat... I will speak with you about all that I will give you in commandment." The concept of substitutionary blood goes back to Genesis 22, where a ram was provided in place of Isaac, and to the Passover lamb of Exodus 12, whose blood on the doorposts turned aside the destroyer. The scapegoat sent into the wilderness carrying Israel's sin anticipates the Suffering Servant of Isaiah 53:6 -- "the LORD has laid on him the iniquity of us all." Psalm 103:10-12 speaks of God removing transgressions as far as the east is from the west.
 
 **New Testament Echoes**
 
-Hebrews 9-10 provides the most sustained theological exposition of Leviticus 16 in the New Testament. Romans 3:25 declares that God put forward Christ "as a propitiation (*hilasterion* -- the same Greek word used for the mercy seat in the Septuagint) by his blood." First John 2:2 affirms that Christ "is the propitiation for our sins, and not for ours only but also for the sins of the whole world." Matthew 27:51 records the tearing of the veil at the moment of Christ's death -- the end of restricted access to God's presence.
-
-**Parallel Passages**
-
-Compare Leviticus 16 with Isaiah 53 (the Suffering Servant who bears the iniquity of the people), with Psalm 103:10-12 (God removing transgressions as far as the east is from the west), and with Hebrews 13:11-12 ("So Jesus also suffered outside the gate" -- the scapegoat sent outside the camp, Christ crucified outside Jerusalem).
+Hebrews 9-10 provides the most sustained theological exposition of Leviticus 16 in the New Testament. Romans 3:25 declares that God put forward Christ "as a propitiation (*hilasterion* -- the same Greek word used for the mercy seat in the Septuagint) by his blood." First John 2:2 affirms that Christ "is the propitiation for our sins, and not for ours only but also for the sins of the whole world." Matthew 27:51 records the tearing of the veil at the moment of Christ's death -- the end of restricted access to God's presence. Hebrews 13:11-12 -- "So Jesus also suffered outside the gate" -- links the scapegoat sent outside the camp with Christ crucified outside Jerusalem.
 
 ## Reflection Questions
 

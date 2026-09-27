@@ -2,8 +2,8 @@
 week: 50
 day: 1
 title: "The Earth Shattered -- Cosmic Judgment and the LORD Reigning on Mount Zion"
-reading: "Isaiah 24:1-23"
-parallel_passages: Romans 8:19-22, Revelation 6:12-17, 2 Peter 3:10-13, Matthew 24:29-31
+reading:
+- Isaiah 24:1-23
 section: Consummation
 tags:
 - covenant-8
@@ -48,15 +48,11 @@ The book of Revelation echoes Isaiah 24 with unmistakable precision. The sixth s
 
 **Old Testament Roots**
 
-Isaiah 24 draws on Genesis 6-9 with deliberate echoes: the corruption of the earth, the judgment that follows, the covenant that is broken. The phrase "broken the everlasting covenant" (*berith olam*) connects most naturally to the Noahic covenant -- the only covenant explicitly called "everlasting" that encompasses all humanity and all creation (Genesis 9:16). The "windows of heaven" opening in Isaiah 24:18 reprises the language of the flood narrative (Genesis 7:11). Isaiah is painting a judgment that matches or surpasses the flood in scope -- but this time, the agent of destruction is not water but the moral weight of accumulated human transgression. The earth itself collapses under what it can no longer bear.
+Isaiah 24 draws on Genesis 6-9 with deliberate echoes: the corruption of the earth, the judgment that follows, the covenant that is broken. The phrase "broken the everlasting covenant" (*berith olam*) connects most naturally to the Noahic covenant -- the only covenant explicitly called "everlasting" that encompasses all humanity and all creation (Genesis 9:16). The "windows of heaven" opening in Isaiah 24:18 reprises the language of the flood narrative (Genesis 7:11). Isaiah is painting a judgment that matches or surpasses the flood in scope -- but this time, the agent of destruction is not water but the moral weight of accumulated human transgression. The earth itself collapses under what it can no longer bear. Jeremiah 4:23-26 gives the prophet's vision of the earth returned to *tohu vabohu*, formless and void. Psalm 46 presents God as refuge when the earth gives way and the mountains fall into the heart of the sea.
 
 **New Testament Echoes**
 
-Peter connects the flood and the final judgment explicitly: "The heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly" (2 Peter 3:7). The pattern is flood-then-fire, water-then-flames, and both are responses to the same reality Isaiah names: the earth defiled under its inhabitants. Hebrews 12:26-27 quotes the shaking of heaven and earth as a promise that all created things will be shaken so that "what cannot be shaken may remain." The throne on Mount Zion -- the kingdom of Christ -- is what remains when everything else has been removed.
-
-**Parallel Passages**
-
-Genesis 6:11-13 -- the earth corrupt and filled with violence before the flood. Jeremiah 4:23-26 -- the prophet's vision of the earth returned to *tohu vabohu*, formless and void. Revelation 6:12-17 -- the sixth seal and the cosmic convulsions that attend the Lamb's wrath. Romans 8:19-22 -- creation groaning and waiting for liberation. Psalm 46 -- God as refuge when the earth gives way and the mountains fall into the heart of the sea.
+Peter connects the flood and the final judgment explicitly: "The heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly" (2 Peter 3:7). The pattern is flood-then-fire, water-then-flames, and both are responses to the same reality Isaiah names: the earth defiled under its inhabitants. Hebrews 12:26-27 quotes the shaking of heaven and earth as a promise that all created things will be shaken so that "what cannot be shaken may remain." The throne on Mount Zion -- the kingdom of Christ -- is what remains when everything else has been removed. Revelation 6:12-17 describes the sixth seal and the cosmic convulsions that attend the Lamb's wrath. Romans 8:19-22 shows creation groaning and waiting for liberation.
 
 ## Reflection Questions
 

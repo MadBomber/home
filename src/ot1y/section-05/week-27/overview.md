@@ -7,8 +7,8 @@ chapters:
 - Deuteronomy 1:1-4:43
 - Deuteronomy 4:44-6:25
 - Deuteronomy 7:1-11:32
-- Deuteronomy 12:1-18:22
-- Deuteronomy 28:1-34:12
+- Deuteronomy 12:1-26:19
+- Deuteronomy 27:1-34:12
 tags:
 - covenant-5
 memory_verse: "Deuteronomy 6:4-5"
@@ -40,8 +40,8 @@ The book ends with Moses ascending Mount Nebo. God shows him the land — "all o
 | [1](../day-1/) | Deuteronomy 1:1-4:43 | Moses Retells the Story |
 | [2](../day-2/) | Deuteronomy 4:44-6:25 | The Shema and the Great Commandment |
 | [3](../day-3/) | Deuteronomy 7:1-11:32 | Choose God -- Warnings Against Idolatry, Reminders of Grace |
-| [4](../day-4/) | Deuteronomy 12:1-18:22 | Worship, Justice, and the Prophet Like Moses |
-| [5](../day-5/) | Deuteronomy 28:1-34:12 | Blessings, Curses, the Choice of Life and Death, and the Death of Moses |
+| [4](../day-4/) | Deuteronomy 12:1-26:19 | Worship, Justice, and the Prophet Like Moses |
+| [5](../day-5/) | Deuteronomy 27:1-34:12 | Blessings, Curses, the Choice of Life and Death, and the Death of Moses |
 
 ## Key Themes
 

@@ -2,8 +2,8 @@
 week: 25
 day: 3
 title: "Purity, the Nazirite Vow, and the Aaronic Blessing"
-reading: "Numbers 5:1-6:27"
-parallel_passages: 2 Corinthians 4:6, Luke 1:67-79, John 14:27
+reading:
+- Numbers 5:1-6:27
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -51,15 +51,11 @@ The Nazirite vow -- voluntary consecration marked by abstention from wine, uncut
 
 **Old Testament Roots**
 
-The Aaronic blessing's threefold invocation of YHWH echoes the threefold "Holy, holy, holy" of Isaiah 6:3 and anticipates the Trinitarian structure that later theology will discern in the Hebrew Scriptures. The Nazirite vow connects to the consecration of Samson (Judges 13:4-5), Samuel (1 Samuel 1:11), and the broader prophetic tradition of lives set apart for God's purposes. The purity laws of Numbers 5 extend the holiness code of Leviticus 11-15, applying its principles to the camp as a whole rather than to individual cases.
+The Aaronic blessing's threefold invocation of YHWH echoes the threefold "Holy, holy, holy" of Isaiah 6:3 and anticipates the Trinitarian structure that later theology will discern in the Hebrew Scriptures. The Nazirite vow connects to the consecration of Samson (Judges 13:4-5), Samuel (1 Samuel 1:11), and the broader prophetic tradition of lives set apart for God's purposes. The purity laws of Numbers 5 extend the holiness code of Leviticus 11-15, applying its principles to the camp as a whole rather than to individual cases. Psalm 67:1 -- "May God be gracious to us and bless us and make his face to shine upon us" -- is a congregational prayer built directly on the Aaronic blessing. Psalm 4:6 -- "Lift up the light of your face upon us, O LORD!" -- pleads for the same shining countenance.
 
 **New Testament Echoes**
 
-2 Corinthians 4:6 applies the shining face of the blessing directly to Christ. Hebrews 1:3 identifies the Son as "the radiance of the glory of God." John 14:27 and 20:19-21 present the risen Christ speaking *shalom* over his disciples -- the Aaronic blessing fulfilled in person. Luke 1:15 identifies John the Baptist as a Nazirite from the womb, consecrated to prepare the way for the Holy One.
-
-**Parallel Passages**
-
-Psalm 67:1 -- "May God be gracious to us and bless us and make his face to shine upon us" -- is a congregational prayer built directly on the Aaronic blessing. Psalm 4:6 -- "Lift up the light of your face upon us, O LORD!" -- pleads for the same shining countenance. Zechariah's *Benedictus* (Luke 1:67-79) -- "the sunrise shall visit us from on high, to give light to those who sit in darkness" -- translates the Aaronic blessing into the language of messianic expectation.
+2 Corinthians 4:6 applies the shining face of the blessing directly to Christ. Hebrews 1:3 identifies the Son as "the radiance of the glory of God." John 14:27 and 20:19-21 present the risen Christ speaking *shalom* over his disciples -- the Aaronic blessing fulfilled in person. Luke 1:15 identifies John the Baptist as a Nazirite from the womb, consecrated to prepare the way for the Holy One. Zechariah's *Benedictus* (Luke 1:67-79) -- "the sunrise shall visit us from on high, to give light to those who sit in darkness" -- translates the Aaronic blessing into the language of messianic expectation.
 
 ## Reflection Questions
 

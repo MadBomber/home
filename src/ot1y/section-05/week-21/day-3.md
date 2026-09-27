@@ -2,8 +2,10 @@
 week: 21
 day: 3
 title: "The Bronze Altar, the Courtyard, and the Priestly Garments"
-reading: "Exodus 27:1-28:43"
-parallel_passages: Hebrews 7:25, Hebrews 13:10, 1 Peter 2:9, Revelation 1:6
+reading:
+- Exodus 27:1-28:43
+parallel_passages:
+- Leviticus 8:7-9, 13
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -49,7 +51,7 @@ The gold plate on Aaron's turban -- *qodesh la-YHWH*, "Holy to the LORD" -- bear
 
 **Old Testament Roots**
 
-The bronze altar continues the pattern established with Abel's accepted sacrifice (Genesis 4:4), Noah's altar after the flood (Genesis 8:20), and Abraham's altar on Moriah (Genesis 22:9). The principle of substitutionary death runs from the first family to the tabernacle courtyard. The priestly garments echo the clothing God provided for Adam and Eve after the fall (Genesis 3:21) -- garments made from the skins of slain animals, covering human shame with the cost of death.
+The bronze altar continues the pattern established with Abel's accepted sacrifice (Genesis 4:4), Noah's altar after the flood (Genesis 8:20), and Abraham's altar on Moriah (Genesis 22:9). The principle of substitutionary death runs from the first family to the tabernacle courtyard. The priestly garments echo the clothing God provided for Adam and Eve after the fall (Genesis 3:21) -- garments made from the skins of slain animals, covering human shame with the cost of death. Leviticus 1:1-9 provides the detailed instructions for the burnt offering on the bronze altar. Zechariah 3:1-5 envisions the high priest Joshua being stripped of filthy garments and reclothed in pure vestments -- a prophetic enactment of the priestly investiture that anticipates Christ's imputed righteousness.
 
 **New Testament Echoes**
 
@@ -57,7 +59,7 @@ Hebrews 13:10 identifies the cross as the altar from which the old system has no
 
 **Parallel Passages**
 
-Leviticus 1:1-9 provides the detailed instructions for the burnt offering on the bronze altar. Leviticus 8:1-36 describes the actual vesting of Aaron in the garments described here. Zechariah 3:1-5 envisions the high priest Joshua being stripped of filthy garments and reclothed in pure vestments -- a prophetic enactment of the priestly investiture that anticipates Christ's imputed righteousness.
+Leviticus 8:7-9, 13 describes the actual vesting of Aaron and his sons in the garments described here.
 
 ## Reflection Questions
 

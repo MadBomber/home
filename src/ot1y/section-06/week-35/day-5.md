@@ -2,8 +2,10 @@
 week: 35
 day: 5
 title: "David's Victories and Mephibosheth at the King's Table"
-reading: "2 Samuel 8:1-10:19"
-parallel_passages: Romans 5:6-8, Ephesians 2:1-7, Luke 14:12-24, Revelation 19:9
+reading:
+- 2 Samuel 8:1-10:19
+parallel_passages:
+- 1 Chronicles 18-19
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -49,7 +51,7 @@ The final detail -- "he was lame in both his feet" -- is the narrator's masterst
 
 **Old Testament Roots**
 
-David's *hesed* toward Mephibosheth fulfills the covenant he made with Jonathan in 1 Samuel 20:14-17, where Jonathan asked David to "not cut off your steadfast love from my house forever." The phrase echoes Ruth 2:20, where Naomi blesses Boaz for his *hesed* toward the living and the dead -- both stories feature a powerful figure extending grace to someone who has no claim. David's military victories fulfilling the Abrahamic boundaries (Genesis 15:18) connect the Davidic covenant to the Abrahamic: the throne promised to David governs the land promised to Abraham.
+David's *hesed* toward Mephibosheth fulfills the covenant he made with Jonathan in 1 Samuel 20:14-17, where Jonathan asked David to "not cut off your steadfast love from my house forever." The phrase echoes Ruth 2:20, where Naomi blesses Boaz for his *hesed* toward the living and the dead -- both stories feature a powerful figure extending grace to someone who has no claim. David's military victories fulfilling the Abrahamic boundaries (Genesis 15:18) connect the Davidic covenant to the Abrahamic: the throne promised to David governs the land promised to Abraham. 2 Samuel 4:4 supplies the backstory of Mephibosheth's injury. Psalm 23 -- "You prepare a table before me in the presence of my enemies" -- may be read as David's own meditation on the kind of grace he extends to Mephibosheth: a table prepared not in the absence of enemies but in their very presence, where the formerly hostile are made welcome.
 
 **New Testament Echoes**
 
@@ -57,7 +59,7 @@ Romans 5:6-8 is Mephibosheth's story in doctrinal form: "while we were still sin
 
 **Parallel Passages**
 
-1 Chronicles 18-19 provides the parallel account of David's military victories and the Ammonite war. 2 Samuel 4:4 supplies the backstory of Mephibosheth's injury. Psalm 23 -- "You prepare a table before me in the presence of my enemies" -- may be read as David's own meditation on the kind of grace he extends to Mephibosheth: a table prepared not in the absence of enemies but in their very presence, where the formerly hostile are made welcome.
+1 Chronicles 18-19 provides the parallel account of David's military victories and the Ammonite war.
 
 ## Reflection Questions
 

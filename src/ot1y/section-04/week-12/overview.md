@@ -5,8 +5,8 @@ title: The Son of Promise
 date_range: "Week 12"
 chapters:
 - Genesis 21:1-21
-- Genesis 21:22-34; 22:1-8
-- Genesis 22:9-19
+- Genesis 21:22-34; Genesis 22:1-8
+- Genesis 22:9-24
 - Genesis 23:1-20
 - Genesis 24:1-27
 tags:
@@ -42,8 +42,8 @@ Genesis 24 then opens the search for Isaac's bride. Abraham sends his servant to
 | Day | Reading | Title |
 |-----|---------|-------|
 | [1](../day-1/) | Genesis 21:1-21 | Isaac Born, Ishmael Sent Away |
-| [2](../day-2/) | Genesis 21:22-34; 22:1-8 | The Walk to Moriah |
-| [3](../day-3/) | Genesis 22:9-19 | The Knife, the Ram, the Name |
+| [2](../day-2/) | Genesis 21:22-34; Genesis 22:1-8 | The Walk to Moriah |
+| [3](../day-3/) | Genesis 22:9-24 | The Knife, the Ram, the Name |
 | [4](../day-4/) | Genesis 23:1-20 | Sarah Dies -- Abraham Buys a Grave |
 | [5](../day-5/) | Genesis 24:1-27 | A Bride for Isaac |
 

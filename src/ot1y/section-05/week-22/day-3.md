@@ -2,8 +2,8 @@
 week: 22
 day: 3
 title: "God's Name Proclaimed -- Merciful, Gracious, Slow to Anger -- and the Covenant Renewed"
-reading: "Exodus 34:1-35"
-parallel_passages: Exodus 33:18-23, Numbers 14:18, Nehemiah 9:17, Psalm 86:15, Psalm 103:8, Joel 2:13, Jonah 4:2, Nahum 1:3, 2 Corinthians 3:7-18, Romans 3:25-26
+reading:
+- Exodus 34:1-35
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,15 +50,11 @@ Paul's treatment of Moses' shining face in 2 Corinthians 3:7-18 deepens the chri
 
 **Old Testament Roots**
 
-The *Middot HaRachamim* of Exodus 34:6-7 reverberates through the entire Old Testament. Numbers 14:18 -- Moses quotes it back to God during the spy crisis, pleading for mercy. Psalm 103:8 -- David celebrates it as the ground of personal forgiveness. Joel 2:13 -- the prophet calls Israel to repentance on the basis that God is "gracious and merciful, slow to anger, and abounding in steadfast love." Jonah 4:2 -- Jonah quotes it in anger, furious that God's mercy extends even to Nineveh. Nahum 1:3 -- the prophet quotes the "slow to anger" clause but pivots to the justice clause, warning that God "will by no means clear the guilty." The same verse fuels both hope and warning, depending on where the reader stands.
+The *Middot HaRachamim* of Exodus 34:6-7 reverberates through the entire Old Testament. Numbers 14:18 -- Moses quotes it back to God during the spy crisis, pleading for mercy. Psalm 103:8 -- David celebrates it as the ground of personal forgiveness. Joel 2:13 -- the prophet calls Israel to repentance on the basis that God is "gracious and merciful, slow to anger, and abounding in steadfast love." Jonah 4:2 -- Jonah quotes it in anger, furious that God's mercy extends even to Nineveh. Nahum 1:3 -- the prophet quotes the "slow to anger" clause but pivots to the justice clause, warning that God "will by no means clear the guilty." The same verse fuels both hope and warning, depending on where the reader stands. Jeremiah 31:31-34 promises a new covenant written not on stone but on hearts -- the ultimate fulfillment of what the second set of tablets inaugurated.
 
 **New Testament Echoes**
 
-Romans 3:25-26 resolves the tension of Exodus 34:6-7 at the cross -- God is both "just and the justifier." John 1:14 translates *chesed v'emet* as "grace and truth" and applies it to the incarnate Word. 2 Corinthians 3:7-18 contrasts the fading glory of Moses' face with the permanent, transforming glory available in Christ. Hebrews 8:6-13 identifies the new tablets as the new covenant written on hearts, fulfilling what the second set of stone tablets could only promise.
-
-**Parallel Passages**
-
-Compare Exodus 34:29-35 (Moses' shining face) with the Transfiguration accounts (Matthew 17:1-8, Mark 9:2-8, Luke 9:28-36), where Jesus' face shines "like the sun" and Moses himself appears alongside him. The mountain, the glory, the shining face, the cloud -- every element of Exodus 34 is present, but now the glory belongs not to a mediator who reflects it but to the Son who radiates it. Compare also Jeremiah 31:31-34, where the new covenant is written not on stone but on hearts -- the ultimate fulfillment of what the second set of tablets inaugurated.
+Romans 3:25-26 resolves the tension of Exodus 34:6-7 at the cross -- God is both "just and the justifier." John 1:14 translates *chesed v'emet* as "grace and truth" and applies it to the incarnate Word. 2 Corinthians 3:7-18 contrasts the fading glory of Moses' face with the permanent, transforming glory available in Christ. Hebrews 8:6-13 identifies the new tablets as the new covenant written on hearts, fulfilling what the second set of stone tablets could only promise. Compare Exodus 34:29-35 (Moses' shining face) with the Transfiguration accounts (Matthew 17:1-8, Mark 9:2-8, Luke 9:28-36), where Jesus' face shines "like the sun" and Moses himself appears alongside him. The mountain, the glory, the shining face, the cloud -- every element of Exodus 34 is present, but now the glory belongs not to a mediator who reflects it but to the Son who radiates it.
 
 ## Reflection Questions
 

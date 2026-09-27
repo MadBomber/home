@@ -2,8 +2,8 @@
 week: 46
 day: 3
 title: "Esther's Banquets and Haman's Gallows -- The Reversal Begins"
-reading: "Esther 5:1-7:10"
-parallel_passages: 1 Corinthians 2:8, Proverbs 16:18, Luke 14:11, Philippians 2:8-11
+reading:
+- Esther 5:1-7:10
 section: New Covenant
 tags:
 - covenant-7
@@ -18,7 +18,7 @@ study_slug: ot1y
 
 ## Reading
 
-- Esther 5:1--7:10
+- Esther 5:1-7:10
 
 ## Historical Context
 
@@ -54,15 +54,11 @@ The king's sleepless night -- the pivot on which the entire narrative turns -- i
 
 **Old Testament Roots**
 
-The reversal pattern in Esther echoes Joseph's story in Genesis 50:20 -- "You meant it for evil, but God meant it for good." It echoes the reversal at the Red Sea, where the waters Pharaoh expected to trap Israel swallowed his army instead (Exodus 14:26-28). Proverbs 16:18 -- "Pride goes before destruction, and a haughty spirit before a fall" -- reads as a summary of Haman's trajectory. The "tree" (*ets*) on which Haman is impaled carries echoes of Deuteronomy 21:22-23: "A hanged man is cursed by God" -- a text Paul will apply directly to Christ in Galatians 3:13.
+The reversal pattern in Esther echoes Joseph's story in Genesis 50:20 -- "You meant it for evil, but God meant it for good." It echoes the reversal at the Red Sea, where the waters Pharaoh expected to trap Israel swallowed his army instead (Exodus 14:26-28). Proverbs 16:18 -- "Pride goes before destruction, and a haughty spirit before a fall" -- reads as a summary of Haman's trajectory. The "tree" (*ets*) on which Haman is impaled carries echoes of Deuteronomy 21:22-23: "A hanged man is cursed by God" -- a text Paul will apply directly to Christ in Galatians 3:13. Psalm 7:14-16 describes the wicked falling into the pit they have dug -- the same dynamic as Haman's gallows. Psalm 37:12-13 declares that "the wicked plots against the righteous and gnashes his teeth at him, but the Lord laughs at the wicked, for he sees that his day is coming." Daniel 6, where Daniel's accusers are thrown into the lions' den they prepared for him, follows the identical pattern of reversal.
 
 **New Testament Echoes**
 
 The cross as reversal is the central New Testament echo: 1 Corinthians 2:8 and Colossians 2:15 describe the crucifixion as the moment the powers of darkness were defeated by their own weapon. Jesus's teaching on reversal -- "everyone who exalts himself will be humbled, and he who humbles himself will be exalted" (Luke 14:11) -- is the moral principle Esther 5-7 dramatizes. Philippians 2:8-11 describes the ultimate reversal: Christ humbled himself to death on a cross, and God exalted him to the highest place with the name above every name.
-
-**Parallel Passages**
-
-Psalm 7:14-16 describes the wicked falling into the pit they have dug -- the same dynamic as Haman's gallows. Psalm 37:12-15 declares that "the wicked plot against the righteous... but the Lord laughs at the wicked, for he sees that his day is coming." Daniel 6, where Daniel's accusers are thrown into the lion's den they prepared for him, follows the identical pattern of reversal.
 
 ## Reflection Questions
 

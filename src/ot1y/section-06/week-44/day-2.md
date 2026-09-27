@@ -2,8 +2,9 @@
 week: 44
 day: 2
 title: "Justice Like a River"
-reading: "Amos 1:1-2:16; 5:18-27"
-parallel_passages: Matthew 25:31-46, James 2:14-17, Luke 4:18-19, Acts 7:42-43
+reading:
+- Amos 1:1-2:16
+- Amos 5:18-27
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -17,7 +18,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Amos 1:1-2:16; 5:18-27
+- Amos 1:1-2:16
+- Amos 5:18-27
 
 ## Historical Context
 
@@ -49,15 +51,11 @@ Stephen, in his speech before the Sanhedrin in Acts 7:42-43, quotes Amos 5:25-27
 
 **Old Testament Roots**
 
-The exodus narrative establishes God's identity as the deliverer of the oppressed (Exodus 3:7-8). The Torah's legal codes repeatedly protect the vulnerable: "You shall not oppress a sojourner" (Exodus 23:9); "You shall not pervert the justice due to your poor" (Exodus 23:6). Deuteronomy 10:17-18 declares that God "executes justice for the fatherless and the widow, and loves the sojourner." Amos stands in this tradition and charges Israel with violating the very covenant that constituted them as a people.
+The exodus narrative establishes God's identity as the deliverer of the oppressed (Exodus 3:7-8). The Torah's legal codes repeatedly protect the vulnerable: "You shall not oppress a sojourner" (Exodus 23:9); "You shall not pervert the justice due to your poor" (Exodus 23:6). Deuteronomy 10:17-18 declares that God "executes justice for the fatherless and the widow, and loves the sojourner." Amos stands in this tradition and charges Israel with violating the very covenant that constituted them as a people. Isaiah 1:10-17 delivers a nearly identical indictment: "I cannot endure iniquity and solemn assembly... learn to do good; seek justice, correct oppression." Micah 6:6-8 asks what God requires and answers with justice, kindness, and humility. Jeremiah 7:1-15 (the temple sermon) warns that the temple itself will not protect a people who oppress the vulnerable. The prophetic witness is unanimous: cult without ethics is an abomination.
 
 **New Testament Echoes**
 
 Matthew 25:31-46 embodies Amos's ethics in Christ's final judgment -- the nations are judged by their treatment of the hungry, the thirsty, the stranger. James 2:14-17 asks, "What good is it, my brothers, if someone says he has faith but does not have works?" -- a question Amos would have posed in identical terms. Luke 4:18-19 presents Jesus as the anointed one who fulfills the prophetic demand for justice for the poor and liberty for the oppressed.
-
-**Parallel Passages**
-
-Isaiah 1:10-17 delivers a nearly identical indictment: "I cannot endure iniquity and solemn assembly... learn to do good; seek justice, correct oppression." Micah 6:6-8 asks what God requires and answers with justice, kindness, and humility. Jeremiah 7:1-15 (the temple sermon) warns that the temple itself will not protect a people who oppress the vulnerable. The prophetic witness is unanimous: cult without ethics is an abomination.
 
 ## Reflection Questions
 

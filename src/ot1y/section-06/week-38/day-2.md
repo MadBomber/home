@@ -2,8 +2,10 @@
 week: 38
 day: 2
 title: "The Hearing Heart -- Wisdom Beyond Measure"
-reading: "1 Kings 3:1-4:34"
-parallel_passages: Matthew 12:42, 1 Corinthians 1:24, 1 Corinthians 1:30, James 1:5, Colossians 2:3, Proverbs 8:22-31
+reading:
+- 1 Kings 3:1-4:34
+parallel_passages:
+- 2 Chronicles 1:7-12
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -37,7 +39,7 @@ Jesus stands in the public square and makes a claim that redefines everything So
 
 The pattern of the Gibeon encounter -- ask and receive -- finds its fulfillment in Christ's teaching and in the nature of the gospel itself. Solomon asked for a hearing heart and received wisdom as a gift. James writes to the church: "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him" (James 1:5). The Gibeon pattern becomes universally available in Christ. What was a singular dream-encounter for one king becomes the standing invitation to every believer. And the generosity God showed Solomon -- giving not only what he asked but what he did not ask -- is the same generosity Paul celebrates: "He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?" (Romans 8:32). The unasked gifts of 1 Kings 3 are a preview of the lavish grace of the gospel.
 
-Solomon's hearing heart, for all its brilliance, eventually stopped listening. The man who asked for the capacity to discern good from evil drifted into the very evil he was equipped to recognize. The wisdom that could penetrate the motives of two quarreling women could not, in the end, penetrate its own owner's rationalizations. Christ, by contrast, never stops hearing. "I always do the things that are pleasing to him," Jesus says (John 8:29). His *lev shomea* is permanent, unfailing, total. The trajectory Solomon could not sustain -- wisdom expressed through obedience across an entire life -- is the trajectory Christ completes without interruption. Paul writes that in Christ "are hidden all the treasures of wisdom and knowledge" (Colossians 2:3). Hidden -- not because they are inaccessible, but because they are inexhaustible. Solomon's wisdom could be catalogued: three thousand proverbs, a thousand and five songs. Christ's wisdom cannot be contained. It is the wisdom by which the universe was made (Proverbs 8:22-31; John 1:1-3), and it is offered freely to all who come.
+Solomon's hearing heart, for all its brilliance, was a gift held by a man who still needed it. The narrator's quiet *raq* -- "only, he sacrificed and made offerings at the high places" (3:3) -- is set down before the dream at Gibeon ever begins. The wisdom that could penetrate the motives of two quarreling women did not make its owner immune to divided worship. Christ, by contrast, never stops hearing. "I always do the things that are pleasing to him," Jesus says (John 8:29). His *lev shomea* is permanent, unfailing, total. The hearing heart Solomon received as a gift, Christ possesses by nature -- wisdom expressed through obedience across an entire life, without interruption. Paul writes that in Christ "are hidden all the treasures of wisdom and knowledge" (Colossians 2:3). Hidden -- not because they are inaccessible, but because they are inexhaustible. Solomon's wisdom could be catalogued: three thousand proverbs, a thousand and five songs. Christ's wisdom cannot be contained. It is the wisdom by which the universe was made (Proverbs 8:22-31; John 1:1-3), and it is offered freely to all who come.
 
 ## Key Themes
 
@@ -49,7 +51,7 @@ Solomon's hearing heart, for all its brilliance, eventually stopped listening. T
 
 **Old Testament Roots**
 
-The Gibeon dream echoes God's appearances to the patriarchs -- to Abraham at night (Genesis 15:1), to Jacob at Bethel (Genesis 28:12-15), to Moses at the burning bush (Exodus 3:1-6). In each case, God initiates, offers, and the human response determines the trajectory of what follows. Solomon's request for discernment between good and evil (*tov* and *ra*) connects directly to the tree of knowledge in Genesis 2:17 -- the knowledge that was seized in the garden is now given at Gibeon. The wisdom tradition that Solomon inaugurates (Proverbs, Ecclesiastes, Song of Solomon) finds its theological roots in this moment: wisdom begins not with the intellect but with "the fear of the LORD" (Proverbs 1:7).
+The Gibeon dream echoes God's appearances to the patriarchs -- to Abraham at night (Genesis 15:1), to Jacob at Bethel (Genesis 28:12-15), to Moses at the burning bush (Exodus 3:1-6). In each case, God initiates, offers, and the human response determines the trajectory of what follows. Solomon's request for discernment between good and evil (*tov* and *ra*) connects directly to the tree of knowledge in Genesis 2:17 -- the knowledge that was seized in the garden is now given at Gibeon. The wisdom tradition that Solomon inaugurates (Proverbs, Ecclesiastes, Song of Solomon) finds its theological roots in this moment: wisdom begins not with the intellect but with "the fear of the LORD" (Proverbs 1:7). Solomon's judgment (3:16-28) invites comparison with Daniel's wisdom in the story of Susanna (Daniel 13 in the Septuagint / Apocrypha), where a young man's discernment saves an innocent woman. The scope of Solomon's wisdom (4:29-34) also recalls Proverbs 8:22-31, where wisdom is personified as present at creation itself.
 
 **New Testament Echoes**
 
@@ -57,7 +59,7 @@ Matthew 12:42 -- Jesus as "something greater than Solomon." 1 Corinthians 1:24, 
 
 **Parallel Passages**
 
-Compare 1 Kings 3:5-14 with 2 Chronicles 1:7-12, the Chronicler's parallel account that emphasizes Solomon's request for wisdom to lead "this people of yours." Compare Solomon's judgment (3:16-28) with Daniel's wisdom in the story of Susanna (Daniel 13 in the Septuagint / Apocrypha), where a young man's discernment saves an innocent woman. Compare the scope of Solomon's wisdom (4:29-34) with Proverbs 8:22-31, where wisdom is personified as present at creation itself.
+Compare 1 Kings 3:5-14 with 2 Chronicles 1:7-12, the Chronicler's parallel account that emphasizes Solomon's request for wisdom to lead "this people of yours."
 
 ## Reflection Questions
 
@@ -65,8 +67,8 @@ Compare 1 Kings 3:5-14 with 2 Chronicles 1:7-12, the Chronicler's parallel accou
 
 2. Solomon asked for a *lev shomea* -- a hearing heart that listens before it judges. In what areas of your life do you speak before you listen, decide before you hear, react before you discern? What would it look like to cultivate a hearing heart this week?
 
-3. Solomon's wisdom was God's gift, and yet Solomon eventually stopped using it faithfully. What spiritual gifts or capacities has God given you that you are at risk of neglecting or misusing? What would faithful stewardship of those gifts look like today?
+3. The narrator describes Solomon as one who "loved the LORD" -- and then adds "only, he sacrificed and made offerings at the high places" (3:3). What is the "only" in your own walk with God -- the qualification that sits beside genuine love for him? What would it look like to bring that one area under the same devotion as the rest?
 
 ## Prayer
 
-God of all wisdom, you came to Solomon in the night and offered him anything, and he asked for the one thing that pleased you most -- a heart that hears. We confess that our hearts are often loud with our own agendas, our own anxieties, our own ambitions, and we struggle to hear your voice beneath the noise. Give us what you gave Solomon -- the *lev shomea*, the listening heart -- and give us also what you did not give him: the perseverance to keep listening across a lifetime. We thank you that in Christ all the treasures of wisdom and knowledge are hidden, not behind a locked door but in a person we can know, trust, and follow. Teach us to seek your kingdom first, trusting that everything else we need will arrive as the dividend of the right priority. And when we are tempted to trade wisdom for the easier currency of power or pleasure, hold us fast in the hearing posture Solomon could not sustain -- the posture your Son maintained from Bethlehem to Calvary without a single lapse. In Jesus' name. Amen.
+God of all wisdom, you came to Solomon in the night and offered him anything, and he asked for the one thing that pleased you most -- a heart that hears. We confess that our hearts are often loud with our own agendas, our own anxieties, our own ambitions, and we struggle to hear your voice beneath the noise. Give us what you gave Solomon -- the *lev shomea*, the listening heart -- and give us also the perseverance to keep listening across a lifetime. We thank you that in Christ all the treasures of wisdom and knowledge are hidden, not behind a locked door but in a person we can know, trust, and follow. Teach us to seek your kingdom first, trusting that everything else we need will arrive as the dividend of the right priority. And when we are tempted to trade wisdom for the easier currency of power or pleasure, hold us fast in the hearing posture Solomon asked for -- the posture your Son maintained from Bethlehem to Calvary without a single lapse. In Jesus' name. Amen.

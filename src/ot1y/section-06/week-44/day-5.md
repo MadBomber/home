@@ -2,8 +2,9 @@
 week: 44
 day: 5
 title: "Wrestling with God and the God Who Sings"
-reading: "Habakkuk 1:1-3:19; Zephaniah 1:1-3:20"
-parallel_passages: Romans 1:17, Galatians 3:11, Hebrews 10:37-38, Revelation 19:6-7
+reading:
+- Habakkuk 1:1-3:19
+- Zephaniah 1:1-3:20
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -18,7 +19,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Habakkuk 1:1-3:19; Zephaniah 1:1-3:20
+- Habakkuk 1:1-3:19
+- Zephaniah 1:1-3:20
 
 ## Historical Context
 
@@ -50,15 +52,11 @@ Zephaniah's vision of God singing over his people (3:17) reaches its fulfillment
 
 **Old Testament Roots**
 
-Habakkuk's watchtower echoes the watchman tradition of Isaiah 21:6-8 and Ezekiel 33:1-9 -- prophets stationed at the boundary between God's silence and God's speech. The "day of the LORD" concept originates in Amos 5:18-20 and is developed in Joel 1:15, 2:1-11, and Isaiah 13:6-9. Zephaniah's un-creation language in 1:2-3 reverses Genesis 1, echoing the flood narrative of Genesis 6-9 and the de-creation imagery of Jeremiah 4:23-26.
+Habakkuk's watchtower echoes the watchman tradition of Isaiah 21:6-8 and Ezekiel 33:1-9 -- prophets stationed at the boundary between God's silence and God's speech. The "day of the LORD" concept originates in Amos 5:18-20 and is developed in Joel 1:15, 2:1-11, and Isaiah 13:6-9. Zephaniah's un-creation language in 1:2-3 reverses Genesis 1, echoing the flood narrative of Genesis 6-9 and the de-creation imagery of Jeremiah 4:23-26. Psalm 73 traces a journey similar to Habakkuk's -- from bewilderment at the prosperity of the wicked to worship in God's sanctuary. Lamentations 3:21-26 voices the same "yet" of hope in the midst of devastation. Joel 2:28-32 envisions the day of the LORD as both terrible and salvific, promising that "everyone who calls on the name of the LORD shall be saved." Psalm 46:1-3 -- "God is our refuge and strength... though the earth gives way" -- is Habakkuk 3:17-18 compressed into a single verse.
 
 **New Testament Echoes**
 
 Romans 1:17 and Galatians 3:11 build the doctrine of justification by faith on Habakkuk 2:4. Hebrews 10:37-38 quotes it in the context of patient endurance. Hebrews 11 -- the "faith hall of fame" -- is an extended commentary on what Habakkuk's *emunah* looks like in practice. Revelation 6:15-17 draws on Zephaniah's day-of-wrath imagery, while Revelation 19:6-7 and 21:3-4 fulfill Zephaniah's vision of God dwelling joyfully among his people.
-
-**Parallel Passages**
-
-Psalm 73 traces a journey similar to Habakkuk's -- from bewilderment at the prosperity of the wicked to worship in God's sanctuary. Lamentations 3:21-26 voices the same "yet" of hope in the midst of devastation. Joel 2:28-32 envisions the day of the LORD as both terrible and salvific, promising that "everyone who calls on the name of the LORD shall be saved." Psalm 46:1-3 -- "God is our refuge and strength... though the earth gives way" -- is Habakkuk 3:17-18 compressed into a single verse.
 
 ## Reflection Questions
 

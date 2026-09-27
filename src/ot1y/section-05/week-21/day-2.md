@@ -2,8 +2,8 @@
 week: 21
 day: 2
 title: "The Tabernacle Structure -- Curtains, Frames, and the Veil"
-reading: "Exodus 26:1-37"
-parallel_passages: Hebrews 10:19-20, Matthew 27:51, John 1:14, Ephesians 2:14
+reading:
+- Exodus 26:1-37
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -25,7 +25,7 @@ Exodus 26 reads like the blueprint of a master architect -- and that is precisel
 
 The tabernacle's innermost layer consists of ten curtains of fine twisted linen (*shesh mashzar*) woven with blue, purple, and scarlet yarn, with cherubim "skillfully worked" (*ma'aseh choshev*) into the fabric. The Hebrew phrase implies the highest level of artisanship -- not embroidery applied on top but design woven into the very structure of the cloth. These curtains form the ceiling and inner walls visible to the priests who enter the holy place. Above them lies a layer of goat-hair curtains -- eleven panels, slightly larger, extending beyond the linen layer to protect it. Above that, a covering of tanned ram skins dyed red, and finally an outer layer of fine leather (possibly dugong or sea-cow skin, the Hebrew *tachash* being notoriously difficult to translate). The structure moves from glory inside to ruggedness outside -- beauty concealed beneath ordinary-looking coverings.
 
-The forty-eight frames (*qerashim*) of acacia wood, each overlaid with gold and standing in silver bases (*adanim*), provide the structural skeleton. The silver bases are significant: according to Exodus 38:25-28, they were made from the silver collected in the census -- the ransom money (*kopher*) paid by each Israelite male. Every frame of the tabernacle rests on a foundation of redemption money. The structure literally stands on atonement. Five bars of acacia wood overlaid with gold run horizontally through the frames, with the middle bar running the full length of each wall, binding the structure together. The tabernacle is a tent, but it is an engineered tent -- designed for assembly, disassembly, and transport through the wilderness.
+The forty-eight frames (*qerashim*) of acacia wood, each overlaid with gold and standing in silver bases (*adanim*), provide the structural skeleton. Each frame has two tenons (*yadot*, literally "hands") that fit into two silver bases (26:17, 19), so the walls stand on a continuous foundation of silver -- a hundred bases in all, counting the four under the pillars of the veil (26:19-25, 32). The metals mark gradations of holiness: the frames and the pillars of the veil stand in silver, while the pillars of the outer entrance screen stand in bronze (26:37). The closer the structure comes to the Most Holy Place, the more precious its materials. Five bars of acacia wood overlaid with gold run horizontally through the frames, with the middle bar running the full length of each wall, binding the structure together. The tabernacle is a tent, but it is an engineered tent -- designed for assembly, disassembly, and transport through the wilderness.
 
 The most theologically charged element is the *parokhet* -- the inner veil that separates the holy place from the Most Holy Place. It is made of the same materials as the innermost curtains: blue, purple, and scarlet yarn on fine twisted linen, with cherubim skillfully worked into it. The colors themselves carry symbolic weight in ancient Near Eastern culture. Blue (*tekhelet*) was associated with the heavens and with royalty -- the dye was extracted from the murex snail and was extraordinarily expensive. Purple (*argaman*) signified kingship and wealth. Scarlet (*shani tola'at*, literally "scarlet of the worm") was derived from crushed insects and represented sacrifice and blood. Together, these three colors appear on the one barrier that separates a holy God from a sinful people -- heaven, royalty, and blood woven into a single curtain.
 
@@ -45,21 +45,17 @@ Paul extends the imagery further when he writes that Christ "has broken down in 
 
 - **The veil and Eden's cherubim** -- The cherubim woven into the *parokhet* connect the tabernacle directly to Genesis 3. The exile from God's presence, which began when Adam and Eve were driven from the garden, is architecturally expressed in the inner veil. The tabernacle does not resolve the exile -- it manages it, providing a mediated way of approach while the barrier remains.
 - **Glory concealed in humility** -- The tabernacle's outer appearance is unremarkable: animal skins stretched over a wooden frame. But inside, the curtains are fine linen woven with blue, purple, and scarlet yarn and golden clasps. The pattern of hidden glory anticipates the incarnation, in which the Creator of the universe walks the earth in the body of a Galilean craftsman.
-- **Foundation of redemption** -- Every frame of the tabernacle rests in silver bases made from census ransom money. The structure that houses God's presence literally stands on the price of atonement. Before a single curtain is hung, the cost of redemption has been paid and built into the foundation.
+- **A single whole, built to the pattern** -- The clasps join the curtains "so that the tabernacle may be a single whole" (26:6), the middle bar runs "from end to end" through the frames (26:28), and every frame stands in its silver bases. Moses is to erect it "according to the plan for it that you were shown on the mountain" (26:30). God's dwelling is not assembled from human ideas about holiness. It is built to his design and held together as one.
 
 ## Connections
 
 **Old Testament Roots**
 
-Genesis 3:24 places cherubim at the entrance to Eden, guarding the way to the tree of life. The cherubim on the veil continue this theme -- the way to God's immediate presence remains guarded. The blue, purple, and scarlet colors of the tabernacle appear again in the high priest's garments (Exodus 28) and in Solomon's temple curtain (2 Chronicles 3:14), maintaining a continuous thread of symbolism from wilderness to Jerusalem.
+Genesis 3:24 places cherubim at the entrance to Eden, guarding the way to the tree of life. The cherubim on the veil continue this theme -- the way to God's immediate presence remains guarded. The blue, purple, and scarlet colors of the tabernacle appear again in the high priest's garments (Exodus 28) and in Solomon's temple curtain (2 Chronicles 3:14), maintaining a continuous thread of symbolism from wilderness to Jerusalem. Ezekiel 10:1-22 depicts the cherubim in the prophet's vision of God's glory departing from the temple. Isaiah 6:1-4 shows the seraphim (closely related to cherubim) attending God's throne while the temple fills with smoke -- the glory that the veil simultaneously reveals and conceals.
 
 **New Testament Echoes**
 
 Matthew 27:51 records the tearing of the temple curtain at the moment of Christ's death. Hebrews 10:19-20 identifies the curtain with Christ's flesh and declares the way into the Most Holy Place permanently open. John 1:14 uses tabernacle language (*eskenosen*) to describe the incarnation. Revelation 21:3 announces the final fulfillment: "Behold, the dwelling place of God is with man" -- no veil, no barrier, no mediation required.
-
-**Parallel Passages**
-
-2 Chronicles 3:14 describes Solomon's temple veil with the same materials and cherubim design. Ezekiel 10:1-22 depicts the cherubim in the prophet's vision of God's glory departing from the temple. Isaiah 6:1-4 shows the seraphim (closely related to cherubim) attending God's throne while the temple fills with smoke -- the glory that the veil simultaneously reveals and conceals.
 
 ## Reflection Questions
 
@@ -67,7 +63,7 @@ Matthew 27:51 records the tearing of the temple curtain at the moment of Christ'
 
 2. The cherubim on the veil declared that the way to God's presence was blocked but real -- the barrier was fabric, not stone. How does the tearing of the veil at Christ's death change the way you approach God in prayer, knowing the barrier has been permanently removed?
 
-3. The silver bases of the tabernacle frames were made from ransom money -- the structure of God's dwelling rested on redemption. What does it mean that every aspect of your access to God is built on the foundation of Christ's atoning work?
+3. The tabernacle was to be erected "according to the plan for it that you were shown on the mountain" (26:30), down to the last clasp and silver base. Where are you tempted to approach God on terms of your own design rather than the way he has provided? What does it mean that the way into God's presence is something he designs and opens in Christ, not something we build?
 
 ## Prayer
 

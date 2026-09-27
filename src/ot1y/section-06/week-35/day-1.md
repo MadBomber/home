@@ -2,8 +2,10 @@
 week: 35
 day: 1
 title: "David Mourns Saul and Jonathan"
-reading: "2 Samuel 1:1-2:7"
-parallel_passages: Matthew 5:43-48, Romans 12:15, Luke 23:34, Revelation 5:5-6
+reading:
+- 2 Samuel 1:1-2:7
+parallel_passages:
+- 1 Samuel 31
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,7 +50,7 @@ There is a further christological dimension in the phrase "How the mighty have f
 
 **Old Testament Roots**
 
-David's lament stands in the tradition of Israel's funeral poetry, echoing the *qinah* meter that will later structure Jeremiah's Lamentations over Jerusalem. The command to teach the song to the men of Judah (2 Samuel 1:18) recalls Moses' instruction to teach his song to Israel (Deuteronomy 31:19) -- both songs intended as memorials that the people carry in their mouths. David's refusal to lift his hand against the LORD's anointed, even posthumously, continues the pattern established in the caves of En-gedi and the wilderness of Ziph (1 Samuel 24, 26).
+David's lament stands in the tradition of Israel's funeral poetry, echoing the *qinah* meter that will later structure Jeremiah's Lamentations over Jerusalem. The command to teach the song to the men of Judah (2 Samuel 1:18) recalls Moses' instruction to teach his song to Israel (Deuteronomy 31:19) -- both songs intended as memorials that the people carry in their mouths. David's refusal to lift his hand against the LORD's anointed, even posthumously, continues the pattern established in the caves of En-gedi and the wilderness of Ziph (1 Samuel 24, 26). Psalm 63, traditionally associated with David's time in the wilderness, carries the same longing for God that undergirds the lament. 2 Samuel 3:33-34 will show David composing another *qinah*, this time for Abner -- further evidence that David's grief was not selective but habitual.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Jesus' command to love enemies (Matthew 5:44) and weep with those who weep (Roma
 
 **Parallel Passages**
 
-1 Samuel 31 provides the narrative of Saul's death on Mount Gilboa, which David learns of here. Psalm 63, traditionally associated with David's time in the wilderness, carries the same longing for God that undergirds the lament. 2 Samuel 3:33-34 will show David composing another *qinah*, this time for Abner -- further evidence that David's grief was not selective but habitual.
+1 Samuel 31 provides the narrative of Saul's death on Mount Gilboa, which David learns of here.
 
 ## Reflection Questions
 

@@ -2,8 +2,10 @@
 week: 36
 day: 3
 title: "The Covenant Celebrated and Lamented -- Promise and Anguish in a Single Song"
-reading: "Psalm 89:1-37"
-parallel_passages: 2 Samuel 7:12-16, Luke 1:32-33, Acts 2:30-31, Romans 11:29
+reading:
+- Psalm 89:1-37
+parallel_passages:
+- 2 Samuel 7:12-16
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,7 +50,7 @@ The psalm's insistence that God's covenant survives human failure is itself a pr
 
 **Old Testament Roots**
 
-2 Samuel 7:12-16 -- the original Davidic covenant oracle, which Psalm 89 recites and expands. Genesis 17:7 -- God's covenant with Abraham, also described as "everlasting" and grounded in divine initiative. Exodus 34:6-7 -- the foundational declaration of God's character as "merciful and gracious, slow to anger, and abounding in steadfast love (*chesed*) and faithfulness (*emeth*)." Psalm 89 builds its theology on this same self-revelation. Isaiah 55:3 -- "I will make with you an everlasting covenant, my steadfast, sure love for David."
+2 Samuel 7:12-16 -- the original Davidic covenant oracle, which Psalm 89 recites and expands. Genesis 17:7 -- God's covenant with Abraham, also described as "everlasting" and grounded in divine initiative. Exodus 34:6-7 -- the foundational declaration of God's character as "merciful and gracious, slow to anger, and abounding in steadfast love (*chesed*) and faithfulness (*emeth*)." Psalm 89 builds its theology on this same self-revelation. Isaiah 55:3 -- "I will make with you an everlasting covenant, my steadfast, sure love for David." Psalm 132:11-18 -- another recital of the Davidic covenant with emphasis on God's oath. Psalm 72:5-7 -- the king's reign enduring as long as the sun and moon. Isaiah 9:6-7 -- the child whose government increases without end, established on David's throne "with justice and with righteousness from this time forth and forevermore." Jeremiah 33:20-21 -- God's covenant with David is as unbreakable as his covenant with day and night.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Luke 1:32-33 -- Gabriel's announcement to Mary echoes the covenant language of P
 
 **Parallel Passages**
 
-Psalm 132:11-18 -- another recital of the Davidic covenant with emphasis on God's oath. Psalm 72:5-7 -- the king's reign enduring as long as the sun and moon. Isaiah 9:6-7 -- the child whose government increases without end, established on David's throne "with justice and with righteousness from this time forth and forevermore." Jeremiah 33:20-21 -- God's covenant with David is as unbreakable as his covenant with day and night.
+2 Samuel 7:12-16 is the narrative account of the oracle that 89:19-37 recites: the vision in which God spoke "to your godly one" (89:19) and promised to establish the throne of David's offspring forever.
 
 ## Reflection Questions
 

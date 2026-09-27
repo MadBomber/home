@@ -2,8 +2,8 @@
 week: 21
 day: 5
 title: "The Altar of Incense, the Anointing Oil, and the Sabbath"
-reading: "Exodus 30:1-31:18"
-parallel_passages: Revelation 8:3-4, Luke 1:8-11, 2 Corinthians 2:15, Hebrews 4:9-10
+reading:
+- Exodus 30:1-31:18
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -54,15 +54,11 @@ The Sabbath command at the close of the tabernacle instructions reaches its deep
 
 **Old Testament Roots**
 
-The incense altar connects to the broader Old Testament theology of prayer and worship (Psalm 141:2, Malachi 1:11). The anointing oil recalls Jacob's anointing of the stone at Bethel (Genesis 28:18) and anticipates the anointing of Israel's kings (1 Samuel 16:13). The Sabbath command reaches back to Genesis 2:2-3 and forward through Israel's entire liturgical calendar, anchoring the rhythm of covenant life in the rhythm of creation.
+The incense altar connects to the broader Old Testament theology of prayer and worship (Psalm 141:2, Malachi 1:11). The anointing oil recalls Jacob's anointing of the stone at Bethel (Genesis 28:18) and anticipates the anointing of Israel's kings (1 Samuel 16:13). The Sabbath command reaches back to Genesis 2:2-3 and forward through Israel's entire liturgical calendar, anchoring the rhythm of covenant life in the rhythm of creation. Leviticus 16:12-13 describes the high priest carrying incense behind the veil on the Day of Atonement -- the smoke covering the mercy seat so the priest does not die. 1 Kings 7:48-50 records the golden altar and furnishings of Solomon's temple, continuing the pattern established here. Isaiah 11:2 describes the seven-fold Spirit resting on the coming Messiah -- the ultimate fulfillment of the Spirit's empowerment that Bezalel first received.
 
 **New Testament Echoes**
 
 Revelation 8:3-4 places the prayers of the saints on the golden altar before God's throne. Luke 1:8-11 locates the announcement of the new covenant at the incense altar. 2 Corinthians 2:15 identifies believers as "the aroma of Christ." Hebrews 4:9-10 interprets the Sabbath as a rest that remains for God's people -- fulfilled in Christ's finished work. 1 Corinthians 3:16 identifies believers as the temple in whom God's Spirit dwells, extending Bezalel's Spirit-filling to the entire community.
-
-**Parallel Passages**
-
-Leviticus 16:12-13 describes the high priest carrying incense behind the veil on the Day of Atonement -- the smoke covering the mercy seat so the priest does not die. 1 Kings 7:48-50 records the golden altar and furnishings of Solomon's temple, continuing the pattern established here. Isaiah 11:2 describes the seven-fold Spirit resting on the coming Messiah -- the ultimate fulfillment of the Spirit's empowerment that Bezalel first received.
 
 ## Reflection Questions
 

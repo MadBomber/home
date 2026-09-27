@@ -2,8 +2,8 @@
 week: 10
 day: 1
 title: "Look Toward Heaven -- The Stars, the Belief, the Righteousness"
-reading: "Genesis 15:1-6"
-parallel_passages: Romans 4:1-12, Galatians 3:6-9, Hebrews 11:8-12, James 2:23
+reading:
+- Genesis 15:1-6
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -50,15 +50,11 @@ James 2:23 adds a complementary perspective: "Abraham believed God, and it was c
 
 **Old Testament Roots**
 
-Genesis 15:1-6 picks up the promise thread that began in Genesis 12:1-3, where God first told Abram, "I will make of you a great nation." The word *zera* (offspring/seed) connects this passage to Genesis 3:15, where God promised that the seed of the woman would crush the serpent's head. The line of promise is narrowing: from humanity in general, to one family, to one man's descendants -- and ultimately to one descendant. Psalm 147:4 declares, "He determines the number of the stars; he gives to all of them their names" -- the God who knows the stars by name promises Abram descendants he cannot count.
+Genesis 15:1-6 picks up the promise thread that began in Genesis 12:1-3, where God first told Abram, "I will make of you a great nation." The word *zera* (offspring/seed) connects this passage to Genesis 3:15, where God promised that the seed of the woman would crush the serpent's head. The line of promise is narrowing: from humanity in general, to one family, to one man's descendants -- and ultimately to one descendant. Psalm 147:4 declares, "He determines the number of the stars; he gives to all of them their names" -- the God who knows the stars by name promises Abram descendants he cannot count. Psalm 32:1-2 uses the same Hebrew root *chashav* to describe the blessedness of the one to whom God "does not count" (*lo yachshov*) iniquity -- Paul quotes this psalm alongside Genesis 15:6 in Romans 4:6-8 to show that crediting righteousness and not crediting sin are two sides of the same divine act. Habakkuk 2:4 -- "the righteous shall live by his faith" -- carries the same principle into the prophetic literature and becomes the text that ignites the Reformation.
 
 **New Testament Echoes**
 
 Romans 4:1-12 builds the entire doctrine of justification by faith on Genesis 15:6. Galatians 3:6-9 extends the argument to include Gentile believers as Abraham's spiritual children. Hebrews 11:8-12 places Abraham's faith in the hall of faith, noting that "he considered him faithful who had promised." John 8:56 records Jesus saying, "Your father Abraham rejoiced that he would see my day. He saw it and was glad" -- an astonishing claim that Abraham, under the stars, glimpsed the coming of Christ.
-
-**Parallel Passages**
-
-Psalm 32:1-2 uses the same Hebrew root *chashav* to describe the blessedness of the one to whom God "does not count" (*lo yachshov*) iniquity -- Paul quotes this psalm alongside Genesis 15:6 in Romans 4:6-8 to show that crediting righteousness and not crediting sin are two sides of the same divine act. Habakkuk 2:4 -- "the righteous shall live by his faith" -- carries the same principle into the prophetic literature and becomes the text that ignites the Reformation.
 
 ## Reflection Questions
 

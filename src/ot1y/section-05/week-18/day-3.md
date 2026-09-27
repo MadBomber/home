@@ -2,8 +2,8 @@
 week: 18
 day: 3
 title: "Flies, Livestock, Boils, Hail"
-reading: "Exodus 8:20-9:35"
-parallel_passages: Exodus 33:16, Romans 9:14-18, Revelation 16:2, 21
+reading:
+- Exodus 8:20-9:35
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -48,15 +48,11 @@ Pharaoh's response to the hail is the most theologically revealing moment in thi
 
 **Old Testament Roots**
 
-The principle of divine distinction -- God separating his people from the surrounding nations -- echoes back to the call of Abraham: "I will bless those who bless you, and him who dishonors you I will curse" (Genesis 12:3). It will continue forward through the wilderness: "What else will distinguish me and your people from every other people on the face of the earth?" Moses asks in Exodus 33:16. The distinction drawn in the plagues is the same distinction drawn at the Red Sea, at Sinai, and ultimately at the cross -- God setting apart a people for himself.
+The principle of divine distinction -- God separating his people from the surrounding nations -- echoes back to the call of Abraham: "I will bless those who bless you, and him who dishonors you I will curse" (Genesis 12:3). It will continue forward through the wilderness: "What else will distinguish me and your people from every other people on the face of the earth?" Moses asks in Exodus 33:16. The distinction drawn in the plagues is the same distinction drawn at the Red Sea, at Sinai, and ultimately at the cross -- God setting apart a people for himself. Job's anguished observation that God "destroys both the blameless and the wicked" (Job 9:22-24) stands in tension with the Exodus distinction, raising the question of when and how God draws the line. Psalm 135:9 remembers the God "who in your midst, O Egypt, sent signs and wonders against Pharaoh and all his servants." Malachi 3:18 promises the distinction again: "Then once more you shall see the distinction between the righteous and the wicked, between one who serves God and one who does not serve him."
 
 **New Testament Echoes**
 
 Paul quotes the plague narrative directly in Romans 9:17: "For the Scripture says to Pharaoh, 'For this very purpose I have raised you up, that I might show my power in you.'" The hardening of Pharaoh's heart -- attributed both to Pharaoh himself (8:32) and to God (9:12) -- becomes Paul's primary Old Testament illustration of divine sovereignty and human responsibility operating simultaneously. The boils reappear in Revelation 16:2, where the first bowl of God's final judgment produces "harmful and painful sores" on those who bear the mark of the beast -- a deliberate echo of the sixth plague.
-
-**Parallel Passages**
-
-Job 9:22-24 -- Job's anguished observation that God "destroys both the blameless and the wicked" stands in tension with the Exodus distinction, raising the question of when and how God draws the line. Psalm 135:8-9 -- "He it was who struck down the firstborn of Egypt... who in your midst, O Egypt, sent signs and wonders against Pharaoh and all his servants." Malachi 3:18 -- "Then once more you shall see the distinction between the righteous and the wicked, between one who serves God and one who does not serve him."
 
 ## Reflection Questions
 

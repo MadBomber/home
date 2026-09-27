@@ -2,8 +2,8 @@
 week: 36
 day: 4
 title: "The Just King -- Dominion from Sea to Sea, Justice for the Poor"
-reading: "Psalm 72"
-parallel_passages: Isaiah 11:1-9, Matthew 2:1-12, Luke 4:18-19, Revelation 11:15
+reading:
+- Psalm 72
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,15 +48,11 @@ The psalm's closing doxology stretches toward cosmic fulfillment: "Blessed be th
 
 **Old Testament Roots**
 
-Genesis 12:3 -- "In you all the families of the earth shall be blessed." Psalm 72:17 echoes this: "May people be blessed in him, all nations call him blessed!" The Abrahamic promise of universal blessing is channeled through the Davidic king. Genesis 15:18 -- the land promise "from the river of Egypt to the great river, the river Euphrates" is expanded in Psalm 72:8 to "from the River to the ends of the earth." Isaiah 11:1-9 -- the Branch from Jesse's stump who judges the poor with righteousness and whose reign restores peace even among animals. Micah 5:2-4 -- the ruler from Bethlehem whose greatness reaches "to the ends of the earth."
+Genesis 12:3 -- "In you all the families of the earth shall be blessed." Psalm 72:17 echoes this: "May people be blessed in him, all nations call him blessed!" The Abrahamic promise of universal blessing is channeled through the Davidic king. Genesis 15:18 -- the land promise "from the river of Egypt to the great river, the river Euphrates" is expanded in Psalm 72:8 to "from the River to the ends of the earth." Isaiah 11:1-9 -- the Branch from Jesse's stump who judges the poor with righteousness and whose reign restores peace even among animals. Micah 5:2-4 -- the ruler from Bethlehem whose greatness reaches "to the ends of the earth." Psalm 2:8 -- "Ask of me, and I will make the nations your heritage." Isaiah 9:6-7 -- the child whose government and peace increase without end, established with justice and righteousness. Isaiah 60:1-6 -- nations and kings come to the light of Zion, bearing gold and frankincense. Zechariah 9:9-10 -- the humble king who speaks peace to the nations and whose dominion extends "from sea to sea."
 
 **New Testament Echoes**
 
 Matthew 2:1-12 -- the Magi bring gifts to the infant king, enacting Psalm 72:10-11. Luke 4:18-21 -- Jesus announces his ministry in terms that fulfill Psalm 72's vision of justice for the poor. Matthew 25:31-46 -- the Son of Man judges the nations based on how they treated "the least of these my brothers." Revelation 11:15 -- "The kingdom of the world has become the kingdom of our Lord and of his Christ." Revelation 21:24 -- "the kings of the earth will bring their glory into" the new Jerusalem.
-
-**Parallel Passages**
-
-Psalm 2:8 -- "Ask of me, and I will make the nations your heritage." Isaiah 9:6-7 -- the child whose government and peace increase without end, established with justice and righteousness. Isaiah 60:1-6 -- nations and kings come to the light of Zion, bearing gold and frankincense. Zechariah 9:9-10 -- the humble king who speaks peace to the nations and whose dominion extends "from sea to sea."
 
 ## Reflection Questions
 

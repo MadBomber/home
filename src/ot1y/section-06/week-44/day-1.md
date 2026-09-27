@@ -2,8 +2,9 @@
 week: 44
 day: 1
 title: "The Faithful Husband"
-reading: "Hosea 1:1-3:5; 11:1-11"
-parallel_passages: Matthew 2:15, Romans 9:25-26, 1 Peter 2:10, Ephesians 5:25-27
+reading:
+- Hosea 1:1-3:5
+- Hosea 11:1-11
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -17,7 +18,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Hosea 1:1-3:5; 11:1-11
+- Hosea 1:1-3:5
+- Hosea 11:1-11
 
 ## Historical Context
 
@@ -49,15 +51,11 @@ Paul also draws on the reversal of the children's names. In Romans 9:25-26, he q
 
 **Old Testament Roots**
 
-God identifies Israel as his "son" in Exodus 4:22 -- "Israel is my firstborn son" -- establishing the parental metaphor Hosea 11 develops. The marriage metaphor for the God-Israel relationship appears in Exodus 34:15-16, Jeremiah 2:2, and Ezekiel 16. The slave-redemption price Hosea pays (3:2) echoes the thirty-shekel valuation of Exodus 21:32 and anticipates the thirty pieces of silver in Zechariah 11:12.
+God identifies Israel as his "son" in Exodus 4:22 -- "Israel is my firstborn son" -- establishing the parental metaphor Hosea 11 develops. The marriage metaphor for the God-Israel relationship appears in Exodus 34:15-16, Jeremiah 2:2, and Ezekiel 16. The slave-redemption price Hosea pays (3:2) echoes the thirty-shekel valuation of Exodus 21:32 and anticipates the thirty pieces of silver in Zechariah 11:12. Jeremiah 3:1-14 develops the unfaithful-wife motif and asks whether a divorced woman who remarries can return to her first husband. Isaiah 54:5-8 promises that the husband who abandoned his wife in anger will gather her back "with great compassion." The Song of Solomon celebrates the love that Hosea mourns and Christ restores.
 
 **New Testament Echoes**
 
 Matthew 2:15 quotes Hosea 11:1 as fulfilled in Christ's return from Egypt. Romans 9:25-26 and 1 Peter 2:10 apply the reversal of Lo-ammi and Lo-ruhamah to the inclusion of the Gentiles. Ephesians 5:25-27 presents Christ as the faithful husband who gave himself for the bride. Revelation 19:7-8 consummates the metaphor: "The marriage of the Lamb has come, and his Bride has made herself ready."
-
-**Parallel Passages**
-
-Jeremiah 3:1-14 develops the unfaithful-wife motif and asks whether a divorced woman who remarries can return to her first husband. Ezekiel 16 tells Jerusalem's story as an unfaithful bride in graphic, extended allegory. Isaiah 54:5-8 promises that the husband who abandoned his wife in anger will gather her back "with great compassion." The Song of Solomon celebrates the love that Hosea mourns and Christ restores.
 
 ## Reflection Questions
 

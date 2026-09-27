@@ -2,8 +2,8 @@
 week: 44
 day: 4
 title: "The Ruler from Bethlehem"
-reading: "Micah 1:1-5:15"
-parallel_passages: Matthew 2:1-6, John 7:42, John 1:1-2, Philippians 2:6-8
+reading:
+- Micah 1:1-5:15
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -51,15 +51,11 @@ The pattern of God working through smallness is not incidental to Micah's theolo
 
 **Old Testament Roots**
 
-Bethlehem is introduced in Genesis 35:19 as the burial place of Rachel, and its significance grows through Ruth (Ruth 1:19; 4:11) and the anointing of David (1 Samuel 16:1-13). The promise of an eternal Davidic ruler originates in 2 Samuel 7:12-16 and is celebrated in Psalm 89:3-4 and Psalm 132:11. Isaiah 9:6-7 describes the coming child-ruler whose "government shall be upon his shoulder" and whose kingdom will have "no end" -- another prophetic voice pressing toward the same figure Micah identifies.
+Bethlehem is introduced in Genesis 35:19 as the burial place of Rachel, and its significance grows through Ruth (Ruth 1:19; 4:11) and the anointing of David (1 Samuel 16:1-13). The promise of an eternal Davidic ruler originates in 2 Samuel 7:12-16 and is celebrated in Psalm 89:3-4 and Psalm 132:11. Isaiah 9:6-7 describes the coming child-ruler whose "government shall be upon his shoulder" and whose kingdom will have "no end" -- another prophetic voice pressing toward the same figure Micah identifies. Isaiah 7:14 names the sign of Immanuel -- God with us -- born of a virgin, and Isaiah 11:1 envisions a shoot from the stump of Jesse -- David's father, a Bethlehemite. Together with Micah 5:2, these prophecies form a composite portrait: the ruler will be born of a woman, in Bethlehem, from David's line, but his nature will exceed every human category. He will be Mighty God. His origins will be eternal. His kingdom will have no end.
 
 **New Testament Echoes**
 
 Matthew 2:1-6 quotes Micah 5:2 as fulfilled in Jesus' birth. John 7:42 records the crowd debating whether the Christ should come from Bethlehem -- "Has not the Scripture said that the Christ comes from the offspring of David, and comes from Bethlehem?" John 1:1-2 provides the theological framework for Micah's claim of eternal origins. Philippians 2:6-8 describes the self-emptying that brings the eternal one into Bethlehem's smallness. Revelation 22:16 -- "I am the root and the descendant of David" -- holds together the paradox Micah identifies: the ruler is both David's descendant (born in Bethlehem) and David's root (from the days of eternity).
-
-**Parallel Passages**
-
-Isaiah 7:14 names the sign of Immanuel -- God with us -- born of a virgin. Isaiah 9:6-7 describes the child who is called "Mighty God, Everlasting Father." Isaiah 11:1 envisions a shoot from the stump of Jesse -- David's father, a Bethlehemite. Together with Micah 5:2, these prophecies form a composite portrait: the ruler will be born of a woman, in Bethlehem, from David's line, but his nature will exceed every human category. He will be Mighty God. His origins will be eternal. His kingdom will have no end.
 
 ## Reflection Questions
 

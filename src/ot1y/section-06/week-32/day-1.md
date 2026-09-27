@@ -2,8 +2,10 @@
 week: 32
 day: 1
 title: "Saul Chosen -- Tall, Handsome, Anointed, and the Spirit Rushes Upon Him"
-reading: "1 Samuel 9:1-10:27"
-parallel_passages: Hebrews 5:1-5, 1 Corinthians 1:26-29, Acts 13:21-22
+reading:
+- 1 Samuel 9:1-10:27
+parallel_passages:
+- Acts 13:21
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -37,7 +39,7 @@ Saul is Israel's first *mashiach* -- anointed one -- and as such he establishes 
 
 The contrast between Saul's selection and Christ's appearance is theologically deliberate. Israel chose Saul because he looked like a king -- tall, handsome, imposing. Paul will later write to the Corinthians about God's counter-principle: "God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; God chose what is low and despised in the world, even things that are not, to bring to nothing things that are" (1 Corinthians 1:27-28). Isaiah's portrait of the Suffering Servant inverts every criterion that made Saul attractive: "He had no form or majesty that we should look at him, and no beauty that we should desire him" (Isaiah 53:2). The king Israel wanted was tall. The King God sent was a carpenter from Nazareth who rode into Jerusalem on a donkey.
 
-Furthermore, where Saul hides among the baggage when called, Jesus sets his face toward Jerusalem (Luke 9:51). Where Saul receives the anointing of kingship but will grasp at the priest's office, Christ is "designated by God a high priest after the order of Melchizedek" (Hebrews 5:10) -- holding both offices legitimately because both were given, not seized. The author of Hebrews is careful to note that "Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, 'You are my Son'" (Hebrews 5:5). Saul's story begins with anointing and ends with rejection. Christ's anointing -- by the Spirit descending like a dove at the Jordan -- inaugurates a kingdom that will never end.
+Furthermore, where Saul hides among the baggage when called, Jesus sets his face toward Jerusalem (Luke 9:51). Saul's first response to Samuel sounds like humility: "Am I not a Benjaminite, from the least of the tribes of Israel? And is not my clan the humblest of all the clans of the tribe of Benjamin?" (1 Samuel 9:21). His kingship, at this point, is received rather than seized -- conferred by a prophet's oil and confirmed by a sacred lot. The author of Hebrews insists on the same principle for Christ: "Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, 'You are my Son'" (Hebrews 5:5). But receiving an office from God is only the beginning. The question every anointed one must answer is whether he will keep receiving his direction from the God who gave it. Christ's anointing -- by the Spirit descending like a dove at the Jordan -- inaugurates a kingdom that will never end.
 
 ## Key Themes
 
@@ -49,7 +51,7 @@ Furthermore, where Saul hides among the baggage when called, Jesus sets his face
 
 **Old Testament Roots**
 
-The anointing of Saul echoes the consecration of Aaron and his sons for priestly service (Exodus 29:7; Leviticus 8:12), but it introduces a new category: the anointed king. Moses had predicted this moment: "When you come to the land... and you say, 'I will set a king over me, like all the nations that are around me'" (Deuteronomy 17:14). The Deuteronomic law of the king specified what such a ruler must and must not do -- conditions Saul will violate almost immediately. The Spirit "rushing upon" Saul recalls the charismatic empowerment of the judges (Judges 3:10; 6:34; 11:29; 14:6), suggesting that at this stage the king functions as another judge -- raised up for deliverance, empowered by the Spirit for a specific task.
+The anointing of Saul echoes the consecration of Aaron and his sons for priestly service (Exodus 29:7; Leviticus 8:12), but it introduces a new category: the anointed king. Moses had predicted this moment: "When you come to the land... and you say, 'I will set a king over me, like all the nations that are around me'" (Deuteronomy 17:14). The Deuteronomic law of the king specified what such a ruler must and must not do -- conditions Saul will violate almost immediately. The Spirit "rushing upon" Saul recalls the charismatic empowerment of the judges (Judges 3:10; 6:34; 11:29; 14:6), suggesting that at this stage the king functions as another judge -- raised up for deliverance, empowered by the Spirit for a specific task. Judges 21:25 ("In those days there was no king in Israel. Everyone did what was right in his own eyes") provides the narrative context for Israel's demand. Psalm 2:2 speaks of the LORD and "his Anointed" (*meshicho*) in terms that transcend any single historical king and find their fulfillment in Christ.
 
 **New Testament Echoes**
 
@@ -57,7 +59,7 @@ Acts 13:21-22 summarizes Saul's reign in a single sentence: "God gave them Saul 
 
 **Parallel Passages**
 
-Judges 21:25 ("In those days there was no king in Israel. Everyone did what was right in his own eyes") provides the narrative context for Israel's demand. Deuteronomy 17:14-20 provides the legal framework for kingship. Psalm 2:2 speaks of the LORD and "his Anointed" (*meshicho*) in terms that transcend any single historical king and find their fulfillment in Christ.
+Acts 13:21 retells this event in Paul's sermon at Pisidian Antioch: "Then they asked for a king, and God gave them Saul the son of Kish, a man of the tribe of Benjamin, for forty years."
 
 ## Reflection Questions
 
@@ -69,4 +71,4 @@ Judges 21:25 ("In those days there was no king in Israel. Everyone did what was 
 
 ## Prayer
 
-Father, you chose Saul and anointed him, and for a moment the Spirit's power made everything look right. But we know where this story leads -- to a king who hides when he should stand, who grasps when he should wait, who performs when he should obey. Teach us not to trust appearances, not to confuse gifting with faithfulness, not to mistake height for heart. We thank you that in the fullness of time you sent your true Anointed One -- not tall by the world's measure, not impressive by the world's standards, but the one on whom your Spirit rested without measure and from whom it would never depart. Shape us into people who do not hide from your calling but walk toward it, even when the cost is high, because we follow a King who set his face toward Jerusalem and did not turn back. In the name of Jesus, your Messiah. Amen.
+Father, you chose Saul and anointed him, and for a moment the Spirit's power made everything look right. But we know how easily a gifted heart can drift -- a king who hides among the baggage when he should stand, a Spirit-filled beginning that guarantees nothing about the end. Teach us not to trust appearances, not to confuse gifting with faithfulness, not to mistake height for heart. We thank you that in the fullness of time you sent your true Anointed One -- not tall by the world's measure, not impressive by the world's standards, but the one on whom your Spirit rested without measure and from whom it would never depart. Shape us into people who do not hide from your calling but walk toward it, even when the cost is high, because we follow a King who set his face toward Jerusalem and did not turn back. In the name of Jesus, your Messiah. Amen.

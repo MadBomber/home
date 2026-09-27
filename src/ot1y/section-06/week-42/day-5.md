@@ -2,8 +2,8 @@
 week: 42
 day: 5
 title: "I Am My Beloved's"
-reading: "Song of Solomon 1:1-8:14"
-parallel_passages: Ephesians 5:25-32, Revelation 19:6-9, Revelation 21:2-4, Hosea 2:14-20
+reading:
+- Song of Solomon 1:1-8:14
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -51,15 +51,11 @@ The final vision of Scripture confirms that the Song is not a digression but a p
 
 **Old Testament Roots**
 
-Genesis 2:23-25 -- the first love poem in Scripture, Adam's exclamation over Eve: "This at last is bone of my bones and flesh of my flesh." The Song restores this Edenic intimacy. Hosea 2:14-20 -- God as the lover who woos Israel back from unfaithfulness: "I will betroth you to me forever." Isaiah 54:5-8 -- "Your Maker is your husband, the LORD of hosts is his name." Ezekiel 16 -- the extended marriage allegory of God and Jerusalem. The prophetic tradition consistently uses marital language for the covenant relationship, and the Song provides its lyrical foundation.
+Genesis 2:23-25 -- the first love poem in Scripture, Adam's exclamation over Eve: "This at last is bone of my bones and flesh of my flesh." The Song restores this Edenic intimacy. Hosea 2:14-20 -- God as the lover who woos Israel back from unfaithfulness: "I will betroth you to me forever." Isaiah 54:5-8 -- "Your Maker is your husband, the LORD of hosts is his name." Ezekiel 16 -- the extended marriage allegory of God and Jerusalem. The prophetic tradition consistently uses marital language for the covenant relationship, and the Song provides its lyrical foundation. Psalm 45 is a royal wedding psalm that the author of Hebrews applies to Christ: "Your throne, O God, is forever and ever" (Hebrews 1:8). Isaiah 62:4-5 carries the same language: "As the bridegroom rejoices over the bride, so shall your God rejoice over you."
 
 **New Testament Echoes**
 
-Ephesians 5:25-32 -- Paul reads the one-flesh union of marriage as a "mystery" that "refers to Christ and the church." Revelation 19:6-9 -- the marriage supper of the Lamb. Revelation 21:2-4 -- the new Jerusalem descending as a bride. John 3:29 -- the Baptist identifies Jesus as the bridegroom. 2 Corinthians 11:2 -- Paul has "betrothed" the Corinthians "to one husband," Christ, and presents them "as a pure virgin."
-
-**Parallel Passages**
-
-Psalm 45 -- a royal wedding psalm that the author of Hebrews applies to Christ: "Your throne, O God, is forever and ever" (Hebrews 1:8). Isaiah 62:4-5 -- "As the bridegroom rejoices over the bride, so shall your God rejoice over you." Hosea 2:16 -- "In that day, declares the LORD, you will call me 'My Husband.'" Matthew 22:1-14 -- the parable of the wedding feast, where the kingdom of heaven is likened to a king who gives a marriage feast for his son.
+Ephesians 5:25-32 -- Paul reads the one-flesh union of marriage as a "mystery" that "refers to Christ and the church." Revelation 19:6-9 -- the marriage supper of the Lamb. Revelation 21:2-4 -- the new Jerusalem descending as a bride. John 3:29 -- the Baptist identifies Jesus as the bridegroom. 2 Corinthians 11:2 -- Paul has "betrothed" the Corinthians "to one husband," Christ, and presents them "as a pure virgin." Matthew 22:1-14 likens the kingdom of heaven to a king who gives a wedding feast for his son.
 
 ## Reflection Questions
 

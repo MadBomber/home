@@ -2,8 +2,8 @@
 week: 11
 day: 4
 title: "Fire Falls -- Sodom Destroyed, Lot's Wife Looks Back"
-reading: "Genesis 19:18-38"
-parallel_passages: Luke 17:32, 2 Peter 3:7-13, Revelation 14:10-11, Deuteronomy 29:23
+reading:
+- Genesis 19:18-38
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -48,15 +48,11 @@ Jesus' warning to "remember Lot's wife" (Luke 17:32) is the shortest and perhaps
 
 **Old Testament Roots**
 
-The destruction of Sodom parallels the flood narrative in Genesis 6-8: total corruption, divine investigation, judgment, and a remnant rescued. The "sulfur and fire" language recurs in Deuteronomy 29:23, where Moses warns Israel that covenant unfaithfulness will make their land "like the overthrow of Sodom and Gomorrah." Isaiah 1:9 declares, "If the LORD of hosts had not left us a few survivors, we should have been like Sodom, and become like Gomorrah." The destruction becomes a fixed reference point for the worst that divine judgment can bring -- and a standard against which Israel's own faithfulness is measured.
+The destruction of Sodom parallels the flood narrative in Genesis 6-8: total corruption, divine investigation, judgment, and a remnant rescued. The "sulfur and fire" language recurs in Deuteronomy 29:23, where Moses warns Israel that covenant unfaithfulness will make their land "like the overthrow of Sodom and Gomorrah." Isaiah 1:9 declares, "If the LORD of hosts had not left us a few survivors, we should have been like Sodom, and become like Gomorrah." The destruction becomes a fixed reference point for the worst that divine judgment can bring -- and a standard against which Israel's own faithfulness is measured. Isaiah 13:19 likewise uses Sodom as a standard of total devastation. Jeremiah 23:14 compares the prophets of Jerusalem to the people of Sodom. Ezekiel 16:49-50 broadens the indictment beyond sexual sin to include pride, excess of food, and neglect of the poor. Amos 4:11 recalls God's overthrow of Sodom as a warning to Israel. The destruction of these cities becomes a lens through which all subsequent judgment is understood.
 
 **New Testament Echoes**
 
 Luke 17:28-32 uses Sodom's destruction as a paradigm for the sudden judgment accompanying Christ's return. 2 Peter 2:6 says God "condemned [Sodom and Gomorrah] to extinction, making them an example of what is going to happen to the ungodly." 2 Peter 3:7-13 extends the image to the final conflagration when the present heavens and earth are destroyed by fire and replaced with "new heavens and a new earth in which righteousness dwells." Revelation 14:10-11 describes the final judgment using the same sulfur-and-fire imagery. And Matthew 1:5 quietly records Ruth the Moabite in the genealogy of Jesus -- the seed of redemption growing from the aftermath of Sodom's destruction.
-
-**Parallel Passages**
-
-Deuteronomy 29:23 and Isaiah 13:19 use Sodom as a standard of total devastation. Jeremiah 23:14 compares the prophets of Jerusalem to the people of Sodom. Ezekiel 16:49-50 broadens the indictment beyond sexual sin to include pride, excess of food, and neglect of the poor. Amos 4:11 recalls God's overthrow of Sodom as a warning to Israel. The destruction of these cities becomes a lens through which all subsequent judgment is understood.
 
 ## Reflection Questions
 

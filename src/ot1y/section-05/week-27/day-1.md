@@ -2,8 +2,13 @@
 week: 27
 day: 1
 title: "Moses Retells the Story"
-reading: "Deuteronomy 1:1-4:43"
-parallel_passages: Acts 7:36-38, Hebrews 3:7-19, Psalm 95:7-11
+reading:
+- Deuteronomy 1:1-4:43
+parallel_passages:
+- Acts 7:36-38
+- Psalm 95:10-11
+- Psalm 136:16-22
+- Nehemiah 9:9-21
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -50,7 +55,7 @@ Stephen, in his final sermon before the Sanhedrin, walks through the same histor
 
 **Old Testament Roots**
 
-Moses' retelling in Deuteronomy 1-3 draws on the narrative of Numbers 13-14 (the spies and the refusal at Kadesh-barnea), Numbers 20:1-13 (Moses' own failure at Meribah), and Numbers 21:21-35 (the victories over Sihon and Og). The command to "remember" (*zakar*) echoes the covenant language of Genesis 9:15 ("I will remember my covenant") and Exodus 2:24 ("God remembered his covenant with Abraham"). The warning against making any graven image (Deuteronomy 4:15-19) reiterates the second commandment of Exodus 20:4-6 while grounding it in the unique character of Sinai's revelation -- a voice without a form.
+Moses' retelling in Deuteronomy 1-3 draws on the narrative of Numbers 13-14 (the spies and the refusal at Kadesh-barnea), Numbers 20:1-13 (Moses' own failure at Meribah), and Numbers 21:21-35 (the victories over Sihon and Og). The command to "remember" (*zakar*) echoes the covenant language of Genesis 9:15 ("I will remember my covenant") and Exodus 2:24 ("God remembered his covenant with Abraham"). The warning against making any graven image (Deuteronomy 4:15-19) reiterates the second commandment of Exodus 20:4-6 while grounding it in the unique character of Sinai's revelation -- a voice without a form. Psalm 78:1-8, the opening of a maskil of Asaph that retells the exodus and wilderness history, gives the same reason for remembering: "We will not hide them from their children, but tell to the coming generation the glorious deeds of the LORD."
 
 **New Testament Echoes**
 
@@ -58,7 +63,7 @@ Hebrews 3:7-4:11 uses the wilderness generation's failure as a sustained warning
 
 **Parallel Passages**
 
-Psalm 78:1-8 -- a maskil of Asaph that retells the exodus and wilderness history as instruction for the next generation: "We will not hide them from their children, but tell to the coming generation the glorious deeds of the LORD." Psalm 136, the Great Hallel, recounts God's mighty acts with the refrain "for his steadfast love endures forever" -- the liturgical expression of the remembrance Moses commands. Nehemiah 9:9-21 retells the same wilderness history in a prayer of confession and praise.
+Stephen's speech in Acts 7:36-38 recounts the same forty years in the wilderness and the congregation at Sinai that Moses rehearses here. Psalm 95:10-11 records in God's own voice the oath Moses recalls in 1:34-35: "For forty years I loathed that generation... Therefore I swore in my wrath, 'They shall not enter my rest.'" Psalm 136:16-22, in the Great Hallel, recounts the wilderness journey and the defeat of Sihon and Og with the refrain "for his steadfast love endures forever" -- the liturgical expression of the remembrance Moses commands. Nehemiah 9:9-21 retells the same wilderness history in a prayer of confession and praise.
 
 ## Reflection Questions
 

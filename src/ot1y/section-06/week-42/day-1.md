@@ -2,8 +2,8 @@
 week: 42
 day: 1
 title: "Wisdom Calls"
-reading: "Proverbs 1:1-9:18"
-parallel_passages: John 1:1-3, Colossians 1:15-17, 1 Corinthians 1:24-30, Colossians 2:3
+reading:
+- Proverbs 1:1-9:18
 section: Davidic Covenant
 tags:
 - covenant-6
@@ -48,15 +48,11 @@ Paul deepens the identification further when he declares that "in him are hidden
 
 **Old Testament Roots**
 
-The personification of Wisdom in Proverbs 8 draws on creation language from Genesis 1 -- the heavens established, the deep, the foundations of the earth. The "fear of the LORD" as the foundation of wisdom echoes Deuteronomy 10:12: "What does the LORD your God require of you, but to fear the LORD your God, to walk in all his ways, to love him?" Job 28 asks the same question Proverbs answers: "Where shall wisdom be found?" -- and concludes, "The fear of the Lord, that is wisdom" (Job 28:28).
+The personification of Wisdom in Proverbs 8 draws on creation language from Genesis 1 -- the heavens established, the deep, the foundations of the earth. The "fear of the LORD" as the foundation of wisdom echoes Deuteronomy 10:12: "What does the LORD your God require of you, but to fear the LORD your God, to walk in all his ways, to love him?" Job 28 asks the same question Proverbs answers: "Where shall wisdom be found?" -- and concludes, "The fear of the Lord, that is wisdom" (Job 28:28). Sirach 24 (deuterocanonical) presents Wisdom's self-praise and her identification with Torah, and Wisdom of Solomon 7-8 (deuterocanonical) calls Wisdom the "fashioner of all things."
 
 **New Testament Echoes**
 
-John 1:1-3 identifies the creative Word with the pre-incarnate Christ, fulfilling the trajectory of Proverbs 8. Paul explicitly names Christ as "the wisdom of God" (1 Corinthians 1:24) and the one in whom "all the treasures of wisdom and knowledge" are hidden (Colossians 2:3). Jesus's invitation in Matthew 11:28 -- "Come to me, all who labor and are heavy laden" -- echoes Wisdom's public call in Proverbs 1:20-23 and 8:1-5.
-
-**Parallel Passages**
-
-Job 28:12-28 -- Wisdom's inaccessibility apart from God. Sirach 24 (deuterocanonical) -- Wisdom's self-praise and identification with Torah. Wisdom of Solomon 7-8 (deuterocanonical) -- Wisdom as the "fashioner of all things." James 1:5 -- "If any of you lacks wisdom, let him ask God." James 3:13-18 -- the two kinds of wisdom, earthly and heavenly, echoing Proverbs 9's two invitations.
+John 1:1-3 identifies the creative Word with the pre-incarnate Christ, fulfilling the trajectory of Proverbs 8. Paul explicitly names Christ as "the wisdom of God" (1 Corinthians 1:24) and the one in whom "all the treasures of wisdom and knowledge" are hidden (Colossians 2:3). Jesus's invitation in Matthew 11:28 -- "Come to me, all who labor and are heavy laden" -- echoes Wisdom's public call in Proverbs 1:20-23 and 8:1-5. James 1:5 invites anyone who lacks wisdom to "ask God," and James 3:13-18 contrasts two kinds of wisdom, earthly and heavenly, echoing Proverbs 9's two invitations.
 
 ## Reflection Questions
 

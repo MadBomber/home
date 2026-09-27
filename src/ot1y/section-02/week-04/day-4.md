@@ -2,8 +2,8 @@
 week: 4
 day: 4
 title: "Enoch Walks with God and Is Not; Noah Is Born with a Prophecy of Rest"
-reading: "Genesis 5:21-32"
-parallel_passages: Hebrews 11:5-6, Jude 14-15, 2 Kings 2:11, 1 Thessalonians 4:17, Matthew 11:28-30, 1 Corinthians 15:51-54, Revelation 21:3-4
+reading:
+- Genesis 5:21-32
 section: Adamic Covenant
 tags:
 - covenant-2
@@ -43,7 +43,7 @@ The name Noah (*Noach*) is related to *nacham* -- "to comfort" or "to bring reli
 
 Enoch and Noah are both types -- anticipatory portraits -- of Christ and of the future he secures.
 
-**Enoch and the defeat of death.** Enoch's translation -- taken by God without dying -- is the first crack in the wall of mortality. It announces, in the middle of the genealogy of death, that death is not the final word for those who walk with God. The author of Hebrews makes this explicit: "By faith Enoch was taken up so that he should not see death, and he was not found, because God had taken him. Now before he was taken he was commended as having pleased God" (Hebrews 11:5).
+**Enoch and the defeat of death.** Enoch's translation -- taken by God without dying -- is the first crack in the wall of mortality. It announces, in the middle of the genealogy of death, that death is not the final word for those who walk with God. Genesis itself offers no explanation beyond the walk: "Enoch walked with God, and he was not, for God took him" (5:24). The New Testament will take up his story (see Day 5), but the Genesis text is already enough. In a chapter where every other life ends at the grave, this one ends in the presence of God.
 
 Enoch's experience will have only one parallel in the Old Testament: Elijah, who was taken up in a chariot of fire (2 Kings 2:11). Both men bypass the grave. Both are exceptions to the universal rule. And both point forward to the one who will break the rule not by bypassing death but by going *through* it and coming out the other side. Jesus does not skip the grave. He enters it -- and exits it. Enoch proves that death is not absolute. Christ proves that death is defeated.
 
@@ -67,15 +67,11 @@ And the cursed ground that Lamech names -- "the ground that the LORD has cursed"
 
 **Old Testament Roots**
 
-Enoch's translation (5:24) is paralleled only by Elijah's ascension (2 Kings 2:11). Both men are taken by God without dying. The tradition developed that both would return before the end -- Malachi 4:5 promises Elijah's return, and Jewish tradition associated Enoch with eschatological prophecy (see Day 5, Jude 14-15). The curse on the ground (5:29, echoing 3:17-19) connects to every subsequent description of creation's bondage (Isaiah 24:4-6; Romans 8:19-22). Noah's name and the prophecy attached to it connect to the flood narrative of Genesis 6-9 and to the Noahic covenant.
+Enoch's translation (5:24) is paralleled only by Elijah's ascension (2 Kings 2:11). Both men are taken by God without dying. The tradition developed that both would return before the end -- Malachi 4:5 promises Elijah's return, and Jewish tradition associated Enoch with eschatological prophecy (see Day 5, Jude 14-15). The curse on the ground (5:29, echoing 3:17-19) connects to every subsequent description of creation's bondage (Isaiah 24:4-6; Romans 8:19-22). Noah's name and the prophecy attached to it connect to the flood narrative of Genesis 6-9 and to the Noahic covenant. Enoch "walking with God" (5:24) is matched by Noah "walking with God" (Genesis 6:9) and Abraham "walking before God" (Genesis 17:1). Lamech's prophecy of relief (5:29) looks ahead to Isaiah's prophecy of the child (Isaiah 9:6-7).
 
 **New Testament Echoes**
 
-Hebrews 11:5-6 -- Enoch taken by faith, pleasing God, proving that death is not necessary for those who walk with God. 1 Corinthians 15:51-54 -- the transformation of the living and the resurrection of the dead at Christ's return. 1 Thessalonians 4:16-17 -- the "catching up" of believers echoes Enoch's translation. Matthew 11:28-30 -- Christ as the fulfillment of Lamech's prophecy of rest. Revelation 22:3 -- "No longer will there be anything accursed," the final answer to Genesis 3:17 and 5:29.
-
-**Parallel Passages**
-
-Compare Enoch "walking with God" (5:24) with Noah "walking with God" (6:9) and with Abraham "walking before God" (17:1). Compare Lamech's prophecy of relief (5:29) with Isaiah's prophecy of the child (9:6-7) and with Jesus' invitation to rest (Matthew 11:28). Compare "God took him" (5:24) with "he was caught up to God and to his throne" (Revelation 12:5) -- the child who escapes death.
+Hebrews 11:5-6 -- Enoch taken by faith, pleasing God, proving that death is not necessary for those who walk with God. 1 Corinthians 15:51-54 -- the transformation of the living and the resurrection of the dead at Christ's return. 1 Thessalonians 4:16-17 -- the "catching up" of believers echoes Enoch's translation. Matthew 11:28-30 -- Christ as the fulfillment of Lamech's prophecy of rest. Revelation 22:3 -- "No longer will there be anything accursed," the final answer to Genesis 3:17 and 5:29. "God took him" (5:24) finds an echo in the child who escapes death: "her child was caught up to God and to his throne" (Revelation 12:5).
 
 ## Reflection Questions
 

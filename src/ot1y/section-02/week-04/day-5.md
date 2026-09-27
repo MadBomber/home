@@ -2,8 +2,9 @@
 week: 4
 day: 5
 title: "The NT Opens Genesis 4-5 -- Abel's Faith, Enoch's Translation, the Judgment to Come"
-reading: "Jude 14-15; Hebrews 11:4-6"
-parallel_passages: Hebrews 12:24, Genesis 4:4-10, Genesis 5:24, 1 Enoch 1:9, Romans 1:17, Romans 5:1, John 5:28-29, Revelation 20:11-15
+reading:
+- Jude 14-15
+- Hebrews 11:4-6
 section: Adamic Covenant
 tags:
 - covenant-2
@@ -19,7 +20,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Jude 14-15; Hebrews 11:4-6
+- Jude 14-15
+- Hebrews 11:4-6
 
 ## Historical Context
 
@@ -77,11 +79,7 @@ Hebrews 11:4 interprets Genesis 4:4 (Abel's offering) through the lens of faith.
 
 **New Testament Echoes**
 
-Hebrews 12:24 -- Christ's blood speaks a better word than Abel's. Romans 1:17; 5:1 -- justification by faith, the principle Hebrews 11:6 establishes. John 5:28-29 -- "An hour is coming when all who are in the tombs will hear his voice and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment." Matthew 25:31-32 -- the Son of Man coming in glory to judge all nations. Revelation 20:11-15 -- the final judgment, the fulfillment of Enoch's prophecy.
-
-**Parallel Passages**
-
-Compare Hebrews 11:4 (Abel's faith) with Hebrews 11:17 (Abraham's faith at the Aqedah) -- both offer something precious, trusting God. Compare Enoch's translation (Hebrews 11:5) with Elijah's (2 Kings 2:11) and with Christ's ascension (Acts 1:9) -- three departures from earth, each escalating in significance. Compare Jude 14-15 with 2 Peter 2:4-9, where the same antediluvian examples are used to warn of coming judgment.
+Hebrews 12:24 -- Christ's blood speaks a better word than Abel's. Romans 1:17; 5:1 -- justification by faith, the principle Hebrews 11:6 establishes. John 5:28-29 -- "An hour is coming when all who are in the tombs will hear his voice and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment." Matthew 25:31-32 -- the Son of Man coming in glory to judge all nations. Revelation 20:11-15 -- the final judgment, the fulfillment of Enoch's prophecy. Abel's faith (Hebrews 11:4) is matched by Abraham's at the Aqedah (Hebrews 11:17) -- both offer something precious, trusting God. Enoch's translation (Hebrews 11:5), Elijah's (2 Kings 2:11), and Christ's ascension (Acts 1:9) are three departures from earth, each escalating in significance. 2 Peter 2:4-9 draws on the same antediluvian world as Jude 14-15 to warn of coming judgment.
 
 ## Reflection Questions
 

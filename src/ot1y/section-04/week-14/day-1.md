@@ -2,8 +2,8 @@
 week: 14
 day: 1
 title: "Flight and Bethel -- The Ladder, the Promise, and the Gate of Heaven"
-reading: "Genesis 27:41-28:22"
-parallel_passages: John 1:51, Hebrews 10:19-22, John 14:6, Genesis 12:1-3
+reading:
+- Genesis 27:41-28:22
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -48,15 +48,11 @@ There is a further Christological layer in the grace of the Bethel encounter. Go
 
 **Old Testament Roots**
 
-The Abrahamic covenant spoken at Bethel (Genesis 28:13-15) repeats the promises first given to Abraham in Genesis 12:1-3 and confirmed in Genesis 15 and 17. The phrase "in you and your offspring shall all the families of the earth be blessed" ties Jacob directly into the line of universal blessing. Abraham built an altar at Bethel (Genesis 12:8); Jacob now consecrates the same site with a pillar. The location becomes a hinge point in the patriarchal narrative -- a place where God repeatedly breaks into human history to reaffirm his covenant.
+The Abrahamic covenant spoken at Bethel (Genesis 28:13-15) repeats the promises first given to Abraham in Genesis 12:1-3 and confirmed in Genesis 15 and 17. The phrase "in you and your offspring shall all the families of the earth be blessed" ties Jacob directly into the line of universal blessing. Abraham built an altar at Bethel (Genesis 12:8); Jacob now consecrates the same site with a pillar. The location becomes a hinge point in the patriarchal narrative -- a place where God repeatedly breaks into human history to reaffirm his covenant. Psalm 91:11 -- "For he will command his angels concerning you to guard you in all your ways" -- resonates with the angelic traffic on the ladder. Isaiah 64:1 -- "Oh that you would rend the heavens and come down" -- voices the longing for the kind of divine descent that Bethel previewed and the incarnation fulfilled. Genesis 35:1-15 records Jacob's return to Bethel, where God confirms the name change and the covenant promise.
 
 **New Testament Echoes**
 
 John 1:51 is the definitive New Testament interpretation of Jacob's ladder: Christ himself is the connection between heaven and earth. Hebrews 10:19-22 identifies Christ's flesh as the "new and living way" into the holy places -- the permanent gate of heaven. Romans 5:8 articulates the pattern of grace seen at Bethel: God acts toward sinners before they repent. Ephesians 2:4-5 echoes the same: "But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ."
-
-**Parallel Passages**
-
-Psalm 91:11 -- "For he will command his angels concerning you to guard you in all your ways" -- resonates with the angelic traffic on the ladder. Isaiah 64:1 -- "Oh that you would rend the heavens and come down" -- voices the longing for the kind of divine descent that Bethel previewed and the incarnation fulfilled. Genesis 35:1-15 records Jacob's return to Bethel, where God confirms the name change and the covenant promise.
 
 ## Reflection Questions
 

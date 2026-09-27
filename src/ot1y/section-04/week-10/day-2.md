@@ -2,8 +2,10 @@
 week: 10
 day: 2
 title: "The Covenant Ceremony -- God Alone Passes Between the Pieces"
-reading: "Genesis 15:7-21"
-parallel_passages: Jeremiah 34:18-20, Hebrews 6:13-20, Matthew 26:26-28, Luke 22:20
+reading:
+- Genesis 15:7-21
+parallel_passages:
+- Psalm 105:8-11
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -48,7 +50,7 @@ The author of Hebrews draws this connection explicitly. "When God made a promise
 
 **Old Testament Roots**
 
-The *tardemah* (deep sleep) that falls on Abram is the same word used in Genesis 2:21 when God put Adam to sleep to create Eve. In both cases, God performs a decisive, unilateral act while the human partner is unconscious. From Adam's side came a bride; from Abram's sleep came a covenant. The pattern suggests that God's most foundational creative acts happen not through human effort but through human surrender. The fire and smoke of God's presence in Genesis 15:17 anticipate the theophany at Sinai (Exodus 19:18), the pillar of fire in the wilderness (Exodus 13:21-22), and the glory that fills the tabernacle (Exodus 40:34-38).
+The *tardemah* (deep sleep) that falls on Abram is the same word used in Genesis 2:21 when God put Adam to sleep to create Eve. In both cases, God performs a decisive, unilateral act while the human partner is unconscious. From Adam's side came a bride; from Abram's sleep came a covenant. The pattern suggests that God's most foundational creative acts happen not through human effort but through human surrender. The fire and smoke of God's presence in Genesis 15:17 anticipate the theophany at Sinai (Exodus 19:18), the pillar of fire in the wilderness (Exodus 13:21-22), and the glory that fills the tabernacle (Exodus 40:34-38). Jeremiah 34:18-20 describes God's judgment on those who violated a covenant ceremony involving divided animals -- confirming that the self-maledictory form of Genesis 15 was still practiced and understood centuries later. Isaiah 53:5 -- "he was pierced for our transgressions; he was crushed for our iniquities" -- describes the covenant curse falling on the Servant who bears it in the place of the covenant-breakers.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Matthew 26:28 and Luke 22:20 record Jesus identifying his blood as "the blood of
 
 **Parallel Passages**
 
-Jeremiah 34:18-20 describes God's judgment on those who violated a covenant ceremony involving divided animals -- confirming that the self-maledictory form of Genesis 15 was still practiced and understood centuries later. Psalm 105:8-11 celebrates the covenant with Abraham as an "everlasting covenant," sworn to Isaac and confirmed to Jacob. Isaiah 53:5 -- "he was pierced for our transgressions; he was crushed for our iniquities" -- describes the covenant curse falling on the Servant who bears it in the place of the covenant-breakers.
+Psalm 105:8-11 celebrates the covenant with Abraham as an "everlasting covenant," sworn to Isaac and confirmed to Jacob, and its words "To you I will give the land of Canaan" (Psalm 105:11) recall the land the LORD granted by covenant on this day (15:18).
 
 ## Reflection Questions
 

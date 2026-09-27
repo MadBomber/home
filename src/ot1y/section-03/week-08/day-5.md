@@ -2,8 +2,13 @@
 week: 8
 day: 5
 title: "Terah's Family in Ur -- And Paul's Declaration That God Made Every Nation from One Man"
-reading: "Genesis 11:27-32; Acts 17:26-27"
-parallel_passages: Joshua 24:2-3, Isaiah 51:1-2, Acts 7:2-4, Hebrews 11:8-10, John 8:56
+reading:
+- Genesis 11:27-32
+- Acts 17:26-27
+parallel_passages:
+- Joshua 24:2-3
+- Acts 7:2-4
+- Nehemiah 9:7
 section: Noahic Covenant
 tags:
 - covenant-3
@@ -19,7 +24,8 @@ study_slug: ot1y
 
 ## Reading
 
-- Genesis 11:27-32; Acts 17:26-27
+- Genesis 11:27-32
+- Acts 17:26-27
 
 ## Historical Context
 
@@ -53,7 +59,7 @@ Paul's declaration in Athens -- that God made every nation from one man and set 
 
 **Old Testament Roots**
 
-Joshua 24:2-3 provides the crucial detail that Terah's family worshiped other gods in Ur, establishing that Abram's call was purely gracious. Isaiah 51:1-2 instructs Israel to "look to the rock from which you were hewn... look to Abraham your father and to Sarah who bore you; for he was but one when I called him, that I might bless him and multiply him." The image of being hewn from rock echoes the barrenness of Sarah and the impossibility from which Israel emerged. Genesis 12:1-3 -- the call of Abram -- is the immediate continuation of this passage and the answer to everything the primeval history has left unresolved.
+Joshua 24:2-3 provides the crucial detail that Terah's family worshiped other gods in Ur, establishing that Abram's call was purely gracious. Isaiah 51:1-2 instructs Israel to "look to the rock from which you were hewn... look to Abraham your father and to Sarah who bore you; for he was but one when I called him, that I might bless him and multiply him." The image of being hewn from rock echoes the barrenness of Sarah and the impossibility from which Israel emerged. Genesis 12:1-3 -- the call of Abram -- is the immediate continuation of this passage and the answer to everything the primeval history has left unresolved. Isaiah 41:8-9 calls Israel "offspring of Abraham, my friend... whom I took from the ends of the earth" -- a reminder that the call to leave Ur was a call from the ends of the earth, from the farthest reaches of paganism, into the purposes of God.
 
 **New Testament Echoes**
 
@@ -61,7 +67,7 @@ Acts 7:2-4 recounts Stephen's retelling of Abram's call, emphasizing that "the G
 
 **Parallel Passages**
 
-Nehemiah 9:7 recalls that God "chose Abram and brought him out of Ur of the Chaldeans." The emphasis on divine initiative -- God chose, God brought -- mirrors the grammar of Genesis 11:31 and its continuation in 12:1. Isaiah 41:8-9 calls Israel "offspring of Abraham, my friend... whom I took from the ends of the earth" -- a reminder that the call to leave Ur was a call from the ends of the earth, from the farthest reaches of paganism, into the purposes of God.
+Joshua 24:2-3 tells the same story from the other end of Israel's history: "your fathers lived beyond the Euphrates, Terah, the father of Abraham and of Nahor; and they served other gods," until God took Abraham "from beyond the River." Stephen retells it in Acts 7:2-4: Abraham "went out from the land of the Chaldeans and lived in Haran," and moved on "after his father died." Nehemiah 9:7 recalls that God "chose Abram and brought him out of Ur of the Chaldeans." The emphasis on divine initiative -- God chose, God brought -- mirrors the grammar of Genesis 11:31 and its continuation in 12:1.
 
 ## Reflection Questions
 

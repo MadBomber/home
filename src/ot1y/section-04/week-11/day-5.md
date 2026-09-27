@@ -2,8 +2,10 @@
 week: 11
 day: 5
 title: "Abraham Lies Again -- The Same Failure, the Same Faithful God"
-reading: "Genesis 20:1-18"
-parallel_passages: Genesis 12:10-20, Romans 9:16, 2 Timothy 2:13, Psalm 105:14-15
+reading:
+- Genesis 20:1-18
+parallel_passages:
+- Psalm 105:14-15
 section: Abrahamic Covenant
 tags:
 - covenant-4
@@ -34,7 +36,7 @@ The chapter concludes with an extraordinary reversal: Abraham, the liar, is iden
 
 The juxtaposition of Abraham's bold intercession in Genesis 18 with his craven deception in Genesis 20 is one of the most theologically significant contrasts in the entire patriarchal narrative, and it points directly to the necessity of Christ. The same man who held God to his own justice and bargained for the preservation of a city cannot trust God to protect his own wife in a foreign court. The intercessor becomes the liar. The man of faith becomes the man of fear. And the covenant -- the promise of a son, a nation, a blessing to all families of the earth -- hangs by a thread because the covenant bearer has placed the promise-bearing woman in another man's household. If the promise depends on Abraham's consistency, it fails here. The entire Abrahamic narrative is designed to make this point: the covenant rests on God's faithfulness, not on the faithfulness of the one who carries it. Paul distills this principle in a single sentence: "It depends not on human will or exertion, but on God, who has mercy" (Romans 9:16).
 
-This is the logic of the gospel. The promise of salvation does not depend on the consistency of those who receive it. It depends on the consistency of the one who gives it. Paul, writing to Timothy, will later declare: "If we are faithless, he remains faithful -- for he cannot deny himself" (2 Timothy 2:13). Abraham's repeated failure is not a contradiction of the covenant; it is the condition under which the covenant operates. God chose a man who would lie, waver, and compromise -- and he kept his promise anyway. He protected Sarah anyway. He preserved the line anyway. The child was born anyway. The pattern is the same pattern that runs through the entire Bible and reaches its climax in Christ: God accomplishes his purposes through flawed, inconsistent, sometimes cowardly people, not because their failures do not matter but because his faithfulness is greater than their failures. The genealogy of Jesus passes through Abraham the liar, through Jacob the deceiver, through Judah who slept with his daughter-in-law, through David the adulterer and murderer -- and none of these failures prevented the Son of God from arriving on schedule. Grace is not the reward for consistency. Grace is the power that carries inconsistency toward God's intended end.
+This is the logic of the gospel. The promise of salvation does not depend on the consistency of those who receive it. It depends on the consistency of the one who gives it. Paul, writing to Timothy, will later declare: "If we are faithless, he remains faithful -- for he cannot deny himself" (2 Timothy 2:13). Abraham's repeated failure is not a contradiction of the covenant; it is the condition under which the covenant operates. God chose a man who would lie, waver, and compromise -- and he kept his promise anyway. He protected Sarah anyway. He preserved the line anyway. The pattern is the same pattern that runs through the entire Bible and reaches its climax in Christ: God accomplishes his purposes through flawed, inconsistent, sometimes cowardly people, not because their failures do not matter but because his faithfulness is greater than their failures. The genealogy of Jesus passes through Abraham the liar, through Jacob the deceiver, through Judah who slept with his daughter-in-law, through David the adulterer and murderer -- and none of these failures prevented the Son of God from arriving on schedule. Grace is not the reward for consistency. Grace is the power that carries inconsistency toward God's intended end.
 
 The identification of Abraham as a *navi'* (prophet) in this passage -- even at the moment of his greatest moral failure -- anticipates the ultimate prophet whose intercession will not be compromised by sin. Abraham prays for Abimelech, and Abimelech is healed. But Abraham's prophetic ministry is shadowed by his own unfaithfulness. Christ, the prophet like Moses whom God promised to raise up (Deuteronomy 18:15), intercedes without the shadow of compromise. His prayer in John 17 -- "I am praying for them... Holy Father, keep them in your name" -- is the prayer of a prophet who has never lied, never wavered, never placed the promise at risk through cowardice. Abraham's prophetic intercession in Genesis 20 works despite Abraham. Christ's prophetic intercession works because of who Christ is. The flawed prophet of Gerar points forward to the sinless prophet of Galilee, and the gap between them is the gap the cross was designed to close.
 
@@ -48,7 +50,7 @@ The identification of Abraham as a *navi'* (prophet) in this passage -- even at 
 
 **Old Testament Roots**
 
-Genesis 20 deliberately echoes Genesis 12:10-20, where Abraham told the same lie to Pharaoh in Egypt. The repetition is not narrative carelessness -- it is theological commentary. The man who has grown in faith, who has believed God's promise and received the covenant of circumcision, returns to the same pattern of deception. Psalm 105:14-15 reflects on these episodes: "He allowed no one to oppress them; he rebuked kings on their account, saying, 'Touch not my anointed ones, do my prophets no harm!'" The psalmist attributes Abraham's protection not to Abraham's strategy but to God's sovereign defense of his covenant servants.
+Genesis 20 deliberately echoes Genesis 12:10-20, where Abraham told the same lie to Pharaoh in Egypt. The repetition is not narrative carelessness -- it is theological commentary. The man who has grown in faith, who has believed God's promise and received the covenant of circumcision, returns to the same pattern of deception. Psalm 105:14-15 reflects on these episodes: "He allowed no one to oppress them; he rebuked kings on their account, saying, 'Touch not my anointed ones, do my prophets no harm!'" The psalmist attributes Abraham's protection not to Abraham's strategy but to God's sovereign defense of his covenant servants. Genesis 26:1-11 records Isaac repeating the same deception with the same dynasty in the same region -- the sins of the father visited on the son in pattern if not in penalty. Jeremiah 17:9 -- "The heart is deceitful above all things, and desperately sick; who can understand it?" -- provides prophetic commentary on the kind of moral inconsistency Abraham's repeated failure reveals.
 
 **New Testament Echoes**
 
@@ -56,7 +58,7 @@ Romans 9:16 -- "It depends not on human will or exertion, but on God, who has me
 
 **Parallel Passages**
 
-Genesis 26:1-11 records Isaac repeating the same deception with the same dynasty in the same region -- the sins of the father visited on the son in pattern if not in penalty. Genesis 12:10-20 is the direct parallel, establishing the pattern that Genesis 20 repeats. Jeremiah 17:9 -- "The heart is deceitful above all things, and desperately sick; who can understand it?" -- provides prophetic commentary on the kind of moral inconsistency Abraham's repeated failure reveals.
+Psalm 105:14-15 retells the LORD's protection of the wandering patriarchs, and Abimelech is among the kings it says he "rebuked" on their account. The psalm's "do my prophets no harm" (Psalm 105:15) matches God's own word to Abimelech that Abraham "is a prophet" (20:7) -- the only place Genesis gives him that title.
 
 ## Reflection Questions
 

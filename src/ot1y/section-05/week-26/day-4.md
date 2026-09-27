@@ -2,8 +2,12 @@
 week: 26
 day: 4
 title: "Balaam -- The Prophet Who Cannot Curse What God Has Blessed"
-reading: "Numbers 22:1-24:25"
-parallel_passages: Romans 8:31-39, Matthew 2:1-12, Revelation 22:16, 2 Peter 2:15-16
+reading:
+- Numbers 22:1-24:25
+parallel_passages:
+- Micah 6:5
+- Deuteronomy 23:4-5
+- Joshua 24:9-10
 section: Mosaic Covenant
 tags:
 - covenant-5
@@ -22,7 +26,7 @@ study_slug: ot1y
 
 The Balaam narrative is unlike anything else in the Torah. For three chapters, the camera leaves the Israelite camp entirely and follows a foreign prophet, a Moabite king, and a donkey through a sequence that moves from dark comedy to some of the most exalted prophetic poetry in the Hebrew Bible. Balak, son of Zippor, king of Moab, has watched Israel destroy the Amorite kingdoms of Sihon and Og and is terrified. He sends messengers to Balaam son of Beor, a *qosem* (diviner) from Pethor, a city on the Euphrates in northern Mesopotamia. The distance is significant: Balak is summoning the ancient Near East's most renowned spiritual technician from hundreds of miles away, because local resources are insufficient to deal with Israel's God.
 
-Balaam's reputation in the ancient world is now attested outside the Bible. In 1967, archaeologists discovered a plaster inscription at Deir Alla in the Jordan Valley -- dating to approximately 840 BC -- that identifies "Balaam son of Beor" as a "seer of the gods" (*chozeh 'elahin*). The inscription describes a vision of divine judgment and cosmic upheaval, confirming that Balaam was remembered in the broader ancient Near Eastern world as a genuine prophetic figure, not a fictional invention. The biblical text treats him with the same ambiguity: Balaam genuinely hears from God, genuinely speaks God's words, and yet is later condemned for counsel that leads Israel into idolatry and sexual sin (Numbers 31:16; Revelation 2:14). He is a prophet who speaks truth and a man whose heart is set on profit -- a combination the New Testament finds paradigmatic of false teachers.
+Balaam's reputation in the ancient world is now attested outside the Bible. In 1967, archaeologists discovered a plaster inscription at Deir Alla in the Jordan Valley -- dating to approximately 840 BC -- that identifies "Balaam son of Beor" as a "seer of the gods" (*chozeh 'elahin*). The inscription describes a vision of divine judgment and cosmic upheaval, confirming that Balaam was remembered in the broader ancient Near Eastern world as a genuine prophetic figure, not a fictional invention. The biblical text treats him with the same ambiguity: Balaam genuinely hears from God and genuinely speaks God's words, yet he sets out for Moab against God's evident displeasure -- "God's anger was kindled because he went" (Numbers 22:22) -- and the New Testament remembers him as the man "who loved gain from wrongdoing" (2 Peter 2:15). He is a prophet who speaks truth and a man whose heart is set on profit -- a combination the New Testament finds paradigmatic of false teachers.
 
 The narrative structure is built on a pattern of threes. Three times Balak sends messengers (Numbers 22:5, 15, 37). Three times the donkey sees the angel of the LORD and turns aside, while Balaam -- the professional seer -- sees nothing. Three times Balak positions Balaam on a hilltop overlooking the Israelite camp and commands a curse. Three times God puts blessing on Balaam's lips instead. The number three in Hebrew narrative signals completeness and divine testimony (cf. Deuteronomy 19:15). Balak has exhausted every attempt. The verdict is final.
 
@@ -36,13 +40,13 @@ Balaam's fourth oracle -- "A star shall come out of Jacob, and a scepter shall r
 
 The principle that governs the entire Balaam narrative -- that what God has blessed, no human power can curse -- is the foundation of Paul's most triumphant passage: "If God is for us, who can be against us?... Who shall bring any charge against God's elect?... Who shall separate us from the love of Christ?" (Romans 8:31, 33, 35). Balak assembled every resource available to the ancient world to overturn God's blessing on Israel: money, diplomatic pressure, a renowned prophet, and the sorcery of three hilltop rituals. Every attempt failed, because the blessing was not contingent on Israel's merit but on God's word. Paul's argument in Romans 8 operates on the same logic. The security of the believer does not rest on the believer's performance but on God's determination. No accusation, no power, no principality can separate the beloved from the love of God in Christ Jesus -- not because the beloved is invulnerable but because the God who spoke the blessing is not a man who lies or a son of man who changes his mind.
 
-Balaam himself stands as a haunting figure who illuminates Christ by contrast. He speaks God's words truly but does not obey them personally. He prophesies blessing but later counsels Israel's seduction at Baal Peor (Numbers 31:16). He sees the star but does not follow it. Peter identifies him as the archetype of those who "have eyes full of adultery... They have followed the way of Balaam, the son of Beor, who loved gain from wrongdoing" (2 Peter 2:14-15). Balaam's donkey, Peter adds with dry wit, "restrained the prophet's madness" (2 Peter 2:16). Christ, by contrast, is the prophet who not only speaks God's word but *is* God's word -- the one who does not merely announce the star but embodies it, who does not merely prophesy the scepter but wields it. Balaam saw from a distance what Christ is up close. The prophet pointed to a king. The king has come.
+Balaam himself stands as a haunting figure who illuminates Christ by contrast. He speaks God's words truly but does not obey them personally. He prophesies blessing, yet after God has told him plainly, "You shall not go with them" (Numbers 22:12), he keeps Balak's second, richer embassy overnight "that I may know what more the LORD will say to me" (22:19). He sees the star but does not follow it. Peter identifies him as the archetype of those who "have eyes full of adultery... They have followed the way of Balaam, the son of Beor, who loved gain from wrongdoing" (2 Peter 2:14-15). Balaam's donkey, Peter adds with dry wit, "restrained the prophet's madness" (2 Peter 2:16). Christ, by contrast, is the prophet who not only speaks God's word but *is* God's word -- the one who does not merely announce the star but embodies it, who does not merely prophesy the scepter but wields it. Balaam saw from a distance what Christ is up close. The prophet pointed to a king. The king has come.
 
 ## Key Themes
 
 - **The sovereignty of the divine word** -- No human arrangement -- no money, no sorcery, no diplomatic pressure -- can overturn what God has spoken. Balaam's inability to curse what God has blessed is not a failure of technique but a demonstration of divine sovereignty over all human speech and intention.
 - **The star and the scepter** -- Balaam's messianic prophecy combines celestial and royal imagery to describe a figure who transcends the immediate historical moment. The star that rises from Jacob is both a heavenly sign and a royal person -- light and authority united in a single figure who will not appear for centuries.
-- **The paradox of Balaam** -- A pagan prophet speaks God's truth more clearly than many Israelites, yet his heart is set on profit and his counsel will lead Israel into sin. The narrative warns that right speech without right worship is spiritually fatal -- that one can prophesy accurately and still be lost.
+- **The paradox of Balaam** -- A pagan prophet speaks God's truth more clearly than many Israelites, yet his heart is set on profit, and he keeps going back to God in hope of a different answer. The narrative warns that right speech without right worship is spiritually fatal -- that one can prophesy accurately and still be lost.
 
 ## Connections
 
