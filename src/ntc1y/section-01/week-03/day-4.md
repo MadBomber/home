@@ -54,10 +54,9 @@ The chapter's second half features John the Baptist's last major testimony. His 
 
 ## Reflection Questions
 
-1. Nicodemus came to Jesus with genuine questions but deep misunderstanding. What assumptions about God might you need to set aside in order to hear what Jesus is actually saying?
-2. Being "born from above" means the new life is entirely God's initiative. How does this challenge any tendency to earn or manufacture spiritual transformation through religious performance?
-3. John 3:16-17 reveals that God's posture toward the world is love, not condemnation. How does this shape your understanding of God's heart -- and how you should relate to the people around you?
-4. John the Baptist said, "He must increase, but I must decrease." Where in your life is God calling you to step aside so that Christ can be more visible?
+1. Being "born from above" means the new life is entirely God's initiative. How does this challenge any tendency to earn or manufacture spiritual transformation through religious performance?
+2. John 3:16-17 reveals that God's posture toward the world is love, not condemnation. How does this shape your understanding of God's heart -- and how you should relate to the people around you?
+3. John the Baptist said, "He must increase, but I must decrease." Where in your life is God calling you to step aside so that Christ can be more visible?
 
 ## Prayer
 

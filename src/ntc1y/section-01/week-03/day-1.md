@@ -58,7 +58,6 @@ The passage also demonstrates a deliberate escalating structure in the temptatio
 1. Jesus answered every temptation with Scripture. What does this reveal about the role of God's Word in resisting temptation? How well-equipped are you to respond to spiritual testing with specific biblical truth?
 2. The temptations targeted legitimate desires -- food when hungry, authority that was rightfully his, the Father's protection. How does Satan use legitimate desires to lure us toward illegitimate means?
 3. Luke says the devil left "until an opportune time." What does this teach about the ongoing nature of spiritual warfare? Are there seasons in your life when you are more vulnerable to temptation?
-4. Jesus succeeded where Israel failed. How does his victory in the wilderness give you confidence in your own struggles? (See Hebrews 4:15-16.)
 
 ## Prayer
 

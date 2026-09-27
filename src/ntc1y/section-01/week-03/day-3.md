@@ -59,7 +59,6 @@ John 2:23-25 forms a bridge to the Nicodemus encounter. Many believed "when they
 1. The water-to-wine sign reveals that Jesus brings extravagant abundance. Where in your life are you settling for the "water" of religious routine when Jesus offers the "wine" of transforming grace?
 2. Jesus cleansed the Temple because worship had become commercialized and corrupted. What "tables" might need to be overturned in your own approach to worship or church life?
 3. Jesus' body is the true Temple -- the place where God dwells. How does this change your understanding of what it means to encounter God's presence? (See also 1 Corinthians 6:19.)
-4. The chapter ends by noting that Jesus knew what was in the human heart. How does it feel to know that Jesus sees you completely and still chose to come for you?
 
 ## Prayer
 

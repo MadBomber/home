@@ -64,7 +64,6 @@ John structures this section with a series of "the next day" markers (1:29, 35, 
 1. John the Baptist consistently pointed away from himself toward Jesus. What does his example teach about the proper posture of Christian witness and leadership?
 2. The first disciples came to Jesus through personal testimony -- "Come and see." Who first invited you to encounter Jesus? Who might God be calling you to invite?
 3. Jesus renamed Simon "Cephas/Peter" before Peter had done anything to earn it. What does it mean that God names us according to what he is making us, not what we currently are?
-4. Nathanael's skepticism ("Can anything good come from Nazareth?") was overcome by a personal encounter with Jesus. What prejudices or preconceptions might be keeping you from seeing where God is at work?
 
 ## Prayer
 

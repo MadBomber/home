@@ -56,9 +56,8 @@ The chapter concludes with Jesus' return to Cana and the healing of a royal offi
 ## Reflection Questions
 
 1. Jesus crossed every social barrier to reach the Samaritan woman -- ethnic, religious, gender, and moral. Who are the "Samaritans" in your context that you might be avoiding? What would it look like to cross those barriers?
-2. The woman's conversation with Jesus moved from surface-level misunderstanding to deep theological discussion to personal transformation. How has your own understanding of Jesus deepened over time?
-3. Jesus said true worship is "in spirit and truth," not bound to a location. How does this challenge or encourage your understanding of what authentic worship looks like?
-4. The royal official had to trust Jesus' word before seeing the result. Where is God asking you to take him at his word before you see the evidence?
+2. Jesus said true worship is "in spirit and truth," not bound to a location. How does this challenge or encourage your understanding of what authentic worship looks like?
+3. The royal official had to trust Jesus' word before seeing the result. Where is God asking you to take him at his word before you see the evidence?
 
 ## Prayer
 
