@@ -51,7 +51,7 @@ Matthew alone records Peter's attempt to walk on the water. Peter's request -- "
 ## Reflection Questions
 
 1. Compare Herod's response to John's preaching (fear mixed with fascination, ultimately choosing political safety) with the disciples' response to Jesus on the water (fear followed by worship). What determines whether fear leads to faith or to moral compromise?
-2. Jesus feeds five thousand people and then immediately goes to pray alone. What does the rhythm of public ministry and private prayer reveal about how Jesus sustained his mission?
+2. Jesus feeds five thousand men (plus women and children) and then immediately goes to pray alone. What does the rhythm of public ministry and private prayer reveal about how Jesus sustained his mission?
 3. Peter sank when he took his eyes off Jesus and focused on the wind. What are the "winds" in your life that most consistently pull your attention away from Christ? What would it look like to fix your gaze on him in those moments?
 
 ## Prayer
