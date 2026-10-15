@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: "I Saw Jesus"
-description: A young widow watched Jesus take the chains off a woman who never saw Him, and she could not say whether it was a vision. Scripture says the question can rest, because what she saw is what He came to do.
+description: A young widow watched Jesus take the chains off another woman, and she could not say whether it was a vision. Scripture says the question can rest, because what she saw is what He came to do.
 date: 2026-10-19
 author: Dewayne VanHoozer
 tags:
@@ -15,11 +15,11 @@ tags:
 
 A young widow in my Bible study group said it, and the room fell silent.
 
-Almost a year ago her husband died of cancer. She had quit her job to take care of him while he was sick, and she has been wondering ever since whether to go back to work or stay retired. So she went to a church prayer retreat to seek guidance.
+Almost a year ago her husband died of cancer. She went to a church prayer retreat looking for guidance about her own life.
 
-She did not come back with guidance. She came back with something she had seen.
+She came home with something she had been allowed to see, and she shared it with us.
 
-Another young woman at the retreat was struggling with problems of her own. During a time of group prayer she let out a loud cry. The whole group focused their prayers on her. The widow was looking at her and praying when she saw something like black smoke move away from the young woman. Then she saw Jesus. He was standing behind the young woman, and He was taking the chains of guilt and sin off her. When the smoke was gone and the chains were gone, the young woman yelled out, "I'm free."
+Another young woman at the retreat was struggling with problems of her own. During a time of group prayer she let out a loud cry. The whole group focused their prayers on her. The widow was looking at her and praying when she saw something like black smoke move away from the young woman. Then she saw Jesus. He was standing next to the young woman, and He was taking the chains of guilt and sin off her. When the smoke was gone and the chains were gone, the young woman yelled out, "I am free."
 
 She does not remember saying it.
 
@@ -39,23 +39,23 @@ Cords. A person caught in his own sin is tied up in it, and the knots are his ow
 >
 > John 8:34 (ESV)
 
-A slave in the first-century world was property. He could not walk away from his owner, and he could not buy himself out. When Jesus uses that word, He is not being poetic. He is describing a person who cannot leave. The psalmist had already put the same people in a cell: "prisoners in affliction and in irons" (Psalm 107:10).[^bonds]
+A slave in the first-century world was property. He did not decide when he left, or whether he left at all. When Jesus uses that word, He is not being poetic. He is describing a person who cannot leave. The psalmist had already put the same people in a cell: "prisoners in affliction and in irons" (Psalm 107:10).[^bonds]
 
 Sin is what a person did. Guilt is what it does afterward, long after the act is over. The widow named both. She saw chains of guilt and sin, and she watched them come off.
 
-## Standing Behind Her
+## Standing Next to Her
 
-Look at where Jesus was. Behind her.
+Look at where Jesus was. Next to her.
 
-The young woman never saw Him. She was the one in chains, and He was the one working on them, and she was facing the other way. She cried out, the smoke left, the chains came off, and she shouted that she was free. She does not remember it. Whatever freed her did not wait for her to turn around, understand what was happening, or remember it afterward.
+Whether the young woman saw Him, I do not know. She was the one in chains, and He was the one working on them. She cried out, the smoke left, the chains came off, and she shouted that she was free. She does not remember it. Whatever freed her did not wait for her to understand what was happening, or to remember it afterward.
 
-Scripture gives a picture of Jesus in exactly this posture. Stephen, standing before the council that was about to have him stoned, looked up and saw heaven open.
+Scripture gives a picture of Jesus on His feet. Stephen, standing before the council that was about to have him stoned, looked up and saw heaven open.
 
 > "Behold, I see the heavens opened, and the Son of Man standing at the right hand of God."
 >
 > Acts 7:56 (ESV)
 
-Standing. The usual picture of Jesus at the Father's right hand is of Someone seated, with the work finished (Hebrews 10:12). Stephen sees Him on His feet. The writer of Hebrews says why He is never idle: "he always lives to make intercession for them" (Hebrews 7:25).[^standing] He is working for the people He loves, while they are not looking.
+Standing. The usual picture of Jesus at the Father's right hand is of Someone seated, with the work finished (Hebrews 10:12). Stephen sees Him on His feet. The writer of Hebrews says why He is never idle: "he always lives to make intercession for them" (Hebrews 7:25).[^standing] He is at work for the people He loves.
 
 The widow was not looking for this. She came to the retreat with a question about her own life, and what she was shown was someone else's rescue. The Bible does not say why Jesus lets one person see what He is doing for another. It does show what He does with a friend's faith.
 
@@ -65,7 +65,7 @@ Four men carried a paralyzed man to a house where Jesus was teaching. The crowd 
 >
 > Mark 2:5 (ESV)
 
-Their faith, not his. The man on the mat is never recorded saying a word. The widow was praying for a woman who could not pray for herself in that moment, and Jesus was standing right there.[^midnight]
+Their faith, not his. The man on the mat is never recorded saying a word. The widow was praying for another woman, along with the whole group, and Jesus was standing right there.[^midnight]
 
 ## What He Came to Do
 
@@ -87,13 +87,13 @@ The psalmist, centuries earlier, had traced the whole account in order: the dark
 
 The Gospels show Him doing it. A woman had been bent over for eighteen years. She could not straighten up (Luke 13:11). Jesus saw her, called her over, and said, "Woman, you are freed from your disability" (Luke 13:12). She stood up straight and praised God (Luke 13:13).
 
-And what did the young woman say when the chains came off? "I'm free." Jesus has already told us what that sentence is worth.
+And what did the young woman say when the chains came off? "I am free." Jesus has already told us what that sentence is worth.
 
 > "So if the Son sets you free, you will be free indeed."
 >
 > John 8:36 (ESV)
 
-This is also how Scripture tells us to weigh a vision: "test everything; hold fast what is good" (1 Thessalonians 5:21). John gives the same instruction about spirits: "test the spirits to see whether they are from God" (1 John 4:1). The test is not how dramatic the picture was. The test is whether the Jesus in it does what Jesus does. A Jesus who stands behind a bound woman and takes her chains off is the Jesus of Luke 4. The widow's vision passes.
+This is also how Scripture tells us to weigh a vision: "test everything; hold fast what is good" (1 Thessalonians 5:21). John gives the same instruction about spirits: "test the spirits to see whether they are from God" (1 John 4:1). The test is not how dramatic the picture was. The test is whether the Jesus in it does what Jesus does. A Jesus who stands next to a bound woman and takes her chains off is the Jesus of Luke 4. What she saw passes that test. Whether it came as a vision or an imagining, the test does not ask.
 
 ## Vision or Imagination
 
@@ -105,13 +105,21 @@ Peter once could not tell either. Herod had him in prison, chained between two s
 
 Peter walked through a prison believing he was dreaming. He was free all the same. His uncertainty did not undo the gate.
 
+Once the angel left him, Peter came to himself.
+
+> "Now I am sure that the Lord has sent his angel and rescued me from the hand of Herod."
+>
+> Acts 12:11 (ESV)
+
+He was sure afterward, not during. The rescue did not wait for his certainty.
+
 Paul had the same trouble. He was caught up into heaven and heard things he was not permitted to repeat (2 Corinthians 12:4), and when he wrote about it, he could not say how it happened.
 
 > "I know a man in Christ who fourteen years ago was caught up to the third heaven—whether in the body or out of the body I do not know, God knows."
 >
 > 2 Corinthians 12:2 (ESV)
 
-He says it twice, in the next verse as well (2 Corinthians 12:3). Paul never settled the question and did not need to. He knew who he had met. Peter, on a rooftop in Joppa (Acts 10:9), was "inwardly perplexed as to what the vision that he had seen might mean" (Acts 10:17). Confusion is a common part of how God speaks in the Bible.
+He says it twice, in the next verse as well (2 Corinthians 12:3). Paul never settled the question and did not need to. He knew who he had met. Peter, on a rooftop in Joppa (Acts 10:9), was "inwardly perplexed as to what the vision that he had seen might mean" (Acts 10:17). More than one of them did not know at first what they had seen.
 
 Even Mary Magdalene, the one the Gospels remember for saying "I have seen the Lord" (John 20:18), stood in front of Jesus on Easter morning and took Him for the gardener (John 20:14-15). Seeing Him and knowing Him were not the same moment. [He Is Risen](/blog/he-is-risen/) walks through the witnesses who followed her.
 
@@ -125,9 +133,9 @@ She did not file it. She did not argue it into a category. She kept it. The wido
 
 ## Blessed Are Those Who Have Not Seen
 
-Most people have seen nothing like what the widow saw. No smoke, no chains, no Jesus standing in a room. If that is where you are, you are in the position of the young woman: facing the other way.
+Most people have seen nothing like what the widow saw. No smoke, no chains, no Jesus standing in a room. If that is where you are, Jesus has already spoken to you.
 
-Jesus spoke to people in that position directly. Thomas had refused to believe until he could touch the wounds, and when he saw Jesus, he believed (John 20:24-28). Jesus answered him.
+Thomas had refused to believe until he could touch the wounds, and when he saw Jesus, he believed (John 20:24-28). Jesus answered him.
 
 > "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed."
 >
@@ -135,7 +143,7 @@ Jesus spoke to people in that position directly. Thomas had refused to believe u
 
 Peter, writing decades later to people who had never laid eyes on Him, said the same thing from the other side: "Though you have not seen him, you love him" (1 Peter 1:8). Believing without seeing is not the second-class version of faith. Jesus called it blessed.
 
-Freedom did not wait for the young woman to see Him. It did not wait for her to understand what was happening or remember it afterward. He was behind her, and He did the work. He does for us what we cannot do for ourselves.
+Freedom did not wait for the young woman to understand what was happening, or to remember it afterward. He was next to her, and He did the work. He does for us what we cannot do for ourselves.
 
 The offer is simple. Paul puts it in two sentences.
 
@@ -151,16 +159,15 @@ John says it in terms of a gift received.
 
 You do not need a vision for this. You do not need to know what you saw or whether you saw anything. If you want to know what receiving Him looks like in plain words, [Choose Jesus](/blog/choose-jesus/) lays it out.
 
-"I saw Jesus," the widow said. She saw Him, and the woman in the chains did not, and one of them gets to tell the story. The other said two words, loudly, and cannot repeat them.
+"I saw Jesus," the widow said. One woman gets to tell the story. The other said three words, loudly, in front of everyone.
 
-I'm free.
+I am free.
 
-She does not remember saying it. He was standing right behind her.
+She does not remember saying it. He was standing right next to her.
 
 ## References
 
 - *The Holy Bible, English Standard Version* (ESV). Crossway, 2001.
-- Proverbs 5:22; Psalm 107:10, 13-14; Mark 2:3-5; Luke 2:19; 4:16-21; 13:11-13; John 1:12; 8:34, 36; 20:14-15, 18, 24-29; Acts 7:55-56; 10:9, 17; 12:3-10; 16:25-26; Romans 10:9-10; 2 Corinthians 12:2-4; Galatians 5:1; Colossians 2:13-14; 1 Thessalonians 5:21; Hebrews 7:25; 10:12; 1 Peter 1:8; 1 John 4:1; Matthew 18:20.
 - [He Is Risen](/blog/he-is-risen/) and [Choose Jesus](/blog/choose-jesus/), on this site.
 
 ## Footnotes
