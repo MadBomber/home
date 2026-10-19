@@ -2,7 +2,7 @@
 layout: blog_post
 title: "I Saw Jesus"
 description: A young widow watched Jesus take the chains off another woman, and she could not say whether it was a vision. Scripture says the question can rest, because what she saw is what He came to do.
-date: 2026-10-19
+date: 2026-10-23
 author: Dewayne VanHoozer
 tags:
 - testimony
