@@ -19,7 +19,7 @@ Almost a year ago her husband died of cancer. She went to a church prayer retrea
 
 She came home with something she had been allowed to see, and she shared it with us.
 
-Another young woman at the retreat was struggling with problems of her own. During a time of group prayer she let out a loud cry. The whole group focused their prayers on her. The widow was looking at her and praying when she saw something like black smoke move away from the young woman. Then she saw Jesus. He was standing next to the young woman, and He was taking the chains of guilt and sin off her. When the smoke was gone and the chains were gone, the young woman yelled out, "I am free."
+Another young lady at the retreat was struggling with problems of her own. During a time of group prayer she let out a loud cry. The whole group focused their prayers on her. The widow was looking at her and praying when she saw something like black smoke move away from the lady. Then she saw Jesus. He was standing next to the lady, and He was taking the chains of guilt and sin off her. When the smoke was gone and the chains were gone, the lady yelled out, "I am free."
 
 She does not remember saying it.
 
@@ -47,7 +47,7 @@ Sin is what a person did. Guilt is what it does afterward, long after the act is
 
 Look at where Jesus was. Next to her.
 
-Whether the young woman saw Him, I do not know. She was the one in chains, and He was the one working on them. She cried out, the smoke left, the chains came off, and she shouted that she was free. She does not remember it. Whatever freed her did not wait for her to understand what was happening, or to remember it afterward.
+Whether the lady saw Him, I do not know. She was the one in chains, and He was the one working on them. She cried out, the smoke left, the chains came off, and she shouted that she was free. She does not remember it. Whatever freed her did not wait for her to understand what was happening, or to remember it afterward.
 
 Scripture gives a picture of Jesus on His feet. Stephen, standing before the council that was about to have him stoned, looked up and saw heaven open.
 
@@ -87,7 +87,7 @@ The psalmist, centuries earlier, had traced the whole account in order: the dark
 
 The Gospels show Him doing it. A woman had been bent over for eighteen years. She could not straighten up (Luke 13:11). Jesus saw her, called her over, and said, "Woman, you are freed from your disability" (Luke 13:12). She stood up straight and praised God (Luke 13:13).
 
-And what did the young woman say when the chains came off? "I am free." Jesus has already told us what that sentence is worth.
+And what did the lady say when the chains came off? "I am free." Jesus has already told us what that sentence is worth.
 
 > "So if the Son sets you free, you will be free indeed."
 >
@@ -143,7 +143,7 @@ Thomas had refused to believe until he could touch the wounds, and when he saw J
 
 Peter, writing decades later to people who had never laid eyes on Him, said the same thing from the other side: "Though you have not seen him, you love him" (1 Peter 1:8). Believing without seeing is not the second-class version of faith. Jesus called it blessed.
 
-Freedom did not wait for the young woman to understand what was happening, or to remember it afterward. He was next to her, and He did the work. He does for us what we cannot do for ourselves.
+Freedom did not wait for the lady to understand what was happening, or to remember it afterward. He was next to her, and He did the work. He does for us what we cannot do for ourselves.
 
 The offer is simple. Paul puts it in two sentences.
 
