@@ -11,7 +11,7 @@ tags:
 - salvation
 ---
 
-"I saw Jesus."
+"I saw Jesus"
 
 A young widow in my Bible study group said it, and the room fell silent.
 
