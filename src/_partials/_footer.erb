@@ -21,7 +21,13 @@
       displays ESV text. Study day pages embed passages, so it lives in the
       footer rather than on individual pages. The CC license above is scoped to
       site content for the same reason: the ESV text is not ours to relicense. %>
+  <%# Spanish pages quote the NBLA, so they carry Lockman's notice instead.
+      Temporary: the Bible translation project replaces this with a registry. %>
+  <% if site.locale == :es %>
+  <p class="site-footer-esv">Las citas bíblicas son tomadas de la <a href="https://www.nuevabiblia.com/">Nueva Biblia de las Américas (NBLA)</a>, Copyright &copy; 2005 por The Lockman Foundation. Usadas con permiso.</p>
+  <% else %>
   <p class="site-footer-esv">Scripture quotations are from the <a href="https://www.esv.org/">ESV&reg; Bible</a> (The Holy Bible, English Standard Version&reg;), copyright &copy; 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.</p>
+  <% end %>
   <p class="site-footer-links">
     <a href="<%= _contact_href %>">Contact</a>
     <a href="<%= relative_url "/privacy_policy/" %>">Privacy Policy</a>

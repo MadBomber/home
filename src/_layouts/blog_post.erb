@@ -30,8 +30,11 @@ layout: default
   # Selector shared by all post-list queries. Future-dated posts are excluded
   # in production so prev/next nav never links a reader to an unpublished
   # essay ahead of its date, matching the same rule blog/index.erb applies.
+  # Only essays in this page's own locale qualify: English lives under /blog/,
+  # every other locale under /<locale>/blog/, so nav never crosses languages.
+  locale_prefix = data.locale == site.config.default_locale ? "" : "/#{data.locale}"
   blog_posts = site.resources
-    .select { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
+    .select { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}#{locale_prefix}/blog/[^/]+/\z}) }
     .reject { |r| r.relative_url.to_s.end_with?('/blog/') }
     .reject { |r| r.relative_url.to_s.end_with?('/blog/announcement/') }
     .reject { |r| r.relative_url.to_s.end_with?('/blog/tags/') }
