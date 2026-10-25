@@ -62,6 +62,12 @@ God strikes a man dead for reaching out to steady the ark (2 Samuel 6:6-7), and 
 [Part 3: Elisha and the Two Bears](/blog/elisha-and-the-two-bears/)
 A crowd dares a prophet to vanish the way his master had that morning, and two bears maul them for it (2 Kings 2:23-24). Read alone it looks like God backing a man's wounded pride. Read whole, the bears turn out to be the Old Covenant's own terms, agreed to at Sinai centuries earlier, and the line dividing bears from bread is not age but how much a person had been told. The same dare returns once more, at a cross, where the answer is mercy instead of fire.
 
+[Part 4: Your Donkey Said What?](/blog/your-donkey-said-what/)
+A donkey speaks to a prophet (Numbers 22), and read alone the talking animal looks like the strangest thing on the road. Read whole, it is the least remarkable thing there. God said no, then said go, then was angry that the man went, and the man knew exactly what he had been told.
+
+[Part 5: Exact Change](/blog/exact-change/)
+Jesus sends a fisherman to the water for a coin in a fish's mouth to pay the temple tax (Matthew 17:24-27), and read alone it looks like a trick with a small price tag. Read whole, the coin is the half-shekel of Exodus 30, a ransom for a life, one coin covering two names. The fish paid the tax in full. What the tax stood for was not paid in silver.
+
 More accounts will join this collection as they are written.
 
 The collection begins with [*Are You a Fig Tree?*](/blog/are-you-a-fig-tree/).

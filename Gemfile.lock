@@ -122,7 +122,15 @@ GEM
     pp (0.6.4)
       prettyprint
     prettyprint (0.2.1)
-    prism (1.9.0)
+    prism (2.0.0)
+    prism (2.0.0-aarch64-linux-gnu)
+    prism (2.0.0-aarch64-linux-musl)
+    prism (2.0.0-arm-linux-gnu)
+    prism (2.0.0-arm-linux-musl)
+    prism (2.0.0-arm64-darwin)
+    prism (2.0.0-x86_64-darwin)
+    prism (2.0.0-x86_64-linux-gnu)
+    prism (2.0.0-x86_64-linux-musl)
     public_suffix (7.0.5)
     puma (7.2.1)
       nio4r (~> 2.0)
@@ -208,7 +216,6 @@ CHECKSUMS
   bridgetown-core (2.2.2) sha256=0997587871c7e06a979fd7530fc93f852eededb25cb6ee117e5107acda49ff7d
   bridgetown-foundation (2.2.2) sha256=7275e87f4d36a09e51bb7c9f7d3b92eac4539b606fb722975edcb4853074df65
   bridgetown-paginate (2.2.2) sha256=0aa8dffa779b5f53db4a9d7e36c27d7cf2d7c0f9845a1ee2c004296814e8f4fb
-  bundler (4.0.23) sha256=407ba8a1d928f412847f819aa5f8b6aef7c59fb51feb517112af8a165487287b
   concurrent-ruby (1.3.8) sha256=b2f1be836e968ccc78ccfce277ea79c72a88633f22306782c16ff23fb415d1e1
   console (1.38.0) sha256=35b82f59130e95e9be6b832d9e539c8b3988fc192e4a8e9a86ab4922f44ad5de
   csv (3.3.6) sha256=aba61e7e507a66f03d45cb1f3c4b6359861c3504038b422962875dce099e4456
@@ -255,7 +262,15 @@ CHECKSUMS
   nio4r (2.7.5) sha256=6c90168e48fb5f8e768419c93abb94ba2b892a1d0602cb06eef16d8b7df1dca1
   pp (0.6.4) sha256=dfcb0fce700c41456265922884f9fe195d7fbb0674a3578e6c0f69588e82b570
   prettyprint (0.2.1) sha256=d555d57ea6d7cf001d4774b693546a6bd88bec1e778ddffb5c60b68ceec4b7d4
-  prism (1.9.0) sha256=7b530c6a9f92c24300014919c9dcbc055bf4cdf51ec30aed099b06cd6674ef85
+  prism (2.0.0) sha256=fd551446f0c6ca71455ef8d1d40bd2ca1538044834fa22df8837e5095f3a5a39
+  prism (2.0.0-aarch64-linux-gnu) sha256=7df16d47ce2b1f771eaf63137213d84e98495e3f325043bcc09202d7e5730900
+  prism (2.0.0-aarch64-linux-musl) sha256=3140d10be2ea36122af23c1b8af946ca2f09c8f9e7b13f11d77ae13fe68e2681
+  prism (2.0.0-arm-linux-gnu) sha256=2712f462524a202f98c1fd0a59a609fa94937aa53347371726f72a7a8309a13c
+  prism (2.0.0-arm-linux-musl) sha256=d4fb8f775bf940230d5d0057886dac6437b99a6b77395dbe24b154bdfa66f5e9
+  prism (2.0.0-arm64-darwin) sha256=edebbfcc16f6a879f47dac9501b20a7cd95abe96397bb485106d6670541abeb1
+  prism (2.0.0-x86_64-darwin) sha256=9600064b7637a867bdb788dd45d5f5366d4acff2d0884cfe936463d7ab4a250d
+  prism (2.0.0-x86_64-linux-gnu) sha256=e0b4830c94d9dc59e80ad34d98096797f514c9e097b677c4947d89598c7f5cd1
+  prism (2.0.0-x86_64-linux-musl) sha256=69a76ee43c2a671dca88d97658a619b1bd4ec743dd903ccded70fd8f7897eec5
   public_suffix (7.0.5) sha256=1a8bb08f1bbea19228d3bed6e5ed908d1cb4f7c2726d18bd9cadf60bc676f623
   puma (7.2.1) sha256=d7bf0e9cabd532e0d401e142cd94e3ac531e993610e2d80e6fbf9c26961414b0
   rack (3.2.7) sha256=93e13e1c24f93556671d85d2d79fa228c3485815c50d7e2f265b5330c6528fb7
