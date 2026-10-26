@@ -36,15 +36,9 @@ El impuesto de las dos dracmas es medio siclo, un pequeño pago para el mantenim
 
 Pedro les da una palabra. Sí.
 
-No se equivoca en cuanto al resultado. Jesús paga. Lo que hizo fue responder por otro hombre antes de que ese hombre hubiera dicho algo sobre el asunto. Las Escrituras tienen una línea para exactamente esto.
+Pedro acierta en cómo termina esto. Jesús pagará. Pero Pedro responde por Jesús antes de que Jesús haya dicho una palabra sobre el asunto.
 
-> El que responde antes de escuchar, cosecha necedad y vergüenza.
->
-> Proverbios 18:13 (NBLA)
-
-El versículo se detiene antes de llamar necio a Pedro. Lo que nombra es una velocidad: la respuesta llegó antes que el oír.
-
-Y el oír llega. Cuando Pedro entra en la casa, Mateo escribe que «Jesús se le anticipó». El verbo griego, *prophthanō*, significa adelantarse a alguien, anticipar. No aparece en ningún otro lugar del Nuevo Testamento. Antes de que Pedro pueda informar lo que preguntaron los cobradores, la pregunta ya está en las manos de Jesús. El texto no dice cómo lo supo. Dice que Él estaba allí antes que Pedro.
+Jesús ya va un paso delante de él. Cuando Pedro entra en la casa, Mateo escribe que «Jesús se le anticipó». El verbo griego, *prophthanō*, significa adelantarse a alguien, anticipar. No aparece en ningún otro lugar del Nuevo Testamento. Antes de que Pedro pueda informar lo que preguntaron los cobradores, Jesús ya tiene la pregunta en Sus manos. El texto no dice cómo lo supo Jesús. Dice que Jesús llegó antes que Pedro.
 
 ## ¿Qué te parece, Simón?
 
@@ -178,6 +172,10 @@ Pedro debía un impuesto del templo, y Jesús lo pagó. Tú y yo debemos una deu
 
 La moneda en Capernaúm era un registro de que una vida estaba cubierta. Este es el registro que por fin la cubrió, cancelado por quien pagó con Su propia vida. Lo pagó todo.
 
+Jesús pagó por Simón Pedro. El nombre de Pedro quedó en el registro, y Pedro no pagó ni una moneda de ello.
+
+Jesús pagó también por ti. Tu nombre queda en el mismo registro, y tú tampoco pagas ni una moneda de ello.
+
 Escucha los verbos que Jesús le dio a Pedro. Toma el primer pez que salga. Tómalo, y dáselo. La moneda ya estaba en el pez cuando Pedro fue al agua, y su parte fue un anzuelo, una boca que abrir y una mano. El otro pago se presenta de la misma manera.
 
 > Porque la paga del pecado es muerte, pero la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro.
@@ -192,7 +190,7 @@ Los cobradores habían hecho una pregunta sencilla.
 >
 > Mateo 17:24 (NBLA)
 
-Pedro dijo que sí, y lo dijo demasiado pronto. Tenía razón de todos modos. El maestro pagó. Nadie en Capernaúm sacó un bote de ello, y la moneda en el pez fue la parte más pequeña de la cuenta.
+Pedro dijo que sí, y lo dijo demasiado pronto. Tenía razón de todos modos. El maestro pagó, por Pedro y por ti. Nadie en Capernaúm sacó un bote de ello, y la moneda en el pez fue la parte más pequeña de la cuenta.
 
 ## Referencias
 
