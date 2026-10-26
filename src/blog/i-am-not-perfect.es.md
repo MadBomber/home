@@ -94,7 +94,7 @@ Lo buscas en la dirección que señala el primer mandamiento: volviéndote hacia
 
 Nunca fue toda la verdad.
 
-No soy perfecto, pero por medio de Jesús, el Espíritu Santo y la Biblia, estoy siendo hecho completo. Eso es la *santificación*. El ensayo [*The Big Words*](/blog/the-big-words/) (en inglés) explica lo que significa.
+No soy perfecto, pero por medio de Jesús, el Espíritu Santo y la Biblia, estoy siendo hecho completo. Eso es la *santificación*. El ensayo [*Las grandes palabras*](/es/blog/the-big-words/) explica lo que significa.
 
 ---
 
