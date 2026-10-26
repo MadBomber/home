@@ -57,7 +57,7 @@ This collection follows that boundary through six scenes: how far the leash reac
   is_production = Bridgetown.environment.to_s == "production"
 
   posts_by_order = site.resources
-    .select  { |r| r.data[:collection].to_s == "gods-devil" }
+    .select  { |r| r.data[:collection].to_s == "gods-devil" && r.data[:locale].to_s == data.locale.to_s }
     .each_with_object({}) { |r, h| h[r.data[:order].to_i] = r }
 
   parts = [
