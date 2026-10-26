@@ -48,11 +48,9 @@ Así que volví y leí el relato de Marcos. No el versículo. El capítulo enter
 
 Antes del resto del capítulo, esto es lo que había estado sosteniendo mi memoria. Saca Marcos 11:12-14 por sí solo y esto es lo que obtienes.
 
-> Al día siguiente, cuando salieron de Betania, tuvo hambre. Y viendo de lejos una higuera que tenía hojas, fue a ver si quizá encontraba algo en ella. Pero cuando llegó a ella, no encontró nada sino hojas, porque no era tiempo de higos. Y dirigiéndose a la higuera, le dijo: «Que nadie jamás coma fruto de ti». Y Sus discípulos lo oyeron.
+> Al día siguiente, cuando salieron de Betania, Jesús tuvo hambre. Y viendo de lejos una higuera con hojas, fue a ver si quizá pudiera hallar algo en ella; cuando llegó a ella, no encontró más que hojas, porque no era tiempo de higos. Jesús, hablando a la higuera, le dijo: «Nunca jamás coma nadie fruto de ti». Y Sus discípulos le estaban escuchando.
 >
 > Marcos 11:12-14 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Leída por sí sola, es una escena extraña. Jesús tiene hambre. Se acerca a un árbol. No encuentra fruto. Marcos incluso te dice por qué: «no era tiempo de higos», lo que suena como si el propio Marcos señalara la injusticia. Y Jesús la maldice de todos modos. Tomado en aislamiento, el pasaje le sirve a un escéptico un tiro fácil: un hacedor de milagros irritable castigando a una planta por hacer exactamente lo que hacen las plantas.
 
@@ -62,19 +60,15 @@ Hasta ahí me había llevado la memoria. Y estaba exactamente equivocada, y la r
 
 Lee más allá del versículo catorce y el mismo capítulo responde su propia pregunta difícil.
 
-> Llegaron a Jerusalén. Y entró en el templo y comenzó a echar fuera a los que vendían y compraban en el templo, y volcó las mesas de los cambistas y los asientos de los que vendían palomas. Y no permitía que nadie llevara ningún objeto por el templo. Y les enseñaba, diciendo: «¿No está escrito: “Mi casa será llamada casa de oración para todas las naciones”? Pero ustedes la han hecho cueva de ladrones». Los principales sacerdotes y los escribas lo oyeron, y buscaban cómo destruirlo, pues le tenían miedo, porque toda la multitud estaba admirada de Su enseñanza. Y al atardecer salieron de la ciudad.
+> Llegaron a Jerusalén; y entrando Jesús en el templo, comenzó a echar fuera a los que vendían y compraban en el templo; volcó las mesas de los que cambiaban el dinero y los asientos de los que vendían las palomas, y no permitía que nadie transportara objeto alguno a través del templo. Y les enseñaba, diciendo: «¿No está escrito: «MI CASA SERÁ LLAMADA CASA DE ORACIÓN PARA TODAS LAS NACIONES»? Pero ustedes la han hecho CUEVA DE LADRONES». Los principales sacerdotes y los escribas oyeron esto y buscaban cómo destruir a Jesús, pero le tenían miedo, pues toda la multitud estaba admirada de Su enseñanza. Cuando atardecía, Jesús y Sus discípulos solían salir fuera de la ciudad.
 >
 > Marcos 11:15-19 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Luego, a la mañana siguiente:
 
-> Al pasar por la mañana, vieron que la higuera se había secado de raíz. Entonces Pedro, acordándose, le dijo: «Rabí, mira, la higuera que Tú maldijiste se ha secado».
+> Por la mañana, cuando pasaban, vieron la higuera seca desde las raíces. Entonces Pedro, acordándose, dijo a Jesús: «Rabí, mira, la higuera que maldijiste se ha secado».
 >
 > Marcos 11:20-21 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Maldición. Templo. Árbol seco. Marcos lo escribió en ese orden a propósito. Abre el relato de la higuera, se desvía al templo, luego vuelve y cierra el relato de la higuera. Así no se ordenan los hechos si simplemente se registra lo que pasó en el orden en que pasó. Así se ordenan si se quiere que esas dos escenas se lean una contra la otra.
 
@@ -90,27 +84,21 @@ Por eso el final cae donde cae. Marcos no dice que las hojas se pusieron marrone
 
 Nada de esto era un insulto nuevo cuando Jesús lo usó. Los profetas ya habían pasado siglos recurriendo a la higuera para describir la condición de Israel.
 
-> Los recogeré por completo, declara el SEÑOR; no habrá uvas en la vid ni higos en la higuera, y la hoja se marchitará; lo que les di pasará de ellos.
+> ‘Ciertamente los destruiré’, declara el SEÑOR; ‘No habrá uvas en la vid, ni higos en la higuera, y la hoja se marchitará; lo que les he dado, les será quitado’.
 >
 > Jeremías 8:13 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 <!-- TRANSLATOR NOTE: Jer 8:13 differs noticeably between the ESV ("When I would gather them... even the leaves are withered") and the Spanish versions as I recall them (NBLA/LBLA: «Los recogeré por completo… y la hoja se marchitará»). The argument (withered leaves, a nation not producing) works with either reading; reviewer should confirm the exact NBLA text. -->
 
-Jeremías no describe agricultura. Describe una nación que ha dejado de producir aquello para lo que fue plantada, y las hojas marchitas de su versículo son las mismas hojas marchitas que Pedro encuentra seis siglos después. Oseas recurre al mismo árbol para describir lo que Israel solía ser, «como la fruta temprana de la higuera en su primera época» (Oseas 9:10), antes de que fuera tras otros dioses y se volviera lo que antes no era. Para cuando Jesús se detiene frente a una higuera real con ramas realmente vacías, no está improvisando una imagen. Está entrando en una que Lo había esperado durante siglos.
-
-<!-- VERIFY-NBLA -->
+Jeremías no describe agricultura. Describe una nación que ha dejado de producir aquello para lo que fue plantada, y las hojas marchitas de su versículo son las mismas hojas marchitas que Pedro encuentra seis siglos después. Oseas recurre al mismo árbol para describir lo que Israel solía ser, «como las primicias de la higuera en su primera cosecha» (Oseas 9:10), antes de que fuera tras otros dioses y se volviera lo que antes no era. Para cuando Jesús se detiene frente a una higuera real con ramas realmente vacías, no está improvisando una imagen. Está entrando en una que Lo había esperado durante siglos.
 
 ## Un año más
 
 Lucas registra otra higuera, esta vez una parábola, no un suceso, contada antes en el ministerio de Jesús.
 
-> Y Jesús decía esta parábola: «Un hombre tenía una higuera plantada en su viña, y fue a buscar fruto en ella y no lo encontró. Y dijo al viñador: “Mira, hace tres años que vengo buscando fruto en esta higuera y no lo encuentro. Córtala. ¿Para qué ha de ocupar terreno inútilmente?”. Pero él le respondió: “Señor, déjala todavía este año, hasta que yo cave alrededor de ella y le ponga abono. Y si da fruto el año que viene, bien; pero si no, la cortarás”».
+> Entonces Jesús les dijo esta parábola: «Cierto hombre tenía una higuera plantada en su viña; y fue a buscar fruto de ella y no lo halló. Y dijo al viñador: «Mira, hace tres años que vengo a buscar fruto en esta higuera, y no lo hallo. Córtala. ¿Por qué ha de cansar la tierra?». El viñador le respondió: «Señor, déjala por este año todavía, hasta que yo cave alrededor de ella, y le eche abono, y si da fruto el año que viene, bien; y si no, córtala»».
 >
 > Lucas 13:6-9 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Tres años de nada, y al dueño lo convencen de dar uno más. Esa parábola es paciencia con una fecha límite, misericordia que todavía no se ha agotado. Ponla junto al árbol que Jesús maldice en el camino a Jerusalén, y la higuera de Marcos se lee como el final de la parábola, pronunciado en lugar de simplemente contado. El año extra se acabó. El viñador volvió una última vez y encontró lo mismo que había encontrado los primeros tres años.
 
@@ -118,9 +106,7 @@ Tres años de nada, y al dueño lo convencen de dar uno más. Esa parábola es p
 
 Una vez que conoces el simbolismo y el contexto, el relato no tiene nada de extraño.
 
-Marcos puso la higuera junto al templo a propósito. Un árbol lleno de hojas que promete fruto y no lo da ya era una imagen estándar, de generaciones, para un pueblo que cumple los movimientos de la fe sin nada detrás. Jesús caminó desde ese árbol directo a un edificio que hacía exactamente lo mismo: un gran despliegue de actividad, sin entregar nada del fruto. La justicia, la misericordia y la fidelidad, «lo más importante de la ley» (Mateo 23:23), no se encontraban por ningún lado. La maldición nunca apuntó realmente a una planta. Apuntaba a todo aquello que la planta acababa de fingir ser.
-
-<!-- VERIFY-NBLA -->
+Marcos puso la higuera junto al templo a propósito. Un árbol lleno de hojas que promete fruto y no lo da ya era una imagen estándar, de generaciones, para un pueblo que cumple los movimientos de la fe sin nada detrás. Jesús caminó desde ese árbol directo a un edificio que hacía exactamente lo mismo: un gran despliegue de actividad, sin entregar nada del fruto. La justicia, la misericordia y la fidelidad, «los preceptos más importantes de la ley» (Mateo 23:23), no se encontraban por ningún lado. La maldición nunca apuntó realmente a una planta. Apuntaba a todo aquello que la planta acababa de fingir ser.
 
 Lo cual significa que la verdadera pregunta del relato nunca fue «¿fue Jesús justo con una higuera?». Se parece más a «¿coincide tu hoja con tu fruto?».
 
@@ -132,11 +118,9 @@ Esa es la relación que Jesús no quiere de quienes Lo siguen. Pura apariencia y
 
 Santiago les hace a las personas la pregunta que Jesús le hizo a un árbol.
 
-> Hermanos míos, ¿de qué sirve si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo? Si un hermano o una hermana no tienen ropa y carecen del alimento diario, y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve? Así también la fe, si no tiene obras, es muerta en sí misma.
+> ¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo? Si un hermano o una hermana no tienen ropa y carecen del sustento diario, y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve? Así también la fe por sí misma, si no tiene obras, está muerta.
 >
 > Santiago 2:14-17 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La queja de Santiago no son las palabras. «Vayan en paz, caliéntense y sáciense» se parece mucho a una bendición. Su queja es que las palabras eran toda la transacción. Sin dar nada, la persona se va tan fría y con tanta hambre como llegó. Eso es una higuera llena de hojas. Santiago nombra el fracaso en una sola palabra, la única que Marcos no necesitó porque ya te había mostrado un árbol seco de raíz. Muerta. La fe sin nada debajo no es una fe débil. Es una cosa muerta que lleva hojas.
 
@@ -148,25 +132,19 @@ Marcos dio la razón en la primera oración del relato. Jesús tenía hambre (Ma
 
 Alimentar a las naciones era toda la misión. Israel fue plantado para ser «luz de las naciones», para que la salvación de Dios llegara «hasta los confines de la tierra» (Isaías 49:6), y un árbol lleno de hojas que no carga nada es un pueblo que guarda esa luz para sí. Ese es el árbol que Jesús maldijo y el templo que despejó, la misma cosa estéril dos veces.
 
-<!-- VERIFY-NBLA -->
-
 La misión no murió con el templo. Días después, Jesús resucitado se la entregó a todo el que llevara Su nombre.
 
-> Y Jesús, acercándose, les dijo: «Toda autoridad Me ha sido dada en el cielo y en la tierra. Vayan, pues, y hagan discípulos de todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo, enseñándoles a guardar todo lo que les he ordenado; y Yo estoy con ustedes todos los días, hasta el fin del mundo».
+> Acercándose Jesús, les dijo: «Toda autoridad me ha sido dada en el cielo y en la tierra. Vayan, pues, y hagan discípulos de todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo, enseñándoles a guardar todo lo que les he mandado; y ¡recuerden! Yo estoy con ustedes todos los días, hasta el fin del mundo».
 >
 > Mateo 28:18-20 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Cada palabra apunta hacia afuera. Toda la autoridad es Suya, así que vayan. Hagan discípulos, no admiradores, de todas las naciones, las mismas naciones que el templo se construyó para reunir y nunca reunió. El fruto que un cristiano está plantado para dar son otras personas. Alguien que no conocía a Dios llevado a conocerlo. Más creyentes, más adoración, más de Él dado a conocer a un mundo que todavía no Lo ha visto. Esa es la cosecha. Para eso sirve el árbol.
 
 Suena a más de lo que una vida podría cargar, hasta que ves cómo se reparte el trabajo.
 
-> «Yo planté, Apolos regó, pero Dios ha dado el crecimiento. Así que ni el que planta ni el que riega es nada, sino Dios, que da el crecimiento».
+> Yo planté, Apolos regó, pero Dios ha dado el crecimiento. Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimiento.
 >
 > 1 Corintios 3:6-7 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Nadie cultiva solo toda la cosecha. Una persona planta una palabra que parece no caer en ninguna parte. Otra la riega años después, sin saber quién la plantó. Alguien más está allí el día en que rompe la superficie. Cada uno recibe pago por su propio trabajo, y ninguno de ellos la hizo crecer (1 Corintios 3:8). La hizo crecer Dios. Tu parte es real y tu parte es parcial. Tú plantas. Tú riegas. Él da el crecimiento.
 
@@ -177,8 +155,6 @@ Un árbol. Un templo. Una nación entera. Cada ejemplo hasta ahora ha pertenecid
 > «Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fidelidad, mansedumbre, dominio propio; contra tales cosas no hay ley».
 >
 > Gálatas 5:22-23 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Lee la lista otra vez y fíjate en el retrato de quién es. Amor, gozo, paz, paciencia, benignidad. Ese es Jesús. El Espíritu da este fruto para formar a Cristo en ti (Gálatas 4:19), hasta que llegues a ser un pequeño Cristo, que es todo lo que un cristiano estaba destinado a ser. Y un pequeño Cristo es lo único de lo que un mundo que observa no puede apartar la mirada. A nadie lo convence de entrar al reino un testigo amargo e impaciente. Las personas son atraídas por alguien que ha comenzado a parecerse al Señor que nunca han conocido.
 

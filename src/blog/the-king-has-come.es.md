@@ -36,8 +36,6 @@ Cuando Jesús llegó a la cima del monte de los Olivos y la ciudad de Jerusalén
 >
 > Lucas 19:41-44, NBLA
 
-<!-- VERIFY-NBLA -->
-
 Lloró porque los conocía. Conocía sus nombres, la forma de su anhelo, la ceguera particular que los llevaría del *Hosanna* del domingo al *Crucifícalo* del viernes. Podía ver la destrucción de su ciudad cuarenta años adelante mientras ellos todavía estaban en plena coronación. La multitud no conoció el tiempo de su visitación, pero Jesús sabía exactamente a qué se dirigía, por quién y a qué costo. Esa asimetría (Él los conocía por completo, y ellos no Lo conocían en absoluto) es el hilo que recorre toda la Semana Santa.
 
 Cuando los fariseos exigieron que silenciara a la multitud, Su respuesta fue inequívoca:
@@ -45,8 +43,6 @@ Cuando los fariseos exigieron que silenciara a la multitud, Su respuesta fue ine
 > Algunos de los fariseos de entre la multitud Le dijeron: «Maestro, reprende a Tus discípulos». Respondiendo Él, dijo: «Les digo que si estos callan, las piedras clamarán».
 >
 > Lucas 19:39-40, NBLA
-
-<!-- VERIFY-NBLA -->
 
 La proclamación no podía silenciarse. La creación misma la retomaría si las voces humanas callaban. El Rey había venido, y el cielo no permitiría que Su llegada pasara sin anunciarse. Y sin embargo la ciudad que recibía ese anuncio seguía sin conocer el tiempo de su visitación. La ceremonia era gloriosa. El Rey estaba llorando.
 
@@ -58,15 +54,11 @@ Jerusalén en la Pascua nunca fue simplemente una ciudad. Era una ciudad bajo pr
 >
 > Mateo 21:8-9, NBLA
 
-<!-- VERIFY-NBLA -->
-
 Cuando la multitud tendió sus mantos en el camino delante de Jesús, estaba realizando un antiguo acto de sumisión real. Siglos antes, cuando Jehú fue ungido rey de Israel, los presentes respondieron sin vacilar:
 
 > Entonces se apresuraron, y cada uno tomó su manto y lo puso debajo de Jehú en lo alto de la escalera, y tocaron la trompeta y proclamaron: «¡Jehú es rey!».
 >
 > 2 Reyes 9:13, NBLA
-
-<!-- VERIFY-NBLA -->
 
 Un manto era una posesión personal de valor real. Tenderlo bajo los pies de otro era decir con el cuerpo lo que la multitud decía con la voz: *este hombre es mi rey*. El camino a Jerusalén estaba bordeado no de decoraciones, sino de actos de sumisión voluntaria.
 
@@ -74,25 +66,19 @@ Un manto era una posesión personal de valor real. Tenderlo bajo los pies de otr
 >
 > Levítico 23:40, NBLA
 
-<!-- VERIFY-NBLA -->
-
 Las ramas de palmera no eran decorativas. Este mandamiento las había asociado con la Fiesta de los Tabernáculos (la gran fiesta de la cosecha y la renovación del pacto), y para el período macabeo habían adquirido una capa adicional de significado, convertidas en símbolos de liberación nacional, agitadas cuando Simón Macabeo recuperó Jerusalén de los seléucidas en el 141 a. C. Agitar una rama de palmera en la calle era invocar a la vez la adoración a Dios y la memoria de la liberación política. La multitud sabía exactamente lo que estaba diciendo.
 
-La palabra *Hosanna* no es una aclamación genérica. Es una cita directa del Salmo 118:25 (*hoshia na*, «Sálvanos, te rogamos»), tomada de un salmo ya asociado en la liturgia judía con la venida del rey davídico. Dicha en el contexto de un hombre que entra a la ciudad montado en un asno, cargaba todo el peso de una declaración mesiánica, porque el profeta Zacarías había especificado precisamente ese modo de llegada siglos antes.
+La palabra *Hosanna* no es una aclamación genérica. Es una cita directa del Salmo 118:25 (*hoshia na*, «Te rogamos, oh SEÑOR, sálvanos ahora»), tomada de un salmo ya asociado en la liturgia judía con la venida del rey davídico. Dicha en el contexto de un hombre que entra a la ciudad montado en un asno, cargaba todo el peso de una declaración mesiánica, porque el profeta Zacarías había especificado precisamente ese modo de llegada siglos antes.
 
 > Oh SEÑOR, sálvanos ahora, te rogamos; oh SEÑOR, danos ahora prosperidad. Bendito el que viene en el nombre del SEÑOR; desde la casa del SEÑOR los bendecimos.
 >
 > Salmo 118:25-26, NBLA
-
-<!-- VERIFY-NBLA -->
 
 La escena en el monte de los Olivos era el cumplimiento vivo de un guion profético específico:
 
 > Regocíjate mucho, hija de Sion; da voces de júbilo, hija de Jerusalén. He aquí, tu Rey viene a ti, justo y victorioso, humilde, montado en un asno, en un pollino, hijo de asna.
 >
 > Zacarías 9:9, NBLA
-
-<!-- VERIFY-NBLA -->
 
 Esas personas no estaban confundidas. Estaban llevando a cabo una coronación. Cada detalle era teológicamente preciso: las ramas, los mantos tendidos bajo los pies como alfombra real, el salmo mesiánico cantado a plena voz, el asno que coincidía con la descripción del profeta hasta en su linaje. El problema no era la ceremonia. Era su expectativa de lo que haría a continuación el rey coronado.
 
@@ -106,15 +92,11 @@ Y es crucial notar que este malentendido no era exclusivo de la multitud del Dom
 >
 > Hechos 1:6, NBLA
 
-<!-- VERIFY-NBLA -->
-
 No era una pregunta ingenua. Era la pregunta de hombres que habían absorbido siglos de esperanza profética y ahora la presionaban contra el acontecimiento más extraordinario de la historia humana. Los discípulos en el monte de los Olivos después de la Resurrección y la multitud en las calles de Jerusalén el domingo preguntaban lo mismo, y Jesús les dio la misma redirección:
 
 > Y Él les dijo: «A ustedes no les toca saber los tiempos ni las épocas que el Padre ha fijado con Su propia autoridad; pero recibirán poder cuando el Espíritu Santo venga sobre ustedes, y serán Mis testigos en Jerusalén, y en toda Judea y Samaria, y hasta los confines de la tierra».
 >
 > Hechos 1:7-8, NBLA
-
-<!-- VERIFY-NBLA -->
 
 El reino es real, pero su calendario y su territorio pertenecen a un orden distinto del que los discípulos (o la multitud del Domingo de Ramos) estaban preparados para recibir.
 
@@ -124,7 +106,7 @@ La multitud que aclamaba a Jesús al entrar en Jerusalén no era ingenua. Leía 
 
 Los símbolos que escogió la multitud eran insuficientes solo en su interpretación: cada uno señalaba, con precisión, exactamente lo que Jesús vino a hacer, pero la multitud los leyó como un manifiesto político cuando eran un manifiesto sacrificial.
 
-Piensa en el asno. Zacarías 9:9 describe al rey que viene como «humilde, montado en un asno», y el contraste incrustado en esa imagen no es casual. Los caballos eran animales de guerra; los reyes los montaban para ir a la batalla, y el libro de Apocalipsis usaría más tarde deliberadamente esa misma imagen al describir al Cristo conquistador al final de los tiempos (Apocalipsis 19:11). Un asno, en cambio, era la montura de la paz. Era lo que se montaba cuando la lucha había terminado, cuando los términos ya estaban fijados, cuando el viaje por delante no era una campaña sino una procesión. La multitud junto al camino vio humildad y la interpretó como estrategia, el rey sin pretensiones que pronto revelaría Su poder. Pero el asno no era un disfraz de caballo de guerra. Era el punto. La victoria de este Rey no se parecería a una campaña militar porque el enemigo que vino a derrotar no estaba apostado en la Fortaleza Antonia. <!-- VERIFY-NBLA -->
+Piensa en el asno. Zacarías 9:9 describe al rey que viene como «humilde, montado en un asno», y el contraste incrustado en esa imagen no es casual. Los caballos eran animales de guerra; los reyes los montaban para ir a la batalla, y el libro de Apocalipsis usaría más tarde deliberadamente esa misma imagen al describir al Cristo conquistador al final de los tiempos (Apocalipsis 19:11). Un asno, en cambio, era la montura de la paz. Era lo que se montaba cuando la lucha había terminado, cuando los términos ya estaban fijados, cuando el viaje por delante no era una campaña sino una procesión. La multitud junto al camino vio humildad y la interpretó como estrategia, el rey sin pretensiones que pronto revelaría Su poder. Pero el asno no era un disfraz de caballo de guerra. Era el punto. La victoria de este Rey no se parecería a una campaña militar porque el enemigo que vino a derrotar no estaba apostado en la Fortaleza Antonia.
 
 El momento de la Pascua tenía el mismo peso, y cortaba aún más hondo. Jerusalén en la fiesta era una ciudad saturada del recuerdo de los corderos. Todo peregrino que había hecho el viaje al Templo para la Pascua estaba pensando, en alguna medida, en la noche en Egipto cuando la sangre de un cordero pintada en un dintel hizo que el ángel de la muerte pasara de largo sobre Israel (Éxodo 12:7, 13, 23). El cordero no era solo historia antigua. Era el centro de la observancia de esa semana, el animal que sería sacrificado en el recinto del Templo cuando declinara el sol del día catorce de Nisán. La multitud agitaba sus ramas de palmera en una ciudad que ya pensaba en un cordero. Lo que no estaban preparados para ver era que el cordero y el rey eran la misma persona. Pablo, escribiendo una generación después, haría explícita la identificación que el momento de la Pascua ya había proclamado:
 
@@ -132,13 +114,11 @@ El momento de la Pascua tenía el mismo peso, y cortaba aún más hondo. Jerusal
 >
 > 1 Corintios 5:7, NBLA
 
-<!-- VERIFY-NBLA -->
-
 <!-- TRANSLATOR NOTE: The ESV reads "Christ, our Passover lamb"; the NBLA reads "nuestra Pascua" (our Passover), without "lamb". The prose after the quote already says "el Cordero", so the argument stands, and the lamb imagery is carried by the surrounding paragraph. -->
 
 Jesús no llegó en la Pascua para sacar a Israel del Egipto romano. Llegó para ser el Cordero. La multitud celebraba el éxodo equivocado, y el correcto al mismo tiempo, sin saberlo.
 
-Y así el *Hosanna* («Sálvanos, te rogamos») era exactamente correcto. Él salvaría. Pero la salvación que la multitud pedía y la salvación que Él vino a lograr estaban separadas por un abismo que ni Roma ni victoria militar alguna habrían podido cruzar. Su clamor llegaba más alto de lo que sabían, y la respuesta que recibiría era más grande de lo que podían abarcar. Pedían al Rey correcto con la descripción de puesto equivocada.
+Y así el *Hosanna* («Te rogamos, oh SEÑOR, sálvanos ahora») era exactamente correcto. Él salvaría. Pero la salvación que la multitud pedía y la salvación que Él vino a lograr estaban separadas por un abismo que ni Roma ni victoria militar alguna habrían podido cruzar. Su clamor llegaba más alto de lo que sabían, y la respuesta que recibiría era más grande de lo que podían abarcar. Pedían al Rey correcto con la descripción de puesto equivocada.
 
 ## De los vítores a los abucheos
 
@@ -148,15 +128,11 @@ Cinco días. La misma ciudad. Las mismas voces. El domingo tendieron sus mantos 
 >
 > Mateo 27:22-23, NBLA
 
-<!-- VERIFY-NBLA -->
-
 Fíjate en lo que la multitud no puede producir cuando Pilato hace su pregunta: un cargo. Él dice: *¿Qué mal ha hecho?* Y ellos no responden con evidencia. Responden con volumen. Su caso contra Jesús no era que hubiera hecho algo malo; era que había fallado en hacer lo que ellos necesitaban que hiciera. Y en ese tribunal, el Rey que había llorado por su ciudad le dio a Pilato la respuesta que la multitud nunca había podido oír:
 
 > Jesús respondió: «Mi reino no es de este mundo. Si Mi reino fuera de este mundo, Mis servidores pelearían para que Yo no fuera entregado a los judíos; pero ahora Mi reino no es de aquí».
 >
 > Juan 18:36, NBLA
-
-<!-- VERIFY-NBLA -->
 
 El tribunal de Roma, el gobernador de Roma, el entendimiento de Roma sobre el poder, todo eso era sencillamente el marco equivocado para verlo a Él. No había venido a quitar a Pilato. Había venido por algo que Pilato no podía tocar. No había marchado sobre el pretorio. No había levantado un ejército. Había ido al Templo y volcado mesas (Mateo 21:12-13), y luego se había retirado a enseñar. No era el rey que habían coronado el domingo, y por eso la corona tenía que caer.
 
@@ -175,8 +151,6 @@ Jesús vino por la esclavitud que Roma no podía ver y que la multitud había de
 > En el mundo estaba, y el mundo fue hecho por medio de Él, y el mundo no Lo conoció. A lo Suyo vino, y los Suyos no Lo recibieron.
 >
 > Juan 1:10-11, NBLA
-
-<!-- VERIFY-NBLA -->
 
 <!-- TRANSLATOR NOTE: The English says "The subtitle is not an accusation"; the referent appears to be the verse just quoted, so the Spanish says "El versículo". -->
 

@@ -39,10 +39,9 @@ Dios lo hirió de muerte allí mismo.
 
 Se llamaba Uza, y ayudaba a trasladar el arca del pacto, el objeto más sagrado de Israel, un cofre recubierto de oro que estaba en el centro de la manera en que la nación se encontraba con su Dios. La habían cargado en un carro nuevo tirado por bueyes, y Uza caminaba a su lado. El camino era desigual. Entonces esto:
 
-> «Cuando llegaron a la era de Nacón, Uza extendió la mano al arca de Dios y la sostuvo, porque los bueyes tropezaron. Y se encendió la ira del SEÑOR contra Uza, y Dios lo hirió allí por su irreverencia, y murió allí junto al arca de Dios».
+> Pero cuando llegaron a la era de Nacón, Uza extendió la mano hacia el arca de Dios, y la sostuvo porque los bueyes casi la volcaron. Y se encendió la ira del SEÑOR contra Uza, y Dios lo hirió allí por su irreverencia; y allí murió junto al arca de Dios.
 >
 > 2 Samuel 6:6-7 (NBLA)
-<!-- VERIFY-NBLA -->
 <!-- TRANSLATOR NOTE: The ESV renders the Hebrew shal as "error"; the NBLA, as best I recall, has "irreverencia" (irreverence). Later in the essay the commentary on "error" ("Error. Not accident.") is adapted to the word the Spanish text actually uses. -->
 
 Léelo como llega la primera vez. Los bueyes tropiezan. El carro da un tirón. El arca, que valía más que cualquier otra cosa que la nación poseyera, empieza a volcarse. Uza hace lo que cualquiera de nosotros haría sin pensar. Extiende la mano. La sostiene. Y por el reflejo de medio segundo, por mantener el objeto más santo de Israel fuera del polvo, está muerto antes de asentarse junto a ella.
@@ -69,16 +68,14 @@ La muerte de un hombre es el sol del mediodía. Es tan brillante, tan fuerte, ta
 
 La Biblia tiene un nombre para lo que acabas de hacer.
 
-> «Al que responde antes de escuchar, le es necedad y vergüenza».
+> El que responde antes de escuchar, Cosecha necedad y vergüenza.
 >
 > Proverbios 18:13 (NBLA)
-<!-- VERIFY-NBLA -->
-
 No es un insulto. Es un diagnóstico, y justo. Diste una respuesta, a Uza lo trataron mal, Dios fue cruel, antes de escuchar el caso. No porque seas descuidado, sino porque dos versículos fue todo lo que te entregaron, y dos versículos bastan para sentirse seguro. La certeza es barata al mediodía.
 
 Hay una segunda cosa debajo de la primera. Cuando dictaminaste que Uza recibió un trato injusto, mediste el suceso contra tu propio sentido de lo que es justo. Ese instinto no carece de valor. Pero supone que tu sentido de la proporción y el de Dios son del mismo tamaño, y la Escritura dice claramente que no lo son.
 
-> «Porque Mis pensamientos no son los pensamientos de ustedes, ni sus caminos son Mis caminos», declara el SEÑOR. «Porque como los cielos son más altos que la tierra, así Mis caminos están más altos que sus caminos y Mis pensamientos más que sus pensamientos».
+> «Porque Mis pensamientos no son los pensamientos de ustedes, ni sus caminos son Mis caminos», declara el SEÑOR. Porque como los cielos son más altos que la tierra, Así Mis caminos son más altos que sus caminos, y Mis pensamientos más que sus pensamientos.
 >
 > Isaías 55:8-9 (NBLA)
 
@@ -94,30 +91,21 @@ Las instrucciones vinieron primero, y vinieron de Dios.
 
 Siglos antes de David, en ese monte en el desierto, Dios le dio a Moisés el diseño del arca hasta el último anillo y la última vara. No le pidió a Moisés que construyera algo hermoso y lo trajera para aprobación. Le entregó un plano y le dijo que lo siguiera al pie de la letra.
 
-> «Conforme a todo lo que Yo te muestro, el diseño del tabernáculo y el diseño de todo su mobiliario, así lo harán».
+> Conforme a todo lo que te voy a mostrar, conforme al diseño del tabernáculo y al diseño de todo su mobiliario, así ustedes lo harán.
 >
 > Éxodo 25:9 (NBLA)
-<!-- VERIFY-NBLA -->
-
-Lo dice de nuevo unos versículos después, por si se pasa por alto el punto. Hazlo «conforme al modelo que se te muestra en el monte» (Éxodo 25:40). La idea que sigue volviendo es el modelo. El arca no fue inventada. Fue revelada. Cada dimensión de ella fue dictada por Aquel que se sentaría en ella, y esa última frase no es una figura retórica.
-<!-- VERIFY-NBLA -->
+Lo dice de nuevo unos versículos después, por si se pasa por alto el punto. Hazlo «CONFORME AL MODELO QUE TE FUE MOSTRADO EN EL MONTE» (Éxodo 25:40). La idea que sigue volviendo es el modelo. El arca no fue inventada. Fue revelada. Cada dimensión de ella fue dictada por Aquel que se sentaría en ella, y esa última frase no es una figura retórica.
 <!-- TRANSLATOR NOTE: The English leans on the single word "pattern," which recurs in Exodus 25:9 and 25:40 in the ESV. The NBLA uses different words (diseño / modelo), so the sentence now names the recurring idea ("el modelo") rather than claiming one repeated word. -->
 
 Porque la caja era un trono.
 
-Pregunta por qué Dios quiso que se construyera, y te lo dice en una sola oración: «Y que me hagan un santuario, para que Yo habite entre ellos» (Éxodo 25:8). Todo el sentido del arca era la cercanía. El Dios que hizo los cielos bajo los que estabas parado decidió bajar y vivir en el centro de un pueblo en particular, y el arca era el lugar que escogió para hacerlo. Era donde Él hablaría.
-<!-- VERIFY-NBLA -->
-
-> «Allí me encontraré contigo, y de sobre el propiciatorio, de entre los dos querubines que están sobre el arca del testimonio, hablaré contigo…»
+Pregunta por qué Dios quiso que se construyera, y te lo dice en una sola oración: «Que me hagan un santuario, para que Yo habite entre ellos» (Éxodo 25:8). Todo el sentido del arca era la cercanía. El Dios que hizo los cielos bajo los que estabas parado decidió bajar y vivir en el centro de un pueblo en particular, y el arca era el lugar que escogió para hacerlo. Era donde Él hablaría.
+> Allí me encontraré contigo, y de sobre el propiciatorio, de entre los dos querubines que están sobre el arca del testimonio, te hablaré acerca de todo lo que he de darte por mandamiento para los israelitas.
 >
 > Éxodo 25:22 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Dos cosas en ese versículo necesitan una palabra de explicación, porque cargan el peso de todo lo que le ocurre después a Uza.
 
-La primera son los querubines. Cuando la procesión de David se pone en marcha, el texto llama al arca por su título completo, el arca «sobre la cual se invoca el nombre del SEÑOR de los ejércitos que está sentado sobre los querubines» (2 Samuel 6:2). Los querubines eran dos figuras trabajadas en la tapa de oro, una frente a la otra, con las alas extendidas. El espacio sobre ellos, entre las alas, era el trono de Dios en la tierra. El arca no era un recipiente que Él visitaba. Era el asiento que ocupaba.
-<!-- VERIFY-NBLA -->
-
+La primera son los querubines. Cuando la procesión de David se pone en marcha, el texto llama al arca por su título completo, el arca «la cual es llamada por el Nombre, el nombre del SEÑOR de los ejércitos, que está sobre los querubines» (2 Samuel 6:2). Los querubines eran dos figuras trabajadas en la tapa de oro, una frente a la otra, con las alas extendidas. El espacio sobre ellos, entre las alas, era el trono de Dios en la tierra. El arca no era un recipiente que Él visitaba. Era el asiento que ocupaba.
 La segunda es el propiciatorio (el «asiento de la misericordia»), y este vuelve justo al final, así que aférrate a él. El propiciatorio era esa tapa. Una vez al año, el único día señalado para ello, el sumo sacerdote llevaba sangre al cuarto donde estaba el arca y la rociaba allí, sobre el oro, sobre los querubines (Levítico 16). Era el único lugar del mundo donde la santidad de Dios y el pecado de las personas se encontraban sin que las personas murieran. La sangre hacía posible el encuentro. Recuérdalo.
 <!-- TRANSLATOR NOTE: "Mercy seat" is rendered «propiciatorio» (the standard Spanish term, which shares its root with «propiciación» used in Romans 3:25 at the end), glossed once as «asiento de la misericordia» for the reader. This preserves the essay's closing link between the gold lid and Christ as propitiation. -->
 
@@ -131,18 +119,14 @@ Lo cual plantea la pregunta obvia. Si el arca nunca debía tocarse, ¿cómo se s
 
 El arca tenía cuatro anillos y dos varas largas pasadas por ellos, y las varas no eran decoración.
 
-> «Meterás las varas por los anillos a los lados del arca, para llevar el arca con ellas».
+> Meterás las varas por las argollas a los lados del arca, para llevar el arca con ellas.
 >
 > Éxodo 25:14 (NBLA)
-<!-- VERIFY-NBLA -->
-
 El diseño respondía a su propio peligro. Un trono tan santo no podía manipularse, así que Dios lo construyó para llevarse a distancia de un brazo, en varas, sobre los hombros de hombres apartados para la tarea. Los levitas, una de las tribus de Israel, tenían la misión de trasladarla, y las instrucciones que se les dieron fueron directas sobre lo que estaba en juego.
 
-> «…pero no tocarán las cosas sagradas, no sea que mueran».
+> …pero que no toquen los objetos sagrados, pues morirían.
 >
 > Números 4:15 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Ese versículo se escribió generaciones antes de que naciera Uza. No fue un fallo sorpresa inventado en la era. La regla que lo mató era antigua, y era conocida, y existía precisamente para que ninguna mano tuviera que hacer jamás lo que hizo la suya. Las varas eran la misericordia. Úsalas, y nadie tiene que tocar el trono de Dios.
 
 Los hombres de David no las usaron. Pusieron el arca en un carro.
@@ -153,14 +137,10 @@ Así que el tropiezo nunca fue la causa. Los bueyes tropezando en Nacón fue el 
 
 No tienes que creerme a mí sobre qué fallo importó. David mismo te lo dice. Meses después vuelve y lo hace correctamente, y nombra en voz alta lo que había salido mal la primera vez.
 
-> «Por cuanto ustedes no la llevaron la primera vez, el SEÑOR nuestro Dios irrumpió contra nosotros, porque no Lo buscamos conforme a lo ordenado».
+> Puesto que ustedes no la llevaron la primera vez, el SEÑOR nuestro Dios estalló en ira contra nosotros, ya que no lo buscamos conforme a la ordenanza.
 >
 > 1 Crónicas 15:13 (NBLA)
-<!-- VERIFY-NBLA -->
-
-No conforme a lo ordenado. El propio rey lo llama un fallo de procedimiento, no una tragedia ni mala suerte. La segunda vez, «los levitas llevaron el arca de Dios sobre sus hombros con las varas, como Moisés había ordenado» (1 Crónicas 15:15). Hombros. Varas. Como Moisés había ordenado. La corrección no fue más que la instrucción original, por fin obedecida.
-<!-- VERIFY-NBLA -->
-
+No conforme a lo ordenado. El propio rey lo llama un fallo de procedimiento, no una tragedia ni mala suerte. La segunda vez, «los hijos de los levitas llevaron el arca de Dios sobre sus hombros, con las barras puestas, como Moisés había ordenado» (1 Crónicas 15:15). Hombros. Varas. Como Moisés había ordenado. La corrección no fue más que la instrucción original, por fin obedecida.
 Falta una pieza. Un método equivocado explica la muerte. Todavía no explica por qué este hombre en particular, de todos los que empujaban ese carro, fue el que extendió la mano.
 
 ## El muchacho que creció con ella
@@ -177,13 +157,11 @@ Este es el giro sobre el que descansa todo el relato. Uza no era un turista que 
 
 El Nuevo Testamento tiene una palabra dura y limpia para eso.
 
-> «Así que, para el que sabe hacer lo bueno y no lo hace, le es pecado».
+> A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
 >
 > Santiago 4:17 (NBLA)
 
 No el pecado de un hombre que no sabía. El pecado de un hombre que sí sabía. Esa es la categoría en la que opera la historia, y encaja exactamente con Uza. Sabía la manera correcta de trasladar el arca y no se hizo. Sabía que el arca no debía tocarse y la tocó. El relato hasta te da la propia lectura de Dios del momento. Lo hirió allí «por su irreverencia» (2 Samuel 6:7). Irreverencia. No accidente. La palabra señala con el dedo, y señala algo que Uza comprendía lo bastante bien como para haber obrado de otra manera.
-<!-- VERIFY-NBLA -->
-
 Y sin embargo. Detente aquí y habrás resuelto el acertijo pero perdido la historia. Porque «se lo buscó» es una lectura tan pequeña como «Dios es cruel». Es el mismo error con el abrigo al revés, otro veredicto dictado en cuanto la niebla parece levantarse. Hay más cielo.
 
 ## ¿Quién pecó?
@@ -224,16 +202,12 @@ Retrocede una vez más, pasando la era, pasando los años en la casa de Abinadab
 
 Israel estaba bajo disciplina. Se habían alejado de Dios, y Dios había dejado que sus enemigos los presionaran. Los filisteos habían dominado a Israel durante cuarenta años (Jueces 13:1). Esa era la situación. No una mala suerte aleatoria. Un pueblo bajo la corrección amorosa de Dios, aprendiendo por las malas a volver.
 
-¿Y qué hicieron? Fueron a la guerra. No por mandato de Dios, no después de preguntarle, sin señal de que se hubieran detenido a averiguar qué quería Él. El registro es casi plano al respecto: «Israel salió al encuentro de los filisteos para combatir» (1 Samuel 4:1). Ninguna oración. Ningún profeta consultado, aunque tenían uno. Solo una nación decidiendo, por su propio impulso, arreglar por la fuerza la misma circunstancia que Dios había dispuesto para llamar su atención. Perdieron. Cuatro mil hombres.
-<!-- VERIFY-NBLA -->
-
+¿Y qué hicieron? Fueron a la guerra. No por mandato de Dios, no después de preguntarle, sin señal de que se hubieran detenido a averiguar qué quería Él. El registro es casi plano al respecto: «Israel salió para enfrentarse en batalla con los filisteos» (1 Samuel 4:1). Ninguna oración. Ningún profeta consultado, aunque tenían uno. Solo una nación decidiendo, por su propio impulso, arreglar por la fuerza la misma circunstancia que Dios había dispuesto para llamar su atención. Perdieron. Cuatro mil hombres.
 Y entonces, habiendo perdido, siguieron sin preguntarle a Dios qué hacía. Buscaron palanca en su lugar.
 
-> «…Traigamos a nosotros el arca del pacto del SEÑOR desde Silo, para que venga entre nosotros y nos salve del poder de nuestros enemigos».
+> …tomemos con nosotros, de Silo, el arca del pacto del SEÑOR, para que vaya en medio de nosotros y nos libre del poder de nuestros enemigos.
 >
 > 1 Samuel 4:3 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Lee lo que creían. No «volvamos a Dios». Traigamos el arca, la caja, para que nos salve. Querían el objeto, no a Aquel que se sentaba sobre él. Trataron el trono de Dios como un amuleto de buena suerte que se lleva a una pelea, una palanca que se jala para forzar el resultado que ya habías decidido querer. Dios no era alguien a quien obedecer. Era algo que desplegar.
 
 Salió catastróficamente. Los filisteos los derrotaron de nuevo, mataron a treinta mil hombres y capturaron el arca (1 Samuel 4:10-11). Y los dos hijos de Elí, los sacerdotes Ofni y Finees, murieron el mismo día, no como bajas de una batalla perdida sino bajo una sentencia que Dios había dictado sobre ellos mucho antes. Le había dicho a su padre que los dos morirían el mismo día, y así fue (1 Samuel 2:34; 4:11). El anciano sacerdote Elí cayó muerto al oír la noticia (4:18). Silo, donde el arca había vivido, nunca volvería a albergarla. Israel había tomado lo más santo que poseía y lo había llevado a una batalla que Dios nunca autorizó, para forzar un rescate de una disciplina que se negaban a entender, y perdieron la cosa misma.
@@ -252,31 +226,25 @@ La respuesta es la mejor parte de la historia.
 
 Vuelve a la era, al momento justo después de que cae Uza, y mira lo que hace David. No adora. Se enoja, y luego se asusta.
 
-> «David tuvo temor del SEÑOR aquel día, y dijo: “¿Cómo vendrá a mí el arca del SEÑOR?”»
+> David tuvo temor del SEÑOR aquel día, y dijo: «¿Cómo podrá venir a mí el arca del SEÑOR?».
 >
 > 2 Samuel 6:9 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Ahí terminaría una historia menor. Dios es aterrador, el arca es letal, mantén la distancia y espera lo mejor. Y durante tres meses, eso es exactamente lo que David deja. Se niega a llevar el arca más lejos. La desvía a la casa de un hombre llamado Obed-edom, y se va, temeroso.
 
 Entonces algo ocurre en esa casa que lo cambia todo.
 
-> «Y el arca del SEÑOR permaneció en la casa de Obed-edom geteo tres meses, y el SEÑOR bendijo a Obed-edom y a toda su casa».
+> Por tres meses permaneció el arca del SEÑOR en la casa de Obed Edom el geteo; y bendijo el SEÑOR a Obed Edom y a toda su casa.
 >
 > 2 Samuel 6:11 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Bendijo. No hirió. La misma arca que mató a un hombre en la era pasó tres meses bajo el techo de Obed-edom y dejó bendición tras de sí. Y la noticia de esa bendición es lo único que pone a David en marcha de nuevo. Oye que el arca no ha sido más que buena para la casa que la recibió, y su temor se rompe. Va por ella.
 
 Detente en el contraste, pero con cuidado, porque es fácil decir más de lo que dice el texto. El arca había pasado algo así como setenta años en una casa anterior, la de Uza, y la Escritura no registra bendición allí. Tres meses en esta, y la nombra dos veces. Es tentador concluir que la primera familia debió hacer algo mal y la segunda algo bien. El texto no nos lo dice. No dice nada en absoluto sobre cómo se trató el arca en la casa de Uza. Lo que muestra, con claridad, es lo que David necesitaba ver y tú necesitas ver. El arca nunca fue muerte por naturaleza. La misma presencia que se había sentido como un cable vivo era, para una casa que la recibió, pura bendición. La muerte de Uza nunca fue un veredicto de que Dios es peligroso. Fue un veredicto sobre tratarlo como si fuera común.
 
 Eso es lo que hace dar la vuelta a David. Y cuando regresa por el arca, lo hace bien, levitas y varas y hombros, exactamente como debió ser desde el principio. Pero mira lo que hacerlo bien produce en él. No cautela. No un temor nervioso, de puntillas, de poner un pie en falso.
 
-> «Y David danzaba con toda su fuerza delante del SEÑOR…»
+> David danzaba con toda su fuerza delante del SEÑOR…
 >
 > 2 Samuel 6:14 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Danzando. Seis pasos adelante, se detuvieron a sacrificar, y David se quitó su dignidad real y giró en la calle como un hombre que no podía contenerlo (2 Samuel 6:13-15). El mismo rey que había estado demasiado asustado para acercarse al arca ahora saltaba delante de ella a la vista de toda la nación. El temor de Dios y el deleite en Dios resultan no ser opuestos. Crecen de la misma raíz, que es tomarlo en serio. Deja de tomarlo en serio y pierdes ambos. Empieza, y el terror de la era se convierte, al otro lado de la obediencia, en un gozo lo bastante fuerte como para avergonzar a un rey.
 
 Esta es la forma hacia la que siempre se inclinaba la disciplina de Dios. No la muerte. La danza. La severidad nunca fue el destino. Fue el camino de regreso a un pueblo que pudiera estar en Su presencia y alegrarse.
@@ -306,8 +274,6 @@ Queda una última cosa por ver, la cosa que había estado sentada sobre el arca 
 Uza extendió la mano para impedir que Dios cayera. Lo tenía exactamente al revés. Nunca fue el arca la que necesitaba sostenerse, y nunca fue Dios quien corría peligro de golpear el suelo. Nosotros somos los que caemos. Y la tapa de la misma caja que lo mató era el propiciatorio, el único lugar donde se llevaba sangre para que personas pecadoras pudieran acercarse a un Dios santo y vivir. Dios no construyó el arca solo para ser intocable. Construyó en su parte superior el lugar donde se Le podía acercar.
 
 Ese lugar tiene nombre ahora. Siglos después, la sangre que se llevó fue la Suya. El Nuevo Testamento toma la palabra misma de esa tapa de oro y la pone sobre Jesús, a quien Dios «exhibió públicamente como propiciación por Su sangre» (Romanos 3:25),[^propitiation] el verdadero propiciatorio, donde la santidad que hirió a un hombre descuidado ahora se encuentra con personas descuidadas y no las hiere. No porque la santidad se haya relajado. Porque la sangre es mejor.
-<!-- VERIFY-NBLA -->
-
 Uza extendió la mano para sostener a Dios. Dios extendió Sus manos para ser clavado, para que el resto de nosotros, cada uno con un carro y un atajo y una mano que se estira hacia lo equivocado, pudiera acercarse al trono y vivir.
 
 Ese no es un Dios demasiado pequeño. Es un Dios demasiado grande, y demasiado bondadoso, para haber cabido jamás en dos versículos.

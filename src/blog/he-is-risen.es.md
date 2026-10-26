@@ -36,9 +36,7 @@ Volveré a lo que hice al respecto. Primero: yo no fui el primero. Déjame habla
 
 ## Ha resucitado
 
-El anuncio del ángel en la tumba vacía está en tiempo presente: *«No está aquí, pues ha resucitado»* (Mateo 28:6, NBLA).
-
-<!-- VERIFY-NBLA -->
+El anuncio del ángel en la tumba vacía está en tiempo presente: *«No está aquí, porque ha resucitado»* (Mateo 28:6, NBLA).
 
 No *resucitó*. No *fue levantado y el asunto ya está zanjado*. Ha resucitado, y la realidad presente de esa resurrección es la razón por la que la tumba está vacía ahora mismo, por la que la piedra está removida ahora mismo, por la que los lienzos de la sepultura yacen doblados en la oscuridad.
 
@@ -68,8 +66,6 @@ La primera aparición del Jesús resucitado fue a una mujer que lo amaba lo sufi
 
 *(Juan 20:1-18)*
 
-<!-- VERIFY-NBLA -->
-
 ---
 
 ### Las mujeres
@@ -82,15 +78,11 @@ Ellas se acercaron, abrazaron Sus pies y lo adoraron. Les dijo que no tuvieran m
 
 *(Mateo 28:8-10)*
 
-<!-- VERIFY-NBLA -->
-
 ---
 
 ### Pedro
 
-Pablo lo registra sin narrarlo: *«se apareció a Cefas»* (1 Corintios 15:5). Lucas lo confirma: *«El Señor en verdad ha resucitado y se ha aparecido a Simón»* (Lucas 24:34).
-
-<!-- VERIFY-NBLA -->
+Pablo lo registra sin narrarlo: *«se apareció a Cefas»* (1 Corintios 15:5). Lucas lo confirma: *«Es verdad que el Señor ha resucitado y se ha aparecido a Simón»* (Lucas 24:34).
 
 No se conserva ningún relato de lo que pasó entre ellos. Solo sabemos que ocurrió, y sabemos lo que Pedro llevaba a ese encuentro. Tres negaciones. Una fogata en un patio. El canto de un gallo. La mirada de Jesús mientras se lo llevaban (Lucas 22:54-62).
 
@@ -110,13 +102,11 @@ Cuando llegaron a la aldea le insistieron que se quedara, y entró a comer con e
 
 Entonces se les abrieron los ojos. Y Él desapareció.
 
-Se miraron el uno al otro. *«¿No ardía nuestro corazón dentro de nosotros mientras nos hablaba por el camino, mientras nos abría las Escrituras?»*
+Se miraron el uno al otro. *«¿No ardía nuestro corazón dentro de nosotros mientras nos hablaba en el camino, cuando nos abría las Escrituras?»*
 
 Se levantaron esa misma hora y caminaron las siete millas de regreso a Jerusalén para contárselo a los demás.
 
 *(Lucas 24:13-35)*
-
-<!-- VERIFY-NBLA -->
 
 ---
 
@@ -134,13 +124,11 @@ Tomás no estaba allí.
 
 *(Juan 20:19-23)*
 
-<!-- VERIFY-NBLA -->
-
 ---
 
 ### Tomás
 
-Cuando los otros le dijeron que habían visto al Señor, Tomás no lo aceptó. Puso una condición. *«Si no veo en Sus manos la marca de los clavos, y meto mi dedo en el lugar de los clavos, y pongo mi mano en Su costado, no creeré».*
+Cuando los otros le dijeron que habían visto al Señor, Tomás no lo aceptó. Puso una condición. *«Si no veo en Sus manos la señal de los clavos, y meto el dedo en el lugar de los clavos, y pongo la mano en Su costado, no creeré».*
 
 Ocho días después, las puertas estaban cerradas otra vez. Jesús se puso en medio de ellos otra vez.
 
@@ -150,11 +138,9 @@ Fue directo a Tomás.
 
 Tomás no necesitó tocarlo. Había oído suficiente. Respondió con la confesión más alta de los cuatro Evangelios: *«¡Señor mío y Dios mío!»*
 
-Jesús dijo: *«¿Porque me has visto has creído? Bienaventurados los que no vieron, y sin embargo creyeron».*
+Jesús dijo: *«¿Porque me has visto has creído? Dichosos los que no vieron, y sin embargo creyeron».*
 
 *(Juan 20:24-29)*
-
-<!-- VERIFY-NBLA -->
 
 ---
 
@@ -176,15 +162,11 @@ Tres negaciones. Tres restauraciones. El Jesús resucitado no dejó la herida si
 
 *(Juan 21)*
 
-<!-- VERIFY-NBLA -->
-
 ---
 
 ### Los quinientos
 
-Pablo menciona esta aparición en su relato de la resurrección, y le adjunta un detalle que funciona no como devoción sino como desafío legal: *«apareció a más de quinientos hermanos a la vez, de los cuales la mayoría permanece hasta ahora, pero algunos han dormido»* (1 Corintios 15:6, NBLA).
-
-<!-- VERIFY-NBLA -->
+Pablo menciona esta aparición en su relato de la resurrección, y le adjunta un detalle que funciona no como devoción sino como desafío legal: *«se apareció a más de 500 hermanos a la vez, la mayoría de los cuales viven aún, pero algunos ya duermen»* (1 Corintios 15:6, NBLA).
 
 Pablo escribe esto a comienzos de la década del 50 d. C., a menos de veinte años de la crucifixión. Les está diciendo a sus lectores: la mayoría de estas personas siguen vivas. Vayan y pregúntenles. Comprueben el testimonio por ustedes mismos. Este no es el lenguaje de la leyenda. Es el lenguaje de un hombre que sabe que los testigos pueden ser interrogados.
 
@@ -196,8 +178,6 @@ El propio hermano de Jesús no creyó durante el ministerio. Juan lo registra si
 
 Pablo registra, sin elaborar, que el Jesús resucitado se apareció a Santiago (1 Corintios 15:7). Fuera lo que fuera que Santiago vio, se convirtió en columna de la iglesia de Jerusalén. La guió a través de la persecución y la dificultad. Escribió la carta que lleva su nombre. Murió por su testimonio, ejecutado por el sumo sacerdote Ananías hacia el año 62 d. C.
 
-<!-- VERIFY-NBLA -->
-
 Un hombre no muere por una historia que sabe falsa. Mucho menos una historia sobre su propio hermano.
 
 Algo ocurrió entre ellos.
@@ -207,8 +187,6 @@ Algo ocurrió entre ellos.
 ### Pablo en el camino a Damasco
 
 *«Y al último de todos, como a uno nacido fuera de tiempo, se me apareció también a mí»* (1 Corintios 15:8, NBLA).
-
-<!-- VERIFY-NBLA -->
 
 Pablo (conocido entonces como Saulo) no era un seguidor afligido que esperaba buenas noticias. Era un enemigo. Se quedó mirando con aprobación mientras Esteban era apedreado hasta morir por proclamar la resurrección. Iba de casa en casa en Jerusalén arrastrando cristianos a la cárcel. Viajaba a Damasco con cartas que lo autorizaban a arrestar también allí a los seguidores de Jesús (Hechos 7:58-8:3).
 
@@ -226,8 +204,6 @@ Pablo nunca se recuperó de ese camino. Fue azotado, apedreado, naufragó, fue e
 
 Nadie hace eso por una alucinación.
 
-<!-- VERIFY-NBLA -->
-
 ---
 
 ## Las promesas cumplidas
@@ -236,9 +212,7 @@ Las apariciones no fueron el final. Jesús había hecho promesas específicas so
 
 ### El Espíritu Santo
 
-*«Y Yo rogaré al Padre, y Él les dará otro Ayudador para que esté con ustedes para siempre»* (Juan 14:16, NBLA). *«Pero Yo les digo la verdad: les conviene que Yo me vaya; porque si no me voy, el Ayudador no vendrá a ustedes; pero si me voy, se lo enviaré»* (Juan 16:7, NBLA).
-
-<!-- VERIFY-NBLA -->
+*«Yo rogaré al Padre, y Él les dará otro Consolador para que esté con ustedes para siempre»* (Juan 14:16, NBLA). *«Pero Yo les digo la verdad: les conviene que Yo me vaya; porque si no me voy, el Consolador no vendrá a ustedes; pero si me voy, se lo enviaré»* (Juan 16:7, NBLA).
 
 Cincuenta días después de la resurrección, el día de Pentecostés, los discípulos estaban reunidos en Jerusalén. De repente vino un estruendo como de un viento recio que llenó toda la casa. Aparecieron lenguas como de fuego que se posaron sobre cada uno de ellos. Fueron llenos del Espíritu Santo.
 
@@ -262,27 +236,21 @@ Y entonces, mientras ellos miraban, fue elevado, y una nube lo ocultó de sus oj
 
 Se quedaron allí mirando hacia arriba. Dos hombres con vestiduras blancas aparecieron junto a ellos.
 
-*«Hombres de Galilea, ¿por qué están mirando al cielo? Este mismo Jesús que ha sido tomado de ustedes al cielo, vendrá de la misma manera que lo han visto ir al cielo».*
+*«Varones galileos, ¿por qué están mirando al cielo? Este mismo Jesús, que ha sido tomado de ustedes al cielo, vendrá de la misma manera, tal como lo han visto ir al cielo».*
 
 La ascensión no es el final de la historia. Es el intermedio.
 
 *(Hechos 1:9-11)*
 
-<!-- VERIFY-NBLA -->
-
 ---
 
 ### La promesa que aún está por cumplirse
 
-*«Vendré otra vez y los tomaré conmigo, para que donde Yo estoy, también ustedes estén»* (Juan 14:3, NBLA).
-
-<!-- VERIFY-NBLA -->
+*«Vendré otra vez y los tomaré adonde Yo voy; para que donde Yo esté, allí estén ustedes también»* (Juan 14:3, NBLA).
 
 Va a volver. Los ángeles fueron específicos: de la misma manera que lo han visto ir. Visiblemente. Físicamente. Inconfundiblemente. No como una impresión espiritual ni como un concepto teológico, sino como la persona que cocinó pescado en la playa, que pronunció el nombre de María en un huerto, que le mostró a Tomás Sus manos.
 
-Las últimas palabras de la Escritura son una promesa y una oración. Jesús dice: *«Ciertamente vengo pronto».* Juan responde: *«Amén. Ven, Señor Jesús»* (Apocalipsis 22:20, NBLA).
-
-<!-- VERIFY-NBLA -->
+Las últimas palabras de la Escritura son una promesa y una oración. Jesús dice: *«Sí, vengo pronto».* Juan responde: *«Amén. Ven, Señor Jesús»* (Apocalipsis 22:20, NBLA).
 
 La historia no ha terminado. La resurrección no es el capítulo final. Es la garantía del capítulo final.
 

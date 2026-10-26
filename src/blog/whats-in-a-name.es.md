@@ -54,7 +54,7 @@ En el mundo judío antiguo, un nombre no se elegía por cómo sonaba. Se elegía
 
 La mayoría de las personas llevaba un solo nombre y un patronímico: Simón hijo de Jonás, María de Magdala, Jesús de Nazaret. No había apellidos en el sentido moderno. La identidad era relacional: te conocían por tu padre, tu pueblo, tu tribu. Tu nombre le decía a la gente de dónde venías y a quién pertenecías.
 
-Los nombres podían cambiar. Cuando Dios cambiaba un nombre, no era un cambio de imagen. Rehacía la identidad. Abram («padre enaltecido») se convirtió en Abraham, «padre de muchedumbre de naciones», antes de que Sara diera a luz al hijo prometido (Génesis 17:5). El nombre llegó antes que la realidad y la atrajo a la existencia. Simón el pescador se convirtió en Pedro, «la roca», en el momento en que Jesús lo miró y vio algo que nadie más había visto todavía (Juan 1:42). Jacob, «el suplantador», luchó con Dios toda la noche y salió cojeando, renombrado Israel, «el que lucha con Dios» (Génesis 32:28). El nombre nuevo era el registro del encuentro.
+Los nombres podían cambiar. Cuando Dios cambiaba un nombre, no era un cambio de imagen. Rehacía la identidad. Abram («padre enaltecido») se convirtió en Abraham, «padre de multitud de naciones», antes de que Sara diera a luz al hijo prometido (Génesis 17:5). El nombre llegó antes que la realidad y la atrajo a la existencia. Simón el pescador se convirtió en Pedro, «la roca», en el momento en que Jesús lo miró y vio algo que nadie más había visto todavía (Juan 1:42). Jacob, «el suplantador», luchó con Dios toda la noche y salió cojeando, renombrado Israel, «el que lucha con Dios» (Génesis 32:28). El nombre nuevo era el registro del encuentro.
 
 ---
 
@@ -64,16 +64,14 @@ Dios tiene la costumbre de nombrar a Sus agentes antes de que lleguen.
 
 El patrón aparece pronto. Cuando Agar huyó al desierto, embarazada y sola, el Ángel del SEÑOR la encontró junto a una fuente y habló.
 
-> «Le pondrás por nombre Ismael, porque el SEÑOR ha oído tu aflicción».
+> Y le llamarás Ismael, porque el SEÑOR ha oído tu aflicción.
 >
 > Génesis 16:11 (NBLA)
-<!-- VERIFY-NBLA -->
-
 *Ismael*: Dios oye. El nombre no era una sugerencia. Era una declaración de hecho entregada antes de que el niño respirara.
 
 Con Isaac el patrón se profundiza. Dios le dijo a Abraham el nombre antes de que Sara concibiera.
 
-> «Le pondrás por nombre Isaac».
+> Y le pondrás el nombre de Isaac.
 >
 > Génesis 17:19 (NBLA)
 
@@ -81,7 +79,7 @@ Con Isaac el patrón se profundiza. Dios le dijo a Abraham el nombre antes de qu
 
 Cuando Gabriel se apareció a Zacarías en el templo, la primera instrucción fue un nombre.
 
-> «Le pondrás por nombre Juan».
+> Y lo llamarás Juan.
 >
 > Lucas 1:13 (NBLA)
 
@@ -95,7 +93,7 @@ Luego Gabriel vino a María.
 
 Y a José, por separado, en un sueño:
 
-> «Ella dará a luz un hijo; y le pondrás por nombre Jesús, porque Él salvará a Su pueblo de sus pecados».
+> Y dará a luz un Hijo, y le pondrás por nombre Jesús, porque Él salvará a Su pueblo de sus pecados.
 >
 > Mateo 1:21 (NBLA)
 
@@ -116,19 +114,15 @@ Ante una zarza ardiente en el desierto del Sinaí, Moisés pidió Su nombre.
 > «YO SOY EL QUE SOY».
 >
 > Éxodo 3:14 (NBLA)
-<!-- VERIFY-NBLA -->
-
 El hebreo, *ehyeh asher ehyeh*, resiste la traducción. La fuerza literal es algo como «Seré lo que seré», no una evasión, sino una declaración de existencia tan total que nada fuera de Dios puede servir como su definición. El nombre no explica nada porque nada es lo bastante grande para explicarlo.
 
 Tres siglos después, Manoa y su esposa recibieron la visita del mismo Ángel del SEÑOR, que anunciaba el nacimiento de Sansón (Jueces 13:2-5). Manoa, queriendo honrar a este mensajero, le preguntó Su nombre.
 
 La respuesta detuvo la pregunta en seco.
 
-> «¿Por qué preguntas mi nombre, siendo que es maravilloso?»
+> «¿Por qué preguntas mi nombre, viendo que es maravilloso?».
 >
 > Jueces 13:18 (NBLA)
-<!-- VERIFY-NBLA -->
-
 La palabra hebrea traducida «maravilloso» es *peli*: extraordinario, más allá de la comprensión, demasiado asombroso para preguntarlo. No es una evasiva. Es una identificación. La palabra que Él escoge (*peli*) es la misma raíz que Isaías pondrá en profecía siglos después: *Pele-Yoetz*. Admirable Consejero.
 <!-- TRANSLATOR NOTE: The English links Judges 13:18 "wonderful" to Isaiah's "Wonderful Counselor" through the shared English word as well as the Hebrew root. Spanish translations render these with different words (maravilloso / Admirable), so the essay's sentence now states the shared Hebrew root explicitly. -->
 
@@ -143,8 +137,6 @@ Jesús lo reclamó directamente.
 > «Antes que Abraham naciera, Yo soy».
 >
 > Juan 8:58 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Los líderes religiosos lo entendieron de inmediato: Él había reclamado el nombre de Dios. Tomaron piedras para matarlo por Su blasfemia (Juan 8:59).
 
 ---
@@ -155,11 +147,9 @@ Cuando estuvo ante Manoa y llamó a Su nombre *peli* (demasiado maravilloso para
 
 Setecientos años antes de Belén, Isaías 9 anuncia a un niño que nacerá y a un hijo que será dado, y lo nombra cuatro veces.
 
-> «Porque un niño nos ha nacido, un hijo nos ha sido dado; y el gobierno estará sobre Sus hombros, y se llamará Su nombre Admirable Consejero, Dios Poderoso, Padre Eterno, Príncipe de Paz».
+> Porque un Niño nos ha nacido, un Hijo nos ha sido dado, y la soberanía reposará sobre Sus hombros. Y se llamará Su nombre Admirable Consejero, Dios Poderoso, Padre Eterno, Príncipe de Paz.
 >
 > Isaías 9:6 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Cada título es un compuesto en hebreo. No dos palabras colocadas juntas. Un solo nombre construido con dos palabras que juntas significan algo que ninguna de las dos significa por separado.
 
 *Pele-Yoetz*. Admirable Consejero. No un maestro notablemente sabio. Aquel cuyo consejo es sobrenatural en su origen, maravilloso por naturaleza y no por grado. Cuando habla, no razona hacia la verdad. Él es la verdad, hablando.
@@ -194,18 +184,14 @@ Conocer Sus nombres no basta. Hasta los demonios tienen eso.
 
 Cuando Jesús se encontró con espíritus malignos, ellos Lo nombraron con exactitud.
 
-> «Sé quién eres: el Santo de Dios».
+> Yo sé quien Tú eres: el Santo de Dios.
 >
 > Marcos 1:24 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Santiago es directo sobre lo que ese conocimiento produce: los demonios creen, y tiemblan (Santiago 2:19). Y Jesús dice a quienes invocaron Su nombre en el ministerio, que profetizaron en él, echaron fuera demonios en él, hicieron obras poderosas en él:
 
 > «Jamás los conocí; apártense de Mí».
 >
 > Mateo 7:23 (NBLA)
-<!-- VERIFY-NBLA -->
-
 El juicio no cae sobre quienes no aprendieron Su nombre. Cae sobre aquellos cuyos nombres Él no conoció.
 
 La relación comienza con un nombre: específicamente, con invocar el Suyo.
@@ -213,24 +199,18 @@ La relación comienza con un nombre: específicamente, con invocar el Suyo.
 > «Todo aquel que invoque el nombre del Señor, será salvo».
 >
 > Romanos 10:13 (NBLA)
-<!-- VERIFY-NBLA -->
-
 No hay otro nombre por el cual pueda hacerse.
 
-> «Y en ningún otro hay salvación; porque no hay otro nombre bajo el cielo, dado entre los hombres, en el cual podamos ser salvos».
+> En ningún otro hay salvación, porque no hay otro nombre bajo el cielo dado a los hombres, en el cual podamos ser salvos.
 >
 > Hechos 4:12 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Invocar Su nombre no es pronunciar una fórmula. Es volverse hacia una persona: confesar que Jesús es Señor, que murió y resucitó, y que le perteneces. Ese giro es el comienzo de ser conocido. Es el momento en que Él escribe tu nombre.
 
 Lo que sigue no es una doctrina. Es un hogar.
 
-> «En la casa de Mi Padre hay muchas moradas; si no fuera así, se lo hubiera dicho a ustedes; porque Yo voy a preparar un lugar para ustedes. Y si Yo voy y preparo un lugar para ustedes, vendré otra vez y los tomaré conmigo; para que donde Yo estoy, también ustedes estén».
+> En la casa de Mi Padre hay muchas moradas; si no fuera así, se lo hubiera dicho; porque voy a preparar un lugar para ustedes. Y si me voy y les preparo un lugar, vendré otra vez y los tomaré adonde Yo voy; para que donde Yo esté, allí estén ustedes también.
 >
 > Juan 14:2-3 (NBLA)
-<!-- VERIFY-NBLA -->
-
 No dijo que enviaría por ti. Dijo que vendría Él mismo, a llevarte adonde Él está. Ese es el lenguaje de alguien que conoce tu nombre y no quiere estar sin ti.
 
 ---
@@ -246,17 +226,13 @@ La Escritura no toma prestado este patrón de la experiencia humana. La experien
 > «No temas, porque Yo te he redimido, te he llamado por tu nombre; Mío eres tú».
 >
 > Isaías 43:1 (NBLA)
-<!-- VERIFY-NBLA -->
-
 No dice que conoce tu nombre. Dice que te llamó por él: tiempo pasado, decisivo, personal. No te dirigieron como una categoría ni un tipo. Te llamaron. El Dios que habló a las galaxias y las hizo existir pronunció tu nombre. Eso no es una metáfora de la providencia general. Es una afirmación sobre el peso específico e irreductible de ti.
 
 Pero Él no ha terminado. En las siete cartas del Apocalipsis, «el que venza» no es el atleta espiritual que se gana la aprobación. Es cualquiera que se aferra a Su nombre, y aferrarse comienza en el momento en que lo invocas.
 
-> «Al que venza, le daré del maná escondido, y le daré una piedrecita blanca, y grabado en la piedrecita un nombre nuevo, el cual nadie conoce sino aquel que lo recibe».
+> Al vencedor le daré del maná escondido y le daré una piedrecita blanca, y grabado en la piedrecita un nombre nuevo, el cual nadie conoce sino aquel que lo recibe.
 >
 > Apocalipsis 2:17 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Una piedrecita blanca.[^1] Un nombre nuevo. Conocido solo por Dios y por ti.
 
 Este no es tu nombre de bautismo. No es el nombre que tus padres escribieron en un certificado de nacimiento. Ni siquiera el nombre que tus amigos más cercanos han usado toda tu vida. Es el nombre que Dios ha tenido en reserva, el nombre que codifica quién eres para Él, lo que Él ve cuando te mira, lo que siempre estuviste destinado a ser. Nadie más lo recibe. Nadie más podría entenderlo. Pertenece solo a ustedes dos.

@@ -48,23 +48,19 @@ La desesperación dice: *No importaría si lo dijera.*
 
 Ambos están equivocados. Rara vez se anuncian como mentiras. Llegan como conclusiones, razonables, dada la evidencia. Eso es por diseño. Pablo nombra la naturaleza de esta lucha:
 
-> «Porque nuestra lucha no es contra sangre ni carne, sino contra principados, contra potestades, contra los poderes de este mundo de tinieblas, contra las huestes espirituales de maldad en las regiones celestiales».
+> Porque nuestra lucha no es contra sangre y carne, sino contra principados, contra potestades, contra los poderes de este mundo de tinieblas, contra las fuerzas espirituales de maldad en las regiones celestes.
 >
 > Efesios 6:12 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 El orgullo y la desesperación no son fallas personales en busca de fuerza de voluntad. Son armas. Pedro nombra a quien las empuña:
 
-> «Sean de espíritu sobrio, estén alerta. Su adversario, el diablo, como león rugiente, anda al acecho buscando a quién devorar».
+> Sean de espíritu sobrio, estén alerta. Su adversario, el diablo, anda al acecho como león rugiente, buscando a quien devorar.
 >
 > 1 Pedro 5:8 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Jesús nombró su carácter:
 
-> «Él fue un homicida desde el principio, y no se ha mantenido en la verdad porque no hay verdad en él. Cuando habla mentira, habla de lo suyo, porque es mentiroso y padre de la mentira».
+> Él fue un asesino desde el principio, y no se ha mantenido en la verdad porque no hay verdad en él. Cuando habla mentira, habla de su propia naturaleza, porque es mentiroso y el padre de la mentira.
 >
 > Juan 8:44 (NBLA)
 
@@ -72,23 +68,21 @@ La mentira es su herramienta más antigua y la única, la que usó antes de usar
 
 Jesús dijo también:
 
-> «Yo soy el camino, y la verdad y la vida; nadie viene al Padre sino por Mí».
+> Jesús le dijo: Yo soy el camino, la verdad y la vida; nadie viene al Padre sino por Mí.
 >
 > Juan 14:6 (NBLA)
 
 Aquel que es la verdad no deja incertidumbre sobre quien no lo es:
 
-> «El ladrón no viene sino para hurtar, matar y destruir; Yo he venido para que tengan vida, y la tengan en abundancia».
+> El ladrón solo viene para robar, matar y destruir. Yo he venido para que tengan vida, y para que la tengan en abundancia.
 >
 > Juan 10:10 (NBLA)
 
 El orgullo que hace demasiado difícil decir las palabras, y la desesperación que dice que las palabras no importarían: ambos son obra suya.
 
-> «Porque Mis pensamientos no son sus pensamientos, ni sus caminos son Mis caminos, declara el Señor. Porque como los cielos son más altos que la tierra, así Mis caminos son más altos que sus caminos, y Mis pensamientos más que sus pensamientos».
+> «Porque Mis pensamientos no son los pensamientos de ustedes, ni sus caminos son Mis caminos», declara el SEÑOR. Porque como los cielos son más altos que la tierra, Así Mis caminos son más altos que sus caminos, y Mis pensamientos más que sus pensamientos.
 >
 > Isaías 55:8-9 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La Escritura presenta a tres personas que debieron estar fuera de alcance: un hombre que moría por crímenes cuyo nombre nunca se nos dio, un hijo que tomó su herencia por adelantado y la malgastó, y un rey que reinó cincuenta y cinco años y usó la mayor parte de ellos para llenar su ciudad de sangre inocente.
 
@@ -100,11 +94,9 @@ Para los tres, la respuesta fue la misma.
 
 El relato que hace Lucas de la crucifixión *(Lucas 23:32-43)* incluye a dos criminales en cruces a ambos lados de Jesús. Uno se burló de Él. El otro lo detuvo.
 
-> «¿Ni siquiera temes tú a Dios, estando bajo la misma condena? Nosotros, a la verdad, justamente, porque recibimos lo que merecieron nuestros hechos; pero este nada malo ha hecho».
+> «¿Ni siquiera temes tú a Dios a pesar de que estás bajo la misma condena? Nosotros a la verdad, justamente, porque recibimos lo que merecemos por nuestros hechos; pero este nada malo ha hecho».
 >
 > Lucas 23:40-41 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Luego, a Jesús:
 
@@ -132,19 +124,15 @@ Jesús contó una historia *(Lucas 15:11-32)* sobre un hijo menor que fue a su p
 
 El hijo tomó su parte y se fue a un país lejano. Gastó lo que tenía. Vino una hambruna. Se puso a trabajar cuidando cerdos: para un público judío, una imagen elegida deliberadamente por su profundidad de degradación. Cuidaba animales que su propia ley declaraba inmundos. Estaba así de lejos de casa.
 
-> «Pero volviendo en sí, dijo: “¡Cuántos trabajadores de mi padre tienen pan de sobra, pero aquí yo perezco de hambre! Me levantaré e iré a mi padre, y le diré: ‘Padre, he pecado contra el cielo y ante ti. Ya no soy digno de ser llamado hijo tuyo; hazme como uno de tus trabajadores’”».
+> Entonces, volviendo en sí, dijo: «¡Cuántos de los trabajadores de mi padre tienen pan de sobra, pero yo aquí perezco de hambre! »Me levantaré e iré a mi padre, y le diré: ‘Padre, he pecado contra el cielo y ante ti; ya no soy digno de ser llamado hijo tuyo; hazme como uno de tus trabajadores’.
 >
 > Lucas 15:17-19 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 La frase griega traducida «volviendo en sí» es *eis heauton de elthon*, literalmente «entrando en sí mismo». Nombra el momento en que la percepción de una persona alcanza su realidad. Había estado en otra parte. Volvió.
 
-> «Y cuando todavía estaba lejos, lo vio su padre, y se compadeció; y corrió, se echó sobre su cuello y lo besó».
+> Levantándose, fue a su padre. Cuando todavía estaba lejos, su padre lo vio y sintió compasión por él, y corrió, se echó sobre su cuello y lo besó.
 >
 > Lucas 15:20 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Un padre en la cultura judía del primer siglo no corría. Correr exigía levantarse la túnica y dejar las piernas al descubierto, todo ello por debajo de un hombre de edad y posición. El padre corrió de todos modos. Vio a su hijo cuando todavía estaba lejos, lo cual significa que había estado mirando.
 
@@ -158,15 +146,11 @@ El enojo del hijo mayor es comprensible. Según la cuenta humana, es correcto.
 >
 > Lucas 15:30 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 La respuesta de su padre no discute el expediente. Dice algo completamente distinto.
 
-> «Pero era necesario hacer fiesta y regocijarnos, porque este hermano tuyo estaba muerto y ha revivido; estaba perdido y ha sido hallado».
+> Pero era necesario hacer fiesta y regocijarnos, porque este, tu hermano, estaba muerto y ha vuelto a la vida; estaba perdido y ha sido hallado.
 >
 > Lucas 15:32 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Muerto y ahora vivo. Perdido y ahora hallado. No: no era tan malo. No: pagó lo suficiente. Estaba muerto. Ahora está vivo.
 
@@ -178,19 +162,15 @@ Manasés *(2 Crónicas 33; 2 Reyes 21)* era hijo de Ezequías, uno de los reyes 
 
 Reconstruyó los lugares altos que su padre había derribado. Levantó altares a Baal. Quemó a sus hijos como ofrenda en el valle de Ben-hinom. Practicó la hechicería y trató con médiums y nigromantes. Colocó una imagen tallada dentro del templo de Jerusalén, el edificio que Salomón había construido para la presencia de Dios. 2 Reyes 21:16 añade un resumen que no deja nada ambiguo:
 
-> «Además, Manasés derramó muchísima sangre inocente, hasta llenar Jerusalén de un extremo a otro».
+> Además, Manasés derramó muchísima sangre inocente hasta llenar a Jerusalén de un extremo a otro.
 >
 > 2 Reyes 21:16 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 El veredicto de Dios, entregado por medio de los profetas, no se suaviza:
 
-> «Porque Manasés, rey de Judá, ha cometido estas abominaciones, y ha hecho más mal que todo lo que hicieron los amorreos que fueron antes de él, y también ha hecho pecar a Judá con sus ídolos, por tanto, así dice el Señor, Dios de Israel: “Yo voy a traer tal calamidad sobre Jerusalén y Judá, que a todo el que la oiga le zumbarán los dos oídos”».
+> Por cuanto Manasés, rey de Judá, ha hecho estas abominaciones, habiendo hecho lo malo más que todo lo que hicieron los amorreos antes de él, haciendo pecar también a Judá con sus ídolos; por tanto, así dice el SEÑOR, Dios de Israel: Voy a traer tal calamidad sobre Jerusalén y Judá, que a todo el que oiga de ello le retumbarán ambos oídos.
 >
 > 2 Reyes 21:11-12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El libro de los Reyes hace a Manasés responsable de la caída final de Jerusalén. Su pecado fue la razón por la que la ciudad no pudo ser perdonada (2 Reyes 24:3-4).
 
@@ -198,11 +178,9 @@ El libro de los Reyes hace a Manasés responsable de la caída final de Jerusal�
 
 Vinieron los asirios. Tomaron cautivo a Manasés, lo ataron con garfios y cadenas de bronce, y lo llevaron a Babilonia (2 Crónicas 33:11). En una prisión extranjera, al final de una vida documentada de destrucción deliberada:
 
-> «Cuando estuvo angustiado, imploró el favor del Señor su Dios, y se humilló profundamente ante el Dios de sus padres. Le oró, y Dios lo atendió, escuchó su súplica y lo restauró a Jerusalén, a su reino. Entonces Manasés supo que el Señor es Dios».
+> Cuando estaba en angustia, Manasés imploró al SEÑOR su Dios, y se humilló grandemente delante del Dios de sus padres. Y cuando oró a Él, Dios se conmovió por su ruego, oyó su súplica y lo trajo de nuevo a Jerusalén, a su reino. Entonces Manasés reconoció que el SEÑOR era Dios.
 >
 > 2 Crónicas 33:12-13 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Ese es el final del registro. No un registro en blanco, sino un registro que la Escritura apiló deliberada y completamente. Y al final de todo: Dios atendió su ruego.
 
@@ -224,7 +202,7 @@ Ninguno llegó con las manos limpias. Esa nunca fue la condición.
 
 «Lo siento» no es una palabra mágica, no es una fórmula para reiniciar el contador mientras la misma conducta continúa. Pablo anticipó ese argumento y lo cerró de manera directa:
 
-> «¿Qué diremos entonces? ¿Continuaremos en el pecado para que abunde la gracia? ¡De ningún modo!»
+> ¿Qué diremos, entonces? ¿Continuaremos en pecado para que la gracia abunde? ¡De ningún modo!
 >
 > Romanos 6:1-2 (NBLA)
 
@@ -232,25 +210,21 @@ Dios no responde al sonido de la palabra. Responde al giro que hay detrás. No s
 
 La puerta está abierta. Pero no se queda abierta indefinidamente. Cada persona lleva una cita, y nadie sabe la hora.
 
-> «Y así como está establecido para los hombres que mueran una sola vez, y después de esto, el juicio».
+> Y así como está decretado que los hombres mueran una sola vez, y después de esto, el juicio.
 >
 > Hebreos 9:27 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 El Espíritu Santo se pasa una vida entera suplicando. Seguir rehusándose (endurecer el corazón contra esa voz una y otra vez hasta el último aliento) es lo único que la Escritura llama imperdonable *(Mateo 12:31-32)*. No porque el perdón de Dios tenga límites, sino porque quien responde cada súplica con «todavía no» puede llegar al final de todos los todavías.
 
-> «Si oyen hoy Su voz, no endurezcan sus corazones».
+> SI USTEDES OYEN HOY SU VOZ, NO ENDUREZCAN SUS CORAZONES.
 >
 > Hebreos 3:15 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El ladrón tuvo horas. Manasés tuvo una prisión babilónica. Tú tienes hoy. Eso es suficiente. También es todo lo que cualquiera de nosotros tiene garantizado.
 
 El pecado es la separación. No podemos alcanzarlo desde nuestro lado. Él nos alcanzó desde el Suyo.
 
-> «Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, mas tenga vida eterna».
+> Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, sino que tenga vida eterna.
 >
 > Juan 3:16 (NBLA)
 
@@ -259,8 +233,6 @@ Dios no pasó por alto el expediente. El expediente fue pagado:
 > «Al que no conoció pecado, lo hizo pecado por nosotros, para que fuéramos hechos justicia de Dios en Él».
 >
 > 2 Corintios 5:21 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Fue a la cruz cargando lo que tú has hecho. Cuando cayó todo el peso, clamó:
 

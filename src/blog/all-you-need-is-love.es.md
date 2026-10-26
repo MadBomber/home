@@ -60,7 +60,7 @@ Hay una cuarta palabra griega. El Nuevo Testamento la usa constantemente, y es c
 
 Juan 3:16 es el versículo más citado de la Biblia. La mayoría lo oye como la declaración de un sentimiento cálido: Dios sintió tan intensamente por el mundo que envió a Su Hijo. Pero la palabra griega es *agape*, y la prueba está ahí mismo en la oración: «que dio a Su Hijo unigénito». En este versículo el amor no se declara. Se demuestra. El amor se prueba por el costo.
 
-> «Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, mas tenga vida eterna».
+> Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, sino que tenga vida eterna.
 >
 > Juan 3:16 (NBLA)
 
@@ -98,17 +98,13 @@ Que esta línea se atribuya con frecuencia a la Biblia ilustra con precisión la
 
 La Biblia sí dice algo cercano a «el amor lo conquista todo», pero el amor que describe es agape y hesed, y la afirmación que hace es categóricamente distinta:
 
-> «El amor nunca fracasa».
+> El amor nunca deja de ser.
 >
 > 1 Corintios 13:8a (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 > «Somos más que vencedores por medio de Aquel que nos amó».
 >
 > Romanos 8:37 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La versión de la Biblia no significa que el amor romántico gane al final. Significa que el agape de Dios (el hesed que persigue y sostiene y se niega a soltar) es indestructible. Eso no es Virgilio. Es una afirmación completamente distinta.
 
@@ -118,11 +114,9 @@ La versión de la Biblia no significa que el amor romántico gane al final. Sign
 
 La noche de Su arresto, horas antes de la cruz, Jesús reunió a Sus discípulos en un aposento alto y les dio un mandamiento nuevo. No les dio una declaración doctrinal. No les dio una plataforma política. Les dio esto:
 
-> «En esto conocerán todos que son Mis discípulos: si tienen amor los unos por los otros».
+> En esto conocerán todos que son Mis discípulos, si se tienen amor los unos a los otros.
 >
 > Juan 13:35 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La prueba de pertenecer a Jesús no es la teología correcta, aunque la teología importa. No es la práctica religiosa, aunque la práctica importa. Es el amor (amor *agape*, de la clase costosa, elegida y entregada) visible ante un mundo que observa.
 
@@ -144,8 +138,6 @@ Entonces hizo la pregunta.
 >
 > Juan 21:15 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 No Pedro. Simón, hijo de Juan: el nombre antiguo, el hombre debajo del apóstol (Juan 1:42; Mateo 16:17–18). Y tres veces preguntó. Tres veces por tres negaciones. Tres encargos (apacienta mis corderos, pastorea mis ovejas, apacienta mis ovejas), uno por cada abandono.
 
 Las dos primeras preguntas usan *agape*. Pedro responde con *phileo*: «Tú sabes que te quiero». No se atreve a reclamar la palabra más alta. La tercera vez, Jesús baja a la palabra de Pedro: «¿Acaso me *phileo*, me quieres?». Y Pedro, entristecido, da la única respuesta que es verdadera:
@@ -154,7 +146,6 @@ Las dos primeras preguntas usan *agape*. Pedro responde con *phileo*: «Tú sabe
 >
 > Juan 21:17b (NBLA)
 
-<!-- VERIFY-NBLA -->
 <!-- TRANSLATOR NOTE: The NBLA (like the LBLA) renders agapao as "amar" and phileo as "querer" in John 21:15-17, which preserves the distinction the essay draws even without a footnote. Confirm the NBLA wording in 21:15, 16 and 17 before publishing. -->
 
 Deja de afirmar. Deja de actuar. Se echa por completo sobre el conocimiento que Cristo tiene de su corazón. No ofrece nada, salvo que Jesús ya conoce la verdad de él mejor de lo que él mismo la conoce.

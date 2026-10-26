@@ -19,19 +19,15 @@ tags:
 
 La primera pregunta registrada en la Biblia no es una pregunta de Dios.
 
-> ¿Conque Dios les ha dicho: «No coman de ningún árbol del huerto»?
+> «¿Conque Dios les ha dicho: «No comerán de ningún árbol del huerto»?».
 >
 > Génesis 3:1 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Léela con cuidado, frente a lo que Dios había dicho en realidad, Sus palabras exactas, apenas un capítulo antes.
 
 > De todo árbol del huerto podrás comer, pero del árbol del conocimiento del bien y del mal no comerás.
 >
 > Génesis 2:16-17 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Dios comenzó con permiso: todo árbol, libremente, con una sola excepción. La serpiente invirtió el marco: restricción total con una excepción concedida a regañadientes. Hizo que Dios sonara como un carcelero que raciona el tiempo en el patio, y no como un jardinero que ofrece una inmensa propiedad con una sola puerta cerrada con llave.
 
@@ -41,11 +37,9 @@ La serpiente no negó la existencia de Dios. No lanzó un argumento filosófico.
 
 Entonces la serpiente hizo explícito su verdadero blanco.
 
-> Pues Dios sabe que el día que ustedes coman de él, se les abrirán los ojos y serán como Dios, conociendo el bien y el mal.
+> Pues Dios sabe que el día que de él coman, se les abrirán los ojos y ustedes serán como Dios, conociendo el bien y el mal.
 >
 > Génesis 3:5 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Ahí está. La restricción no nace de la bondad. Nace del instinto de autoprotección. Dios retiene porque no quiere competencia. El ataque nunca fue principalmente contra lo que Dios dijo. Fue contra quién es Dios. Contra Su carácter. Contra la posibilidad de confiar en Él.
 
@@ -60,8 +54,6 @@ Lo notable de las tentaciones en Mateo 4 y Lucas 4 no es lo que Satanás dijo, s
 > Escrito está: «A Sus ángeles te encargará», y: «En sus manos te llevarán, para que no tropiece tu pie en piedra».
 >
 > Mateo 4:6 (NBLA), citando Salmos 91:11-12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 No era una paráfrasis suelta. Era el texto. Satanás sabe lo que Dios ha dicho. Lo sabe mejor que cualquier facultad de seminario, que cualquier concilio de eruditos, que cualquier comentario jamás reunido. Ha tenido acceso a la Palabra de Dios desde mucho antes de que la raza humana pudiera leer.
 

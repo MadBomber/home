@@ -35,11 +35,9 @@ Fuiste hecho para la GLORIA[^glory].
 
 Esto no es un cumplido. Es una descripción del diseño original. El primer capítulo de Génesis establece algo sobre los seres humanos que nada más en la creación comparte:
 
-> «Entonces Dios dijo: Hagamos al hombre a Nuestra imagen, conforme a Nuestra semejanza; y ejerza dominio sobre los peces del mar, sobre las aves del cielo, sobre los ganados, sobre toda la tierra».
+> Y dijo Dios: «Hagamos al hombre a Nuestra imagen, conforme a Nuestra semejanza; y ejerza dominio sobre los peces del mar, sobre las aves del cielo, sobre los ganados, sobre toda la tierra, y sobre todo reptil que se arrastra sobre la tierra».
 >
 > Génesis 1:26 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Imagen. Semejanza. Las palabras hebreas significan imagen y parecido. Dios hizo a los seres humanos para reflejar lo que Él es en el mundo que hizo. No como decoración. No como un retrato halagador colgado en una pared. Como una transferencia funcional de algo real.
 
@@ -57,8 +55,6 @@ El planteamiento de la serpiente no fue «Dios te está mintiendo», aunque eso 
 >
 > Génesis 3:5 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Serán como Dios. Tendrán GLORIA de derivación propia en lugar de GLORIA recibida. Serán la fuente en lugar del reflejo. El atractivo era adquirir más peso cortando la conexión con quien da el peso.
 
 Esta es la caída: el intento de generar GLORIA independientemente de Aquel que la tiene. Y el resultado (que la serpiente no mencionó) es lo opuesto exacto de lo prometido. No puedes generar masa. Solo puedes adquirirla por la proximidad a lo que la tiene. Corta la proximidad y no te vuelves más pesado. Te vuelves vapor.
@@ -68,8 +64,6 @@ Pablo nombra el resultado con la precisión de un físico:
 > «Por cuanto todos pecaron y no alcanzan la gloria de Dios».
 >
 > Romanos 3:23 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 No alcanzan Sus normas. No alcanzan Sus reglas. No alcanzan Su GLORIA. Peso insuficiente. Masa insuficiente para llegar a la medida de Aquel a cuya imagen fuiste hecho. El pecado no es solo un problema legal que requiere un perdón. También es un problema de física que requiere una restauración del peso, y el peso, como establecimos, es relacional. No se genera. Se adquiere por la proximidad a la fuente de toda masa.
 
@@ -81,8 +75,6 @@ Eclesiastés es esta condición escrita como una vida. El Predicador no es un fr
 >
 > Eclesiastés 1:2 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Este no es un hombre desesperado. Es un hombre que hace una observación de física sobre un mundo que ha confundido masa con peso, que ha confundido la sustancia derivada que Dios dio con las cosas acumuladas que esa sustancia estaba destinada a gobernar.
 
 Isaías agrega la imagen: toda carne es hierba, y toda su belleza es como la flor del campo (Isaías 40:6). Dios sopla sobre ella y se seca. La flor se marchita (Isaías 40:7). La hierba no tiene GLORIA duradera. El logro humano más celebrado de la historia (la belleza, los imperios, las reputaciones, los monumentos) es hierba en presencia de Aquel que sopla.
@@ -90,8 +82,6 @@ Isaías agrega la imagen: toda carne es hierba, y toda su belleza es como la flo
 > «La palabra de nuestro Dios permanece para siempre».
 >
 > Isaías 40:8 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La palabra tiene masa. La hierba no.
 
@@ -105,51 +95,41 @@ La cruz es donde esto se vuelve paradoja.
 
 La noche antes de Su crucifixión, Jesús oró:
 
-> «Padre, ha llegado la hora; glorifica a Tu Hijo, para que el Hijo Te glorifique a Ti».
+> Padre, la hora ha llegado; glorifica a Tu Hijo, para que el Hijo te glorifique a Ti.
 >
 > Juan 17:1 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Está pidiendo ser glorificado. Las doce horas siguientes serán arresto, juicio simulado, humillación pública, flagelación y muerte por crucifixión, el método romano elegido precisamente porque degradaba además de matar. El condenado cargaba su propio instrumento de ejecución por las calles para que todos pudieran ver su derrota. Y Jesús llama a esta hora la hora de la glorificación.
 
 Pablo explica lo que ocurría bajo la superficie en Filipenses 2. Antes de la Encarnación, Cristo existía en forma de Dios, en todo el peso de la GLORIA divina (Filipenses 2:6).
 
-> «Sino que se despojó de Sí mismo, tomando forma de siervo, haciéndose semejante a los hombres. Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente hasta la muerte, y muerte de cruz».
+> sino que se despojó a Sí mismo tomando forma de siervo, haciéndose semejante a los hombres. Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente hasta la muerte, y muerte de cruz.
 >
 > Filipenses 2:7-8 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La expresión traducida «se despojó» significa que se hizo nada: se vació de GLORIA por Su propia decisión. El ser más glorioso que existe se hizo voluntariamente hevel por amor a los portadores de la imagen que habían perdido la GLORIA reflejada que fueron hechos para llevar.
 
 Por eso la cruz es el evento más pesado de la historia. No porque se exhibiera poder: apareció como lo opuesto al poder. Sino porque el intercambio voluntario de GLORIA por hevel, seguido de lo que el Padre hizo después, es el evento hacia el cual todo lo demás apuntaba. Pablo escribe que en la cruz, Cristo desarmó a todo poder que estaba contra nosotros:
 
-> «Habiendo despojado a los principados y autoridades, los exhibió públicamente, triunfando sobre ellos por medio de Él».
+> Y habiendo despojado a los poderes y autoridades, hizo de ellos un espectáculo público, triunfando sobre ellos por medio de Él.
 >
 > Colosenses 2:15 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El lenguaje es el del desfile de victoria militar romano: el enemigo derrotado paseado encadenado detrás del general conquistador. Lo que parecía una ejecución fue una marcha triunfal. La cruz fue la batalla decisiva, y fue ganada.
 
 Entonces el Padre respondió.
 
-> «Por lo cual también Dios Lo exaltó hasta lo sumo, y Le confirió el nombre que es sobre todo nombre, para que al nombre de Jesús se doble toda rodilla de los que están en el cielo, y en la tierra, y debajo de la tierra, y toda lengua confiese que Jesucristo es Señor, para gloria de Dios Padre».
+> Por lo cual Dios también lo exaltó hasta lo sumo, y le confirió el nombre que es sobre todo nombre, para que al nombre de Jesús SE DOBLE TODA RODILLA de los que están en el cielo, y en la tierra, y debajo de la tierra, y toda lengua confiese que Jesucristo es Señor, para gloria de Dios Padre.
 >
 > Filipenses 2:9-11 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Máximo hevel voluntario respondido con máxima GLORIA. La resurrección no es meramente el regreso de un muerto a la vida. Es la declaración pública del Padre: así se ve el peso. Las cicatrices permanecen. Tomás pone sus dedos en ellas (Juan 20:27). Pero el cuerpo que las lleva ya no está sujeto a la descomposición, ya no está limitado por la materia, ya no es capaz de morir. Las heridas no disminuyeron la GLORIA de Cristo resucitado. Se volvieron parte de ella. Las cicatrices de batalla son GLORIA permanente. Peso ganado que nadie puede quitar.
 
 En Apocalipsis 5, el apóstol Juan ve una visión de la sala del trono del cielo. Llora porque no se halla a nadie digno de abrir el rollo. Entonces los ancianos le dicen que mire: el León de Judá ha vencido. Se vuelve y ve un Cordero, de pie como inmolado, y los cuatro seres vivientes y los veinticuatro ancianos caen delante de Él, y luego diez mil veces diez mil ángeles se les unen,[^revelation-5-throne-room] y el cántico que cantan es:
 
-> «El Cordero que fue inmolado es digno de recibir el poder, la riqueza, la sabiduría, la fortaleza, el honor, la gloria y la alabanza».
+> que decían a gran voz: «El Cordero que fue inmolado es digno de recibir el poder, las riquezas, la sabiduría, la fortaleza, el honor, la gloria y la alabanza».
 >
 > Apocalipsis 5:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La imagen de batalla ha sido derramada en adoración. Gloria y honor y poder para el Cordero que fue inmolado. Porque lo que se hizo en el Calvario tiene un peso que jamás disminuirá. Algo sucedió allí que no se puede ignorar, no se puede descartar, tiene GLORIA del más alto orden.
 
@@ -165,17 +145,13 @@ En el día de Pentecostés, el Espíritu vino y llenó a los discípulos: no el 
 >
 > 1 Corintios 3:16 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Ustedes son el templo. No son como un templo. Son la morada de la GLORIA que sacó a los sacerdotes del templo de Salomón. Lo que Moisés no pudo soportar en su presencia ha tomado residencia dentro de ti. El velo que separaba el Lugar Santísimo del acceso humano se rasgó de arriba abajo en el momento de la crucifixión (Mateo 27:51), rasgado desde adentro, desde arriba, por Aquel que lo había puesto, y lo que estaba detrás del velo no se quedó en el cuarto vacío. Salió a buscar un hogar en las personas que la cruz había limpiado.
 
 Esto es lo que Pablo quiere decir cuando escribe:
 
-> «Pero nosotros todos, con el rostro descubierto, contemplando como en un espejo la gloria del Señor, estamos siendo transformados en la misma imagen de gloria en gloria, como por el Señor, el Espíritu».
+> Pero todos nosotros, con el rostro descubierto, contemplando como en un espejo la gloria del Señor, estamos siendo transformados en la misma imagen de gloria en gloria, como por el Señor, el Espíritu.
 >
 > 2 Corintios 3:18 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 De *doxa* en *doxa*. El proceso es continuo. El mecanismo es la proximidad: contemplar, permanecer cerca de la fuente. La gravedad siempre es atractiva, nunca repulsiva. Dios no está empujando a los pecadores lejos; el pecado es una atracción rival, que te jala hacia algo que no es la fuente de la masa. Cuanto más lejos te lleve esa atracción de Dios, más liviano te vuelves. No porque Dios haya retirado Su GLORIA, sino porque el peso es relacional. Es lo que sientes en presencia de la masa. La distancia debilita el peso sentido. No cancela la atracción.
 
@@ -183,11 +159,9 @@ El arrepentimiento no fabrica GLORIA. Cambia tu dirección. Te reorienta hacia l
 
 El universo se sostiene porque Cristo lo sostiene: no como un sol distante que se orbita sino como GLORIA que presiona desde todas las direcciones en cada momento.
 
-> «Y Él es antes de todas las cosas, y en Él todas las cosas subsisten».
+> Y Él es antes de todas las cosas, y en Él todas las cosas permanecen.
 >
 > Colosenses 1:17 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Tiempo presente. Activo. Continuo. No un acto pasado de creación que puso las cosas en movimiento y se retiró. Sostén continuo. El escritor de Hebreos dice que Él sostiene el universo con la palabra de Su poder (Hebreos 1:3): la misma palabra que dijo *sea la luz* (Génesis 1:3) sigue hablando, sigue manteniendo la coherencia de todo lo que existe. La creación no orbita un sol distante. Se mantiene en existencia por la GLORIA que presiona en cada punto.
 
@@ -199,11 +173,9 @@ El alma del creyente está siendo transformada ahora: de un grado de GLORIA a ot
 
 Pablo lo aborda directamente en 1 Corintios 15, el gran capítulo de la resurrección:
 
-> «Se siembra en corrupción, se resucita en incorrupción. Se siembra en deshonra, se resucita en gloria. Se siembra en debilidad, se resucita en poder».
+> Se siembra un cuerpo corruptible, se resucita un cuerpo incorruptible; se siembra en deshonra, se resucita en gloria; se siembra en debilidad, se resucita en poder.
 >
 > 1 Corintios 15:42-43 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Usa la palabra *doxa* para el cuerpo de resurrección. Resucitado en gloria: resucitado en GLORIA. El cuerpo que entra en la tierra no tiene un peso que perdure. El cuerpo que sale lleva GLORIA de manera permanente.
 
@@ -211,11 +183,9 @@ Jesús es el modelo. Su cuerpo de resurrección era el mismo cuerpo (las heridas
 
 Pablo les dice a los filipenses lo que aguarda al cuerpo:
 
-> «...quien transformará el cuerpo de nuestra humilde condición en conformidad al cuerpo de Su gloria, por el ejercicio del poder que tiene aun para sujetar todas las cosas a Sí mismo».
+> el cual transformará el cuerpo de nuestro estado de humillación en conformidad al cuerpo de Su gloria, por el ejercicio del poder que tiene aun para sujetar todas las cosas a Él mismo.
 >
 > Filipenses 3:21 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 De cuerpo humilde a cuerpo glorioso: la física de la resurrección en una sola frase. Luego vuelve a ello en 1 Corintios 15:
 
@@ -223,17 +193,13 @@ De cuerpo humilde a cuerpo glorioso: la física de la resurrección en una sola 
 >
 > 1 Corintios 15:53 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Se viste, como ropa. El cuerpo no deja de existir. Es revestido de un peso que antes no podía cargar.
 
 Romanos 8:23 nombra el dolor mientras tanto:
 
-> «...también nosotros mismos, que tenemos las primicias del Espíritu, aun nosotros gemimos dentro de nosotros mismos, esperando ansiosamente la adopción como hijos, la redención de nuestro cuerpo».
+> Y no solo ella, sino que también nosotros mismos, que tenemos las primicias del Espíritu, aun nosotros mismos gemimos en nuestro interior, aguardando ansiosamente la adopción como hijos, la redención de nuestro cuerpo.
 >
 > Romanos 8:23 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El alma está siendo restaurada ahora. El cuerpo está esperando. La GLORIA plena (alma y cuerpo ambos llevando el peso de la imagen de Dios tal como fue diseñada originalmente) es futura.
 
@@ -243,11 +209,9 @@ Apocalipsis 21 es donde llega el futuro.
 
 La nueva Jerusalén desciende del cielo, y llega el anuncio:
 
-> «He aquí, el tabernáculo de Dios está entre los hombres, y Él habitará entre ellos, y ellos serán Sus pueblos, y Dios mismo estará entre ellos».
+> Entonces oí una gran voz que decía desde el trono: El tabernáculo de Dios está entre los hombres, y Él habitará entre ellos y ellos serán Su pueblo, y Dios mismo estará entre ellos.
 >
 > Apocalipsis 21:3 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El arco de las Escrituras desde Génesis 3 hasta este versículo es la historia de Dios cerrando la distancia que abrió el pecado. Exilio de la presencia. Tabernáculo: presencia mediada. Templo: presencia alojada. Encarnación: presencia hecha carne. Espíritu: presencia que habita en el interior. Nueva creación: la distinción entre presencia y creación abolida por completo. El exilio terminó. No hay ningún lugar donde estar que no esté en la presencia de la GLORIA.
 

@@ -36,15 +36,11 @@ Esa expectativa no es un error pequeño que queda a un lado de la teología real
 
 Las Escrituras nunca escribieron esa historia. No tratan a Satanás como el igual y opuesto de Dios. Lo tratan como una criatura, y punto, en la misma categoría básica que todo lo demás que Dios hizo y nada de lo que Dios es. El oráculo de Ezequiel contra el rey de Tiro, leído desde la iglesia primitiva como un texto que va más allá del rey humano hacia algo que está detrás de él, pone la palabra con claridad en la página:
 
-> «Eras perfecto en tus caminos desde el día en que fuiste creado, hasta que se halló iniquidad en ti».
+> Perfecto eras en tus caminos Desde el día que fuiste creado Hasta que la iniquidad se halló en ti.
 >
 > Ezequiel 28:15 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
-Conviene ser honestos sobre lo que hace ese pasaje. Su tema inmediato, en la superficie del texto, es el rey de Tiro, un gobernante humano juzgado por su orgullo. Leerlo como un texto que va más allá de él hacia Satanás es una tradición cristiana de larga data, no una extensión fabricada, pero es una aplicación secundaria superpuesta a un oráculo sobre un humano, no un pasaje que nombre a Satanás de manera explícita. Lo que vuelve creíble esa superposición es cuánto desborda el lenguaje a cualquier rey común: un ser que anduvo sin falta en el Edén, «un querubín protector ungido» puesto en el monte santo de Dios, «en medio de las piedras de fuego» (Ezequiel 28:14), hasta el día en que se halló iniquidad en él. Ningún monarca fenicio encaja en esa descripción tal como está escrita. Sea que cada detalle se aplique o no directamente a Satanás, la lógica del pasaje es clara sin importar cómo se lea la superposición: alguien tan exaltado igual tiene un punto de partida. Alguien tan impresionante igual fue hecho.
-
-<!-- VERIFY-NBLA -->
+Conviene ser honestos sobre lo que hace ese pasaje. Su tema inmediato, en la superficie del texto, es el rey de Tiro, un gobernante humano juzgado por su orgullo. Leerlo como un texto que va más allá de él hacia Satanás es una tradición cristiana de larga data, no una extensión fabricada, pero es una aplicación secundaria superpuesta a un oráculo sobre un humano, no un pasaje que nombre a Satanás de manera explícita. Lo que vuelve creíble esa superposición es cuánto desborda el lenguaje a cualquier rey común: un ser que anduvo sin falta en el Edén, un «querubín protector de alas desplegadas» puesto en el monte santo de Dios, «en medio de las piedras de fuego» (Ezequiel 28:14), hasta el día en que se halló iniquidad en él. Ningún monarca fenicio encaja en esa descripción tal como está escrita. Sea que cada detalle se aplique o no directamente a Satanás, la lógica del pasaje es clara sin importar cómo se lea la superposición: alguien tan exaltado igual tiene un punto de partida. Alguien tan impresionante igual fue hecho.
 
 Creado. No eterno, no autoexistente, no cortado de una tela distinta a la del resto de lo que Dios hizo. Una criatura no hereda los atributos del Creador solo por ser poderosa. Dos de esos atributos cargan con el peso de la mayor parte del miedo construido sobre la imagen del archienemigo: saberlo todo y estar en todas partes. Pon a Satanás a prueba con ambos, y la lógica de la némesis no sobrevive a la prueba.
 
@@ -54,27 +50,21 @@ Empieza con saberlo todo, porque las Escrituras no lo dejan como una afirmación
 
 En la escena inicial de Job, Dios menciona a Job primero, y Satanás responde: «¿Acaso teme Job a Dios de balde?» (Job 1:9). La respuesta de Satanás es una predicción específica y comprobable, no una acusación vaga:
 
-> «Pero extiende Tu mano y toca todo lo que tiene; ¡verás si no Te maldice en Tu misma cara!».
+> Pero extiende ahora Tu mano y toca todo lo que tiene, y verás si no te maldice en Tu misma cara.
 >
 > Job 1:11 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Eso es una apuesta. Quítale a Job lo que tiene, y maldecirá a Dios en Su misma cara. Se le quita todo. Job no maldice a Dios. La segunda ronda sube la apuesta, y Satanás predice el mismo resultado desde otro ángulo:
 
-> «Pero extiende Tu mano y toca sus huesos y su carne; ¡verás si no Te maldice en Tu misma cara!».
+> Sin embargo, extiende ahora Tu mano y toca su hueso y su carne, verás si no te maldice en Tu misma cara.
 >
 > Job 2:5 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 La propia salud de Job se desploma en llagas de pies a cabeza. Su esposa pronuncia la línea con la que Satanás contaba, casi palabra por palabra: «¿Aún conservas tu integridad? Maldice a Dios y muérete» (Job 2:9). Si la apuesta iba a dar fruto alguna vez, este era el momento hecho para ello: la acusación dicha en voz alta por la persona más cercana a él, en el punto de mayor pérdida. La respuesta de Job es el segundo fracaso de la segunda apuesta:
 
-> «¿Aceptaremos el bien de Dios y no aceptaremos el mal?».
+> ¿Aceptaremos el bien de Dios pero no aceptaremos el mal?
 >
 > Job 2:10 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Dos predicciones hechas por el propio Satanás sobre un hombre al que había estado observando lo bastante de cerca como para construir una teoría específica. Las dos, erradas. No erradas en algún detalle menor. Erradas en lo mismo sobre lo que apostó toda la prueba. Sea lo que sea que esta escena demuestre, demuestra que Satanás no tiene acceso confiable a cómo termina la historia de un solo ser humano, aun cuando le toca a él realizar el experimento.
 
@@ -82,39 +72,31 @@ Dos predicciones hechas por el propio Satanás sobre un hombre al que había est
 
 Job es un caso. Isaías lo convierte en regla.
 
-> «Porque Yo soy Dios, y no hay otro; Yo soy Dios, y no hay nadie como Yo, que declaro el fin desde el principio, y desde la antigüedad lo que aún no ha sido hecho».
+> Porque Yo soy Dios, y no hay otro; Yo soy Dios, y no hay ninguno como Yo, que declaro el fin desde el principio, y desde la antigüedad lo que no ha sido hecho.
 >
 > Isaías 46:9-10 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Declarar el fin desde el principio se presenta aquí como algo que pertenece solo a Dios, no como una habilidad entre varias que Él tiene en mayor medida que todos los demás. Unos capítulos antes, Dios convierte esa afirmación en un desafío directo, dirigido a cada poder rival en el que una nación pudiera sentirse tentada a confiar:
 
-> «Presenten su causa, dice el SEÑOR; expongan sus argumentos, dice el Rey de Jacob. Que los presenten y nos declaren lo que ha de suceder. Declaren cuáles son las cosas anteriores, para que las consideremos y sepamos su resultado; o anúnciennos lo que ha de venir».
+> Presenten su causa, dice el SEÑOR. «Expongan sus fuertes argumentos», Dice el Rey de Jacob. Que expongan y nos declaren lo que ha de suceder. En cuanto a los hechos anteriores, declaren lo que fueron, para que los consideremos y sepamos su resultado, o bien, anúnciennos lo que ha de venir.
 >
 > Isaías 41:21-22 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Esto es un tribunal, no una sesión de burlas. Dios cita a cada reclamo rival al estrado y pide pruebas, las mismas que Él acaba de reclamar para Sí: un relato exacto de lo que viene. El desafío se agudiza un versículo después:
 
-> «Anuncien lo que ha de venir después, para que sepamos que ustedes son dioses».
+> Declaren lo que ha de suceder en el futuro, para que sepamos que ustedes son dioses.
 >
 > Isaías 41:23 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
-El desafío no es adorno. Es la prueba real que Dios propone para distinguir a un dios verdadero de uno falso: predice el futuro con exactitud, o queda en evidencia. El capítulo responde a su propio desafío un versículo más adelante: «Ustedes son nada, y su obra es menos que nada» (Isaías 41:24). Pablo nombra después lo que está detrás de un ídolo cuando advierte a los corintios que el sacrificio pagano no se ofrece a la nada: «lo que ellos sacrifican, lo sacrifican a los demonios y no a Dios» (1 Corintios 10:20). Junta ambas cosas y el desafío de Isaías deja de ser una burla dirigida a estatuas talladas. Está dirigido a los poderes espirituales que hay detrás de ellas, Satanás incluido, y nombra la presciencia como la línea exacta que esos poderes no pueden cruzar.
+El desafío no es adorno. Es la prueba real que Dios propone para distinguir a un dios verdadero de uno falso: predice el futuro con exactitud, o queda en evidencia. El capítulo responde a su propio desafío un versículo más adelante: «Ustedes no son nada, y su obra es vana» (Isaías 41:24). Pablo nombra después lo que está detrás de un ídolo cuando advierte a los corintios que el sacrificio pagano no se ofrece a la nada: «lo que los gentiles sacrifican, lo sacrifican a los demonios y no a Dios» (1 Corintios 10:20). Junta ambas cosas y el desafío de Isaías deja de ser una burla dirigida a estatuas talladas. Está dirigido a los poderes espirituales que hay detrás de ellas, Satanás incluido, y nombra la presciencia como la línea exacta que esos poderes no pueden cruzar.
 
 ## Una prueba hecha para fallar
 
 Eso no es solo retórica de Isaías. Está escrito en la ley como una prueba real, ofrecida a una nación que naturalmente querría saber cómo distinguir una palabra verdadera de una falsa:
 
-> «Y si dices en tu corazón: “¿Cómo conoceremos la palabra que el SEÑOR no ha hablado?”, cuando un profeta hable en el nombre del SEÑOR, si la palabra no se cumple ni se realiza, esa es palabra que el SEÑOR no ha hablado; con presunción la ha hablado el profeta».
+> Y si dices en tu corazón: «¿Cómo conoceremos la palabra que el SEÑOR no ha hablado?». Cuando un profeta hable en el nombre del SEÑOR, si lo que fue dicho no acontece ni se cumple, esa es palabra que el SEÑOR no ha hablado; con arrogancia la ha hablado el profeta; no tendrás temor de él.
 >
 > Deuteronomio 18:21-22 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Una prueba así solo tiene sentido en un mundo donde las predicciones fallidas de fuentes no divinas son el resultado esperado, no un escándalo. La apuesta de Job es exactamente ese resultado, en vivo y en la página. Él corrió la prueba que Deuteronomio supone que a veces se correrá, y la falló de la manera en que Deuteronomio supone que la fallará una fuente no divina.
 
@@ -122,11 +104,9 @@ Una prueba así solo tiene sentido en un mundo donde las predicciones fallidas d
 
 Nada de esto significa que Satanás opere sin información alguna sobre lo que viene. Esa afirmación se pasaría de la raya en la dirección contraria, y las Escrituras no la hacen. Lo que muestran es más acotado, y aquí la precisión importa:
 
-> «¡Ay de la tierra y del mar! Porque el diablo ha descendido a ustedes con gran furor, sabiendo que le queda poco tiempo».
+> ¡Ay de la tierra y del mar!, porque el diablo ha descendido a ustedes con gran furor, sabiendo que tiene poco tiempo.
 >
 > Apocalipsis 12:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Sabe que le queda poco tiempo. Ese es conocimiento real, orientado al futuro, y fingir lo contrario sería deshonesto, igual que sería deshonesto fingir que no tiene acceso a ninguna información. Pero fíjate en la fuente, porque la fuente es todo el argumento. No es observación independiente, como lo fue su apuesta sobre Job. Es la conciencia de un final que alguien más ya escribió y ya anunció, y que se remonta a la primera frase de esa historia en Génesis 3:15. Santiago hace el mismo señalamiento sobre el conocimiento de los demonios en general: «Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan» (Santiago 2:19). Una creencia que produce pavor, no una creencia que produce dominio. Un hombre que ha leído el último capítulo de un libro del cual es personaje sabe cómo termina. No es el autor, y no le toca improvisar otro final.
 
@@ -140,31 +120,23 @@ El conocimiento es un eje. La ubicación es el otro, y el mismo patrón se sosti
 >
 > Job 1:7 (NBLA)
 
-<!-- VERIFY-NBLA -->
+El hebreo detrás de «andar por ella» es *hithalek*, una forma reflexiva y repetida del verbo común para caminar. Es la misma forma gramatical que se usa unos capítulos más adelante en Génesis para Dios «que se paseaba en el huerto al fresco del día» (Génesis 3:8), lo cual vale la pena considerar un segundo: la misma forma verbal, describiendo dos presencias que operan a una escala enormemente distinta. Una de ellas cubre terreno porque cubrir terreno es lo que hace un cuerpo. Pedro usa una imagen relacionada de un libro completamente distinto: el diablo «anda alrededor» (1 Pedro 5:8), *peripatei*, a pie, en tiempo presente, de manera continua. Ambos escritores, de forma independiente, describen movimiento, no simultaneidad.
 
-El hebreo detrás de «andar por ella» es *hithalek*, una forma reflexiva y repetida del verbo común para caminar. Es la misma forma gramatical que se usa unos capítulos más adelante en Génesis para Dios «que caminaba en el huerto al fresco del día» (Génesis 3:8), lo cual vale la pena considerar un segundo: la misma forma verbal, describiendo dos presencias que operan a una escala enormemente distinta. Una de ellas cubre terreno porque cubrir terreno es lo que hace un cuerpo. Pedro usa una imagen relacionada de un libro completamente distinto: el diablo «anda alrededor» (1 Pedro 5:8), *peripatei*, a pie, en tiempo presente, de manera continua. Ambos escritores, de forma independiente, describen movimiento, no simultaneidad.
-
-La Biblia lo respalda con salidas, no solo con descripciones. Cuando comienza la segunda ronda con Job, el texto dice con claridad: «Y salió Satanás de la presencia del SEÑOR» (Job 2:7), dejando un lugar para llegar a otro. La visión de Zacarías lo sorprende a mitad de escena, no a mitad de viaje: «Satanás estaba a su derecha para acusarlo» (Zacarías 3:1), un lugar, un momento, una postura, la gramática ordinaria de un cuerpo que ocupa un solo lugar a la vez. En el desierto, una vez terminadas todas las tentaciones, «se alejó de Él hasta un tiempo oportuno» (Lucas 4:13), una retirada con un regreso aún pendiente. En Apocalipsis, es «arrojado a la tierra» (Apocalipsis 12:9), un solo evento localizable que le sucede a un solo ser localizable. Ninguno de estos textos describe a alguien que ya está en todas partes y no necesita viajar, o que ya está presente y no necesita estar de pie en ningún lugar en particular. Describen a alguien que tiene que ir a algún lugar, y estar de pie en algún lugar, para estar allí.
-
-<!-- VERIFY-NBLA -->
+La Biblia lo respalda con salidas, no solo con descripciones. Cuando comienza la segunda ronda con Job, el texto dice con claridad: «Entonces Satanás salió de la presencia del SEÑOR» (Job 2:7), dejando un lugar para llegar a otro. La visión de Zacarías lo sorprende a mitad de escena, no a mitad de viaje: «Satanás estaba a su derecha para acusarlo» (Zacarías 3:1), un lugar, un momento, una postura, la gramática ordinaria de un cuerpo que ocupa un solo lugar a la vez. En el desierto, una vez terminadas todas las tentaciones, «se alejó de Él esperando un tiempo oportuno» (Lucas 4:13), una retirada con un regreso aún pendiente. En Apocalipsis, es «arrojado a la tierra» (Apocalipsis 12:9), un solo evento localizable que le sucede a un solo ser localizable. Ninguno de estos textos describe a alguien que ya está en todas partes y no necesita viajar, o que ya está presente y no necesita estar de pie en ningún lugar en particular. Describen a alguien que tiene que ir a algún lugar, y estar de pie en algún lugar, para estar allí.
 
 ## Veintiún días
 
 La evidencia más clara de esa limitación no trata de Satanás en absoluto, y eso es precisamente lo que la hace útil. Daniel ora, y un ángel es enviado de inmediato.
 
-> «No temas, Daniel, porque desde el primer día en que dispusiste tu corazón para entender y para humillarte delante de tu Dios, fueron oídas tus palabras, y yo he venido por causa de tus palabras».
+> Entonces me dijo: No temas, Daniel, porque desde el primer día en que te propusiste en tu corazón entender y humillarte delante de tu Dios, fueron oídas tus palabras, y a causa de tus palabras he venido.
 >
 > Daniel 10:12 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 El versículo siguiente explica por qué el ángel recién llega ahora, tres semanas después:
 
-> «Pero el príncipe del reino de Persia se me opuso durante veintiún días; entonces Miguel, uno de los principales príncipes, vino a ayudarme, pues yo había quedado allí con los reyes de Persia».
+> Pero el príncipe del reino de Persia se me opuso por veintiún días, pero Miguel, uno de los primeros príncipes, vino en mi ayuda, ya que yo había sido dejado allí con los reyes de Persia.
 >
 > Daniel 10:13 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Un ángel santo, enviado directamente por Dios en el momento en que Daniel comenzó a orar, aun así tardó veintiún días y aun así necesitó refuerzos para abrirse paso a través de un poder espiritual hostil que le cerraba el camino. El «príncipe del reino de Persia» no es un gobernante humano; el texto describe un poder espiritual puesto sobre ese reino, disputado por Miguel, uno de los propios príncipes principales de Dios, en un terreno que tuvo que ser peleado en lugar de simplemente cruzado. Si esa es la realidad operativa para un ángel obediente en una misión directa desde la sala del trono misma, es la línea de base para todo ser espiritual excepto Dios, el único ser en esta historia que no tiene que enviar a nadie a ninguna parte porque no está atado a dónde está parado nadie. La distancia es real para ellos. También la resistencia. Ninguna de las dos es real para Él.
 
@@ -172,11 +144,9 @@ Un ángel santo, enviado directamente por Dios en el momento en que Daniel comen
 
 Eso plantea la pregunta obvia. Si no puede estar en dos lugares a la vez, ¿cómo es que la tentación parece alcanzar a todos, en todas partes, todo el tiempo?
 
-> «Porque nuestra lucha no es contra sangre ni carne, sino contra principados, contra potestades, contra los poderes mundiales de estas tinieblas, contra las fuerzas espirituales de maldad en las regiones celestiales».
+> Porque nuestra lucha no es contra sangre y carne, sino contra principados, contra potestades, contra los poderes de este mundo de tinieblas, contra las fuerzas espirituales de maldad en las regiones celestes.
 >
 > Efesios 6:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Principados. Potestades. Poderes mundiales. Fuerzas espirituales. Plural, cada vez, una cadena de mando y no una sola figura. Lo que parece omnipresencia es una red distribuida de espíritus subordinados que hacen el trabajo a nivel de calle, no un solo ser estirado imposiblemente delgado sobre el mundo entero a la vez. Él manda sobre el alcance. No lo posee personalmente. Eso replantea lo que describe el lenguaje de la «guerra espiritual». No es un adversario infinito que se encuentra con cada creyente de forma individual, en todas partes, todo a la vez. Es una estructura de mando, con mucha actividad a nivel de terreno llevada a cabo por subordinados y un único punto en la cima que, a su vez, sigue respondiendo ante una distancia que no puede cerrar y un permiso que no puede exceder. Eso no es un tecnicismo que rescata el argumento en el último minuto. Es la forma real del argumento: un enemigo con una cima, y la cima no es infinita.
 

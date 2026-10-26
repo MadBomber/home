@@ -38,15 +38,11 @@ Hay una razón por la que la imagen es una mala hierba y no simplemente un error
 >
 > Juan 8:12 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 La mala hierba no se anuncia como mala hierba. Crece como crece todo lo demás: verde, erguida, con aspecto de estar viva. Pero una mala hierba no se estira hacia la luz para indicar el camino hacia ella. Se estira para bloquearla: se apiña, le roba la luz a todo lo que la rodea y deja a las plantas buenas hambrientas a su sombra. Un maestro verdadero magnifica la luz del mundo y la obra que esa luz vino a terminar.
 
-> «Cuando Jesús tomó el vinagre, dijo: “¡Consumado es!”. E inclinando la cabeza, entregó el espíritu».
+> Entonces Jesús, cuando hubo tomado el vinagre, dijo: «¡Consumado es!». E inclinando la cabeza, entregó el espíritu.
 >
 > Juan 19:30 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Consumado es. No queda nada por añadirle. La mala hierba crece delante de la luz y de la obra consumada, y todos los que están en su sombra ven menos de Jesús, no más.
 
@@ -114,21 +110,17 @@ Las Américas no fueron el único silencio que abordó Smith. Antes de nacer, ca
 
 La revisión teológica más lejana de la ortodoxia cristiana se refiere a la relación entre Jesús y Lucifer. En la enseñanza de los SUD, la familia espiritual premortal del Padre Celestial incluía a Jesús (conocido en ese estado como Jehová, el primogénito) y a Lucifer. En un concilio celebrado antes de la creación de este mundo, se presentaron dos planes para la salvación de los hijos espirituales del Padre Celestial. Jesús propuso un plan que preservaba el albedrío humano. Lucifer propuso un plan que obligaría a todos los hijos espirituales a la salvación y reclamó para sí la gloria resultante. El Padre Celestial eligió el plan de Jesús. Lucifer se rebeló y fue expulsado con una tercera parte de la familia espiritual. Jesús y Lucifer son hermanos: hijos del mismo padre, en conflicto permanente por los términos de la misma herencia. Pablo abordó directamente esta categoría de revisión.
 
-> «Pero aun si nosotros, o un ángel del cielo, les predicara otro evangelio contrario al que les hemos predicado, sea anatema».
+> Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
 >
 > Gálatas 1:8 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Si Moroni era un ángel del cielo, como afirmaba Joseph Smith, el versículo nombra su caso con precisión.
 
 El nivel más alto de la salvación de los SUD se llama exaltación. Lorenzo Snow, quinto presidente de la Iglesia, expresó la doctrina con la claridad con que jamás se ha expresado: como el hombre es ahora, Dios fue una vez; como Dios es ahora, el hombre puede llegar a ser. El ser exaltado no vive en la presencia de Dios: el ser exaltado se convierte en un dios, crea mundos, los puebla de hijos espirituales, y esos hijos tienen la oportunidad de convertirse en dioses a su vez. El Padre Celestial fue alguna vez un hombre mortal en otro mundo, exaltado por su propio Padre Celestial, que a su vez fue alguna vez mortal. La secuencia no tiene principio. Pablo sostuvo lo incompleto del conocimiento presente como una postura de confianza delante de Dios.
 
-> «Porque ahora vemos por un espejo, veladamente, pero entonces veremos cara a cara; ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido plenamente».
+> Porque ahora vemos por un espejo, veladamente, pero entonces veremos cara a cara. Ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido.
 >
 > 1 Corintios 13:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Lo que Pablo sostuvo con las manos abiertas, la teología de los SUD lo convirtió en una descripción de puesto de trabajo.
 

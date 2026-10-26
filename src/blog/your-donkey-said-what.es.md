@@ -28,7 +28,7 @@ tags:
 - revelation
 ---
 
-<!-- TRANSLATOR NOTE: The NBLA text of Numbers 22 says "asna" (a female donkey). The project's Spanish title uses "burra", so this translation uses "burra" in prose and inside the quoted verses for consistency. Quotes that use "burra" are marked VERIFY-NBLA for that reason as well. -->
+<!-- TRANSLATOR NOTE: The NBLA text of Numbers 22 says "asna" (a female donkey). The project's Spanish title uses "burra", so the prose uses "burra" while the quoted verses follow the NBLA and keep "asna". -->
 
 Francis el mulo parlante (*Francis the Talking Mule*) hizo siete películas para Universal entre 1950 y 1956. La premisa nunca cambió. Un hombre decente y torpe se mete en un lío, y un mulo con más sentido común que cualquiera del reparto lo saca de él hablando.
 
@@ -52,11 +52,9 @@ El hombre se llama Balaam. Acepta el trabajo. Y en el camino ocurre esto.
 
 Dios coloca un ángel en el camino con una espada desenvainada. La burra lo ve y se desvía hacia un campo, y Balaam la golpea para devolverla al camino. El ángel se adelanta hasta un lugar estrecho entre dos muros de viñedos. La burra lo ve otra vez y se aprieta contra el muro, aplastándole el pie a Balaam, y él la golpea de nuevo. El ángel se mueve una vez más, a un lugar tan angosto que no hay forma de girar. La burra se echa debajo de él. La golpea por tercera vez, con su vara (Números 22:22-27).
 
-> Entonces el SEÑOR abrió la boca de la burra, y ella dijo a Balaam: «¿Qué te he hecho que me has azotado estas tres veces?». Y Balaam respondió a la burra: «Porque te has burlado de mí. ¡Si tuviera una espada en la mano, ahora mismo te mataría!». Y la burra dijo a Balaam: «¿No soy yo tu burra, sobre la cual has montado toda tu vida hasta hoy? ¿He acostumbrado hacer esto contigo?». Y él respondió: «No».
+> Entonces el SEÑOR abrió la boca del asna, la cual dijo a Balaam: «¿Qué te he hecho yo que me has golpeado estas tres veces?». Y Balaam respondió al asna: «Porque te has burlado de mí. Ojalá tuviera una espada en mi mano, que ahora mismo te mataría». Y el asna dijo a Balaam: «¿No soy yo tu asna, y sobre mí has cabalgado toda tu vida hasta hoy? ¿He tenido la costumbre de portarme así contigo?». «No», respondió Balaam.
 >
 > Números 22:28-30 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Léelo otra vez y fíjate en lo que él no hace.
 
@@ -68,11 +66,9 @@ Un hombre cuya burra se pone a hablar, y cuya única reacción es discutir y lue
 
 Este es el problema.
 
-> Entonces el SEÑOR abrió los ojos a Balaam, y este vio al ángel del SEÑOR que estaba en el camino con su espada desenvainada en la mano. Y se inclinó y cayó rostro en tierra.
+> Entonces el SEÑOR abrió los ojos de Balaam, y él vio al ángel del SEÑOR de pie en el camino, con la espada desenvainada en su mano, e inclinándose, se postró rostro en tierra.
 >
 > Números 22:31 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Había habido un ángel armado de pie en el camino todo el tiempo.[^dothan] La burra lo había visto tres veces. El hombre sobre su lomo, que cabalgaba hacia un trabajo para el que lo habían contratado por su fama de ver lo que otros no podían, no lo había visto ni una vez.
 
@@ -82,27 +78,21 @@ Eso es extraño. Lo que sigue es peor, y es la razón por la que este relato es 
 
 Cuando los mensajeros de Balac llegan por primera vez con la oferta, Balaam lleva la pregunta a Dios durante la noche. La respuesta vuelve sin ambigüedad.
 
-> Pero Dios dijo a Balaam: «No irás con ellos. No maldecirás al pueblo, porque es bendito».
+> Y Dios dijo a Balaam: «No vayas con ellos; no maldecirás al pueblo, porque es bendito».
 >
 > Números 22:12 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Balac envía una segunda delegación, más distinguida que la primera, con una mejor oferta. Balaam lleva la pregunta a Dios otra vez. Y esta vez:
 
-> Y Dios vino a Balaam de noche y le dijo: «Si los hombres han venido para llamarte, levántate y vete con ellos; pero solo harás lo que Yo te diga».
+> Dios vino a Balaam de noche, y le dijo: «Si los hombres han venido a llamarte, levántate y ve con ellos; pero solo dirás la palabra que Yo te hable».
 >
 > Números 22:20 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Así que va. Por la mañana ensilla su propia burra y se pone en marcha con los príncipes de Moab (Números 22:21). Y entonces:
 
-> Pero la ira de Dios se encendió porque él iba, y el ángel del SEÑOR se puso en el camino como adversario suyo.
+> Pero Dios se enojó porque él iba, y el ángel del SEÑOR se puso en el camino como un adversario contra él.
 >
 > Números 22:22 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Dios dijo que no fuera. Luego Dios dijo que fuera. Luego Dios se enojó porque fue, y puso un ángel armado en el camino para detenerlo.
 
@@ -110,11 +100,9 @@ Un animal que habla es peculiar. Esto es otra cosa. Esto parece un Dios que se c
 
 No la cierres. Hay un detalle entre las dos respuestas, y lo aporta el propio Balaam. Cuando llega la segunda delegación, les dice que pasen la noche, y explica por qué.
 
-> Les ruego, pues, que se queden aquí esta noche también, para que yo sepa qué más me dirá el SEÑOR.
+> Pero, les ruego que permanezcan aquí también esta noche, y sabré qué más me dice el SEÑOR.
 >
 > Números 22:19 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Qué más.
 
@@ -130,7 +118,7 @@ La mayoría de quienes han oído este relato antes han oído una sola lección s
 
 Eso es cierto. Es más cierto de lo que se dan cuenta la mayoría de quienes lo dicen, y las Escrituras no te dejan suavizarlo. Piensa en el sumo sacerdote que organizó la ejecución de Jesús, de pie en el concilio y defendiendo el asesinato judicial como una conveniencia política.
 
-> Pero esto no lo dijo por su propia cuenta, sino que siendo sumo sacerdote aquel año, profetizó que Jesús iba a morir por la nación; y no solo por la nación, sino también para reunir en uno a los hijos de Dios que están dispersos.
+> Ahora bien, no dijo esto de su propia iniciativa, sino que siendo el sumo sacerdote ese año, profetizó que Jesús iba a morir por la nación; y no solo por la nación, sino también para reunir en uno a los hijos de Dios que están esparcidos.
 >
 > Juan 11:51-52 (NBLA)
 
@@ -138,9 +126,7 @@ Caifás pronunció una profecía exacta sobre la expiación mientras tramaba la 
 
 Y ese es justamente el problema de la versión cómoda de la lección. Se detiene antes del final de la vida de Balaam.
 
-No se arrepiente ni se retira. Muere a espada en la campaña de Israel contra Madián, y el aviso de su muerte no le da ninguna mención especial. Figura «entre el resto de sus muertos» (Josué 13:22), un nombre en un recuento de bajas. Tres escritores distintos del Nuevo Testamento lo mencionan por nombre siglos después, y ninguno lo presenta como ejemplo de cómo Dios puede trabajar con cualquiera. Pedro dice que «amó el premio de la maldad» (2 Pedro 2:15). Judas dice que unos hombres «por ganancia se lanzaron al error de Balaam» (Judas 11). Juan, al escribir lo que Cristo resucitado dice a una iglesia en Pérgamo, los advierte contra quienes «retienen la doctrina de Balaam, que enseñaba a Balac a poner tropiezo ante los hijos de Israel» (Apocalipsis 2:14).
-
-<!-- VERIFY-NBLA -->
+No se arrepiente ni se retira. Muere a espada en la campaña de Israel contra Madián, y el aviso de su muerte no le da ninguna mención especial. Figura «entre los que mataron los israelitas» (Josué 13:22), un nombre en un recuento de bajas. Tres escritores distintos del Nuevo Testamento lo mencionan por nombre siglos después, y ninguno lo presenta como ejemplo de cómo Dios puede trabajar con cualquiera. Pedro dice que «amó el pago de la iniquidad» (2 Pedro 2:15). Judas dice que unos hombres «por ganar dinero se lanzaron al error de Balaam» (Judas 11). Juan, al escribir lo que Cristo resucitado dice a una iglesia en Pérgamo, los advierte contra quienes «mantienen la doctrina de Balaam, que enseñaba a Balac a poner tropiezo ante los israelitas» (Apocalipsis 2:14).
 
 Ser usado por Dios no lo salvó.
 
@@ -156,11 +142,9 @@ El veredicto es de cuatro palabras y no tiene nada que ver con lo que lograron. 
 
 Hay un segundo problema con la lección, y es más agudo. «Dios puede usar a cualquiera, incluso a una burra» alinea a los personajes en una escala, con el profeta en el extremo respetable y el animal abajo como remate del chiste. El relato no los ordena así. Escucha lo que dice el ángel cuando Balaam por fin lo ve.
 
-> La burra me vio y se apartó de Mí estas tres veces. Si no se hubiera apartado de Mí, yo ahora mismo te habría matado y a ella la habría dejado viva.
+> El asna me vio y se apartó de mí estas tres veces. Si no se hubiera apartado de mí, ciertamente yo te hubiera matado ahora mismo, y a ella la hubiera dejado vivir.
 >
 > Números 22:32-33 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El ángel da la razón al animal y condena al profeta. Ella vio, se detuvo, tuvo razón, y sus tres actos de terca desobediencia hacia el hombre que la golpeaba son la única razón por la que él sigue vivo para ser reprendido. Dios habría matado al vidente y perdonado a la bestia.
 
@@ -170,25 +154,21 @@ Ella no es el extremo bajo de aquello con lo que Dios se rebaja a trabajar. Es e
 
 Entonces, ¿quién era este hombre que no podía ver lo que su propio ganado veía?
 
-Por reputación, alguien de consideración. Balac no envía a cientos de kilómetros por un adivino de pueblo. La delegación que llega a Petor lleva «la paga de la adivinación en su mano» (Números 22:7), y cuando la primera oferta es rechazada, Balac sube la apuesta en lugar de rendirse, y envía príncipes más numerosos y más honorables que los primeros, con la promesa de grandes honores. Este es un hombre con reputación internacional y una tarifa publicada.
+Por reputación, alguien de consideración. Balac no envía a cientos de kilómetros por un adivino de pueblo. La delegación que llega a Petor lleva «el precio de la adivinación en la mano» (Números 22:7), y cuando la primera oferta es rechazada, Balac sube la apuesta en lugar de rendirse, y envía príncipes más numerosos y más honorables que los primeros, con la promesa de grandes honores. Este es un hombre con reputación internacional y una tarifa publicada.
 
 También habla como alguien de adentro. Cuando rechaza la segunda oferta, lo hace con un lenguaje que ningún escéptico usaría.
 
-> Aunque Balac me diera su casa llena de plata y oro, yo no podría ir más allá del mandato del SEÑOR mi Dios para hacer algo, pequeño o grande.
+> Y Balaam respondió a los siervos de Balac: Aunque Balac me diera su casa llena de plata y oro, yo no podría traspasar el mandamiento del SEÑOR mi Dios para hacer ni poco ni mucho.
 >
 > Números 22:18 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 No un dios. No el Dios de estos hebreos. Mi Dios. Reclama la relación en voz alta, delante de funcionarios extranjeros, y es lo último impresionante que dice antes de volver esa misma noche a ver si los términos han cambiado.
 
 Dos capítulos más adelante, después de que Dios le ha forzado físicamente los ojos a abrirse en el camino, Balaam introduce uno de sus oráculos así.
 
-> Declaración de Balaam, hijo de Beor, declaración del hombre de ojos abiertos, declaración del que oye los dichos de Dios, del que ve la visión del Todopoderoso, caído, pero con los ojos descubiertos.
+> Y comenzando su discurso, dijo: Oráculo de Balaam, hijo de Beor, y oráculo del hombre de ojos abiertos; Oráculo del que escucha las palabras de Dios, del que ve la visión del Todopoderoso; Caído, pero con los ojos descubiertos.
 >
 > Números 24:3-4 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El hombre de ojos abiertos.
 
@@ -196,21 +176,17 @@ No miente. Sus ojos habían sido abiertos. Solo omite que se los abrió Dios a l
 
 Los oráculos mismos son lo más extraño, porque son reales. Balac pagó por una maldición y recibió bendiciones, cuatro veces, cada una peor para él que la anterior. En la cuarta, de boca del hombre que está en su nómina, Balac oye esto:
 
-> Lo veo, pero no ahora; lo diviso, pero no de cerca: una estrella saldrá de Jacob, un cetro se levantará de Israel, y aplastará las sienes de Moab y derribará a todos los hijos de Set.
+> Lo veo, pero no ahora; lo contemplo, pero no cerca; una estrella saldrá de Jacob, y un cetro se levantará de Israel Que aplastará la frente de Moab Y derrumbará a todos los hijos de Set.
 >
 > Números 24:17 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Contrató a un hombre para destruir a Israel y compró, a precio completo, la profecía de un Rey venidero que aplastaría a Moab.
 
 Lo cual apunta a lo que Balac nunca entendió de lo que estaba comprando. Toda su premisa era que la palabra de Balaam hacía la obra, que la bendición y la maldición fluían de este hombre y caían donde él las apuntara. El texto dice otra cosa, con claridad, dos veces.
 
-> Y el SEÑOR puso palabra en la boca de Balaam, y dijo: «Vuelve a Balac, y así hablarás».
+> Y el SEÑOR puso palabra en la boca de Balaam, y le dijo: «Vuelve a Balac y así hablarás».
 >
 > Números 23:5 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Nunca fue su palabra. Era una tubería, y Balac le pagaba por el agua.
 
@@ -224,39 +200,29 @@ Eso es peor que un charlatán, y es peor de una manera que importa, porque un ch
 
 Esa palabra que usa Josué no es un título laboral neutral, y el relato mismo sigue dando vueltas alrededor de ella.
 
-El método de Balaam se menciona de pasada, sin acusación, como trasfondo ordinario. Antes del cuarto oráculo el narrador menciona que Balaam «no fue, como las otras veces, en busca de augurios» (Números 24:1). Como las otras veces. Leer presagios era simplemente lo que hacía, como otro hombre cultiva la tierra.
-
-<!-- VERIFY-NBLA -->
+El método de Balaam se menciona de pasada, sin acusación, como trasfondo ordinario. Antes del cuarto oráculo el narrador menciona que Balaam «no fue como otras veces a buscar presagios» (Números 24:1). Como las otras veces. Leer presagios era simplemente lo que hacía, como otro hombre cultiva la tierra.
 
 Las Escrituras no son neutrales sobre ese oficio. En las instrucciones de Moisés a Israel aparece en una lista, y la compañía que lo rodea no es halagadora.
 
-> No sea hallado en ti nadie que haga pasar a su hijo o a su hija por el fuego, ni quien practique adivinación, ni agorero, ni hechicero, ni encantador, ni médium, ni espiritista, ni quien consulte a los muertos. Porque el que hace estas cosas es abominación al SEÑOR.
+> No sea hallado en ti nadie que haga pasar a su hijo o a su hija por el fuego, ni quien practique adivinación, ni hechicería, o que sea agorero, o hechicero, o encantador, o adivino, o espiritista, ni quien consulte a los muertos. Porque cualquiera que hace estas cosas es abominable al SEÑOR.
 >
 > Deuteronomio 18:10-12 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
-Alguien objetará que Balaam no era israelita y nunca aceptó la ley de Israel. El mismo pasaje lo responde en el siguiente aliento. La razón por la que esas naciones pierden su tierra, dice Moisés, es que «por causa de estas abominaciones el SEÑOR tu Dios los expulsa de delante de ti» (Deuteronomio 18:12), y dos versículos después nombra la práctica como lo que exactamente las distingue: «estas naciones que vas a desposeer escuchan a agoreros y adivinos. Pero a ti el SEÑOR tu Dios no te ha permitido hacer esto» (Deuteronomio 18:14).
-
-<!-- VERIFY-NBLA -->
+Alguien objetará que Balaam no era israelita y nunca aceptó la ley de Israel. El mismo pasaje lo responde en el siguiente aliento. La razón por la que esas naciones pierden su tierra, dice Moisés, es que «por causa de estas abominaciones el SEÑOR tu Dios expulsará a esas naciones de delante de ti» (Deuteronomio 18:12), y dos versículos después nombra la práctica como lo que exactamente las distingue: «esas naciones que vas a desalojar escuchan a los que practican hechicería y a los adivinos, pero a ti el SEÑOR tu Dios no te lo ha permitido» (Deuteronomio 18:14).
 
 Lo cual hace que el segundo oráculo sea casi cómico. De pie en una colina, en medio de un trabajo para el que lo contrataron y le pagaron, Balaam dice esto:
 
-> Porque no hay agüero contra Jacob, ni adivinación contra Israel; ahora se dirá de Jacob y de Israel: «¡Lo que ha hecho Dios!».
+> Porque no hay agüero contra Jacob, ni hay adivinación contra Israel. A su tiempo se le dirá a Jacob Y a Israel: «¡Vean lo que ha hecho Dios!».
 >
 > Números 23:23 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El adivino anuncia, en pleno contrato, que la adivinación no funciona con esta gente. Está ahí parado con el dinero de Balac.
 
 Y luego, siglos más tarde, un profeta dice algo sobre otro hombre que cae sobre Balaam con más fuerza que cualquier cosa en Números. Samuel ha venido a decirle a Saúl que el reino le está siendo quitado, y explica por qué en una sola frase.
 
-> Porque la rebelión es como el pecado de adivinación, y la desobediencia es como la iniquidad y la idolatría. Porque tú has desechado la palabra del SEÑOR, Él también te ha desechado para que no seas rey.
+> Porque la rebelión es como el pecado de adivinación, y la desobediencia, como la iniquidad e idolatría. Por cuanto tú has desechado la palabra del SEÑOR, Él también te ha desechado para que no seas rey.
 >
 > 1 Samuel 15:23 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La rebelión es el pecado de adivinación. No algo parecido. Samuel los pone en la misma categoría y da la razón en el mismo aliento: porque has desechado la palabra del SEÑOR.
 
@@ -272,17 +238,13 @@ Dios dijo que no. Balaam salió a buscar algo mejor. Dios dijo que fuera, y se e
 
 Las Escrituras le ponen nombre. No es una rareza aislada en un capítulo oscuro de Números; es un patrón con su propio vocabulario, y una vez que tienes el vocabulario lo encuentras por todas partes.
 
-> Pero Mi pueblo no escuchó Mi voz, e Israel no quiso someterse a Mí. Por eso los entregué a la dureza de su corazón, para que anduvieran en sus propias intrigas.
+> Pero Mi pueblo no escuchó Mi voz; Israel no me obedeció. Por eso los entregué a la dureza de su corazón, para que anduvieran en sus propias intrigas.
 >
 > Salmo 81:11-12 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
-> Él les concedió su petición, pero envió una enfermedad que los consumía.
+> Él les concedió lo que pedían, pero envió una plaga mortal sobre ellos.
 >
 > Salmo 106:15 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 <!-- TRANSLATOR NOTE: The argument below turns on "would not submit" in Psalm 81:11. The NBLA/LBLA wording of that clause is uncertain to me (it may read "no me quiso" or similar); a native reviewer should confirm the Spanish text still supports "no quiso someterse" before this stands. -->
 
@@ -290,11 +252,9 @@ Pablo lo convierte en estribillo en el primer capítulo de Romanos, diciéndolo 
 
 El paralelo más claro es una nación que pide un rey. Israel exige uno, Samuel se aflige, y Dios le dice que siga adelante y lo conceda mientras nombra exactamente lo que está sucediendo.
 
-> Escucha la voz del pueblo en cuanto te digan, pues no te han desechado a ti, sino que me han desechado a Mí para que no sea rey sobre ellos.
+> Escucha la voz del pueblo en cuanto a todo lo que te digan, pues no te han desechado a ti, sino que me han desechado a Mí para que Yo no sea rey sobre ellos.
 >
 > 1 Samuel 8:7 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 No lo persuaden. No lo desgastan. Concede la petición, declara en voz alta que la petición es un rechazo hacia Él, le adjunta una advertencia, y deja que las consecuencias corran. Es la misma forma que el camino a Moab: ve con ellos, pero solo haz lo que Yo te diga, y un ángel armado esperando donde los muros se estrechan.
 
@@ -304,25 +264,21 @@ Y fíjate en la palabra que escoge el salmo. No que Israel no lo oyó. Israel no
 
 Eso suscita una objeción razonable, y es la más fuerte que hay, así que merece plantearse en toda su fuerza y no administrarse.
 
-Jesús enseñó la perseverancia en la oración. Contó una parábola de una viuda que seguía acudiendo a un juez al que no le interesaba su caso, importunándolo hasta que falló a su favor, y Lucas dice con claridad por qué se contó la parábola: «debían orar siempre, y no desfallecer» (Lucas 18:1). Si importunar a Dios hasta que la respuesta se mueva es el pecado de Balaam, ¿qué está haciendo la viuda?
-
-<!-- VERIFY-NBLA -->
+Jesús enseñó la perseverancia en la oración. Contó una parábola de una viuda que seguía acudiendo a un juez al que no le interesaba su caso, importunándolo hasta que falló a su favor, y Lucas dice con claridad por qué se contó la parábola: «debían orar en todo tiempo, y no desfallecer» (Lucas 18:1). Si importunar a Dios hasta que la respuesta se mueva es el pecado de Balaam, ¿qué está haciendo la viuda?
 
 Tres cosas los separan.
 
-La primera es que ella no tiene respuesta y él tenía una. Ella espera un veredicto que nunca ha llegado, y la parábola termina en si la fe puede sobrevivir a una demora: «cuando el Hijo del Hombre venga, ¿hallará fe en la tierra?» (Lucas 18:8). Su tema es la perseverancia en el silencio. «No irás con ellos» no es silencio. Persistir cuando Dios no ha respondido es fe. Persistir después de que Él ha respondido es otro acto con otro nombre. Y mira lo que ella pide. Justicia, que el mismo pasaje dice que Dios piensa dar plenamente a Sus escogidos (Lucas 18:7). Ella le pide a Dios que haga lo que Él ya dijo que hace. Balaam le pidió a Dios que deshiciera lo que ya había dicho.
+La primera es que ella no tiene respuesta y él tenía una. Ella espera un veredicto que nunca ha llegado, y la parábola termina en si la fe puede sobrevivir a una demora: «cuando el Hijo del Hombre venga, ¿hallará fe en la tierra?» (Lucas 18:8). Su tema es la perseverancia en el silencio. «No vayas con ellos» no es silencio. Persistir cuando Dios no ha respondido es fe. Persistir después de que Él ha respondido es otro acto con otro nombre. Y mira lo que ella pide. Justicia, que el mismo pasaje dice que Dios piensa dar plenamente a Sus escogidos (Lucas 18:7). Ella le pide a Dios que haga lo que Él ya dijo que hace. Balaam le pidió a Dios que deshiciera lo que ya había dicho.
 
 La segunda es que la parábola hace de Dios el contraste, no el modelo. El juez «ni temía a Dios ni respetaba a hombre», y su razón para fallar al fin es su propia comodidad: «porque esta viuda me molesta, le haré justicia, no sea que por venir continuamente me agote la paciencia» (Lucas 18:5). Jesús argumenta por contrarios. Si hasta un hombre corrupto cede ante la persistencia, cuánto más un Padre que no es corrupto. Quien lee esa parábola como una técnica para desgastar a Dios ha hecho de Dios el villano de Su propia historia. La segunda delegación de Balaam era desgaste. Era el método de la viuda dirigido al estrado equivocado.
 
-<!-- VERIFY-NBLA -->
-
 La tercera lo decide. En un huerto, la última noche de Su vida, Jesús le pidió a Su Padre que le quitara una copa.
 
-> Padre Mío, si es posible, que pase de Mí esta copa; pero no sea como Yo quiero, sino como Tú quieres.
+> «Padre Mío, si es posible, que pase de Mí esta copa; pero no sea como Yo quiero, sino como Tú quieras».
 >
 > Mateo 26:39 (NBLA)
 
-Pidió otra vez. Y luego, dice Mateo, «oró por tercera vez, diciendo otra vez las mismas palabras» (Mateo 26:44).
+Pidió otra vez. Y luego, dice Mateo, «oró por tercera vez, y dijo otra vez las mismas palabras» (Mateo 26:44).
 
 Tres veces. Balaam pidió dos. Si la repetición fuera el pecado, Jesús habría pecado más.
 
@@ -332,7 +288,7 @@ La diferencia nunca fue cuántas veces. Fue lo que cada hombre llevaba a la peti
 
 Balaam no es el único hombre de las Escrituras que supo lo correcto y no lo hizo. Pablo dice lo mismo de sí mismo, por escrito, sin protección alguna.
 
-> Porque lo que hago, no lo entiendo; pues no hago lo que quiero, sino que lo que aborrezco, eso hago.
+> Porque lo que hago, no lo entiendo. Porque no practico lo que quiero hacer, sino que lo que aborrezco, eso hago.
 >
 > Romanos 7:15 (NBLA)
 
@@ -344,11 +300,9 @@ Ese no es Balaam. Ten cuidado aquí, porque es un lugar fácil para escabullirse
 
 Pon sus confesiones lado a lado y no volverás a confundirlos. Esta es la de Balaam, la única que ofrece, dicha con la espada de un ángel a quince centímetros de su cara.
 
-> He pecado, porque no sabía que Tú estabas en el camino para oponerte a mí. Ahora pues, si te parece mal, me volveré.
+> Y Balaam dijo al ángel del SEÑOR: «He pecado, pues no sabía que tú estabas en el camino para enfrentarte a mí. Pero ahora, si te desagrada, me volveré».
 >
 > Números 22:34 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Tres cosas en una frase. Culpa a la ignorancia, cuando todo el problema es que sabía y fue de todos modos. Dice si te parece mal, que es una condición, lo cual significa que todavía no concede el punto. Y nada de eso llega hasta que hay una hoja frente a él.
 
@@ -370,7 +324,7 @@ Lee otra vez su rechazo, el que dio con cara seria antes de volver a la mesa de 
 
 Santiago le pone nombre a esa distancia.
 
-> Y al que sabe hacer lo bueno y no lo hace, le es pecado.
+> A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
 >
 > Santiago 4:17 (NBLA)
 
@@ -388,17 +342,15 @@ Son la misma postura mirando en dos direcciones, y el nombre de la postura es la
 
 Las Escrituras cierran la salida que yo había estado usando, y la cierran con un solo par de palabras.
 
-> Por nada estén afanosos, sino que en toda oración y súplica, con acción de gracias, sean dadas a conocer sus peticiones delante de Dios.
+> Por nada estén afanosos; antes bien, en todo, mediante oración y súplica con acción de gracias, sean dadas a conocer sus peticiones delante de Dios.
 >
 > Filipenses 4:6 (NBLA)
 
 Por nada. En toda oración. No hay umbral de tamaño. Y cuando Jesús fue tras esa misma excusa, tomó lo más barato del mercado y luego fue todavía más pequeño.
 
-> ¿No se venden cinco gorriones por dos monedas de poco valor? Sin embargo, ni uno de ellos está olvidado delante de Dios. Aun los cabellos de la cabeza de ustedes están todos contados. No teman; ustedes valen más que muchos gorriones.
+> ¿No se venden cinco pajarillos por dos moneditas? Y sin embargo, ni uno de ellos está olvidado ante Dios. Es más, aun los cabellos de la cabeza de ustedes están todos contados. No teman; ustedes valen más que muchos pajarillos.
 >
 > Lucas 12:6-7 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Dos monedas compraban cinco gorriones. Dios los lleva contados. Lleva una cuenta que nadie más tendría ocasión de hacer.
 
@@ -438,7 +390,7 @@ Números 22 la contradice de plano. Dios no cerró una puerta y abrió una venta
 
 Nada de esto significa que la respuesta sea seguir preguntando hasta que te sientas mejor. Ese es Balaam con la segunda delegación, y conviene ser preciso aquí, porque las dos cosas se parecen y son opuestas. No vuelvas a litigar lo que Dios ya dijo. Sí tráele las cosas que has estado manejando a solas porque te parecían por debajo de Su atención. Lo primero es un hombre yendo de compras. Lo segundo es un hombre que por fin se presenta.
 
-> Pero si alguno de ustedes carece de sabiduría, que la pida a Dios, quien da a todos abundantemente y sin reproche, y le será dada.
+> Y si a alguno de ustedes le falta sabiduría, que se la pida a Dios, quien da a todos abundantemente y sin reproche, y le será dada.
 >
 > Santiago 1:5 (NBLA)
 
@@ -448,11 +400,9 @@ Carece. La promesa es para el hombre que no tiene la respuesta, no para el que t
 
 Balaam obtuvo lo que pidió. Lo obtuvo más de una vez, y la última fue algo que le dijo a su burra, enojado, antes de saber que alguien más escuchaba.
 
-> Porque te has burlado de mí. ¡Si tuviera una espada en la mano, ahora mismo te mataría!
+> «Porque te has burlado de mí. Ojalá tuviera una espada en mi mano, que ahora mismo te mataría».
 >
 > Números 22:29 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Dijo eso de pie justo delante de un ser que sostenía una espada desenvainada y que había salido a matarlo. Quería, en ese momento, el instrumento exacto que apuntaba a su propio pecho, y no tenía idea de que estaba allí.
 
@@ -462,25 +412,19 @@ Años después Israel va a la guerra contra Madián, y la lista de bajas incluye
 >
 > Números 31:8 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Pidió una espada. Le llegó por el otro extremo.
 
 ## Escúchalo
 
 Vuelve al capítulo que puso el oficio de Balaam en una lista junto con el sacrificio de niños, porque Moisés no se detiene ahí. Después de decirle a Israel lo que no puede hacer cuando quiere saber algo, les dice lo que Dios proveerá en su lugar, y es lo siguiente que sale de su boca.
 
-> El SEÑOR tu Dios levantará para ti un profeta como yo de en medio de ti, de entre tus hermanos; a él escucharán.
+> Un profeta de en medio de ti, de tus hermanos, como yo, te levantará el SEÑOR tu Dios; a él oirán.
 >
 > Deuteronomio 18:15 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 La alternativa al adivino es un Profeta. No una mejor técnica, no un método más limpio de extraerle información al cielo. Una persona, que habla, y a quien hay que escuchar.
 
-Pedro lo nombra, de pie en los atrios del templo y citando ese versículo a una multitud, y la frase que escoge repetir es la instrucción que viene con él: «A él escucharán en todo cuanto les diga» (Hechos 3:22).
-
-<!-- VERIFY-NBLA -->
+Pedro lo nombra, de pie en los atrios del templo y citando ese versículo a una multitud, y la frase que escoge repetir es la instrucción que viene con él: «A ÉL PRESTARÁN ATENCIÓN en todo cuanto les diga» (Hechos 3:22).
 
 Balaam lo vio. Eso es lo que no me deja en paz de este relato. Allá en esa colina con el dinero de Balac en su tienda, Dios puso una palabra en su boca y se oyó describir una estrella que salía de Jacob y un cetro que se levantaba de Israel. Profetizó al Rey, correctamente, y luego bajó de la montaña y le enseñó a Moab cómo hacer tropezar a la gente del Rey hasta la ruina. Un hombre puede recibir visión hasta ese punto y aun así no seguir lo que se le ha mostrado.
 
@@ -488,7 +432,7 @@ Balaam dijo que una casa llena de plata y oro no podía moverlo más allá del m
 
 Luego a un segundo hombre, en un monte, se le ofrece bastante más de lo que Balac podía reunir.
 
-> Otra vez el diablo lo llevó a un monte muy alto, y le mostró todos los reinos del mundo y su gloria; y le dijo: «Todo esto te daré si te postras y me adoras». Entonces Jesús le dijo: «Vete, Satanás, porque escrito está: “Al Señor tu Dios adorarás, y solo a Él servirás”».
+> Otra vez el diablo lo llevó a un monte muy alto, y le mostró todos los reinos del mundo y la gloria de ellos, y le dijo: «Todo esto te daré, si te postras y me adoras». Entonces Jesús le dijo: «¡Vete, Satanás! Porque escrito está: «AL SEÑOR TU DIOS ADORARÁS, y SOLO A ÉL SERVIRÁS»».
 >
 > Mateo 4:8-10 (NBLA)
 
@@ -504,15 +448,13 @@ No solo oírlo. Balaam lo oyó dos veces, en palabras claras, en su propio idiom
 
 Hay una boda en Caná donde se acaba el vino, y Su madre, que no puede arreglarlo y sabe que no puede, se vuelve a los sirvientes con la única instrucción que importa.
 
-> Su madre dijo a los sirvientes: «Hagan todo lo que Él les diga».
+> Su madre dijo a los que servían: «Hagan todo lo que Él les diga».
 >
 > Juan 2:5 (NBLA)
 
 Todo lo que Él les diga. Es la frase que usó Moisés y que Pedro repitió en los atrios del templo.
 
-Lo que Él les dijo no tenía sentido. El vino se había acabado y Él dijo que llenaran las tinajas de agua, y las llenaron hasta el borde (Juan 2:7). Cuando el maestresala lo probó no tenía idea de dónde había salido, «aunque lo sabían los sirvientes que habían sacado el agua» (Juan 2:9).
-
-<!-- VERIFY-NBLA -->
+Lo que Él les dijo no tenía sentido. El vino se había acabado y Él dijo que llenaran las tinajas de agua, y las llenaron hasta el borde (Juan 2:7). Cuando el maestresala lo probó no tenía idea de dónde había salido, «pero los que servían, que habían sacado el agua, lo sabían» (Juan 2:9).
 
 Los sirvientes lo sabían. El hombre que dirigía la fiesta, no. Lo sabían porque lo habían hecho, y ni un momento antes.
 

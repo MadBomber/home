@@ -31,11 +31,9 @@ Eso se acerca más a la verdad sobre Satanás que cualquier imagen de campo de b
 
 La sentencia se pronuncia casi de inmediato después del primer pecado, antes de que Adán y Eva siquiera hayan salido del huerto, y se dirige directamente a la serpiente:
 
-> «Y pondré enemistad entre tú y la mujer, y entre tu simiente y la simiente suya. Él te herirá en la cabeza, y tú lo herirás en el talón».
+> Pondré enemistad Entre tú y la mujer, y entre tu simiente y su simiente; Él te herirá en la cabeza, y tú lo herirás en el talón.
 >
 > Génesis 3:15 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 <!-- TRANSLATOR NOTE: The ESV says "bruise" for both wounds; the NBLA uses "herir" (to wound) for both, so the head/heel asymmetry survives intact. The prose below says "herida" and "golpe" instead of "bruise". -->
 
@@ -45,11 +43,9 @@ Lee más allá de la estructura paralela y el versículo parece simétrico: una 
 
 Génesis 3:15 es una sentencia dictada por adelantado. La cruz es el momento en que deja de ser un pronóstico y se convierte en un hecho asentado en el expediente.
 
-> «Y habiendo despojado a los principados y autoridades, hizo de ellos un espectáculo público, triunfando sobre ellos por medio de Él».
+> Y habiendo despojado a los poderes y autoridades, hizo de ellos un espectáculo público, triunfando sobre ellos por medio de Él.
 >
 > Colosenses 2:15 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 <!-- TRANSLATOR NOTE: The English prose quotes the ESV phrases "Disarmed" and "Put to open shame". The NBLA wording differs ("despojado" and "espectáculo público"), so the two fragments below are rendered with those words; the argument (public, legal, military language) is unchanged. -->
 
@@ -59,13 +55,13 @@ Nombra sin rodeos la escena donde esto sucede: no una transacción espiritual pr
 
 Lo que todavía no ha ocurrido es la sentencia misma, y la Escritura es específica sobre dónde cae.
 
-> «Y el diablo que los engañaba fue arrojado al lago de fuego y azufre, donde también estaban la bestia y el falso profeta; y serán atormentados día y noche por los siglos de los siglos».
+> Y el diablo que los engañaba fue arrojado al lago de fuego y azufre, donde también están la bestia y el falso profeta. Y serán atormentados día y noche por los siglos de los siglos.
 >
 > Apocalipsis 20:10 (NBLA)
 
 Pablo escribe a una iglesia del primer siglo con el mismo desenlace, expresado como algo cercano:
 
-> «El Dios de paz aplastará pronto a Satanás bajo los pies de ustedes».
+> Y el Dios de paz aplastará pronto a Satanás debajo de los pies de ustedes.
 >
 > Romanos 16:20 (NBLA)
 
@@ -77,21 +73,19 @@ Hay una versión de esto que se trata como una vergüenza, la clase de promesa s
 >
 > 2 Pedro 3:9 (NBLA)
 
-Un versículo antes ya había cambiado toda la escala de medición: «para el Señor un día es como mil años, y mil años como un día» (2 Pedro 3:8). <!-- VERIFY-NBLA --> Dos mil años de tiempo del calendario humano no son una prueba contra el veredicto. Es simplemente cómo se ve «pronto» medido desde dentro de la espera y no desde donde se hizo la promesa, y la Escritura nombra esa diferencia de escala antes de que un solo escéptico tenga la oportunidad de señalarla.
+Un versículo antes ya había cambiado toda la escala de medición: «para el Señor un día es como mil años, y mil años como un día» (2 Pedro 3:8). Dos mil años de tiempo del calendario humano no son una prueba contra el veredicto. Es simplemente cómo se ve «pronto» medido desde dentro de la espera y no desde donde se hizo la promesa, y la Escritura nombra esa diferencia de escala antes de que un solo escéptico tenga la oportunidad de señalarla.
 
 ## Él también lo sabe
 
 Cualquiera que sea la confianza que se tome prestada de ese veredicto, a Satanás no le toca tomar prestado lo contrario. Él no vive en suspenso sobre cómo termina esto, y Apocalipsis lo dice con claridad, en la misma escena donde es derribado:
 
-> «Y fue arrojado el gran dragón, la serpiente antigua, el que se llama diablo y Satanás, el que engaña al mundo entero; fue arrojado a la tierra, y sus ángeles fueron arrojados con él».
+> Y fue arrojado el gran dragón, la serpiente antigua que se llama Diablo y Satanás, el cual engaña al mundo entero. Fue arrojado a la tierra y sus ángeles fueron arrojados con él.
 >
 > Apocalipsis 12:9 (NBLA)
 
-> «Por lo cual, alégrense, cielos y los que moran en ellos. ¡Ay de la tierra y del mar!, porque el diablo ha descendido a ustedes, teniendo gran furor, sabiendo que tiene poco tiempo».
+> Por lo cual regocíjense, cielos y los que moran en ellos. ¡Ay de la tierra y del mar!, porque el diablo ha descendido a ustedes con gran furor, sabiendo que tiene poco tiempo.
 >
 > Apocalipsis 12:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 «Gran furor» no es el furor de un ser que todavía podría sacar una victoria. Es el furor de un ser que ya conoce el fallo y trabaja contra una ventana que siente cerrarse. Eso replantea el peligro del momento presente sin minimizarlo: un adversario acorralado que sabe exactamente cuán poco tiempo le queda no es un adversario ante quien sea más seguro descuidarse. Es uno más urgente, precisamente porque no tiene nada que perder gastando el tiempo que le queda de la manera más destructiva posible.
 
@@ -101,11 +95,9 @@ Conviene ser precisos sobre el origen de ese conocimiento, porque es fácil supo
 
 Hay una palabra para la forma del tiempo que queda, y aparece en el punto exacto donde termina la tentación en el desierto:
 
-> «Cuando el diablo hubo acabado toda tentación, se alejó de Él hasta un tiempo oportuno».
+> Cuando el diablo hubo acabado toda tentación, se alejó de Él esperando un tiempo oportuno.
 >
 > Lucas 4:13 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El griego detrás de «tiempo oportuno» es *kairos*, un momento propicio, una ocasión madura para algo, y no simplemente *chronos*, el paso ordinario de la duración, una hora tras otra. Existen dos palabras distintas para dos clases distintas de tiempo, y Lucas elige la que nombra una ocasión y no una duración. No dice que el diablo se fue y pasó el tiempo. Dice que el diablo se fue con la mirada ya puesta en la próxima ventana, señalada dentro del propio relato de la tentación como asunto pendiente y no como caso cerrado.
 
@@ -117,9 +109,9 @@ Esa es la pregunta que realmente vale la pena hacerse, día a día. No «¿debo 
 
 Dos errores gemelos flanquean la respuesta franca, y ninguno merece pasar por razonable. El primero trata la duración del intervalo como evidencia de que el veredicto aún podría revocarse: duda funcional disfrazada de paciencia, como si bastara suficiente demora para deshacer un fallo que nunca estuvo en cuestión. Aparece como un zumbido de fondo de ansiedad sobre si la historia de verdad termina como dice que termina, un zumbido que sube de volumen cada vez que el intervalo se alarga más de lo esperado. El segundo error corre en la dirección opuesta: trata la certeza del desenlace como motivo para no molestarse en resistir nada mientras tanto, pasividad funcional disfrazada de confianza, un mal uso de un final establecido como excusa para dejar de presentarse en las partes de la historia que todavía se están escribiendo. Si el final ya está fijado, razona este error, entonces la pequeña concesión de hoy o la resistencia omitida de hoy no cuestan nada que no estuviera ya contabilizado.
 
-Ninguno de los dos errores es inofensivo, y conviene nombrarlos como dos fallas distintas y no una sola, porque se corrigen con medios opuestos. La primera vive en una ansiedad de baja intensidad sobre un caso que no está abierto, y se corrige con el veredicto mismo, leído con claridad, una y otra vez, hasta que la ansiedad no tenga nada de qué alimentarse. La segunda vive en una complacencia que Santiago ya descartó: «Resistan al diablo y huirá de ustedes» (Santiago 4:7) nunca quedó suspendido solo porque el desenlace de la guerra dejó de estar en duda. Un final establecido nunca fue permiso para dejar de pelear las partes que todavía tienes delante. Fue la razón por la que pelear nunca fue inútil.
+Ninguno de los dos errores es inofensivo, y conviene nombrarlos como dos fallas distintas y no una sola, porque se corrigen con medios opuestos. La primera vive en una ansiedad de baja intensidad sobre un caso que no está abierto, y se corrige con el veredicto mismo, leído con claridad, una y otra vez, hasta que la ansiedad no tenga nada de qué alimentarse. La segunda vive en una complacencia que Santiago ya descartó: «Resistan, pues, al diablo y huirá de ustedes» (Santiago 4:7) nunca quedó suspendido solo porque el desenlace de la guerra dejó de estar en duda. Un final establecido nunca fue permiso para dejar de pelear las partes que todavía tienes delante. Fue la razón por la que pelear nunca fue inútil.
 
-El propio auditorio de Pablo lo deja claro sin necesidad de decírselo dos veces. Él no le dice a la iglesia de Roma que se siente a ver cómo ocurre el aplastamiento desde una distancia segura, algún día, a otra persona. Les dice que el aplastamiento ocurre «bajo los pies de ustedes». Sus pies. Una iglesia formada por personas comunes, la mayoría sin idea de que vivían dentro de una historia que seguiría corriendo dos mil años después, recibe una promesa formulada como participación propia, no como un espectáculo para mirar desde las gradas. Participantes presentes en una lucha cuyo marcador final nunca estuvo en juego, de pie justamente en la clase de intervalo que aquí se describe, a quienes se les pide seguir de pie en él en lugar de tratar la certeza del final como permiso para dejar de hacerlo. El veredicto no se mantiene de pie por nadie. Solo garantiza para qué sirve estar de pie.
+El propio auditorio de Pablo lo deja claro sin necesidad de decírselo dos veces. Él no le dice a la iglesia de Roma que se siente a ver cómo ocurre el aplastamiento desde una distancia segura, algún día, a otra persona. Les dice que el aplastamiento ocurre «debajo de los pies de ustedes». Sus pies. Una iglesia formada por personas comunes, la mayoría sin idea de que vivían dentro de una historia que seguiría corriendo dos mil años después, recibe una promesa formulada como participación propia, no como un espectáculo para mirar desde las gradas. Participantes presentes en una lucha cuyo marcador final nunca estuvo en juego, de pie justamente en la clase de intervalo que aquí se describe, a quienes se les pide seguir de pie en él en lugar de tratar la certeza del final como permiso para dejar de hacerlo. El veredicto no se mantiene de pie por nadie. Solo garantiza para qué sirve estar de pie.
 
 Un condenado que sale de un tribunal antes de la sentencia no puede actuar como si el veredicto nunca hubiera ocurrido. Tampoco vive en un intervalo sin sentido solo porque la pena real aún no se haya leído en voz alta. El camino entre esos dos momentos no es tiempo neutro que se mata mientras se espera que otra cosa se vuelva real. Es parte de cómo se le encuentra, cuando por fin se lee la sentencia. Cómo es ese camino, con quién se recorre, qué se construye o se desperdicia durante él, todo eso pertenece al intervalo y a nada más. No es un ensayo para algún capítulo más real que aún está por venir. Es donde ocurre el vivir de verdad, con el veredicto ya dictado, la sentencia aún pendiente, ambos hechos ciertos en el mismo aliento, la misma asimetría que Génesis 3:15 nombró en la primera página de esta historia.
 

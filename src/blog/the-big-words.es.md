@@ -117,8 +117,6 @@ A veces la gente piensa que la fe significa creer algo sin ninguna evidencia, o 
 
 Hebreos 11:1 dice: *«Ahora bien, la fe es la certeza de lo que se espera, la convicción de lo que no se ve»*. Certeza. Convicción. Estas no son palabras para el pensamiento ilusorio. Son palabras para una confianza firme.
 
-<!-- VERIFY-NBLA -->
-
 La fe en la Biblia tiene tres partes que trabajan juntas. Primero, tienes que saber algo: necesitas información real sobre quién es Jesús y qué hizo. Segundo, tienes que creer que es verdad, no solo posible, sino realmente verdad. Tercero, tienes que actuar conforme a ello: confiar en Jesús personalmente, no solo estar de acuerdo con datos sobre Él. La tercera parte es donde mucha gente se queda corta. Puedes saber todo sobre un médico y creer que es bueno, pero la fe es en realidad ir a verlo cuando estás enfermo.
 
 Por eso la Biblia dice que la fe es la manera en que una persona recibe la salvación, no como una obra que haces para ganarla, sino como la mano abierta que recibe lo que Dios ya ha provisto. (Efesios 2:8-9)
@@ -159,7 +157,7 @@ Jesús no era Dios fingiendo ser humano. No era un ser humano que después se vo
 
 ¿Por qué importa eso? Porque significa que Dios sabe lo que es estar cansado. Tener hambre. Sufrir una pérdida. Ser traicionado por un amigo. Estar en dolor. No miró el sufrimiento humano desde una distancia segura. Entró en él. (Hebreos 4:15)
 
-Juan 1:14 lo dice con claridad: *«Y el Verbo se hizo carne y habitó entre nosotros»*. El Verbo (el Hijo eterno de Dios) se hizo carne. Eso es la encarnación. Eso es la Navidad. ¡Qué regalo! ¡Feliz Navidad!
+Juan 1:14 lo dice con claridad: *«El Verbo se hizo carne, y habitó entre nosotros»*. El Verbo (el Hijo eterno de Dios) se hizo carne. Eso es la encarnación. Eso es la Navidad. ¡Qué regalo! ¡Feliz Navidad!
 
 ---
 
@@ -356,8 +354,6 @@ La hermenéutica suena intimidante, pero ya usas destrezas de interpretación to
 La apologética es poder explicar lo que crees y por qué, y estar listo para dar una respuesta serena y honesta a las personas que tienen preguntas o dudas sobre el cristianismo.
 
 La palabra viene del griego *apologia*, que significa una defensa o una respuesta razonada. En los tribunales griegos antiguos, cuando alguien era acusado de un crimen, la *apologia* era su respuesta a los cargos. El apóstol Pedro usó esta misma palabra cuando escribió: *«estando siempre preparados para presentar defensa [...] ante todo el que les demande razón de la esperanza que hay en ustedes»* (1 Pedro 3:15).
-
-<!-- VERIFY-NBLA -->
 
 La apologética no es discutir. No es tratar de ganar un debate ni avergonzar a alguien para que crea. Es estar preparado para tener una conversación honesta sobre por qué crees que el cristianismo es verdadero.
 

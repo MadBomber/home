@@ -60,11 +60,9 @@ Esta variedad no es decorativa. Es intencional. El Dios que nos hizo usó todos 
 
 En Nehemías 8, después de que se reconstruyen los muros de Jerusalén, Esdras el escriba saca el Libro de la Ley y lo lee ante el pueblo reunido.
 
-> Leían en el libro, en la ley de Dios, claramente, y le daban el sentido, de modo que el pueblo comprendía la lectura.
+> Y leyeron en el libro de la ley de Dios, interpretándolo y dándole el sentido para que entendieran la lectura.
 >
 > Nehemías 8:8 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El resultado: el pueblo lloró.
 
@@ -74,11 +72,9 @@ Este es el propio modelo de las Escrituras de exactamente lo que hizo mi esposa 
 
 El estudio bíblico no es un pasatiempo para quienes por casualidad disfrutan de las mañanas tranquilas con café. Pablo lo llama otra cosa por completo, un oficio con la norma de un artesano.
 
-> Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad.
+> Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que maneja con precisión la palabra de verdad.
 >
 > 2 Timoteo 2:15 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Puede hacerse bien o mal. La disciplina que construyes con el tiempo no es solo una preferencia estética. Es obediencia a un llamado.
 

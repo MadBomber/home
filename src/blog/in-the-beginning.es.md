@@ -32,7 +32,7 @@ Quiero entrar a esa sala y desarmar la pregunta. No para resolverla: para mostra
 
 Empieza en la primera oración.
 
-> «En el principio creó Dios los cielos y la tierra».
+> En el principio Dios creó los cielos y la tierra.
 >
 > Génesis 1:1 (NBLA)
 
@@ -49,28 +49,22 @@ Lo que la honestidad no permite es la afirmación mayor que entra detrás: que *
 > «Estos son los orígenes de los cielos y de la tierra cuando fueron creados, el día en que el SEÑOR Dios hizo la tierra y los cielos».
 >
 > Génesis 2:4 (NBLA)
-<!-- VERIFY-NBLA -->
-
 «El día en que» es la misma palabra, *yom*, y aquí reúne toda la semana de seis días en uno. La palabra se estira. Abarca una mitad de luz diurna y luego un ciclo completo dentro del único versículo de Génesis 1:5. Se pone frente a mil años en el Salmo 90:4. Significa un lapso indefinido en Génesis 4:3, que literalmente dice «al cabo de los días». *Yom* no es una vara de medir. Es una palabra, y las palabras se doblan según sus oraciones.
 
 Así que la gramática te da un día ordinario. Aférrate a eso. Luego pregúntale a la gramática cuánto duró realmente ese día, y mírala quedarse callada.
 
 El sol no se hace hasta el cuarto día.
 
-> «Entonces dijo Dios: Haya lumbreras en la expansión de los cielos para separar el día de la noche, y sean para señales y para estaciones, y para días y años».
+> Entonces dijo Dios: Haya lumbreras en la expansión de los cielos para separar el día de la noche, y sean para señales y para estaciones y para días y para años.
 >
 > Génesis 1:14 (NBLA)
-<!-- VERIFY-NBLA -->
-
-Lee la asignación. Las lumbreras son designadas para marcar días y años. El instrumento que define un día (aquello por lo cual alguien mediría veinticuatro horas) se instala el día cuatro. Los tres primeros días se llevaron con un reloj que aún no existía. Hubo luz el día uno, y una tierra que giraba debajo, y «tarde y mañana» podían ser reales. Pero ¿qué fijaba la duración de ese giro? ¿Qué era un día, antes de que hubiera un sol que lo hiciera? El texto no lo dice. Crea la pregunta y pasa de largo.
+Lee la asignación. Las lumbreras son designadas para marcar días y años. El instrumento que define un día (aquello por lo cual alguien mediría veinticuatro horas) se instala el día cuatro. Los tres primeros días se llevaron con un reloj que aún no existía. Hubo luz el día uno, y una tierra que giraba debajo, y «la tarde y la mañana» podían ser reales. Pero ¿qué fijaba la duración de ese giro? ¿Qué era un día, antes de que hubiera un sol que lo hiciera? El texto no lo dice. Crea la pregunta y pasa de largo.
 
 Un enigma menor se sienta en la misma costura, y va contra la respuesta fácil de ambos lados. Las plantas llegan el día tres, antes del sol del día cuatro.
 
-> «Produzca la tierra vegetación: hierbas que den semilla, y árboles frutales que den fruto según su género, con su semilla en él».
+> «Produzca la tierra vegetación: hierbas que den semilla, y árboles frutales que den su fruto con su semilla sobre la tierra según su especie».
 >
 > Génesis 1:11 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Son plantas ordinarias: vegetación que da semilla y árboles frutales, de las que viven de la luz del sol. Si los días son días ordinarios, no hay problema. La vegetación sobrevive un día oscuro sin notarlo. Pero si los días son edades largas, como necesita la lectura de la tierra antigua, entonces árboles frutales estuvieron de pie durante millones de años en la oscuridad esperando un sol, cosa que ningún ser vivo hace. El problema de las plantas premia al día corto y hiere al largo, y aun así no puede decirte qué medían los tres primeros días, porque la medida aún no había sido hecha.
 
 Esta es la forma de toda la cuestión. El espacio en blanco no está en el borde desgarrado de la Escritura. Está en el primer capítulo, en la primera semana, hecho por el texto y dejado abierto por el texto.
@@ -85,7 +79,7 @@ La primera máquina cuenta hacia atrás desde Adán. Suma las edades de las gene
 
 Supone que las genealogías son continuas: cada eslabón, un padre y un hijo inmediatos. La Escritura dice otra cosa de sus propias listas.
 
-> «...y Joram engendró a Uzías,»
+> ...y Joram de Uzías.
 >
 > Mateo 1:8 (NBLA)
 
@@ -95,11 +89,9 @@ Supone que los números son estables. No lo son. Tres corrientes antiguas del An
 
 Supone que el orden en que se enumeran los nombres es el orden en que nacieron, de modo que las edades simplemente se suman. No siempre es así.
 
-> «Cuando Taré había vivido setenta años, engendró a Abram, a Nacor y a Harán».
+> Taré vivió 70 años, y fue padre de Abram, de Nacor y de Harán.
 >
 > Génesis 11:26 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Leído de corrido, Abram nace en el año setenta de su padre. Pero Taré murió a los doscientos cinco (Génesis 11:32), y Abram tenía setenta y cinco años cuando salió de Harán (Génesis 12:4), y salió solo después de que su padre hubiera muerto (Hechos 7:4). Eso sitúa el nacimiento de Abram en el año ciento treinta de Taré, no en el setenta. Abram es nombrado primero por su peso en la historia, no por su orden de nacimiento. La suma sencilla se rompe dentro de la misma línea que contó Ussher.
 
 La equidad exige nombrar la parte más fuerte de la máquina: Génesis 5 y 11 son inusualmente precisos para ser genealogías, porque dan la edad del padre en el momento de engendrar, cosa que la mayoría de las listas no hace. Esa precisión es real. Tampoco es una cadena sellada. No cierra el hueco de Cainán, no reconcilia los tres manuscritos ni arregla la aritmética de Taré.
@@ -146,15 +138,13 @@ Mira de nuevo lo que es en realidad la pelea. Dos personas que pertenecen al mis
 
 Hay un segundo tipo de silencio, y vale la pena verlo, porque te dice que «no lo sé» no siempre es un veredicto sobre cuánto buscaste.
 
-Algunas preguntas no se pueden responder desde donde estamos parados, por mucho que busquemos. ¿Cuándo fueron hechos los ángeles? Génesis no lo dice. Job los sitúa en la fundación de la tierra, ya allí y cantando antes de la primera mañana humana: presentes, dice Dios, «cuando alababan juntas las estrellas de la mañana, y todos los hijos de Dios gritaban de alegría» (Job 38:7). Pero una pregunta más profunda se traga la primera: ¿qué es «cuándo», antes de que haya una creación que lleve el tiempo? Agustín lo vio hace dieciséis siglos. El tiempo mismo es algo que Dios hizo. No construyó el mundo dentro de un reloj que ya corría; hizo el reloj junto con todo lo demás. «Antes de la creación» es una frase construida con una palabra de tiempo, preguntando por un lugar adonde el tiempo no llega. La pregunta se disuelve en la mano. <!-- VERIFY-NBLA -->
+Algunas preguntas no se pueden responder desde donde estamos parados, por mucho que busquemos. ¿Cuándo fueron hechos los ángeles? Génesis no lo dice. Job los sitúa en la fundación de la tierra, ya allí y cantando antes de la primera mañana humana: presentes, dice Dios, «cuando cantaban juntas las estrellas del alba, y todos los hijos de Dios gritaban de gozo» (Job 38:7). Pero una pregunta más profunda se traga la primera: ¿qué es «cuándo», antes de que haya una creación que lleve el tiempo? Agustín lo vio hace dieciséis siglos. El tiempo mismo es algo que Dios hizo. No construyó el mundo dentro de un reloj que ya corría; hizo el reloj junto con todo lo demás. «Antes de la creación» es una frase construida con una palabra de tiempo, preguntando por un lugar adonde el tiempo no llega. La pregunta se disuelve en la mano.
 
 Somos criaturas de tres dimensiones plenas de espacio y una dimensión extraña y angosta de tiempo, que se mueve en una sola dirección, a una sola velocidad, sin manera de dar la vuelta. Una criatura plana que vive sobre una hoja de papel no puede percibir una esfera que pasa a través de su mundo; solo ve un círculo que aparece de la nada, se hincha, se encoge y desaparece. No es tonta. Está limitada. Podemos estar exactamente en esa posición delante de Dios y de las cosas que Él habita. Cuando el siervo de Eliseo despertó ante un ejército hostil y se desesperó, el profeta oró por sus ojos.
 
-> «Entonces el SEÑOR abrió los ojos del criado, y miró, y he aquí, el monte estaba lleno de caballos y de carros de fuego alrededor de Eliseo».
+> Y el SEÑOR abrió los ojos del criado, y miró que el monte estaba lleno de caballos y carros de fuego alrededor de Eliseo.
 >
 > 2 Reyes 6:17 (NBLA)
-<!-- VERIFY-NBLA -->
-
 El fuego había estado allí todo el tiempo. El siervo simplemente no podía ver la dimensión en que se encontraba. Cuando la respuesta a Daniel fue retenida veintiún días por un conflicto que él nunca percibió (Daniel 10:13), el conflicto estaba moldeando su historia desde una dirección a la que no podía señalar.
 
 Este es el segundo tipo de silencio. No retenido, como la edad de la tierra, sino estructural. Ninguna cantidad de búsqueda dentro de nuestras dimensiones lo alcanza, porque la cosa no está escondida en algún lugar de nuestro espacio. Está fuera de él, como la tercera dimensión está fuera de la página de la criatura plana. La Escritura nos dice con claridad que tales realidades existen. No nos dice cómo son. La existencia está revelada. La arquitectura no.

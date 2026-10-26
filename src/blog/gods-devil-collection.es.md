@@ -25,11 +25,9 @@ No lo es. Y la brecha entre la imagen prestada y la bíblica no es un tecnicismo
 
 Abre una Biblia en lugar de una pantalla de cine y sale una figura más pequeña y más extraña. Tienta, pero no puede forzar una mano que no haya encontrado ya dispuesta. Ronda, pero no ocupa dos lugares a la vez. Trama, pero no conoce el mañana mejor que los humanos contra quienes trama. En cada escena de las Escrituras donde aparece, aparece dentro de un límite que Dios trazó primero.
 
-> «Sean sobrios y velen. Su adversario, el diablo, como león rugiente, anda al acecho buscando a quién devorar».
+> Sean de espíritu sobrio, estén alerta. Su adversario, el diablo, anda al acecho como león rugiente, buscando a quien devorar.
 >
 > 1 Pedro 5:8 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Ese versículo se cita como una advertencia, y lo es. También es, si se lee de cerca, la descripción de un animal que tiene que cazar. Un león que pudiera servirse sin más no necesitaría rondar, y no necesitaría buscar. El versículo que pretendía poner en guardia al lector acaba por conceder, en el mismo aliento, que la guardia tiene un terreno real donde apoyarse.
 
@@ -37,21 +35,17 @@ Esa concesión recorre toda la Biblia, no solo un versículo. Antes de que Satan
 
 Eso tiene un nombre, y es una promesa, no solo una observación.
 
-> «Yo les doy vida eterna, y jamás perecerán, ni nadie las arrebatará de Mi mano. Mi Padre, que me las ha dado, es mayor que todos; y nadie las puede arrebatar de la mano del Padre».
+> Yo les doy vida eterna y jamás perecerán, y nadie las arrebatará de Mi mano. Mi Padre que me las dio es mayor que todos, y nadie las puede arrebatar de la mano del Padre.
 >
 > Juan 10:28-29 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La razón por la que importa la correa no es que haga inofensivo a Satanás. No necesita ser inofensivo para que esa promesa se sostenga. Necesita ser más pequeño que la mano que te sostiene, y las Escrituras jamás lo miden contra el tamaño de Dios. Lo miden contra el permiso de Dios.
 
 Eso todavía deja una pregunta. Si la correa significa que Satanás nunca fue el peligro real, ¿cuál lo es? Jesús se lo dijo directamente a Sus propios seguidores, y no lo suavizó.
 
-> «Y no teman a los que matan el cuerpo, pero no pueden matar el alma; más bien teman a Aquel que puede destruir tanto el alma como el cuerpo en el infierno».
+> No teman a los que matan el cuerpo, pero no pueden matar el alma; más bien teman a Aquel que puede hacer perecer tanto el alma como el cuerpo en el infierno.
 >
 > Mateo 10:28 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El diablo, en su mejor día, solo alcanza el cuerpo, y solo hasta donde se lo permite su correa. Nunca fue candidato a lo que describe ese versículo. El que puede destruir alma y cuerpo siempre fue Dios, no Satanás. Pero es el mismo Dios que promete que nada te arrebata de Su mano. Es el único con el poder de acabarte por completo, y gastó a Su propio Hijo en una cruz para asegurarse de que nunca lo haría. Eso es lo que sucede cuando el temor apunta en la dirección correcta. No desaparece. Descansa en la única mano lo bastante fuerte para sostenerlo.
 

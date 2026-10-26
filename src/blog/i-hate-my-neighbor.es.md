@@ -53,9 +53,7 @@ Esta es la condición que hace que un seguidor de Jesús mire a su prójimo y di
 
 Hay un nombre más antiguo para lo que el razonamiento motivado le hace al mandato de amar a tu prójimo. Es el truco más viejo del libro. La mentira que se usa una y otra vez para quebrar nuestra relación con Dios.
 
-En el huerto, la serpiente no le dijo a Eva que desobedeciera a Dios. Hizo una pregunta: «¿Conque Dios ha dicho…?» (Génesis 3:1). No negó el mandato. Lo estrechó. Introdujo la duda sobre su alcance, su sensatez, su aplicación a esta situación específica. Si lograba que Eva se preguntara si Dios realmente quiso decir lo que dijo, el resto vendría por sí solo.
-
-<!-- VERIFY-NBLA -->
+En el huerto, la serpiente no le dijo a Eva que desobedeciera a Dios. Hizo una pregunta: «¿Conque Dios les ha dicho…?» (Génesis 3:1). No negó el mandato. Lo estrechó. Introdujo la duda sobre su alcance, su sensatez, su aplicación a esta situación específica. Si lograba que Eva se preguntara si Dios realmente quiso decir lo que dijo, el resto vendría por sí solo.
 
 El experto en la ley que se acercó a Jesús con su pregunta hacía lo mismo con ropaje religioso. Ya conocía el mandato: amar a tu prójimo como a ti mismo (Levítico 19:18). No lo discutió. Cuestionó su alcance. «¿Y quién es mi prójimo?» significa: seguramente Dios no se refirió a todos. Seguramente hay límites. Seguramente las personas que me parecen más objetables están fuera del círculo.
 
@@ -66,8 +64,6 @@ El mandato no se estrecha. Nunca lo hizo. Y el intento de estrecharlo tiene el m
 ### La pregunta del experto en la ley
 
 Un experto en la ley se acercó a Jesús con una pregunta: «Maestro, ¿qué haré para heredar la vida eterna?» (Lucas 10:25). Jesús se la devolvió. El experto respondió correctamente: amar a Dios con todo lo que tienes, y amar a tu prójimo como a ti mismo (Lucas 10:27; Deuteronomio 6:5; Levítico 19:18). Jesús le dijo que tenía razón.
-
-<!-- VERIFY-NBLA -->
 
 Pero el experto no quedó satisfecho. Tenía otra pregunta.
 
@@ -103,8 +99,6 @@ El experto preguntó quién era su prójimo. Jesús respondió con una pregunta 
 
 Jesús le dijo que fuera y hiciera lo mismo.
 
-<!-- VERIFY-NBLA -->
-
 El mandato no es meramente tolerar a la persona que te resulta políticamente repugnante. Es reconocer que esa persona es capaz de un amor del que quizá necesites aprender. El votante enemigo no es solo alguien a quien estás obligado a soportar. Puede ser quien te muestra cómo es realmente un prójimo.
 
 Esa es una verdad más dura de lo que puede absorber la mayor parte del tribalismo político.
@@ -131,15 +125,13 @@ La cultura dice que el odio siempre es malo y el amor siempre es bueno. La Escri
 
 Amor y odio no son opuestos: son complementos. Lo que amas determina lo que aborreces. Si amas la verdad, aborreces las mentiras. Si amas a los niños, aborreces lo que los destruye. Un amor que no puede aborrecer nada no es amor. Es indiferencia con ropa educada. La Biblia es directa en esto:
 
-> «Aborrezcan el mal y amen el bien».
+> Aborrezcan el mal, amen el bien.
 >
 > Amós 5:15 (NBLA)
 
-> «Ustedes que aman al SEÑOR, aborrezcan el mal».
+> Los que aman al SEÑOR, aborrezcan el mal.
 >
 > Salmo 97:10 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Aborrecer el mal no es un fracaso del amor. Es una expresión de él. Los dos son inseparables.
 
@@ -158,11 +150,9 @@ Hay un mandamiento en Éxodo 20 que la mayoría de la gente cree entender. Es el
 Esa palabra es *prójimo*.
 
 
-> «No codiciarás la casa de tu prójimo; no codiciarás la mujer de tu prójimo, ni su siervo, ni su sierva, ni su buey, ni su asno, ni cosa alguna de tu prójimo».
+> No codiciarás la casa de tu prójimo. No codiciarás la mujer de tu prójimo, ni su siervo, ni su sierva, ni su buey, ni su asno, ni nada que sea de tu prójimo.
 >
 > Éxodo 20:17 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Tres veces, y luego la lista. Casa. Mujer. Siervos. Animales. Cualquier cosa que le pertenezca. El mandamiento no se ocupa de extraños en lugares lejanos. Se ocupa de la persona de al lado: aquella cuya vida puedes ver, cuyo éxito puedes medir, cuyas bendiciones puedes comparar con las tuyas.
 
@@ -176,19 +166,15 @@ El mandamiento fue escrito para exactamente esa lista.
 
 La envidia no se anuncia como envidia. Llega vestida de preocupación, de principio, de indignación justa. Dice: no tengo celos, simplemente soy consciente de que las cosas son injustas. No estoy codiciando, solo noto que él no merece lo que tiene. Pero debajo del lenguaje, el diagnóstico es el mismo que dio Santiago:
 
-> «¿De dónde vienen las guerras y los conflictos entre ustedes? ¿No vienen de las pasiones que combaten en sus miembros? Ustedes codician y no tienen, por eso matan. Son envidiosos y no pueden obtener, por eso combaten y hacen guerra».
+> ¿De dónde vienen las guerras y los conflictos entre ustedes? ¿No vienen de las pasiones que combaten en sus miembros? Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pueden obtener, por eso combaten y hacen guerra. No tienen, porque no piden.
 >
 > Santiago 4:1-2 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 El odio político y la envidia personal son el mismo pecado operando a escalas distintas. No puedes amar lo que envidias. La envidia convierte al prójimo de persona en medida de tu propia insuficiencia, y una vez que se vuelve eso, es muy difícil de amar.
 
-> «El corazón apacible es vida para el cuerpo, pero la envidia es podredumbre de los huesos».
+> Un corazón apacible es vida para el cuerpo, pero las pasiones son podredumbre de los huesos.
 >
 > Proverbios 14:30 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 ### La fuente de poder
 
@@ -210,11 +196,9 @@ El modelo para amar al prójimo imposible de amar no es un logro moral. Es una r
 
 La Escritura tiene una cosa más que decir antes de que termine esta conversación, y cae más cerca de casa que cualquier otra cosa en este artículo.
 
-> «¿Por qué miras la paja que está en el ojo de tu hermano, y no adviertes la viga que está en tu propio ojo?»
+> ¿Por qué miras la mota que está en el ojo de tu hermano, y no te das cuenta de la viga que está en tu propio ojo?
 >
 > Mateo 7:3 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Antes de pasar demasiado tiempo catalogando los fallos de tu prójimo políticamente objetable, vale la pena preguntarse: ¿en qué sentidos eres *tú* el prójimo imposible de amar para otra persona?
 

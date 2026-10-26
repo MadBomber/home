@@ -27,31 +27,25 @@ Hay una escena donde nada de eso ocurre. Cuarenta días de ayuno, solo, en pleno
 
 ## Enviado, no emboscado
 
-Empieza por un detalle que se pasa por alto con demasiada rapidez: este no fue un ataque sorpresa. «Y enseguida el Espíritu lo impulsó a ir al desierto» (Marcos 1:12). El verbo griego, *ekbállei*, es fuerte a propósito, un empujón y no una sugerencia, y viene del Espíritu, no de Satanás. Alguien más escogió el momento, el lugar y los términos, y Jesús entró en los tres puntualmente, ya en ayuno, ya solo, antes de que se pronuncie siquiera la primera tentación.
+Empieza por un detalle que se pasa por alto con demasiada rapidez: este no fue un ataque sorpresa. «Enseguida el Espíritu lo impulsó a ir al desierto» (Marcos 1:12). El verbo griego, *ekbállei*, es fuerte a propósito, un empujón y no una sugerencia, y viene del Espíritu, no de Satanás. Alguien más escogió el momento, el lugar y los términos, y Jesús entró en los tres puntualmente, ya en ayuno, ya solo, antes de que se pronuncie siquiera la primera tentación.
 
 <!-- TRANSLATOR NOTE: The ESV reads "drove him out", which carries the force the author relies on. The NBLA's "lo impulsó" is milder, so the Greek verb ekbállei (the same verb used for casting out demons) is named to keep the "shove" argument honest. -->
 
-Marcos añade un detalle más, y cambia el cuadro: «estaba con las fieras, y los ángeles le servían» (Marcos 1:13). Peligro y provisión, ambos presentes en la misma oración, ninguno anulando al otro. Cuarenta días sin comer (Mateo 4:2, Lucas 4:2) es un estado físico que haría deshilacharse el juicio de cualquiera por los bordes, y es precisamente ese deshilache lo que la primera tentación está construida para explotar. Es una pelea librada a propósito, preparada de antemano, no sobrevivida por accidente. Esa distinción importa más de lo que parece: no puedes prepararte para una pelea que no sabes que viene, y Jesús sabía exactamente qué clase de pelea sería antes de que empezara.
-
-<!-- VERIFY-NBLA -->
+Marcos añade un detalle más, y cambia el cuadro: «estaba entre las fieras, y los ángeles le servían» (Marcos 1:13). Peligro y provisión, ambos presentes en la misma oración, ninguno anulando al otro. Cuarenta días sin comer (Mateo 4:2, Lucas 4:2) es un estado físico que haría deshilacharse el juicio de cualquiera por los bordes, y es precisamente ese deshilache lo que la primera tentación está construida para explotar. Es una pelea librada a propósito, preparada de antemano, no sobrevivida por accidente. Esa distinción importa más de lo que parece: no puedes prepararte para una pelea que no sabes que viene, y Jesús sabía exactamente qué clase de pelea sería antes de que empezara.
 
 ## El hambre era real
 
 La primera jugada va directo al punto débil más obvio de la sala.
 
-> «Y acercándose el tentador, le dijo: “Si eres Hijo de Dios, di que estas piedras se conviertan en pan”».
+> Y acercándose el tentador, le dijo: «Si eres Hijo de Dios, ordena que estas piedras se conviertan en pan».
 >
 > Mateo 4:3 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 No es un deseo trivial. Una necesidad física real, a cuarenta días de profundidad, dirigida a un cuerpo físico real. Jesús responde de inmediato, y la elección del texto hace tanto trabajo como las palabras mismas:
 
-> «Y Él te humilló, y te dejó tener hambre, y te alimentó con el maná que ni tú ni tus padres habían conocido, para hacerte entender que el hombre no solo vive de pan, sino que vive de todo lo que procede de la boca del Señor».
+> Él te humilló, y te dejó tener hambre, y te alimentó con el maná que tú no conocías, ni tus padres habían conocido, para hacerte entender que el hombre no solo vive de pan, sino que vive de todo lo que procede de la boca del SEÑOR.
 >
 > Deuteronomio 8:3 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Ese versículo no es un lugar común sobre confiar en Dios, sacado del bolsillo bajo presión. Es la propia explicación de Moisés de por qué una generación anterior fue hecha pasar hambre en un desierto suyo, siglos antes de este, en el mismo libro del cual Jesús está por citar otras dos veces. Jesús no improvisa una respuesta de sonido espiritual a un problema físico. Echa mano del texto específico que ya explica la categoría exacta de prueba en la que se encuentra, y lo hace al instante, sin búsqueda visible.
 
@@ -61,19 +55,15 @@ Fíjate en lo que la tentación realmente apunta. No es simplemente «¿tienes h
 
 El segundo asalto cambia de táctica. Esta vez el ataque cita la Escritura de vuelta:
 
-> «porque escrito está: “A Sus ángeles te encargará que te guarden”, y: “En sus manos te llevarán, para que no tropiece tu pie en piedra”».
+> pues escrito está: «A SUS ÁNGELES TE ENCOMENDARÁ PARA QUE TE GUARDEN», y: «EN LAS MANOS TE LLEVARÁN, PARA QUE TU PIE NO TROPIECE EN PIEDRA».
 >
 > Lucas 4:10-11 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Palabras reales, Salmos 91:11, citadas con exactitud hasta donde llegan. Lo que se omite es la cláusula que precede en el salmo, la parte que hace condicional la promesa: protección para quien anda «en todos tus caminos» (Salmos 91:11), es decir, caminos de obediencia, no protección para cualquiera que esté dispuesto a saltar. Cómo un ser puede tener palabras verdaderas en la boca y aun así mentir con ellas es todo el oficio del falsificador, material auténtico gastado con deshonestidad; lo que importa aquí es práctico: una cita con una pieza faltante sigue sonando completa para quien no conoce de antemano la pieza que se perdió. Jesús responde desde la misma fuente en la que ha estado parado desde el primer asalto:
 
-> «Y respondiendo Jesús, le dijo: “Se ha dicho: ‘No tentarás al Señor tu Dios’”».
+> Jesús le respondió: «Se ha dicho: «NO TENTARÁS AL SEÑOR TU DIOS»».
 >
 > Lucas 4:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Fíjate también en lo que cambió en la forma del ataque. El primer asalto apuntó al cuerpo. El segundo apunta a la certeza misma, desafiando a Jesús a exigir prueba de su propia identidad forzando la mano de Dios. Salta, y deja que los ángeles te atrapen, y zanja la pregunta que todos siguen haciendo con un espectáculo que nadie podría discutir. Segunda lección: la respuesta correcta a un argumento con forma de Escritura no es un tono más firme ni un sentimiento más fuerte. Es el contexto real que la primera cita dejó fuera. Combatir una cita truncada exige conocer el pasaje lo bastante bien, de antemano, como para notar exactamente qué le falta, que es una destreza distinta de simplemente sentir que algo anda mal.
 
@@ -81,11 +71,9 @@ Fíjate también en lo que cambió en la forma del ataque. El primer asalto apun
 
 La tercera jugada abandona por completo la sutileza y va por una transacción directa: todos los reinos, de golpe, a cambio de un solo acto de adoración dirigido en la dirección equivocada. Es la tentación que más cuesta y menos ingenio original pide, sin versículo mal citado que desenredar, sin marco ingenioso que ver a través, solo una oferta tendida sobre la mesa. Jesús responde con una negativa llana para igualar la oferta llana:
 
-> «Al Señor tu Dios temerás; a Él solo servirás, y por Su nombre jurarás».
+> Temerás solo al SEÑOR tu Dios; y a Él adorarás y jurarás por Su nombre.
 >
 > Deuteronomio 6:13 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Tercera lección: no toda tentación es sutil, y las que no lo son no requieren una contraoferta ingeniosa. Una transacción llana recibe una negativa llana. En un momento así hay la tentación de sentir que un simple no es una respuesta insuficiente ante una oferta tan enorme, como si el tamaño de lo que hay sobre la mesa obligara a una respuesta proporcionalmente elaborada. No es así. El tamaño de la oferta no cambia nada de lo que es la respuesta correcta.
 
@@ -97,17 +85,13 @@ Eso no es una coincidencia disponible solo para Jesús. Describe una clase espec
 
 Un detalle debe nombrarse antes de que se vuelva distracción: Mateo y Lucas no cuentan los tres asaltos en el mismo orden. Mateo va con pan, pináculo, reinos; Lucas va con pan, reinos, pináculo. Ninguno de los dos Evangelios es descuidado en esto. La explicación más comúnmente ofrecida es que cada escritor ordena el clímax según la forma de su propio libro: Mateo construye hacia la autoridad del templo en un Evangelio escrito con el marco de referencia de un público judío a la vista, y Lucas construye hacia Jerusalén en un Evangelio que abre en el templo y también cierra allí. El orden no es el punto. En lo que ambos escritores coinciden, sin variación, es en qué textos toma Jesús y con qué rapidez.
 
-Otro detalle merece un solo párrafo sincero y no una digresión completa. Cómo exactamente Satanás trasladó a Jesús al pináculo del templo y a un monte muy alto no es algo que el texto detalle; los verbos que Mateo y Lucas usan para el movimiento son ordinarios, no el lenguaje que la Escritura usa en otros lugares para señalar una visión. Lo que importa para la pelea misma es más sencillo: cualquiera que fuera el mecanismo, Jesús fue de manera voluntaria, lo cual encaja exactamente con lo que dice Hebreos sobre todo el encuentro, que fue «tentado en todo como nosotros, pero sin pecar» (Hebreos 4:15). Nada de la escena muestra una voluntad siendo sobrepasada, ni siquiera en sus detalles mecánicos más extraños.
-
-<!-- VERIFY-NBLA -->
+Otro detalle merece un solo párrafo sincero y no una digresión completa. Cómo exactamente Satanás trasladó a Jesús al pináculo del templo y a un monte muy alto no es algo que el texto detalle; los verbos que Mateo y Lucas usan para el movimiento son ordinarios, no el lenguaje que la Escritura usa en otros lugares para señalar una visión. Lo que importa para la pelea misma es más sencillo: cualquiera que fuera el mecanismo, Jesús fue de manera voluntaria, lo cual encaja exactamente con lo que dice Hebreos sobre todo el encuentro, que fue «tentado en todo como nosotros, pero sin pecado» (Hebreos 4:15). Nada de la escena muestra una voluntad siendo sobrepasada, ni siquiera en sus detalles mecánicos más extraños.
 
 ## Fin del asalto
 
-> «Cuando el diablo hubo acabado toda tentación, se alejó de Él hasta un tiempo oportuno».
+> Cuando el diablo hubo acabado toda tentación, se alejó de Él esperando un tiempo oportuno.
 >
 > Lucas 4:13 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Un compás, no un argumento nuevo: la pelea termina, por ahora. No ganó toda la guerra parado en aquel desierto. Ganó el asalto que tenía enfrente, de manera decisiva, apoyado en un texto que ya había hecho suyo mucho antes de que el Espíritu lo empujara hasta allá, y el método que lo ganó, no solo el resultado, es lo que hay que llevarse de la escena.
 

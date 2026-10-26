@@ -27,21 +27,17 @@ tags:
 
 La fecha errante de la Pascua de Resurrección comienza no con los debates sobre el calendario en la iglesia primitiva, sino con la creación misma. En el cuarto día, Dios asignó a las lumbreras de los cielos un propósito específico:
 
-> Entonces dijo Dios: «Haya lumbreras en la expansión de los cielos para separar el día de la noche, y sirvan de señales para las estaciones, para los días y los años; y sean por lumbreras en la expansión de los cielos para alumbrar sobre la tierra». Y fue así. E hizo Dios las dos grandes lumbreras: la lumbrera mayor para dominio del día, y la lumbrera menor para dominio de la noche; hizo también las estrellas.
+> Entonces dijo Dios: «Haya lumbreras en la expansión de los cielos para separar el día de la noche, y sean para señales y para estaciones y para días y para años; y sean por luminarias en la expansión de los cielos para alumbrar sobre la tierra». Y así fue. Dios hizo las dos grandes lumbreras, la lumbrera mayor para dominio del día y la lumbrera menor para dominio de la noche. Hizo también las estrellas.
 >
 > Génesis 1:14-16 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La palabra hebrea traducida *estaciones* en ese pasaje es *moadim*: la misma palabra que se usa a lo largo de Levítico para las fiestas señaladas por Dios a Israel. La luna no era simplemente una lámpara; era un calendario, diseñado desde la primera semana de la creación para gobernar los ritmos sagrados de la adoración.
 
 Cuando Dios mandó después a Israel que celebrara la Pascua judía el día catorce del primer mes, estaba edificando directamente sobre ese fundamento:
 
-> En el mes primero, el día catorce del mes, por la tarde, comerán pan sin levadura hasta el veintiuno del mes, por la tarde.
+> En el mes primero comerán los panes sin levadura, desde el día catorce del mes por la tarde, hasta el día veintiuno del mes por la tarde.
 >
 > Éxodo 12:18 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Pero un año lunar de doce meses queda unos once días corto respecto de un año solar. Sin corrección, las fiestas se irían corriendo hacia atrás por las estaciones, hasta caer en pleno invierno. Para evitarlo, las comunidades judías insertaban periódicamente un mes adicional, pero el momento de esa intercalación no se regía por una fórmula fija. Lo determinaban los rabinos locales, que observaban la luna y la maduración de la cosecha de cebada, y luego proclamaban a sus comunidades cuándo había llegado el nuevo mes (y, por lo tanto, la Pascua judía). Comunidades distintas en regiones distintas, apoyándose en observadores distintos, podían celebrar, y celebraban, la misma fiesta en días diferentes.
 
@@ -117,13 +113,11 @@ A lo largo de gran parte del Nuevo Testamento, Jesús se presenta como el cumpli
 >
 > 1 Corintios 5:7 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 La narración de la Pascua judía (la sangre en los postes de las puertas, la muerte de los primogénitos que pasaba de largo ante los fieles, la salida apresurada de Egipto, el movimiento de la esclavitud hacia la libertad) no es meramente el telón de fondo de la crucifixión. Es la plantilla. Jesús muere en la Pascua judía no por coincidencia, sino por arquitectura.
 
 Sin embargo, el escritor de Hebreos, quizás más que cualquier otro autor del Nuevo Testamento, insiste en que el cumplimiento de un tipo vuelve obsoleto al tipo. El antiguo pacto, con sus sacerdotes, sus sacrificios, su tabernáculo y su calendario, ha sido superado:
 
-> Al decir: «Un nuevo pacto», Él ha declarado anticuado al primero; y lo que se hace anticuado y envejece está próximo a desaparecer.
+> Cuando Dios dijo: «Un nuevo pacto», hizo anticuado al primero; y lo que se hace anticuado y envejece, está próximo a desaparecer.
 >
 > Hebreos 8:13 (NBLA)
 

@@ -31,17 +31,13 @@ Ese último suele ser donde empieza el problema.
 >
 > Isaías 55:8-9 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Cuando un relato te parece arbitrario o injusto, ese veredicto lo dicta un juez en particular. Tú. Tu idea de lo que es razonable, de lo que es proporcionado, de lo que un Dios justo haría y no haría. Isaías dice lo sencillo: esa idea no es la medida. La distancia entre tu razonamiento y el Suyo es la distancia entre la tierra y el cielo.
 
 Sería fácil leerlo como una puerta que se cierra. Deja de preguntar. Nunca vas a entender, así que no lo intentes. Dice lo contrario. Si Sus pensamientos son más altos que los tuyos, entonces la respuesta a lo que parece arbitrario no falta. Está allá arriba, más alto de lo que alcanzó tu primera reacción. Lo cual significa que esa reacción nunca fue la última palabra sobre el asunto. Fue la primera, ofrecida demasiado pronto.
 
-> «El que responde antes de escuchar, tiene necedad y deshonra».
+> El que responde antes de escuchar, Cosecha necedad y vergüenza.
 >
 > Proverbios 18:13 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Eso es lo que casi siempre es «esto es raro». Una respuesta dada antes de oír. Un veredicto sobre un relato que no has leído hasta el final, en un escenario que no has reconstruido, acerca de un Dios cuyas razones diste por sabidas. Proverbios no lo llama inteligente, ni escéptico, ni intelectualmente sincero. Lo llama necedad y deshonra, la postura de quien contesta una pregunta mientras la otra parte todavía está hablando.
 

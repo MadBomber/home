@@ -43,11 +43,9 @@ Mira cómo lo hacen los escritores. No hay una palabra única y oficial para la 
 
 La primera palabra que hay que examinar es «santos», porque es la que menos nos confunde, o eso creemos. Deja de lado los vitrales. Cuando Pablo escribe a una iglesia, la abre llamándolos santos, y lo hace incluso cuando la iglesia no le ha dado nada de qué emocionarse. Piensa en Corinto.
 
-> «a la iglesia de Dios que está en Corinto, a los santificados en Cristo Jesús, llamados a ser santos…»
+> a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados a ser santos…
 >
 > 1 Corintios 1:2 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Lee el resto de la carta y conocerás a esos santos. Se habían dividido en facciones. Uno de ellos se acostaba con la esposa de su padre, y la congregación estaba orgullosa de lo tolerante que eso la hacía. Se demandaban unos a otros ante paganos. Se emborrachaban en la mesa de la comunión mientras los pobres entre ellos pasaban hambre. Este es el grupo que Pablo saluda, en el segundo versículo, como santos. Sea lo que sea que signifique la palabra, no puede significar la élite espiritual, y claramente no significa a los muertos canonizados, los Santos oficiales, con mayúscula, de la Iglesia católica. Significa los creyentes de Corinto (los creyentes reales, inconclusos, vergonzosos), y significa a todos ellos.
 
 Pablo no es descuidado con la palabra. Les dice a los efesios qué abarca:
@@ -55,14 +53,11 @@ Pablo no es descuidado con la palabra. Les dice a los efesios qué abarca:
 > «a los santos que están en Éfeso y que son fieles en Cristo Jesús».
 >
 > Efesios 1:1 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Los santos son los fieles. No una promoción de graduados, no un cuadro de honor: los que pertenecen a Cristo. Y cuando Pablo quiere apilar los nombres, lo hace sin respirar entre ellos:
 
-> «Entonces, como escogidos de Dios, santos y amados, revístanse de tierna compasión…»
+> Entonces, ustedes como escogidos de Dios, santos y amados, revístanse de tierna compasión…
 >
 > Colosenses 3:12 (NBLA)
-<!-- VERIFY-NBLA -->
 <!-- TRANSLATOR NOTE: The NBLA renders "chosen ones" as "escogidos." The essay's term "the elect" is rendered «los elegidos» (the standard doctrinal term, linked to "elección"); the sentence below equates the two. -->
 
 Tres nombres en una sola línea. Escogidos de Dios, es decir, los elegidos. Santos, es decir, los santos. Amados, es decir, la familia. Los pone uno junto a otro sobre una congregación común y no espera que nadie los ordene en rangos, porque no son rangos. Son el Negro y Dorado, los Who Dats, los muchachos.
@@ -79,11 +74,9 @@ Y si alguna vez has oído esta discusión, ya conoces su forma, porque es radio 
 
 Quita todo lo demás y la pelea entera se equilibra sobre una sola palabra. Pablo la escribe una vez, en Romanos, a la cabeza de una cadena que ha sostenido a los teólogos por generaciones:
 
-> «Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo… Y a los que predestinó, a esos también llamó; y a los que llamó, a esos también justificó; y a los que justificó, a esos también glorificó».
+> Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos. A los que predestinó, a esos también llamó. A los que llamó, a esos también justificó. A los que justificó, a esos también glorificó.
 >
 > Romanos 8:29-30 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Cinco eslabones (conoció de antemano, predestinó, llamó, justificó, glorificó), y toda la cadena cuelga del primero. Todo gira en torno a lo que significa que Dios conociera de antemano. El calvinista oye escogió de antemano, puso Su amor en ellos por adelantado. El arminiano oye vio con anticipación quién diría que sí. Dos lecturas, una palabra y una guerra.
 <!-- TRANSLATOR NOTE: The English argument turns on the prefix "fore-" in "foreknew" and "foreknowledge." Spanish "conoció de antemano" and "conocimiento previo" carry the same prefix-like force ("de antemano," "previo"), so the argument transfers; below, "the fore" becomes «el "de antemano"» and «el "previo"». -->
 
@@ -91,18 +84,14 @@ Cinco eslabones (conoció de antemano, predestinó, llamó, justificó, glorific
 
 La pregunta sobre la que los oyentes pasan por encima: ¿cómo entras de verdad al equipo? No cómo se fijó la plantilla en la eternidad, sino cómo una persona, hoy, entra. El Nuevo Testamento responde con claridad, y la respuesta es corta.
 
-> «que si confiesas con tu boca a Jesús como Señor, y crees en tu corazón que Dios Lo resucitó de entre los muertos, serás salvo; porque con el corazón se cree, resultando justicia, y con la boca se confiesa, resultando salvación».
+> que si confiesas con tu boca a Jesús por Señor, y crees en tu corazón que Dios lo resucitó de entre los muertos, serás salvo. Porque con el corazón se cree para justicia, y con la boca se confiesa para salvación.
 >
 > Romanos 10:9-10 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Ese es todo el requisito. Créelo, dilo, que lo sientas de verdad. Pablo no añade periodo de espera, ni linaje, ni selección. Y unas líneas después abre la puerta tanto como da:
 
 > «porque: “Todo aquel que invoque el nombre del Señor, será salvo”».
 >
 > Romanos 10:13 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Todo aquel. No los rápidos, no los talentosos, no los que habrían brillado en una prueba. Aquí no hay prueba: ni cronómetro, ni cinta métrica, ni un entrenador que mida tu velocidad o te evalúe para decidir si eres lo bastante bueno. El carcelero de Filipos preguntó qué debía hacer, se le dijo simplemente que creyera, y estaba dentro antes del amanecer (Hechos 16:30-33). El requisito nunca se estrecha. Es una confesión, y una confesión es algo que cualquiera con boca y corazón puede hacer.
 
 Aquí es exactamente donde la imagen del fútbol se rompe, y la ruptura es el punto. Un equipo de verdad es cerrado. Los entrenadores escogen quién es lo bastante bueno, y la mayoría de los que quieren un lugar son cortados antes de ponerse la camiseta. Si Dios administrara Su equipo así, el calvinista tendría razón: una lista sellada, una puerta cerrada, el resto enviado a casa. Pero Él no lo administra así. No hace pruebas y no rechaza a nadie por ser lento. La única calificación es la confesión, y está abierta sobre la mesa para cualquiera que quiera tomarla.
@@ -114,7 +103,7 @@ Así que la pregunta práctica resulta tener una respuesta sencilla, y la sencil
 ## Fuera del reloj
 <!-- TRANSLATOR NOTE: The English heading is "Outside the Box," an idiom for thinking beyond the obvious; here it also introduces the argument that God stands outside the "clock" of time. Spanish «Fuera del reloj» keeps the sense of stepping outside the frame the argument assumed, using the essay's own clock image. -->
 
-Mira de nuevo lo que todos leen. La palabra es «conoció de antemano», y toda la pelea vive en «de antemano»: antes, por adelantado. Ambos campos oyen una secuencia en ella. Calvino: primero Dios escogió, luego vino la fe. Arminio: primero Dios vio la fe, luego escogió. No se ponen de acuerdo en el orden de los hechos. Ninguno cuestiona que hubo un orden, un antes y un después, un primero y un luego, con Dios moviéndose por ellos como nosotros nos movemos por un martes.
+Mira de nuevo lo que todos leen. La palabra es «de antemano conoció», y toda la pelea vive en «de antemano»: antes, por adelantado. Ambos campos oyen una secuencia en ella. Calvino: primero Dios escogió, luego vino la fe. Arminio: primero Dios vio la fe, luego escogió. No se ponen de acuerdo en el orden de los hechos. Ninguno cuestiona que hubo un orden, un antes y un después, un primero y un luego, con Dios moviéndose por ellos como nosotros nos movemos por un martes.
 
 Eso es lo que ambos pisan sin mirar hacia abajo. Antes y después no son hechos acerca de Dios. Son hechos acerca del tiempo, y el tiempo es algo que Dios hizo. En el principio, dice el libro (Génesis 1:1), y un principio es el borde delantero de un reloj. Detrás no hay un antes, porque «antes» es una lectura del mismo reloj que aún no ha empezado. Las palabras con las que corre la discusión (conoció de antemano, predestinó, antes de la fundación del mundo) son todas palabras de reloj. Son nuestras. Fuimos hechos dentro del reloj y no podemos formar una oración sin él.
 
@@ -122,18 +111,14 @@ Y no solo nuestras palabras corren por el reloj. Nosotros también. Empezamos un
 
 Así que Dios no tiene conocimiento previo. Tiene todo el conocimiento. El «previo» no describe a Dios; nos describe a nosotros, alcanzándolo con el único tiempo verbal que poseemos. Él nos dijo Su nombre, y Su nombre no es un pasado ni un futuro:
 
-> «Y Dios dijo a Moisés: “YO SOY EL QUE SOY”».
+> Y dijo Dios a Moisés: «YO SOY EL QUE SOY».
 >
 > Éxodo 3:14 (NBLA)
-<!-- VERIFY-NBLA -->
-
 No Yo fui. No Yo seré. Un presente sin muros alrededor. Y cuando Jesús tomó ese nombre para Sí, rompió la gramática para hacerlo:
 
-> «En verdad, en verdad les digo: antes que Abraham naciera, Yo soy».
+> Jesús les dijo: «En verdad les digo, que antes que Abraham naciera, Yo soy».
 >
 > Juan 8:58 (NBLA)
-<!-- VERIFY-NBLA -->
-
 No dice antes que Abraham naciera, Yo ya existía. Dice Yo soy, y la oración cede bajo el tiempo verbal a propósito. Ese es el sonido que hace una voz atemporal cuando tiene que hablar dentro de una oración temporal. Es la misma voz que llama a mil años un solo día, que se nombra a Sí misma el primero y el último, el Alfa y la Omega, y quiere decir ambas cosas a la vez.[^timeless-voice]
 <!-- TRANSLATOR NOTE: John 8:58 in the English reads "before Abraham was, I am." The NBLA has "antes que Abraham naciera" (literally "was born"), so the contrast the essay draws ("I was" vs. "I am") is adapted to «Yo ya existía» vs. «Yo soy». The point (a present tense where a past is expected) is unchanged. -->
 
@@ -149,20 +134,16 @@ Lo cual significa que los versículos que más se parecen a la predestinación (
 
 El versículo más pesado de todos se lee como una plantilla grabada en piedra antes de la primera mañana:
 
-> «según nos escogió en Él antes de la fundación del mundo, para que fuéramos santos y sin mancha delante de Él».
+> Porque Dios nos escogió en Cristo antes de la fundación del mundo, para que fuéramos santos y sin mancha delante de Él. En amor
 >
 > Efesios 1:4 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Ahí está a plena vista: escogidos, y escogidos antes del mundo. Pero lee las dos palabras que la discusión siempre apresura: en Él. La elección ocurre dentro de Cristo. Dios no, en la eternidad pasada, recorrió una lista de nombres marcando algunos. Resolvió, antes de que hubiera un mundo, tener un pueblo en Su Hijo, santo, adoptado y propio. Lo que escogió fue un lugar y un pueblo, no un puñado de individuos sacados de una jarra. Y entras en esa elección como entras en todo lo que está en Cristo: vienes a Cristo. La confesión es la puerta hacia lo escogido. La elección quedó establecida como proceso antes de la fundación del mundo; tu pertenencia quedó establecida la mañana en que invocaste el nombre. Ambas cosas son verdad. Son respuestas a dos preguntas distintas, hechas desde dos lados distintos del reloj.
 
 Ahora el otro, el pasaje que suena a almas asignadas al cielo y al infierno en el vientre, Jacob y Esaú, amado y aborrecido antes de que ninguno pudiera caminar:
 
-> «pues cuando los mellizos aún no habían nacido ni habían hecho nada bueno ni malo… se le dijo a ella: “El mayor servirá al menor”. Tal como está escrito: “A Jacob amé, pero a Esaú aborrecí”».
+> porque cuando aún los mellizos no habían nacido, y no habían hecho nada, ni bueno ni malo, para que el propósito de Dios conforme a Su elección permaneciera, no por las obras, sino por Aquel que llama, se le dijo a Rebeca: «EL MAYOR SERVIRÁ AL MENOR». Tal como está escrito: «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ».
 >
 > Romanos 9:11-13 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Pero mira de dónde cita Pablo. «El mayor servirá al menor» está tomado directamente del Génesis, donde la línea anterior dice: «dos naciones hay en tu seno». Y «A Jacob amé, pero a Esaú aborrecí» viene de Malaquías, escrito más de mil años después de que ambos hombres fueran polvo, y Malaquías no habla de dos bebés. Habla de sus descendientes, Israel y Edom, dos pueblos con una larga y amarga historia.[^jacob-esau] Las propias citas de Pablo hablan de naciones. También su alfarero, el de Isaías y Jeremías, que siempre daba forma a pueblos y nunca clasificaba almas individuales.[^potter] Pablo no está diagramando cómo se escoge a una persona para la gloria. Está respondiendo la pregunta que le rompe el corazón en las primeras líneas del capítulo: ¿ha fallado la promesa de Dios a Israel, ahora que los gentiles entran en masa mientras tantos de sus propios parientes se quedan fuera? Su respuesta corre durante tres capítulos, y trata por entero de qué pueblos reúne Dios en Su único pueblo, judíos y gentiles juntos. No termina en un tribunal sellado sino en un olivo injertado, con la puerta todavía abierta y Pablo de rodillas para que su nación entre.[^olive-tree]
 
 Así que los versículos más duros nunca necesitaron suavizarse. Léelos desde el lado de Dios del reloj, y sobre el pueblo que Él formaba desde siempre, y dicen exactamente lo que siempre dijeron, sin nada de sobra que asuste a nadie. Los elegidos son los creyentes. Escogidos en Cristo desde la eternidad, y reunidos en el tiempo, una confesión a la vez.
@@ -172,8 +153,6 @@ Queda un versículo, y es el que a nadie le hizo falta enseñarle. Si has seguid
 > «Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, sino que tenga vida eterna».
 >
 > Juan 3:16 (NBLA)
-<!-- VERIFY-NBLA -->
-
 El mundo. No un remanente sacado del mundo, no un número extraído de él con el resto pasado por alto. El mundo. Ese es el alcance del amor, y la elección alcanza exactamente tan lejos, porque son un solo acto: Dios entregó a Su Hijo por todo él. Luego, en el siguiente aliento, la única condición: todo aquel que cree. El amor se derrama sobre todos; la vida la tienen los que levantan la mano y la toman. Tanto amó Dios al mundo, y abrió la puerta de par en par a cada alma en él. El equipo es todo el que cruzó.
 
 Lo cual nos devuelve al estadio, y a la canción.
@@ -186,11 +165,9 @@ Salió de la iglesia negra y de las marchas fúnebres de Nueva Orleans, cantada 
 
 A Juan se le mostró el mismo número que alcanza la canción. Así se veía:
 
-> «Después de esto miré, y vi una gran multitud, que nadie podía contar, de toda nación y de todas las tribus, pueblos y lenguas, que estaba de pie delante del trono y delante del Cordero».
+> Después de esto miré, y vi una gran multitud, que nadie podía contar, de todas las naciones, tribus, pueblos, y lenguas, de pie delante del trono y delante del Cordero, vestidos con vestiduras blancas y con palmas en las manos.
 >
 > Apocalipsis 7:9 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Un número que nadie podía contar. Eso es «ese número». No una lista corta guardada en una oficina del fondo, no una plantilla sellada antes del mundo con la mayoría de nosotros fuera: una multitud de toda nación que nadie podría contar aunque lo intentara. No tienes que preguntarte si hay lugar. El número que Juan vio es del tamaño de la puerta abierta.
 
 Así que los elegidos nunca fueron esa cosa fría que cinco siglos hicieron de ellos. Son los santos y los creyentes y los hermanos, el Camino, la iglesia: el equipo, con un nombre más. Desde tu lado del reloj es una decisión: cree, confiesa, llama. Desde el lado de Él es un pueblo que siempre ha conocido, visto entero, amado por nombre. Y la puerta sigue abierta, como lo estaba en Romanos, como lo está en la canción. Hay un número. Puedes estar en él. Todo lo que tienes que hacer es llamar.
@@ -212,8 +189,6 @@ Así que los elegidos nunca fueron esa cosa fría que cinco siglos hicieron de e
 [^timeless-voice]: 2 Pedro 3:8 (mil años como un solo día; cf. Salmos 90:4); Apocalipsis 22:13 (el primero y el último, el Alfa y la Omega; cf. Apocalipsis 1:8).
 
 [^jacob-esau]: Génesis 25:23 («dos naciones hay en tu seno» y «el mayor servirá al menor»); Malaquías 1:2-3 («A Jacob amé, pero a Esaú aborrecí», dicho de los pueblos de Israel y Edom).
-<!-- VERIFY-NBLA -->
-
 [^potter]: Isaías 45:9; 64:8; Jeremías 18:1-6 (Dios como el alfarero, que da forma a pueblos en lugar de clasificar almas individuales).
 
 [^olive-tree]: Romanos 11:17-24 (el olivo injertado); Romanos 10:1 (la oración de Pablo por la salvación de Israel).

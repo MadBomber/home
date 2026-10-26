@@ -49,8 +49,6 @@ El apóstol Pablo (él mismo un hombre formado en la tradición rabínica que co
 >
 > 2 Timoteo 3:16-17 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 La palabra griega que usa Pablo es *theopneustos*: soplada por Dios. No simplemente «inspirada» como podríamos llamar inspirado a un poema, sino exhalada, como si las palabras mismas llevaran dentro el aliento de Dios. Esa es la afirmación. Lo que sigue es la evidencia.
 
 ---
@@ -106,11 +104,9 @@ Dios no ha sido descuidado con Su Palabra. La evidencia lo dice.
 
 Jesús mismo abordó la cuestión de la confiabilidad del texto, y no se anduvo con rodeos.
 
-> «Porque en verdad les digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley hasta que todo se cumpla».
+> Porque en verdad les digo que hasta que pasen el cielo y la tierra, no se perderá ni la letra más pequeña ni una tilde de la ley hasta que toda se cumpla.
 >
 > Mateo 5:18 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La Reina-Valera y otras versiones tradicionales conservan una frase que ha pasado al idioma: *ni una jota ni una tilde*. La **jota** es la forma española de *iota*, la letra más pequeña del alfabeto griego y equivalente de la *yod* hebrea, la letra más pequeña de su alfabeto, una marca que se parece a un apóstrofo curvo. La **tilde** se refiere al diminuto trazo decorativo que distingue una letra hebrea de otra: la diferencia, por ejemplo, entre dos letras casi idénticas salvo por una sola esquina del trazo. Jesús estaba apostando Su credibilidad a la precisión del texto hasta su rasgo visible más pequeño. No el sentido general. No la narrativa de conjunto. La letra individual. El trazo que distingue.
 
@@ -121,8 +117,6 @@ El profeta Jeremías registró que Dios hizo la misma afirmación siglos antes:
 > «Yo velo sobre Mi palabra para cumplirla».
 >
 > Jeremías 1:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Estas no son las palabras de un Dios que ha dejado Su Palabra a merced del descuido humano. Son las palabras de un Dios que declaró Su intención de preservarla, y la evidencia de los manuscritos sugiere que ha hecho exactamente eso.
 
@@ -208,15 +202,13 @@ Todo lo anterior (la evidencia de los manuscritos, la tradición de los escribas
 
 Juan abre su Evangelio con una declaración distinta a cualquier cosa en la literatura antigua:
 
-> «En el principio existía el Verbo, y el Verbo estaba con Dios, y el Verbo era Dios. Él estaba en el principio con Dios. Todas las cosas fueron hechas por medio de Él, y sin Él nada de lo que ha sido hecho, fue hecho».
+> En el principio ya existía el Verbo, y el Verbo estaba con Dios, y el Verbo era Dios. Él estaba en el principio con Dios. Todas las cosas fueron hechas por medio de Él, y sin Él nada de lo que ha sido hecho, fue hecho.
 >
 > Juan 1:1-3 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Y luego, catorce versículos más adelante, la oración más comprimida y asombrosa del Nuevo Testamento:
 
-> «Y el Verbo se hizo carne y habitó entre nosotros, y vimos Su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad».
+> El Verbo se hizo carne, y habitó entre nosotros, y vimos Su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad.
 >
 > Juan 1:14 (NBLA)
 
@@ -230,11 +222,9 @@ Jesús enseñó en persona. Durante tres años, los discípulos tuvieron al Verb
 
 Antes de irse, hizo una promesa:
 
-> «Pero el Ayudador, el Espíritu Santo, a quien el Padre enviará en Mi nombre, Él les enseñará todas las cosas, y les recordará todo lo que Yo les he dicho».
+> Pero el Consolador, el Espíritu Santo, a quien el Padre enviará en Mi nombre, Él les enseñará todas las cosas, y les recordará todo lo que les he dicho.
 >
 > Juan 14:26 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Y otra vez:
 
@@ -242,15 +232,11 @@ Y otra vez:
 >
 > Juan 16:13 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 El Ayudador que Jesús prometió no es un sustituto del Maestro. *Es* el Maestro: el mismo Espíritu que movió a los autores originales a escribir, ahora disponible para todo lector que abre el libro y pregunta. Pablo extrae la implicación con la fuerza de una doctrina:
 
-> «Ahora bien, nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que es de Dios, para que sepamos lo que Dios nos ha dado gratuitamente, de lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las enseñadas por el Espíritu, explicando lo espiritual a los espirituales. Pero el hombre natural no recibe las cosas del Espíritu de Dios, pues para él son necedad, y no las puede entender, porque se disciernen espiritualmente».
+> Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios, para que conozcamos lo que Dios nos ha dado gratuitamente, de lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las enseñadas por el Espíritu, combinando pensamientos espirituales con palabras espirituales. Pero el hombre natural no acepta las cosas del Espíritu de Dios, porque para él son necedad; y no las puede entender, porque son cosas que se disciernen espiritualmente.
 >
 > 1 Corintios 2:12-14 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Este no es un pasaje cómodo para una generación que cree que la traducción correcta y las notas de estudio correctas son todo lo que se necesita. Pablo está diciendo que la Biblia no es, en última instancia, accesible como lo son otros libros: solo por el esfuerzo intelectual y una educación suficiente. Es accesible por el Espíritu de Dios, que es el único que conoce la mente de Dios y el único que puede abrir el entendimiento humano para recibir lo que contienen las Escrituras.
 
@@ -278,8 +264,6 @@ Dios declaró Su intención por medio del profeta Jeremías siglos antes de que 
 >
 > Jeremías 1:12 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 El libro que sobrevivió al fuego, la persecución, el exilio, la supresión imperial y el paso de tres milenios está disponible para ti hoy: en más traducciones, en más idiomas, más accesible que en cualquier otro momento de la historia humana. Eso no es un accidente. Es el cumplimiento de una promesa hecha por un Dios que considera que Su Palabra vale la pena velarla.
 
 La pregunta no es qué Biblia. Cualquier traducción fiel sirve. La pregunta es si tomarás una, la abrirás y le pedirás al Autor que se encuentre contigo ahí.
@@ -289,8 +273,6 @@ La pregunta no es qué Biblia. Cualquier traducción fiel sirve. La pregunta es 
 > «Yo estoy a la puerta y llamo; si alguien oye Mi voz y abre la puerta, entraré a él y cenaré con él, y él conmigo».
 >
 > Apocalipsis 3:20 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 ---
 

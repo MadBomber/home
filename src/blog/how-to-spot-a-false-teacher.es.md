@@ -46,11 +46,9 @@ Deuteronomio describe una versión de este mismo sistema a nivel del alma, tres 
 
 El primer factor es la exactitud.
 
-> «Y si dices en tu corazón: “¿Cómo conoceremos la palabra que el Señor no ha hablado?”, cuando un profeta hable en el nombre del Señor, si la palabra no se cumple ni se realiza, esa es palabra que el Señor no ha hablado. El profeta la habló con presunción; no le tendrás temor».
+> Y si dices en tu corazón: «¿Cómo conoceremos la palabra que el SEÑOR no ha hablado?». Cuando un profeta hable en el nombre del SEÑOR, si lo que fue dicho no acontece ni se cumple, esa es palabra que el SEÑOR no ha hablado; con arrogancia la ha hablado el profeta; no tendrás temor de él.
 >
 > Deuteronomio 18:21-22 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El estándar es el cien por ciento. No la mayor parte del tiempo. No un promedio impresionante. Una sola predicción fallida, hecha en nombre del Señor, descalifica por completo al profeta. No hay crédito parcial. No hay «pero acertó en tantas otras cosas». El texto no dice que pesemos su historial y decidamos si los aciertos superan a los fallos. Dice que un solo fallo resuelve el asunto, y la línea final quita la última vacilación: no le tendrás temor. La descalificación es total. El miedo que su seguridad producía queda cancelado.
 
@@ -58,11 +56,9 @@ Aplícalo. Joseph Smith profetizó, en el nombre del Señor, que un templo y la 
 
 El segundo factor es la dirección. Y aquí es donde el sistema revela su verdadera inteligencia, porque el segundo factor sigue aplicándose incluso cuando el primero se cumple.
 
-> «Si se levanta en medio de ti un profeta o soñador de sueños, y te anuncia una señal o un prodigio, y se cumple la señal o el prodigio que él te habló, y dice: “Vayamos en pos de otros dioses (a los que no has conocido) y sirvámosles”, no darás oído a las palabras de ese profeta ni a ese soñador de sueños; porque el Señor tu Dios los está probando».
+> Si se levanta en medio de ti un profeta o soñador de sueños, y te anuncia una señal o un prodigio, y la señal o el prodigio se cumple, acerca del cual él te había hablado, diciendo: «Vamos en pos de otros dioses (a los cuales no has conocido) y sirvámoslos», no darás oído a las palabras de ese profeta o de ese soñador de sueños; porque el SEÑOR tu Dios te está probando para ver si amas al SEÑOR tu Dios con todo tu corazón y con toda tu alma.
 >
 > Deuteronomio 13:1-3 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Léelo con cuidado. La señal se cumple, y aun así no lo sigues. El prodigio ocurre exactamente como se predijo, la predicción pasa limpiamente el Factor 1, y la instrucción no cambia: no escuches. Porque una señal verdadera no es una autorización. La señal nunca fue la credencial. La dirección es la prueba. Si el mensaje conduce hacia un dios que no has conocido (un dios distinto del que ya fue revelado en la Escritura), entonces la exactitud de la señal es irrelevante. Fue permitida como prueba de si amas al Señor lo suficiente como para rechazar incluso un prodigio confirmado que apunta en la dirección equivocada.
 
@@ -92,41 +88,33 @@ Los apóstoles no hablaron de los falsos maestros en abstracto. Dibujaron retrat
 
 El primero es el encubrimiento. La falsa enseñanza no llega anunciada.
 
-> «Pero también hubo falsos profetas entre el pueblo, como habrá también entre ustedes falsos maestros, que encubiertamente introducirán herejías destructoras».
+> Pero se levantaron falsos profetas entre el pueblo, así como habrá también falsos maestros entre ustedes, los cuales encubiertamente introducirán herejías destructoras.
 >
 > 2 Pedro 2:1 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Encubiertamente. Introducirán. El error se contrabandea, no se declara, envuelto en un lenguaje diseñado para sonar bien. Judas describe la misma entrada silenciosa (personas que «se han infiltrado») y la misma brecha entre apariencia y sustancia: nubes sin agua, árboles sin fruto, estrellas errantes, cada imagen una cosa que parece lo que no es (Judas 1:4, 12-13).
 
 El segundo rasgo es la oferta misma. Casi siempre es liberación.
 
-> «Les prometen libertad, siendo ellos mismos esclavos de la corrupción, porque por aquello que alguien es vencido, por eso es esclavizado».
+> Les prometen libertad, mientras que ellos mismos son esclavos de la corrupción, pues uno es esclavo de aquello que lo ha vencido.
 >
 > 2 Pedro 2:19 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La propuesta es libertad: libertad de las viejas restricciones, de la vieja incertidumbre, de la incomodidad de no saber. El resultado es esclavitud. La voz que prometió acabar con tu cautiverio a la duda entrega un cautiverio más profundo a la voz misma.
 
 El tercer rasgo es el que cierra la puerta a toda apelación a una fuente superior. Pablo lo dice dos veces, deliberadamente, para dar énfasis.
 
-> «Pero aun si nosotros, o un ángel del cielo les predicara un evangelio contrario al que les hemos predicado, sea anatema».
+> Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
 >
 > Gálatas 1:8 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Aun un ángel del cielo. El origen de una revelación no autoriza su contenido. Un mensajero celestial que predica un evangelio distinto debe ser rechazado: no investigado, no contrastado con el original, rechazado. Esta es otra vez la prueba de la dirección, dicha con toda su fuerza: no importa quién entregue el mensaje si el mensaje apunta lejos del Dios ya revelado.
 
 Y hay un cuarto rasgo, el menos cómodo, porque implica al auditorio. El falso maestro no opera en el vacío. Atiende una demanda.
 
-> «Porque vendrá tiempo cuando no soportarán la sana doctrina, sino que, teniendo comezón de oídos, acumularán para sí maestros conforme a sus propios deseos».
+> Porque vendrá tiempo cuando no soportarán la sana doctrina, sino que teniendo comezón de oídos, conforme a sus propios deseos, acumularán para sí maestros.
 >
 > 2 Timoteo 4:3-4 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Oídos con comezón encuentran dedos que rascan. La gente reúne maestros que les dirán lo que ya quieren oír. El falso maestro suministra un producto, pero el apetito vino primero. Ambos son responsables. La voz segura de sí misma llena un espacio en blanco, pero la incomodidad que hizo insoportable ese espacio en blanco ya estaba allí, generando la demanda.
 
@@ -134,11 +122,9 @@ Oídos con comezón encuentran dedos que rascan. La gente reúne maestros que le
 
 El instinto es imaginar la amenaza como foránea: un forastero, un extraño que llega de otra parte con una doctrina nueva y rara. Pablo advirtió a los ancianos de Éfeso que el peligro corre en ambas direcciones, y que una de esas direcciones es mucho más difícil de defender.
 
-> «Sé que después de mi partida vendrán feroces lobos entre ustedes, que no perdonarán el rebaño; y de entre ustedes mismos se levantarán algunos hablando cosas perversas para arrastrar a los discípulos tras ellos».
+> Sé que después de mi partida, vendrán lobos feroces entre ustedes que no perdonarán el rebaño. También de entre ustedes mismos se levantarán algunos hablando cosas perversas para arrastrar a los discípulos tras ellos.
 >
 > Hechos 20:29-30 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Dos fuentes. Lobos que entran desde fuera, y hombres que se levantan de entre ustedes mismos. El primero es el que todos vigilan. El segundo es el que más daño hace, porque lleva una credibilidad que el extraño nunca podría tener. La amenaza interna tiene relaciones, historia, posición. Gozaba de confianza. Quizás fue formado por las mismas personas a quienes engañará. Ninguna barrera institucional protege contra él, porque ya está dentro de la institución. La escalada de cinco pasos que construye una secta comienza con mayor frecuencia justo aquí: no con un invasor, sino con alguien que se levantó.
 
@@ -146,21 +132,17 @@ Dos fuentes. Lobos que entran desde fuera, y hombres que se levantan de entre us
 
 Nada de esto descansa sobre un solo par de hombros. La Escritura nunca le pide al creyente individual que se mantenga solo frente a la voz segura de sí misma. Asigna el discernimiento a todo el cuerpo.
 
-> «Y que hablen dos o tres profetas, y los demás juzguen lo que se dice».
+> Y que dos o tres profetas hablen, y los demás juzguen.
 >
 > 1 Corintios 14:29 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Que los demás lo evalúen. La comunidad tiene una función colectiva: no el líder solo, no el receptor solo, sino el cuerpo examinando junto lo que se enseña. La instrucción de Pablo a los tesalonicenses traza la línea con precisión: no desprecien la profecía, sino examinen todo; retengan lo bueno (1 Tesalonicenses 5:20-21). La respuesta a una enseñanza peligrosa no es dejar de escuchar toda enseñanza. Es examinar, y conservar solo lo que sobrevive al examen.
 
 Y cuando una iglesia hace esto, Jesús la elogia.
 
-> «...has probado a los que se dicen ser apóstoles y no lo son, y los has hallado mentirosos».
+> ...has sometido a prueba a los que se dicen ser apóstoles y no lo son, y los has hallado mentirosos.
 >
 > Apocalipsis 2:2 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La iglesia de Éfeso examinó a personas que reclamaban la más alta autoridad, las halló falsas y fue elogiada por ello. Examinar no es lo opuesto al amor, y no es una falla de caridad. Es obediencia. Una comunidad que se niega a examinar en nombre de ser amable no ha elegido el amor sobre el discernimiento; ha abandonado un deber que la Escritura le asigna.
 
@@ -168,29 +150,23 @@ La iglesia de Éfeso examinó a personas que reclamaban la más alta autoridad, 
 
 Toda prueba de esta colección supone un estándar fijo contra el cual medir. Ese estándar no es la señal, ni el número de seguidores, ni la credencial, ni la explicación que el maestro da de sí mismo. Es la Palabra ya revelada.
 
-> «¡A la ley y al testimonio! Si no hablan conforme a esta palabra, es porque no hay para ellos amanecer».
+> ¡A la ley y al testimonio! Si ellos no hablan conforme a esta palabra, es porque no hay para ellos amanecer.
 >
 > Isaías 8:20 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Si una enseñanza no habla conforme a la Palabra, no hay amanecer en ella, no hay luz, por luminosa que parezca. La medida es externa al maestro y estaba fijada antes de que él llegara. Y es suficiente, porque la revelación está completa.
 
-> «Dios, habiendo hablado hace mucho tiempo, en muchas ocasiones y de muchas maneras a los padres por los profetas, en estos últimos días nos ha hablado por medio de Su Hijo».
+> Dios, habiendo hablado hace mucho tiempo, en muchas ocasiones y de muchas maneras a los padres por los profetas, en estos últimos días nos ha hablado por Su Hijo.
 >
 > Hebreos 1:1-2 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La revelación vino por etapas, y la etapa final es el Hijo. Lo que hacía falta ha sido dado. Lo que no ha sido dado no hace falta. Por eso la oferta de un conocimiento nuevo, secreto, que complete lo anterior, es siempre el delator: presupone una deficiencia en una revelación que la Escritura llama terminada.
 
 Y así el versículo que ha gobernado toda esta colección llega a su función final.
 
-> «Las cosas secretas pertenecen al Señor nuestro Dios, pero las reveladas nos pertenecen a nosotros y a nuestros hijos para siempre, a fin de que guardemos todas las palabras de esta ley».
+> Las cosas secretas pertenecen al SEÑOR nuestro Dios, pero las cosas reveladas nos pertenecen a nosotros y a nuestros hijos para siempre, a fin de que guardemos todas las palabras de esta ley.
 >
 > Deuteronomio 29:29 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 En [*No lo sé*](/es/blog/i-do-not-know/), esto fue un consuelo: el silencio es Suyo, y no estás obligado a llenarlo. En [*Los espacios en blanco*](/es/blog/the-blank-spaces/), se volvió una etiqueta de advertencia: lo que pertenece a Dios no es tuyo para reclamarlo. En [*Maleza en las grietas*](/es/blog/weeds-in-the-cracks/), fue el veredicto sobre todo movimiento que reclamó las cosas secretas de todos modos. En [*No lo creas*](/es/blog/do-not-believe-it/), fue el límite que resistió la presión de una cultura entera mirando fijamente el mismo silencio. Aquí es el estándar de juicio mismo. Las cosas secretas pertenecen a Dios. Quien las reclame (quien llene el silencio con una certeza segura de sí misma, sistemática y enseñable, y la llame revelación) ha tomado algo que nunca fue suyo, y ha fallado la prueba por el acto mismo de reclamarlo.
 
@@ -204,11 +180,9 @@ Sé claro en lo que esto no significa. No significa negarse a enfrentar pregunta
 
 Hay algo que el falso maestro ofrece y que el maestro sincero no puede ofrecer. Ofrece acabar con la penumbra ahora.
 
-> «Porque ahora vemos por espejo, veladamente, pero entonces veremos cara a cara; ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido plenamente».
+> Porque ahora vemos por un espejo, veladamente, pero entonces veremos cara a cara. Ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido.
 >
 > 1 Corintios 13:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Por ahora, veladamente. Los espacios en blanco son reales, y no todos se llenarán en esta vida. La voz segura de sí misma llega precisamente ahí, al borde de la penumbra, con una oferta de quitarla. A un precio. Sígueme, y verás con claridad ahora. Paga, y el secreto será tuyo. Cree, y el silencio terminará.
 

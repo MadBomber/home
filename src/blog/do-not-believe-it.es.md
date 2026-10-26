@@ -19,7 +19,7 @@ tags:
 - revelation
 ---
 
-> «En el principio creó Dios los cielos y la tierra».
+> En el principio Dios creó los cielos y la tierra.
 >
 > Génesis 1:1 (NBLA)
 
@@ -75,18 +75,14 @@ Aquí es donde muchos lectores esperan que el argumento se apoye en la rareza de
 
 Pablo describió un engaño autenticado por un poder de apariencia genuina.
 
-> «La venida del inicuo es conforme a la actividad de Satanás, con todo poder y señales y prodigios mentirosos, y con todo engaño de iniquidad para los que se pierden, porque no aceptaron el amor de la verdad para ser salvos».
+> La venida del impío será conforme a la actividad de Satanás, con todo poder y señales y prodigios mentirosos, y con todo engaño de iniquidad para los que se pierden, porque no recibieron el amor de la verdad para ser salvos.
 >
 > 2 Tesalonicenses 2:9-10 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Fíjate en lo que engaña. No es la ausencia de evidencia: es la abundancia de ella. Poder, señales, prodigios. Los que caen no son quienes exigieron pruebas y no recibieron ninguna; son quienes recibieron la prueba y nunca amaron la verdad lo bastante para comprobar adónde apuntaba. Juan vio la misma estructura e hizo las señales aún más espectaculares.
 
-> «También hace grandes señales, hasta hacer descender fuego del cielo a la tierra delante de los hombres. Y engaña a los habitantes de la tierra por las señales que se le permite hacer en presencia de la bestia...»
+> También hace grandes señales, de tal manera que aun hace descender fuego del cielo a la tierra en presencia de los hombres. Además engaña a los que moran en la tierra a causa de las señales que se le concedió hacer en presencia de la bestia...
 >
 > Apocalipsis 13:13-14 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Fuego del cielo, delante de la gente, a plena luz del día. El engaño en Apocalipsis no es sutil y no está oculto; es un espectáculo público que convence precisamente porque es innegable. Y el hilo conductor que une a Pablo y a Juan corre directo hasta la prueba más antigua de la ley, la que [*Cómo reconocer a un falso maestro*](/es/blog/how-to-spot-a-false-teacher/) expone por completo. Deuteronomio 13 ya había resuelto el principio antes de que Israel entrara a la tierra: aun cuando la señal se cumple, si el mensaje conduce hacia un dios que no has conocido, no lo sigues. La realidad del prodigio no es la autorización del mensaje.
 
 Junta los pasajes y se hace visible una teología completa de las señales engañosas a escala de civilización. Las señales serán reales, o lo parecerán. Los escogidos son el blanco explícito. El engaño será lo bastante convincente para tener éxito, si fuera posible, incluso entre ellos. Y la prueba, en cada pasaje, es idéntica: no el milagro, sino la dirección a la que te envía.
@@ -101,11 +97,9 @@ Aquí es donde la prueba de dirección de *Cómo reconocer a un falso maestro* h
 
 Jesús lo dijo con claridad, antes de que existieran un Pentágono, un History Channel o un telescopio digno de ese nombre.
 
-> «Entonces, si alguien les dice: “Miren, aquí está el Cristo”, o “Allí está”, no lo crean. Porque se levantarán falsos cristos y falsos profetas, y mostrarán grandes señales y prodigios, para engañar, de ser posible, aun a los escogidos. Miren que se lo he dicho de antemano».
+> Entonces si alguien les dice: «Miren, aquí está el Cristo», o «Allí está», no lo crean. Porque se levantarán falsos Cristos y falsos profetas, y mostrarán grandes señales y prodigios, para así engañar, de ser posible, aun a los escogidos. Vean que se lo he dicho de antemano.
 >
 > Mateo 24:23-25 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Él nombró el mecanismo: una voz segura, que señala un lugar. Nombró la credencial: grandes señales y prodigios. Nombró el blanco: de ser posible, aun a los escogidos: no los ingenuos, los escogidos. Y nombró la respuesta, dos veces, sin dejar espacio para negociar. Si dicen que está en el desierto, no salgan. Si dicen que está en las habitaciones interiores (o por encima de ellas, en el cielo, detrás de las luces) no lo crean.
 
 Esa es toda la instrucción. No *refútalo*. No *ve y mira*. No lo creas. El espacio en blanco pertenece a Dios, la cuestión de qué hay ahí fuera puede seguir abierta toda una vida, y la voz que se ofrece a cerrarla por ti es precisamente aquello contra lo que se te advirtió. Cuando llegue (y las condiciones para su llegada nunca han estado tan reunidas en toda la historia) ya sabes qué hacer. Se te dijo de antemano.

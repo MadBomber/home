@@ -51,8 +51,6 @@ Lo opuesto de kavod es <em class="term" data-tooltip="un soplo, vapor, aliento; 
 >
 > Eclesiastés 1:2 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 El Predicador no está emitiendo un juicio moral sobre el orgullo. Está haciendo una observación sobre la sustancia. Construyó riqueza y se disipó. Acumuló sabiduría y murió con él. Persiguió el placer y no le dejó nada en las manos (Eclesiastés 2:1–11). Todo hevel. Todo sin peso.
 
 Kavod es lo que hevel no es. Sustancia donde el vapor se disuelve. Presencia que no se disipa. La cosa más real que existe.
@@ -87,7 +85,7 @@ Aquí es donde el paralelo con la física de [*La palabra más pesada de la Bibl
 
 Esta es la implicación que se sigue de inmediato.
 
-Dios no cambia. Ni en carácter, ni en naturaleza, ni en peso. Lo declaró por medio de Malaquías con Sus propias palabras: «Yo, el SEÑOR, no cambio» (Malaquías 3:6). El escritor de Hebreos lo dice directamente de Jesús: «Jesucristo es el mismo ayer, hoy y por los siglos» (Hebreos 13:8). <!-- VERIFY-NBLA -->
+Dios no cambia. Ni en carácter, ni en naturaleza, ni en peso. Lo declaró por medio de Malaquías con Sus propias palabras: «Yo, el SEÑOR, no cambio» (Malaquías 3:6). El escritor de Hebreos lo dice directamente de Jesús: «Jesucristo es el mismo ayer y hoy y por los siglos» (Hebreos 13:8).
 
 Esto importa para la analogía de la física más de lo que parece al principio. La velocidad de la luz es una constante: no cambia sin importar el movimiento de la fuente ni del observador. Las leyes de la física son las mismas en todo el universo; un átomo de hidrógeno en una galaxia a mil millones de años luz se comporta exactamente igual que un átomo de hidrógeno en un laboratorio de Ginebra. Estas constantes son lo que hace coherente al universo, predecible, estructurado en lugar de arbitrario.
 
@@ -113,8 +111,6 @@ Moisés había estado en el monte cuarenta días. Había recibido la ley, el dis
 >
 > Éxodo 33:18 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 La respuesta de Dios es sorprendente. No le muestra a Moisés una luz cegadora ni una demostración de poder. Dice: haré pasar toda Mi *bondad* delante de ti y proclamaré Mi nombre delante de ti (Éxodo 33:19). Esconde a Moisés en la hendidura de una roca y deja pasar Su espalda, porque Su rostro (el peso pleno de Su presencia) habría destruido a Moisés donde estaba (Éxodo 33:20-23). Cuando Moisés baja del monte, su rostro resplandece con GLORIA reflejada, y el pueblo no puede mirarlo. Se cubre con un velo (Éxodo 34:29–35). La gloria reflejada, el peso de segunda mano, es más de lo que los rostros humanos pueden soportar.
 
 Cuando el Tabernáculo quedó terminado y la nube de la Shekiná descendió a llenarlo, Moisés no pudo entrar en la tienda.
@@ -123,18 +119,13 @@ Cuando el Tabernáculo quedó terminado y la nube de la Shekiná descendió a ll
 >
 > Éxodo 40:34 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 No es que no quisiera. No pudo. El peso de la presencia era demasiado grande. Lo mismo ocurrió cuando Salomón dedicó el Templo: los sacerdotes no pudieron mantenerse en pie para ministrar porque la GLORIA llenaba la casa (1 Reyes 8:10–11).
 
 Isaías vio la sala del trono. Los serafines[^seraphim] (que moran en la presencia inmediata de Dios) se cubrían el rostro con dos de sus seis alas. No solo los ojos. El rostro. Y se llamaban unos a otros:
 
-> «Santo, santo, santo es el SEÑOR de los ejércitos,
-> toda la tierra está llena de Su gloria».
+> «Santo, Santo, Santo es el SEÑOR de los ejércitos, llena está toda la tierra de Su gloria».
 >
 > Isaías 6:3 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La gloria no está contenida en la sala del trono. Se desborda. Toda la tierra está llena de ella: presionada por ella, saturada de ella, lo sepa la tierra o no.
 
@@ -150,11 +141,9 @@ Lucas registra la noche en que volvió la Shekiná.
 
 Pastores en un campo a las afueras de Belén, en medio de la noche, haciendo lo que hacen los pastores. Entonces:
 
-> «Y la gloria del Señor resplandeció alrededor de ellos, y se llenaron de gran temor».
+> Y un ángel del Señor se les presentó, y la gloria del Señor los rodeó de resplandor, y tuvieron gran temor.
 >
 > Lucas 2:9 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Se llenaron de gran temor: la construcción se refuerza a sí misma, temor sobre temor. (En griego, literalmente, «temieron con gran temor»). No fue sorpresa ni alarma. Fue la respuesta física a la llegada de la masa. La Shekiná no había aparecido desde Ezequiel. Seiscientos años de silencio, y luego un campo lleno de pastores aterrados porque el peso había vuelto.
 
@@ -162,7 +151,7 @@ Volvió porque el Verbo se había hecho carne.
 
 Juan 1:14 es el punto de giro del prólogo:
 
-> «Y el Verbo se hizo carne y habitó entre nosotros, y vimos Su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad».
+> El Verbo se hizo carne, y habitó entre nosotros, y vimos Su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad.
 >
 > Juan 1:14 (NBLA)
 
@@ -170,25 +159,21 @@ La palabra traducida «habitó» significa plantar una tienda, tabernacular. Jua
 
 Los discípulos lo vieron con la mayor claridad en un monte de Galilea (Mateo 17:1–5). Jesús llevó con Él a Pedro, a Santiago y a Juan, y mientras miraban, algo le sucedió a Su apariencia. Su rostro resplandeció como el sol. Su ropa se volvió blanca como la luz. Moisés y Elías aparecieron y hablaron con Él. El velo sobre Su humanidad se levantó brevemente y la GLORIA que había debajo se dejó ver.
 
-> «Al oír esto los discípulos, cayeron sobre sus rostros y tuvieron gran temor».
+> Cuando los discípulos oyeron esto, cayeron sobre sus rostros y tuvieron gran temor.
 >
 > Mateo 17:6 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El patrón se mantiene. Sientes el peso antes de entenderlo.
 
 Esteban, a punto de ser apedreado hasta la muerte, alzó la vista.
 
-> «Pero Esteban, lleno del Espíritu Santo, fijó la mirada en el cielo y vio la gloria de Dios, y a Jesús de pie a la diestra de Dios».
+> Pero Esteban, lleno del Espíritu Santo, fijos los ojos en el cielo, vio la gloria de Dios y a Jesús de pie a la diestra de Dios.
 >
 > Hechos 7:55 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 De pie. El Hijo del Hombre está sentado a la diestra del Padre: la postura de la obra completada, de un sacrificio terminado y aceptado (Hebreos 1:3; 10:12). Aquí está de pie. Como si se hubiera levantado para recibir al primer mártir. Como si la GLORIA de Dios guiara a Esteban a casa.
 
-La imagen final es Apocalipsis 21. La nueva Jerusalén desciende del cielo, de Dios, teniendo la gloria de Dios, y su resplandor es semejante al de una piedra preciosísima (Apocalipsis 21:10–11). No hay templo en la ciudad porque el Señor Dios Todopoderoso y el Cordero son su templo (Apocalipsis 21:22). No hay sol ni luna porque la gloria de Dios le da luz y su lumbrera es el Cordero (Apocalipsis 21:23). <!-- VERIFY-NBLA -->
+La imagen final es Apocalipsis 21. La nueva Jerusalén desciende del cielo, de Dios, teniendo la gloria de Dios, y su resplandor es semejante al de una piedra preciosísima (Apocalipsis 21:10–11). No hay templo en la ciudad porque el Señor Dios Todopoderoso y el Cordero son su templo (Apocalipsis 21:22). No hay sol ni luna porque la gloria de Dios le da luz y su lumbrera es el Cordero (Apocalipsis 21:23).
 
 No hace falta sol. La GLORIA de Dios es la luz.
 

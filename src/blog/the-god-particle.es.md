@@ -18,7 +18,7 @@ No esperabas encontrar física aquí.
 
 Tomaste un ensayo sobre la Biblia y ahora estás leyendo sobre masa, gravedad y aceleradores de partículas. La sospecha es razonable. Estas cosas pertenecen a habitaciones distintas. La ciencia allá. La Escritura acá. Que nunca se presenten.
 
-Ese supuesto es lo primero que este ensayo va a examinar. Salomón escribió que «la gloria de Dios es encubrir un asunto, pero la gloria de los reyes es escudriñarlo» (Proverbios 25:2). La investigación no es una invasión. Es una vocación. <!-- VERIFY-NBLA -->
+Ese supuesto es lo primero que este ensayo va a examinar. Salomón escribió que «es gloria de Dios encubrir una cosa, pero la gloria de los reyes es investigar un asunto» (Proverbios 25:2). La investigación no es una invasión. Es una vocación.
 
 ## Me suena a griego
 
@@ -28,11 +28,11 @@ Génesis 1 hace lo mismo desde otro ángulo.
 
 ## En el principio
 
-> «En el principio creó Dios los cielos y la tierra».
+> En el principio Dios creó los cielos y la tierra.
 >
 > Génesis 1:1 (NBLA)
 
-Eso no es una metáfora de un estado espiritual interior. Es una afirmación sobre lo que realmente le ocurrió a la materia real y al espacio real. Los primeros versículos de la Escritura hacen afirmaciones físicas: hubo un principio, no un universo eterno que gira sin cesar a través del tiempo, sino un momento en que el espacio y la materia comenzaron a existir. La tierra estaba sin orden y vacía (Génesis 1:2), en hebreo *tohu wabohu*, sin forma y vacía, desorden máximo, sin estructura y sin contenido. Entonces Dios habló, y lo primero que hizo fue la luz (Génesis 1:3), claridad antes de la sustancia, energía antes de la materia. El escritor de Génesis no tenía conocimiento de la física de partículas. Pero lo que nombró primero, la física ha confirmado desde entonces que es genuinamente fundamental: la luz no tiene masa, viaja como onda y como partícula a la vez, y puede existir donde la materia no puede. La correspondencia no es una coincidencia que espera explicación. Es una invitación a prestar atención. <!-- VERIFY-NBLA -->
+Eso no es una metáfora de un estado espiritual interior. Es una afirmación sobre lo que realmente le ocurrió a la materia real y al espacio real. Los primeros versículos de la Escritura hacen afirmaciones físicas: hubo un principio, no un universo eterno que gira sin cesar a través del tiempo, sino un momento en que el espacio y la materia comenzaron a existir. La tierra estaba sin orden y vacía (Génesis 1:2), en hebreo *tohu wabohu*, sin forma y vacía, desorden máximo, sin estructura y sin contenido. Entonces Dios habló, y lo primero que hizo fue la luz (Génesis 1:3), claridad antes de la sustancia, energía antes de la materia. El escritor de Génesis no tenía conocimiento de la física de partículas. Pero lo que nombró primero, la física ha confirmado desde entonces que es genuinamente fundamental: la luz no tiene masa, viaja como onda y como partícula a la vez, y puede existir donde la materia no puede. La correspondencia no es una coincidencia que espera explicación. Es una invitación a prestar atención.
 
 La secuencia que sigue, tres días de separación, tres días de llenar (Génesis 1:3-31), es el relato de la realidad física siendo ordenada y habitada. La ciencia pregunta cómo se comporta esta realidad. Génesis pregunta de quién fue la idea y por qué. No son enemigas. Son dos disciplinas que examinan el mismo tema, una preguntando cómo funciona, la otra preguntando quién lo hizo y para qué.
 

@@ -61,21 +61,17 @@ En el huerto del Edén, antes de la caída, antes del sacrificio, antes de los t
 >
 > Génesis 3:8 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 La palabra hebrea para caminar aquí, *mithallek*, es una forma reflexiva que implica una acción habitual y continua. No era una visita especial. Dios caminaba allí con regularidad. Era el patrón establecido de la relación.
 
 Y esto es lo que muestra el texto cuando se lee con cuidado: Adán y Eva nunca inician una conversación con Dios en el huerto. Ni una sola vez. Repasa cada intercambio en Génesis 2 y 3: Dios habla primero siempre. Manda, observa, da, asigna. Adán y Eva reciben, responden y actúan según lo que se les da. La postura del huerto no es la petición urgente. Es presencia y disponibilidad. Simplemente estaban allí cuando Dios venía caminando.
 
 Las tareas también venían de Dios. Poner nombre a los animales, cuidar el huerto: no eran peticiones que Adán hiciera. Eran asignaciones que Dios daba (Génesis 2:15, 19-20). La relación consistía en recibir sabiduría y dirección, y luego vivirla.
 
-Este patrón (Dios caminando, los humanos presentes y disponibles, la comunicación fluyendo de Su iniciativa a la respuesta de ellos) no desapareció de la Escritura. Se convirtió en la frase que define la relación más cercana que una persona podía tener con Dios. Enoc «caminó con Dios» y Dios se lo llevó (Génesis 5:24). Noé «caminaba con Dios» en una generación que Lo había abandonado (Génesis 6:9). Siglos después, el profeta Miqueas destilaría todo lo que Dios requiere en una sola línea:
+Este patrón (Dios caminando, los humanos presentes y disponibles, la comunicación fluyendo de Su iniciativa a la respuesta de ellos) no desapareció de la Escritura. Se convirtió en la frase que define la relación más cercana que una persona podía tener con Dios. Enoc «anduvo con Dios» y Dios se lo llevó (Génesis 5:24). Noé «andaba con Dios» en una generación que Lo había abandonado (Génesis 6:9). Siglos después, el profeta Miqueas destilaría todo lo que Dios requiere en una sola línea:
 
-> Él te ha declarado, oh hombre, lo que es bueno; y qué es lo que el SEÑOR requiere de ti: solamente practicar la justicia, amar la misericordia, y andar humildemente con tu Dios.
+> Él te ha declarado, oh hombre, lo que es bueno. ¿Y qué es lo que demanda el SEÑOR de ti, sino solo practicar la justicia, amar la misericordia, y andar humildemente con tu Dios?
 >
 > Miqueas 6:8 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Caminar con Dios. No actuar para Dios. No administrar un horario religioso. Caminar: el movimiento constante y sin prisa de alguien en compañía de otro.
 
@@ -93,7 +89,7 @@ Génesis 3:8 registra uno de los momentos más tristes de la Escritura casi sin 
 
 Las primeras palabras de Dios después de la caída no fueron una condena. Fueron una pregunta:
 
-> Entonces el SEÑOR Dios llamó al hombre y le dijo: «¿Dónde estás?».
+> Pero el SEÑOR Dios llamó al hombre y le dijo: «¿Dónde estás?».
 >
 > Génesis 3:9 (NBLA)
 
@@ -101,11 +97,9 @@ No era una petición de información. Dios sabía dónde estaban. Era la pregunt
 
 La brecha que abrió la caída era real.
 
-> Pero sus iniquidades han hecho separación entre ustedes y su Dios, y sus pecados han hecho que Su rostro se oculte de ustedes para no oírlos.
+> Pero las iniquidades de ustedes han hecho separación entre ustedes y su Dios, y los pecados le han hecho esconder Su rostro para no escucharlos.
 >
 > Isaías 59:2 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Un Dios santo y humanos pecadores no pueden simplemente seguir caminando juntos como antes. El acceso fácil y sin mediación del huerto se había perdido.
 
@@ -119,23 +113,17 @@ Y le dio a Israel el sistema sacrificial, no como la meta, sino como el mecanism
 >
 > Salmo 141:2 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 No estaba siendo poético. Estaba enunciando la ecuación. La hora del sacrificio y la hora de la oración eran la misma hora.
 
 Sin embargo, aun cuando Dios preservó el acceso mediante este elaborado sistema, fue claro sobre lo que realmente quería:
 
-> ¿Se complace el SEÑOR tanto en holocaustos y sacrificios como en que se obedezca la voz del SEÑOR? He aquí, el obedecer es mejor que un sacrificio, y el prestar atención, que la grasa de carneros.
+> Y Samuel dijo: ¿Se complace el SEÑOR tanto En holocaustos y sacrificios Como en la obediencia a la voz del SEÑOR? Entiende, el obedecer es mejor que un sacrificio, y el prestar atención, que la grasa de los carneros.
 >
 > 1 Samuel 15:22 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
-> Porque Yo deseo misericordia y no sacrificio, y conocimiento de Dios más que holocaustos.
+> Porque me deleito más en la lealtad que en el sacrificio, y en el conocimiento de Dios que en los holocaustos.
 >
 > Oseas 6:6 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Estas son palabras que Jesús citaría dos veces en Mateo, porque todavía necesitaban ser oídas. El sistema sacrificial nunca fue el destino. Fue una reparación temporal de una relación rota, preservada por un Dios que quería recuperar la relación. Cada sacrificio señalaba hacia adelante. Cada profeta señalaba hacia adelante. Pacto, ley, profecía: todo era Dios sosteniendo abierto el puente, esperando el momento en que la ruptura pudiera sanarse de manera permanente.
 
@@ -157,13 +145,11 @@ En 1 Samuel 1, Ana está de pie delante del tabernáculo en angustia por su este
 
 <!-- TRANSLATOR NOTE: The English prose quotes the text as "praying in her heart"; the NBLA of 1 Samuel 1:13 reads "hablaba en su corazón" (spoke in her heart), with "orando" in v. 12. The Spanish quotes the NBLA wording; the point (prayer with no audible voice) is unchanged. -->
 
-<!-- VERIFY-NBLA -->
-
-Nehemías nos muestra algo aún más comprimido. De pie ante el rey Artajerjes, que le pregunta qué desea, Nehemías dice: «Oré al Dios de los cielos» (Nehemías 2:4), en el espacio de un suspiro, entre la pregunta del rey y su propia respuesta. Un volverse silencioso e instantáneo hacia Dios en un momento de presión. Ese reflejo es lo que se ve en la práctica una vida de oración sin cesar.
+Nehemías nos muestra algo aún más comprimido. De pie ante el rey Artajerjes, que le pregunta qué desea, Nehemías dice: «Oré al Dios del cielo» (Nehemías 2:4), en el espacio de un suspiro, entre la pregunta del rey y su propia respuesta. Un volverse silencioso e instantáneo hacia Dios en un momento de presión. Ese reflejo es lo que se ve en la práctica una vida de oración sin cesar.
 
 ### Gemidos sin palabras
 
-> Así también el Espíritu nos ayuda en nuestra debilidad, pues no sabemos orar como debemos, pero el Espíritu mismo intercede por nosotros con gemidos indecibles.
+> De la misma manera, también el Espíritu nos ayuda en nuestra debilidad. No sabemos orar como debiéramos, pero el Espíritu mismo intercede por nosotros con gemidos indecibles.
 >
 > Romanos 8:26 (NBLA)
 
@@ -174,8 +160,6 @@ Duelo, trauma, agotamiento, confusión. Hay momentos en que no llegan las palabr
 > Estén quietos, y sepan que Yo soy Dios.
 >
 > Salmo 46:10 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La palabra hebrea para «estén quietos» (*raphah*) significa hundirse, soltar el agarre, dejar de esforzarse. No es un vacío pasivo. Es detener activamente tu propio ruido el tiempo suficiente para darte cuenta de quién está en la sala.
 
@@ -201,11 +185,9 @@ La oración no es solo un acto solitario. Los Salmos fueron escritos para la com
 
 La iglesia primitiva continuó este patrón. Entre las primeras cosas que se dicen de la iglesia después de Pentecostés:
 
-> Y se dedicaban continuamente a la enseñanza de los apóstoles, a la comunión, al partimiento del pan y a la oración.
+> Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión, al partimiento del pan y a la oración.
 >
 > Hechos 2:42 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La oración estaba entretejida en la trama de la adoración comunitaria, no como un añadido sino como una práctica definitoria del cuerpo reunido. Cuando toda la iglesia se reunió después de que Pedro y Juan fueron liberados de la custodia, Lucas describe lo que siguió:
 
@@ -213,23 +195,19 @@ La oración estaba entretejida en la trama de la adoración comunitaria, no como
 >
 > Hechos 4:24 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 El lugar donde estaban reunidos tembló (Hechos 4:31).
 
-La iglesia oró en comunidad no solo en alabanza sino en intercesión urgente. Cuando Herodes encarceló a Pedro, Hechos 12:5 registra sencillamente: «la iglesia oraba fervientemente a Dios por él». La comunidad se reunió en casa de María y oró toda la noche. Dios envió un ángel. Las cadenas cayeron de las muñecas de Pedro. Pasó junto a los guardias y por la puerta de hierro, y se presentó a la puerta de la casa (Hechos 12:7-10). Cuando Rode reconoció su voz y corrió a contárselo a los demás, le dijeron que había perdido el juicio. Cuando Pedro siguió llamando y por fin abrieron la puerta, lo vieron y se quedaron asombrados.
+La iglesia oró en comunidad no solo en alabanza sino en intercesión urgente. Cuando Herodes encarceló a Pedro, Hechos 12:5 registra sencillamente: «la iglesia hacía oración ferviente a Dios por él». La comunidad se reunió en casa de María y oró toda la noche. Dios envió un ángel. Las cadenas cayeron de las muñecas de Pedro. Pasó junto a los guardias y por la puerta de hierro, y se presentó a la puerta de la casa (Hechos 12:7-10). Cuando Rode reconoció su voz y corrió a contárselo a los demás, le dijeron que había perdido el juicio. Cuando Pedro siguió llamando y por fin abrieron la puerta, lo vieron y se quedaron asombrados.
 
-> Cuando él llamó a la puerta del portón, una muchacha llamada Rode salió a responder. Al reconocer la voz de Pedro, de alegría no abrió el portón, sino que corrió adentro y anunció que Pedro estaba de pie frente al portón. Y ellos le dijeron: «Estás loca». Pero ella insistía en que así era. Y ellos decían: «Es su ángel». Pero Pedro siguió llamando; y cuando abrieron y lo vieron, se quedaron asombrados.
+> Cuando llamó a la puerta de la entrada, una sirvienta llamada Rode salió a ver quién era. Al reconocer la voz de Pedro, de alegría no abrió la puerta, sino que corrió adentro y anunció que Pedro estaba a la puerta. «¡Estás loca!», le dijeron ellos. Pero ella insistía en que así era. Y ellos decían: «Es su ángel». Pero Pedro continuaba llamando; y cuando ellos abrieron, lo vieron y se asombraron.
 >
 > Hechos 12:13-16 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Habían estado orando por exactamente lo que acababa de ocurrir, y apenas podían creer que hubiera ocurrido. Esa sinceridad pertenece al cuadro. La oración comunitaria en la iglesia primitiva no era una exhibición de certeza. Era la comunidad presentando junta su necesidad genuina ante Dios, y sorprendiéndose de cómo Él se movió.
 
 Jesús había prometido exactamente esto. Cuando la comunidad se reúne en Su nombre (alineada en relación, no solo en petición), Él está presente en medio de ellos:
 
-> «Porque donde dos o tres están reunidos en Mi nombre, allí estoy Yo en medio de ellos».
+> Porque donde están dos o tres reunidos en Mi nombre, allí estoy Yo en medio de ellos.
 >
 > Mateo 18:20 (NBLA)
 
@@ -249,31 +227,25 @@ En 1 Reyes 18, el profeta Elías desafía a los 450 profetas de Baal a un concur
 
 Los profetas de Baal van primero. Invocan el nombre de Baal desde la mañana hasta el mediodía. Nada. Cojean alrededor del altar. Nada. Elías se burla de ellos:
 
-> «Griten más fuerte, pues es un dios; quizá está meditando, o está ocupado, o ha salido de viaje; tal vez esté dormido y haya que despertarlo».
+> «Clamen en voz alta, pues es un dios; tal vez estará meditando o se habrá desviado, o estará de viaje, quizá esté dormido y habrá que despertarlo».
 >
 > 1 Reyes 18:27 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 <!-- TRANSLATOR NOTE: The ESV renders the Hebrew euphemism literally ("relieving himself"). The NBLA softens it ("está ocupado"). The prose does not comment on that phrase, so the argument is unaffected; the NBLA wording is kept. -->
 
 Así que gritan más fuerte. Se cortan hasta que corre la sangre. Siguen desvariando hasta la hora del sacrificio de la tarde. El texto da su veredicto sin dramatismo:
 
-> Pero no hubo voz, ni nadie que respondiera, ni nadie que escuchara.
+> Pero no hubo voz, ni nadie respondió ni nadie hizo caso.
 >
 > 1 Reyes 18:29 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Lo que hacían los profetas de Baal tenía todas las marcas externas de una seria devoción religiosa: horas de petición sostenida, intensidad física, urgencia creciente, entrega total. Lo que le faltaba era lo único que importa: un Dios que realmente estuviera allí. Ninguna relación. Ningún pacto. Ningún acceso. Nadie en casa.
 
 Entonces Elías da un paso al frente. Repara el altar, dispone la leña, hace derramar agua sobre todo tres veces. Luego ora:
 
-> «Oh SEÑOR, Dios de Abraham, de Isaac y de Israel, que se sepa hoy que Tú eres Dios en Israel y que yo soy Tu siervo, y que por Tu palabra he hecho todas estas cosas. Respóndeme, oh SEÑOR, respóndeme, para que este pueblo sepa que Tú, oh SEÑOR, eres Dios».
+> Oh SEÑOR, Dios de Abraham, de Isaac y de Israel, que se sepa hoy que Tú eres Dios en Israel, que yo soy Tu siervo y que he hecho todas estas cosas por palabra Tuya. Respóndeme, oh SEÑOR, respóndeme, para que este pueblo sepa que Tú, oh SEÑOR, eres Dios.
 >
 > 1 Reyes 18:36-37 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Un solo párrafo. Breve, directo, dirigido en lo personal. Enuncia la base relacional: *yo soy Tu siervo, por Tu palabra he hecho todas estas cosas.* Alinea su petición con el propósito de Dios. Sin técnica. Sin escalada. Sin actuación.
 
@@ -297,60 +269,33 @@ Este artículo ha argumentado que la oración no es una fórmula, una técnica n
 
 En Mateo 6, en medio del Sermón del Monte, Jesús enseña a las multitudes sobre la oración. Acaba de advertir contra dos errores: actuar para un público y amontonar frases vacías. Luego dice:
 
-> «Ustedes, pues, oren de esta manera:
->
-> Padre nuestro que estás en los cielos,
-> santificado sea Tu nombre.
-> Venga Tu reino.
-> Hágase Tu voluntad,
-> como en el cielo, así también en la tierra.
-> Danos hoy el pan nuestro de cada día.
-> Y perdónanos nuestras deudas,
-> como también nosotros hemos perdonado a nuestros deudores.
-> Y no nos metas en tentación,
-> mas líbranos del mal».
+> Ustedes, pues, oren de esta manera: «Padre nuestro que estás en los cielos, Santificado sea Tu nombre. Venga Tu reino. Hágase Tu voluntad, Así en la tierra como en el cielo. Danos hoy el pan nuestro de cada día. Y perdónanos nuestras deudas, como también nosotros hemos perdonado a nuestros deudores. Y no nos dejes caer en tentación, sino líbranos del mal. Porque Tuyo es el reino y el poder y la gloria para siempre. Amén».
 >
 > Mateo 6:9-13 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Más adelante, en Lucas 11, el escenario es completamente distinto. Los discípulos han estado viendo a Jesús orar en privado. Cuando termina, uno de ellos le hace una petición:
 
-> Uno de Sus discípulos Le dijo: «Señor, enséñanos a orar, así como Juan enseñó a sus discípulos».
+> Aconteció que estando Jesús orando en cierto lugar, cuando terminó, le dijo uno de Sus discípulos: «Señor, enséñanos a orar, así como Juan enseñó también a sus discípulos».
 >
 > Lucas 11:1 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Jesús responde:
 
-> «Cuando oren, digan:
->
-> Padre,
-> santificado sea Tu nombre.
-> Venga Tu reino.
-> Danos cada día nuestro pan cotidiano.
-> Y perdónanos nuestros pecados,
-> porque también nosotros perdonamos a todos los que nos deben.
-> Y no nos metas en tentación».
+> Y Él les dijo: «Cuando oren, digan: «Padre, santificado sea Tu nombre. Venga Tu reino. Danos hoy el pan nuestro de cada día. Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben. Y no nos metas en tentación»».
 >
 > Lucas 11:2-4 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Estos son dos relatos de la misma oración, dada en dos ocasiones distintas. Y no son idénticos.
 
-Mateo tiene «Padre nuestro que estás en los cielos». Lucas tiene simplemente «Padre». Mateo incluye «Hágase Tu voluntad, como en el cielo, así también en la tierra». Lucas no. Mateo dice «hoy»; Lucas dice «cada día». Mateo usa «deudas» y «deudores» en todo el pasaje; Lucas usa «pecados» y luego «nos deben». Mateo termina con «líbranos del mal»; Lucas no.
+Mateo tiene «Padre nuestro que estás en los cielos». Lucas tiene simplemente «Padre». Mateo incluye «Hágase Tu voluntad, así en la tierra como en el cielo». Lucas no. Mateo dice «hoy»; Lucas dice «cada día». Mateo usa «deudas» y «deudores» en todo el pasaje; Lucas usa «pecados» y luego «nos deben». Mateo termina con «líbranos del mal»; Lucas no.
 
 Si Jesús hubiera querido una fórmula textual (una contraseña que se recita con las palabras exactamente correctas), ambos relatos serían idénticos. No lo son. La palabra griega que registra Mateo es *οὕτως*: «de esta manera» o «en esta línea». Es la palabra para un patrón, una forma, una manera de acercarse a algo. No un guion.
 
 ### Una nota sobre la doxología
 
-Mucha gente conoce el Padrenuestro con este final: *«Porque Tuyo es el reino y el poder y la gloria por siempre. Amén».* Esas palabras aparecen en la Reina-Valera y en la King James Version (inglés), pero no en la NBLA. La razón es la evidencia de los manuscritos.
+Mucha gente conoce el Padrenuestro con este final: *«Porque Tuyo es el reino y el poder y la gloria para siempre. Amén».* Esas palabras aparecen en la Reina-Valera y en la King James Version (inglés), pero no en la NBLA. La razón es la evidencia de los manuscritos.
 
 <!-- TRANSLATOR NOTE: The English contrasts the KJV (which has the doxology) with the ESV (which omits it from the text). For Spanish readers the familiar equivalent of the KJV is the Reina-Valera, so both are named; the NBLA is the counterpart of the ESV here. The NBLA should be checked: it omits the doxology from the main text with a footnote, as far as the translator recalls. -->
-
-<!-- VERIFY-NBLA -->
 
 Los traductores de la KJV, trabajando en 1611, usaron manuscritos griegos que incluían la doxología. La NBLA sigue manuscritos más antiguos y tempranos en los que no aparece. ¿De dónde vino la doxología?
 
@@ -396,17 +341,15 @@ Entonces vino Jesús.
 
 Todo sacrificio animal, desde el primero en el Edén (Génesis 3:21) hasta el último ofrecido en el templo, fue un gesto que apuntaba hacia el único sacrificio que lograría lo que ninguno de ellos podía.
 
-> Pero Cristo, habiendo ofrecido para siempre un solo sacrificio por los pecados, se sentó a la diestra de Dios.
+> Pero Cristo, habiendo ofrecido un solo sacrificio por los pecados para siempre, SE SENTÓ A LA DIESTRA DE DIOS.
 >
 > Hebreos 10:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Una vez. Por completo. Para siempre.
 
 En el momento en que ocurrió, la arquitectura del antiguo sistema respondió.
 
-> Y he aquí, el velo del templo se rasgó en dos, de arriba abajo.
+> En ese momento el velo del templo se rasgó en dos, de arriba abajo.
 >
 > Mateo 27:51 (NBLA)
 
@@ -416,11 +359,9 @@ Pero la historia no termina en la puerta abierta.
 
 Antes de irse, Jesús hizo una promesa que Sus discípulos todavía no entendían:
 
-> «Y Yo rogaré al Padre, y Él les dará otro Consolador para que esté con ustedes para siempre; es decir, el Espíritu de verdad».
+> Entonces Yo rogaré al Padre, y Él les dará otro Consolador para que esté con ustedes para siempre; es decir, el Espíritu de verdad.
 >
 > Juan 14:16-17 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 En el huerto Dios caminaba al lado de Su pueblo. En el templo Dios habitaba en un lugar específico detrás de un velo. Lo que Jesús prometió (y lo que Pentecostés cumplió) fue Dios habitando dentro del que cree. No al lado. Dentro.
 
@@ -431,8 +372,6 @@ Dios ya lo sabe todo: nuestras necesidades, nuestros fallos, nuestra confusión,
 > No tienen, porque no piden.
 >
 > Santiago 4:2 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El pedir no es para beneficio Suyo. Es el acto relacional de reconocer nuestra dependencia, expresar nuestra confianza y alinearnos con Aquel que da sabiduría a todos los que la buscan. La intercesión del Espíritu dentro de nosotros no es un servicio de traducción para un Dios que no puede entendernos. Es la realidad relacional de Dios participando en nuestra oración desde dentro, intercediendo conforme a una voluntad que Dios ya conoce y ya ha determinado.
 
@@ -452,15 +391,11 @@ Esa puerta está abierta ahora.
 
 Hay un momento en Lucas 15:11-32 que puede ser el cuadro más sincero de la oración en toda la Escritura. Un hijo que lo ha desperdiciado todo, sentado en un país extranjero entre cerdos, «volvió en sí». Esa frase merece una pausa.
 
-<!-- VERIFY-NBLA -->
-
 Volver en sí significó tres cosas a la vez. Recordó lo que había desechado: la casa de su padre, la mesa, la pertenencia, el acceso. Reconoció que había pecado contra su padre y que la relación rota era obra suya, no de su padre. Y se arrepintió, no solo sintió pena, sino que se apartó de donde estaba y puso su rostro hacia casa, buscando activamente restaurar lo que había roto.
 
 > «Me levantaré, e iré a mi padre, y le diré: “Padre, he pecado contra el cielo y ante ti”».
 >
 > Lucas 15:18 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Tenía lista su confesión antes de llegar. El volverse y el buscar ya estaban en marcha. Esa es la anatomía de acercarse a Dios. Reconoce lo que has hecho. Apártate de ello. Busca la relación. No una fórmula. Una dirección.
 
@@ -478,11 +413,9 @@ El camino de entrada es el mismo que el del hijo pródigo: reconoce tu pecado co
 
 El Padre ya viene corriendo.
 
-> Y levantándose, fue a su padre. Cuando todavía estaba lejos, su padre lo vio y se compadeció, y corrió, se echó sobre su cuello y lo besó.
+> Levantándose, fue a su padre. Cuando todavía estaba lejos, su padre lo vio y sintió compasión por él, y corrió, se echó sobre su cuello y lo besó.
 >
 > Lucas 15:20 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 ---
 
@@ -492,11 +425,9 @@ Tu relación con Dios no está en duda. Ya estás en casa. La puerta que Jesús 
 
 Lo que se ha desviado es tu actitud, tu enfoque, tu conciencia de lo que ya tienes. El gozo de la relación (no la relación misma) es lo que se ha apagado. David conocía esta distinción. Después de su mayor fracaso no oró «restaura mi salvación». Oró:
 
-> Restitúyeme el gozo de Tu salvación, y sostenme con un espíritu dispuesto.
+> Restitúyeme el gozo de Tu salvación, y sostenme con un espíritu de poder.
 >
 > Salmo 51:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La salvación seguía siendo suya. El gozo de ella se había perdido. Eso es lo que pidió a Dios que renovara.
 

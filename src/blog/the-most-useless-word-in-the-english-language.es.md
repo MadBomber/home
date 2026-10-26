@@ -74,17 +74,13 @@ Fíjate en lo que tienen en común todos los ejemplos de este ensayo. *Old Glory
 
 La GLORIA de Dios no se origina en este marco. Las Escrituras lo dicen con claridad.
 
-> «Porque Mis pensamientos no son sus pensamientos, ni sus caminos son Mis caminos, declara el SEÑOR. Porque como los cielos son más altos que la tierra, así Mis caminos son más altos que sus caminos y Mis pensamientos más que sus pensamientos».
+> «Porque Mis pensamientos no son los pensamientos de ustedes, ni sus caminos son Mis caminos», declara el SEÑOR. Porque como los cielos son más altos que la tierra, Así Mis caminos son más altos que sus caminos, y Mis pensamientos más que sus pensamientos.
 >
 > Isaías 55:8-9 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
-> «Cosas que ojo no vio, ni oído oyó, ni han entrado al corazón del hombre, son las que Dios ha preparado para los que Lo aman».
+> sino como está escrito: «COSAS QUE OJO NO VIO, NI OÍDO OYÓ, NI HAN ENTRADO AL CORAZÓN DEL HOMBRE, son LAS COSAS QUE DIOS HA PREPARADO PARA LOS QUE LO AMAN».
 >
 > 1 Corintios 2:9 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Cada momento en las Escrituras en que la GLORIA de Dios se hizo perceptible (la zarza ardiente [Éxodo 3:2-6], la nube sobre el Sinaí [Éxodo 24:15-17], el humo que llenó el templo de Isaías [Isaías 6:4], el fuego sobre el río de Ezequiel [Ezequiel 1:4-28]) fue la decisión soberana de Dios sobre cómo proyectar una sombra de Su GLORIA infinita en nuestro espacio-tiempo finito de cuatro dimensiones. Lo que los testigos encontraron no era la cosa misma. Era lo que el espacio-tiempo finito de cuatro dimensiones puede recibir de algo que no tiene límite dimensional. Moisés pidió ver la GLORIA de Dios. Dios le dijo que ningún hombre puede ver Su rostro y vivir. Lo que Moisés recibió fue lo que queda después: la impresión dejada cuando pasó el peso completo (Éxodo 33:18-23). El marco no puede contener la fuente.
 

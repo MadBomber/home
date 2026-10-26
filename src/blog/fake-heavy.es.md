@@ -49,8 +49,6 @@ Pablo hace que el alcance sea total:
 >
 > 1 Corintios 10:31 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Cualquier otra cosa. El alcance no es el domingo por la mañana. No es el momento en que te observan otros cristianos. Es el desayuno. Es la conversación en el trabajo. Es la decisión que nadie más sabrá que tomaste. Todo lo que haces (cada momento corriente y sin relieve de un martes) es una oportunidad de retratar a Dios con exactitud o de distorsionarlo.
 
 Esto significa que lo inverso es igual de preciso. Tergiversar a Dios es un problema de GLORIA. El tercer mandamiento no trata principalmente de las groserías:
@@ -58,8 +56,6 @@ Esto significa que lo inverso es igual de preciso. Tergiversar a Dios es un prob
 > «No tomarás el nombre del SEÑOR tu Dios en vano».
 >
 > Éxodo 20:7 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Trata de tratar la palabra más pesada que existe como si fuera *hevel*. Usar Su nombre sin peso. Atribuirle Su respaldo a cosas que Él no ha respaldado. Presentarlo como algo que Él no es: una máquina expendedora cósmica, una deidad tribal que favorece tus preferencias políticas, un abuelo permisivo al que no le preocupa la obediencia. Toda distorsión drena peso de la palabra. No estás tergiversando un concepto. Estás tergiversando a una persona. Y esa persona es la fuente de toda la GLORIA del universo.
 
@@ -77,11 +73,9 @@ No puedes generar gravedad sin masa. No puedes adquirir masa aparentando peso. L
 
 Los fariseos eran las personas más visiblemente religiosas del Israel del primer siglo. Oraban en público, ayunaban dos veces por semana, daban el diezmo hasta de las hierbas del huerto, memorizaban la Escritura y mantenían una estricta pureza ritual.[^pharisee-practices] Eran aquellos a quienes la persona común miraba y pensaba: si alguien tiene GLORIA, son ellos. Jesús los miró y dijo:
 
-> «Cuídense de no practicar su justicia delante de los hombres para ser vistos por ellos; de otra forma no tendrán recompensa de su Padre que está en los cielos».
+> Cuídense de no practicar su justicia delante de los hombres para ser vistos por ellos; de otra manera no tendrán recompensa de su Padre que está en los cielos.
 >
 > Mateo 6:1 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Recorre los tres pilares (dar, orar, ayunar) y en cada caso el diagnóstico es el mismo. Actúan el peso para un público. El público les da la recompensa: reputación, respeto, la estima de la comunidad. Reciben exactamente lo que buscan. Aprobación humana a cambio de aprobación humana. Vapor intercambiado por vapor. Ninguna GLORIA cambia de manos.
 
@@ -99,11 +93,9 @@ La pregunta que sigue es cómo.
 
 Pablo la responde:
 
-> «Pero nosotros todos, con el rostro descubierto, contemplando como en un espejo la gloria del Señor, nos vamos transformando en la misma imagen de gloria en gloria, como por el Señor, el Espíritu».
+> Pero todos nosotros, con el rostro descubierto, contemplando como en un espejo la gloria del Señor, estamos siendo transformados en la misma imagen de gloria en gloria, como por el Señor, el Espíritu.
 >
 > 2 Corintios 3:18 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El mecanismo es contemplar: mirar, permanecer en la presencia, mantenerse orientado hacia la fuente. La transformación va de *doxa* en *doxa*, de una medida de GLORIA a una mayor, y es continua.
 
@@ -118,8 +110,6 @@ El sufrimiento pertenece a esta lista, aunque es el que nadie pide. Pedro escrib
 > «…el Espíritu de gloria y de Dios reposa sobre ustedes».
 >
 > 1 Pedro 4:14 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El Espíritu de gloria (el Espíritu portador de GLORIA) reposa específicamente sobre quienes absorben la vergüenza por causa de Cristo. La valoración del mundo y la valoración de Dios van en direcciones opuestas. El mundo dice que has perdido peso: reputación, posición, la aprobación de quienes importan. Dios dice que el Espíritu de GLORIA reposa sobre ti. El sufrimiento orientado hacia Cristo no es pérdida de peso. Es cercanía en su forma más costosa, y la cercanía es el mecanismo. La cruz no fue un accidente en el arco de la GLORIA. Fue el mecanismo.
 
@@ -144,8 +134,6 @@ Cuando digas «a Dios sea la gloria» de ahora en adelante, quiere decir GLORIA.
 Cuando cantes «gloria a Dios» el domingo por la mañana, recuerda a los pastores llenos de gran temor en un campo oscuro a las afueras de Belén (Lucas 2:9-10). Recuerda que la Shekiná no había aparecido en seiscientos años y luego apareció a personas que no estaban en un Templo, que no cumplían ningún deber religioso, que no estaban calificadas por ningún criterio que el sistema religioso habría reconocido. Les apareció a ellos porque eso es lo que hace la GLORIA: va adonde va, llega cuando llega, no espera a los calificados ni a los preparados.
 
 Cuando leas «vimos Su gloria» (Juan 1:14), recuerda que Moisés no pudo entrar en la tienda (Éxodo 40:35).
-
-<!-- VERIFY-NBLA -->
 
 La manzana sigue cayendo. Dios sigue siendo pesado. La única pregunta es si estás lo bastante cerca para sentirlo.
 

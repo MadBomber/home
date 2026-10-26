@@ -22,8 +22,6 @@ La Biblia responde muchísimo. No lo responde todo. Hay preguntas que plantea y 
 >
 > Deuteronomio 29:29 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Ese versículo recorre toda la colección y cambia de función a medida que avanza el argumento: consuelo al principio, etiqueta de advertencia a la mitad, veredicto sobre los movimientos que lo ignoraron y, por último, criterio de juicio. El peligro nunca fue el espacio en blanco. El peligro es la voz segura de sí misma que entra en él y se atribuye una autorización que nunca recibió.
 
 Estos cinco ensayos siguen la pista de esa voz: de dónde viene, en qué se convierte y cómo reconocerla antes de que te cueste todo.

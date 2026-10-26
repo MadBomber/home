@@ -39,11 +39,9 @@ Génesis 4:17 provoca esa pregunta.
 
 ## Un hilo
 
-> «Y conoció Caín a su mujer, la cual concibió y dio a luz a Enoc».
+> Y conoció Caín a su mujer, y ella concibió y dio a luz a Enoc.
 >
 > Génesis 4:17 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Pocas palabras: Caín conoció a su mujer. Sin presentación. Sin explicación. Sin historia de origen. El texto no dice de dónde salió ella. Supone que ya lo sabes o que no lo preguntarás. Todo lector lo pregunta.
 
@@ -61,17 +59,13 @@ Jala el tercer hilo: ¿quién fue en realidad expulsado del huerto? Génesis 3:2
 >
 > Génesis 3:23-24 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 «Lo», el hombre. No «a ellos y a todos sus descendientes». El texto no dice «y todos sus descendientes». Cuál pudo ser la condición de los hijos nacidos fuera del huerto (antes o después de la expulsión) el texto no lo aborda. Luego, en Génesis 4:16, Caín llega a la tierra de Nod. Un destino con nombre. Con gente ya en él. El texto tampoco los explica.
 
 Jala el cuarto hilo: el marco moral a través del cual lees. La prohibición del matrimonio entre parientes cercanos aparece en Levítico 18. Si se toman las genealogías de Génesis como cronología literal (el marco que presenta el texto mismo), Levítico 18 llega unos 2.500 años después de Adán. El instinto es leer esa prohibición hacia atrás, sentir lo incorrecto de que un hermano se case con una hermana y llevar ese sentimiento a Génesis 4. Pero la ley aún no había sido dada. Abraham se casó con su media hermana y el texto no registra transgresión alguna.
 
-> «Además, en verdad es mi hermana, hija de mi padre, pero no hija de mi madre, y vino a ser mi mujer».
+> Además, en realidad es mi hermana, hija de mi padre, pero no hija de mi madre. Ella vino a ser mi mujer.
 >
 > Génesis 20:12 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Ningún reproche. Ninguna prohibición violada. Aplicar Levítico 18 a Génesis 4 es un anacronismo: llevar un marco legal posterior a un relato anterior y esperar que el relato lo cumpla.
 
@@ -105,35 +99,27 @@ Jesús ya los había nombrado, antes de que ellos se nombraran a sí mismos.
 >
 > Apocalipsis 2:6 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Esa palabra, *aborrezco*, es deliberada. Jesús no dice que desaprueba a los nicolaítas ni que su enseñanza esté equivocada. Usa para ellos la misma palabra que usa para lo que Dios aborrece. Para cuando se llega a Pérgamo, la enseñanza se ha extendido más.
 
-> «Así también tú tienes algunos que sostienen la doctrina de los nicolaítas».
+> ’Así tú también tienes algunos que de la misma manera mantienen la doctrina de los nicolaítas.
 >
 > Apocalipsis 2:15 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La conexión entre los nicolaítas y los movimientos gnósticos posteriores es debatida: la identificación es tradicional, no está establecida. Lo que no se discute es el patrón que Jesús nombra: conocimiento reservado a los de adentro, autoridad privada, enseñanzas que pretenden llegar detrás del registro público. El mismo patrón aparece en la referencia a Balaam de Apocalipsis 2:14 y en Tiatira, con una profetisa a quien Jesús llama Jezabel, cuya enseñanza Él llama las profundidades de Satanás (Apocalipsis 2:20, 24).
 
 La primera carta de Juan fue escrita contra el mismo movimiento.
 
-> «Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que contemplamos y palparon nuestras manos, acerca del Verbo de vida…».
+> Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros propios ojos, lo que hemos contemplado y lo que han tocado nuestras manos, esto escribimos acerca del Verbo de vida.
 >
 > 1 Juan 1:1 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Juan no escribe teología abstracta. Insiste en una realidad física, encarnada, de testigo ocular, contra personas que lo espiritualizaban todo hasta hacerlo desaparecer, que afirmaban que los detalles físicos no importaban y que el significado real solo era accesible a quienes tenían el conocimiento correcto. El antídoto del gnosticismo, para Juan, no es el argumento. Es el testimonio. Nosotros estuvimos allí. Oímos. Vimos. Tocamos. Sea lo que sea que ustedes afirmen saber en privado, nosotros tenemos algo que lo supera.
 
 Pablo nombró los espacios en blanco específicos que se estaban llenando.
 
-> «Que nadie los descalifique, insistiendo en la humillación de sí mismo y en la adoración de los ángeles, adentrándose en lo que ha visto, hinchado sin causa por su mente carnal…».
+> Nadie los defraude de su premio deleitándose en la humillación de sí mismo y en la adoración de los ángeles, basándose en las visiones que ha visto, envanecido sin causa por su mente carnal.
 >
 > Colosenses 2:18 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 La jerarquía angelical. La visión privada. La experiencia espiritual inflada hasta convertirse en credencial. No son pecados genéricos. Son espacios en blanco específicos: lo que la Biblia dice sobre el ámbito angelical, lo que no dice, y lo que una voz segura puede rellenar en el silencio entre una cosa y otra.
 
@@ -145,19 +131,15 @@ En [*No lo sé*](/es/blog/i-do-not-know/), Deuteronomio 29:29 era un consuelo. L
 >
 > Deuteronomio 29:29 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Las cosas secretas pertenecen a Dios. No al maestro gnóstico. No al líder con una revelación privada que a la congregación no se le dio. No al profeta cuya visión nadie más presenció. Lo que pertenece a Dios no te corresponde reclamarlo. Quien llena el silencio con seguridad sistemática, enseñable y doctrinal está reclamando algo que no se le dio.
 
 Hay una diferencia entre buscar y reclamar. Buscar significa adentrarse en el texto, seguir cada hilo hasta su final, llegar al borde y detenerse allí. El hilo de la esposa de Caín es un ejemplo. Buscar es sincero sobre lo que halla, incluso cuando no halla nada. Los gnósticos no buscaron. Reclamaron. Cruzaron el borde y hablaron como si tuvieran autorización. La seguridad no se ganó en el borde del texto. Se fabricó más allá de él.
 
 Proverbios lo resume con la menor cantidad posible de palabras.
 
-> «Toda palabra de Dios es digna de confianza; Él es escudo para los que en Él se refugian. No añadas a Sus palabras, no sea que te reprenda, y seas hallado mentiroso».
+> Probada es toda palabra de Dios; Él es escudo para los que en Él se refugian. No añadas a Sus palabras, no sea que Él te reprenda y seas hallado mentiroso.
 >
 > Proverbios 30:5-6 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 No añadas a Sus palabras. El silencio es el límite. Habla con autoridad más allá de ese límite y no estás enseñando. Estás mintiendo. El texto es así de directo.
 
@@ -173,8 +155,6 @@ Esa segunda cláusula no es una retirada. No es el sonido de alguien que se rind
 >
 > Hebreos 11:1 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 Léelo con cuidado, porque se malinterpreta con facilidad. La fe es certeza y convicción, no un encogimiento de hombros, no una conjetura, no la suspensión voluntaria del juicio. La Biblia nunca pide una fe ciega. Pide lo contrario: fe con los ojos abiertos, fe que tiene razones. Y las razones no son abstractas. Son el registro de tu propia vida con Dios, las veces que Él estuvo allí en la desesperación más honda, los momentos en que estabas seguro de estar solo y descubriste que no lo estabas.
 
 No estabas solo. Nunca has estado solo.
@@ -183,15 +163,11 @@ No estabas solo. Nunca has estado solo.
 >
 > Hebreos 13:5 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
 A Israel se le ordenó marcar los lugares donde eso se comprobó. Cuando el pueblo cruzó el Jordán en seco, Dios les dijo que sacaran doce piedras y las pusieran en la ribera opuesta.
 
-> «Cuando sus hijos pregunten en el futuro: “¿Qué significan estas piedras para ustedes?”, entonces les responderán que las aguas del Jordán fueron cortadas delante del arca del pacto del SEÑOR».
+> Cuando sus hijos pregunten: «¿Qué significan estas piedras para ustedes?», entonces les responderán: «Es que las aguas del Jordán quedaron cortadas delante del arca del pacto del SEÑOR. Cuando esta pasó el Jordán, las aguas del Jordán quedaron cortadas».
 >
 > Josué 4:6-7 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Las piedras no eran decoración. Eran hitos, señales puestas en el lugar exacto donde Dios había actuado, para que años después hubiera una historia que contar. Toda vida de fe sincera las acumula. El momento en que no deberías haberlo logrado, y lo lograste. La provisión que llegó sin explicación natural. La presencia en la habitación oscura. Estas son tus piedras. Son la razón por la que el borde no tiene que aterrarte: ya te has parado antes sobre este Dios, y Él te sostuvo.
 
@@ -200,8 +176,6 @@ Por eso jalar el hilo hasta la última pulgada es una disciplina, no un peligro.
 > «Así que la fe viene del oír, y el oír, por la palabra de Cristo».
 >
 > Romanos 10:17 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El estudio bíblico (adentrarse en el texto difícil, seguir la pregunta hasta el borde, negarse a retroceder hacia una falsa certeza) es oír la palabra con toda tu atención. El borde no es donde la fe se rompe. El borde es donde se entrena.
 

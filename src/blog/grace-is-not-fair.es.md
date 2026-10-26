@@ -42,11 +42,10 @@ Eso no es una historia sobre el trabajo. Es una historia que contó Jesús, y la
 
 El relato está en Mateo 20, y el dueño del viñedo responde él mismo a la queja.
 
-> «Amigo, no te hago ninguna injusticia. ¿No conviniste conmigo en un denario? Toma lo que es tuyo y vete. Yo quiero darle a este último lo mismo que a ti. ¿Acaso no me es lícito hacer lo que quiero con lo que es mío? ¿O ves con malos ojos que yo sea bueno?»
+> Pero respondiendo el hacendado, dijo a uno de ellos: «Amigo, no te hago ninguna injusticia; ¿no conviniste conmigo en un denario? »Toma lo que es tuyo, y vete; pero yo quiero darle a este último lo mismo que a ti. ¿No me es lícito hacer lo que quiero con lo que es mío? ¿O es tu ojo malo porque yo soy bueno?.
 >
 > Mateo 20:13-15 (NBLA)
 
-<!-- VERIFY-NBLA -->
 <!-- TRANSLATOR NOTE: The English text points to an ESV footnote on the last question ("is your eye bad because I am good?"). The Spanish text above renders the idiom in its interpretive form; the literal Greek is rendered in the paragraph below. Confirm the NBLA wording and whether its footnote matches. -->
 
 La última pregunta, en griego, dice algo más literal: ¿es malo tu ojo porque yo soy bueno? Esa lectura se acerca más a lo que el griego está haciendo. El agravio no es en realidad por el dinero. Es por lo que el espectáculo de la buena fortuna de otro le hace al rostro de un hombre.
@@ -79,21 +78,17 @@ El pez es lo que todos recuerdan. Lo que casi nadie cita es lo que oró dentro d
 
 El capítulo 2 es un salmo de acción de gracias. No es de mala gana. Jonás, ahogado y devuelto a la vida, suena genuinamente agradecido, y termina la oración declarando que la salvación pertenece al SEÑOR (Jonás 2:9). Pero antes de llegar ahí, dice esto.
 
-> «Los que dan atención a ídolos vanos abandonan su esperanza de misericordia».
+> Los que confían en ídolos vanos Su propia misericordia abandonan.
 >
 > Jonás 2:8 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Fíjate en la postura que fija esa frase. Está dentro de un rescate que no se ganó, que no pidió y del que huyó activamente. Y desde adentro, su opinión teológica meditada es que los idólatras han perdido todo derecho al amor leal de Dios. Está agradecido por la gracia y seguro de que otros se han descalificado de ella, en el mismo aliento, en la misma oración.
 
 Dos capítulos después, Nínive se arrepiente. Dios se compadece (Jonás 3:5-10). Y Jonás, que acaba de ver a toda una ciudad recibir lo que él recibió, presenta su objeción.
 
-> «Te ruego, oh SEÑOR, ¿no era esto lo que yo decía cuando estaba aún en mi tierra? Por eso me anticipé a huir a Tarsis, porque sabía que Tú eres un Dios clemente y compasivo, lento para la ira y abundante en misericordia, que te arrepientes de la calamidad».
+> Y oró al SEÑOR: ¡Ah SEÑOR! ¿No era esto lo que yo decía cuando aún estaba en mi tierra? Por eso me anticipé a huir a Tarsis. Porque yo sabía que Tú eres un Dios clemente y compasivo, lento para la ira y rico en misericordia, y que te arrepientes del mal anunciado.
 >
 > Jonás 4:2 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Lee lo que realmente está diciendo. No huyó porque dudara del carácter de Dios. Huyó porque estaba seguro de él. Sabía que la misericordia vendría, sabía que la ciudad la recibiría, y no quería ser el hombre que entregara el mensaje que la hacía posible. Es el único profeta de las Escrituras que huye de una asignación porque podría funcionar.
 
@@ -107,21 +102,17 @@ La otra mitad ocurre en un campo.
 
 El hijo mayor vuelve del trabajo, oye música, le pregunta a un siervo qué pasa y se niega a cruzar la puerta. Su padre sale a buscarlo. Es la segunda vez en este relato que el padre sale de la casa para ir a buscar a uno de sus hijos, y recibe una fracción de la atención que recibe el primer viaje.
 
-> «Mira, por tantos años te he servido y nunca he desobedecido ninguno de tus mandamientos, y a mí nunca me has dado un cabrito para regocijarme con mis amigos; pero cuando vino este hijo tuyo, que ha consumido tu hacienda con rameras, mataste para él el becerro engordado».
+> Pero él le dijo al padre: «Mira, por tantos años te he servido y nunca he desobedecido ninguna orden tuya, y sin embargo, nunca me has dado un cabrito para regocijarme con mis amigos; pero cuando vino este hijo tuyo, que ha consumido tus bienes con rameras, mataste para él el becerro engordado».
 >
 > Lucas 15:29-30 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Ha estado llevando las cuentas. Años de ellas. Y las ha llevado mientras vivía en la tierra de su padre, comía la comida de su padre y vestía ropa que su padre pagó, lo cual significa que cada anotación del libro se escribió con una pluma que él no compró. Descubre el concepto de la justicia el único día en que le cuesta algo.
 
 Fíjate cómo llama a su hermano. No lo llama su hermano. Dice este hijo tuyo.
 
-> «Pero era necesario hacer fiesta y regocijarnos, porque este hermano tuyo estaba muerto y ha vuelto a la vida; estaba perdido y ha sido hallado».
+> Pero era necesario hacer fiesta y regocijarnos, porque este, tu hermano, estaba muerto y ha vuelto a la vida; estaba perdido y ha sido hallado.
 >
 > Lucas 15:32 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 El hijo puso la distancia en un pronombre. El padre la quitó. Esa es toda la corrección, y es lo último que dice el padre.
 
@@ -189,11 +180,9 @@ Israel está a unas seis semanas del pacto en el Sinaí. Moisés está en lo alt
 
 Lo que sucede después es que Dios renueva el pacto. Y de camino a renovarlo, se presenta.
 
-> «El SEÑOR, el SEÑOR, Dios compasivo y clemente, lento para la ira y abundante en misericordia y fidelidad; que guarda misericordia a millares, que perdona la iniquidad, la transgresión y el pecado; pero que de ningún modo tendrá por inocente al culpable...»
+> El SEÑOR, el SEÑOR, Dios compasivo y clemente, lento para la ira y abundante en misericordia y verdad; que guarda misericordia a millares, el que perdona la iniquidad, la transgresión y el pecado, y que no tendrá por inocente al culpable...
 >
 > Éxodo 34:6-7 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 No te saltes la última cláusula. La misma oración que dice que perdona dice que de ningún modo tendrá por inocente al culpable, y cualquier explicación de la gracia que cite la primera mitad y descarte la segunda le está haciendo al versículo exactamente lo que ya se le hizo a la palabra.
 
@@ -211,15 +200,11 @@ Saúl ha muerto. David está en su trono. En algún lugar más allá del Jordán
 
 David sale a buscarlo.
 
-> «No temas, porque ciertamente te mostraré bondad por amor a tu padre Jonatán, y te restauraré toda la tierra de tu padre Saúl; y tú comerás siempre a mi mesa».
+> David le dijo: «No temas, porque ciertamente te mostraré bondad por amor a tu padre Jonatán, y te devolveré toda la tierra de tu abuelo Saúl; y tú comerás siempre a mi mesa».
 >
 > 2 Samuel 9:7 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
-Mefiboset responde como un hombre que nunca ha dudado de lo que es. «¿Quién es su siervo, para que se fije en un perro muerto como yo?» (2 Samuel 9:8).
-
-<!-- VERIFY-NBLA -->
+Mefiboset responde como un hombre que nunca ha dudado de lo que es. «¿Quién es su siervo, para que tome en cuenta a un perro muerto como yo?» (2 Samuel 9:8).
 
 En la mayoría de las conversaciones sobre esto se usan dos palabras como si fueran intercambiables, y no son la misma palabra, y esta sala las separa mejor que cualquier diccionario.
 
@@ -227,9 +212,7 @@ La misericordia es que al heredero rival no lo ejecuten. La gracia es que coma a
 
 Y fíjate a qué está anclada la bondad, porque el texto lo dice en voz alta en lugar de dejarlo a la inferencia. No es por algo que haya en Mefiboset. No hay nada en Mefiboset. Es por amor a Jonatán. El pacto de otro, el nombre de otro, y un hombre sin bienes y sin piernas sanas come sobre esa base el resto de su vida.
 
-El capítulo termina así: «Así habitó Mefiboset en Jerusalén, porque comía siempre a la mesa del rey. Y era cojo de ambos pies» (2 Samuel 9:13).
-
-<!-- VERIFY-NBLA -->
+El capítulo termina así: «Pero Mefiboset moraba en Jerusalén, porque siempre comía a la mesa del rey. Estaba lisiado de ambos pies» (2 Samuel 9:13).
 
 El escritor guardó esa última cláusula y la puso justo al lado de la mesa.
 
@@ -245,27 +228,23 @@ El punto no es que seas peor que ellos. El punto es que estás sentado donde ell
 
 Pablo dicta el veredicto sobre todo el procedimiento en una sola oración.
 
-> «Por lo cual no tienes excusa, oh hombre, tú que juzgas; porque al juzgar a otro, te condenas a ti mismo, ya que tú que juzgas practicas las mismas cosas».
+> Por lo cual no tienes excusa, oh hombre, quienquiera que seas tú que juzgas, pues al juzgar a otro, a ti mismo te condenas, porque tú que juzgas practicas las mismas cosas.
 >
 > Romanos 2:1 (NBLA)
 
-<!-- VERIFY-NBLA -->
-
-Y luego, un capítulo más adelante, quita la silla. «Pues no hay distinción; por cuanto todos pecaron y no alcanzan la gloria de Dios, siendo justificados gratuitamente por Su gracia mediante la redención que es en Cristo Jesús» (Romanos 3:22-24). No hay distinción y no hay distancia, lo cual significa que no queda nadie parado lo bastante lejos como para conjugar sobre él. <!-- VERIFY-NBLA -->
+Y luego, un capítulo más adelante, quita la silla. «Porque no hay distinción, por cuanto todos pecaron y no alcanzan la gloria de Dios. Todos son justificados gratuitamente por Su gracia por medio de la redención que es en Cristo Jesús» (Romanos 3:22-24). No hay distinción y no hay distancia, lo cual significa que no queda nadie parado lo bastante lejos como para conjugar sobre él.
 
 Se está formando una objeción justa en este punto, y merece una respuesta directa en lugar de una nerviosa. Si nada de esto se gana, y nada de esto puede ganarse, entonces ¿para qué hacer algo? ¿Por qué no tomar el jornal, irse a casa y portarse como uno quiera?
 
-A Pablo lo acusaron de predicar exactamente eso, lo cual merece notarse por sí mismo. El mensaje que nadie acusa jamás de ser demasiado laxo no es el que él predicaba. Su respuesta fueron tres palabras: «¡De ningún modo!» (Romanos 6:1-2). Y la respuesta más completa es que la gracia no es un permiso, es un maestro. Se ha manifestado para salvación de todos los hombres, instruyéndonos a renunciar a la impiedad y a los deseos mundanos (Tito 2:11-12). Las buenas obras son reales, y vienen después, y fueron preparadas de antemano para personas que ya eran hechura Suya (Efesios 2:10). Nadie trabaja para llegar a la mesa. Todos los que están en la mesa trabajan. <!-- VERIFY-NBLA -->
+A Pablo lo acusaron de predicar exactamente eso, lo cual merece notarse por sí mismo. El mensaje que nadie acusa jamás de ser demasiado laxo no es el que él predicaba. Su respuesta fueron tres palabras: «¡De ningún modo!» (Romanos 6:1-2). Y la respuesta más completa es que la gracia no es un permiso, es un maestro. Se ha manifestado para salvación de todos los hombres, instruyéndonos a renunciar a la impiedad y a los deseos mundanos (Tito 2:11-12). Las buenas obras son reales, y vienen después, y fueron preparadas de antemano para personas que ya eran hechura Suya (Efesios 2:10). Nadie trabaja para llegar a la mesa. Todos los que están en la mesa trabajan.
 
 ## El primero
 
 Pablo no es un hombre al que hubiera que explicarle el concepto desde fuera. Guardó los mantos en un apedreamiento y luego fue de casa en casa sacando a la gente de ellas y metiéndola en la cárcel.
 
-> «Palabra fiel y digna de ser aceptada por todos: que Cristo Jesús vino al mundo para salvar a los pecadores, de los cuales yo soy el primero».
+> Palabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para salvar a los pecadores, entre los cuales yo soy el primero.
 >
 > 1 Timoteo 1:15 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Mira lo que acaba de hacer con la gramática. Todos los demás, en cada relato de aquí, pusieron a otro hombre en la silla de la tercera persona. Pablo se sube él mismo y cierra la puerta tras de sí. No entre ellos. No uno de ellos. El primero. Primero en la fila que está describiendo.
 
@@ -273,11 +252,9 @@ Mira lo que acaba de hacer con la gramática. Todos los demás, en cada relato d
 
 Y luego da la razón por la que lo dejaron ir.
 
-> «Pero por esto hallé misericordia, para que en mí, el primero, Jesucristo demostrara toda Su perfecta paciencia como ejemplo para los que habrían de creer en Él para vida eterna».
+> Sin embargo, por esto hallé misericordia, para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna.
 >
 > 1 Timoteo 1:16 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 No le entregaron la misericordia como un arreglo privado entre él y Dios. Se la entregaron como una demostración, a propósito, en beneficio de todos los que alguna vez estarían donde él estuvo y se preguntarían si la oferta llegaba tan lejos.
 
@@ -287,11 +264,9 @@ Empezó mirando a otras personas. Terminó mirándose a sí mismo. Y lo último 
 
 Tres cruces. Uno de los dos criminales se burla de Jesús junto con la multitud (Lucas 23:39). El otro le responde.
 
-> «¿Ni siquiera temes tú a Dios cuando estás bajo la misma condena? Nosotros, a la verdad, justamente, porque recibimos lo que merecieron nuestros hechos; pero este no ha hecho nada malo».
+> «¿Ni siquiera temes tú a Dios a pesar de que estás bajo la misma condena? Nosotros a la verdad, justamente, porque recibimos lo que merecemos por nuestros hechos; pero este nada malo ha hecho».
 >
 > Lucas 23:40-41 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 Lo primero que hace es saldar cuentas. Recibe lo que merecieron sus hechos. Ese es el patio al ponerse el sol, y este hombre mira el total, lo compara con el trabajo y está de acuerdo. Es la única persona en todo esto que examina lo que se ha ganado y dice que la cifra es correcta.
 
@@ -304,8 +279,6 @@ No tiene nada que ofrecer ni tiempo para ofrecerlo. Ninguna restitución. Ningú
 > «En verdad te digo: hoy estarás conmigo en el paraíso».
 >
 > Lucas 23:43 (NBLA)
-
-<!-- VERIFY-NBLA -->
 
 No «estarás en el paraíso». Conmigo. El destino es la compañía.
 

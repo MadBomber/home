@@ -43,7 +43,7 @@ Hay dos clases de personas que hacen preguntas difíciles sobre la Biblia. La pr
 
 Jesús se enfrentó a ambos con regularidad. A los que preguntaban con sinceridad les dio enseñanza paciente y directa. A Sus opositores les dio algo muy distinto. Una mujer se casa con siete hermanos, uno tras otro, conforme a la ley. En la resurrección, ¿de cuál será esposa? Los saduceos presentaron este escenario no para entender la resurrección, sino para ridiculizarla (Mateo 22:23-28). Jesús no respondió la pregunta tal como se planteó. Expuso la premisa.
 
-> «Están equivocados, porque no conocen las Escrituras ni el poder de Dios. Porque en la resurrección ni se casan ni se dan en matrimonio, sino que son como los ángeles en el cielo».
+> Pero Jesús les respondió: Están equivocados por no comprender las Escrituras ni el poder de Dios. Porque en la resurrección, ni se casan ni son dados en matrimonio, sino que son como los ángeles de Dios en el cielo.
 >
 > Mateo 22:29-30 (NBLA)
 
@@ -51,11 +51,9 @@ La pregunta reveló lo que el interrogador daba por sentado, no un vacío en lo 
 
 Proverbios sostiene ambas respuestas en tensión, sin disculparse.
 
-> «No respondas al necio de acuerdo con su necedad, para que no seas tú también como él. Responde al necio de acuerdo con su necedad, para que no se estime sabio en su propia opinión».
+> No respondas al necio de acuerdo con su necedad, para que no seas tú también como él. Responde al necio según su necedad se merece, para que no sea sabio ante sus propios ojos.
 >
 > Proverbios 26:4-5 (NBLA)
-<!-- VERIFY-NBLA -->
-
 A veces te involucras para impedir que el necio reclame la victoria. A veces no te involucras para evitar que te arrastre. La sabiduría consiste en saber cuándo.
 
 Pero no toda pregunta difícil viene de otra persona. Algunas de las preguntas más sinceras son las que nos hacemos en privado: en la oscuridad, en el duelo, en medio de la noche cuando nadie mira. ¿Qué pasó con mi hijo que murió antes de poder creer? ¿Está mi padre en el cielo? ¿Por qué Dios no respondió esa oración? No hay ningún presumido en la habitación. Nadie está tendiendo una trampa. Solo una persona y un silencio que la Escritura no llena.
@@ -70,11 +68,9 @@ Lo más honesto que un estudiante de la Escritura puede decir a veces es tambié
 
 Pedro llama a los creyentes a estar preparados con algo más.
 
-> «sino santifiquen a Cristo como Señor en sus corazones, estando siempre preparados para presentar defensa con mansedumbre y reverencia ante todo el que les demande razón de la esperanza que hay en ustedes».
+> sino santifiquen a Cristo como Señor en sus corazones, estando siempre preparados para presentar defensa ante todo el que les demande razón de la esperanza que hay en ustedes. Pero háganlo con mansedumbre y reverencia.
 >
 > 1 Pedro 3:15 (NBLA)
-<!-- VERIFY-NBLA -->
-
 La defensa que Pedro describe no es una explicación doctrinal de cada silencio. Es un relato de esperanza: la razón concreta y vivida por la que confías en el Dios que sostiene lo que no te ha dicho. Ese relato es tuyo. No exige saber qué escribió Jesús en la tierra. Exige saber por qué confías en el que lo escribió.
 
 El buscador sincero merece las dos frases. No lo sé. Pero confío en Dios, y aquí está por qué.
@@ -85,7 +81,7 @@ Esos tres hechos, sostenidos juntos con honestidad, producen una pregunta que to
 
 Antes de preguntar qué es lo que la Biblia no nos dice, tenemos que preguntar para qué es la Biblia. La Biblia no es un libro de texto de ciencias. No es una historia completa del universo. Es un libro sobre una relación: la relación entre Dios y la humanidad, rota por el pecado y restaurada a un costo infinito por medio de Jesucristo. Juan declara con claridad el propósito de su propio Evangelio.
 
-> «pero estos han sido escritos para que ustedes crean que Jesús es el Cristo, el Hijo de Dios, y para que al creer, tengan vida en Su nombre».
+> pero estas se han escrito para que ustedes crean que Jesús es el Cristo, el Hijo de Dios; y para que al creer, tengan vida en Su nombre.
 >
 > Juan 20:31 (NBLA)
 
@@ -123,11 +119,9 @@ No lo es. Es la más honesta de todos.
 
 Job las sostuvo con honestidad. Discutió con Dios, exigió respuestas y rechazó las explicaciones cómodas que le ofrecían sus amigos. Al final del libro Dios no reprendió a Job por sus preguntas. Reprendió a los amigos, los que tenían respuesta para todo, cuya teología tan segura resultó ser equivocada.
 
-> «Mi ira se ha encendido contra ti y contra tus dos amigos, porque no han hablado de Mí lo que es correcto, como Mi siervo Job».
+> Se ha encendido Mi ira contra ti y contra tus dos amigos, porque no han hablado de Mí lo que es recto, como Mi siervo Job.
 >
 > Job 42:7 (NBLA)
-<!-- VERIFY-NBLA -->
-
 El hombre con preguntas estaba más en lo correcto delante de Dios que los hombres con respuestas.
 
 ---
@@ -148,11 +142,9 @@ Todo silencio de la Escritura merece la misma humildad. Lo que Dios decidió no 
 
 La incompletud es visible incluso dentro de los pasajes que sí hablan. A los profetas que recibieron visiones no se les dio un vocabulario adecuado para describirlas. Lee Ezequiel 1 con cuidado y cuenta las salvedades. Tres versículos hacia el final del capítulo usan la palabra «aspecto» una y otra vez.
 
-> «Y sobre la expansión que estaba sobre sus cabezas había algo semejante a un trono, con aspecto de zafiro; y sobre esa semejanza de trono había una semejanza con aspecto de hombre sentado en él. Y desde lo que parecía ser sus lomos hacia arriba vi algo como bronce refulgente, con aspecto de fuego en su interior, todo en derredor. Y desde lo que parecía ser sus lomos hacia abajo vi algo como fuego, y había un resplandor a su alrededor. Como el aspecto del arco iris que está en las nubes en un día de lluvia, así era el aspecto del resplandor en derredor. Tal era el aspecto de la semejanza de la gloria del Señor».
+> Sobre el firmamento que estaba por encima de sus cabezas había algo semejante a un trono, de aspecto como de piedra de zafiro; y en lo que se asemejaba a un trono, sobre él, en lo más alto, había una figura con apariencia de hombre. Entonces observé que en lo que parecían Sus lomos y hacia arriba, había algo como metal refulgente que lucía como fuego dentro de ella en derredor, y en lo que parecían Sus lomos y hacia abajo vi algo como fuego, y un resplandor a Su alrededor. Como el aspecto del arco iris que aparece en las nubes en un día lluvioso, así era el aspecto del resplandor en derredor. Tal era el aspecto de la semejanza de la gloria del SEÑOR. Cuando lo vi, caí rostro en tierra y oí una voz que hablaba.
 >
 > Ezequiel 1:26-28 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Ezequiel apila una comparación sobre otra no porque fuera un mal escritor, sino porque fue un escritor honesto. Vio algo que excedía el lenguaje a su alcance y lo relató con la mayor fidelidad que pudo. Daniel vio sus visiones y dijo dos veces que lo turbaron y lo alarmaron. Isaías vio al Señor sentado en un trono alto y sublime, y su primera palabra fue «estoy perdido». Juan, en Apocalipsis, describió langostas con rostros como rostros humanos, cabellos como cabellos de mujer y dientes como dientes de leones, y armó un cuadro con cosas conocidas para algo que nunca había visto.[^prophetic-visions]
 
 Estos escritores no fallaban en comunicar. Comunicaban en el borde de lo que la comunicación puede contener. La incompletud estuvo presente en el encuentro original. No la introdujeron después la traducción ni la transmisión. La visión excedió al recipiente desde el momento en que fue recibida.
@@ -169,22 +161,20 @@ Un niño oye por primera vez la historia de Caín y Abel. Caín mata a su herman
 
 El huerto plantea el mismo tipo de preguntas antes de que llegues siquiera al capítulo cinco. ¿Cuánto tiempo estuvieron Adán y Eva allí antes de la caída? ¿Días? ¿Siglos? Génesis no da ninguna cronología. ¿Estaban casados? Dios llevó a Eva a Adán, Adán la llamó hueso de sus huesos y carne de su carne (Génesis 2:22-23), y Génesis 2:24 establece el principio de una sola carne, pero no se describe ninguna ceremonia. ¿Por qué los leones no se los comieron? Génesis 1:29-30 sugiere que todas las criaturas comían plantas antes de la caída, y Pablo es explícito en que la creación misma cayó bajo la maldición.
 
-> «Porque la creación fue sujetada a vanidad, no de su propia voluntad, sino por causa de Aquel que la sujetó, en la esperanza de que la creación misma será libertada de la esclavitud de la corrupción a la libertad de la gloria de los hijos de Dios».
+> Porque la creación fue sometida a vanidad, no de su propia voluntad, sino por causa de Aquel que la sometió, en la esperanza de que la creación misma será también liberada de la esclavitud de la corrupción a la libertad de la gloria de los hijos de Dios.
 >
 > Romanos 8:20-21 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Pero la forma exacta del mundo antes de la caída (cómo eran los animales, qué se sentía ser humano antes de que todo se rompiera) sigue sin especificarse.
 
 Pasa a los Evangelios y los silencios son igual de llamativos. Lucas muestra a Jesús a los doce años en el templo, asombrando a los maestros con Sus preguntas y respuestas (Lucas 2:46-47). Luego, nada. Pasan dieciocho años antes de que Jesús aparezca de nuevo en el río Jordán para ser bautizado. ¿Qué hizo en esos años? El texto no lo dice. Juan 8 muestra a Jesús inclinándose para escribir algo en la tierra mientras una multitud espera con piedras. Fuera lo que fuera lo que escribió, los acusadores soltaron sus piedras y se fueron. Nunca sabremos qué fue.
 
-Las preguntas personales calan más hondo. ¿Qué pasa con un bebé que muere antes de poder profesar fe? La Biblia no lo dice. ¿Reconoceremos a nuestros seres queridos en el cielo? ¿Conservaremos la memoria, la personalidad, la forma particular de una relación? ¿Cómo se siente la eternidad desde adentro? Y luego está el niño que tienes enfrente, con la cara mojada de lágrimas, preguntando si el perro que amaba está en el cielo con Jesús. Esa pregunta merece una respuesta de niño. No una cita. La respuesta honesta es la única que tienes: no lo sé. Pero confío en Dios, y sé que Jesús te ama. Eclesiastés 3:21 llega al mismo lugar («¿Quién sabe si el espíritu del hombre sube hacia arriba y el espíritu de la bestia baja hacia la tierra?»), pero eso no se le cita a un niño en duelo. Sostienes la misma verdad en una forma que él pueda recibir. No lo sé. Pero confío en Dios, y sé que Jesús te ama. <!-- VERIFY-NBLA -->
+Las preguntas personales calan más hondo. ¿Qué pasa con un bebé que muere antes de poder profesar fe? La Biblia no lo dice. ¿Reconoceremos a nuestros seres queridos en el cielo? ¿Conservaremos la memoria, la personalidad, la forma particular de una relación? ¿Cómo se siente la eternidad desde adentro? Y luego está el niño que tienes enfrente, con la cara mojada de lágrimas, preguntando si el perro que amaba está en el cielo con Jesús. Esa pregunta merece una respuesta de niño. No una cita. La respuesta honesta es la única que tienes: no lo sé. Pero confío en Dios, y sé que Jesús te ama. Eclesiastés 3:21 llega al mismo lugar («¿Quién sabe si el aliento de vida del hombre asciende hacia arriba y el aliento de vida del animal desciende hacia abajo, a la tierra?»), pero eso no se le cita a un niño en duelo. Sostienes la misma verdad en una forma que él pueda recibir. No lo sé. Pero confío en Dios, y sé que Jesús te ama.
 
 Luego están las tensiones teológicas que la Biblia sostiene sin resolver. ¿Cómo pueden ser plenamente verdaderas a la vez la soberanía de Dios y la libre voluntad humana? La Biblia insiste en ambas sin explicar cómo encajan. ¿Por qué se salvan unos y otros no, si Dios es soberano sobre todas las cosas? Romanos 9 plantea esto con toda su fuerza y no da la clase de explicación mecánica que muchos lectores quieren. ¿Continúa hoy el don de lenguas para los creyentes? Personas reflexivas y llenas del Espíritu que han leído los mismos textos han terminado en lados opuestos de esta cuestión durante siglos.
 
 En el borde cosmológico las preguntas se hacen mayores. ¿Qué existía antes de que Dios hablara y trajera la creación a la existencia? ¿Cuál es el origen completo de Satanás? Isaías 14 y Ezequiel 28 dan fragmentos, no un relato completo. ¿Cuál es la naturaleza del mundo espiritual, la jerarquía de ángeles y demonios, la geografía de lo que hay más allá de lo que podemos ver? La Escritura da destellos. No da un mapa.
 
-Algunas preguntas caen en una categoría propia: la Biblia las aborda y aun así no las resuelve. ¿Adónde fue Jesús entre Su muerte y Su resurrección? Lucas 23:43 lo muestra diciéndole al ladrón: «hoy estarás conmigo en el paraíso». Hechos 2:31 dice que «no fue abandonado en el Hades, ni Su carne sufrió corrupción». Primera de Pedro 3:19 dice que «fue y proclamó a los espíritus encarcelados». Efesios 4:9 habla de uno que «había descendido a las regiones más bajas de la tierra». Estos pasajes coexisten. No terminan de componer un solo cuadro claro. Siglos de lectores cuidadosos han trazado el territorio de maneras distintas. La respuesta honesta a dónde estuvo Jesús el Sábado Santo es: no lo sé con exactitud, y eso no cambia nada de lo que ocurrió el domingo. <!-- VERIFY-NBLA -->
+Algunas preguntas caen en una categoría propia: la Biblia las aborda y aun así no las resuelve. ¿Adónde fue Jesús entre Su muerte y Su resurrección? Lucas 23:43 lo muestra diciéndole al ladrón: «hoy estarás conmigo en el paraíso». Hechos 2:31 dice que «NI FUE ABANDONADO EN EL HADES, NI Su carne SUFRIÓ CORRUPCIÓN». Primera de Pedro 3:19 dice que «fue y predicó a los espíritus encarcelados». Efesios 4:9 habla de uno que «había descendido a las profundidades de la tierra». Estos pasajes coexisten. No terminan de componer un solo cuadro claro. Siglos de lectores cuidadosos han trazado el territorio de maneras distintas. La respuesta honesta a dónde estuvo Jesús el Sábado Santo es: no lo sé con exactitud, y eso no cambia nada de lo que ocurrió el domingo.
 
 No son preguntas oscuras que solo hacen los eruditos. Son las preguntas que le llegan a cualquiera que lee con cuidado y piensa con honestidad. Llegan en los funerales, en las habitaciones de hospital, en medio de la noche. La Biblia no las responde, no porque haya fallado, sino porque fue escrita para otra cosa. Fue escrita para traernos a una relación con Dios. Sobre ese tema lo dice todo lo que necesitamos.
 
@@ -196,7 +186,7 @@ No vivimos de explicaciones. Vivimos de promesas.
 
 Hay una categoría de ignorancia más fundamental que «tengo la pregunta pero no la respuesta». Es la ignorancia de las preguntas que todavía no hemos aprendido a hacer, vacíos que no podemos ver porque no sabemos que están ahí.
 
-> «Porque Mis pensamientos no son sus pensamientos, ni sus caminos son Mis caminos, declara el Señor. Porque como los cielos son más altos que la tierra, así Mis caminos son más altos que sus caminos, y Mis pensamientos más que sus pensamientos».
+> «Porque Mis pensamientos no son los pensamientos de ustedes, ni sus caminos son Mis caminos», declara el SEÑOR. Porque como los cielos son más altos que la tierra, Así Mis caminos son más altos que sus caminos, y Mis pensamientos más que sus pensamientos.
 >
 > Isaías 55:8-9 (NBLA)
 
@@ -208,11 +198,9 @@ Podemos estar exactamente en esa posición delante de Dios. No tontos. Finitos. 
 
 El libro de Job lo vuelve concreto. Job pasa treinta y siete capítulos haciendo sus preguntas: preguntas duras, sinceras, angustiadas, sobre el sufrimiento y la justicia y por qué Dios permite lo que permite. Hace las preguntas correctas según el criterio humano. Entonces Dios habla desde el torbellino, y no responde ni una sola. Hace las Suyas.
 
-> «¿Dónde estabas tú cuando Yo fundaba la tierra? Házmelo saber, si tienes entendimiento. ¿Quién puso sus medidas? Ya lo sabes. ¿O quién extendió sobre ella cordel?»
+> ¿Dónde estabas tú cuando Yo echaba los cimientos de la tierra? Dímelo, si tienes inteligencia. ¿Quién puso sus medidas? Ya que sabes. ¿O quién extendió sobre ella cordel?
 >
 > Job 38:4-5 (NBLA)
-<!-- VERIFY-NBLA -->
-
 Las preguntas se prolongan por cuatro capítulos: los cimientos de la tierra, las puertas de la muerte, los almacenes de la nieve, las Pléyades, la presa del león, el nacimiento de la cabra montés.[^job-questions] Dios no está siendo cruel. Está revelando el marco de referencia que le faltaba a Job. Job preguntaba por su sufrimiento dentro de un marco humano. El marco de Dios incluye la arquitectura del cosmos.
 
 Las preguntas de Job no estaban equivocadas. Simplemente no eran las preguntas correctas, no al nivel donde vive de verdad la respuesta.
@@ -249,11 +237,9 @@ Tenemos la historia de la creación: que Dios hizo el mundo, y era bueno, e hizo
 
 Eso no es poco. Eso es todo lo que importa.
 
-> «Toda Escritura es inspirada por Dios y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, equipado para toda buena obra».
+> Toda Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, equipado para toda buena obra.
 >
 > 2 Timoteo 3:16-17 (NBLA)
-<!-- VERIFY-NBLA -->
-
 La palabra que carga el peso en ese pasaje es completo. No omnisciente. No sin preguntas. Completo. La persona que conoce lo que la Escritura revela tiene todo lo que necesita: para conocer a Dios, ser conocida por Él, vivir fielmente en el mundo, enfrentar la muerte sin desesperación, amar a su prójimo y aferrarse a la esperanza cuando la evidencia dice lo contrario.
 
 <!-- TRANSLATOR NOTE: The English argument rests on the English word "complete." The NBLA of 2 Timothy 3:17 reads «perfecto» (Greek artios), so I kept «completo» in the commentary as a gloss of the same Greek word, which is what the argument needs. Verify the NBLA wording of the verse. -->
@@ -280,11 +266,9 @@ La quinta es que la postura se contagia. Un maestro que llena los vacíos con op
 
 Proverbios 30:5-6 nombra lo que esto es.
 
-> «Toda palabra de Dios es digna de confianza; Él es escudo para los que en Él se refugian. No añadas a Sus palabras, no sea que te reprenda y seas hallado mentiroso».
+> Probada es toda palabra de Dios; Él es escudo para los que en Él se refugian. No añadas a Sus palabras, no sea que Él te reprenda y seas hallado mentiroso.
 >
 > Proverbios 30:5-6 (NBLA)
-<!-- VERIFY-NBLA -->
-
 No añadas a Sus palabras. La advertencia no es sobre una mala erudición ni sobre imprecisión teológica. Es sobre hablar en un registro de certeza que nunca fue autorizado: afirmar haber encontrado lo que Dios decidió ocultar, poner palabras en la boca de un Dios que no las dijo. La consecuencia que se nombra no es leve: serás hallado mentiroso.
 
 El antídoto no es complicado. Detente donde Dios se detuvo. Di lo que es verdad: no lo sé.
@@ -301,18 +285,16 @@ Esa es la respuesta honesta a la pregunta específica. No es lo último que tien
 
 No estás solo en ese borde. Jesús dijo a Sus discípulos:
 
-> «Pero el Consolador, el Espíritu Santo, a quien el Padre enviará en Mi nombre, Él les enseñará todas las cosas, y les recordará todo lo que Yo les he dicho».
+> Pero el Consolador, el Espíritu Santo, a quien el Padre enviará en Mi nombre, Él les enseñará todas las cosas, y les recordará todo lo que les he dicho.
 >
 > Juan 14:26 (NBLA)
-<!-- VERIFY-NBLA -->
-
 El Espíritu Santo es el maestro. Él conectará lo que necesite conectarse. Te dará lo que necesites cuando lo necesites. Tu tarea no es resolver cada silencio. Es mantenerte enseñable delante de Aquel que lo sabe todo y revela lo suficiente.
 
 Eso significa que tu prójimo en Cristo, que se hace las mismas preguntas con fe sincera, puede llegar a un lugar distinto del tuyo. En los asuntos donde la Escritura calla, eso no es un problema que arreglar. Es la forma normal en que creyentes guiados por el Espíritu trabajan con fidelidad en el borde de lo que ha sido revelado. Sostén tus conclusiones con las manos abiertas. El silencio nunca fue tuyo para llenarlo.
 
 Un día todo se resuelve. Pablo lo dijo al final del capítulo más famoso del Nuevo Testamento.
 
-> «Porque ahora vemos por un espejo, veladamente, pero entonces veremos cara a cara; ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido plenamente».
+> Porque ahora vemos por un espejo, veladamente, pero entonces veremos cara a cara. Ahora conozco en parte, pero entonces conoceré plenamente, como he sido conocido.
 >
 > 1 Corintios 13:12 (NBLA)
 
@@ -328,6 +310,6 @@ Por ahora. Entonces. El silencio no es permanente. Toda pregunta sincera que lle
 
 ## Notas
 
-[^prophetic-visions]: Daniel 7:15, 28 (Daniel turbado y alarmado por sus visiones); Isaías 6:1-5 (Isaías ve al Señor sentado en un trono alto y sublime y dice «estoy perdido»); Apocalipsis 9:7-8 (Juan describe langostas con rostros como rostros humanos, cabellos como cabellos de mujer, dientes como dientes de leones). <!-- VERIFY-NBLA -->
+[^prophetic-visions]: Daniel 7:15, 28 (Daniel turbado y alarmado por sus visiones); Isaías 6:1-5 (Isaías ve al Señor sentado en un trono alto y sublime y dice «estoy perdido»); Apocalipsis 9:7-8 (Juan describe langostas con rostros como rostros humanos, cabellos como cabellos de mujer, dientes como dientes de leones).
 
 [^job-questions]: Job 38:17 (las puertas de la muerte); Job 38:22 (los almacenes de la nieve); Job 38:31 (las Pléyades); Job 38:39 (la presa del león); Job 39:1 (el nacimiento de la cabra montés).
