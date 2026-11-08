@@ -91,7 +91,8 @@ def normalize_headings(text)
 end
 
 def widen_readings_table(text)
-  text.gsub(/^(\|\s*Day\s*\|\s*Reading\s*\|[^|\n]*\|)\n\|[-|\s]+\|[ \t]*$/) do
+  day, reading, = STUDY.s(:readings_header)
+  text.gsub(/^(\|\s*#{day}\s*\|\s*#{reading}\s*\|[^|\n]*\|)\n\|[-|\s]+\|[ \t]*$/) do
     "#{Regexp.last_match(1)}\n#{READINGS_SEPARATOR}"
   end
 end
@@ -104,6 +105,15 @@ end
 # Pull every ATX heading one level up.
 def promote_headings(text)
   text.gsub(/^\#(\#{1,5})(?= )/) { Regexp.last_match(1) }
+end
+
+# A translation stub carries the translated frontmatter (so the handout can
+# print the week's title) and an empty body. Building a book from one would
+# print an empty chapter, so the build stops at the first.
+def assert_translated(path, body)
+  return if body.gsub(/<!--.*?-->/m, '').strip.length.positive?
+
+  abort "#{path.relative_path_from Study::REPO}: body not yet translated"
 end
 
 # Remove a "## Heading" and everything under it, up to the next H2 or the end.
@@ -126,15 +136,18 @@ def memory_verse_block(week_dir, fm)
   end
 
   citation = translation ? "#{ref} (#{translation})" : ref.to_s
-  lines = ["*Memory Verse: #{citation}*"]
-  lines << "\n> #{verse.strip}" if verse && !verse.strip.empty?
+  lines = ["*#{STUDY.s(:memory_verse)}: #{citation}*"]
+  # Poetry carries its lines in verse_text as newlines (the Spanish memory
+  # verses do); each becomes a hard break inside the blockquote.
+  lines << "\n> #{verse.strip.split("\n").join("\\\n> ")}" if verse && !verse.strip.empty?
   lines.join("\n")
 end
 
 def render_week(week_dir)
   fm, body = split_frontmatter(week_dir + 'overview.md')
+  assert_translated(week_dir + 'overview.md', body)
 
-  header = ["## Week #{fm['week']}. #{fm['title']}"]
+  header = ["## #{STUDY.s(:week)} #{fm['week']}. #{fm['title']}"]
   if (mv = memory_verse_block(week_dir, fm))
     header << mv
   end
@@ -147,11 +160,12 @@ end
 
 def render_section(section_dir)
   fm, body = split_frontmatter(section_dir + 'index.md')
+  assert_translated(section_dir + 'index.md', body)
   body = phases_to_sections(em_dashes(deactivate_links(body))).strip
 
   # The "*Weeks N-M*" line and any body H1 are regenerated in the header below.
   body = body.sub(/\A#[^\n]*\n+/, '')
-  body = body.sub(/\A\*Weeks[^\n]*\*\s*/, '')
+  body = body.sub(/\A\*#{STUDY.s(:weeks)}[^\n]*\*\s*/, '')
 
   # Web navigation and any authoring-only sections named in the study config.
   body = drop_section(body, STUDY.weeks_table) if STUDY.weeks_table
@@ -162,7 +176,7 @@ def render_section(section_dir)
   body = if STUDY.section_mode == 'overview_only'
            # The page is one essay under an "## Overview" heading: keep the
            # prose, drop the heading (H2 is reserved for week titles).
-           body.sub(/^##\s*Overview[ \t]*\n+/, '').strip
+           body.sub(/^##\s*#{STUDY.s(:overview_heading)}[ \t]*\n+/, '').strip
          else
            # Keep the whole page, demoted so its headings sit below the weeks.
            demote_headings(body).strip
@@ -172,7 +186,7 @@ def render_section(section_dir)
   # uses "&", matching the section names in the intro's overview table.
   name = fm['section'] || fm['title']
 
-  ["# Section #{fm['section_number']}. #{name}", "*Weeks #{fm['weeks']}*", '', body].join("\n").strip
+  ["# #{STUDY.s(:section)} #{fm['section_number']}. #{name}", "*#{STUDY.s(:weeks)} #{fm['weeks']}*", '', body].join("\n").strip
 end
 
 # The book title becomes a pandoc metadata block rather than a heading in the
@@ -194,7 +208,7 @@ def render_intro
   body = strip_erb(em_dashes(deactivate_links(body))).strip
   body = body.gsub(/\[([^\]\n]+)\]\(\s*\)/, '\1')
   # These sections point at web-only documents that are not part of the PDF.
-  body = body.sub(/\n### How to Use This Study\b.*\z/m, '').strip
+  body = body.sub(/\n### #{STUDY.s(:how_to_use_heading)}\b.*\z/m, '').strip
   # Title is now metadata, so lift "Overview" to H1 to sit level with sections.
   promote_headings(body)
 end

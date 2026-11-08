@@ -21,7 +21,9 @@ require 'pathname'
 require 'yaml'
 require_relative 'study'
 require_relative 'bible_abbrev'
+require_relative 'bible_names_es'
 require_relative 'esv_link'
+require_relative 'nbla_link'
 
 STUDY = Study.from_argv
 
@@ -60,21 +62,43 @@ end
 # number is a link: "| [1](../day-1/) | ... |".
 READING_ROW = /^\|\s*(?:\[)?[1-5](?:\]\([^)]*\))?\s*\|/
 
+# The short form shown in a cell. English abbreviates the English name; Spanish
+# translates the name first, then abbreviates the Spanish one.
+def short_reference(reference)
+  return BibleAbbrev.apply(reference) if STUDY.english?
+
+  BibleNamesEs.abbreviate(BibleNamesEs.translate(reference))
+end
+
+# The weekly references are the study's structure and are read from the English
+# overview in every language, so a translation cannot drift from the plan. The
+# title comes from the translated overview when there is one, else the English.
+def week_title(week_dir, english_title)
+  return english_title if STUDY.english?
+
+  translated = STUDY.source_dir + week_dir.relative_path_from(STUDY.english_source_dir) + 'overview.md'
+  return english_title unless translated.exist?
+
+  tfm, = split_frontmatter(translated)
+  title = tfm['title'].to_s.strip
+  title.empty? ? english_title : title
+end
+
 def week_data(week_dir)
   fm, body = split_frontmatter(week_dir + 'overview.md')
   refs = body.lines.grep(READING_ROW).map { |l| l.split('|')[2].to_s.strip }
 
   {
     number: fm['week'],
-    title: fm['title'].to_s,
+    title: week_title(week_dir, fm['title'].to_s),
     section: fm['section'].to_s,
     # Like the readings: the short form is shown, the full one builds the link.
-    memory: { label: BibleAbbrev.apply(fm['memory_verse'].to_s),
+    memory: { label: short_reference(fm['memory_verse'].to_s),
               full: fm['memory_verse'].to_s },
     # Keep the full reference alongside the abbreviation: the link text is the
-    # short form, but the URL is built from the full one so ESV.org never has to
-    # understand an abbreviation.
-    readings: refs.map { |r| { label: BibleAbbrev.apply(r), full: r } }
+    # short form, but the URL is built from the full English one so neither
+    # ESV.org nor Bible Gateway has to understand an abbreviation.
+    readings: refs.map { |r| { label: short_reference(r), full: r } }
   }
 end
 
@@ -103,17 +127,32 @@ end
 # space, joined by hard line breaks.
 GAP = ' '
 
+# A line longer than this wraps in the rendered cell: Palatino 12pt across a
+# third of the text block holds about 31 characters of ordinary text (measured:
+# 31-character titles fit, 32-character ones wrapped; a 30-character reading
+# line fit, a 37-character one wrapped).
+CELL_LINE_CHARS = 31
+
 def cell_lines(week, links)
-  lines = ["**WEEK #{week[:number]}**"]
-  lines += wrap(week[:title], CELL_WIDTH)
-  lines << GAP
-  week[:readings].each_with_index do |reading, i|
-    # Every abbreviated reference fits one line (the longest is 27 characters,
-    # and 5 + two spaces + 27 is inside the cell), so a reading never has to
-    # wrap -- which matters because link markup must not straddle a line break.
-    # Only the reference is linked; the day number stays plain text.
-    lines << "#{i + 1}#{DAY_GAP}#{links.reference(reading[:label], reading[:full])}"
+  readings = week[:readings].each_with_index.map do |reading, i|
+    { text: "#{i + 1}#{DAY_GAP}#{reading[:label]}",
+      # Only the reference is linked; the day number stays plain text.
+      line: "#{i + 1}#{DAY_GAP}#{links.reference(reading[:label], reading[:full])}" }
   end
+
+  # The blank line under the title is the row's only slack: a quarter fits its
+  # page with no line to spare, so a title or reading that wraps to a second
+  # line spends that blank line instead of pushing the whole row, and the
+  # quarter, onto a second page. Nothing is hard-wrapped here: a hard break
+  # that lands where the renderer would not have broken makes a three-line
+  # title, and link markup must not straddle a line break anyway. A cell can
+  # absorb one wrapped line; a second spills the quarter, so it is reported.
+  wrapped = ([week[:title]] + readings.map { |r| r[:text] }).count { |l| l.length > CELL_LINE_CHARS }
+  warn "week #{week[:number]}: #{wrapped} lines wrap; the quarter will spill" if wrapped > 1
+
+  lines = ["**#{STUDY.s(:week).upcase} #{week[:number]}**", week[:title]]
+  lines << GAP if wrapped.zero?
+  lines += readings.map { |r| r[:line] }
   # The memory verses are collected onto a page of their own. Carrying them in
   # the cards cost a line each, and at 12pt that line is the difference between
   # a quarter fitting its page and spilling onto a second.
@@ -137,7 +176,7 @@ def render_memory_page(weeks, links)
   rows = (weeks.size / MEMORY_COLUMNS.to_f).ceil
   columns = weeks.each_slice(rows).to_a
 
-  header = (['Wk', 'Memory Verse'] * MEMORY_COLUMNS).join(' | ')
+  header = ([STUDY.s(:week_short), STUDY.s(:memory_column)] * MEMORY_COLUMNS).join(' | ')
   rule = ([('-' * MEMORY_WEEK_DASHES) + ':', ':' + ('-' * MEMORY_VERSE_DASHES)] * MEMORY_COLUMNS)
          .join(' | ')
 
@@ -167,7 +206,7 @@ class LinkTable
   def reference(label, citation)
     return label unless @enabled
 
-    url = EsvLink.url_for(citation)
+    url = STUDY.english? ? EsvLink.url_for(citation) : NblaLink.url_for(citation)
     return label unless url
 
     id = "r#{@definitions.size + 1}"
@@ -234,10 +273,10 @@ def render_overview
   body = body.gsub(/<%=?.*?%>/m, '')
   body = body.gsub(/\[([^\]\n]+)\]\([^)\n]*\)/, '\1').gsub(/\[([^\]\n]+)\]\(\s*\)/, '\1')
   # Web-only document links are not part of a printed handout.
-  body = body.sub(/\n### How to Use This Study\b.*\z/m, '').strip
+  body = body.sub(/\n### #{STUDY.s(:how_to_use_heading)}\b.*\z/m, '').strip
   # The page is plainly the overview; its own heading is redundant next to the
   # title block. Everything below it moves up one level.
-  body = body.sub(/\A##\s*Overview[ \t]*\n+/, '')
+  body = body.sub(/\A##\s*#{STUDY.s(:overview_heading)}[ \t]*\n+/, '')
   body.gsub(/^\#(\#{2,5})(?= )/) { Regexp.last_match(1) }
 end
 
@@ -249,7 +288,7 @@ end
 
 STUDY.prepare_build_dir
 
-weeks = Dir.glob(STUDY.source_dir + 'section-*/week-*/overview.md')
+weeks = Dir.glob(STUDY.english_source_dir + 'section-*/week-*/overview.md')
            .sort_by { |f| f[/week-(\d+)/, 1].to_i }
            .map { |f| week_data(Pathname.new(f).dirname) }
 
@@ -262,7 +301,7 @@ abort "no readings found for weeks: #{missing.map { |w| w[:number] }.join ', '}"
 
 metadata = ['---', %(title: "#{STUDY.title}")]
 metadata << %(subtitle: "#{STUDY.subtitle}") if STUDY.subtitle
-metadata << %(subtitle: "Reading Plan") unless STUDY.subtitle
+metadata << %(subtitle: "#{STUDY.s(:reading_plan)}") unless STUDY.subtitle
 metadata << '---'
 
 links = LinkTable.new(LINK_REFERENCES)
@@ -275,12 +314,12 @@ width = [cells.flatten.map(&:length).max, CELL_WIDTH].max
 parts = [render_overview]
 
 weeks.each_slice(WEEKS_PER_PAGE).with_index do |page_weeks, page|
-  heading = "# Weeks #{page_weeks.first[:number]}–#{page_weeks.last[:number]}"
+  heading = "# #{STUDY.s(:weeks)} #{page_weeks.first[:number]}–#{page_weeks.last[:number]}"
   page_cells = cells[page * WEEKS_PER_PAGE, page_weeks.size]
   parts << "#{heading}\n\n#{render_grid(page_cells, width)}"
 end
 
-parts << "# Memory Verses\n\n#{render_memory_page(weeks, links)}"
+parts << "# #{STUDY.s(:memory_verses)}\n\n#{render_memory_page(weeks, links)}"
 
 # Reference-link definitions go after the tables, out of the cells.
 parts << links.definitions.join("\n") if links.any?
@@ -321,6 +360,7 @@ table_width = md.lines.filter_map { |l| l.strip.length if l.start_with?('+--') }
 cmd = ['pandoc', STUDY.handout_draft.to_s,
        '-o', STUDY.handout_docx.to_s,
        "--columns=#{table_width}",
+       "--metadata=lang:#{STUDY.lang}",
        "--reference-doc=#{STUDY.handout_reference}"]
 
 output, status = Open3.capture2e(*cmd)

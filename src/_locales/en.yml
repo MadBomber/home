@@ -171,6 +171,10 @@ en:
     quiz_lookback_set_other: Warm-up quizzes will draw from the %{count} weeks before the one you are starting.
     banner_reset: Announcement banner reset. Reload any page to see it again.
     tip_reset: Tip of the week reset. Reload any page to see it again.
+  downloads:
+    intro: Everything here is yours to keep. Choose a file and it saves to your device, where you can read it, print it, or carry it with you offline.
+    empty: No files are available for download yet. Please check back.
+    missing: Missing from src/downloads/ (this notice appears in development only)
   date:
     formats:
       # The essay pages and index cards. Bridgetown's own en.yml supplies the

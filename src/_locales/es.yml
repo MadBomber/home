@@ -167,6 +167,10 @@ es:
     quiz_lookback_set_other: Los cuestionarios de repaso tomarán preguntas de las %{count} semanas anteriores a la que estás empezando.
     banner_reset: Anuncio restablecido. Recarga cualquier página para verlo de nuevo.
     tip_reset: Consejo de la semana restablecido. Recarga cualquier página para verlo de nuevo.
+  downloads:
+    intro: Todo lo que hay aquí es tuyo. Elige un archivo y se guardará en tu dispositivo, donde podrás leerlo, imprimirlo o llevarlo contigo sin conexión.
+    empty: Todavía no hay archivos para descargar. Vuelve más tarde.
+    missing: Falta en src/downloads/ (este aviso solo aparece en desarrollo)
   date:
     # Bridgetown ships month and day names for English only, so Spanish
     # supplies its own. Lowercase is standard Spanish usage.

@@ -59,3 +59,20 @@ section_page:
   # "## Overview" heading; keep that prose and drop the rest.
   mode: overview_only
   weeks_table: "Weeks in This Section"
+
+# --- Spanish edition (BOOK_LANG=es) ---
+# Sources: translations/es/ntc1y/. Keys here replace their English
+# counterparts above when building Spanish; anything absent is inherited.
+es:
+  title_page:
+    title: "Un año a Sus pies"
+    subtitle: "Nuevo Testamento"
+    byline: "por Dewayne VanHoozer"
+  # The Spanish overviews use these headings; aliases catch variants.
+  heading_aliases:
+    "## Cuadro completo": "## El cuadro completo"
+    "## Personajes clave de esta semana": "## Personajes clave"
+    "## Lecturas diarias": "## Las lecturas de esta semana"
+    "## Lecturas": "## Las lecturas de esta semana"
+  section_page:
+    weeks_table: "Semanas de esta sección"
