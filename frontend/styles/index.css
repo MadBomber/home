@@ -826,6 +826,43 @@ a:hover {
   color: var(--gold-light);
 }
 
+/* --- Language switcher ("English | Español") ---
+   Sits in the top-right corner of the header. The current language is plain
+   text; the other is a link. Kept a readable size and underlined so it does
+   not depend on color alone. On phones the header is a single short row, so
+   the switcher joins that row instead of floating over the hamburger. */
+.lang-switch {
+  position: absolute;
+  top: 0.6rem;
+  right: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  color: var(--gold-light);
+}
+
+.lang-switch-link {
+  color: var(--gold-light);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.lang-switch-link:hover,
+.lang-switch-link:focus-visible {
+  color: #fff;
+}
+
+.lang-switch-current {
+  font-weight: 700;
+  color: #fff;
+}
+
+.lang-switch-sep {
+  opacity: 0.6;
+}
+
 
 /* --- Main Content --- */
 
@@ -2772,6 +2809,14 @@ button.toolbar-icon {
   .hamburger-btn {
     display: flex;
   }
+
+.lang-switch {
+  position: static;
+  margin-left: auto;
+  margin-right: 0.5rem;
+  font-size: 0.9rem;
+  gap: 0.35rem;
+}
 
   .page-toolbar.hamburger-menu {
     display: none;

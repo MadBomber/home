@@ -1,0 +1,180 @@
+# Interface strings for English pages. Spanish lives in es.yml; a key missing
+# there falls back to the English here. Read with <%= t("nav.home") %> in ERB.
+# Essay prose never goes through these files: a Spanish essay is its own
+# slug.es.md file beside the English one.
+en:
+  lang:
+    switcher_label: Language
+  nav:
+    home: Home
+    essays: Essays
+    tips: Tips
+    verse: Verse
+    journal: Journal
+    speak: Speak
+    share: Share
+    print: Print
+    downloads: Downloads
+    settings: Settings
+    about: About
+    menu: Menu
+  footer:
+    copyright_html: 'Site content &copy; %{year} %{author}, licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. Scripture quotations are excepted &mdash; see below.'
+    contact: Contact
+    privacy: Privacy Policy
+  essays:
+    tab_all: All
+    tab_recent: Recent
+    tab_collections: Collections
+    tab_search: Search
+    tab_topics: Topics
+    none: No posts yet. Check back soon.
+    no_collections: No collections yet.
+    read_article: Read article
+    begin_reading: Begin reading
+    collection: Collection
+    parts:
+      one: "%{count} part"
+      other: "%{count} parts"
+    search_label: Search the essays
+    search_placeholder: e.g. prayer, Calvin, the elect
+    search_submit: Search
+    search_clear: Clear
+    search_hint_html: Searches the full text of every essay. An essay must contain <em>every</em> term to match &mdash; put quotation marks around a phrase (&ldquo;Acts 17&rdquo;) to find those words together.
+  essay:
+    write_to: Write to %{author} about this essay
+    topics_label: "Topics:"
+    all_topics: All topics
+  settings:
+    intro: Customize your study experience. All settings are stored privately in this browser.
+    features: Features
+    journaling: Journaling
+    journaling_desc: Show the journal icon on day pages
+    read_aloud: Read Aloud
+    read_aloud_desc: Show the speak button in the toolbar
+    group_sharing: Group Sharing
+    group_sharing_desc: Show an email icon in the toolbar to share with your study group
+    discussions: Community Discussions
+    discussions_desc_html: Show a comment section at the bottom of content pages. Posting requires a free <a href="https://github.com/signup" target="_blank">GitHub</a> account. All comments are public.
+    tips: Tip of the Week
+    tips_desc: Show a banner with a random study tip on each page. Dismissing it hides tips for the rest of the week.
+    quiz: Warm-Up Quiz
+    quiz_desc: 'Show the "Remember?" quiz link at the top of each week''s overview. The quiz page itself stays reachable either way.'
+    theme: Site Theme
+    theme_label: "Choose your preferred appearance:"
+    theme_light: Light
+    theme_dark: Dark
+    theme_auto: Match System Setting
+    font_size: Font Size
+    font_size_info: "Set your preferred reading size in pixels:"
+    font_decrease: Decrease font size
+    font_increase: Increase font size
+    quiz_info: "Shape each warm-up quiz. Questions per quiz can be 5 to 20. Weeks to look back can be 1 to 6, counted from the week you are starting: starting week 9 with a look-back of 4 draws its questions from weeks 5 through 8."
+    quiz_length: Questions per quiz
+    quiz_lookback: Weeks to look back
+    journal_data: Journal Data
+    journal_prompt: Journal entry prompt
+    journal_prompt_info_html: The faint text shown in an empty journal entry. Choose a method to be prompted through it step by step, or write your own. See <a href="%{url}">Journaling</a> for what each method asks.
+    journal_data_info_html: Journal entries are tracked separately for each Bible study. View, export, import, or clear a single study's entries below. <strong>View</strong> opens the whole journal on one page, ready to print or save as a PDF. <strong>Export</strong> saves a JSON backup &mdash; the only file Import reads.
+    view_journal: View Journal
+    export: Export
+    import: Import
+    clear_entries: Clear Entries
+    group_members: Study Group Members
+    name_placeholder: Name
+    email_placeholder: Email address
+    add: Add
+    clear_members: Clear All Members
+    progress_data: Progress Data
+    progress_info: Progress is tracked separately for each Bible study. Export, import, or clear a single study's progress below.
+    clear_progress: Clear Progress
+    storage: Storage
+    debug: Debug
+    debug_info: Tools for testing this site's features.
+    reset_banner: Reset Announcement Banner
+    reset_tip: Reset Tip of the Week
+  # Messages settings.js shows on the settings page. settings.erb injects this
+  # whole map as JSON in the page's language; the script has no English of its
+  # own, so a new message needs a key here first. %{name} is filled in by the
+  # script; _one/_other pairs are chosen by count.
+  settings_js:
+    write_my_own: Write my own
+    prompt_set_method: Journal prompt set to %{name}
+    prompt_set_custom: Journal prompt set to your own wording.
+    prompt_saved: Journal prompt saved.
+    this_study: this study
+    file_unreadable: Could not read file. Make sure it is a valid JSON file.
+    journal_none_export: No journal entries to export for %{study}.
+    journal_exported_one: Exported %{study} journal (%{count} entry).
+    journal_exported_other: Exported %{study} journal (%{count} entries).
+    journal_invalid: Invalid journal file.
+    journal_file_empty: The file contains no journal entries.
+    journal_import_confirm_one: Import %{study} journal (%{count} entry)?
+    journal_import_confirm_other: Import %{study} journal (%{count} entries)?
+    journal_import_replace_one: " This will replace your current %{count} entry."
+    journal_import_replace_other: " This will replace your current %{count} entries."
+    journal_imported_one: Imported %{study} journal (%{count} entry).
+    journal_imported_other: Imported %{study} journal (%{count} entries).
+    journal_none_clear: No journal entries to clear for %{study}.
+    journal_clear_confirm_one: "This will permanently delete %{count} journal entry for %{study} from this browser. This cannot be undone.\n\nContinue?"
+    journal_clear_confirm_other: "This will permanently delete %{count} journal entries for %{study} from this browser. This cannot be undone.\n\nContinue?"
+    journal_cleared: All journal entries for %{study} have been cleared.
+    journal_stored_none: No journal entries stored.
+    journal_stored_one: "%{count} journal entry stored."
+    journal_stored_other: "%{count} journal entries stored."
+    progress_none_export: No progress data to export for %{study}.
+    progress_exported_one: Exported %{study} progress (%{count} item).
+    progress_exported_other: Exported %{study} progress (%{count} items).
+    progress_invalid: Invalid progress file.
+    progress_file_empty: The file contains no progress data.
+    progress_import_confirm_one: Import progress for %{study} (%{count} item)?
+    progress_import_confirm_other: Import progress for %{study} (%{count} items)?
+    progress_import_replace_one: " This will replace your current progress (%{count} item)."
+    progress_import_replace_other: " This will replace your current progress (%{count} items)."
+    progress_imported_one: Imported %{study} progress (%{count} item).
+    progress_imported_other: Imported %{study} progress (%{count} items).
+    progress_none_clear: No progress data to clear for %{study}.
+    progress_clear_confirm_one: "This will permanently delete all progress for %{study} (%{count} completed item) from this browser. This cannot be undone.\n\nContinue?"
+    progress_clear_confirm_other: "This will permanently delete all progress for %{study} (%{count} completed items) from this browser. This cannot be undone.\n\nContinue?"
+    progress_cleared: All progress for %{study} has been cleared.
+    progress_none: No progress recorded.
+    progress_steps: "%{count} of %{total} steps complete."
+    group_empty: No group members yet. Add someone to get started.
+    remove: Remove
+    email_required: Please enter an email address.
+    email_duplicate: That email address is already in your group.
+    member_added: Added %{name} to your group.
+    group_none: No group members.
+    group_count_one: "%{count} member in your study group."
+    group_count_other: "%{count} members in your study group."
+    group_none_export: No group members to export.
+    group_exported_one: Exported %{count} group member.
+    group_exported_other: Exported %{count} group members.
+    group_invalid: Invalid group file.
+    group_invalid_email: Invalid group file. Each member must have an email.
+    group_file_empty: The file contains no group members.
+    group_import_confirm_one: Import %{count} group member?
+    group_import_confirm_other: Import %{count} group members?
+    group_import_replace_one: " This will replace your current %{count} member."
+    group_import_replace_other: " This will replace your current %{count} members."
+    group_imported_one: Imported %{count} group member.
+    group_imported_other: Imported %{count} group members.
+    group_none_clear: No group members to clear.
+    group_clear_confirm_one: "This will remove all %{count} member from your study group. This cannot be undone.\n\nContinue?"
+    group_clear_confirm_other: "This will remove all %{count} members from your study group. This cannot be undone.\n\nContinue?"
+    group_cleared: All group members have been removed.
+    storage_used: "Storage used: %{kb} KB"
+    theme_set: 'Site theme set to "%{theme}".'
+    font_size_set: Font size set to %{px}px.
+    quiz_length_set: Warm-up quizzes will ask %{count} questions.
+    quiz_lookback_set_one: Warm-up quizzes will draw from the week before the one you are starting.
+    quiz_lookback_set_other: Warm-up quizzes will draw from the %{count} weeks before the one you are starting.
+    banner_reset: Announcement banner reset. Reload any page to see it again.
+    tip_reset: Tip of the week reset. Reload any page to see it again.
+  date:
+    formats:
+      # The essay pages and index cards. Bridgetown's own en.yml supplies the
+      # month and day names; these two formats match what the site printed
+      # before the strings were localized.
+      long: "%B %-d, %Y"
+      card: "%b %d, %y"

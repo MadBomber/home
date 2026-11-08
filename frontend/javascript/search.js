@@ -5,7 +5,10 @@
 // load. Everything below assumes that index is the only data source; there is
 // no server involved.
 
-const INDEX_URL = "/search-index.json"
+// One index per language: /search-index.json for English, /es/search-index.json
+// for Spanish. src/search-index.json renders once per locale (locale: multi).
+const LANG_PREFIX = document.documentElement.lang === "en" ? "" : `/${document.documentElement.lang}`
+const INDEX_URL = `${LANG_PREFIX}/search-index.json`
 const SNIPPET_RADIUS = 90
 const MAX_RESULTS = 20
 

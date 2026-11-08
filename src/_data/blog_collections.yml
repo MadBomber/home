@@ -1,15 +1,23 @@
 - slug: holy-week
   title: Holy Week
   description: Walking through the final days before the resurrection — from Palm Sunday through the empty tomb.
+  title_es: "Semana Santa"
+  description_es: "Un recorrido por los últimos días antes de la resurrección — desde el Domingo de Ramos hasta la tumba vacía."
 
 - slug: can-the-bible-be-trusted
   title: Can the Bible Be Trusted?
   description: A series of essays for the skeptic who wants honest answers before opening the book.
+  title_es: "¿Se puede confiar en la Biblia?"
+  description_es: "Una serie de ensayos para el escéptico que quiere respuestas honestas antes de abrir el libro."
 
 - slug: the-heaviest-word-in-the-bible
   title: The Heaviest Word in the Bible
   description: The word "glory" has been used so carelessly for so long that it has lost all practical meaning. This five-part collection recovers it — going back to a Hebrew word with a physical definition that will reframe everything you thought you knew about God, sin, the cross, and what it means to live differently because of all three.
+  title_es: "La palabra más pesada de la Biblia"
+  description_es: "La palabra «gloria» se ha usado con tanto descuido durante tanto tiempo que ha perdido todo sentido práctico. Esta colección de cinco partes la recupera, volviendo a una palabra hebrea con una definición física que replanteará todo lo que creías saber sobre Dios, el pecado, la cruz y lo que significa vivir de otra manera a causa de los tres."
 
 - slug: biblical-silence
   title: Where the Bible Is Silent
   description: Scripture leaves some things unsaid on purpose. This collection traces what happens when confident voices — cults, conspiracy theories, sincere believers chasing certainty — try to fill those blank spaces anyway, and what it looks like to let God's silence stand.
+  title_es: "Donde la Biblia calla"
+  description_es: "Las Escrituras dejan algunas cosas sin decir a propósito. Esta colección sigue lo que ocurre cuando voces seguras de sí mismas — sectas, teorías conspirativas, creyentes sinceros en busca de certeza — intentan llenar esos espacios en blanco de todos modos, y cómo es dejar que el silencio de Dios permanezca."

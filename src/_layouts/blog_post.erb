@@ -103,14 +103,14 @@ layout: default
     <% if older_post %>
       <a href="<%= relative_url older_post.relative_url %>" class="blog-post-nav-link blog-post-nav-older">
         <span class="blog-post-nav-arrow">&larr;</span>
-        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= older_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= l(older_post.data[:date].to_date, format: :long) %></span><% end %></span>
       </a>
     <% else %>
       <span></span>
     <% end %>
     <% if newer_post %>
       <a href="<%= relative_url newer_post.relative_url %>" class="blog-post-nav-link blog-post-nav-newer">
-        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= newer_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= l(newer_post.data[:date].to_date, format: :long) %></span><% end %></span>
         <span class="blog-post-nav-arrow">&rarr;</span>
       </a>
     <% else %>
@@ -131,11 +131,11 @@ layout: default
       <% end %>
     </h1>
     <p class="blog-post-meta">
-      <% if data.date %><span class="blog-post-date"><%= data.date.strftime("%B %-d, %Y") %></span><% end %>
+      <% if data.date %><span class="blog-post-date"><%= l(data.date.to_date, format: :long) %></span><% end %>
       <%# The byline is a way to write to the author. This essay's path rides
           along in the query string so the contact page can prefill the subject
           with its address — see prefillTopicFromPage in contact.js. %>
-      <% if data.author %><a class="blog-post-author" href="<%= relative_url '/contact/' %>?about=<%= ERB::Util.url_encode(resource.relative_url.to_s) %>" title="Write to <%= data.author %> about this essay"><%= data.author %></a><% end %>
+      <% if data.author %><a class="blog-post-author" href="<%= relative_url '/contact/' %>?about=<%= ERB::Util.url_encode(resource.relative_url.to_s) %>" title="<%= t("essay.write_to", author: data.author) %>"><%= data.author %></a><% end %>
     </p>
   </header>
 
@@ -149,14 +149,14 @@ layout: default
     <% if older_post %>
       <a href="<%= relative_url older_post.relative_url %>" class="blog-post-nav-link blog-post-nav-older">
         <span class="blog-post-nav-arrow">&larr;</span>
-        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= older_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= l(older_post.data[:date].to_date, format: :long) %></span><% end %></span>
       </a>
     <% else %>
       <span></span>
     <% end %>
     <% if newer_post %>
       <a href="<%= relative_url newer_post.relative_url %>" class="blog-post-nav-link blog-post-nav-newer">
-        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= newer_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= l(newer_post.data[:date].to_date, format: :long) %></span><% end %></span>
         <span class="blog-post-nav-arrow">&rarr;</span>
       </a>
     <% else %>

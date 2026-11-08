@@ -5,9 +5,9 @@
   #               (e.g. "#{site.base_path}/blog/tags/"); used only to check
   #               that a tag's page actually exists
   #
-  # The hrefs are relative (../tags/<slug>/): every essay lives exactly one
-  # level below blog/, so the link resolves with no base_path help. Study day
-  # pages sit deeper than that, so this partial cannot serve them as-is.
+  # The hrefs are built from tags_base, which already carries base_path, so
+  # they resolve from any depth — including Spanish essays under /es/blog/,
+  # which have no tag pages of their own yet and so link to the English ones.
   #
   # A tag whose page does not exist yet (scripts/tags.rb not rerun since the
   # tag was added) renders as plain text instead of a dead link.
@@ -25,12 +25,12 @@
 %>
 <% if _topics.any? %>
 <nav class="blog-post-topics" aria-label="Topics">
-  <span class="blog-post-topics-label">Topics:</span>
+  <span class="blog-post-topics-label"><%= t("essay.topics_label") %></span>
   <ul class="blog-post-topics-list">
-    <% _topics.each do |t| %>
-      <li><% if t[:linked] %><a href="../tags/<%= t[:slug] %>/" target="_blank" rel="noopener"><%= t[:tag] %></a><% else %><%= t[:tag] %><% end %></li>
+    <% _topics.each do |topic| %>
+      <li><% if topic[:linked] %><a href="<%= tags_base %><%= topic[:slug] %>/" target="_blank" rel="noopener"><%= topic[:tag] %></a><% else %><%= topic[:tag] %><% end %></li>
     <% end %>
-    <li class="blog-post-topics-all"><a href="../tags/" target="_blank" rel="noopener">All topics</a></li>
+    <li class="blog-post-topics-all"><a href="<%= tags_base %>" target="_blank" rel="noopener"><%= t("essay.all_topics") %></a></li>
   </ul>
 </nav>
 <% end %>

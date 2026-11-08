@@ -16,7 +16,7 @@
   end
 %>
 <footer class="site-footer">
-  <p>Site content &copy; <%= Time.now.year %> <%= metadata.author %>, licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. Scripture quotations are excepted &mdash; see below.</p>
+  <p><%= t("footer.copyright_html", year: Time.now.year, author: metadata.author) %></p>
   <%# Crossway requires this notice, and a link to esv.org, on every page that
       displays ESV text. Study day pages embed passages, so it lives in the
       footer rather than on individual pages. The CC license above is scoped to
@@ -29,7 +29,7 @@
   <p class="site-footer-esv">Scripture quotations are from the <a href="https://www.esv.org/">ESV&reg; Bible</a> (The Holy Bible, English Standard Version&reg;), copyright &copy; 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.</p>
   <% end %>
   <p class="site-footer-links">
-    <a href="<%= _contact_href %>">Contact</a>
-    <a href="<%= relative_url "/privacy_policy/" %>">Privacy Policy</a>
+    <a href="<%= _contact_href %>"><%= t("footer.contact") %></a>
+    <a href="<%= relative_url "/privacy_policy/" %>"><%= t("footer.privacy") %></a>
   </p>
 </footer>

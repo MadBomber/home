@@ -1,6 +1,12 @@
 ---
 layout: none
 permalink: /search-index.json
+# Rendered once per language. The Spanish copy lists the /es/blog/ essays at
+# /es/search-index.json; search.js picks the one matching <html lang>.
+locale: multi
+locale_overrides:
+  es:
+    permalink: /es/search-index.json
 ---
 <%
   # Search index for the Essays page. Covers only the essays in src/blog/*.md —
@@ -15,8 +21,9 @@ permalink: /search-index.json
   # Same filter as src/blog/index.erb: matches /blog/<slug>/ only, so index.erb
   # (which renders to /blog/) never lands in the index. Future-dated essays stay
   # searchable in development and drop out of the production build.
+  locale_prefix = data.locale.to_sym == site.config.default_locale ? "" : "/#{data.locale}"
   posts = site.resources
-    .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
+    .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}#{locale_prefix}/blog/[^/]+/\z}) }
     .reject  { |r| r.relative_url.to_s.end_with?("/blog/") }
     .reject  { |r| r.relative_url.to_s.end_with?("/blog/announcement/") }
     .reject  { |r| r.relative_url.to_s.end_with?("/blog/tags/") }

@@ -52,6 +52,10 @@ function getSettings() {
       journalPlaceholder: typeof stored.journalPlaceholder === "string"
         ? stored.journalPlaceholder
         : DEFAULT_SETTINGS.journalPlaceholder,
+      // The header's language switcher writes this (bstSetLanguage in
+      // _head.erb); the FOUC script reads it. There is no default: a reader
+      // who never chose stays on whatever page they opened.
+      ...(typeof stored.language === "string" ? { language: stored.language } : {}),
     }
   } catch {
     return { ...DEFAULT_SETTINGS }
@@ -113,6 +117,27 @@ function applyFeatureVisibility() {
   style.textContent = css
 }
 
+// --- Messages ---
+//
+// Every string this script shows comes from src/_locales/<lang>.yml under
+// settings_js, which settings.erb injects as JSON in the page's language. The
+// script keeps no English of its own: a new message needs a key there first.
+// %{name} placeholders are filled from vars; count-based pairs end in
+// _one / _other and are picked by msgCount.
+
+const MESSAGES = (() => {
+  try { return JSON.parse(document.getElementById("settings-messages")?.textContent || "{}") } catch { return {} }
+})()
+
+function msg(key, vars = {}) {
+  const text = typeof MESSAGES[key] === "string" ? MESSAGES[key] : key
+  return text.replace(/%\{(\w+)\}/g, (_, name) => (name in vars ? String(vars[name]) : ""))
+}
+
+function msgCount(key, count, vars = {}) {
+  return msg(count === 1 ? `${key}_one` : `${key}_other`, { count, ...vars })
+}
+
 // --- Journal entry prompt (the ghost text in an empty entry box) ---
 
 function initJournalPlaceholder() {
@@ -121,7 +146,7 @@ function initJournalPlaceholder() {
   if (!select || !field) return
 
   const options = [
-    { id: CUSTOM_METHOD, name: "Write my own" },
+    { id: CUSTOM_METHOD, name: msg("write_my_own") },
     ...PROMPT_METHODS.map(method => ({ id: method.id, name: method.name })),
   ]
 
@@ -154,7 +179,7 @@ function initJournalPlaceholder() {
     saveSettings(s)
     showMethod(select.value)
     const method = findMethod(select.value)
-    showStatus(method ? `Journal prompt set to ${method.name}` : "Journal prompt set to your own wording.")
+    showStatus(method ? msg("prompt_set_method", { name: method.name }) : msg("prompt_set_custom"))
   })
 
   let saveTimeout = null
@@ -168,7 +193,7 @@ function initJournalPlaceholder() {
       const s = getSettings()
       s.journalPlaceholder = text
       saveSettings(s)
-      showStatus("Journal prompt saved.")
+      showStatus(msg("prompt_saved"))
     }, 600)
   })
 
@@ -272,11 +297,11 @@ function downloadJSON(data, filename) {
 function exportJournal(prefix, studyTitle) {
   const data = getJournalData(prefix)
   const count = Object.keys(data).length
-  if (count === 0) { showStatus(`No journal entries to export for ${studyTitle}.`); return }
+  if (count === 0) { showStatus(msg("journal_none_export", { study: studyTitle })); return }
 
   const today = new Date().toISOString().split("T")[0]
   downloadJSON(data, `${prefix}-journal-${today}.json`)
-  showStatus(`Exported ${studyTitle} journal (${count} ${count === 1 ? "entry" : "entries"}).`)
+  showStatus(msgCount("journal_exported", count, { study: studyTitle }))
 }
 
 
@@ -285,24 +310,24 @@ function importJournal(prefix, studyTitle, file, onImported) {
   reader.onload = function(e) {
     try {
       const parsed = JSON.parse(e.target.result)
-      if (!validateJournalData(parsed)) { showStatus("Invalid journal file."); return }
+      if (!validateJournalData(parsed)) { showStatus(msg("journal_invalid")); return }
 
       const data = normalizeJournalData(parsed)
       const count = Object.keys(data).length
-      if (count === 0) { showStatus("The file contains no journal entries."); return }
+      if (count === 0) { showStatus(msg("journal_file_empty")); return }
 
       const existing = journalEntryCount(prefix)
-      let msg = `Import ${studyTitle} journal (${count} ${count === 1 ? "entry" : "entries"})?`
-      if (existing > 0) msg += ` This will replace your current ${existing} ${existing === 1 ? "entry" : "entries"}.`
+      let question = msgCount("journal_import_confirm", count, { study: studyTitle })
+      if (existing > 0) question += msgCount("journal_import_replace", existing)
 
-      if (window.confirm(msg)) {
+      if (window.confirm(question)) {
         localStorage.setItem(journalKey(prefix), JSON.stringify(data))
-        showStatus(`Imported ${studyTitle} journal (${count} ${count === 1 ? "entry" : "entries"}).`)
+        showStatus(msgCount("journal_imported", count, { study: studyTitle }))
         onImported()
         updateStorageInfo()
       }
     } catch {
-      showStatus("Could not read file. Make sure it is a valid JSON file.")
+      showStatus(msg("file_unreadable"))
     }
   }
   reader.readAsText(file)
@@ -315,16 +340,16 @@ function clearJournal(prefix, studyTitle, onCleared) {
   // so those are swept out without asking.
   if (count === 0) {
     localStorage.removeItem(journalKey(prefix))
-    showStatus(`No journal entries to clear for ${studyTitle}.`)
+    showStatus(msg("journal_none_clear", { study: studyTitle }))
     onCleared()
     updateStorageInfo()
     return
   }
 
-  const msg = `This will permanently delete ${count} journal ${count === 1 ? "entry" : "entries"} for ${studyTitle} from this browser. This cannot be undone.\n\nContinue?`
-  if (window.confirm(msg)) {
+  const question = msgCount("journal_clear_confirm", count, { study: studyTitle })
+  if (window.confirm(question)) {
     localStorage.removeItem(journalKey(prefix))
-    showStatus(`All journal entries for ${studyTitle} have been cleared.`)
+    showStatus(msg("journal_cleared", { study: studyTitle }))
     onCleared()
     updateStorageInfo()
   }
@@ -339,15 +364,15 @@ function initJournalStudyBlocks() {
     if (!exportBtn && !importBtn && !clearBtn) return
 
     const prefix     = block.dataset.storagePrefix
-    const studyTitle = block.querySelector(".settings-progress-study-title")?.textContent || "this study"
+    const studyTitle = block.querySelector(".settings-progress-study-title")?.textContent || msg("this_study")
     const infoEl      = block.querySelector(".settings-progress-study-info")
 
     function refreshInfo() {
       if (!infoEl) return
       const count = journalEntryCount(prefix)
       infoEl.textContent = count === 0
-        ? "No journal entries stored."
-        : `${count} journal ${count === 1 ? "entry" : "entries"} stored.`
+        ? msg("journal_stored_none")
+        : msgCount("journal_stored", count)
     }
 
     if (exportBtn) exportBtn.addEventListener("click", () => exportJournal(prefix, studyTitle))
@@ -373,11 +398,11 @@ function initJournalStudyBlocks() {
 function exportProgress(prefix, studyTitle) {
   const data = getProgressData(prefix)
   const count = Object.keys(data).length
-  if (count === 0) { showStatus(`No progress data to export for ${studyTitle}.`); return }
+  if (count === 0) { showStatus(msg("progress_none_export", { study: studyTitle })); return }
 
   const today = new Date().toISOString().split("T")[0]
   downloadJSON(data, `${prefix}-progress-${today}.json`)
-  showStatus(`Exported ${studyTitle} progress (${count} ${count === 1 ? "item" : "items"}).`)
+  showStatus(msgCount("progress_exported", count, { study: studyTitle }))
 }
 
 function importProgress(prefix, studyTitle, file, onImported) {
@@ -385,23 +410,23 @@ function importProgress(prefix, studyTitle, file, onImported) {
   reader.onload = function(e) {
     try {
       const data = JSON.parse(e.target.result)
-      if (!validateProgressData(data)) { showStatus("Invalid progress file."); return }
+      if (!validateProgressData(data)) { showStatus(msg("progress_invalid")); return }
 
       const count = Object.keys(data).length
-      if (count === 0) { showStatus("The file contains no progress data."); return }
+      if (count === 0) { showStatus(msg("progress_file_empty")); return }
 
       const existing = progressItemCount(prefix)
-      let msg = `Import progress for ${studyTitle} (${count} ${count === 1 ? "item" : "items"})?`
-      if (existing > 0) msg += ` This will replace your current progress (${existing} ${existing === 1 ? "item" : "items"}).`
+      let question = msgCount("progress_import_confirm", count, { study: studyTitle })
+      if (existing > 0) question += msgCount("progress_import_replace", existing)
 
-      if (window.confirm(msg)) {
+      if (window.confirm(question)) {
         localStorage.setItem(progressKey(prefix), JSON.stringify(data))
-        showStatus(`Imported ${studyTitle} progress (${count} ${count === 1 ? "item" : "items"}).`)
+        showStatus(msgCount("progress_imported", count, { study: studyTitle }))
         onImported()
         updateStorageInfo()
       }
     } catch {
-      showStatus("Could not read file. Make sure it is a valid JSON file.")
+      showStatus(msg("file_unreadable"))
     }
   }
   reader.readAsText(file)
@@ -409,12 +434,12 @@ function importProgress(prefix, studyTitle, file, onImported) {
 
 function clearProgress(prefix, studyTitle, onCleared) {
   const count = progressItemCount(prefix)
-  if (count === 0) { showStatus(`No progress data to clear for ${studyTitle}.`); return }
+  if (count === 0) { showStatus(msg("progress_none_clear", { study: studyTitle })); return }
 
-  const msg = `This will permanently delete all progress for ${studyTitle} (${count} completed ${count === 1 ? "item" : "items"}) from this browser. This cannot be undone.\n\nContinue?`
-  if (window.confirm(msg)) {
+  const question = msgCount("progress_clear_confirm", count, { study: studyTitle })
+  if (window.confirm(question)) {
     localStorage.removeItem(progressKey(prefix))
-    showStatus(`All progress for ${studyTitle} has been cleared.`)
+    showStatus(msg("progress_cleared", { study: studyTitle }))
     onCleared()
     updateStorageInfo()
   }
@@ -429,7 +454,7 @@ function initProgressStudyBlocks() {
     if (!exportBtn && !importBtn && !clearBtn) return
 
     const prefix     = block.dataset.storagePrefix
-    const studyTitle = block.querySelector(".settings-progress-study-title")?.textContent || "this study"
+    const studyTitle = block.querySelector(".settings-progress-study-title")?.textContent || msg("this_study")
     const infoEl      = block.querySelector(".settings-progress-study-info")
 
     let studyConfig = {}
@@ -440,8 +465,8 @@ function initProgressStudyBlocks() {
       const count = progressItemCount(prefix)
       const total = progressTotalItems(studyConfig)
       infoEl.textContent = count === 0
-        ? "No progress recorded."
-        : `${count} of ${total} steps complete.`
+        ? msg("progress_none")
+        : msg("progress_steps", { count, total })
     }
 
     if (exportBtn) exportBtn.addEventListener("click", () => exportProgress(prefix, studyTitle))
@@ -484,7 +509,7 @@ function renderGroupMemberList() {
   if (members.length === 0) {
     const empty = document.createElement("p")
     empty.className = "settings-info"
-    empty.textContent = "No group members yet. Add someone to get started."
+    empty.textContent = msg("group_empty")
     list.appendChild(empty)
     return
   }
@@ -499,7 +524,7 @@ function renderGroupMemberList() {
 
     const removeBtn = document.createElement("button")
     removeBtn.className = "group-member-remove"
-    removeBtn.textContent = "Remove"
+    removeBtn.textContent = msg("remove")
     removeBtn.addEventListener("click", () => {
       const current = getGroupMembers()
       current.splice(index, 1)
@@ -522,11 +547,11 @@ function initGroupMemberForm() {
   function addMember() {
     const name = nameInput.value.trim()
     const email = emailInput.value.trim()
-    if (!email) { showStatus("Please enter an email address."); return }
+    if (!email) { showStatus(msg("email_required")); return }
 
     const members = getGroupMembers()
     if (members.some(m => m.email.toLowerCase() === email.toLowerCase())) {
-      showStatus("That email address is already in your group.")
+      showStatus(msg("email_duplicate"))
       return
     }
 
@@ -536,7 +561,7 @@ function initGroupMemberForm() {
     nameInput.value = ""
     emailInput.value = ""
     nameInput.focus()
-    showStatus(`Added ${name || email} to your group.`)
+    showStatus(msg("member_added", { name: name || email }))
   }
 
   addBtn.addEventListener("click", addMember)
@@ -549,16 +574,16 @@ function updateGroupInfo() {
   const infoEl = document.getElementById("settings-group-info")
   if (!infoEl) return
   const count = getGroupMembers().length
-  infoEl.textContent = count === 0 ? "No group members." : `${count} ${count === 1 ? "member" : "members"} in your study group.`
+  infoEl.textContent = count === 0 ? msg("group_none") : msgCount("group_count", count)
 }
 
 function exportGroup() {
   const members = getGroupMembers()
-  if (members.length === 0) { showStatus("No group members to export."); return }
+  if (members.length === 0) { showStatus(msg("group_none_export")); return }
 
   const today = new Date().toISOString().split("T")[0]
   downloadJSON(members, `bst-group-${today}.json`)
-  showStatus(`Exported ${members.length} group ${members.length === 1 ? "member" : "members"}.`)
+  showStatus(msgCount("group_exported", members.length))
 }
 
 function importGroup(file) {
@@ -566,24 +591,24 @@ function importGroup(file) {
   reader.onload = function(e) {
     try {
       const data = JSON.parse(e.target.result)
-      if (!Array.isArray(data)) { showStatus("Invalid group file."); return }
+      if (!Array.isArray(data)) { showStatus(msg("group_invalid")); return }
       const valid = data.every(m => typeof m === "object" && m !== null && typeof m.email === "string")
-      if (!valid) { showStatus("Invalid group file. Each member must have an email."); return }
+      if (!valid) { showStatus(msg("group_invalid_email")); return }
 
       const count = data.length
-      if (count === 0) { showStatus("The file contains no group members."); return }
+      if (count === 0) { showStatus(msg("group_file_empty")); return }
 
       const existing = getGroupMembers().length
-      let msg = `Import ${count} group ${count === 1 ? "member" : "members"}?`
-      if (existing > 0) msg += ` This will replace your current ${existing} ${existing === 1 ? "member" : "members"}.`
+      let question = msgCount("group_import_confirm", count)
+      if (existing > 0) question += msgCount("group_import_replace", existing)
 
-      if (window.confirm(msg)) {
+      if (window.confirm(question)) {
         saveGroupMembers(data)
         renderGroupMemberList()
-        showStatus(`Imported ${count} group ${count === 1 ? "member" : "members"}.`)
+        showStatus(msgCount("group_imported", count))
       }
     } catch {
-      showStatus("Could not read file. Make sure it is a valid JSON file.")
+      showStatus(msg("file_unreadable"))
     }
   }
   reader.readAsText(file)
@@ -591,15 +616,15 @@ function importGroup(file) {
 
 function clearGroup() {
   const count = getGroupMembers().length
-  if (count === 0) { showStatus("No group members to clear."); return }
+  if (count === 0) { showStatus(msg("group_none_clear")); return }
 
-  const msg = `This will remove all ${count} ${count === 1 ? "member" : "members"} from your study group. This cannot be undone.\n\nContinue?`
-  if (window.confirm(msg)) {
+  const question = msgCount("group_clear_confirm", count)
+  if (window.confirm(question)) {
     localStorage.removeItem(GROUP_KEY)
     renderGroupMemberList()
     updateGroupInfo()
     updateStorageInfo()
-    showStatus("All group members have been removed.")
+    showStatus(msg("group_cleared"))
   }
 }
 
@@ -624,7 +649,7 @@ function updateStorageInfo() {
       const key = localStorage.key(i)
       if (key) totalBytes += localStorage.getItem(key).length * 2
     }
-    el.textContent = `Storage used: ${(totalBytes / 1024).toFixed(1)} KB`
+    el.textContent = msg("storage_used", { kb: (totalBytes / 1024).toFixed(1) })
   } catch {
     el.textContent = ""
   }
@@ -688,7 +713,7 @@ function initSettingsPage() {
       s.siteTheme = siteThemeSelect.value
       saveSettings(s)
       applySiteTheme()
-      showStatus(`Site theme set to "${siteThemeSelect.options[siteThemeSelect.selectedIndex].text}".`)
+      showStatus(msg("theme_set", { theme: siteThemeSelect.options[siteThemeSelect.selectedIndex].text }))
     })
   }
 
@@ -706,7 +731,7 @@ function initSettingsPage() {
     saveSettings(s)
     applyFontSize()
     fontSizeInput.value = px
-    showStatus(`Font size set to ${px}px.`)
+    showStatus(msg("font_size_set", { px }))
   }
 
   if (decreaseBtn && increaseBtn && fontSizeInput) {
@@ -733,7 +758,7 @@ function initSettingsPage() {
       s.quizLength = clampQuizLength(parseInt(quizLengthInput.value, 10))
       saveSettings(s)
       quizLengthInput.value = s.quizLength
-      showStatus(`Warm-up quizzes will ask ${s.quizLength} questions.`)
+      showStatus(msg("quiz_length_set", { count: s.quizLength }))
     })
   }
 
@@ -745,7 +770,7 @@ function initSettingsPage() {
       s.quizLookback = clampQuizLookback(parseInt(quizLookbackInput.value, 10))
       saveSettings(s)
       quizLookbackInput.value = s.quizLookback
-      showStatus(`Warm-up quizzes will draw from the ${s.quizLookback === 1 ? "week" : `${s.quizLookback} weeks`} before the one you are starting.`)
+      showStatus(msgCount("quiz_lookback_set", s.quizLookback))
     })
   }
 
@@ -753,7 +778,7 @@ function initSettingsPage() {
   if (resetBannerBtn) {
     resetBannerBtn.addEventListener("click", () => {
       localStorage.removeItem(BANNER_KEY)
-      showStatus("Announcement banner reset. Reload any page to see it again.")
+      showStatus(msg("banner_reset"))
     })
   }
 
@@ -761,7 +786,7 @@ function initSettingsPage() {
   if (resetTipBtn) {
     resetTipBtn.addEventListener("click", () => {
       localStorage.removeItem(TIP_DISMISSED_KEY)
-      showStatus("Tip of the week reset. Reload any page to see it again.")
+      showStatus(msg("tip_reset"))
     })
   }
 

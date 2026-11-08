@@ -1,0 +1,192 @@
+# Interface strings for Spanish pages (/es/...). See en.yml for the English
+# and for how these are read. Anything missing here falls back to English.
+# Conventions follow notes/spanish_project/spanish-project.md: neutral Latin
+# American Spanish, tú for the reader, «comillas» for quotations.
+es:
+  lang:
+    switcher_label: Idioma
+  nav:
+    home: Inicio
+    essays: Ensayos
+    tips: Consejos
+    verse: Versículo
+    journal: Diario
+    speak: Escuchar
+    share: Compartir
+    print: Imprimir
+    downloads: Descargas
+    settings: Ajustes
+    about: Acerca de
+    menu: Menú
+  footer:
+    copyright_html: 'El contenido del sitio es &copy; %{year} %{author}, bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">CC BY-NC-SA 4.0</a>. Las citas bíblicas quedan excluidas &mdash; ver abajo.'
+    contact: Contacto
+    privacy: Política de privacidad
+  essays:
+    tab_all: Todos
+    tab_recent: Recientes
+    tab_collections: Colecciones
+    tab_search: Buscar
+    tab_topics: Temas
+    none: Todavía no hay ensayos. Vuelve pronto.
+    no_collections: Todavía no hay colecciones.
+    read_article: Leer el ensayo
+    begin_reading: Empezar a leer
+    collection: Colección
+    parts:
+      one: "%{count} parte"
+      other: "%{count} partes"
+    search_label: Buscar en los ensayos
+    search_placeholder: p. ej. oración, Calvino, los elegidos
+    search_submit: Buscar
+    search_clear: Borrar
+    search_hint_html: Busca en el texto completo de cada ensayo. Un ensayo debe contener <em>todos</em> los términos para coincidir &mdash; pon comillas alrededor de una frase (&laquo;Hechos 17&raquo;) para encontrar esas palabras juntas.
+  essay:
+    write_to: Escríbele a %{author} sobre este ensayo
+    topics_label: "Temas:"
+    all_topics: Todos los temas
+  settings:
+    intro: Personaliza tu experiencia de estudio. Todos los ajustes se guardan de forma privada en este navegador.
+    features: Funciones
+    journaling: Diario
+    journaling_desc: Mostrar el ícono del diario en las páginas de cada día
+    read_aloud: Lectura en voz alta
+    read_aloud_desc: Mostrar el botón Escuchar en la barra de herramientas
+    group_sharing: Compartir con el grupo
+    group_sharing_desc: Mostrar un ícono de correo en la barra de herramientas para compartir con tu grupo de estudio
+    discussions: Discusiones de la comunidad
+    discussions_desc_html: Mostrar una sección de comentarios al final de las páginas de contenido. Para publicar se necesita una cuenta gratuita de <a href="https://github.com/signup" target="_blank">GitHub</a>. Todos los comentarios son públicos.
+    tips: Consejo de la semana
+    tips_desc: Mostrar en cada página un consejo de estudio elegido al azar. Al cerrarlo, los consejos se ocultan por el resto de la semana.
+    quiz: Cuestionario de repaso
+    quiz_desc: Mostrar el enlace «¿Recuerdas?» al cuestionario al inicio del resumen de cada semana. La página del cuestionario sigue disponible de todos modos.
+    theme: Tema del sitio
+    theme_label: "Elige la apariencia que prefieras:"
+    theme_light: Claro
+    theme_dark: Oscuro
+    theme_auto: Igual que el sistema
+    font_size: Tamaño de letra
+    font_size_info: "Elige el tamaño de lectura que prefieras, en píxeles:"
+    font_decrease: Reducir el tamaño de letra
+    font_increase: Aumentar el tamaño de letra
+    quiz_info: "Configura cada cuestionario de repaso. Las preguntas por cuestionario pueden ser de 5 a 20. Las semanas hacia atrás pueden ser de 1 a 6, contadas desde la semana que estás empezando: al empezar la semana 9 con 4 semanas hacia atrás, las preguntas salen de las semanas 5 a 8."
+    quiz_length: Preguntas por cuestionario
+    quiz_lookback: Semanas hacia atrás
+    journal_data: Datos del diario
+    journal_prompt: Guía para las entradas del diario
+    journal_prompt_info_html: El texto tenue que aparece en una entrada vacía del diario. Elige un método para que te guíe paso a paso, o escribe el tuyo. Consulta <a href="%{url}">Diario</a> (en inglés) para ver qué pregunta cada método.
+    journal_data_info_html: Las entradas del diario se guardan por separado para cada estudio bíblico. Abajo puedes ver, exportar, importar o borrar las entradas de un solo estudio. <strong>Ver</strong> abre todo el diario en una sola página, lista para imprimir o guardar como PDF. <strong>Exportar</strong> guarda una copia de seguridad en JSON &mdash; el único archivo que Importar acepta.
+    view_journal: Ver el diario
+    export: Exportar
+    import: Importar
+    clear_entries: Borrar las entradas
+    group_members: Miembros del grupo de estudio
+    name_placeholder: Nombre
+    email_placeholder: Correo electrónico
+    add: Agregar
+    clear_members: Quitar a todos los miembros
+    progress_data: Datos de progreso
+    progress_info: El progreso se guarda por separado para cada estudio bíblico. Abajo puedes exportar, importar o borrar el progreso de un solo estudio.
+    clear_progress: Borrar el progreso
+    storage: Almacenamiento
+    debug: Depuración
+    debug_info: Herramientas para probar las funciones de este sitio.
+    reset_banner: Restablecer el anuncio
+    reset_tip: Restablecer el consejo de la semana
+  settings_js:
+    write_my_own: Escribir la mía
+    prompt_set_method: Guía del diario cambiada a %{name}
+    prompt_set_custom: Guía del diario cambiada a tus propias palabras.
+    prompt_saved: Guía del diario guardada.
+    this_study: este estudio
+    file_unreadable: No se pudo leer el archivo. Asegúrate de que sea un archivo JSON válido.
+    journal_none_export: No hay entradas del diario que exportar para %{study}.
+    journal_exported_one: Diario de %{study} exportado (%{count} entrada).
+    journal_exported_other: Diario de %{study} exportado (%{count} entradas).
+    journal_invalid: Archivo de diario no válido.
+    journal_file_empty: El archivo no contiene entradas del diario.
+    journal_import_confirm_one: ¿Importar el diario de %{study} (%{count} entrada)?
+    journal_import_confirm_other: ¿Importar el diario de %{study} (%{count} entradas)?
+    journal_import_replace_one: " Esto reemplazará tu entrada actual (%{count})."
+    journal_import_replace_other: " Esto reemplazará tus %{count} entradas actuales."
+    journal_imported_one: Diario de %{study} importado (%{count} entrada).
+    journal_imported_other: Diario de %{study} importado (%{count} entradas).
+    journal_none_clear: No hay entradas del diario que borrar para %{study}.
+    journal_clear_confirm_one: "Esto eliminará de forma permanente %{count} entrada del diario de %{study} de este navegador. No se puede deshacer.\n\n¿Continuar?"
+    journal_clear_confirm_other: "Esto eliminará de forma permanente %{count} entradas del diario de %{study} de este navegador. No se puede deshacer.\n\n¿Continuar?"
+    journal_cleared: Se borraron todas las entradas del diario de %{study}.
+    journal_stored_none: No hay entradas del diario guardadas.
+    journal_stored_one: "%{count} entrada del diario guardada."
+    journal_stored_other: "%{count} entradas del diario guardadas."
+    progress_none_export: No hay datos de progreso que exportar para %{study}.
+    progress_exported_one: Progreso de %{study} exportado (%{count} elemento).
+    progress_exported_other: Progreso de %{study} exportado (%{count} elementos).
+    progress_invalid: Archivo de progreso no válido.
+    progress_file_empty: El archivo no contiene datos de progreso.
+    progress_import_confirm_one: ¿Importar el progreso de %{study} (%{count} elemento)?
+    progress_import_confirm_other: ¿Importar el progreso de %{study} (%{count} elementos)?
+    progress_import_replace_one: " Esto reemplazará tu progreso actual (%{count} elemento)."
+    progress_import_replace_other: " Esto reemplazará tu progreso actual (%{count} elementos)."
+    progress_imported_one: Progreso de %{study} importado (%{count} elemento).
+    progress_imported_other: Progreso de %{study} importado (%{count} elementos).
+    progress_none_clear: No hay datos de progreso que borrar para %{study}.
+    progress_clear_confirm_one: "Esto eliminará de forma permanente todo el progreso de %{study} (%{count} elemento completado) de este navegador. No se puede deshacer.\n\n¿Continuar?"
+    progress_clear_confirm_other: "Esto eliminará de forma permanente todo el progreso de %{study} (%{count} elementos completados) de este navegador. No se puede deshacer.\n\n¿Continuar?"
+    progress_cleared: Se borró todo el progreso de %{study}.
+    progress_none: No hay progreso registrado.
+    progress_steps: "%{count} de %{total} pasos completados."
+    group_empty: Todavía no hay miembros en el grupo. Agrega a alguien para empezar.
+    remove: Quitar
+    email_required: Escribe un correo electrónico.
+    email_duplicate: Ese correo electrónico ya está en tu grupo.
+    member_added: Se agregó a %{name} a tu grupo.
+    group_none: No hay miembros en el grupo.
+    group_count_one: "%{count} miembro en tu grupo de estudio."
+    group_count_other: "%{count} miembros en tu grupo de estudio."
+    group_none_export: No hay miembros del grupo que exportar.
+    group_exported_one: Se exportó %{count} miembro del grupo.
+    group_exported_other: Se exportaron %{count} miembros del grupo.
+    group_invalid: Archivo de grupo no válido.
+    group_invalid_email: Archivo de grupo no válido. Cada miembro debe tener un correo electrónico.
+    group_file_empty: El archivo no contiene miembros del grupo.
+    group_import_confirm_one: ¿Importar %{count} miembro del grupo?
+    group_import_confirm_other: ¿Importar %{count} miembros del grupo?
+    group_import_replace_one: " Esto reemplazará a tu miembro actual (%{count})."
+    group_import_replace_other: " Esto reemplazará a tus %{count} miembros actuales."
+    group_imported_one: Se importó %{count} miembro del grupo.
+    group_imported_other: Se importaron %{count} miembros del grupo.
+    group_none_clear: No hay miembros del grupo que quitar.
+    group_clear_confirm_one: "Esto quitará al único miembro (%{count}) de tu grupo de estudio. No se puede deshacer.\n\n¿Continuar?"
+    group_clear_confirm_other: "Esto quitará a los %{count} miembros de tu grupo de estudio. No se puede deshacer.\n\n¿Continuar?"
+    group_cleared: Se quitó a todos los miembros del grupo.
+    storage_used: "Almacenamiento usado: %{kb} KB"
+    theme_set: Tema del sitio cambiado a «%{theme}».
+    font_size_set: Tamaño de letra cambiado a %{px}px.
+    quiz_length_set: Los cuestionarios de repaso tendrán %{count} preguntas.
+    quiz_lookback_set_one: Los cuestionarios de repaso tomarán preguntas de la semana anterior a la que estás empezando.
+    quiz_lookback_set_other: Los cuestionarios de repaso tomarán preguntas de las %{count} semanas anteriores a la que estás empezando.
+    banner_reset: Anuncio restablecido. Recarga cualquier página para verlo de nuevo.
+    tip_reset: Consejo de la semana restablecido. Recarga cualquier página para verlo de nuevo.
+  date:
+    # Bridgetown ships month and day names for English only, so Spanish
+    # supplies its own. Lowercase is standard Spanish usage.
+    formats:
+      default: "%Y-%m-%d"
+      short: "%-d %b"
+      long: "%-d de %B de %Y"
+      card: "%d %b %y"
+    day_names: [domingo, lunes, martes, miércoles, jueves, viernes, sábado]
+    abbr_day_names: [dom, lun, mar, mié, jue, vie, sáb]
+    month_names: [~, enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre]
+    abbr_month_names: [~, ene, feb, mar, abr, may, jun, jul, ago, sep, oct, nov, dic]
+    order:
+      - day
+      - month
+      - year
+  time:
+    formats:
+      default: "%a, %-d %b %Y %H:%M:%S %z"
+      short: "%-d %b %H:%M"
+      long: "%-d de %B de %Y %H:%M"
+    am: "am"
+    pm: "pm"

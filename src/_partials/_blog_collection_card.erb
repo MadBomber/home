@@ -12,7 +12,7 @@
         <%= collection["title"] %>
       <% end %>
     </h2>
-    <span class="blog-post-card-collection">Collection<% if collection["part_count"] > 0 %> &middot; <%= collection["part_count"] %> parts<% end %></span>
+    <span class="blog-post-card-collection"><%= t("essays.collection") %><% if collection["part_count"] > 0 %> &middot; <%= t("essays.parts", count: collection["part_count"]) %><% end %></span>
   </div>
   <div class="blog-post-card-body">
     <% if collection["description"] %>
@@ -27,7 +27,7 @@
               part_description = post.data[:description]
             %>
             <tr class="blog-collection-card-row"<% if part_description %> data-tooltip="<%= escape_attr.call(part_description) %>"<% end %>>
-              <td class="blog-collection-card-date"><a href="<%= part_url %>"><%= post.data[:date] ? post.data[:date].strftime("%b %d, %y") : "" %></a></td>
+              <td class="blog-collection-card-date"><a href="<%= part_url %>"><%= post.data[:date] ? l(post.data[:date].to_date, format: :card) : "" %></a></td>
               <td class="blog-collection-card-title"><a href="<%= part_url %>"><%= display_title.call(post) %></a></td>
             </tr>
           <% end %>
@@ -35,7 +35,7 @@
       </table>
     <% end %>
     <% if collection["entry_url"] %>
-      <a href="<%= relative_url collection["entry_url"] %>" class="blog-post-card-read">Begin reading &rarr;</a>
+      <a href="<%= relative_url collection["entry_url"] %>" class="blog-post-card-read"><%= t("essays.begin_reading") %> &rarr;</a>
     <% end %>
   </div>
 </div>
