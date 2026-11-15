@@ -2,7 +2,7 @@
 week: 20
 day: 3
 title: Crucified and Risen
-reading: Mark 15:21-47, Mark 16
+reading: Mark 15:21-47 + Mark 16
 parallel_passages: Matthew 27:32-28:20; Luke 23:26-24:53; John 19:17-21:25
 section: Passion and Resurrection
 tags:
@@ -17,7 +17,7 @@ study_slug: ntc1y
 ---
 
 
-## Reading: Mark 15:21-47, Mark 16
+## Reading: Mark 15:21-47 + Mark 16
 
 Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Mark.15" target="_blank" rel="noopener">Mark chapter 15</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Mark.16" target="_blank" rel="noopener">Mark chapter 16</a>
 

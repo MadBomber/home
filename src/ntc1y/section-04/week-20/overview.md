@@ -40,7 +40,7 @@ What strikes the careful reader is the diversity of these accounts within their 
 | 2 | Matthew 28  | [Resurrection and Commission](../day-2/) |
 | 3 | Mark 15:21-47 + Mark 16  | [Crucified and Risen](../day-3/) |
 | 4 | Luke 24  | [Emmaus Road and Ascension](../day-4/) |
-| 5 | John 20 + John 21  | [Seeing and Believing](../day-5/) |
+| 5 | John 20-21  | [Seeing and Believing](../day-5/) |
 
 ## Key Characters This Week
 

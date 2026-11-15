@@ -2,7 +2,7 @@
 week: 16
 day: 5
 title: Sheep and Goats, Luke's Olivet Parallel
-reading: Matthew 25:31-46, Luke 21
+reading: Matthew 25:31-46 + Luke 21
 parallel_passages: Matthew 24; Mark 13; Luke 12:35-48
 section: Road to Jerusalem
 tags:
@@ -17,7 +17,7 @@ study_slug: ntc1y
 ---
 
 
-## Reading: Matthew 25:31-46, Luke 21
+## Reading: Matthew 25:31-46 + Luke 21
 
 Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Matt.25" target="_blank" rel="noopener">Matthew chapter 25</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Luke.21" target="_blank" rel="noopener">Luke chapter 21</a>
 
