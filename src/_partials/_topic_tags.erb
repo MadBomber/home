@@ -6,8 +6,12 @@
   #               that a tag's page actually exists
   #
   # The hrefs are built from tags_base, which already carries base_path, so
-  # they resolve from any depth — including Spanish essays under /es/blog/,
-  # which have no tag pages of their own yet and so link to the English ones.
+  # they resolve from any depth. The caller passes the tag directory of the
+  # essay's own language (/es/blog/tags/ for a Spanish essay).
+  #
+  # A tag is written the same in every language's front matter; what it is
+  # *called* comes from src/_data/tag_names.yml for the page's language
+  # ("grace" shows as «gracia» on a Spanish essay), and as written otherwise.
   #
   # A tag whose page does not exist yet (scripts/tags.rb not rerun since the
   # tag was added) renders as plain text instead of a dead link.
@@ -17,14 +21,16 @@
     .map    { |r| r.relative_url.to_s }
     .select { |u| u.start_with?(tags_base.to_s) }
 
+  _tag_names = (site.data.tag_names || {})[site.locale.to_s] || {}
+
   _topics = Array(tags).map(&:to_s).reject(&:empty?).map do |tag|
     slug = tag.downcase.gsub(/[^a-z0-9]+/, "-").gsub(/\A-+|-+\z/, "")
     slug = "index-tag" if slug == "index"
-    { tag: tag, slug: slug, linked: _tag_page_urls.include?("#{tags_base}#{slug}/") }
+    { tag: _tag_names[tag] || tag, slug: slug, linked: _tag_page_urls.include?("#{tags_base}#{slug}/") }
   end
 %>
 <% if _topics.any? %>
-<nav class="blog-post-topics" aria-label="Topics">
+<nav class="blog-post-topics" aria-label="<%= t("essay.topics_nav") %>">
   <span class="blog-post-topics-label"><%= t("essay.topics_label") %></span>
   <ul class="blog-post-topics-list">
     <% _topics.each do |topic| %>

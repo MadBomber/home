@@ -5,10 +5,11 @@ study_slug: blog
 template_engine: erb
 ---
 
-6 pages carry the **2-corinthians** tag:
+7 pages carry the **2-corinthians** tag:
 
 - [Borrowed Power](<%= relative_url "/blog/borrowed-power/" %>)
 - [Choose Jesus](<%= relative_url "/blog/choose-jesus/" %>)
+- [In Jesus' Name, Cluck Like a Chicken](<%= relative_url "/blog/cluck-like-a-chicken/" %>)
 - [The Heaviest Word in the Bible: Fake Heavy](<%= relative_url "/blog/fake-heavy/" %>)
 - [It's Too Late!](<%= relative_url "/blog/its-too-late/" %>)
 - [The Heaviest Word in the Bible: Maximum Shame, Maximum Glory](<%= relative_url "/blog/maximum-shame-maximum-glory/" %>)

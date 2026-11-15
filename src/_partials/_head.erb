@@ -8,7 +8,12 @@
 <%
   resource_title   = strip_html(strip_newlines(title))
   page_title       = resource_title == "Index" ? "#{metadata.title}: #{metadata.tagline}" : "#{resource_title} | #{metadata.title}"
-  page_description = (data.description.to_s.empty? ? metadata.description : data.description).to_s.gsub(/\s+/, " ").strip
+  # site_metadata.yml carries description_es beside description; a page with no
+  # description of its own gets the site's, in the page's language.
+  site_description = metadata["description_#{site.locale}"] || metadata.description
+  page_description = (data.description.to_s.empty? ? site_description : data.description).to_s.gsub(/\s+/, " ").strip
+  # Each language has its own essay feed: /feed.xml and /es/feed.xml.
+  feed_prefix      = site.locale.to_sym == site.config.default_locale.to_sym ? "" : "/#{site.locale}"
   canonical_url    = "#{site.config.url}#{resource.relative_url}"
   is_blog_post     = data.layout == "blog_post"
   og_type          = is_blog_post ? "article" : "website"
@@ -20,7 +25,7 @@
 <% if !data.author.to_s.empty? %><meta name="author" content="<%= data.author %>" /><% end %>
 <link rel="canonical" href="<%= canonical_url %>" />
 <link rel="sitemap" type="application/xml" href="<%= relative_url '/sitemap.xml' %>" />
-<link rel="alternate" type="application/atom+xml" title="<%= metadata.title %> Blog" href="<%= relative_url '/feed.xml' %>" />
+<link rel="alternate" type="application/atom+xml" title="<%= t("feed.title", site: metadata.title) %>" href="<%= relative_url "#{feed_prefix}/feed.xml" %>" />
 
 <!-- Open Graph -->
 <meta property="og:title"       content="<%= og_title %>" />

@@ -2,17 +2,27 @@
 layout: none
 title: Atom Feed
 permalink: /feed.xml
+# Rendered once per language: /feed.xml lists the English essays, and
+# /es/feed.xml the Spanish ones. _head.erb links each page to the feed in its
+# own language.
+locale: multi
+locale_overrides:
+  es:
+    permalink: /es/feed.xml
 ---
 <%
   site_url   = site.config.url.to_s.chomp("/")
   meta       = site.data.site_metadata
   site_title = meta["title"] || "Lamp Light Guide"
-  site_desc  = meta["description"] || ""
+  site_desc  = meta["description_#{data.locale}"] || meta["description"] || ""
   author     = meta["author"] || ""
 
+  # English essays live under /blog/, every other language under /<locale>/blog/.
+  locale_prefix = data.locale.to_sym == site.config.default_locale.to_sym ? "" : "/#{data.locale}"
+  blog_root     = "#{site.base_path}#{locale_prefix}/blog"
+
   all_posts = site.resources
-    .select { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
-    .reject { |r| r.relative_url.to_s.end_with?("/blog/") }
+    .select { |r| r.relative_url.to_s.match?(%r{\A#{blog_root}/[^/]+/\z}) }
     .reject { |r| r.relative_url.to_s.end_with?("/blog/announcement/") }
     .reject { |r| r.relative_url.to_s.end_with?("/blog/tags/") }
     .reject { |r| r.data[:date] && r.data[:date].to_date > Date.today }
@@ -22,12 +32,12 @@ permalink: /feed.xml
 
   last_updated = all_posts.first&.data&.dig(:date)&.to_time&.utc&.iso8601 || Time.now.utc.iso8601
 %><?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title><%= site_title %> — Blog</title>
-  <subtitle><%= site_desc %></subtitle>
-  <link href="<%= site_url %>/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="<%= site_url %>/blog/" rel="alternate" type="text/html"/>
-  <id><%= site_url %>/</id>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="<%= data.locale %>">
+  <title><%= t("feed.title", site: site_title) %></title>
+  <subtitle><%= site_desc.gsub(/\s+/, " ").strip %></subtitle>
+  <link href="<%= site_url %><%= locale_prefix %>/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="<%= site_url %><%= locale_prefix %>/blog/" rel="alternate" type="text/html"/>
+  <id><%= site_url %><%= locale_prefix %>/</id>
   <updated><%= last_updated %></updated>
   <author>
     <name><%= author %></name>

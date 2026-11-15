@@ -119,7 +119,7 @@ locale_overrides:
 
     <div class="settings-field">
       <label class="settings-field-label" for="setting-journal-method"><%= t("settings.journal_prompt") %></label>
-      <p class="settings-info"><%= t("settings.journal_prompt_info_html", url: relative_url("/documents/journaling/")) %></p>
+      <p class="settings-info"><%= t("settings.journal_prompt_info_html", url: relative_url("#{data.locale.to_sym == site.config.default_locale.to_sym ? "" : "/#{data.locale}"}/documents/journaling/")) %></p>
       <select id="setting-journal-method" class="settings-select"></select>
       <textarea id="setting-journal-placeholder" class="settings-textarea" rows="4"></textarea>
     </div>

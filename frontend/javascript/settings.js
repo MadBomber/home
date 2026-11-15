@@ -7,6 +7,7 @@ import {
 } from "./journal-prompt.js"
 import { BANNER_KEY, GROUP_KEY, SETTINGS_KEY, TIP_DISMISSED_KEY } from "./storage-keys.js"
 import { entryText } from "./journal-entry.js"
+import { loadMessages } from "./messages.js"
 
 const DEFAULT_SETTINGS = {
   features: {
@@ -125,18 +126,9 @@ function applyFeatureVisibility() {
 // %{name} placeholders are filled from vars; count-based pairs end in
 // _one / _other and are picked by msgCount.
 
-const MESSAGES = (() => {
-  try { return JSON.parse(document.getElementById("settings-messages")?.textContent || "{}") } catch { return {} }
-})()
+// The lookup itself lives in messages.js, shared with the other pages.
 
-function msg(key, vars = {}) {
-  const text = typeof MESSAGES[key] === "string" ? MESSAGES[key] : key
-  return text.replace(/%\{(\w+)\}/g, (_, name) => (name in vars ? String(vars[name]) : ""))
-}
-
-function msgCount(key, count, vars = {}) {
-  return msg(count === 1 ? `${key}_one` : `${key}_other`, { count, ...vars })
-}
+const { msg, msgCount } = loadMessages("settings-messages")
 
 // --- Journal entry prompt (the ghost text in an empty entry box) ---
 

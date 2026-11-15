@@ -5,9 +5,10 @@ study_slug: blog
 template_engine: erb
 ---
 
-12 pages carry the **james** tag:
+13 pages carry the **james** tag:
 
 - [Are You a Fig Tree?](<%= relative_url "/blog/are-you-a-fig-tree/" %>)
+- [In Jesus' Name, Cluck Like a Chicken](<%= relative_url "/blog/cluck-like-a-chicken/" %>)
 - [Devil on a Leash](<%= relative_url "/blog/devil-on-a-leash/" %>)
 - [I Hate My Neighbor](<%= relative_url "/blog/i-hate-my-neighbor/" %>)
 - [Just Trying to Help](<%= relative_url "/blog/just-trying-to-help/" %>)

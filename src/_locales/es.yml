@@ -18,10 +18,19 @@ es:
     settings: Ajustes
     about: Acerca de
     menu: Menú
+  breadcrumb:
+    label: Ubicación de la página
+    week: Semana %{week}
+    day: Día %{day}
+    overview: Resumen
+    discussion: Discusión
+    memory_verse: Versículo para memorizar
   footer:
     copyright_html: 'El contenido del sitio es &copy; %{year} %{author}, bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">CC BY-NC-SA 4.0</a>. Las citas bíblicas quedan excluidas &mdash; ver abajo.'
     contact: Contacto
     privacy: Política de privacidad
+  feed:
+    title: "%{site} — Ensayos"
   banner:
     new_essay: "Nuevo ensayo: %{title}"
     announcement_label: Anuncio
@@ -60,6 +69,7 @@ es:
     write_to: Escríbele a %{author} sobre este ensayo
     topics_label: "Temas:"
     all_topics: Todos los temas
+    topics_nav: Temas
   settings:
     intro: Personaliza tu experiencia de estudio. Todos los ajustes se guardan de forma privada en este navegador.
     features: Funciones
@@ -89,7 +99,7 @@ es:
     quiz_lookback: Semanas hacia atrás
     journal_data: Datos del diario
     journal_prompt: Guía para las entradas del diario
-    journal_prompt_info_html: El texto tenue que aparece en una entrada vacía del diario. Elige un método para que te guíe paso a paso, o escribe el tuyo. Consulta <a href="%{url}">Diario</a> (en inglés) para ver qué pregunta cada método.
+    journal_prompt_info_html: El texto tenue que aparece en una entrada vacía del diario. Elige un método para que te guíe paso a paso, o escribe el tuyo. Consulta <a href="%{url}">Llevar un diario</a> para ver qué pregunta cada método.
     journal_data_info_html: Las entradas del diario se guardan por separado para cada estudio bíblico. Abajo puedes ver, exportar, importar o borrar las entradas de un solo estudio. <strong>Ver</strong> abre todo el diario en una sola página, lista para imprimir o guardar como PDF. <strong>Exportar</strong> guarda una copia de seguridad en JSON &mdash; el único archivo que Importar acepta.
     view_journal: Ver el diario
     export: Exportar
@@ -186,6 +196,94 @@ es:
     intro: Todo lo que hay aquí es tuyo. Elige un archivo y se guardará en tu dispositivo, donde podrás leerlo, imprimirlo o llevarlo contigo sin conexión.
     empty: Todavía no hay archivos para descargar. Vuelve más tarde.
     missing: Falta en src/downloads/ (este aviso solo aparece en desarrollo)
+  home:
+    # Scripture here is the NBLA, as printed.
+    hero_verse: "«Lámpara es a mis pies Tu palabra, Y luz para mi camino»."
+    hero_ref: "— Salmo 119:105 (NBLA)"
+    tagline: Estudios semanales de las Escrituras para iluminar tu caminar con Dios.
+    verse_1: "«Toda Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, equipado para toda buena obra»."
+    verse_1_ref: "— 2 Timoteo 3:16–17 (NBLA)"
+    verse_2: "«Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que maneja con precisión la palabra de verdad»."
+    verse_2_ref: "— 2 Timoteo 2:15 (NBLA)"
+    studies: Estudios disponibles
+    study_note_html: 'Las páginas de los estudios están por ahora en inglés. Los libros y los calendarios de lectura en español están en <a href="%{url}">Descargas</a>.'
+    in_development: En desarrollo
+    featured_essays: Ensayos destacados
+    devotionals: Devocionales diarios
+    devotionals_lead: "Los mejores devocionales hacen más que inspirar: te forman en la Palabra. Esto es lo que conviene buscar:"
+    devotional_point_1_title: La Escritura primero
+    devotional_point_1_text: Busca recursos que anclen su texto en un versículo bíblico explícito y no en una opinión personal.
+    devotional_point_2_title: Oración incluida
+    devotional_point_2_text: Muchas entradas terminan con una «oración del día» escrita, que te da palabras cuando no sabes cómo empezar a orar.
+    devotional_point_3_title: Con audio
+    devotional_point_3_text: Busca devocionales en video o en audio si prefieres escuchar la Palabra de Dios en el camino al trabajo o mientras haces los quehaceres.
+    visit_site: Visitar el sitio
+  landing_js:
+    steps: "%{count} de %{total} pasos completados (%{pct}%)"
+    steps_continue: "%{count} de %{total} pasos completados (%{pct}%) — continúa con: %{label} →"
+    section_overview: Resumen de la sección %{section}
+    week_overview: Resumen de la semana %{week}
+    week_day: Semana %{week}, día %{day}
+    week_discussion: Discusión de la semana %{week}
+  contact:
+    intro: Las preguntas, las correcciones y los comentarios sobre cómo va un estudio son bienvenidos. Escribe tu mensaje abajo y tu propia aplicación de correo se abrirá con él listo para enviar — nada se envía a este sitio, y ningún servicio externo interviene.
+    name_label: Tu nombre
+    optional: (opcional)
+    topic_label: ¿De qué se trata?
+    topics:
+      - Una pregunta sobre un estudio
+      - Una pregunta sobre un ensayo
+      - Algo no funciona en el sitio
+      - Permiso para reproducir o reutilizar
+      - Otro asunto
+    message_label: Mensaje
+    message_placeholder: Escribe tanto o tan poco como quieras.
+    submit: Abrir en mi aplicación de correo
+    direct_heading: O escribe directamente
+    direct_info: "Si el botón de arriba no hace nada — algunos navegadores no tienen una aplicación de correo a la cual entregarlo — escribe a esta dirección desde donde leas tu correo:"
+    loading: cargando…
+    copy_address: Copiar la dirección
+  contact_js:
+    page_note: "Tu mensaje nombrará la página de la que vienes: %{url} — cambia el asunto abajo si se trata de otra cosa."
+    message_required: Escribe primero un mensaje.
+    opening: Tu aplicación de correo debería estar abriéndose con el mensaje listo para enviar.
+    copy_this: "Copia esta dirección: %{address}"
+    copied: Dirección copiada.
+  draft:
+    title: Borrador — aún no publicado
+    essay: "Este ensayo lleva la fecha del %{date}, que todavía no ha llegado. Sigue en elaboración: la redacción, la estructura o las conclusiones pueden cambiar considerablemente antes de esa fecha, y es posible que esta página no llegue a publicarse en su forma actual."
+    study: "Este estudio aún no se ha publicado, por lo que no aparece en la página de inicio ni en la navegación del sitio. Sigue en elaboración: el contenido, la estructura o el calendario pueden cambiar considerablemente, y es posible que esta página no llegue a publicarse en su forma actual."
+  not_found:
+    title: Página no encontrada
+    badge: 404 — Página no encontrada
+    image_alt: El Buen Pastor buscando a una oveja perdida
+    heading: ¿A veces te sientes como una oveja perdida?
+    body: Vagando sin rumbo, sin saber a dónde perteneces — Jesús te está buscando. Él es el Buen Pastor. Confía en Él para que te lleve a casa, a donde perteneces.
+    # Scripture below is the NBLA, as printed.
+    verse: "«Porque el Hijo del Hombre ha venido a buscar y a salvar lo que se había perdido»."
+    verse_ref: "— Lucas 19:10 (NBLA)"
+    home: Volver al inicio
+    path_heading: El camino a casa
+    path_intro: La Biblia llama por su nombre a esa sensación de estar perdido — y muestra el camino de regreso.
+    steps:
+      - text: "No nos extraviamos por accidente. La Escritura es clara: cada uno de nosotros se ha apartado de Dios."
+        verse: "«Por cuanto todos pecaron y no alcanzan la gloria de Dios»."
+        ref: "— Romanos 3:23 (NBLA)"
+      - text: El pecado trae una consecuencia — pero Dios se niega a dejar la historia ahí.
+        verse: "«Porque la paga del pecado es muerte, pero la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro»."
+        ref: "— Romanos 6:23 (NBLA)"
+      - text: El Buen Pastor no esperó a que encontraras el camino de regreso. Vino a buscarte — a un gran costo.
+        verse: "«Pero Dios demuestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros»."
+        ref: "— Romanos 5:8 (NBLA)"
+      - text: Volver a casa es más sencillo de lo que piensas. Empieza con una confesión y con confiar.
+        verse: "«Que si confiesas con tu boca a Jesús por Señor, y crees en tu corazón que Dios lo resucitó de entre los muertos, serás salvo»."
+        ref: "— Romanos 10:9 (NBLA)"
+      - text: Y la promesa es para todos — sin excepciones, sin letra pequeña.
+        verse: "«Porque: “TODO AQUEL QUE INVOQUE EL NOMBRE DEL SEÑOR SERÁ SALVO”»."
+        ref: "— Romanos 10:13 (NBLA)"
+      - text: Este es el corazón de todo — la razón por la que el Pastor dejó las noventa y nueve para encontrarte.
+        verse: "«Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, sino que tenga vida eterna. Porque Dios no envió a Su Hijo al mundo para juzgar al mundo, sino para que el mundo sea salvo por Él»."
+        ref: "— Juan 3:16–17 (NBLA)"
   date:
     # Bridgetown ships month and day names for English only, so Spanish
     # supplies its own. Lowercase is standard Spanish usage.

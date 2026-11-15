@@ -7,10 +7,17 @@
   # Two pages opt out: the contact page itself, whose own address says nothing,
   # and the privacy policy, which is about the site rather than a thing a reader
   # would write in about.
-  _here       = resource&.relative_url.to_s
-  _no_subject = %W[#{site.base_path}/contact/ #{site.base_path}/privacy_policy/].include?(_here)
+  #
+  # Both links stay in the page's language when that page exists there
+  # (/es/contact/, /es/privacy_policy/), and fall back to English otherwise.
+  _urls      = site.tmp_cache[:footer_resource_urls] ||= site.resources.map { |r| r.relative_url.to_s }.to_set
+  _prefix    = site.locale.to_sym == site.config.default_locale.to_sym ? "" : "/#{site.locale}"
+  _localized = ->(path) { _urls.include?("#{site.base_path}#{_prefix}#{path}") ? "#{_prefix}#{path}" : path }
 
-  _contact_href = relative_url("/contact/")
+  _here       = resource&.relative_url.to_s
+  _no_subject = ["", _prefix].flat_map { |p| %W[#{site.base_path}#{p}/contact/ #{site.base_path}#{p}/privacy_policy/] }.include?(_here)
+
+  _contact_href = relative_url(_localized.call("/contact/"))
   unless _here.empty? || _no_subject
     _contact_href = "#{_contact_href}?about=#{ERB::Util.url_encode(_here)}"
   end
@@ -30,6 +37,6 @@
   <% end %>
   <p class="site-footer-links">
     <a href="<%= _contact_href %>"><%= t("footer.contact") %></a>
-    <a href="<%= relative_url "/privacy_policy/" %>"><%= t("footer.privacy") %></a>
+    <a href="<%= relative_url _localized.call("/privacy_policy/") %>"><%= t("footer.privacy") %></a>
   </p>
 </footer>

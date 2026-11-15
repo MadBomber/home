@@ -4,6 +4,8 @@
 # name        — display title shown on the card
 # publisher   — short publisher label shown as a subtitle
 # description — one or two sentences shown on the card
+# description_es — the description in Spanish, shown on /es/; says «En inglés.»
+#               since these are English-language sites
 # url         — full external URL (opens in new tab)
 
 - name: "Crossway Daily Devotional"
@@ -11,6 +13,10 @@
   description: >-
     Theologically rich daily devotionals rooted in Scripture, published by
     Crossway to help believers grow in their knowledge of God's Word.
+  description_es: >-
+    Devocionales diarios de gran riqueza teológica, arraigados en las Escrituras,
+    publicados por Crossway para ayudar a los creyentes a crecer en el
+    conocimiento de la Palabra de Dios. En inglés.
   url: "https://mailchi.mp/crossway/two-defining-truths-of-the-christian-life-5032267?mc_cid=96215ea92b"
 
 - name: "Our Daily Bread"
@@ -20,6 +26,12 @@
     each anchored in a specific Scripture passage. Browse by Bible book, topic,
     author, or life issue — readable in the browser, delivered by email, or
     available as video. Multiple languages supported.
+  description_es: >-
+    Un archivo con buscador de devocionales diarios escritos por un equipo
+    rotativo de autores, cada uno anclado en un pasaje específico de las
+    Escrituras. Se puede explorar por libro de la Biblia, tema, autor o
+    situación de la vida; se lee en el navegador, llega por correo o se ve en
+    video. Este enlace lleva a la edición en inglés; el sitio ofrece otros idiomas.
   url: "https://www.odbm.org/en/devotionals"
 
 - name: "In Touch Daily Devotion"
@@ -29,6 +41,11 @@
     Scripture passage with practical application points and related verses.
     Includes built-in audio playback, a companion Bible-in-a-Year reading,
     and adjustable font size and theme.
+  description_es: >-
+    Devocionales diarios del Dr. Charles Stanley, cada uno anclado en un pasaje
+    específico de las Escrituras, con puntos prácticos de aplicación y
+    versículos relacionados. Incluye reproducción de audio, una lectura de la
+    Biblia en un año y ajuste de tamaño de letra y de tema. En inglés.
   url: "https://www.intouch.org/read/daily-devotions"
 
 - name: "Billy Graham Daily Devotion"
@@ -38,6 +55,11 @@
     and a closing prayer. A calendar view lets you browse any day past or present
     — clean and uncluttered, with a single focus on strengthening your walk
     with Christ.
+  description_es: >-
+    Reflexiones diarias tomadas de los escritos de Billy Graham, acompañadas de
+    un pasaje de las Escrituras y una oración final. Una vista de calendario
+    permite consultar cualquier día, pasado o presente: limpio y despejado, con
+    un solo propósito, fortalecer tu caminar con Cristo. En inglés.
   url: "https://billygraham.org/devotions"
 
 - name: "Insight for Today"
@@ -47,4 +69,9 @@
     in extensive Scripture quotation and decades of Bible teaching. A
     three-month archive is available, with each entry connected to his
     Insight for Living radio broadcast ministry.
+  description_es: >-
+    Devocionales diarios expositivos y profundos del pastor Chuck Swindoll,
+    basados en abundantes citas de las Escrituras y en décadas de enseñanza
+    bíblica. Hay un archivo de tres meses, y cada entrada se relaciona con su
+    ministerio radial Insight for Living. En inglés.
   url: "https://insight.org/resources/daily-devotional"

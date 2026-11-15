@@ -5,9 +5,10 @@ study_slug: blog
 template_engine: erb
 ---
 
-4 pages carry the **salvation** tag:
+5 pages carry the **salvation** tag:
 
 - [Choose Jesus](<%= relative_url "/blog/choose-jesus/" %>)
+- [I Saw Jesus](<%= relative_url "/blog/i-saw-jesus/" %>)
 - [In That Number](<%= relative_url "/blog/in-that-number/" %>)
 - [It's Too Late!](<%= relative_url "/blog/its-too-late/" %>)
 - [The King Has Come](<%= relative_url "/blog/the-king-has-come/" %>)

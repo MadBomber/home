@@ -5,13 +5,14 @@ study_slug: blog
 template_engine: erb
 ---
 
-30 pages carry the **john** tag:
+31 pages carry the **john** tag:
 
 - [All You Need Is Love?](<%= relative_url "/blog/all-you-need-is-love/" %>)
 - [Are You a Fig Tree?](<%= relative_url "/blog/are-you-a-fig-tree/" %>)
 - [Bible Study is Boring](<%= relative_url "/blog/bible-study-is-boring/" %>)
 - [Borrowed Power](<%= relative_url "/blog/borrowed-power/" %>)
 - [Choose Jesus](<%= relative_url "/blog/choose-jesus/" %>)
+- [In Jesus' Name, Cluck Like a Chicken](<%= relative_url "/blog/cluck-like-a-chicken/" %>)
 - [Devil on a Leash](<%= relative_url "/blog/devil-on-a-leash/" %>)
 - [The Heaviest Word in the Bible: Fake Heavy](<%= relative_url "/blog/fake-heavy/" %>)
 - [God's Devil: Introduction](<%= relative_url "/blog/gods-devil-collection/" %>)

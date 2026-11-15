@@ -1,33 +1,58 @@
 ---
 layout: default
 title: Home
+# One template, rendered once per language: / in English, /es/ in Spanish.
+# Every visible string comes from src/_locales/*.yml (home); the landing_js
+# map is injected below for landing.js.
+locale: multi
+locale_overrides:
+  es:
+    title: Inicio
 ---
 
 <%
   _is_production = Bridgetown.environment.to_s == "production"
+  _locale        = data.locale.to_s
+  _locale_prefix = data.locale.to_sym == site.config.default_locale.to_sym ? "" : "/#{data.locale}"
+
+  # `featured: N` is set on the English essay only. Another language shows the
+  # same essays, in the same order, through each one's version in that language
+  # (same slug under /<locale>/blog/); an essay with no such version is skipped.
+  _by_url = site.resources.to_h { |r| [r.relative_url.to_s, r] }
   _featured_essays = site.resources
     .select { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
-    .reject { |r| r.relative_url.to_s.end_with?('/blog/') }
     .reject { |r| _is_production && r.data[:date] && r.data[:date].to_date > Date.today }
     .select { |r| r.data[:featured].is_a?(Integer) }
     .sort_by { |r| r.data[:featured] }
+    .filter_map { |r| _by_url[r.relative_url.to_s.sub(%r{\A#{site.base_path}/blog/}, "#{site.base_path}#{_locale_prefix}/blog/")] }
+
+  # studies.yml and devotionals.yml carry title_es / tagline_es / description_es
+  # beside the English fields; a language without its own falls back to English.
+  _localized = ->(entry, field) { entry["#{field}_#{_locale}"] || entry[field] }
+
+  _study_note = t("home.study_note_html", url: relative_url("#{_locale_prefix}/downloads/"))
 %>
 
 <section class="hero" style="background: linear-gradient(135deg, rgba(30,18,53,0.85), rgba(39,24,69,0.8)), url('<%= relative_url '/images/open_bible.png' %>') center bottom / contain no-repeat, linear-gradient(135deg, var(--purple-deep), var(--purple-mid));">
-  <h1 class="hero-title">"Your word is a lamp to my feet and a light to my path."<br><span>— Psalm 119:105 (ESV)</span></h1>
-  <p class="hero-tagline">Weekly Scripture studies to illuminate your walk with God.</p>
+  <h1 class="hero-title"><%= t("home.hero_verse") %><br><span><%= t("home.hero_ref") %></span></h1>
+  <p class="hero-tagline"><%= t("home.tagline") %></p>
   <p class="hero-verse">
-    "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
-    <br><span class="verse-ref">— 2 Timothy 3:16–17 (ESV)</span>
+    <%= t("home.verse_1") %>
+    <br><span class="verse-ref"><%= t("home.verse_1_ref") %></span>
   </p>
   <p class="hero-verse">
-    "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth."
-    <br><span class="verse-ref">— 2 Timothy 2:15 (ESV)</span>
+    <%= t("home.verse_2") %>
+    <br><span class="verse-ref"><%= t("home.verse_2_ref") %></span>
   </p>
 </section>
 
 <section class="studies">
-  <h2>Available Studies</h2>
+  <h2><%= t("home.studies") %></h2>
+  <%# Says, on a page whose studies are not yet in its language, where the
+      translated books are. Empty in English. %>
+  <% unless _study_note.to_s.strip.empty? %>
+    <p class="studies-language-note" style="text-align:center; color:var(--text-secondary); margin:0 auto 1.5rem; max-width:44rem;"><%= _study_note %></p>
+  <% end %>
   <div class="study-grid">
     <%# Hidden studies never appear here in production; in development they
         show with an "In Development" badge so they stay reachable locally. %>
@@ -36,6 +61,8 @@ title: Home
       <%
         data_key   = study["slug"].gsub('-', '_')
         study_cfg  = site.data.send(data_key).study_config
+        _title     = _localized.call(study, "title")
+        _tagline   = _localized.call(study, "tagline")
       %>
       <div class="study-card"
            data-study-slug="<%= study["slug"] %>"
@@ -45,16 +72,16 @@ title: Home
         <a class="study-card-link" href="<%= relative_url "/#{study["slug"]}/" %>">
           <% if study["image"] && !study["image"].empty? %>
             <div class="study-card-image">
-              <img src="<%= relative_url "/images/#{study["image"]}" %>" alt="<%= study["title"] %>">
+              <img src="<%= relative_url "/images/#{study["image"]}" %>" alt="<%= _title %>">
             </div>
           <% end %>
 
           <div class="study-card-body">
-            <h3 class="study-card-title"><% if study["hidden"] %><span class="study-card-dev-badge" role="img" aria-label="In development" title="In development">🚧</span> <% end %><%= study["title"] %><% if study["hidden"] %> <span class="study-card-dev-badge" aria-hidden="true" title="In development">🚧</span><% end %></h3>
-            <% if study["tagline"] %>
-              <p class="study-card-tagline"><%= study["tagline"] %></p>
+            <h3 class="study-card-title"><% if study["hidden"] %><span class="study-card-dev-badge" role="img" aria-label="<%= t("home.in_development") %>" title="<%= t("home.in_development") %>">🚧</span> <% end %><%= _title %><% if study["hidden"] %> <span class="study-card-dev-badge" aria-hidden="true" title="<%= t("home.in_development") %>">🚧</span><% end %></h3>
+            <% if _tagline %>
+              <p class="study-card-tagline"><%= _tagline %></p>
             <% end %>
-            <p class="study-card-description"><%= study["description"] %></p>
+            <p class="study-card-description"><%= _localized.call(study, "description") %></p>
           </div>
         </a>
 
@@ -67,7 +94,7 @@ title: Home
 
 <% unless _featured_essays.empty? %>
 <section class="landing-featured-essays">
-  <h2>Featured Essays</h2>
+  <h2><%= t("home.featured_essays") %></h2>
   <div class="guide-cards">
     <% _featured_essays.each do |post| %>
       <a href="<%= relative_url post.relative_url %>" class="guide-card">
@@ -80,13 +107,13 @@ title: Home
 <% end %>
 
 <section class="landing-devotionals">
-  <h2>Daily Devotionals</h2>
+  <h2><%= t("home.devotionals") %></h2>
   <div class="devotional-intro">
-    <p class="devotional-intro-lead">The best devotionals do more than inspire — they train you in the Word. Here's what to look for:</p>
+    <p class="devotional-intro-lead"><%= t("home.devotionals_lead") %></p>
     <ul class="devotional-intro-list">
-      <li><strong>Scripture First</strong> — Look for resources that anchor their text around an explicit Bible verse rather than personal opinion.</li>
-      <li><strong>Built-in Prayer</strong> — Many entries conclude with a written "Prayer of the Day" to give you words when you don't know how to start praying.</li>
-      <li><strong>Audio Accompaniment</strong> — Look for video or audio devotionals if you prefer to listen to God's Word while commuting or doing chores.</li>
+      <% (1..3).each do |n| %>
+        <li><strong><%= t("home.devotional_point_#{n}_title") %></strong> — <%= t("home.devotional_point_#{n}_text") %></li>
+      <% end %>
     </ul>
   </div>
   <div class="devotional-cards">
@@ -94,9 +121,11 @@ title: Home
       <a href="<%= devo["url"] %>" class="devotional-card" target="_blank" rel="noopener noreferrer">
         <span class="devotional-publisher"><%= devo["publisher"] %></span>
         <h3><%= devo["name"] %></h3>
-        <p><%= devo["description"] %></p>
-        <span class="devotional-external-label">Visit site ↗</span>
+        <p><%= _localized.call(devo, "description") %></p>
+        <span class="devotional-external-label"><%= t("home.visit_site") %> ↗</span>
       </a>
     <% end %>
   </div>
 </section>
+
+<script id="landing-messages" type="application/json"><%== t("landing_js").to_json %></script>

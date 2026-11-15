@@ -18,10 +18,19 @@ en:
     settings: Settings
     about: About
     menu: Menu
+  breadcrumb:
+    label: Page location
+    week: Week %{week}
+    day: Day %{day}
+    overview: Overview
+    discussion: Discussion
+    memory_verse: Memory Verse
   footer:
     copyright_html: 'Site content &copy; %{year} %{author}, licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. Scripture quotations are excepted &mdash; see below.'
     contact: Contact
     privacy: Privacy Policy
+  feed:
+    title: "%{site} — Blog"
   banner:
     new_essay: "New Essay: %{title}"
     announcement_label: Announcement
@@ -60,6 +69,7 @@ en:
     write_to: Write to %{author} about this essay
     topics_label: "Topics:"
     all_topics: All topics
+    topics_nav: Topics
   settings:
     intro: Customize your study experience. All settings are stored privately in this browser.
     features: Features
@@ -190,6 +200,94 @@ en:
     intro: Everything here is yours to keep. Choose a file and it saves to your device, where you can read it, print it, or carry it with you offline.
     empty: No files are available for download yet. Please check back.
     missing: Missing from src/downloads/ (this notice appears in development only)
+  home:
+    hero_verse: '"Your word is a lamp to my feet and a light to my path."'
+    hero_ref: "— Psalm 119:105 (ESV)"
+    tagline: Weekly Scripture studies to illuminate your walk with God.
+    verse_1: '"All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."'
+    verse_1_ref: "— 2 Timothy 3:16–17 (ESV)"
+    verse_2: '"Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth."'
+    verse_2_ref: "— 2 Timothy 2:15 (ESV)"
+    studies: Available Studies
+    # Shown under the heading on a page whose studies are not in its language.
+    # Empty here: the English home page needs no such note.
+    study_note_html: ""
+    in_development: In development
+    featured_essays: Featured Essays
+    devotionals: Daily Devotionals
+    devotionals_lead: "The best devotionals do more than inspire — they train you in the Word. Here's what to look for:"
+    devotional_point_1_title: Scripture First
+    devotional_point_1_text: Look for resources that anchor their text around an explicit Bible verse rather than personal opinion.
+    devotional_point_2_title: Built-in Prayer
+    devotional_point_2_text: Many entries conclude with a written "Prayer of the Day" to give you words when you don't know how to start praying.
+    devotional_point_3_title: Audio Accompaniment
+    devotional_point_3_text: Look for video or audio devotionals if you prefer to listen to God's Word while commuting or doing chores.
+    visit_site: Visit site
+  landing_js:
+    steps: "%{count} of %{total} steps complete (%{pct}%)"
+    steps_continue: "%{count} of %{total} steps complete (%{pct}%) — continue to %{label} →"
+    section_overview: Section %{section} Overview
+    week_overview: Week %{week} Overview
+    week_day: Week %{week}, Day %{day}
+    week_discussion: Week %{week} Discussion
+  contact:
+    intro: Questions, corrections, and notes about how a study is going are all welcome. Fill in the message below and your own mail app will open with it ready to send — nothing is submitted to this site, and no outside service handles it.
+    name_label: Your name
+    optional: (optional)
+    topic_label: What is this about?
+    topics:
+      - A question about a study
+      - A question about an essay
+      - Something is broken on the site
+      - Permission to reprint or reuse
+      - Something else
+    message_label: Message
+    message_placeholder: Write as much or as little as you like.
+    submit: Open in my mail app
+    direct_heading: Or write directly
+    direct_info: "If the button above does nothing — some browsers have no mail app to hand it to — write to this address from wherever you read your mail:"
+    loading: loading…
+    copy_address: Copy address
+  contact_js:
+    page_note: "Your message will name the page you came from: %{url} — change the topic below if it is about something else."
+    message_required: Please write a message first.
+    opening: Your mail app should be opening with the message ready to send.
+    copy_this: "Copy this address: %{address}"
+    copied: Address copied.
+  draft:
+    title: Draft — not yet published
+    essay: "This essay is dated %{date}, which hasn’t arrived yet. It’s still a work in progress: the wording, structure, or conclusions may change substantially before then, and it’s possible this page won’t be published in its current form at all."
+    study: "This study hasn’t been published yet, so it doesn’t appear on the home page or in site navigation. It’s still a work in progress: the content, structure, or scheduling may change substantially before then, and it’s possible this page won’t be published in its current form at all."
+  not_found:
+    title: Page Not Found
+    badge: 404 — Page Not Found
+    image_alt: The Good Shepherd seeking a lost sheep
+    heading: Do you sometimes feel like a lost sheep?
+    body: Wandering aimlessly, unsure of where you belong — Jesus is looking for you. He is the Good Shepherd. Trust in Him to bring you home where you belong.
+    verse: '"For the Son of Man came to seek and to save the lost."'
+    verse_ref: "— Luke 19:10 (ESV)"
+    home: Return to Home
+    path_heading: The Path Home
+    path_intro: The Bible calls this feeling of being lost what it truly is — and shows the way back.
+    steps:
+      - text: We don't wander by accident. Scripture is clear that every one of us has turned away from God.
+        verse: '"For all have sinned and fall short of the glory of God."'
+        ref: "— Romans 3:23 (ESV)"
+      - text: Sin carries a consequence — but God refuses to leave the story there.
+        verse: '"For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."'
+        ref: "— Romans 6:23 (ESV)"
+      - text: The Good Shepherd didn't wait for you to find your way back. He came looking — at great cost.
+        verse: '"But God shows his love for us in that while we were still sinners, Christ died for us."'
+        ref: "— Romans 5:8 (ESV)"
+      - text: Coming home is simpler than you may think. It begins with a confession and a trust.
+        verse: '"If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."'
+        ref: "— Romans 10:9 (ESV)"
+      - text: And the promise is for everyone — no exceptions, no fine print.
+        verse: '"For everyone who calls on the name of the Lord will be saved."'
+        ref: "— Romans 10:13 (ESV)"
+      - text: This is the heart of it all — the reason the Shepherd left the ninety-nine to find you.
+        verse: '"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him."'
+        ref: "— John 3:16–17 (ESV)"
   date:
     formats:
       # The essay pages and index cards. Bridgetown's own en.yml supplies the
