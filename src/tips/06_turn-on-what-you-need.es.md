@@ -9,7 +9,7 @@ Este sitio hace más que mostrarte el texto. Puede llevar la cuenta de tu progre
 
 Abre Ajustes desde el menú y busca Funciones. Cada una es un simple interruptor: Diario, Lectura en voz alta, Compartir con el grupo, Discusiones de la comunidad, Consejo de la semana, Cuestionario de repaso.
 
-![La sección Funciones de la página de Ajustes, con seis interruptores: Diario encendido, Lectura en voz alta encendida, Compartir con el grupo apagado, Discusiones de la comunidad apagadas, Consejo de la semana encendido y Cuestionario de repaso apagado. (La captura muestra la interfaz en inglés.)](/images/tips/settings-features.png)
+![La sección Funciones de la página de Ajustes, con seis interruptores: Diario encendido, Lectura en voz alta encendida, Compartir con el grupo apagado, Discusiones de la comunidad apagadas, Consejo de la semana encendido y Cuestionario de repaso apagado.](/images/tips/settings-features.es.png)
 
 Apaga lo que no usas y el botón o la sección correspondiente desaparece de todas las páginas, de inmediato, sin necesidad de recargar.
 

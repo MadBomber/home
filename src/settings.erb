@@ -134,7 +134,7 @@ locale_overrides:
       <div class="settings-progress-study"
            data-study-slug="<%= study["slug"] %>"
            data-storage-prefix="<%= study_cfg["storage_prefix"] %>">
-        <h3 class="settings-progress-study-title"><%= study["title"] %></h3>
+        <h3 class="settings-progress-study-title"><%= study["title_#{data.locale}"] || study["title"] %></h3>
         <p class="settings-progress-study-info settings-info"></p>
 
         <div class="settings-actions">
@@ -181,7 +181,7 @@ locale_overrides:
            data-study-slug="<%= study["slug"] %>"
            data-storage-prefix="<%= study_cfg["storage_prefix"] %>"
            data-config="<%= study_cfg.to_json %>">
-        <h3 class="settings-progress-study-title"><%= study["title"] %></h3>
+        <h3 class="settings-progress-study-title"><%= study["title_#{data.locale}"] || study["title"] %></h3>
         <p class="settings-progress-study-info settings-info"></p>
 
         <div class="settings-actions">

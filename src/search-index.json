@@ -52,7 +52,7 @@ locale_overrides:
     {
       "title"       => post.data[:title].to_s,
       "url"         => post.relative_url.to_s,
-      "date"        => post.data[:date]&.strftime("%B %-d, %Y"),
+      "date"        => (post.data[:date] && l(post.data[:date].to_date, format: :long)),
       "description" => post.data[:description].to_s,
       "collection"  => post.data[:collection].to_s,
       "content"     => plain_text.call(post.content),

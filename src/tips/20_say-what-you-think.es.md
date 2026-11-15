@@ -11,6 +11,6 @@ Haz clic en Contacto y verás un formulario breve, por ahora en inglés: tu nomb
 
 ¿Estás leyendo un ensayo y quieres escribirle a quien lo escribió? Haz clic en el nombre del autor debajo del título. Te lleva a ese mismo formulario de contacto, ya abierto con ese ensayo como tema, para que tu mensaje llegue diciendo exactamente sobre qué texto escribes sin que tengas que explicarlo.
 
-![El campo de nota y tema de la página de contacto, ya lleno con el ensayo del que venía el lector tras hacer clic en el nombre del autor. (La captura muestra la interfaz en inglés.)](/images/tips/contact-prefilled.png)
+![La nota y el campo «¿De qué se trata?» de la página de contacto, ya llenos con la dirección del ensayo del que venía el lector tras hacer clic en el nombre del autor.](/images/tips/contact-prefilled.es.png)
 
 Sea cual sea la puerta por la que entraste, no te convenzas de no enviarlo. Una nota breve basta. Si algo te ayudó, dilo. Si algo no te ayudó, dilo también.

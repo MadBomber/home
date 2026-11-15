@@ -65,6 +65,18 @@ en:
     search_submit: Search
     search_clear: Clear
     search_hint_html: Searches the full text of every essay. An essay must contain <em>every</em> term to match &mdash; put quotation marks around a phrase (&ldquo;Acts 17&rdquo;) to find those words together.
+  # What search.js shows on the essay index's Search tab. The found_* lines
+  # are followed by the reader's own search terms, joined by `and`.
+  search_js:
+    found_one: "%{count} essay found containing "
+    found_other: "%{count} essays found containing "
+    and: AND
+    none: No results were found.
+    enter: Enter a word or phrase to search for.
+    searching: Searching…
+    load_failed: The search index could not be loaded. Please try again.
+    read_article: Read article
+    collection: Collection
   essay:
     write_to: Write to %{author} about this essay
     topics_label: "Topics:"

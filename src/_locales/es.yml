@@ -65,6 +65,16 @@ es:
     search_submit: Buscar
     search_clear: Borrar
     search_hint_html: Busca en el texto completo de cada ensayo. Un ensayo debe contener <em>todos</em> los términos para coincidir &mdash; pon comillas alrededor de una frase (&laquo;Hechos 17&raquo;) para encontrar esas palabras juntas.
+  search_js:
+    found_one: "%{count} ensayo contiene "
+    found_other: "%{count} ensayos contienen "
+    and: Y
+    none: No se encontraron resultados.
+    enter: Escribe una palabra o frase para buscar.
+    searching: Buscando…
+    load_failed: No se pudo cargar el índice de búsqueda. Inténtalo de nuevo.
+    read_article: Leer el ensayo
+    collection: Colección
   essay:
     write_to: Escríbele a %{author} sobre este ensayo
     topics_label: "Temas:"

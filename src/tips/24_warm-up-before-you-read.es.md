@@ -17,6 +17,6 @@ El cuestionario también se imprime bien. Usa el botón Imprimir mientras hay un
 
 El cuestionario viene desactivado. Abre Ajustes desde el menú, busca Funciones y activa Cuestionario de repaso. Una vez activado, aparece más abajo en la misma página una sección Cuestionario de repaso con dos números que puedes cambiar. Preguntas por cuestionario fija cuánto dura cada cuestionario, entre 5 y 20; el valor inicial es 10. Semanas hacia atrás fija hasta dónde llegan las preguntas detrás de ti, de 1 a 6 semanas, contadas desde la semana que estás empezando: al empezar la semana 9 con 4 semanas hacia atrás, las preguntas salen de las semanas 5 a 8. Acorta ese alcance para mantener el cuestionario en los recuerdos frescos; alárgalo para mantener vivas las semanas más antiguas.
 
-![La sección Cuestionario de repaso de la página Ajustes: una explicación breve y luego dos campos numéricos, Preguntas por cuestionario en 10 y Semanas hacia atrás en 4. (La captura muestra la interfaz en inglés.)](/images/tips/quiz-settings.png)
+![La sección Cuestionario de repaso de la página Ajustes: una explicación breve y luego dos campos numéricos, Preguntas por cuestionario en 10 y Semanas hacia atrás en 4.](/images/tips/quiz-settings.es.png)
 
 Hazlo antes de empezar a leer la semana nueva. Refrescar la memoria con el estudio de las semanas anteriores es lo que hace que el año se sostenga como un solo libro en lugar de cincuenta y dos pedazos.

@@ -9,7 +9,7 @@ Tu diario y tu progreso viven en el almacenamiento de este navegador, en ningún
 
 Ajustes tiene una respuesta para eso, una fila por estudio, tanto en Datos del diario como en Datos de progreso.
 
-![La fila de Datos del diario de un estudio, con los botones Ver el diario, Exportar, Importar y Borrar las entradas. (La captura muestra la interfaz en inglés.)](/images/tips/journal-export-row.png)
+![La fila de Datos del diario del estudio «Recorrido cronológico por el Nuevo Testamento», con los botones Ver el diario, Exportar, Importar y Borrar las entradas.](/images/tips/journal-export-row.es.png)
 
 Exportar guarda todo lo de ese estudio en un solo archivo JSON. Importar vuelve a leer ese mismo archivo, sea en este navegador o en uno nuevo. Ningún otro archivo sirve para importar; solo lo que Exportar produjo.
 
