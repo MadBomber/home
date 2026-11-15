@@ -22,6 +22,7 @@
     <%= render "breadcrumb" %>
 
     <main>
+      <%= render "translation_notice" %>
       <%
         _hidden_study = data.study_slug && (site.data.studies || []).find { |s| s["slug"] == data.study_slug }&.[]("hidden")
       %>

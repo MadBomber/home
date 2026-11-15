@@ -266,6 +266,10 @@ en:
     opening: Your mail app should be opening with the message ready to send.
     copy_this: "Copy this address: %{address}"
     copied: Address copied.
+  translation:
+    # Shown at the top of every page in a language still awaiting review by a
+    # native speaker. Empty here: English is the original.
+    notice_html: ""
   draft:
     title: Draft — not yet published
     essay: "This essay is dated %{date}, which hasn’t arrived yet. It’s still a work in progress: the wording, structure, or conclusions may change substantially before then, and it’s possible this page won’t be published in its current form at all."

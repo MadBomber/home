@@ -259,6 +259,10 @@ es:
     opening: Tu aplicación de correo debería estar abriéndose con el mensaje listo para enviar.
     copy_this: "Copia esta dirección: %{address}"
     copied: Dirección copiada.
+  translation:
+    # Se muestra arriba de cada página mientras la traducción espera la
+    # revisión de un hablante nativo. Vaciar esta cadena quita el aviso.
+    notice_html: 'Esta traducción al español es nueva y aún no la ha revisado un hablante nativo. Si algo suena extraño o está mal, <a href="%{url}">envía una corrección</a>; será bienvenida.'
   draft:
     title: Borrador — aún no publicado
     essay: "Este ensayo lleva la fecha del %{date}, que todavía no ha llegado. Sigue en elaboración: la redacción, la estructura o las conclusiones pueden cambiar considerablemente antes de esa fecha, y es posible que esta página no llegue a publicarse en su forma actual."

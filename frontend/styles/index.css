@@ -1529,6 +1529,36 @@ tr:hover td {
   line-height: 1.55;
 }
 
+/* --- Translation Under Review Notice --- */
+
+/* Same fixed amber ink/background as .blog-post-draft-notice, so it reads the
+   same in both themes; smaller and without the icon or heading, because it
+   sits on every translated page and is a request, not a warning. */
+.translation-notice {
+  margin: 0 0 1.25rem;
+  padding: 0.6rem 1rem;
+  border: 1px solid #b45309;
+  border-left: 5px solid #b45309;
+  border-radius: var(--radius);
+  background: #fff7e6;
+  color: #4a3208;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.translation-notice a {
+  color: #92400e;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+@media print {
+  .translation-notice {
+    display: none;
+  }
+}
+
 /* --- Study In-Development Notice --- */
 
 /* Same fixed amber ink/background as .blog-post-draft-notice, for the same
