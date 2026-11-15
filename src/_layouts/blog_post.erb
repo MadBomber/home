@@ -30,8 +30,11 @@ layout: default
   # Selector shared by all post-list queries. Future-dated posts are excluded
   # in production so prev/next nav never links a reader to an unpublished
   # essay ahead of its date, matching the same rule blog/index.erb applies.
+  # Only essays in this page's own locale qualify: English lives under /blog/,
+  # every other locale under /<locale>/blog/, so nav never crosses languages.
+  locale_prefix = data.locale == site.config.default_locale ? "" : "/#{data.locale}"
   blog_posts = site.resources
-    .select { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
+    .select { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}#{locale_prefix}/blog/[^/]+/\z}) }
     .reject { |r| r.relative_url.to_s.end_with?('/blog/') }
     .reject { |r| r.relative_url.to_s.end_with?('/blog/announcement/') }
     .reject { |r| r.relative_url.to_s.end_with?('/blog/tags/') }
@@ -85,13 +88,8 @@ layout: default
         <line x1="12" y1="17" x2="12.01" y2="17"></line>
       </svg>
       <div class="blog-post-draft-notice-text">
-        <strong>Draft &mdash; not yet published</strong>
-        <p>
-          This essay is dated <%= data.date.strftime("%B %-d, %Y") %>, which hasn&rsquo;t arrived yet.
-          It&rsquo;s still a work in progress: the wording, structure, or conclusions may change
-          substantially before then, and it&rsquo;s possible this page won&rsquo;t be published in its
-          current form at all.
-        </p>
+        <strong><%= t("draft.title") %></strong>
+        <p><%= t("draft.essay", date: l(data.date.to_date, format: :long)) %></p>
       </div>
     </div>
   <% end %>
@@ -100,14 +98,14 @@ layout: default
     <% if older_post %>
       <a href="<%= relative_url older_post.relative_url %>" class="blog-post-nav-link blog-post-nav-older">
         <span class="blog-post-nav-arrow">&larr;</span>
-        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= older_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= l(older_post.data[:date].to_date, format: :long) %></span><% end %></span>
       </a>
     <% else %>
       <span></span>
     <% end %>
     <% if newer_post %>
       <a href="<%= relative_url newer_post.relative_url %>" class="blog-post-nav-link blog-post-nav-newer">
-        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= newer_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= l(newer_post.data[:date].to_date, format: :long) %></span><% end %></span>
         <span class="blog-post-nav-arrow">&rarr;</span>
       </a>
     <% else %>
@@ -128,11 +126,11 @@ layout: default
       <% end %>
     </h1>
     <p class="blog-post-meta">
-      <% if data.date %><span class="blog-post-date"><%= data.date.strftime("%B %-d, %Y") %></span><% end %>
+      <% if data.date %><span class="blog-post-date"><%= l(data.date.to_date, format: :long) %></span><% end %>
       <%# The byline is a way to write to the author. This essay's path rides
           along in the query string so the contact page can prefill the subject
           with its address — see prefillTopicFromPage in contact.js. %>
-      <% if data.author %><a class="blog-post-author" href="<%= relative_url '/contact/' %>?about=<%= ERB::Util.url_encode(resource.relative_url.to_s) %>" title="Write to <%= data.author %> about this essay"><%= data.author %></a><% end %>
+      <% if data.author %><a class="blog-post-author" href="<%= relative_url "#{locale_prefix}/contact/" %>?about=<%= ERB::Util.url_encode(resource.relative_url.to_s) %>" title="<%= t("essay.write_to", author: data.author) %>"><%= data.author %></a><% end %>
     </p>
   </header>
 
@@ -140,20 +138,25 @@ layout: default
     <%= yield %>
   </div>
 
-  <%= render "topic_tags", tags: data.tags, tags_base: "#{site.base_path}/blog/tags/" %>
+  <%# The tag pages of this essay's own language, when that language has them. %>
+  <%
+    _own_tags  = "#{site.base_path}#{locale_prefix}/blog/tags/"
+    _tags_base = site.resources.any? { |r| r.relative_url.to_s == _own_tags } ? _own_tags : "#{site.base_path}/blog/tags/"
+  %>
+  <%= render "topic_tags", tags: data.tags, tags_base: _tags_base %>
 
   <nav class="blog-post-nav blog-post-nav-bottom">
     <% if older_post %>
       <a href="<%= relative_url older_post.relative_url %>" class="blog-post-nav-link blog-post-nav-older">
         <span class="blog-post-nav-arrow">&larr;</span>
-        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= older_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-title"><%= older_post.data[:title] %><% if older_post.data[:date] %><span class="blog-post-nav-date"> · <%= l(older_post.data[:date].to_date, format: :long) %></span><% end %></span>
       </a>
     <% else %>
       <span></span>
     <% end %>
     <% if newer_post %>
       <a href="<%= relative_url newer_post.relative_url %>" class="blog-post-nav-link blog-post-nav-newer">
-        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= newer_post.data[:date].strftime("%B %-d, %Y") %></span><% end %></span>
+        <span class="blog-post-nav-title"><%= newer_post.data[:title] %><% if newer_post.data[:date] %><span class="blog-post-nav-date"> · <%= l(newer_post.data[:date].to_date, format: :long) %></span><% end %></span>
         <span class="blog-post-nav-arrow">&rarr;</span>
       </a>
     <% else %>

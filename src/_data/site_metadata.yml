@@ -5,3 +5,9 @@ email: dvanhoozer@duck.com
 description: >-
   Lamp Light Guide offers free, in-depth Bible studies through the New and Old
   Testaments, with daily readings, memory verses, and discussion guides.
+# The same in Spanish: the meta description of a Spanish page that has none of
+# its own, and the subtitle of /es/feed.xml.
+description_es: >-
+  Lamp Light Guide ofrece estudios bíblicos gratuitos y a fondo del Nuevo y del
+  Antiguo Testamento, con lecturas diarias, versículos para memorizar y guías
+  de discusión.

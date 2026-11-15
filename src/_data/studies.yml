@@ -6,6 +6,8 @@
 # tagline     — short phrase shown on the card
 # image       — path to cover image (relative to src/images/), leave blank if none
 # description — one paragraph shown on the landing page card
+# title_es, tagline_es, description_es — the same three in Spanish, shown on
+#               /es/; a study without them shows its English there
 # hidden      — if true, the study is omitted from the landing page (under construction)
 
 - slug: "study-01"
@@ -30,6 +32,13 @@
   hidden: false
   tagline: "A Year at His Feet"
   title: "New Testament Chronological Journey"
+  title_es: "Recorrido cronológico por el Nuevo Testamento"
+  tagline_es: "Un año a Sus pies"
+  description_es: >-
+    Un recorrido cronológico de 52 semanas por los 260 capítulos del Nuevo
+    Testamento. Cada semana abarca un bloque coherente de las Escrituras, con
+    lecturas diarias, contexto histórico, preguntas de reflexión y un versículo
+    para memorizar.
   image: ""
   description: >-
     A 52-week chronological journey through all 260 chapters of the New Testament.
@@ -40,6 +49,13 @@
   hidden: true
   tagline: "One Teaching, Two Witnesses"
   title: "The Sermon on the Mount and the Plain"
+  title_es: "El Sermón del monte y el Sermón del llano"
+  tagline_es: "Una enseñanza, dos testigos"
+  description_es: >-
+    Un estudio de seis semanas del Sermón del monte (Mateo 5-7) leído junto al
+    Sermón del llano (Lucas 6:17-49): una sola enseñanza conservada por dos
+    testigos. Cada semana toma un movimiento del sermón, con cinco lecturas
+    diarias y una guía de discusión.
   image: ""
   description: >-
     A six-week study of the Sermon on the Mount (Matthew 5-7) read alongside the
@@ -51,6 +67,12 @@
   hidden: true
   tagline: "A Year at His Feet"
   title: "Jesus: From Genesis to Revelation"
+  title_es: "Jesús: de Génesis a Apocalipsis"
+  tagline_es: "Un año a Sus pies"
+  description_es: >-
+    Un recorrido cronológico de 52 semanas por el Antiguo Testamento, organizado
+    en torno a los ocho pactos que estructuran el plan redentor de Dios, desde
+    la creación hasta la consumación.
   image: ""
   description: >-
     A 52-week chronological journey through the Old Testament organized around

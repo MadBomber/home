@@ -5,9 +5,13 @@
   #               (e.g. "#{site.base_path}/blog/tags/"); used only to check
   #               that a tag's page actually exists
   #
-  # The hrefs are relative (../tags/<slug>/): every essay lives exactly one
-  # level below blog/, so the link resolves with no base_path help. Study day
-  # pages sit deeper than that, so this partial cannot serve them as-is.
+  # The hrefs are built from tags_base, which already carries base_path, so
+  # they resolve from any depth. The caller passes the tag directory of the
+  # essay's own language (/es/blog/tags/ for a Spanish essay).
+  #
+  # A tag is written the same in every language's front matter; what it is
+  # *called* comes from src/_data/tag_names.yml for the page's language
+  # ("grace" shows as «gracia» on a Spanish essay), and as written otherwise.
   #
   # A tag whose page does not exist yet (scripts/tags.rb not rerun since the
   # tag was added) renders as plain text instead of a dead link.
@@ -17,20 +21,22 @@
     .map    { |r| r.relative_url.to_s }
     .select { |u| u.start_with?(tags_base.to_s) }
 
+  _tag_names = (site.data.tag_names || {})[site.locale.to_s] || {}
+
   _topics = Array(tags).map(&:to_s).reject(&:empty?).map do |tag|
     slug = tag.downcase.gsub(/[^a-z0-9]+/, "-").gsub(/\A-+|-+\z/, "")
     slug = "index-tag" if slug == "index"
-    { tag: tag, slug: slug, linked: _tag_page_urls.include?("#{tags_base}#{slug}/") }
+    { tag: _tag_names[tag] || tag, slug: slug, linked: _tag_page_urls.include?("#{tags_base}#{slug}/") }
   end
 %>
 <% if _topics.any? %>
-<nav class="blog-post-topics" aria-label="Topics">
-  <span class="blog-post-topics-label">Topics:</span>
+<nav class="blog-post-topics" aria-label="<%= t("essay.topics_nav") %>">
+  <span class="blog-post-topics-label"><%= t("essay.topics_label") %></span>
   <ul class="blog-post-topics-list">
-    <% _topics.each do |t| %>
-      <li><% if t[:linked] %><a href="../tags/<%= t[:slug] %>/" target="_blank" rel="noopener"><%= t[:tag] %></a><% else %><%= t[:tag] %><% end %></li>
+    <% _topics.each do |topic| %>
+      <li><% if topic[:linked] %><a href="<%= tags_base %><%= topic[:slug] %>/" target="_blank" rel="noopener"><%= topic[:tag] %></a><% else %><%= topic[:tag] %><% end %></li>
     <% end %>
-    <li class="blog-post-topics-all"><a href="../tags/" target="_blank" rel="noopener">All topics</a></li>
+    <li class="blog-post-topics-all"><a href="<%= tags_base %>" target="_blank" rel="noopener"><%= t("essay.all_topics") %></a></li>
   </ul>
 </nav>
 <% end %>

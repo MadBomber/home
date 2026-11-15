@@ -1,5 +1,5 @@
 <div class="site-top">
-  <a href="<%= relative_url '/' %>" class="site-logo-link">
+  <a href="<%= relative_url localized_url('/') %>" class="site-logo-link">
     <img src="<%= relative_url '/images/site-logo.jpg' %>" alt="<%= @metadata.title %>" class="site-logo" />
   </a>
 
@@ -8,10 +8,27 @@
       <% if study_slug && study_title %>
         <a href="<%= relative_url "#{study_prefix}/" %>" class="site-brand site-brand-study"><%= study_title %></a>
       <% else %>
-        <a href="<%= relative_url '/' %>" class="site-brand"><%= @metadata.title %></a>
+        <a href="<%= relative_url localized_url('/') %>" class="site-brand"><%= @metadata.title %></a>
       <% end %>
 
-      <button type="button" class="hamburger-btn" aria-expanded="false" aria-controls="page-toolbar" aria-label="Menu">
+      <%# Language switcher: "English | Español". The page's own language is
+          plain text; the other is a link to this page in that language (or to
+          the nearest page that language has). bstSetLanguage, defined by the
+          FOUC script in _head.erb, remembers the choice in bst_settings so
+          later pages follow it. It runs inline rather than from the bundle so
+          the choice is saved even on a click before the bundle loads. %>
+      <nav class="lang-switch" aria-label="<%= t("lang.switcher_label") %>">
+        <% language_links.each_with_index do |lang, i| %>
+          <% if i > 0 %><span class="lang-switch-sep" aria-hidden="true">|</span><% end %>
+          <% if lang[:current] %>
+            <span class="lang-switch-current" lang="<%= lang[:locale] %>" aria-current="true"><%= lang[:name] %></span>
+          <% else %>
+            <a class="lang-switch-link" lang="<%= lang[:locale] %>" hreflang="<%= lang[:locale] %>" href="<%= relative_url lang[:href] %>" onclick="if (window.bstSetLanguage) bstSetLanguage('<%= lang[:locale] %>')"><%= lang[:name] %></a>
+          <% end %>
+        <% end %>
+      </nav>
+
+      <button type="button" class="hamburger-btn" aria-expanded="false" aria-controls="page-toolbar" aria-label="<%= t("nav.menu") %>">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
           <line x1="3" y1="6" x2="21" y2="6"></line>
           <line x1="3" y1="12" x2="21" y2="12"></line>
@@ -22,24 +39,24 @@
 
     <div class="page-toolbar hamburger-menu" id="page-toolbar">
       <div class="toolbar-center">
-        <a href="<%= relative_url '/' %>" class="toolbar-icon">Home</a>
-        <a href="<%= relative_url '/blog/' %>" class="toolbar-icon">Essays</a>
-        <a href="<%= relative_url '/tips/' %>" class="toolbar-icon" data-feature="tips">Tips</a>
+        <a href="<%= relative_url localized_url('/') %>" class="toolbar-icon"><%= t("nav.home") %></a>
+        <a href="<%= relative_url localized_url('/blog/') %>" class="toolbar-icon"><%= t("nav.essays") %></a>
+        <a href="<%= relative_url localized_url('/tips/') %>" class="toolbar-icon" data-feature="tips"><%= t("nav.tips") %></a>
         <% if @resource.data[:week] && has_memory_verse? %>
-          <a href="../memory-verse/" class="toolbar-icon">Verse</a>
+          <a href="../memory-verse/" class="toolbar-icon"><%= t("nav.verse") %></a>
         <% end %>
         <% if @resource.data[:week] && @resource.data[:day] %>
-          <a href="<%= relative_url "#{study_prefix}/journal/" %>?week=<%= @resource.data[:week] %>&day=<%= @resource.data[:day] %>&reading=<%= ERB::Util.url_encode(Array(@resource.data[:reading]).join("; ")) %>&title=<%= ERB::Util.url_encode(@resource.data[:title].to_s) %>" target="_blank" class="toolbar-icon" data-feature="journal">Journal</a>
+          <a href="<%= relative_url "#{study_prefix}/journal/" %>?week=<%= @resource.data[:week] %>&day=<%= @resource.data[:day] %>&reading=<%= ERB::Util.url_encode(Array(@resource.data[:reading]).join("; ")) %>&title=<%= ERB::Util.url_encode(@resource.data[:title].to_s) %>" target="_blank" class="toolbar-icon" data-feature="journal"><%= t("nav.journal") %></a>
         <% end %>
-        <button class="toolbar-icon toolbar-speak-btn" data-feature="speak">Speak</button>
-        <a href="#" id="toolbar-share-email" class="toolbar-icon" data-feature="group">Share</a>
-        <button onclick="setTimeout(function(){window.print()},100)" class="toolbar-icon">Print</button>
+        <button class="toolbar-icon toolbar-speak-btn" data-feature="speak"><%= t("nav.speak") %></button>
+        <a href="#" id="toolbar-share-email" class="toolbar-icon" data-feature="group"><%= t("nav.share") %></a>
+        <button onclick="setTimeout(function(){window.print()},100)" class="toolbar-icon"><%= t("nav.print") %></button>
       </div>
 
       <div class="toolbar-right">
-        <a href="<%= relative_url '/downloads/' %>" class="toolbar-icon">Downloads</a>
-        <a href="<%= relative_url '/settings/' %>" class="toolbar-icon">Settings</a>
-        <a href="<%= relative_url '/documents/about/' %>" class="toolbar-icon">About</a>
+        <a href="<%= relative_url localized_url('/downloads/') %>" class="toolbar-icon"><%= t("nav.downloads") %></a>
+        <a href="<%= relative_url localized_url('/settings/') %>" class="toolbar-icon"><%= t("nav.settings") %></a>
+        <a href="<%= relative_url localized_url('/documents/about/') %>" class="toolbar-icon"><%= t("nav.about") %></a>
       </div>
     </div>
   </div>

@@ -1,13 +1,11 @@
 import { TIP_DISMISSED_KEY } from "./storage-keys.js"
+import { readJsonIsland, pickLanguage, markLanguage } from "./reader-language.js"
 
+// The tips in the reader's language, and which language that turned out to
+// be. #tips-data holds one list per language (see _banner_data.erb).
 function getTips() {
-  try {
-    const el = document.getElementById("tips-data")
-    const tips = el ? JSON.parse(el.textContent) : []
-    return Array.isArray(tips) ? tips : []
-  } catch {
-    return []
-  }
+  const { lang, value } = pickLanguage(readJsonIsland("tips-data"))
+  return { lang, tips: Array.isArray(value) ? value : [] }
 }
 
 // ISO 8601 week number (Thursday of the week decides which year it belongs
@@ -45,7 +43,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const banner = document.getElementById("tip-banner")
   if (!banner) return
 
-  const tip = currentTip(getTips())
+  const { lang, tips } = getTips()
+  const tip = currentTip(tips)
   if (!tip || !tip.title || isDismissedThisWeek(tip)) return
 
   const link = document.getElementById("tip-banner-link")
@@ -53,6 +52,14 @@ document.addEventListener("DOMContentLoaded", () => {
     link.href = tip.url
     link.textContent = tip.title
   }
+
+  // The labels were rendered in the page's language; switch them when the
+  // tip is in another one.
+  const close = document.getElementById("tip-banner-dismiss")
+  const messages = pickLanguage(readJsonIsland("banner-messages"), lang).value || {}
+  if (messages.tip_label) banner.setAttribute("aria-label", messages.tip_label)
+  if (messages.dismiss_tip) close?.setAttribute("aria-label", messages.dismiss_tip)
+  markLanguage(banner, lang)
 
   banner.hidden = false
 
@@ -62,7 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   link?.addEventListener("click", dismiss)
-  document.getElementById("tip-banner-dismiss")?.addEventListener("click", (e) => {
+  close?.addEventListener("click", (e) => {
     e.preventDefault()
     dismiss()
   })

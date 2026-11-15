@@ -1,14 +1,12 @@
 // Random Tip button on tip pages (src/_layouts/tip.erb). Reuses the same
-// #tips-data JSON island tip-of-week.js injects on every page.
+// #tips-data JSON island the tip banner reads, but always takes the list in
+// the page's own language: a Spanish tip page leads to another Spanish tip.
+
+import { readJsonIsland, pickLanguage, pageLanguage } from "./reader-language.js"
 
 function getTips() {
-  try {
-    const el = document.getElementById("tips-data")
-    const tips = el ? JSON.parse(el.textContent) : []
-    return Array.isArray(tips) ? tips : []
-  } catch {
-    return []
-  }
+  const tips = pickLanguage(readJsonIsland("tips-data"), pageLanguage()).value
+  return Array.isArray(tips) ? tips : []
 }
 
 function goToRandomTip() {

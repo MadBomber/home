@@ -1,3 +1,9 @@
+// Landing page: the progress line under each study card. Its words come from
+// src/_locales under landing_js, injected by index.erb as #landing-messages in
+// the page's language.
+
+import { loadMessages } from "./messages.js"
+
 // --- Storage helpers (mirrors progress.js key scheme) ---
 
 function getStudyProgress(prefix) {
@@ -40,17 +46,35 @@ function studyItemSequence(studyConfig) {
 
   for (const section of sections) {
     const sNum = section.number
-    items.push({ type: "section", section: sNum, key: sectionKey(sNum), label: `Section ${sNum} Overview` })
+    items.push({ type: "section", section: sNum, key: sectionKey(sNum) })
 
     for (let w = section.weeks_start; w <= section.weeks_end; w++) {
-      items.push({ type: "overview", week: w, key: weekOverviewKey(w), label: `Week ${w} Overview` })
+      items.push({ type: "overview", week: w, key: weekOverviewKey(w) })
       for (let d = 1; d <= 5; d++) {
-        items.push({ type: "day", week: w, day: d, key: dayKey(w, d), label: `Week ${w}, Day ${d}` })
+        items.push({ type: "day", week: w, day: d, key: dayKey(w, d) })
       }
-      items.push({ type: "discussion", week: w, key: discussionKey(w), label: `Week ${w} Discussion` })
+      items.push({ type: "discussion", week: w, key: discussionKey(w) })
     }
   }
   return items
+}
+
+// What a step is called on the card ("Week 6 Overview"), in the page's
+// language. `msg` is the lookup from loadMessages.
+function itemLabel(item, msg) {
+  if (item.type === "section")    return msg("section_overview", { section: item.section })
+  if (item.type === "overview")   return msg("week_overview", { week: item.week })
+  if (item.type === "day")        return msg("week_day", { week: item.week, day: item.day })
+  if (item.type === "discussion") return msg("week_discussion", { week: item.week })
+  return ""
+}
+
+// The whole progress line: "36 of 370 steps complete (10%) — continue to
+// Week 6 Overview →", or without the invitation when nothing is left.
+function progressText(count, total, pct, next, msg) {
+  return next
+    ? msg("steps_continue", { count, total, pct, label: itemLabel(next, msg) })
+    : msg("steps", { count, total, pct })
 }
 
 function findNextReading(progress, studyConfig) {
@@ -94,6 +118,7 @@ function studyItemUrl(basePath, studySlug, studyConfig, item) {
 
 document.addEventListener("DOMContentLoaded", () => {
   const basePath = (document.body?.dataset?.basePath || "").replace(/\/$/, "")
+  const { msg }  = loadMessages("landing-messages")
 
   document.querySelectorAll(".study-card[data-study-slug]").forEach(card => {
     const studySlug = card.dataset.studySlug
@@ -115,15 +140,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const next = findNextReading(progress, studyConfig)
 
-    const infoText = next
-      ? `${count} of ${total} steps complete (${pct}%) — continue to ${next.label} →`
-      : `${count} of ${total} steps complete (${pct}%)`
-
     progressEl.innerHTML =
-      `<div class="study-progress-info">${infoText}</div>` +
+      `<div class="study-progress-info"></div>` +
       `<div class="study-progress-track">` +
       `<div class="study-progress-fill" style="width:${pct}%"></div>` +
       `</div>`
+    // Set as text: the words come from a locale file, not from markup.
+    progressEl.querySelector(".study-progress-info").textContent = progressText(count, total, pct, next, msg)
 
     if (next) {
       const link = document.createElement("a")

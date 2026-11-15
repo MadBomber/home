@@ -141,7 +141,7 @@ Righteous hatred says: I hate what this ideology does to people. I hate the corr
 
 ### The Commandment You Already Know
 
-There is a commandment in Exodus 20 that most people think they understand. It is the last of the ten, and it is the strangest one. Every other commandment addresses an action: do not murder, do not steal, do not lie. The tenth commandment legislates a heart attitude. And it does so by naming one word, five times in a single verse.
+There is a commandment in Exodus 20 that most people think they understand. It is the last of the ten, and it is the strangest one. Every other commandment addresses an action: do not murder, do not steal, do not lie. The tenth commandment legislates a heart attitude. And it does so by naming one word, three times in a single verse.
 
 That word is *neighbor*.
 
@@ -149,7 +149,7 @@ That word is *neighbor*.
 >
 > Exodus 20:17 (ESV)
 
-Five times. House. Wife. Servants. Animals. Anything that belongs to him. The commandment is not concerned with strangers in distant places. It is concerned with the person next door: the one whose life you can see, whose success you can measure, whose blessings you can compare to your own.
+Three times, and then the list. House. Wife. Servants. Animals. Anything that belongs to him. The commandment is not concerned with strangers in distant places. It is concerned with the person next door: the one whose life you can see, whose success you can measure, whose blessings you can compare to your own.
 
 Consider for a moment what that list looks like today.
 

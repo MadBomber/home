@@ -1,0 +1,21 @@
+<%
+  # A one-line note at the top of every page in a language whose translation
+  # has not yet been checked by a native speaker. The wording is
+  # translation.notice_html in the locale files; a language that leaves it
+  # empty (English) gets no notice, so removing the notice later means
+  # emptying that one string.
+  #
+  # The link goes to the contact page in the page's own language and carries
+  # the address of the page being left, the same way the footer's Contact link
+  # does, so a correction arrives naming the page it is about. The contact
+  # page itself shows no notice: it would only link to itself.
+  _prefix  = site.locale.to_sym == site.config.default_locale.to_sym ? "" : "/#{site.locale}"
+  _here    = resource&.relative_url.to_s
+  _contact = "#{_prefix}/contact/"
+  _href    = relative_url(_contact)
+  _href    = "#{_href}?about=#{ERB::Util.url_encode(_here)}" unless _here.empty?
+  _notice  = _here == "#{site.base_path}#{_contact}" ? "" : t("translation.notice_html", url: _href)
+%>
+<% unless _notice.to_s.strip.empty? %>
+  <p class="translation-notice" role="note" data-nospeak><%= _notice %></p>
+<% end %>

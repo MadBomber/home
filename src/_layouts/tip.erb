@@ -2,7 +2,8 @@
 layout: default
 ---
 <%
-  tips     = site.data.tips_ordered || []
+  # Only tips in this page's own language, so prev/next never crosses languages.
+  tips     = (site.data.tips_by_locale || {})[data.locale.to_s] || site.data.tips_ordered || []
   idx      = tips.index { |t| t["url"] == resource.relative_url.to_s }
   prev_tip = idx && idx > 0 ? tips[idx - 1] : nil
   next_tip = idx && idx < tips.length - 1 ? tips[idx + 1] : nil
@@ -19,7 +20,7 @@ layout: default
       <span></span>
     <% end %>
     <% if tips.length > 1 %>
-      <button type="button" class="tip-nav-random" data-tip-random>Random Tip</button>
+      <button type="button" class="tip-nav-random" data-tip-random><%= t("tips.random") %></button>
     <% else %>
       <span></span>
     <% end %>
@@ -51,7 +52,7 @@ layout: default
       <span></span>
     <% end %>
     <% if tips.length > 1 %>
-      <button type="button" class="tip-nav-random" data-tip-random>Random Tip</button>
+      <button type="button" class="tip-nav-random" data-tip-random><%= t("tips.random") %></button>
     <% else %>
       <span></span>
     <% end %>

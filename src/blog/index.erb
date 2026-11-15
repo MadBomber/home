@@ -2,13 +2,25 @@
 layout: default
 title: Essays
 description: Essays and articles on Scripture, theology, and the Christian life.
+# One template, rendered once per language: /blog/ in English, /es/blog/ in
+# Spanish. Each copy lists only the essays in its own language.
+locale: multi
+locale_overrides:
+  es:
+    title: Ensayos
+    description: Ensayos y artículos sobre las Escrituras, la teología y la vida cristiana.
 ---
 
 <%
   is_production = Bridgetown.environment.to_s == "production"
 
+  # English essays live under /blog/, every other language under /<locale>/blog/.
+  # Same rule as the blog_post layout's prev/next nav.
+  locale_prefix = data.locale.to_sym == site.config.default_locale ? "" : "/#{data.locale}"
+  has_topic_index = site.resources.any? { |r| r.relative_url.to_s == "#{site.base_path}#{locale_prefix}/blog/tags/" }
+
   all_posts = site.resources
-    .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}/blog/[^/]+/\z}) }
+    .select  { |r| r.relative_url.to_s.match?(%r{\A#{site.base_path}#{locale_prefix}/blog/[^/]+/\z}) }
     .reject  { |r| r.relative_url.to_s.end_with?('/blog/') }
     .reject  { |r| r.relative_url.to_s.end_with?('/blog/announcement/') }
     .reject  { |r| r.relative_url.to_s.end_with?('/blog/tags/') }
@@ -36,10 +48,12 @@ description: Essays and articles on Scripture, theology, and the Christian life.
       parts  = posts.select { |p| p.data[:order].to_i > 0 }
       dates  = posts.map { |p| p.data[:date] }.compact
 
+      # blog_collections.yml carries title_es / description_es beside the
+      # English fields; a language without its own falls back to English.
       {
         "slug"        => slug,
-        "title"       => meta["title"] || humanize_slug.call(slug),
-        "description" => meta["description"],
+        "title"       => meta["title_#{data.locale}"] || meta["title"] || humanize_slug.call(slug),
+        "description" => meta["description_#{data.locale}"] || meta["description"],
         "first_date"  => intro ? intro.data[:date] : dates.min,
         "latest_date" => dates.max,
         "entry_url"   => intro ? intro.relative_url : (parts.first && parts.first.relative_url),
@@ -85,23 +99,26 @@ description: Essays and articles on Scripture, theology, and the Christian life.
 
 <section class="blog-index">
   <div class="blog-index-hero">
-    <h1>Essays</h1>
-    <p>Essays and articles on Scripture, theology, and the Christian life.</p>
+    <h1><%= data.title %></h1>
+    <p><%= data.description %></p>
   </div>
 
   <div class="blog-tabs" role="tablist">
-    <button class="blog-tab active" data-tab="all" role="tab" aria-selected="true">All</button>
-    <button class="blog-tab" data-tab="recent" role="tab" aria-selected="false">Recent</button>
-    <button class="blog-tab" data-tab="collections" role="tab" aria-selected="false">Collections</button>
-    <button class="blog-tab" data-tab="search" role="tab" aria-selected="false">Search</button>
+    <button class="blog-tab active" data-tab="all" role="tab" aria-selected="true"><%= t("essays.tab_all") %></button>
+    <button class="blog-tab" data-tab="recent" role="tab" aria-selected="false"><%= t("essays.tab_recent") %></button>
+    <button class="blog-tab" data-tab="collections" role="tab" aria-selected="false"><%= t("essays.tab_collections") %></button>
+    <button class="blog-tab" data-tab="search" role="tab" aria-selected="false"><%= t("essays.tab_search") %></button>
     <%# A link styled as a tab: it navigates to the topic index rather than
-        switching panels, so it stays an anchor and carries no tab role. %>
-    <a href="<%= relative_url '/blog/tags/' %>" class="blog-tab">Topics</a>
+        switching panels, so it stays an anchor and carries no tab role. Only
+        English has tag pages so far; a language without them gets no tab. %>
+    <% if has_topic_index %>
+    <a href="<%= relative_url "#{locale_prefix}/blog/tags/" %>" class="blog-tab"><%= t("essays.tab_topics") %></a>
+    <% end %>
   </div>
 
   <div class="blog-view active" id="blog-view-all" role="tabpanel">
     <% if all_posts_by_date.empty? %>
-      <p class="blog-empty">No posts yet. Check back soon.</p>
+      <p class="blog-empty"><%= t("essays.none") %></p>
     <% else %>
       <div class="blog-all-card">
         <table class="blog-collection-card-table blog-all-table">
@@ -112,7 +129,7 @@ description: Essays and articles on Scripture, theology, and the Christian life.
                 post_description = post.data[:description]
               %>
               <tr class="blog-collection-card-row"<% if post_description %> data-tooltip="<%= escape_attr.call(post_description) %>"<% end %>>
-                <td class="blog-collection-card-date"><a href="<%= post_url %>"><%= post.data[:date] ? post.data[:date].strftime("%b %d, %y") : "" %></a></td>
+                <td class="blog-collection-card-date"><a href="<%= post_url %>"><%= post.data[:date] ? l(post.data[:date].to_date, format: :card) : "" %></a></td>
                 <td class="blog-collection-card-title"><a href="<%= post_url %>"><%= post.data[:title] %></a></td>
               </tr>
             <% end %>
@@ -133,13 +150,13 @@ description: Essays and articles on Scripture, theology, and the Christian life.
             </div>
             <div class="blog-post-card-body">
               <p class="blog-post-card-meta">
-                <% if post.data[:date] %><span class="blog-post-card-date"><%= post.data[:date].strftime("%B %-d, %Y") %></span><% end %>
+                <% if post.data[:date] %><span class="blog-post-card-date"><%= l(post.data[:date].to_date, format: :long) %></span><% end %>
                 <% if post.data[:author] %><span class="blog-post-card-author"><%= post.data[:author] %></span><% end %>
               </p>
               <% if post.data[:description] %>
                 <p class="blog-post-card-description"><%= post.data[:description] %></p>
               <% end %>
-              <span class="blog-post-card-read">Read article &rarr;</span>
+              <span class="blog-post-card-read"><%= t("essays.read_article") %> &rarr;</span>
             </div>
           </a>
         <% else %>
@@ -148,14 +165,14 @@ description: Essays and articles on Scripture, theology, and the Christian life.
       <% end %>
 
       <% if recent_units.empty? %>
-        <p class="blog-empty">No posts yet. Check back soon.</p>
+        <p class="blog-empty"><%= t("essays.none") %></p>
       <% end %>
     </div>
   </div>
 
   <div class="blog-view" id="blog-view-collections" role="tabpanel">
     <% if collections_by_date.empty? %>
-      <p class="blog-empty">No collections yet.</p>
+      <p class="blog-empty"><%= t("essays.no_collections") %></p>
     <% else %>
       <div class="blog-post-list">
         <% collections_by_date.each do |collection| %>
@@ -167,25 +184,25 @@ description: Essays and articles on Scripture, theology, and the Christian life.
 
   <div class="blog-view" id="blog-view-search" role="tabpanel">
     <form class="blog-search-form" id="blog-search-form" role="search">
-      <label class="blog-search-label" for="blog-search-input">Search the essays</label>
+      <label class="blog-search-label" for="blog-search-input"><%= t("essays.search_label") %></label>
       <div class="blog-search-controls">
         <input
           type="search"
           id="blog-search-input"
           class="blog-search-input"
-          placeholder="e.g. prayer, Calvin, the elect"
+          placeholder="<%= t("essays.search_placeholder") %>"
           autocomplete="off"
         >
-        <button type="submit" class="blog-search-submit">Search</button>
-        <button type="button" class="blog-search-clear" id="blog-search-clear">Clear</button>
+        <button type="submit" class="blog-search-submit"><%= t("essays.search_submit") %></button>
+        <button type="button" class="blog-search-clear" id="blog-search-clear"><%= t("essays.search_clear") %></button>
       </div>
       <p class="blog-search-hint">
-        Searches the full text of every essay. An essay must contain <em>every</em> term to match &mdash;
-        put quotation marks around a phrase (&ldquo;Acts 17&rdquo;) to find those words together.
+        <%= t("essays.search_hint_html") %>
       </p>
     </form>
 
     <div class="blog-search-results" id="blog-search-results" aria-live="polite"></div>
+    <script id="search-messages" type="application/json"><%== t("search_js").to_json %></script>
   </div>
 </section>
 

@@ -5,9 +5,10 @@ study_slug: blog
 template_engine: erb
 ---
 
-18 pages carry the **exodus** tag:
+19 pages carry the **exodus** tag:
 
 - [Borrowed Power](<%= relative_url "/blog/borrowed-power/" %>)
+- [Exact Change](<%= relative_url "/blog/exact-change/" %>)
 - [The Heaviest Word in the Bible: Fake Heavy](<%= relative_url "/blog/fake-heavy/" %>)
 - [Grace is Not Fair](<%= relative_url "/blog/grace-is-not-fair/" %>)
 - [How to Argue with the Devil](<%= relative_url "/blog/how-to-argue-with-the-devil/" %>)

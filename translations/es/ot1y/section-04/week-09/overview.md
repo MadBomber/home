@@ -1,0 +1,48 @@
+---
+week: 9
+section: Pacto abrahámico
+title: "El llamado de Abram"
+memory_verse: "Génesis 12:2-3"
+layout: page
+study_slug: ot1y
+---
+## Panorama general
+
+Después de once capítulos de historia universal — creación, caída, diluvio, Babel — la cámara se estrecha de pronto, dramáticamente, hasta un solo individuo. "Y el SEÑOR dijo a Abram: 'Vete de tu tierra, de entre tus parientes y de la casa de tu padre, a la tierra que Yo te mostraré'" (Génesis 12:1). El hebreo es escueto: *lekh-lekha* — vete, por ti mismo, de todo lo que conoces hacia todo lo que no conoces. Ninguna explicación de por qué Abram. Ningún currículum de méritos. Ningún historial previo de fidelidad. Josué 24:2 revelará más tarde que la familia de Abram "servía a otros dioses" al otro lado del Éufrates. Dios simplemente habla a la vida de un hombre pagano en Mesopotamia y emite un mandato con una promesa adjunta — una promesa tan extravagante que hará falta el resto de la Biblia para desplegarla: "Haré de ti una nación grande, y te bendeciré, engrandeceré tu nombre, y serás bendición. Bendeciré a los que te bendigan, y al que te maldiga, maldeciré. En ti serán benditas todas las familias de la tierra" (Génesis 12:2-3).
+
+Este es el punto de inflexión de la historia primitiva. Todo lo anterior describe el problema. Todo lo posterior describe la solución. Las setenta naciones de Génesis 10 no son abandonadas. Son el objeto de la promesa. Abram no es escogido en lugar de las naciones sino *para* ellas. La bendición no es una dotación privada. Es una comisión. Abram será bendecido — para ser bendición. La gramática es de propósito. El hombre es un medio. Las naciones son el fin.
+
+Observa lo que contiene la promesa: nación, tierra, nombre y bendición universal. En Babel, la humanidad intentó hacerse un nombre y fue dispersada. Ahora Dios da un nombre y reúne. En el diluvio, la tierra fue maldecida y purificada. Ahora Dios promete una tierra específica — "A tu descendencia daré esta tierra" (Génesis 12:7). Las promesas de Génesis 12 responden punto por punto a los fracasos de Génesis 3-11. Al exilio responde una patria. A la falta de nombre responde un nombre. A la maldición responde la bendición. A la dispersión responde una familia por medio de la cual los dispersos serán reunidos.
+
+Abram va. Edifica altares en Siquem y en Betel — marcando la tierra con adoración antes de poseer un solo acre. Pero el hombre que recibe esta promesa sobrecogedora es revelado de inmediato como defectuoso, temeroso y capaz de fracasos espectaculares. A pocos versículos de su llegada a Canaán, una hambruna lo empuja a Egipto, donde miente acerca de su esposa para salvar el pellejo (Génesis 12:10-20). Sarai es llevada a la casa de Faraón. Dios envía plagas para rescatarla — no porque Abram merezca el rescate sino porque la promesa lo exige. El padre de los fieles comienza su viaje con un engaño cobarde. Esto no es un accidente del relato. Es una revelación deliberada: el pacto descansa en la fidelidad de Dios, no en la de Abram. La promesa sobrevivirá al fracaso del hombre. Siempre lo hará.
+
+Génesis 13 registra la generosa separación de Abram y Lot: Abram escoge la tierra menos deseable mientras Lot gravita hacia Sodoma. La elección revela carácter — el hombre que no pudo confiar en Dios en Egipto puede confiarle a Dios los bienes raíces. La fe no es constante. Crece y vacila. Y Dios responde a la generosidad de Abram con una reafirmación de alcance sobrecogedor: "Alza ahora los ojos y mira desde el lugar donde estás hacia el norte, el sur, el oriente y el occidente, pues toda la tierra que ves te la daré a ti y a tu descendencia para siempre" (Génesis 13:14-15). El hombre que renunció a la buena tierra recibe la promesa de toda ella.
+
+Génesis 14 trae la guerra — el primer conflicto militar de las Escrituras — e introduce a una de las figuras más enigmáticas del Antiguo Testamento. Después de que Abram rescata a Lot de una coalición de reyes del oriente, aparece Melquisedec: rey de Salem, sacerdote del Dios Altísimo — *El Elyon*. Trae pan y vino. Bendice a Abram. Y Abram le da el diezmo de todo. El encuentro es misterioso precisamente porque no se explica. Sin genealogía. Sin historia de origen. Sin contexto de cómo existe un sacerdote del Dios verdadero en Canaán antes de que exista Israel. Melquisedec aparece, bendice, recibe y desaparece del relato — dejando un signo de interrogación teológico que no será respondido durante mil años, cuando David escriba: "Tú eres sacerdote para siempre según el orden de Melquisedec" (Salmos 110:4).
+
+## Las lecturas de esta semana
+
+| Día | Lectura | Título |
+|-----|---------|--------|
+| [1](../day-1/) | Génesis 12:1-9 | El llamado de Abram -- Vete de todo lo que conoces hacia todo lo que no conoces |
+| [2](../day-2/) | Génesis 12:10-20 | Hambruna y fracaso -- Abram en Egipto, el temor desplaza a la fe |
+| [3](../day-3/) | Génesis 13:1-18 | Abram y Lot se separan -- La generosidad recompensada, la promesa reafirmada |
+| [4](../day-4/) | Génesis 14:1-16 | Abram el guerrero -- El rescate de Lot de los reyes del oriente |
+| [5](../day-5/) | Génesis 14:17-24; Hebreos 7:1-10 | Melquisedec -- El sacerdote-rey de Salem que prefigura a Cristo |
+
+## Temas clave
+
+- **Elección por gracia** — La elección que Dios hace de Abram no se explica por mérito alguno. El hombre servía a otros dioses. No tenía historial de fidelidad. El llamado es pura iniciativa — Dios alcanzando un mundo pagano y escogiendo a un hombre por razones que solo Él conoce. Este es el patrón de todo llamado posterior: no el digno invitado, sino el indigno convocado.
+- **La promesa antes del desempeño** — La bendición de Génesis 12:2-3 se da antes de que Abram haga nada. Todavía no ha creído, ni obedecido, ni ha sido circuncidado. La promesa crea la fe, no al revés. Dios no dice: "Porque has sido fiel, te bendeciré". Dice: "Te bendeciré" — y luego observa lo que produce la bendición.
+- **Fe y fracaso coexistiendo** — La mentira de Abram en Egipto viene inmediatamente después de su obediente salida de Harán. La Biblia no higieniza a sus héroes. El hombre de fe es también un hombre de temor, y la promesa de Dios sobrevive a ambos. El pacto no es un contrato condicionado al desempeño humano. Es un compromiso divino que carga con la fragilidad humana.
+- **Bendición para las naciones** — "En ti serán benditas todas las familias de la tierra" es la declaración de misión para el resto de las Escrituras. Las setenta naciones de Génesis 10 no han sido olvidadas. Son el blanco. Abram no es escogido en lugar de las naciones sino como el instrumento por medio del cual la salvación llegará a ellas. La elección es siempre para el servicio, nunca meramente para el privilegio.
+- **Melquisedec: sacerdote y rey** — Esta figura aparece sin genealogía, bendice al portador de la promesa y recibe de él el diezmo. Ocupa dos oficios — sacerdote y rey — que Israel separará más tarde por ley. Salmos 110:4 revivirá su nombre y su orden, vinculándolos al rey venidero a quien David llama "mi Señor". El misterio de Melquisedec es el misterio de un sacerdocio más antiguo que Aarón y de una realeza más amplia que la de David.
+
+## Cristo en esta semana
+
+El llamado de Abram es el comienzo del camino a Belén. Mateo abre su Evangelio con una genealogía que los vincula: "Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham" (Mateo 1:1). La promesa de que "en ti serán benditas todas las familias de la tierra" no es meramente una esperanza patriarcal — Pablo argumenta que con ella la Escritura "anunció de antemano las buenas nuevas a Abraham" (Gálatas 3:8). La bendición que Dios prometió canalizar a través de la familia de un hombre alcanzó su cumplimiento en la cruz de un hombre. Las naciones que fueron dispersadas en Babel, catalogadas en Génesis 10 y señaladas en Génesis 12 son las mismas naciones a las que el Cristo resucitado envía a Sus apóstoles. Lo particular se vuelve universal. La semilla se vuelve cosecha.
+
+Melquisedec — rey de Salem (que significa paz), sacerdote del Dios Altísimo — es la primera persona en las Escrituras que ocupa ambos oficios simultáneamente. Israel los dividirá: los reyes de Judá, los sacerdotes de Leví. Cuando el rey Uzías intenta quemar incienso en el templo, es herido con lepra por cruzar la línea (2 Crónicas 26:16-21). Los oficios no pueden fusionarse en un sistema caído. Pero Melquisedec los ocupó antes de que el sistema existiera, y el Salmo 110 — el salmo más citado en el Nuevo Testamento — promete que el rey venidero volverá a ocuparlos: "Tú eres sacerdote para siempre según el orden de Melquisedec". El autor de Hebreos construye todo un argumento a partir de este misterio: Jesús es "sacerdote para siempre según el orden de Melquisedec" (Hebreos 7:17), con un sacerdocio basado no en la genealogía sino en el poder de una vida indestructible. El pan y el vino que Melquisedec llevó a Abram aquel día en el valle de los Reyes son los elementos que Cristo tomará en un aposento alto y llenará con el peso de un nuevo pacto.
+
+Y el fracaso de Abram en Egipto — la mentira, la cobardía, la esposa puesta en peligro — no hace sino agudizar el punto cristológico. El pacto requiere un representante fiel, y cada patriarca demuestra ser inadecuado. Abraham miente. Isaac miente. Jacob miente. El patrón es implacable. La promesa sobrevive no porque sus portadores sean dignos sino porque Dios ha jurado, y Dios no miente. Todo el relato patriarcal crea un anhelo de un guardador del pacto que no vacile — el "Fiel y Verdadero" (Apocalipsis 19:11) hacia quien el texto avanza con cada generación defectuosa.
+

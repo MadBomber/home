@@ -1,15 +1,35 @@
 - slug: holy-week
   title: Holy Week
   description: Walking through the final days before the resurrection — from Palm Sunday through the empty tomb.
+  title_es: "Semana Santa"
+  description_es: "Un recorrido por los últimos días antes de la resurrección — desde el Domingo de Ramos hasta la tumba vacía."
 
 - slug: can-the-bible-be-trusted
   title: Can the Bible Be Trusted?
   description: A series of essays for the skeptic who wants honest answers before opening the book.
+  title_es: "¿Se puede confiar en la Biblia?"
+  description_es: "Una serie de ensayos para el escéptico que quiere respuestas honestas antes de abrir el libro."
 
 - slug: the-heaviest-word-in-the-bible
   title: The Heaviest Word in the Bible
   description: The word "glory" has been used so carelessly for so long that it has lost all practical meaning. This five-part collection recovers it — going back to a Hebrew word with a physical definition that will reframe everything you thought you knew about God, sin, the cross, and what it means to live differently because of all three.
+  title_es: "La palabra más pesada de la Biblia"
+  description_es: "La palabra «gloria» se ha usado con tanto descuido durante tanto tiempo que ha perdido todo sentido práctico. Esta colección de cinco partes la recupera, volviendo a una palabra hebrea con una definición física que replanteará todo lo que creías saber sobre Dios, el pecado, la cruz y lo que significa vivir de otra manera a causa de los tres."
 
 - slug: biblical-silence
   title: Where the Bible Is Silent
   description: Scripture leaves some things unsaid on purpose. This collection traces what happens when confident voices — cults, conspiracy theories, sincere believers chasing certainty — try to fill those blank spaces anyway, and what it looks like to let God's silence stand.
+  title_es: "Donde la Biblia calla"
+  description_es: "Las Escrituras dejan algunas cosas sin decir a propósito. Esta colección sigue lo que ocurre cuando voces seguras de sí mismas — sectas, teorías conspirativas, creyentes sinceros en busca de certeza — intentan llenar esos espacios en blanco de todos modos, y cómo es dejar que el silencio de Dios permanezca."
+
+- slug: weird-bible-stories
+  title: Weird Bible Stories
+  description: Some accounts in the Bible read as harsh, random, or bizarre. Almost always, the weirdness is not a defect in the text. It is a verdict handed down before the whole account was heard.
+  title_es: "Historias bíblicas extrañas"
+  description_es: "Algunos relatos de la Biblia parecen duros, arbitrarios o raros. Casi siempre, lo extraño no es un defecto del texto. Es un veredicto dictado antes de oír el relato completo."
+
+- slug: gods-devil
+  title: God's Devil
+  description: Fiction gives Satan a mind that reads yours, a body that is everywhere at once, and a future he already knows. The Bible gives him none of that. In every scene where Satan appears, he appears inside a boundary God drew.
+  title_es: "El diablo de Dios"
+  description_es: "La ficción le da a Satanás una mente que lee la tuya, un cuerpo que está en todas partes a la vez y un futuro que ya conoce. La Biblia no le da nada de eso. En cada escena donde aparece Satanás, aparece dentro de un límite que Dios trazó."

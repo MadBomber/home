@@ -2,21 +2,28 @@
 title: Settings
 layout: default
 permalink: /settings/
+# One template, rendered once per language. Every visible string comes from
+# src/_locales/*.yml; the settings_js map is injected below for settings.js.
+locale: multi
+locale_overrides:
+  es:
+    title: Ajustes
+    permalink: /es/settings/
 ---
 
 <article id="settings-page">
-  <h1>Settings</h1>
-  <p style="text-align:center; color: var(--text-secondary); margin-bottom: 2rem;">Customize your study experience. All settings are stored privately in this browser.</p>
+  <h1><%= data.title %></h1>
+  <p style="text-align:center; color: var(--text-secondary); margin-bottom: 2rem;"><%= t("settings.intro") %></p>
 
   <section class="settings-section">
-    <h2>Features</h2>
+    <h2><%= t("settings.features") %></h2>
 
     <div class="settings-toggle">
       <label class="settings-toggle-label">
         <input type="checkbox" id="setting-journal" />
         <span class="settings-toggle-text">
-          <strong>Journaling</strong>
-          <span class="settings-toggle-desc">Show the journal icon on day pages</span>
+          <strong><%= t("settings.journaling") %></strong>
+          <span class="settings-toggle-desc"><%= t("settings.journaling_desc") %></span>
         </span>
       </label>
     </div>
@@ -25,8 +32,8 @@ permalink: /settings/
       <label class="settings-toggle-label">
         <input type="checkbox" id="setting-speak" />
         <span class="settings-toggle-text">
-          <strong>Read Aloud</strong>
-          <span class="settings-toggle-desc">Show the speak button in the toolbar</span>
+          <strong><%= t("settings.read_aloud") %></strong>
+          <span class="settings-toggle-desc"><%= t("settings.read_aloud_desc") %></span>
         </span>
       </label>
     </div>
@@ -35,8 +42,8 @@ permalink: /settings/
       <label class="settings-toggle-label">
         <input type="checkbox" id="setting-group" />
         <span class="settings-toggle-text">
-          <strong>Group Sharing</strong>
-          <span class="settings-toggle-desc">Show an email icon in the toolbar to share with your study group</span>
+          <strong><%= t("settings.group_sharing") %></strong>
+          <span class="settings-toggle-desc"><%= t("settings.group_sharing_desc") %></span>
         </span>
       </label>
     </div>
@@ -45,8 +52,8 @@ permalink: /settings/
       <label class="settings-toggle-label">
         <input type="checkbox" id="setting-discussions" />
         <span class="settings-toggle-text">
-          <strong>Community Discussions</strong>
-          <span class="settings-toggle-desc">Show a comment section at the bottom of content pages. Posting requires a free <a href="https://github.com/signup" target="_blank">GitHub</a> account. All comments are public.</span>
+          <strong><%= t("settings.discussions") %></strong>
+          <span class="settings-toggle-desc"><%= t("settings.discussions_desc_html") %></span>
         </span>
       </label>
     </div>
@@ -55,8 +62,8 @@ permalink: /settings/
       <label class="settings-toggle-label">
         <input type="checkbox" id="setting-tips" />
         <span class="settings-toggle-text">
-          <strong>Tip of the Week</strong>
-          <span class="settings-toggle-desc">Show a banner with a random study tip on each page. Dismissing it hides tips for the rest of the week.</span>
+          <strong><%= t("settings.tips") %></strong>
+          <span class="settings-toggle-desc"><%= t("settings.tips_desc") %></span>
         </span>
       </label>
     </div>
@@ -65,70 +72,59 @@ permalink: /settings/
       <label class="settings-toggle-label">
         <input type="checkbox" id="setting-quiz" />
         <span class="settings-toggle-text">
-          <strong>Warm-Up Quiz</strong>
-          <span class="settings-toggle-desc">Show the "Remember?" quiz link at the top of each week's overview. The quiz page itself stays reachable either way.</span>
+          <strong><%= t("settings.quiz") %></strong>
+          <span class="settings-toggle-desc"><%= t("settings.quiz_desc") %></span>
         </span>
       </label>
     </div>
   </section>
 
   <section class="settings-section">
-    <h2>Site Theme</h2>
+    <h2><%= t("settings.theme") %></h2>
     <div class="settings-theme-selector">
-      <label for="setting-site-theme" class="settings-info">Choose your preferred appearance:</label>
+      <label for="setting-site-theme" class="settings-info"><%= t("settings.theme_label") %></label>
       <select id="setting-site-theme" class="settings-select">
-        <option value="light">Light</option>
-        <option value="dark">Dark</option>
-        <option value="auto">Match System Setting</option>
+        <option value="light"><%= t("settings.theme_light") %></option>
+        <option value="dark"><%= t("settings.theme_dark") %></option>
+        <option value="auto"><%= t("settings.theme_auto") %></option>
       </select>
     </div>
   </section>
 
   <section class="settings-section">
-    <h2>Font Size</h2>
-    <p class="settings-info">Set your preferred reading size in pixels:</p>
+    <h2><%= t("settings.font_size") %></h2>
+    <p class="settings-info"><%= t("settings.font_size_info") %></p>
     <div class="font-size-stepper">
-      <button id="font-size-decrease" class="font-size-btn" aria-label="Decrease font size">−</button>
+      <button id="font-size-decrease" class="font-size-btn" aria-label="<%= t("settings.font_decrease") %>">−</button>
       <input type="number" id="font-size-value" class="font-size-input" min="8" max="40" value="18" />
-      <button id="font-size-increase" class="font-size-btn" aria-label="Increase font size">+</button>
+      <button id="font-size-increase" class="font-size-btn" aria-label="<%= t("settings.font_increase") %>">+</button>
     </div>
   </section>
 
   <section class="settings-section" data-feature="quiz">
-    <h2>Warm-Up Quiz</h2>
-    <p class="settings-info">
-      Shape each warm-up quiz. Questions per quiz can be 5 to 20. Weeks to look back can be
-      1 to 6, counted from the week you are starting: starting week 9 with a look-back of 4
-      draws its questions from weeks 5 through 8.
-    </p>
+    <h2><%= t("settings.quiz") %></h2>
+    <p class="settings-info"><%= t("settings.quiz_info") %></p>
     <div class="settings-field">
-      <label class="settings-field-label" for="setting-quiz-length">Questions per quiz</label>
+      <label class="settings-field-label" for="setting-quiz-length"><%= t("settings.quiz_length") %></label>
       <input type="number" id="setting-quiz-length" class="settings-number-input" min="5" max="20" />
     </div>
     <div class="settings-field">
-      <label class="settings-field-label" for="setting-quiz-lookback">Weeks to look back</label>
+      <label class="settings-field-label" for="setting-quiz-lookback"><%= t("settings.quiz_lookback") %></label>
       <input type="number" id="setting-quiz-lookback" class="settings-number-input" min="1" max="6" />
     </div>
   </section>
 
   <section class="settings-section" data-feature="journal">
-    <h2>Journal Data</h2>
+    <h2><%= t("settings.journal_data") %></h2>
 
     <div class="settings-field">
-      <label class="settings-field-label" for="setting-journal-method">Journal entry prompt</label>
-      <p class="settings-info">
-        The faint text shown in an empty journal entry. Choose a method to be prompted through it step by step,
-        or write your own. See <a href="<%= relative_url '/documents/journaling/' %>">Journaling</a> for what each method asks.
-      </p>
+      <label class="settings-field-label" for="setting-journal-method"><%= t("settings.journal_prompt") %></label>
+      <p class="settings-info"><%= t("settings.journal_prompt_info_html", url: relative_url("#{data.locale.to_sym == site.config.default_locale.to_sym ? "" : "/#{data.locale}"}/documents/journaling/")) %></p>
       <select id="setting-journal-method" class="settings-select"></select>
       <textarea id="setting-journal-placeholder" class="settings-textarea" rows="4"></textarea>
     </div>
 
-    <p class="settings-info">
-      Journal entries are tracked separately for each Bible study. View, export, import, or clear a single study's entries below.
-      <strong>View</strong> opens the whole journal on one page, ready to print or save as a PDF.
-      <strong>Export</strong> saves a JSON backup — the only file Import reads.
-    </p>
+    <p class="settings-info"><%= t("settings.journal_data_info_html") %></p>
 
     <% site.data.studies.reject { |s| s["hidden"] }.each do |study| %>
       <%
@@ -138,43 +134,43 @@ permalink: /settings/
       <div class="settings-progress-study"
            data-study-slug="<%= study["slug"] %>"
            data-storage-prefix="<%= study_cfg["storage_prefix"] %>">
-        <h3 class="settings-progress-study-title"><%= study["title"] %></h3>
+        <h3 class="settings-progress-study-title"><%= study["title_#{data.locale}"] || study["title"] %></h3>
         <p class="settings-progress-study-info settings-info"></p>
 
         <div class="settings-actions">
-          <a class="settings-btn" href="<%= relative_url "/#{study["slug"]}/journal/print/" %>">View Journal</a>
-          <button class="settings-btn settings-export-journal">Export</button>
-          <button class="settings-btn settings-import-journal">Import</button>
+          <a class="settings-btn" href="<%= relative_url "/#{study["slug"]}/journal/print/" %>"><%= t("settings.view_journal") %></a>
+          <button class="settings-btn settings-export-journal"><%= t("settings.export") %></button>
+          <button class="settings-btn settings-import-journal"><%= t("settings.import") %></button>
           <input type="file" class="settings-import-journal-file" accept=".json" style="display:none;" />
-          <button class="settings-btn settings-btn-danger settings-clear-journal">Clear Entries</button>
+          <button class="settings-btn settings-btn-danger settings-clear-journal"><%= t("settings.clear_entries") %></button>
         </div>
       </div>
     <% end %>
   </section>
 
   <section class="settings-section" data-feature="group" id="group-members">
-    <h2>Study Group Members</h2>
+    <h2><%= t("settings.group_members") %></h2>
     <p id="settings-group-info" class="settings-info"></p>
 
     <div class="group-member-form">
-      <input type="text" id="group-member-name" placeholder="Name" class="group-member-input" />
-      <input type="email" id="group-member-email" placeholder="Email address" class="group-member-input group-member-input-email" />
-      <button id="group-add-member" class="settings-btn">Add</button>
+      <input type="text" id="group-member-name" placeholder="<%= t("settings.name_placeholder") %>" class="group-member-input" />
+      <input type="email" id="group-member-email" placeholder="<%= t("settings.email_placeholder") %>" class="group-member-input group-member-input-email" />
+      <button id="group-add-member" class="settings-btn"><%= t("settings.add") %></button>
     </div>
 
     <div id="group-member-list"></div>
 
     <div class="settings-actions" style="margin-top: 1rem;">
-      <button id="settings-export-group" class="settings-btn">Export</button>
-      <button id="settings-import-group" class="settings-btn">Import</button>
+      <button id="settings-export-group" class="settings-btn"><%= t("settings.export") %></button>
+      <button id="settings-import-group" class="settings-btn"><%= t("settings.import") %></button>
       <input type="file" id="settings-import-group-file" accept=".json" style="display:none;" />
-      <button id="settings-clear-group" class="settings-btn settings-btn-danger">Clear All Members</button>
+      <button id="settings-clear-group" class="settings-btn settings-btn-danger"><%= t("settings.clear_members") %></button>
     </div>
   </section>
 
   <section class="settings-section">
-    <h2>Progress Data</h2>
-    <p class="settings-info">Progress is tracked separately for each Bible study. Export, import, or clear a single study's progress below.</p>
+    <h2><%= t("settings.progress_data") %></h2>
+    <p class="settings-info"><%= t("settings.progress_info") %></p>
 
     <% site.data.studies.reject { |s| s["hidden"] }.each do |study| %>
       <%
@@ -185,32 +181,35 @@ permalink: /settings/
            data-study-slug="<%= study["slug"] %>"
            data-storage-prefix="<%= study_cfg["storage_prefix"] %>"
            data-config="<%= study_cfg.to_json %>">
-        <h3 class="settings-progress-study-title"><%= study["title"] %></h3>
+        <h3 class="settings-progress-study-title"><%= study["title_#{data.locale}"] || study["title"] %></h3>
         <p class="settings-progress-study-info settings-info"></p>
 
         <div class="settings-actions">
-          <button class="settings-btn settings-export-progress">Export</button>
-          <button class="settings-btn settings-import-progress">Import</button>
+          <button class="settings-btn settings-export-progress"><%= t("settings.export") %></button>
+          <button class="settings-btn settings-import-progress"><%= t("settings.import") %></button>
           <input type="file" class="settings-import-progress-file" accept=".json" style="display:none;" />
-          <button class="settings-btn settings-btn-danger settings-clear-progress">Clear Progress</button>
+          <button class="settings-btn settings-btn-danger settings-clear-progress"><%= t("settings.clear_progress") %></button>
         </div>
       </div>
     <% end %>
   </section>
 
   <section class="settings-section">
-    <h2>Storage</h2>
+    <h2><%= t("settings.storage") %></h2>
     <p id="settings-storage-info" class="settings-info"></p>
   </section>
 
   <section class="settings-section">
-    <h2>Debug</h2>
-    <p class="settings-info">Tools for testing this site's features.</p>
+    <h2><%= t("settings.debug") %></h2>
+    <p class="settings-info"><%= t("settings.debug_info") %></p>
     <div class="settings-actions">
-      <button id="settings-reset-banner" class="settings-btn">Reset Announcement Banner</button>
-      <button id="settings-reset-tip" class="settings-btn">Reset Tip of the Week</button>
+      <button id="settings-reset-banner" class="settings-btn"><%= t("settings.reset_banner") %></button>
+      <button id="settings-reset-tip" class="settings-btn"><%= t("settings.reset_tip") %></button>
     </div>
   </section>
 
   <div id="settings-status" class="settings-status"></div>
+
+  <%# Every message settings.js can show, in this page's language. %>
+  <script id="settings-messages" type="application/json"><%== t("settings_js").to_json %></script>
 </article>

@@ -19,4 +19,10 @@ Bridgetown.configure do |config|
 
   # Custom domain — no subfolder path needed
   base_path ""
+
+  # English is the default and keeps its unprefixed URLs; Spanish pages
+  # (slug.es.md, or `locale: es` in front matter) are served under /es/.
+  available_locales [:en, :es]
+  default_locale :en
+  prefix_default_locale false
 end

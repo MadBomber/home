@@ -1,0 +1,26 @@
+<%# Data for the two banners at the top of every page, in every language at
+    once. The banners follow the reader's chosen language (`language` in
+    bst_settings), not the page's: a reader who picked Spanish still gets
+    Spanish banners on a page that exists only in English. reader-language.js
+    does the choosing; a reader who never chose gets the page's language. %>
+<%
+  _locales = site.config.available_locales.map(&:to_s)
+
+  _announcements = _locales.to_h { |loc|
+    ann = (site.data.announcements_by_locale || {})[loc]
+    [loc, ann && {
+      "title" => ann["essay"] ? I18n.t("banner.new_essay", locale: loc, title: ann["title"]) : ann["title"],
+      "href"  => ann["link"].to_s.empty? ? relative_url(ann["url"]) : ann["link"],
+      "date"  => ann["date"],
+    }]
+  }
+
+  _tips = _locales.to_h { |loc|
+    [loc, ((site.data.tips_by_locale || {})[loc] || []).map { |tip| { "title" => tip["title"], "url" => relative_url(tip["url"]) } }]
+  }
+
+  _messages = _locales.to_h { |loc| [loc, I18n.t("banner", locale: loc)] }
+%>
+<script id="announcement-data" type="application/json"><%== _announcements.to_json %></script>
+<script id="tips-data" type="application/json"><%== _tips.to_json %></script>
+<script id="banner-messages" type="application/json"><%== _messages.to_json %></script>

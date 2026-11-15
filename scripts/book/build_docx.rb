@@ -67,6 +67,8 @@ cmd = [
   '-o', STUDY.docx.to_s,
   '--toc',
   "--toc-depth=#{TOC_DEPTH}",
+  "--metadata=lang:#{STUDY.lang}",
+  "--metadata=toc-title:#{STUDY.s(:toc)}",
   "--lua-filter=#{STUDY.filter}",
   "--reference-doc=#{STUDY.reference}"
 ]

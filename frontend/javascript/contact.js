@@ -6,6 +6,11 @@
 //
 // The address is kept in pieces and joined at runtime so it never appears as a
 // harvestable mailto: href in the delivered HTML.
+//
+// Every string this script shows comes from src/_locales under contact_js,
+// injected by contact.erb as #contact-messages in the page's language.
+
+import { loadMessages } from "./messages.js"
 
 const ADDRESS_LOCAL = "step-hazy-runny"
 const ADDRESS_HOST  = "duck.com"
@@ -93,7 +98,7 @@ function revealAddress() {
 // Adds the page address as a topic of its own and selects it. It is set with
 // textContent and .value rather than any markup, so a value arriving from the
 // query string is text and only ever text.
-function prefillTopicFromPage() {
+function prefillTopicFromPage(msg) {
   const url = pageUrlFromQuery(window.location.search, window.location.origin)
   if (!url) return
 
@@ -109,17 +114,17 @@ function prefillTopicFromPage() {
   const heading = document.getElementById("contact-page-note")
   if (heading) {
     // No quotation marks around the address — they read as part of it.
-    heading.textContent = `Your message will name the page you came from: ${url} — change the topic below if it is about something else.`
+    heading.textContent = msg("page_note", { url })
     heading.hidden = false
   }
 }
 
-function handleSubmit(e) {
+function handleSubmit(e, msg) {
   e.preventDefault()
 
   const message = document.getElementById("contact-message")?.value || ""
   if (!message.trim()) {
-    showStatus("Please write a message first.")
+    showStatus(msg("message_required"))
     return
   }
 
@@ -127,30 +132,32 @@ function handleSubmit(e) {
   const name  = document.getElementById("contact-name")?.value || ""
 
   window.location.href = buildMailtoLink(topic, message, name)
-  showStatus("Your mail app should be opening with the message ready to send.")
+  showStatus(msg("opening"))
 }
 
-function handleCopyAddress() {
+function handleCopyAddress(msg) {
   const address = contactAddress()
 
   if (!navigator.clipboard) {
-    showStatus(`Copy this address: ${address}`)
+    showStatus(msg("copy_this", { address }))
     return
   }
 
   navigator.clipboard.writeText(address)
-    .then(() => showStatus("Address copied."))
-    .catch(() => showStatus(`Copy this address: ${address}`))
+    .then(() => showStatus(msg("copied")))
+    .catch(() => showStatus(msg("copy_this", { address })))
 }
 
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("contact-form")
   if (!form) return
 
+  const { msg } = loadMessages("contact-messages")
+
   revealAddress()
-  prefillTopicFromPage()
-  form.addEventListener("submit", handleSubmit)
+  prefillTopicFromPage(msg)
+  form.addEventListener("submit", (e) => handleSubmit(e, msg))
 
   const copyBtn = document.getElementById("contact-copy-address")
-  if (copyBtn) copyBtn.addEventListener("click", handleCopyAddress)
+  if (copyBtn) copyBtn.addEventListener("click", () => handleCopyAddress(msg))
 })

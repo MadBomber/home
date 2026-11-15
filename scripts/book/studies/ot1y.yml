@@ -56,3 +56,17 @@ section_page:
   # in all 8 section pages. Dropped from the book.
   drop_headings:
     - "Content Expansion"
+
+# --- Spanish edition (BOOK_LANG=es) ---
+# Sources: translations/es/ot1y/. Keys here replace their English
+# counterparts above when building Spanish; anything absent is inherited.
+es:
+  title_page:
+    title: "Un año a Sus pies"
+    subtitle: "Antiguo Testamento"
+    byline: "por Dewayne VanHoozer"
+  heading_aliases: {}
+  section_page:
+    weeks_table: "Semanas de este pacto"
+    drop_headings:
+      - "Ampliación del contenido"

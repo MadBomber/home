@@ -5,7 +5,25 @@
 // load. Everything below assumes that index is the only data source; there is
 // no server involved.
 
-const INDEX_URL = "/search-index.json"
+// One index per language: /search-index.json for English, /es/search-index.json
+// for Spanish. src/search-index.json renders once per locale (locale: multi).
+import { loadMessages } from "./messages.js"
+
+// Every string this script shows comes from src/_locales under search_js,
+// injected by blog/index.erb as #search-messages in the page's language.
+// Read when first needed: the island sits below the script in the page.
+let messages = null
+function msg(key, vars) {
+  messages ||= loadMessages("search-messages")
+  return messages.msg(key, vars)
+}
+function msgCount(key, count, vars) {
+  messages ||= loadMessages("search-messages")
+  return messages.msgCount(key, count, vars)
+}
+
+const LANG_PREFIX = document.documentElement.lang === "en" ? "" : `/${document.documentElement.lang}`
+const INDEX_URL = `${LANG_PREFIX}/search-index.json`
 const SNIPPET_RADIUS = 90
 const MAX_RESULTS = 20
 
@@ -173,7 +191,7 @@ function resultCard(result, terms) {
   card.className = "blog-post-card search-result-card"
   card.href = entry.url
 
-  const meta = [entry.date, entry.collection ? "Collection" : null].filter(Boolean).join(" · ")
+  const meta = [entry.date, entry.collection ? msg("collection") : null].filter(Boolean).join(" · ")
 
   card.innerHTML = `
     <div class="blog-post-card-header">
@@ -182,7 +200,7 @@ function resultCard(result, terms) {
     <div class="blog-post-card-body">
       ${meta ? `<p class="blog-post-card-meta"><span class="blog-post-card-date">${escapeHtml(meta)}</span></p>` : ""}
       ${snippet ? `<p class="search-result-snippet">${highlight(snippet, terms)}</p>` : ""}
-      <span class="blog-post-card-read">Read article &rarr;</span>
+      <span class="blog-post-card-read">${escapeHtml(msg("read_article"))} &rarr;</span>
     </div>
   `
   return card
@@ -201,14 +219,14 @@ function countLine(total, terms) {
   const line = document.createElement("p")
   line.className = "search-result-count"
   line.appendChild(
-    document.createTextNode(`${total} ${total === 1 ? "essay" : "essays"} found containing `)
+    document.createTextNode(msgCount("found", total))
   )
 
   terms.forEach((term, index) => {
     if (index > 0) {
       const join = document.createElement("span")
       join.className = "search-count-and"
-      join.textContent = "AND"
+      join.textContent = msg("and")
       line.append(" ", join, " ")
     }
     const label = document.createElement("span")
@@ -227,7 +245,7 @@ function renderResults(container, results, query) {
   if (results.length === 0) {
     const empty = document.createElement("p")
     empty.className = "blog-empty search-message"
-    empty.textContent = "No results were found."
+    empty.textContent = msg("none")
     container.appendChild(empty)
     return
   }
@@ -263,18 +281,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const query = input.value.trim()
     if (!query) {
-      renderMessage(results, "Enter a word or phrase to search for.")
+      renderMessage(results, msg("enter"))
       return
     }
 
-    renderMessage(results, "Searching…")
+    renderMessage(results, msg("searching"))
 
     try {
       const entries = await loadIndex()
       renderResults(results, search(entries, query), query)
     } catch (error) {
       console.error(error)
-      renderMessage(results, "The search index could not be loaded. Please try again.")
+      renderMessage(results, msg("load_failed"))
     }
   })
 

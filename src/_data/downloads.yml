@@ -25,6 +25,12 @@
 #   file        — filename within src/downloads/ (required)
 #   description — optional sentence under the name
 #
+# Groups and items may also carry title_es / description_es / file_es for the
+# Spanish page (/es/downloads/); a missing one falls back to the English. An
+# item with no file_es offers its English file there, so its description_es
+# should say so ("En inglés."). The Spanish PDFs are built from the same
+# scripts/book/ pipeline with BOOK_LANG=es and carry ".es" before ".pdf".
+#
 # Example, ready to uncomment once the files are in place:
 #
 # - title: "Study Books"
@@ -42,20 +48,36 @@
 #
 
 - title: Study Books
+  title_es: Libros de estudio
   description: Each study as one printable volume, plus a short reference handout
     you can keep in your Bible.
+  description_es: Cada estudio en un solo volumen imprimible, más un breve folleto
+    de referencia que puedes guardar en tu Biblia.
   items:
   - title: New Testament Chronological Journey
+    title_es: Recorrido cronológico por el Nuevo Testamento
     description: All 52 weeks in one volume, formatted for letter paper.
+    description_es: Las 52 semanas en un solo volumen, en formato carta.
     file: ntc1y.pdf
+    file_es: ntc1y.es.pdf
   - title: New Testament Chronological Journey (Reading Calendar)
+    title_es: Recorrido cronológico por el Nuevo Testamento (calendario de lectura)
     description: 'Five pages: an overview, plus every week''s readings as a calendar,
       a quarter to a page.'
+    description_es: 'Seis páginas: un resumen, las lecturas de cada semana en forma
+      de calendario, un trimestre por página, y los versículos para memorizar.'
     file: ntc1y-handout.pdf
+    file_es: ntc1y-handout.es.pdf
   - title: 'Jesus: From Genesis to Revelation'
+    title_es: 'Jesús: de Génesis a Apocalipsis'
     description: All 52 weeks in one volume, formatted for letter paper.
+    description_es: Las 52 semanas en un solo volumen, en formato carta. En inglés.
     file: ot1y.pdf
   - title: 'Jesus: From Genesis to Revelation (Reading Calendar)'
+    title_es: 'Jesús: de Génesis a Apocalipsis (calendario de lectura)'
     description: 'Five pages: an overview, plus every week''s readings as a calendar,
       a quarter to a page.'
+    description_es: 'Seis páginas: un resumen, las lecturas de cada semana en forma
+      de calendario, un trimestre por página, y los versículos para memorizar.'
     file: ot1y-handout.pdf
+    file_es: ot1y-handout.es.pdf

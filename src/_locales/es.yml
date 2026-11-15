@@ -1,0 +1,323 @@
+# Interface strings for Spanish pages (/es/...). See en.yml for the English
+# and for how these are read. Anything missing here falls back to English.
+# Conventions follow notes/spanish_project/spanish-project.md: neutral Latin
+# American Spanish, tú for the reader, «comillas» for quotations.
+es:
+  lang:
+    switcher_label: Idioma
+  nav:
+    home: Inicio
+    essays: Ensayos
+    tips: Consejos
+    verse: Versículo
+    journal: Diario
+    speak: Escuchar
+    share: Compartir
+    print: Imprimir
+    downloads: Descargas
+    settings: Ajustes
+    about: Acerca de
+    menu: Menú
+  breadcrumb:
+    label: Ubicación de la página
+    week: Semana %{week}
+    day: Día %{day}
+    overview: Resumen
+    discussion: Discusión
+    memory_verse: Versículo para memorizar
+  footer:
+    copyright_html: 'El contenido del sitio es &copy; %{year} %{author}, bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">CC BY-NC-SA 4.0</a>. Las citas bíblicas quedan excluidas &mdash; ver abajo.'
+    contact: Contacto
+    privacy: Política de privacidad
+  feed:
+    title: "%{site} — Ensayos"
+  banner:
+    new_essay: "Nuevo ensayo: %{title}"
+    announcement_label: Anuncio
+    dismiss_announcement: Cerrar el anuncio
+    tip_label: Consejo de la semana
+    dismiss_tip: Cerrar el consejo
+  tips:
+    intro: Consejos breves para que aproveches al máximo estos estudios bíblicos. Uno distinto te recibe en cada página, hasta que lo cierres por el resto de la semana.
+    none: Todavía no hay consejos. Vuelve pronto.
+    group_study: Cómo estudiar
+    group_study_desc: Hábitos para leer las Escrituras mismas, dondequiera que las leas.
+    group_site: Cómo usar este sitio
+    group_site_desc: Funciones incluidas en estos estudios que es fácil pasar por alto.
+    more: Más consejos
+    random: Consejo al azar
+  essays:
+    tab_all: Todos
+    tab_recent: Recientes
+    tab_collections: Colecciones
+    tab_search: Buscar
+    tab_topics: Temas
+    none: Todavía no hay ensayos. Vuelve pronto.
+    no_collections: Todavía no hay colecciones.
+    read_article: Leer el ensayo
+    begin_reading: Empezar a leer
+    collection: Colección
+    parts:
+      one: "%{count} parte"
+      other: "%{count} partes"
+    search_label: Buscar en los ensayos
+    search_placeholder: p. ej. oración, Calvino, los elegidos
+    search_submit: Buscar
+    search_clear: Borrar
+    search_hint_html: Busca en el texto completo de cada ensayo. Un ensayo debe contener <em>todos</em> los términos para coincidir &mdash; pon comillas alrededor de una frase (&laquo;Hechos 17&raquo;) para encontrar esas palabras juntas.
+  search_js:
+    found_one: "%{count} ensayo contiene "
+    found_other: "%{count} ensayos contienen "
+    and: Y
+    none: No se encontraron resultados.
+    enter: Escribe una palabra o frase para buscar.
+    searching: Buscando…
+    load_failed: No se pudo cargar el índice de búsqueda. Inténtalo de nuevo.
+    read_article: Leer el ensayo
+    collection: Colección
+  essay:
+    write_to: Escríbele a %{author} sobre este ensayo
+    topics_label: "Temas:"
+    all_topics: Todos los temas
+    topics_nav: Temas
+  settings:
+    intro: Personaliza tu experiencia de estudio. Todos los ajustes se guardan de forma privada en este navegador.
+    features: Funciones
+    journaling: Diario
+    journaling_desc: Mostrar el ícono del diario en las páginas de cada día
+    read_aloud: Lectura en voz alta
+    read_aloud_desc: Mostrar el botón Escuchar en la barra de herramientas
+    group_sharing: Compartir con el grupo
+    group_sharing_desc: Mostrar un ícono de correo en la barra de herramientas para compartir con tu grupo de estudio
+    discussions: Discusiones de la comunidad
+    discussions_desc_html: Mostrar una sección de comentarios al final de las páginas de contenido. Para publicar se necesita una cuenta gratuita de <a href="https://github.com/signup" target="_blank">GitHub</a>. Todos los comentarios son públicos.
+    tips: Consejo de la semana
+    tips_desc: Mostrar en cada página un consejo de estudio elegido al azar. Al cerrarlo, los consejos se ocultan por el resto de la semana.
+    quiz: Cuestionario de repaso
+    quiz_desc: Mostrar el enlace «¿Recuerdas?» al cuestionario al inicio del resumen de cada semana. La página del cuestionario sigue disponible de todos modos.
+    theme: Tema del sitio
+    theme_label: "Elige la apariencia que prefieras:"
+    theme_light: Claro
+    theme_dark: Oscuro
+    theme_auto: Igual que el sistema
+    font_size: Tamaño de letra
+    font_size_info: "Elige el tamaño de lectura que prefieras, en píxeles:"
+    font_decrease: Reducir el tamaño de letra
+    font_increase: Aumentar el tamaño de letra
+    quiz_info: "Configura cada cuestionario de repaso. Las preguntas por cuestionario pueden ser de 5 a 20. Las semanas hacia atrás pueden ser de 1 a 6, contadas desde la semana que estás empezando: al empezar la semana 9 con 4 semanas hacia atrás, las preguntas salen de las semanas 5 a 8."
+    quiz_length: Preguntas por cuestionario
+    quiz_lookback: Semanas hacia atrás
+    journal_data: Datos del diario
+    journal_prompt: Guía para las entradas del diario
+    journal_prompt_info_html: El texto tenue que aparece en una entrada vacía del diario. Elige un método para que te guíe paso a paso, o escribe el tuyo. Consulta <a href="%{url}">Llevar un diario</a> para ver qué pregunta cada método.
+    journal_data_info_html: Las entradas del diario se guardan por separado para cada estudio bíblico. Abajo puedes ver, exportar, importar o borrar las entradas de un solo estudio. <strong>Ver</strong> abre todo el diario en una sola página, lista para imprimir o guardar como PDF. <strong>Exportar</strong> guarda una copia de seguridad en JSON &mdash; el único archivo que Importar acepta.
+    view_journal: Ver el diario
+    export: Exportar
+    import: Importar
+    clear_entries: Borrar las entradas
+    group_members: Miembros del grupo de estudio
+    name_placeholder: Nombre
+    email_placeholder: Correo electrónico
+    add: Agregar
+    clear_members: Quitar a todos los miembros
+    progress_data: Datos de progreso
+    progress_info: El progreso se guarda por separado para cada estudio bíblico. Abajo puedes exportar, importar o borrar el progreso de un solo estudio.
+    clear_progress: Borrar el progreso
+    storage: Almacenamiento
+    debug: Depuración
+    debug_info: Herramientas para probar las funciones de este sitio.
+    reset_banner: Restablecer el anuncio
+    reset_tip: Restablecer el consejo de la semana
+  settings_js:
+    write_my_own: Escribir la mía
+    prompt_set_method: Guía del diario cambiada a %{name}
+    prompt_set_custom: Guía del diario cambiada a tus propias palabras.
+    prompt_saved: Guía del diario guardada.
+    this_study: este estudio
+    file_unreadable: No se pudo leer el archivo. Asegúrate de que sea un archivo JSON válido.
+    journal_none_export: No hay entradas del diario que exportar para %{study}.
+    journal_exported_one: Diario de %{study} exportado (%{count} entrada).
+    journal_exported_other: Diario de %{study} exportado (%{count} entradas).
+    journal_invalid: Archivo de diario no válido.
+    journal_file_empty: El archivo no contiene entradas del diario.
+    journal_import_confirm_one: ¿Importar el diario de %{study} (%{count} entrada)?
+    journal_import_confirm_other: ¿Importar el diario de %{study} (%{count} entradas)?
+    journal_import_replace_one: " Esto reemplazará tu entrada actual (%{count})."
+    journal_import_replace_other: " Esto reemplazará tus %{count} entradas actuales."
+    journal_imported_one: Diario de %{study} importado (%{count} entrada).
+    journal_imported_other: Diario de %{study} importado (%{count} entradas).
+    journal_none_clear: No hay entradas del diario que borrar para %{study}.
+    journal_clear_confirm_one: "Esto eliminará de forma permanente %{count} entrada del diario de %{study} de este navegador. No se puede deshacer.\n\n¿Continuar?"
+    journal_clear_confirm_other: "Esto eliminará de forma permanente %{count} entradas del diario de %{study} de este navegador. No se puede deshacer.\n\n¿Continuar?"
+    journal_cleared: Se borraron todas las entradas del diario de %{study}.
+    journal_stored_none: No hay entradas del diario guardadas.
+    journal_stored_one: "%{count} entrada del diario guardada."
+    journal_stored_other: "%{count} entradas del diario guardadas."
+    progress_none_export: No hay datos de progreso que exportar para %{study}.
+    progress_exported_one: Progreso de %{study} exportado (%{count} elemento).
+    progress_exported_other: Progreso de %{study} exportado (%{count} elementos).
+    progress_invalid: Archivo de progreso no válido.
+    progress_file_empty: El archivo no contiene datos de progreso.
+    progress_import_confirm_one: ¿Importar el progreso de %{study} (%{count} elemento)?
+    progress_import_confirm_other: ¿Importar el progreso de %{study} (%{count} elementos)?
+    progress_import_replace_one: " Esto reemplazará tu progreso actual (%{count} elemento)."
+    progress_import_replace_other: " Esto reemplazará tu progreso actual (%{count} elementos)."
+    progress_imported_one: Progreso de %{study} importado (%{count} elemento).
+    progress_imported_other: Progreso de %{study} importado (%{count} elementos).
+    progress_none_clear: No hay datos de progreso que borrar para %{study}.
+    progress_clear_confirm_one: "Esto eliminará de forma permanente todo el progreso de %{study} (%{count} elemento completado) de este navegador. No se puede deshacer.\n\n¿Continuar?"
+    progress_clear_confirm_other: "Esto eliminará de forma permanente todo el progreso de %{study} (%{count} elementos completados) de este navegador. No se puede deshacer.\n\n¿Continuar?"
+    progress_cleared: Se borró todo el progreso de %{study}.
+    progress_none: No hay progreso registrado.
+    progress_steps: "%{count} de %{total} pasos completados."
+    group_empty: Todavía no hay miembros en el grupo. Agrega a alguien para empezar.
+    remove: Quitar
+    email_required: Escribe un correo electrónico.
+    email_duplicate: Ese correo electrónico ya está en tu grupo.
+    member_added: Se agregó a %{name} a tu grupo.
+    group_none: No hay miembros en el grupo.
+    group_count_one: "%{count} miembro en tu grupo de estudio."
+    group_count_other: "%{count} miembros en tu grupo de estudio."
+    group_none_export: No hay miembros del grupo que exportar.
+    group_exported_one: Se exportó %{count} miembro del grupo.
+    group_exported_other: Se exportaron %{count} miembros del grupo.
+    group_invalid: Archivo de grupo no válido.
+    group_invalid_email: Archivo de grupo no válido. Cada miembro debe tener un correo electrónico.
+    group_file_empty: El archivo no contiene miembros del grupo.
+    group_import_confirm_one: ¿Importar %{count} miembro del grupo?
+    group_import_confirm_other: ¿Importar %{count} miembros del grupo?
+    group_import_replace_one: " Esto reemplazará a tu miembro actual (%{count})."
+    group_import_replace_other: " Esto reemplazará a tus %{count} miembros actuales."
+    group_imported_one: Se importó %{count} miembro del grupo.
+    group_imported_other: Se importaron %{count} miembros del grupo.
+    group_none_clear: No hay miembros del grupo que quitar.
+    group_clear_confirm_one: "Esto quitará al único miembro (%{count}) de tu grupo de estudio. No se puede deshacer.\n\n¿Continuar?"
+    group_clear_confirm_other: "Esto quitará a los %{count} miembros de tu grupo de estudio. No se puede deshacer.\n\n¿Continuar?"
+    group_cleared: Se quitó a todos los miembros del grupo.
+    storage_used: "Almacenamiento usado: %{kb} KB"
+    theme_set: Tema del sitio cambiado a «%{theme}».
+    font_size_set: Tamaño de letra cambiado a %{px}px.
+    quiz_length_set: Los cuestionarios de repaso tendrán %{count} preguntas.
+    quiz_lookback_set_one: Los cuestionarios de repaso tomarán preguntas de la semana anterior a la que estás empezando.
+    quiz_lookback_set_other: Los cuestionarios de repaso tomarán preguntas de las %{count} semanas anteriores a la que estás empezando.
+    banner_reset: Anuncio restablecido. Recarga cualquier página para verlo de nuevo.
+    tip_reset: Consejo de la semana restablecido. Recarga cualquier página para verlo de nuevo.
+  downloads:
+    intro: Todo lo que hay aquí es tuyo. Elige un archivo y se guardará en tu dispositivo, donde podrás leerlo, imprimirlo o llevarlo contigo sin conexión.
+    empty: Todavía no hay archivos para descargar. Vuelve más tarde.
+    missing: Falta en src/downloads/ (este aviso solo aparece en desarrollo)
+  home:
+    # Scripture here is the NBLA, as printed.
+    hero_verse: "«Lámpara es a mis pies Tu palabra, Y luz para mi camino»."
+    hero_ref: "— Salmo 119:105 (NBLA)"
+    tagline: Estudios semanales de las Escrituras para iluminar tu caminar con Dios.
+    verse_1: "«Toda Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, equipado para toda buena obra»."
+    verse_1_ref: "— 2 Timoteo 3:16–17 (NBLA)"
+    verse_2: "«Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que maneja con precisión la palabra de verdad»."
+    verse_2_ref: "— 2 Timoteo 2:15 (NBLA)"
+    studies: Estudios disponibles
+    study_note_html: 'Las páginas de los estudios están por ahora en inglés. Los libros y los calendarios de lectura en español están en <a href="%{url}">Descargas</a>.'
+    in_development: En desarrollo
+    featured_essays: Ensayos destacados
+    devotionals: Devocionales diarios
+    devotionals_lead: "Los mejores devocionales hacen más que inspirar: te forman en la Palabra. Esto es lo que conviene buscar:"
+    devotional_point_1_title: La Escritura primero
+    devotional_point_1_text: Busca recursos que anclen su texto en un versículo bíblico explícito y no en una opinión personal.
+    devotional_point_2_title: Oración incluida
+    devotional_point_2_text: Muchas entradas terminan con una «oración del día» escrita, que te da palabras cuando no sabes cómo empezar a orar.
+    devotional_point_3_title: Con audio
+    devotional_point_3_text: Busca devocionales en video o en audio si prefieres escuchar la Palabra de Dios en el camino al trabajo o mientras haces los quehaceres.
+    visit_site: Visitar el sitio
+  landing_js:
+    steps: "%{count} de %{total} pasos completados (%{pct}%)"
+    steps_continue: "%{count} de %{total} pasos completados (%{pct}%) — continúa con: %{label} →"
+    section_overview: Resumen de la sección %{section}
+    week_overview: Resumen de la semana %{week}
+    week_day: Semana %{week}, día %{day}
+    week_discussion: Discusión de la semana %{week}
+  contact:
+    intro: Las preguntas, las correcciones y los comentarios sobre cómo va un estudio son bienvenidos. Escribe tu mensaje abajo y tu propia aplicación de correo se abrirá con él listo para enviar — nada se envía a este sitio, y ningún servicio externo interviene.
+    name_label: Tu nombre
+    optional: (opcional)
+    topic_label: ¿De qué se trata?
+    topics:
+      - Una pregunta sobre un estudio
+      - Una pregunta sobre un ensayo
+      - Algo no funciona en el sitio
+      - Permiso para reproducir o reutilizar
+      - Otro asunto
+    message_label: Mensaje
+    message_placeholder: Escribe tanto o tan poco como quieras.
+    submit: Abrir en mi aplicación de correo
+    direct_heading: O escribe directamente
+    direct_info: "Si el botón de arriba no hace nada — algunos navegadores no tienen una aplicación de correo a la cual entregarlo — escribe a esta dirección desde donde leas tu correo:"
+    loading: cargando…
+    copy_address: Copiar la dirección
+  contact_js:
+    page_note: "Tu mensaje nombrará la página de la que vienes: %{url} — cambia el asunto abajo si se trata de otra cosa."
+    message_required: Escribe primero un mensaje.
+    opening: Tu aplicación de correo debería estar abriéndose con el mensaje listo para enviar.
+    copy_this: "Copia esta dirección: %{address}"
+    copied: Dirección copiada.
+  translation:
+    # Se muestra arriba de cada página mientras la traducción espera la
+    # revisión de un hablante nativo. Vaciar esta cadena quita el aviso.
+    notice_html: 'Esta traducción al español es nueva y aún no la ha revisado un hablante nativo. Si algo suena extraño o está mal, <a href="%{url}">envía una corrección</a>; será bienvenida.'
+  draft:
+    title: Borrador — aún no publicado
+    essay: "Este ensayo lleva la fecha del %{date}, que todavía no ha llegado. Sigue en elaboración: la redacción, la estructura o las conclusiones pueden cambiar considerablemente antes de esa fecha, y es posible que esta página no llegue a publicarse en su forma actual."
+    study: "Este estudio aún no se ha publicado, por lo que no aparece en la página de inicio ni en la navegación del sitio. Sigue en elaboración: el contenido, la estructura o el calendario pueden cambiar considerablemente, y es posible que esta página no llegue a publicarse en su forma actual."
+  not_found:
+    title: Página no encontrada
+    badge: 404 — Página no encontrada
+    image_alt: El Buen Pastor buscando a una oveja perdida
+    heading: ¿A veces te sientes como una oveja perdida?
+    body: Vagando sin rumbo, sin saber a dónde perteneces — Jesús te está buscando. Él es el Buen Pastor. Confía en Él para que te lleve a casa, a donde perteneces.
+    # Scripture below is the NBLA, as printed.
+    verse: "«Porque el Hijo del Hombre ha venido a buscar y a salvar lo que se había perdido»."
+    verse_ref: "— Lucas 19:10 (NBLA)"
+    home: Volver al inicio
+    path_heading: El camino a casa
+    path_intro: La Biblia llama por su nombre a esa sensación de estar perdido — y muestra el camino de regreso.
+    steps:
+      - text: "No nos extraviamos por accidente. La Escritura es clara: cada uno de nosotros se ha apartado de Dios."
+        verse: "«Por cuanto todos pecaron y no alcanzan la gloria de Dios»."
+        ref: "— Romanos 3:23 (NBLA)"
+      - text: El pecado trae una consecuencia — pero Dios se niega a dejar la historia ahí.
+        verse: "«Porque la paga del pecado es muerte, pero la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro»."
+        ref: "— Romanos 6:23 (NBLA)"
+      - text: El Buen Pastor no esperó a que encontraras el camino de regreso. Vino a buscarte — a un gran costo.
+        verse: "«Pero Dios demuestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros»."
+        ref: "— Romanos 5:8 (NBLA)"
+      - text: Volver a casa es más sencillo de lo que piensas. Empieza con una confesión y con confiar.
+        verse: "«Que si confiesas con tu boca a Jesús por Señor, y crees en tu corazón que Dios lo resucitó de entre los muertos, serás salvo»."
+        ref: "— Romanos 10:9 (NBLA)"
+      - text: Y la promesa es para todos — sin excepciones, sin letra pequeña.
+        verse: "«Porque: “TODO AQUEL QUE INVOQUE EL NOMBRE DEL SEÑOR SERÁ SALVO”»."
+        ref: "— Romanos 10:13 (NBLA)"
+      - text: Este es el corazón de todo — la razón por la que el Pastor dejó las noventa y nueve para encontrarte.
+        verse: "«Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que todo aquel que cree en Él, no se pierda, sino que tenga vida eterna. Porque Dios no envió a Su Hijo al mundo para juzgar al mundo, sino para que el mundo sea salvo por Él»."
+        ref: "— Juan 3:16–17 (NBLA)"
+  date:
+    # Bridgetown ships month and day names for English only, so Spanish
+    # supplies its own. Lowercase is standard Spanish usage.
+    formats:
+      default: "%Y-%m-%d"
+      short: "%-d %b"
+      long: "%-d de %B de %Y"
+      card: "%d %b %y"
+    day_names: [domingo, lunes, martes, miércoles, jueves, viernes, sábado]
+    abbr_day_names: [dom, lun, mar, mié, jue, vie, sáb]
+    month_names: [~, enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre]
+    abbr_month_names: [~, ene, feb, mar, abr, may, jun, jul, ago, sep, oct, nov, dic]
+    order:
+      - day
+      - month
+      - year
+  time:
+    formats:
+      default: "%a, %-d %b %Y %H:%M:%S %z"
+      short: "%-d %b %H:%M"
+      long: "%-d de %B de %Y %H:%M"
+    am: "am"
+    pm: "pm"

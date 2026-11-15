@@ -4,6 +4,10 @@
 #
 # Each group needs an id (stable, used in markup), a name (shown to readers),
 # and a list of prompts. Groups may be added or removed freely.
+#
+# name_es and prompts_es are the same in Spanish, for /es/documents/journaling/.
+# Keep prompts_es in the same order and of the same length as prompts. The
+# journal page itself is English and reads only prompts.
 
 groups:
 - id: daily
@@ -17,6 +21,16 @@ groups:
   - Where have you already seen this to be true in your own life?
   - What surprised you?
   - What did you not understand?
+  name_es: Para empezar el día
+  prompts_es:
+  - "¿Qué te está diciendo Dios en este pasaje?"
+  - "¿Qué palabra o frase te llamó la atención, y por qué esa?"
+  - "¿En qué desafía este pasaje algo que crees o algo que haces?"
+  - "Vuelve a escribir el versículo clave con tus propias palabras."
+  - "¿Qué cosa puedes hacer hoy a causa de esto?"
+  - "¿Dónde has visto ya que esto es verdad en tu propia vida?"
+  - "¿Qué te sorprendió?"
+  - "¿Qué no entendiste?"
 - id: hard-season
   name: In a Hard Season
   prompts:
@@ -25,6 +39,13 @@ groups:
   - Write a prayer asking Him to help you trust this while it is still hard.
   - What would it look like to hand this situation over entirely?
   - Write about a time He proved faithful before. What does that say about now?
+  name_es: En una temporada difícil
+  prompts_es:
+  - "¿Qué promete Dios aquí a lo que necesitas aferrarte ahora mismo?"
+  - "¿Cómo le habla este pasaje a lo que estás cargando en este momento?"
+  - "Escribe una oración pidiéndole que te ayude a confiar en esto mientras todavía es difícil."
+  - "¿Cómo sería entregarle esta situación por completo?"
+  - "Escribe sobre una ocasión en que Él demostró ser fiel. ¿Qué dice eso sobre el presente?"
 - id: gratitude
   name: For Gratitude and Praise
   prompts:
@@ -33,6 +54,13 @@ groups:
   - Which part of His character are you most grateful for today?
   - Which prayer has He answered that you had forgotten praying?
   - Write about someone He put in your life on purpose.
+  name_es: Para la gratitud y la alabanza
+  prompts_es:
+  - "Haz una lista de diez cosas que Dios ha hecho por ti esta semana, y busca un versículo para cada una."
+  - "Escribe tu propio salmo de alabanza, siguiendo el modelo del Salmo 103."
+  - "¿Por qué aspecto de Su carácter estás más agradecido hoy?"
+  - "¿Qué oración te ha contestado que ya habías olvidado haber hecho?"
+  - "Escribe sobre alguien a quien Él puso en tu vida a propósito."
 - id: growth
   name: For Growth
   prompts:
@@ -44,6 +72,15 @@ groups:
   - Write about a sin you keep returning to, and what Scripture says about it.
   - Is there anything here you would rather not be true?
   - What would change if you believed this today?
+  name_es: Para crecer
+  prompts_es:
+  - "¿En qué fruto del Espíritu (Gálatas 5:22-23) necesitas crecer más, y por qué en ese?"
+  - "¿A quién se te está pidiendo que perdones? Escribe sobre eso con honestidad."
+  - "¿Qué deja al descubierto este pasaje que preferirías no mirar?"
+  - "¿Cómo respondería Jesús a la situación que enfrentas?"
+  - "Escribe sobre un pecado al que vuelves una y otra vez, y sobre lo que la Escritura dice de él."
+  - "¿Hay algo aquí que preferirías que no fuera verdad?"
+  - "¿Qué cambiaría si hoy creyeras esto?"
 - id: study
   name: For Deeper Study
   prompts:
@@ -52,6 +89,13 @@ groups:
   - Find three cross-references. What pattern runs through them?
   - What does the underlying Hebrew or Greek word carry that English leaves out?
   - Where does this passage sit in the story the whole Bible is telling?
+  name_es: Para un estudio más profundo
+  prompts_es:
+  - "¿Qué estaba pasando cuando esto se escribió, y cómo cambia eso lo que significa?"
+  - "Lee el pasaje en una segunda traducción. ¿Qué revela la diferencia?"
+  - "Busca tres referencias cruzadas. ¿Qué patrón las recorre?"
+  - "¿Qué lleva consigo la palabra hebrea o griega original que la traducción deja fuera?"
+  - "¿Qué lugar ocupa este pasaje en la historia que cuenta la Biblia entera?"
 - id: prayer
   name: For Prayer
   prompts:
@@ -61,3 +105,10 @@ groups:
     (ACTS).
   - What is the Holy Spirit pressing you to pray about after this reading?
   - Write God a letter about what this passage stirred up.
+  name_es: Para la oración
+  prompts_es:
+  - "Reescribe el pasaje como una oración con tus propias palabras."
+  - "¿Quién necesita oír este versículo? Escribe una oración por esa persona."
+  - "Recorre el pasaje con adoración, confesión, acción de gracias y súplica (ACTS)."
+  - "¿Sobre qué te está impulsando el Espíritu Santo a orar después de esta lectura?"
+  - "Escríbele a Dios una carta sobre lo que este pasaje removió en ti."

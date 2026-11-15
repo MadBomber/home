@@ -3,6 +3,14 @@ title: Downloads
 layout: default
 permalink: /downloads/
 description: Files from LampLight.Guide you can save to your own device.
+# One template, rendered once per language. Strings come from src/_locales;
+# group and item names come from downloads.yml, title_es beside title.
+locale: multi
+locale_overrides:
+  es:
+    title: Descargas
+    permalink: /es/downloads/
+    description: Archivos de LampLight.Guide que puedes guardar en tu propio dispositivo.
 ---
 
 <%
@@ -16,6 +24,12 @@ description: Files from LampLight.Guide you can save to your own device.
   # YAML, so neither can drift away from the file it describes.
 
   _in_dev = Bridgetown.environment.to_s != "production"
+
+  # A field in this page's language, else the English one: "title_es" → "title".
+  _localized = ->(hash, key) {
+    value = hash["#{key}_#{data.locale}"]
+    value.to_s.empty? ? hash[key] : value
+  }
 
   # Extension to badge label. Anything unlisted falls back to the bare extension,
   # upcased, which is right often enough not to need a rule of its own.
@@ -41,7 +55,7 @@ description: Files from LampLight.Guide you can save to your own device.
 
   _groups = Array(site.data.downloads).map { |group|
     items = Array(group["items"]).filter_map { |item|
-      filename = item["file"].to_s.strip
+      filename = _localized.(item, "file").to_s.strip
       next if filename.empty?
 
       path   = site.in_source_dir("downloads", filename)
@@ -56,8 +70,8 @@ description: Files from LampLight.Guide you can save to your own device.
       extension = File.extname(filename).delete_prefix(".").downcase
 
       {
-        "title"       => item["title"].to_s.empty? ? filename : item["title"],
-        "description" => item["description"],
+        "title"       => _localized.(item, "title").to_s.empty? ? filename : _localized.(item, "title"),
+        "description" => _localized.(item, "description"),
         "format"      => _formats[extension] || extension.upcase,
         "size"        => exists ? _human_size.(File.size(path)) : nil,
         "href"        => relative_url("/downloads/#{filename}"),
@@ -65,7 +79,11 @@ description: Files from LampLight.Guide you can save to your own device.
       }
     }
 
-    group.merge("items" => items)
+    group.merge(
+      "title"       => _localized.(group, "title"),
+      "description" => _localized.(group, "description"),
+      "items"       => items
+    )
   }.reject { |group| group["items"].empty? }
 
   _download_icon = <<~SVG
@@ -79,14 +97,11 @@ description: Files from LampLight.Guide you can save to your own device.
 %>
 
 <article id="downloads-page">
-  <h1>Downloads</h1>
-  <p class="downloads-intro">
-    Everything here is yours to keep. Choose a file and it saves to your device,
-    where you can read it, print it, or carry it with you offline.
-  </p>
+  <h1><%= data.title %></h1>
+  <p class="downloads-intro"><%= t("downloads.intro") %></p>
 
   <% if _groups.empty? %>
-    <p class="downloads-empty">No files are available for download yet. Please check back.</p>
+    <p class="downloads-empty"><%= t("downloads.empty") %></p>
   <% end %>
 
   <% _groups.each do |group| %>
@@ -115,9 +130,7 @@ description: Files from LampLight.Guide you can save to your own device.
                   <span class="download-desc"><%= item["description"] %></span>
                 <% end %>
                 <% unless item["exists"] %>
-                  <span class="download-desc download-warning">
-                    Missing from src/downloads/ (this notice appears in development only)
-                  </span>
+                  <span class="download-desc download-warning"><%= t("downloads.missing") %></span>
                 <% end %>
               </span>
 

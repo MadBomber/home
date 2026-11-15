@@ -5,9 +5,10 @@ study_slug: blog
 template_engine: erb
 ---
 
-18 pages carry the **acts** tag:
+19 pages carry the **acts** tag:
 
 - [Bible Study is Boring](<%= relative_url "/blog/bible-study-is-boring/" %>)
+- [In Jesus' Name, Cluck Like a Chicken](<%= relative_url "/blog/cluck-like-a-chicken/" %>)
 - [Elisha and the Two Bears](<%= relative_url "/blog/elisha-and-the-two-bears/" %>)
 - [He Is Risen](<%= relative_url "/blog/he-is-risen/" %>)
 - [How to Spot a False Teacher](<%= relative_url "/blog/how-to-spot-a-false-teacher/" %>)

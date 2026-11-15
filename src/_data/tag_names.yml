@@ -1,0 +1,161 @@
+# What each topic tag is called in a language other than English.
+#
+# Tags are never translated in front matter: a Spanish essay carries the same
+# `tags:` as its English original, and both languages share one tag page slug
+# (/blog/tags/grace/ and /es/blog/tags/grace/). This file only supplies the
+# name shown to the reader. A tag missing here is shown as written.
+#
+# Read by scripts/tags.rb (the generated tag pages) and by
+# src/_partials/_topic_tags.erb (the topic line at the foot of an essay).
+# After adding a tag to an essay, add its name here and rerun
+#   ruby scripts/tags.rb src/blog
+#
+# Bible book names follow the NBLA. Books are capitalized; topics are not.
+
+es:
+  1-chronicles: 1 Crónicas
+  1-corinthians: 1 Corintios
+  1-john: 1 Juan
+  1-kings: 1 Reyes
+  1-peter: 1 Pedro
+  1-samuel: 1 Samuel
+  1-thessalonians: 1 Tesalonicenses
+  1-timothy: 1 Timoteo
+  2-chronicles: 2 Crónicas
+  2-corinthians: 2 Corintios
+  2-kings: 2 Reyes
+  2-peter: 2 Pedro
+  2-samuel: 2 Samuel
+  2-thessalonians: 2 Tesalonicenses
+  2-timothy: 2 Timoteo
+  acts: Hechos
+  aliens: extraterrestres
+  amos: Amós
+  angels: ángeles
+  apologetics: apologética
+  assurance: seguridad de la salvación
+  atonement: expiación
+  authority: autoridad
+  betrayal: traición
+  bible-difficulties: dificultades bíblicas
+  bible-study: estudio bíblico
+  bible-translation: traducción de la Biblia
+  biblical-silence: silencio bíblico
+  canon: canon
+  colossians: Colosenses
+  creation: creación
+  cross: cruz
+  cults: sectas
+  daniel: Daniel
+  demons: demonios
+  deuteronomy: Deuteronomio
+  discernment: discernimiento
+  discipleship: discipulado
+  doubt: duda
+  early-church: iglesia primitiva
+  easter: Domingo de Resurrección
+  ecclesiastes: Eclesiastés
+  election: elección
+  elisha: Eliseo
+  envy: envidia
+  ephesians: Efesios
+  eschatology: escatología
+  esther: Ester
+  eternal-life: vida eterna
+  ethics: ética
+  exodus: Éxodo
+  ezekiel: Ezequiel
+  faith: fe
+  false-teachers: falsos maestros
+  false-teaching: falsa enseñanza
+  fig-tree: higuera
+  forgiveness: perdón
+  free-will: libre albedrío
+  freedom: libertad
+  galatians: Gálatas
+  genesis: Génesis
+  glory: gloria
+  gnosticism: gnosticismo
+  gospel: evangelio
+  grace: gracia
+  hebrews: Hebreos
+  holiness: santidad
+  holy-spirit: Espíritu Santo
+  hope: esperanza
+  hosea: Oseas
+  humility: humildad
+  hypocrisy: hipocresía
+  incarnation: encarnación
+  isaiah: Isaías
+  james: Santiago
+  jeremiah: Jeremías
+  jerusalem: Jerusalén
+  job: Job
+  joel: Joel
+  john: Juan
+  jonah: Jonás
+  joshua: Josué
+  # The disciple and the epistle are both «Judas» in Spanish, so each says which.
+  judas: Judas Iscariote
+  jude: Judas (epístola)
+  judges: Jueces
+  judgment: juicio
+  kavod: kavod
+  kingdom-of-god: reino de Dios
+  language: lenguaje
+  last-supper: Última Cena
+  law: ley
+  leviticus: Levítico
+  love: amor
+  luke: Lucas
+  malachi: Malaquías
+  mark: Marcos
+  matthew: Mateo
+  mercy: misericordia
+  micah: Miqueas
+  miracles: milagros
+  names-of-jesus: nombres de Jesús
+  nehemiah: Nehemías
+  new-covenant: nuevo pacto
+  numbers: Números
+  obedience: obediencia
+  parables: parábolas
+  passion-week: Semana Santa
+  passover: Pascua
+  peter: Pedro
+  philippians: Filipenses
+  politics: política
+  prayer: oración
+  predestination: predestinación
+  prophecy: profecía
+  proverbs: Proverbios
+  psalms: Salmos
+  ransom: rescate
+  relationship: relación
+  repentance: arrepentimiento
+  resurrection: resurrección
+  revelation: Apocalipsis
+  righteousness: justicia
+  romans: Romanos
+  salvation: salvación
+  sanctification: santificación
+  satan: Satanás
+  science-and-faith: ciencia y fe
+  scripture: Escritura
+  second-coming: segunda venida
+  sermon-on-mount: Sermón del monte
+  servanthood: servicio
+  song-of-solomon: Cantares
+  sovereignty: soberanía
+  spiritual-warfare: guerra espiritual
+  suffering: sufrimiento
+  temple: templo
+  temptation: tentación
+  testimony: testimonio
+  titus: Tito
+  triumphal-entry: entrada triunfal
+  upper-room-discourse: discurso del aposento alto
+  visions: visiones
+  wholeness: integridad
+  worship: adoración
+  zechariah: Zacarías

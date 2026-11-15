@@ -826,6 +826,43 @@ a:hover {
   color: var(--gold-light);
 }
 
+/* --- Language switcher ("English | Español") ---
+   Sits in the top-right corner of the header. The current language is plain
+   text; the other is a link. Kept a readable size and underlined so it does
+   not depend on color alone. On phones the header is a single short row, so
+   the switcher joins that row instead of floating over the hamburger. */
+.lang-switch {
+  position: absolute;
+  top: 0.6rem;
+  right: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  color: var(--gold-light);
+}
+
+.lang-switch-link {
+  color: var(--gold-light);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.lang-switch-link:hover,
+.lang-switch-link:focus-visible {
+  color: #fff;
+}
+
+.lang-switch-current {
+  font-weight: 700;
+  color: #fff;
+}
+
+.lang-switch-sep {
+  opacity: 0.6;
+}
+
 
 /* --- Main Content --- */
 
@@ -1490,6 +1527,36 @@ tr:hover td {
   margin: 0;
   font-size: 0.95rem;
   line-height: 1.55;
+}
+
+/* --- Translation Under Review Notice --- */
+
+/* Same fixed amber ink/background as .blog-post-draft-notice, so it reads the
+   same in both themes; smaller and without the icon or heading, because it
+   sits on every translated page and is a request, not a warning. */
+.translation-notice {
+  margin: 0 0 1.25rem;
+  padding: 0.6rem 1rem;
+  border: 1px solid #b45309;
+  border-left: 5px solid #b45309;
+  border-radius: var(--radius);
+  background: #fff7e6;
+  color: #4a3208;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.translation-notice a {
+  color: #92400e;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+@media print {
+  .translation-notice {
+    display: none;
+  }
 }
 
 /* --- Study In-Development Notice --- */
@@ -2772,6 +2839,14 @@ button.toolbar-icon {
   .hamburger-btn {
     display: flex;
   }
+
+.lang-switch {
+  position: static;
+  margin-left: auto;
+  margin-right: 0.5rem;
+  font-size: 0.9rem;
+  gap: 0.35rem;
+}
 
   .page-toolbar.hamburger-menu {
     display: none;

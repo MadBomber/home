@@ -36,15 +36,9 @@ The two-drachma tax is a half-shekel, a small payment for the upkeep of the sanc
 
 Peter gives them one word. Yes.
 
-He is not wrong about the outcome. Jesus pays. What he did is answer for another man before that man had said anything on the matter. Scripture has a line for exactly this.
+Peter is right about how this ends. Jesus will pay. But Peter answers for Jesus before Jesus has said a word on the matter.
 
-> "If one gives an answer before he hears, it is his folly and shame."
->
-> Proverbs 18:13 (ESV)
-
-The verse stops short of calling Peter a fool. What it names is a speed: the answer arrived before the hearing did.
-
-And the hearing arrives. When Peter goes into the house, Matthew writes that "Jesus spoke to him first." The Greek verb, *prophthanō*, means to get ahead of someone, to anticipate. It appears nowhere else in the New Testament. Before Peter can report what the collectors asked, the question is already in Jesus' hands. The text does not say how He knew. It says He was there before Peter was.
+Jesus is already ahead of him. When Peter goes into the house, Matthew writes that "Jesus spoke to him first." The Greek verb, *prophthanō*, means to get ahead of someone, to anticipate. It appears nowhere else in the New Testament. Before Peter can report what the collectors asked, Jesus already has the question in hand. The text does not say how Jesus knew. It says Jesus got there before Peter did.
 
 ## What Do You Think, Simon?
 
@@ -178,6 +172,10 @@ Peter owed a temple tax, and Jesus paid it. You and I owe a debt that no coin ca
 
 The coin in Capernaum was a record that a life was covered. This is the record that finally covered it, canceled by the one who paid with His own life. He paid it all.
 
+Jesus paid for Simon Peter. Peter's name went on the record, and Peter did not pay a coin of it.
+
+Jesus paid for you too. Your name goes on the same record, and you do not pay a coin of it either.
+
 Listen to the verbs Jesus gave Peter. Take the first fish that comes up. Take that, and give it to them. The coin was already in the fish when Peter went to the water, and his part was a hook, a mouth to open, and a hand. The other payment is set out the same way.
 
 > "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
@@ -192,7 +190,7 @@ The collectors had asked a simple question.
 >
 > Matthew 17:24 (ESV)
 
-Peter said yes, and he said it too soon. He was right anyway. The teacher paid. Nobody in Capernaum got a boat out of it, and the coin in the fish was the smallest part of the bill.
+Peter said yes, and he said it too soon. He was right anyway. The teacher paid, for Peter and for you. Nobody in Capernaum got a boat out of it, and the coin in the fish was the smallest part of the bill.
 
 ## References
 
