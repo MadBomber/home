@@ -7,6 +7,6 @@ description: Algunos ensayos se escribieron como una serie. Aquí es donde se en
 
 No todos los ensayos se sostienen solos. Algunos se escribieron como una serie, un puñado de textos pensados para leerse uno tras otro, y esos están en la pestaña Colecciones de la página Ensayos, junto a Recientes y Buscar.
 
-![El bloque de la colección Weird Bible Stories en la pestaña Colecciones, con cuatro ensayos en orden de lectura y un enlace Empezar a leer. (La captura muestra la interfaz en inglés.)](/images/tips/collections-tab.png)
+![El bloque de la colección «Weird Bible Stories» (Historias bíblicas extrañas) en la pestaña Colecciones, con cuatro ensayos en orden de lectura y un enlace Empezar a leer. (La captura muestra la interfaz en inglés.)](/images/tips/collections-tab.png)
 
 Cada colección enumera sus partes en el orden en que se escribieron para leerse, no en el orden en que resultaron publicadas, y Empezar a leer te lleva directo a la primera. Las páginas de los ensayos mantienen ese mismo orden al final, así que una vez que empiezas una serie la parte siguiente está a un clic, sin tener que volver a buscarla. Si un solo ensayo te dejó con ganas de más sobre el mismo tema, revisa aquí antes de suponer que no hay nada más.
