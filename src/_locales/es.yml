@@ -22,6 +22,21 @@ es:
     copyright_html: 'El contenido del sitio es &copy; %{year} %{author}, bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">CC BY-NC-SA 4.0</a>. Las citas bíblicas quedan excluidas &mdash; ver abajo.'
     contact: Contacto
     privacy: Política de privacidad
+  banner:
+    new_essay: "Nuevo ensayo: %{title}"
+    announcement_label: Anuncio
+    dismiss_announcement: Cerrar el anuncio
+    tip_label: Consejo de la semana
+    dismiss_tip: Cerrar el consejo
+  tips:
+    intro: Consejos breves para que aproveches al máximo estos estudios bíblicos. Uno distinto te recibe en cada página, hasta que lo cierres por el resto de la semana.
+    none: Todavía no hay consejos. Vuelve pronto.
+    group_study: Cómo estudiar
+    group_study_desc: Hábitos para leer las Escrituras mismas, dondequiera que las leas.
+    group_site: Cómo usar este sitio
+    group_site_desc: Funciones incluidas en estos estudios que es fácil pasar por alto.
+    more: Más consejos
+    random: Consejo al azar
   essays:
     tab_all: Todos
     tab_recent: Recientes

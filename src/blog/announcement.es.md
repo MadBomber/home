@@ -2,7 +2,7 @@
 layout: blog_post
 title: "Nuevo ensayo: La gracia no es justa"
 date: 2026-08-19
-link: /blog/grace-is-not-fair/
+link: /es/blog/grace-is-not-fair/
 tags:
 - grace
 - parables

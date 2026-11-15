@@ -22,6 +22,21 @@ en:
     copyright_html: 'Site content &copy; %{year} %{author}, licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. Scripture quotations are excepted &mdash; see below.'
     contact: Contact
     privacy: Privacy Policy
+  banner:
+    new_essay: "New Essay: %{title}"
+    announcement_label: Announcement
+    dismiss_announcement: Dismiss announcement
+    tip_label: Tip of the week
+    dismiss_tip: Dismiss tip
+  tips:
+    intro: Short tips to help you get the most out of these Bible studies. A different one greets you on every page, until you dismiss it for the week.
+    none: No tips yet. Check back soon.
+    group_study: How to Study
+    group_study_desc: Habits for reading Scripture itself, wherever you read it.
+    group_site: Using This Site
+    group_site_desc: Features built into these studies that are easy to miss.
+    more: More Tips
+    random: Random Tip
   essays:
     tab_all: All
     tab_recent: Recent

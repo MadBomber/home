@@ -1,6 +1,9 @@
-<% if (site.data.tips_ordered || []).any? %>
-<div class="tip-banner" id="tip-banner" role="region" aria-label="Tip of the week" data-feature="tips" hidden>
+<%# The link is filled in by tip-of-week.js from #tips-data (_banner_data.erb),
+    in the reader's chosen language. The labels here are in the page's
+    language; the script replaces them when the reader's differs. %>
+<% if ((site.data.tips_by_locale || {})[site.locale.to_s] || site.data.tips_ordered || []).any? %>
+<div class="tip-banner" id="tip-banner" role="region" aria-label="<%= t("banner.tip_label") %>" data-feature="tips" hidden>
   <a href="#" class="tip-banner-link" id="tip-banner-link"></a>
-  <button type="button" class="tip-banner-dismiss" id="tip-banner-dismiss" aria-label="Dismiss tip">&times;</button>
+  <button type="button" class="tip-banner-dismiss" id="tip-banner-dismiss" aria-label="<%= t("banner.dismiss_tip") %>">&times;</button>
 </div>
 <% end %>

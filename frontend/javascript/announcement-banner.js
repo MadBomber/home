@@ -1,12 +1,11 @@
 import { BANNER_KEY } from "./storage-keys.js"
+import { readJsonIsland, pickLanguage, markLanguage } from "./reader-language.js"
 
+// The announcement in the reader's language: { title, href, date, lang }.
+// #announcement-data holds one per language (see _banner_data.erb).
 function getAnnouncement() {
-  try {
-    const el = document.getElementById("announcement-data")
-    return el ? JSON.parse(el.textContent) : null
-  } catch {
-    return null
-  }
+  const { lang, value } = pickLanguage(readJsonIsland("announcement-data"))
+  return value ? { ...value, lang } : null
 }
 
 function isDismissed(announcement) {
@@ -29,6 +28,18 @@ document.addEventListener("DOMContentLoaded", () => {
   const announcement = getAnnouncement()
   if (!announcement || !announcement.title || isDismissed(announcement)) return
 
+  const link = document.getElementById("announcement-banner-link")
+  const close = document.getElementById("announcement-banner-dismiss")
+  const messages = pickLanguage(readJsonIsland("banner-messages"), announcement.lang).value || {}
+
+  if (link) {
+    link.textContent = announcement.title
+    if (announcement.href) link.href = announcement.href
+  }
+  if (messages.announcement_label) banner.setAttribute("aria-label", messages.announcement_label)
+  if (messages.dismiss_announcement) close?.setAttribute("aria-label", messages.dismiss_announcement)
+  markLanguage(banner, announcement.lang)
+
   banner.hidden = false
 
   function dismiss() {
@@ -36,8 +47,8 @@ document.addEventListener("DOMContentLoaded", () => {
     banner.hidden = true
   }
 
-  document.getElementById("announcement-banner-link")?.addEventListener("click", dismiss)
-  document.getElementById("announcement-banner-dismiss")?.addEventListener("click", (e) => {
+  link?.addEventListener("click", dismiss)
+  close?.addEventListener("click", (e) => {
     e.preventDefault()
     dismiss()
   })
