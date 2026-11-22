@@ -29,7 +29,7 @@ La semana 11 fue de la vida interna de la comunidad del reino a su misión hacia
 
 4. **Oración y persistencia (Lucas 11)**: La parábola del amigo a medianoche enseña que la oración requiere "desvergüenza" (*anaideia*). Si Dios es un Padre generoso que conoce nuestras necesidades antes de que pidamos, ¿por qué nos enseña Jesús a persistir? ¿Qué produce la persistencia en la oración en el que ora?
 
-5. **El rico insensato y la ansiedad (Lucas 12)**: El monólogo del rico insensato usa pronombres de primera persona once veces sin mencionar a Dios ni a otros. Jesús sigue con el mandato de considerar los cuervos y los lirios. ¿Qué relación hay entre estos dos pasajes? ¿Es la ansiedad, en el fondo, una forma del mismo pensar centrado en uno mismo que destruyó al rico insensato?
+5. **El rico insensato y la ansiedad (Lucas 12)**: El monólogo del rico insensato habla de sí mismo en primera persona una docena de veces sin mencionar a Dios ni a otros. Jesús sigue con el mandato de considerar los cuervos y los lirios. ¿Qué relación hay entre estos dos pasajes? ¿Es la ansiedad, en el fondo, una forma del mismo pensar centrado en uno mismo que destruyó al rico insensato?
 
 ## Para profundizar
 

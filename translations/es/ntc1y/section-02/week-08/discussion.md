@@ -37,7 +37,7 @@ Esta semana nos sumergió en la sección más densa en milagros del ministerio d
 
 ## Para profundizar
 
-La alimentación de los cinco mil es el único milagro (aparte de la resurrección) registrado en los cuatro Evangelios. Compara los tres relatos que leímos esta semana -- Marcos 6:30-44, Juan 6:1-15 y los paralelos mencionados en Mateo 14. ¿Qué destaca cada evangelista? Marcos subraya el motivo del pastor y el corazón endurecido de los discípulos. Juan resalta el contexto de la Pascua, la prueba de Felipe y el deseo de la multitud de hacer rey a Jesús por la fuerza. ¿Cómo enriquecen estas perspectivas distintas tu comprensión de un mismo suceso? ¿Qué significa que el mismo milagro pueda presenciarse y narrarse desde ángulos teológicos fundamentalmente distintos, cada uno revelando verdades que los otros no revelan?
+La alimentación de los cinco mil es el único milagro (aparte de la resurrección) registrado en los cuatro Evangelios. Compara los dos relatos que leímos esta semana -- Marcos 6:30-44 y Juan 6:1-15 -- y el paralelo de Mateo 14. ¿Qué destaca cada evangelista? Marcos subraya el motivo del pastor y el corazón endurecido de los discípulos. Juan resalta el contexto de la Pascua, la prueba de Felipe y el deseo de la multitud de hacer rey a Jesús por la fuerza. ¿Cómo enriquecen estas perspectivas distintas tu comprensión de un mismo suceso? ¿Qué significa que el mismo milagro pueda presenciarse y narrarse desde ángulos teológicos fundamentalmente distintos, cada uno revelando verdades que los otros no revelan?
 
 ## Aplicación
 
