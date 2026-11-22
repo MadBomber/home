@@ -44,7 +44,7 @@ Together, these readings form a bridge between the preparations of Weeks 1-2 and
 - **[Andrew](/characters/andrew/)** -- One of the first disciples called, originally a follower of John the Baptist, who immediately brings his brother Simon to Jesus.
 - **[Simon Peter](/characters/peter/)** -- Andrew's brother, renamed "Cephas" (Aramaic for "rock") by Jesus at their very first meeting, signaling his future role.
 - **[Philip](/characters/philip/)** -- From Bethsaida, the same city as Andrew and Peter; called directly by Jesus with the simple command "Follow me."
-- **[Nathanael](/characters/nathanael/)** -- Also called Bartholomew, from Cana; initially skeptical ("Can anything good come from Nazareth?") but won over by Jesus' supernatural knowledge.
+- **[Nathanael](/characters/nathanael/)** -- Traditionally identified with Bartholomew, from Cana; initially skeptical ("Can anything good come out of Nazareth?") but won over by Jesus' supernatural knowledge.
 - **[Mary (Jesus' mother)](/characters/mary/)** -- Present at the wedding at Cana, where she prompts Jesus' first sign despite his enigmatic response about his "hour."
 - **[Nicodemus](/characters/nicodemus/)** -- A Pharisee and member of the Jewish ruling council (Sanhedrin), who comes to Jesus at night seeking understanding.
 - **[The Samaritan Woman](/characters/samaritan-woman/)** -- An unnamed woman at Jacob's well whose encounter with Jesus breaks every social convention and leads to the conversion of her entire village.

@@ -37,7 +37,7 @@ This week plunged us into the most miracle-dense section of Jesus' Galilean mini
 
 ## Going Deeper
 
-The feeding of the five thousand is the only miracle (aside from the resurrection) recorded in all four Gospels. Compare the three accounts we read this week -- Mark 6:30-44, John 6:1-15, and the parallels referenced in Matthew 14. What does each Gospel writer emphasize? Mark stresses the shepherd motif and the disciples' hardened hearts. John highlights the Passover context, the testing of Philip, and the crowd's desire to make Jesus king by force. How do these different perspectives enrich your understanding of a single event? What does it mean that the same miracle can be witnessed and narrated from fundamentally different theological angles, each revealing truths the others do not?
+The feeding of the five thousand is the only miracle (aside from the resurrection) recorded in all four Gospels. Compare the two accounts we read this week -- Mark 6:30-44 and John 6:1-15 -- and the parallel in Matthew 14. What does each Gospel writer emphasize? Mark stresses the shepherd motif and the disciples' hardened hearts. John highlights the Passover context, the testing of Philip, and the crowd's desire to make Jesus king by force. How do these different perspectives enrich your understanding of a single event? What does it mean that the same miracle can be witnessed and narrated from fundamentally different theological angles, each revealing truths the others do not?
 
 ## Application
 

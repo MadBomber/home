@@ -32,7 +32,7 @@ En conjunto, estas lecturas forman un puente entre los preparativos de las seman
 - **[Andrés](/characters/andrew/)** -- Uno de los primeros discípulos llamados, originalmente seguidor de Juan el Bautista, que de inmediato lleva a su hermano Simón a Jesús.
 - **[Simón Pedro](/characters/peter/)** -- El hermano de Andrés, a quien Jesús renombra "Cefas" (arameo para "roca") en su primer encuentro, señalando su papel futuro.
 - **[Felipe](/characters/philip/)** -- De Betsaida, la misma ciudad de Andrés y Pedro; llamado directamente por Jesús con la sencilla orden "Sígueme".
-- **[Natanael](/characters/nathanael/)** -- Llamado también Bartolomé, de Caná; al principio escéptico ("¿Puede algo bueno salir de Nazaret?"), pero convencido por el conocimiento sobrenatural de Jesús.
+- **[Natanael](/characters/nathanael/)** -- Identificado tradicionalmente con Bartolomé, de Caná; al principio escéptico ("¿Puede algo bueno salir de Nazaret?"), pero convencido por el conocimiento sobrenatural de Jesús.
 - **[María (la madre de Jesús)](/characters/mary/)** -- Presente en las bodas de Caná, donde motiva la primera señal de Jesús a pesar de Su enigmática respuesta sobre Su "hora".
 - **[Nicodemo](/characters/nicodemus/)** -- Un fariseo y miembro del concilio gobernante judío (el Sanedrín), que viene a Jesús de noche en busca de entendimiento.
 - **[La mujer samaritana](/characters/samaritan-woman/)** -- Una mujer anónima junto al pozo de Jacob cuyo encuentro con Jesús rompe toda convención social y conduce a la conversión de toda su aldea.

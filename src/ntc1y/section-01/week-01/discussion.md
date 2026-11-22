@@ -29,7 +29,7 @@ This week we began with John's cosmic prologue, which declares that the eternal 
 
 4. Matthew's genealogy includes Tamar, Rahab, Ruth, and Bathsheba -- women whose stories involve scandal, foreign origin, or suffering. What is Matthew telling us about the kind of Messiah Jesus will be by including them? What does this say about God's willingness to work through messy, imperfect human stories?
 
-5. Luke frames the birth of Jesus against the backdrop of Caesar Augustus's empire. The angel gives Jesus the titles "Savior," "Christ," and "Lord" -- all titles that Rome claimed for the emperor. What does it mean that the true King of the world arrived not in a palace but in an animal shelter, announced not to the powerful but to shepherds?
+5. Luke frames the birth of Jesus against the backdrop of Caesar Augustus's empire. The angel gives Jesus the titles "Savior," "Christ," and "Lord" -- two of them, "Savior" and "Lord," titles that Rome claimed for the emperor. What does it mean that the true King of the world arrived not in a palace but in an animal shelter, announced not to the powerful but to shepherds?
 
 ## Going Deeper
 

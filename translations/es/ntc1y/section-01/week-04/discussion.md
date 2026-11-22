@@ -74,7 +74,7 @@ Esta semana leímos relatos de Mateo, de Lucas y de Marcos que cubren muchos de 
 | Llamamiento de los discípulos | Breve, respuesta inmediata (4:18-22) | Ampliado con la pesca milagrosa (5:1-11) | Breve, menciona a los jornaleros (1:16-20) |
 | Enseñanza en la sinagoga | Solo un resumen (4:23) | La escena completa de Nazaret con Isaías 61 (4:16-30) | La escena de Cafarnaúm con la expulsión del demonio (1:21-28) |
 | Sanidad del leproso | Relato breve (8:1-4) | Señala la disposición de Jesús (5:12-16) | Detalle emocional, "movido a compasión o a ira" (1:40-45) |
-| Sanidad del paralítico | Conciso (9:1-8) | Señala la delegación investigadora (5:17-26) | Detalle vívido, "cavaron el techo" (2:1-12) |
+| Sanidad del paralítico | Conciso (9:1-8) | Señala la delegación investigadora (5:17-26) | Detalle vívido, "levantaron el techo" (2:1-12) |
 | Llamamiento de Leví o Mateo | Da el nombre "Mateo" (9:9-13) | Destaca el "gran banquete" (5:27-32) | Nombra a "Leví, hijo de Alfeo" (2:13-17) |
 
 **Para conversar**: ¿Qué destaca cada evangelista? ¿Cómo enriquecen estas perspectivas distintas nuestra comprensión de los mismos hechos? ¿Qué perderíamos si tuviéramos un solo Evangelio?

@@ -2,7 +2,7 @@
 week: 16
 day: 5
 title: Sheep and Goats, Luke's Olivet Parallel
-reading: Matthew 25:31-46, Luke 21
+reading: Matthew 25:31-46 + Luke 21
 parallel_passages: Matthew 24; Mark 13; Luke 12:35-48
 section: Road to Jerusalem
 tags:
@@ -17,7 +17,7 @@ study_slug: ntc1y
 ---
 
 
-## Reading: Matthew 25:31-46, Luke 21
+## Reading: Matthew 25:31-46 + Luke 21
 
 Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Matt.25" target="_blank" rel="noopener">Matthew chapter 25</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Luke.21" target="_blank" rel="noopener">Luke chapter 21</a>
 
@@ -50,7 +50,7 @@ Second, Luke places greater emphasis on the practical posture of believers durin
 ## Connections
 
 - **Old Testament Roots**: Daniel 7:13-14 (the Son of Man receiving universal dominion), Ezekiel 34:17-22 (God judging between sheep and goats), Isaiah 58:6-7 (true fasting defined as feeding the hungry, housing the homeless, clothing the naked), Proverbs 19:17 ("Whoever is generous to the poor lends to the LORD"), Joel 3:1-3 (the nations gathered for judgment).
-- **New Testament Echoes**: James 2:14-17 (faith without works is dead -- the hungry and naked test), 1 John 3:17 ("If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can God's love be in that person?"), Hebrews 13:2 (showing hospitality to strangers, for some have entertained angels), Revelation 20:11-15 (the great white throne judgment).
+- **New Testament Echoes**: James 2:14-17 (faith without works is dead -- the hungry and naked test), 1 John 3:17 ("But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him?"), Hebrews 13:2 (showing hospitality to strangers, for some have entertained angels), Revelation 20:11-15 (the great white throne judgment).
 - **Parallel Passages**: Matthew 24 and Mark 13 (the Synoptic Olivet Discourse), Luke 12:35-48 (faithful and unfaithful servants).
 
 ## Reflection Questions

@@ -119,7 +119,7 @@ class Tasks
   def release
     # Calls the TagsCommands instance directly rather than `invoke`, for the
     # same Thor reason noted in book.loki's `all`. The git helpers come from
-    # the workspace's git_tasks.loki, pulled in by .loki via import_up.
+    # dev/git.loki, pulled in by .loki via import_up.
     tags = TagsCommands.new
     tags.build
 

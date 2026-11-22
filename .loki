@@ -10,8 +10,8 @@ require "fileutils"
 require "pathname"
 require "yaml"
 
-# Shared git helpers from the workspace root (found by walking up the tree).
-import_up "git_tasks.loki"
+# Shared git tasks and helpers from dev/ (found by walking up the tree).
+import_up "dev/git.loki"
 
 import "book.loki"
 import "tags.loki"

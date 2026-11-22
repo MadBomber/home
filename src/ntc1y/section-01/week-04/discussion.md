@@ -73,9 +73,9 @@ This week we read accounts from Matthew, Luke, and Mark covering many of the sam
 |-------|---------|------|------|
 | Calling of disciples | Brief, immediate response (4:18-22) | Expanded with miraculous catch (5:1-11) | Brief, notes hired servants (1:16-20) |
 | Synagogue teaching | Summary only (4:23) | Full Nazareth scene with Isaiah 61 (4:16-30) | Capernaum scene with exorcism (1:21-28) |
-| Leper healed | Brief account (8:1-4) | Notes Jesus' willingness (5:12-16) | Emotional detail, "moved with compassion/anger" (1:40-45) |
-| Paralytic healed | Concise (9:1-8) | Notes investigative delegation (5:17-26) | Vivid detail, "dug through the roof" (2:1-12) |
-| Levi/Matthew called | Notes "Matthew" name (9:9-13) | Emphasizes "great feast" (5:27-32) | Names "Levi son of Alphaeus" (2:13-17) |
+| Leper healed | Brief account (8:1-4) | Notes Jesus' willingness (5:12-16) | Emotional detail, "moved with pity" (or anger) (1:40-45) |
+| Paralytic healed | Concise (9:1-8) | Notes investigative delegation (5:17-26) | Vivid detail, "removed the roof" (2:1-12) |
+| Levi/Matthew called | Notes "Matthew" name (9:9-13) | Emphasizes "great feast" (5:27-32) | Names "Levi the son of Alphaeus" (2:13-17) |
 
 **Discussion**: What does each Gospel writer emphasize? How do these different perspectives enrich our understanding of the same events? What would we lose if we had only one Gospel?
 

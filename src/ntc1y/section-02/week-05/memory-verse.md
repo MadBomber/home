@@ -15,6 +15,6 @@ connections:
 study_slug: ntc1y
 ---
 
-Matthew 6:33 is the summary sentence of the entire Sermon on the Mount. Jesus has just spent three chapters redefining righteousness, prayer, generosity, and trust — and here he distills it all into a single imperative: seek first. Not seek also, not seek when convenient, but seek first. The word "first" (*proton*) does not mean first on a list of equal priorities. It means first in rank, first in importance, the organizing principle around which everything else arranges itself.
+Matthew 6:33 is the summary sentence of the entire Sermon on the Mount. Jesus has just spent a chapter and a half redefining righteousness, prayer, generosity, and trust — and here he distills it all into a single imperative: seek first. Not seek also, not seek when convenient, but seek first. The word "first" (*proton*) does not mean first on a list of equal priorities. It means first in rank, first in importance, the organizing principle around which everything else arranges itself.
 
 The promise attached to the command is breathtaking in its simplicity. "All these things" — food, clothing, shelter, the daily necessities that consume so much human anxiety — "will be added to you." Jesus is not promising wealth or luxury. He is promising that when your deepest energy is directed toward God's reign and God's character, the Father who feeds the birds and clothes the lilies will not neglect his children. The verse is an invitation to live with open hands instead of clenched fists.

@@ -24,7 +24,7 @@ Lo que impresiona al lector atento es la diversidad de estos relatos dentro de s
 | 2 | Mateo 28  | [Resurrección y comisión](../day-2/) |
 | 3 | Marcos 15:21-47 + Marcos 16  | [Crucificado y resucitado](../day-3/) |
 | 4 | Lucas 24  | [El camino a Emaús y la ascensión](../day-4/) |
-| 5 | Juan 20 + Juan 21  | [Ver y creer](../day-5/) |
+| 5 | Juan 20-21  | [Ver y creer](../day-5/) |
 
 ## Personajes clave
 

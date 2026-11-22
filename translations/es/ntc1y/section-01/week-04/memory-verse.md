@@ -9,7 +9,7 @@ memory_verse: "Marcos 1:15"
 verse_text: "«El tiempo se ha cumplido», decía, «y el reino de Dios se ha acercado; arrepiéntanse y crean en el evangelio»."
 translation: NBLA
 connections:
-  - "Día 1 — Jesús pronuncia estas palabras como Su proclamación inicial cuando comienza Su ministerio público en Galilea"
+  - "Día 1 — Mateo da la misma proclamación inicial en forma más breve: 'Arrepiéntanse, porque el reino de los cielos se ha acercado' (4:17)"
   - "Día 2 — La escena de la sinagoga de Nazaret muestra cómo se ve que 'el tiempo se ha cumplido': Jesús lee la profecía de Isaías y dice 'Hoy se ha cumplido esta Escritura que han oído'"
   - "Día 4 — Cada sanidad y cada expulsión de demonios en Marcos 1 es evidencia de que el reino de Dios de veras 'se ha acercado' — está llegando en tiempo real por medio de las acciones de Jesús"
 study_slug: ntc1y

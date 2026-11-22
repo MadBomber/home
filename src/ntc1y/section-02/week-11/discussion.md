@@ -21,7 +21,7 @@ Week 11 moved from the internal life of the kingdom community to its external mi
 
 ## Study Questions
 
-1. **Childlike Greatness (Matthew 18)**: Jesus places a child -- a figure with zero social status -- at the center of the kingdom's definition of greatness. In a culture (ancient and modern) obsessed with influence, platform, and achievement, what does it actually look like to "humble yourself like this child"? Is this a posture you can adopt, or is it something that can only be received?
+1. **Childlike Greatness (Matthew 18)**: Jesus places a child -- a figure with zero social status -- at the center of the kingdom's definition of greatness. In a culture (ancient and modern) obsessed with influence, platform, and achievement, what does it actually look like to humble yourself "like this child"? Is this a posture you can adopt, or is it something that can only be received?
 
 2. **The Good Samaritan's Challenge (Luke 10)**: The priest and the Levite who passed by the wounded man had legitimate reasons rooted in the purity system. Their religious obligations arguably required them to avoid corpse contamination. How do you discern when institutional or religious commitments are being used as a shield against compassion? Can you identify a "Jericho road" situation in your own life where duty and mercy came into conflict?
 

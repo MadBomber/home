@@ -1,0 +1,58 @@
+---
+week: 10
+day: 3
+title: "La Transfiguración, el muchacho con un espíritu inmundo"
+reading: Marcos 9:1-29
+parallel_passages: Mateo 17:1-21; Lucas 9:28-43
+section: El ministerio en Galilea
+tags:
+- transfiguration
+- glory
+- faith
+- exorcism
+layout: page
+study_slug: ntc1y
+---
+
+
+## Lectura: Marcos 9:1-29
+
+Escucha (en inglés): <a href="https://www.biblegateway.com/audio/mclean/esv/Mark.9" target="_blank" rel="noopener">Marcos capítulo 9</a>
+
+## Contexto histórico
+
+Marcos 9:1-29 presenta el mayor contraste de los Evangelios: el monte de la gloria y el valle de la miseria humana, el resplandor sin velo de la naturaleza divina de Cristo y la angustia convulsa de un muchacho endemoniado. La yuxtaposición no es casual. Marcos pone estas dos escenas una inmediatamente después de la otra porque la Transfiguración sin la expulsión del demonio sería un misticismo escapista, y la expulsión sin la Transfiguración sería un simple enfrentamiento de poderes. Juntas revelan la forma completa del ministerio de Jesús: Él desciende de la gloria a los escombros del mundo caído, y trae el poder del cielo al pozo del sufrimiento humano. El patrón llegará a su punto culminante en la cruz, donde Aquel que fue transfigurado en la luz será desfigurado en la oscuridad, y el poder desplegado en el monte quedará escondido en la muerte -- solo para revelarse de nuevo en la resurrección.
+
+El pasaje comienza con uno de los dichos más debatidos de los Evangelios: "En verdad les digo que hay algunos de los que están aquí que no probarán la muerte hasta que vean el reino de Dios después de que haya venido con poder" (9:1). Las interpretaciones varían mucho -- unos ven el cumplimiento en la Transfiguración que sigue de inmediato, otros en la resurrección y Pentecostés, y otros en la destrucción de Jerusalén en el 70 d. C. El lugar que Marcos da al dicho, justo antes del relato de la Transfiguración, sugiere con fuerza que la Transfiguración es al menos un cumplimiento preliminar: tres discípulos verán, dentro de seis días, llegar el reino de Dios con poder en la cima del monte.
+
+"Seis días después" (9:2) -- la referencia de tiempo de Marcos es inusualmente específica y deliberadamente evocadora. En Éxodo 24:16, la gloria del SEÑOR reposó sobre el monte Sinaí, "y la nube lo cubrió por seis días. Al séptimo día, Dios llamó a Moisés de en medio de la nube". Seis días de espera, y luego la voz divina desde la nube. El mismo patrón rige la Transfiguración: seis días después de la confesión de Pedro y de la primera predicción de la pasión, Jesús lleva a Pedro, a Jacobo y a Juan a un monte alto. El lugar se identifica tradicionalmente con el monte Tabor, en el valle de Jezreel, una tradición que data del siglo cuarto, pero la geografía del relato de Marcos hace mucho más probable el monte Hermón. Cesarea de Filipo, donde ocurrió la confesión de Pedro, está al pie del Hermón, cuya cumbre se eleva a más de 2,800 metros (9,200 pies) -- un "monte alto" de verdad, cuya cima nevada se veía desde buena parte de Galilea. El Tabor, en cambio, tiene solo unos 550 metros (1,800 pies), y en tiempos de Jesús tenía en la cumbre un poblado fortificado, lo que hacía poco practicable una teofanía en privado.
+
+La Transfiguración misma se describe con una sobriedad que no hace sino aumentar su fuerza. Jesús "se transfiguró delante de ellos" (9:2) -- el verbo griego es metamorphothe, de donde viene "metamorfosis". Denota un cambio en la forma esencial, no solo en la apariencia exterior. Sus vestiduras se volvieron "resplandecientes, muy blancas, tal como ningún lavandero sobre la tierra las puede blanquear" (9:3). La comparación casera de Marcos con el oficio del lavandero (el equivalente antiguo de la tintorería) subraya el carácter de otro mundo de aquella blancura. No es luz reflejada, sino gloria emitida -- la Shekiná, el resplandor visible de la presencia de Dios que llenó el tabernáculo (Éxodo 40:34-35) y el templo de Salomón (1 Reyes 8:10-11). Por un breve momento, el velo de la humanidad de Jesús se vuelve transparente, y los discípulos ven lo que siempre estuvo allí: la gloria eterna del Hijo de Dios.
+
+Aparecen Moisés y Elías, hablando con Jesús (9:4). Lucas añade que hablaban "de la partida [exodos] de Jesús que Él estaba a punto de cumplir en Jerusalén" (Lucas 9:31). La palabra "éxodo" es electrizante en este contexto -- la muerte de Jesús no es una tragedia, sino una liberación, un nuevo éxodo que librará al pueblo de Dios de una esclavitud más honda que la de Egipto. Moisés representa la Ley y Elías representa a los Profetas -- las dos grandes divisiones de las Escrituras hebreas. Los dos tuvieron una salida poco común de la vida terrenal: Moisés murió y fue sepultado por Dios en un lugar desconocido (Deuteronomio 34:5-6), y Elías fue llevado al cielo sin morir (2 Reyes 2:11). Los dos tuvieron encuentros con Dios en un monte -- Moisés en el Sinaí (Éxodo 33-34) y Elías en Horeb (1 Reyes 19:8-18), que son en realidad el mismo monte. Se esperaba que Elías volviera como el precursor de Malaquías 4:5, y Moisés había prometido un profeta como él (Deuteronomio 18:15). Su presencia en el monte con Jesús confirma que la Ley y los Profetas hallan en Él su meta y su cumplimiento.
+
+La reacción de Pedro -- "Rabí, bueno es que estemos aquí; hagamos tres enramadas, una para Ti, otra para Moisés y otra para Elías" (9:5) -- tiene buena intención, pero es muy confusa. La palabra "enramada" (skene, "tienda") evoca la fiesta de los Tabernáculos, cuando Israel habitaba en enramadas para conmemorar su andar por el desierto, y puede hacer eco también de la tienda de reunión donde moraba la presencia de Dios. Pedro quiere prolongar la experiencia del monte, levantar estructuras permanentes alrededor de una revelación pasajera. El comentario editorial de Marcos es directo: "Porque él no sabía qué decir, pues estaban aterrados" (9:6). La propuesta de Pedro también iguala sutilmente a Jesús, a Moisés y a Elías -- tres enramadas, tres figuras, tres iguales. La voz desde la nube lo corrige de inmediato: "Este es Mi Hijo amado; oigan a Él" (9:7). La declaración hace eco del Salmo 2:7 ("Mi Hijo eres Tú") y de Isaías 42:1 ("Mi escogido, en quien Mi alma se complace"), y une la identidad mesiánica real con la misión del Siervo. El mandato "oigan a Él" hace eco de Deuteronomio 18:15 ("Un profeta ... como yo ... a él oirán"), e identifica a Jesús como el Profeta mayor que Moisés. Cuando la nube se levanta, Moisés y Elías ya no están: "ya no vieron a nadie con ellos, sino a Jesús solo" (9:8). La Ley y los Profetas le han cedido el escenario a Aquel a quien anunciaban.
+
+El descenso del monte lleva a Jesús y a los tres discípulos a una escena de caos. Los otros nueve discípulos están rodeados por una multitud y discuten con unos escribas. Un padre ha traído a su hijo endemoniado, y los discípulos no han podido expulsar al espíritu. La condición del muchacho se describe en términos que sugieren ataques epilépticos graves, complicados por un impulso suicida: el espíritu "lo derriba, y echa espumarajos, cruje los dientes y se va consumiendo" (9:18), y "muchas veces ese espíritu lo ha echado en el fuego y también en el agua para destruirlo" (9:22). La desesperación del padre se palpa, y su ruego a Jesús parte el corazón por su sinceridad: "si Tú puedes hacer algo, ten misericordia de nosotros y ayúdanos" (9:22).
+
+La respuesta de Jesús es cortante: "¿Cómo 'si Tú puedes'? Todas las cosas son posibles para el que cree" (9:23). La réplica del padre es una de las oraciones más auténticamente humanas de la Escritura: "Creo; ayúdame en mi incredulidad" (9:24). No es una confesión de fracaso, sino un acto de sinceridad radical -- el hombre reconoce que su fe es real pero incompleta, genuina pero insuficiente, y le pide a Jesús que supla lo que falta. La oración ha resonado en los creyentes a lo largo de dos milenios precisamente porque nombra la condición en la que vive la mayoría de los cristianos la mayor parte del tiempo: una fe sincera pero atravesada por la duda, una confianza real pero frágil.
+
+Jesús reprende al espíritu con un mandato que sugiere permanencia: "Espíritu mudo y sordo, Yo te ordeno: sal de él y no vuelvas a entrar en él" (9:25). La expulsión es violenta -- el muchacho se convulsiona con tal fuerza que la multitud piensa que ha muerto. Pero Jesús lo toma de la mano y lo levanta (egeiro -- el mismo verbo que se usa para la resurrección), y él se pone en pie. En privado, los discípulos preguntan por qué no pudieron. La respuesta de Jesús -- "Esta clase con nada puede salir, sino con oración" (9:29) -- da a entender que los discípulos habían comenzado a apoyarse en su propia autoridad delegada y no en una dependencia continua de Dios. El poder que se les había dado (6:7) no era una posesión personal, sino un don que requería una comunión continua con el Dador.
+
+## Temas clave
+- **La gloria de Cristo revelada** -- La Transfiguración descorre el velo de la humanidad de Jesús para revelar la gloria divina que siempre estuvo presente, y confirma Su identidad como el Hijo amado
+- **La Ley y los Profetas cumplidos** -- Moisés y Elías representan todas las Escrituras hebreas, que hallan en Jesús su meta y su sentido
+- **Fe en medio del fracaso** -- El clamor del padre, "Creo; ayúdame en mi incredulidad", nombra la realidad de la fe imperfecta y es modelo de la sinceridad que Dios recibe con agrado
+
+## Conexiones
+- **Raíces en el Antiguo Testamento**: Éxodo 24:15-18 (la nube de gloria sobre el Sinaí por seis días); Éxodo 34:29-35 (el rostro de Moisés resplandece después de encontrarse con Dios); 1 Reyes 19:8-18 (Elías en Horeb); Deuteronomio 18:15 (el Profeta como Moisés); Malaquías 4:5 (el regreso de Elías antes del día grande); Salmo 2:7 (el Hijo divino)
+- **Ecos en el Nuevo Testamento**: 2 Pedro 1:16-18 (el testimonio ocular de Pedro sobre la Transfiguración); 2 Corintios 3:18 (contemplar la gloria del Señor y ser transformados); Filipenses 3:21 (Cristo transformará nuestro cuerpo para que sea como Su cuerpo glorioso); Hebreos 1:1-3 (el Hijo como el resplandor de la gloria de Dios)
+- **Pasajes paralelos**: Mateo 17:1-21; Lucas 9:28-43
+
+## Preguntas de reflexión
+1. La Transfiguración reveló una gloria que normalmente estaba escondida bajo la apariencia humana común de Jesús. ¿Qué sugiere esto sobre la manera en que la gloria de Dios está presente en el mundo hoy -- muchas veces escondida, pero no menos real?
+2. La oración del padre -- "Creo; ayúdame en mi incredulidad" -- es una de las más sinceras de la Escritura. ¿En qué parte de tu fe encuentras que conviven la fe y la incredulidad, y cómo sería llevarle esa tensión a Jesús en lugar de tratar de resolverla por tu cuenta?
+3. Jesús les dice a los discípulos que "esta clase" de liberación requiere oración. ¿Cómo refleja la falta de oración un paso de la dependencia de Dios a la confianza en la técnica, y qué prácticas espirituales te mantienen arraigado en la dependencia?
+
+## Oración
+Señor Jesús, en el monte revelaste la gloria que era Tuya antes de que el mundo existiera, y en el valle entraste en los escombros de una creación caída para liberar a un muchacho atormentado. Confesamos que nosotros, como Pedro, queremos quedarnos en el monte y levantar enramadas alrededor de nuestras mejores experiencias espirituales. Pero Tú nos llamas de regreso al valle, donde espera el sufrimiento y la fe flaquea. Sal a nuestro encuentro en nuestra incredulidad. Suple lo que le falta a nuestra fe. Enséñanos que el poder de sanar y de liberar no brota de nuestra capacidad, sino de la comunión contigo. Tú eres el Hijo amado -- ayúdanos a oírte. Amén.

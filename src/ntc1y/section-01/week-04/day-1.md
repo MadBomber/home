@@ -48,7 +48,7 @@ The calling of the four fishermen (4:18-22) follows a pattern of breathtaking br
 ## Connections
 
 - **Old Testament Roots**: Deuteronomy 6:13, 16 and 8:3 provide Jesus' responses to the three temptations. Isaiah 9:1-2 frames the move to Capernaum. The forty days echo Moses on Sinai (Exodus 34:28) and Elijah's journey to Horeb (1 Kings 19:8).
-- **New Testament Echoes**: The temptation narrative connects to Hebrews 4:15 ("tempted in every way as we are, yet without sin"). The calling of disciples anticipates the Great Commission (Matthew 28:19-20), where the fishers of men are sent to all nations.
+- **New Testament Echoes**: The temptation narrative connects to Hebrews 4:15 ("in every respect has been tempted as we are, yet without sin"). The calling of disciples anticipates the Great Commission (Matthew 28:19-20), where the fishers of men are sent to all nations.
 - **Parallel Passages**: Compare Matthew's compressed calling narrative with Luke 5:1-11, which includes the miraculous catch of fish and Peter's confession of sinfulness -- likely the same event told from different angles with different theological emphases.
 
 ## Reflection Questions

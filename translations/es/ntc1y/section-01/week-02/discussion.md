@@ -29,7 +29,7 @@ Simeón y Ana reconocieron al niño Jesús como el Mesías. Los magos recorriero
 
 ### 2. El cumplimiento de la profecía
 
-Mateo 2 por sí solo contiene cuatro citas explícitas de cumplimiento del Antiguo Testamento (Miqueas 5:2, Oseas 11:1, Jeremías 31:15 y la referencia al "Nazareno"). Los relatos del bautismo citan Isaías 40, el Salmo 2 e Isaías 42. Cada acontecimiento importante de esta semana se presenta como la culminación de siglos de planificación divina.
+Mateo 2 por sí solo contiene cuatro citas explícitas del Antiguo Testamento (Miqueas 5:2, Oseas 11:1, Jeremías 31:15 y la referencia al "Nazareno"), tres de ellas introducidas con una fórmula de cumplimiento. Los relatos del bautismo citan Isaías 40, el Salmo 2 e Isaías 42. Cada acontecimiento importante de esta semana se presenta como la culminación de siglos de planificación divina.
 
 **Para conversar:** Ver la vida de Jesús como el cumplimiento de profecías concretas, ¿cómo fortalece o desafía tu comprensión de la soberanía de Dios sobre la historia? ¿Te sorprende la precisión del cumplimiento?
 
@@ -54,7 +54,7 @@ Esta semana leímos tres relatos del ministerio de Juan el Bautista y del bautis
 | Rasgo | Marcos | Lucas | Mateo |
 |---------|------|------|---------|
 | Comienzo | Cita compuesta del AT | Fecha histórica séxtuple | Conexión con el desierto de Judea |
-| A quién reprende Juan | Las multitudes en general | Las multitudes en general | Los fariseos y saduceos en particular |
+| A quién reprende Juan | No se registra ninguna reprensión | Las multitudes en general | Los fariseos y saduceos en particular |
 | Enseñanza ética | No se incluye | Detallada (multitudes, recaudadores de impuestos, soldados) | No se incluye |
 | Diálogo en el bautismo | No se incluye | No se incluye | Jesús y Juan hablan de "cumplir toda justicia" |
 | Voz del cielo | "Tú eres Mi Hijo amado" (a Jesús) | "Tú eres Mi Hijo amado" (a Jesús) | "Este es Mi Hijo amado" (declaración pública) |

@@ -15,6 +15,6 @@ connections:
 study_slug: ntc1y
 ---
 
-Luke 10:27 is not originally spoken by Jesus but by a lawyer who correctly summarizes the entire Old Testament law. Jesus affirms his answer: "Do this, and you will live." The verse combines Deuteronomy 6:5 (love God) with Leviticus 19:18 (love your neighbor) into a single command — something no rabbi before Jesus had done with such clarity. The double commandment reveals that love for God and love for neighbor are not two separate duties but two expressions of the same reality. You cannot love God while ignoring your neighbor, and you cannot truly love your neighbor without being rooted in love for God.
+Luke 10:27 is not originally spoken by Jesus but by a lawyer who correctly summarizes the entire Old Testament law. Jesus affirms his answer: "Do this, and you will live." The verse combines Deuteronomy 6:5 (love God) with Leviticus 19:18 (love your neighbor) into a single command. The double commandment reveals that love for God and love for neighbor are not two separate duties but two expressions of the same reality. You cannot love God while ignoring your neighbor, and you cannot truly love your neighbor without being rooted in love for God.
 
 The lawyer's follow-up question — "And who is my neighbor?" — exposes the human instinct to draw boundaries around love. Jesus answers with the parable of the Good Samaritan, which does not define who qualifies as your neighbor but redefines what it means to *be* a neighbor. The question is not "who deserves my love?" but "am I the kind of person who loves?"

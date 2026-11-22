@@ -46,7 +46,7 @@ La semana culmina con Jesús enviando a los Doce en su primera misión. Después
 ## Temas clave
 
 - **Fe y autoridad** -- El centurión capta lo que los discípulos todavía están aprendiendo: la palabra de Jesús tiene autoridad absoluta. No necesita estar físicamente presente para sanar. Su palabra basta, así como una orden militar basta para mover soldados.
-- **Compasión en acción** -- Los milagros de Jesús no son despliegues de poder por sí mismos. Brotan de la compasión (*splanchnistheis* -- un sentimiento profundo y visceral de conmoverse en las entrañas) ante el sufrimiento humano. Él ve las lágrimas de la viuda, el aislamiento del leproso, la impotencia del paralítico, y actúa.
+- **Compasión en acción** -- Los milagros de Jesús no son despliegues de poder por sí mismos. Brotan de la compasión (*esplanchnisthē*, "tuvo compasión" -- un sentimiento profundo y visceral de conmoverse en las entrañas) ante el sufrimiento humano. Él ve las lágrimas de la viuda, el aislamiento del leproso, la impotencia del paralítico, y actúa.
 - **El reino escondido** -- Las parábolas de Marcos 4 revelan que el reino de Dios opera con una lógica que confunde las expectativas humanas. Comienza pequeño, crece en secreto y produce una cosecha desproporcionada respecto de sus humildes comienzos.
 - **Misión y persecución** -- Jesús envía a los Doce con Su autoridad, pero también con una advertencia clara: el mundo responderá con hostilidad. Seguir a Jesús significa participar no solo de Su poder sino también de Su sufrimiento.
 

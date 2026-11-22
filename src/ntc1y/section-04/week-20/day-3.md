@@ -2,7 +2,7 @@
 week: 20
 day: 3
 title: Crucified and Risen
-reading: Mark 15:21-47, Mark 16
+reading: Mark 15:21-47 + Mark 16
 parallel_passages: Matthew 27:32-28:20; Luke 23:26-24:53; John 19:17-21:25
 section: Passion and Resurrection
 tags:
@@ -17,13 +17,13 @@ study_slug: ntc1y
 ---
 
 
-## Reading: Mark 15:21-47, Mark 16
+## Reading: Mark 15:21-47 + Mark 16
 
 Listen to: <a href="https://www.biblegateway.com/audio/mclean/esv/Mark.15" target="_blank" rel="noopener">Mark chapter 15</a> | <a href="https://www.biblegateway.com/audio/mclean/esv/Mark.16" target="_blank" rel="noopener">Mark chapter 16</a>
 
 ## Historical Context
 
-Mark's crucifixion narrative is the earliest written account of the death and resurrection of Jesus, and it carries the raw, compressed energy of a story told by people who were still trembling from what they had witnessed. Mark writes with an urgency that befits his entire Gospel -- no parables, no extended discourses, just the relentless forward momentum of a narrative racing toward the cross and then, with breathtaking brevity, the empty tomb.
+Mark's crucifixion narrative is the earliest written account of the death and resurrection of Jesus, and it carries the raw, compressed energy of a story told by people who were still trembling from what they had witnessed. Mark writes with an urgency that befits his entire Gospel -- few parables, few extended discourses, just the relentless forward momentum of a narrative racing toward the cross and then, with breathtaking brevity, the empty tomb.
 
 The crucifixion account opens with Simon of Cyrene, a man from the North African city of Cyrene (in modern Libya) who was "coming in from the country" and was conscripted by the soldiers to carry Jesus' crossbeam (15:21). Mark identifies Simon as "the father of Alexander and Rufus" -- a detail that would be meaningless unless Alexander and Rufus were known to Mark's audience. This is the signature of eyewitness testimony: the named individuals could be consulted, their father's story verified. A Rufus appears in Romans 16:13, where Paul greets "Rufus, chosen in the Lord, and his mother, who has been a mother to me as well." If this is the same Rufus, then Simon's conscripted walk with the cross led to a family that became pillars of the early church. The man who was forced to carry the instrument of death became the father of believers. Providence works through Roman soldiers and forced labor.
 

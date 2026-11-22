@@ -29,7 +29,7 @@ Esta semana comenzamos con el prólogo cósmico de Juan, que declara que el Verb
 
 4. La genealogía de Mateo incluye a Tamar, Rahab, Rut y Betsabé -- mujeres cuyas historias tienen que ver con el escándalo, el origen extranjero o el sufrimiento. ¿Qué nos está diciendo Mateo, al incluirlas, sobre la clase de Mesías que será Jesús? ¿Qué dice esto sobre la disposición de Dios a obrar por medio de historias humanas enredadas e imperfectas?
 
-5. Lucas enmarca el nacimiento de Jesús con el imperio de César Augusto como telón de fondo. El ángel le da a Jesús los títulos de "Salvador", "Cristo" y "Señor" -- títulos que Roma reclamaba para el emperador. ¿Qué significa que el verdadero Rey del mundo haya llegado no a un palacio sino a un refugio de animales, anunciado no a los poderosos sino a unos pastores?
+5. Lucas enmarca el nacimiento de Jesús con el imperio de César Augusto como telón de fondo. El ángel le da a Jesús los títulos de "Salvador", "Cristo" y "Señor" -- dos de ellos, "Salvador" y "Señor", títulos que Roma reclamaba para el emperador. ¿Qué significa que el verdadero Rey del mundo haya llegado no a un palacio sino a un refugio de animales, anunciado no a los poderosos sino a unos pastores?
 
 ## Para profundizar
 
