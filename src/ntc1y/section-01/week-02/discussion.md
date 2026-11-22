@@ -29,7 +29,7 @@ Simeon and Anna recognized the infant Jesus as the Messiah. The Magi traveled gr
 
 ### 2. The Fulfillment of Prophecy
 
-Matthew 2 alone contains four explicit Old Testament fulfillment quotations (Micah 5:2, Hosea 11:1, Jeremiah 31:15, and the "Nazarene" reference). The baptism accounts cite Isaiah 40, Psalm 2, and Isaiah 42. Every major event this week is presented as the culmination of centuries of divine planning.
+Matthew 2 alone contains four explicit Old Testament quotations (Micah 5:2, Hosea 11:1, Jeremiah 31:15, and the "Nazarene" reference), three of them introduced with a fulfillment formula. The baptism accounts cite Isaiah 40, Psalm 2, and Isaiah 42. Every major event this week is presented as the culmination of centuries of divine planning.
 
 **Discussion:** How does seeing Jesus' life as the fulfillment of specific prophecies strengthen or challenge your understanding of God's sovereignty over history? Does the precision of fulfillment surprise you?
 
@@ -54,7 +54,7 @@ This week we read three accounts of John the Baptist's ministry and Jesus' bapti
 | Feature | Mark | Luke | Matthew |
 |---------|------|------|---------|
 | Opening | Composite OT quotation | Sixfold historical dating | Connection to wilderness of Judea |
-| John's audience for rebuke | General crowds | General crowds | Pharisees and Sadducees specifically |
+| John's audience for rebuke | No rebuke recorded | General crowds | Pharisees and Sadducees specifically |
 | Ethical teaching | Not included | Detailed (crowds, tax collectors, soldiers) | Not included |
 | Baptism dialogue | Not included | Not included | Jesus and John discuss "fulfilling all righteousness" |
 | Heavenly voice | "You are my beloved Son" (to Jesus) | "You are my beloved Son" (to Jesus) | "This is my beloved Son" (public declaration) |

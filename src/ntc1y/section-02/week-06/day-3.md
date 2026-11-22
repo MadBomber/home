@@ -49,7 +49,7 @@ The chapter concludes with a scene that provides the theological lens for everyt
 
 ## Connections
 
-- **Old Testament Roots**: Daniel 7:13-14 (the Son of Man with divine authority), Hosea 6:6 ("I desire mercy, not sacrifice"), Ezekiel 34 (God as the true shepherd of his scattered flock), Numbers 15:38-39 (tassels on garments), Leviticus 15:25-27 (laws regarding blood flow).
+- **Old Testament Roots**: Daniel 7:13-14 (the Son of Man with divine authority), Hosea 6:6 ("I desire steadfast love and not sacrifice"), Ezekiel 34 (God as the true shepherd of his scattered flock), Numbers 15:38-39 (tassels on garments), Leviticus 15:25-27 (laws regarding blood flow).
 - **New Testament Echoes**: Colossians 1:13-14 (forgiveness of sins through Christ), 1 Corinthians 15:54-57 (death swallowed up in victory), Romans 3:21-26 (justification by grace through faith), John 11:25-26 ("I am the resurrection and the life").
 - **Parallel Passages**: Mark 2:1-12 (paralytic with the detail of the roof), Mark 5:21-43 and Luke 8:40-56 (Jairus and the hemorrhaging woman interleaved), Mark 2:13-17 and Luke 5:27-32 (calling of Levi/Matthew).
 

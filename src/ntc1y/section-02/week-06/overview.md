@@ -58,7 +58,7 @@ The week culminates with Jesus sending out the Twelve on their first mission. Ha
 ## Key Themes
 
 - **Faith and Authority** -- The centurion grasps what the disciples are still learning: Jesus' word carries absolute authority. He does not need to be physically present to heal. His word is sufficient, just as a military command is sufficient to move soldiers.
-- **Compassion in Action** -- Jesus' miracles are not displays of power for their own sake. They flow from compassion (*splanchnistheis* -- a deep, visceral feeling of being moved in the gut) for human suffering. He sees the widow's tears, the leper's isolation, the paralytic's helplessness, and he acts.
+- **Compassion in Action** -- Jesus' miracles are not displays of power for their own sake. They flow from compassion (*esplanchnisthē*, "he had compassion" -- a deep, visceral feeling of being moved in the gut) for human suffering. He sees the widow's tears, the leper's isolation, the paralytic's helplessness, and he acts.
 - **The Hidden Kingdom** -- The parables of Mark 4 reveal that God's Kingdom operates by a logic that confounds human expectations. It begins small, grows secretly, and produces a harvest out of all proportion to its humble beginnings.
 - **Mission and Persecution** -- Jesus sends the Twelve out with his authority but also with a clear warning: the world will respond with hostility. Following Jesus means sharing not only in his power but in his suffering.
 

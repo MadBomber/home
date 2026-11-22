@@ -41,7 +41,7 @@ Peter's response to the prediction of his denial closes the chapter with painful
 - **The new commandment** -- Self-sacrificial love modeled on Jesus' own love becomes the defining mark of discipleship
 
 ## Connections
-- **Old Testament Roots**: Genesis 18:4 (Abraham washing visitors' feet); Leviticus 19:18 ("love your neighbor as yourself"); 1 Samuel 25:41 (Abigail's offer to wash feet as a sign of submission)
+- **Old Testament Roots**: Genesis 18:4 (Abraham offering water to wash his visitors' feet); Leviticus 19:18 ("love your neighbor as yourself"); 1 Samuel 25:41 (Abigail's offer to wash feet as a sign of submission)
 - **New Testament Echoes**: 1 John 3:16-18 (laying down our lives for the brothers); Philippians 2:5-8 (Christ taking the form of a servant); 1 Timothy 5:10 (foot washing as a mark of faithful service)
 - **Parallel Passages**: Luke 22:21-34; Matthew 26:20-25; Mark 14:17-21
 

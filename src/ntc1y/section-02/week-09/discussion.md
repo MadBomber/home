@@ -32,7 +32,7 @@ This week we traced the theme of bread -- literal and spiritual -- through some 
 
 4. **The Canaanite/Syrophoenician Woman:** Jesus initially seems to rebuff this Gentile woman, calling her one of the "dogs." How do you interpret this exchange? Is Jesus testing her faith, voicing a Jewish objection to expose its inadequacy, or something else? What does her response teach us about prayer?
 
-5. **The Blind Man at Bethsaida (Mark 8:22-26):** This is the only miracle performed in two stages. The man first sees "people like trees, walking." How does this gradual healing function as a metaphor for the disciples' understanding of Jesus? Where do you see yourself in this progression -- blind, seeing dimly, or seeing clearly?
+5. **The Blind Man at Bethsaida (Mark 8:22-26):** This is the only miracle performed in two stages. The man first says, "I see people, but they look like trees, walking." How does this gradual healing function as a metaphor for the disciples' understanding of Jesus? Where do you see yourself in this progression -- blind, seeing dimly, or seeing clearly?
 
 ## Going Deeper
 
