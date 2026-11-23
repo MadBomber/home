@@ -51,7 +51,7 @@ Paul warns Gentile believers not to be arrogant toward the Jewish people. The wi
 Paul says transformation comes through the renewing of the mind, not through conformity to the world's patterns.
 
 - What are the most powerful "molds" that the world presses believers into today? What practices help you resist that conformity?
-- Paul lists seven gifts and emphasizes the manner of their exercise (with diligence, cheerfulness, sincerity). How does the way you exercise your gifts matter as much as the gift itself?
+- Paul lists seven gifts and emphasizes the manner of their exercise (with diligence, cheerfulness, generosity). How does the way you exercise your gifts matter as much as the gift itself?
 - "Overcome evil with good" is an aggressive strategy of love, not passive resignation. Share an example -- from your own life or from history -- of evil being overcome by good. What makes this approach so difficult, and what makes it possible?
 
 ### 4. Governing Authorities and Love (Romans 13)
@@ -59,13 +59,13 @@ Romans 13:1-7 has been used throughout history both to support and to challenge 
 
 - How do you hold together Paul's instruction to submit with the biblical tradition of prophetic resistance to unjust rulers (Moses, Daniel, the apostles in Acts 5:29)?
 - Paul says love is a debt that can never be fully paid (13:8). How does thinking of love as an ongoing obligation change the way you approach difficult relationships?
-- "Clothe yourselves with the Lord Jesus Christ" was the verse that converted Augustine. What would it look like to consciously "put on" Christ each morning?
+- "Put on the Lord Jesus Christ" was the verse that converted Augustine. What would it look like to consciously "put on" Christ each morning?
 
 ### 5. Disputable Matters (Romans 14)
 Paul distinguishes between core gospel truths and disputable matters on which faithful believers may legitimately disagree.
 
 - What issues in your church or community fall into the category of disputable matters? How do you navigate disagreements on secondary issues without dividing over them?
-- Paul says the kingdom is "not a matter of eating and drinking, but of righteousness, peace and joy in the Holy Spirit." How does this definition of the kingdom challenge the way your church defines its identity?
+- Paul says the kingdom is "not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit." How does this definition of the kingdom challenge the way your church defines its identity?
 - The strong are warned against despising the weak, and the weak against judging the strong. Which temptation is more natural for you?
 
 ## Deeper Dive
@@ -86,11 +86,11 @@ This week has moved from the theology of Israel's future to the ethics of daily 
 
 ## Memory Verse
 
-> "Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God -- this is your true and proper worship. Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is -- his good, pleasing and perfect will."
+> "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect."
 > -- Romans 12:1-2
 
 *Alternative:*
-> "Oh, the depth of the riches of the wisdom and knowledge of God! How unsearchable his judgments, and his paths beyond tracing out!"
+> "Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways!"
 > -- Romans 11:33
 
 ## Closing Prayer

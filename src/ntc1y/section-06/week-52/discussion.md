@@ -31,22 +31,22 @@ The three cycles of judgment -- seals, trumpets, and bowls -- intensify through 
 
 - How do the three judgment cycles relate to each other? Are they sequential (one following the other chronologically), or recapitulating (telling the same story from different angles with increasing intensity)? What evidence supports each view?
 - The trumpet and bowl plagues deliberately echo the plagues of Egypt. Why does God pattern the final judgment on the Exodus story? What does this tell us about the unity of God's saving and judging activity across the whole biblical narrative?
-- Despite devastating judgments, "the rest of mankind did not repent" (9:20-21). What does this reveal about the limits of judgment as a means of transformation? What can produce repentance when catastrophe cannot?
+- Despite devastating judgments, "the rest of mankind, who were not killed by these plagues, did not repent" (9:20-21). What does this reveal about the limits of judgment as a means of transformation? What can produce repentance when catastrophe cannot?
 
 ### 2. The Little Scroll and the Two Witnesses (Revelation 10-11)
 
 Between the sixth and seventh trumpets, John eats a bittersweet scroll and sees the church's prophetic witness embodied in the Two Witnesses -- until the seventh trumpet announces that the kingdom has come.
 
-- John is commanded to eat the little scroll: sweet as honey in the mouth, sour in the stomach (10:9-10). What aspects of God's message have you found sweet, and which have been bitter to digest? Why must the messenger internalize the word before proclaiming it?
+- John is commanded to eat the little scroll: sweet as honey in the mouth, bitter in the stomach (10:9-10). What aspects of God's message have you found sweet, and which have been bitter to digest? Why must the messenger internalize the word before proclaiming it?
 - The Two Witnesses, clothed with the imagery of Moses and Elijah, testify, are killed by the beast, and are raised and vindicated (11:3-12). How does this pattern -- faithful witness, apparent defeat, divine vindication -- describe the church's calling in every age?
-- The seventh trumpet declares, "The kingdom of the world has become the kingdom of our Lord and of his Messiah" (11:15). If heaven announces this as accomplished, how should it change the way the church lives on an earth where the kingdom seems far from fully realized?
+- The seventh trumpet declares, "The kingdom of the world has become the kingdom of our Lord and of his Christ" (11:15). If heaven announces this as accomplished, how should it change the way the church lives on an earth where the kingdom seems far from fully realized?
 
 ### 3. The Cosmic Battle (Revelation 12-14)
 
 The dragon, the beasts, and the Lamb represent the ultimate spiritual conflict behind all of human history.
 
-- Revelation 12:11 says the saints overcome "by the blood of the Lamb, by the word of their testimony, and because they did not love their lives unto death." How do these three elements function together? Is any one of them sufficient without the others?
-- The beast from the earth "had two horns like a lamb but spoke like a dragon" (13:11). Counterfeit Christianity is presented as one of the most dangerous threats in Revelation. How do you distinguish the lamb's voice from the dragon's when both claim to speak for God?
+- Revelation 12:11 says the saints overcome "by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death." How do these three elements function together? Is any one of them sufficient without the others?
+- The beast from the earth "had two horns like a lamb and it spoke like a dragon" (13:11). Counterfeit Christianity is presented as one of the most dangerous threats in Revelation. How do you distinguish the lamb's voice from the dragon's when both claim to speak for God?
 - The number 666 has generated centuries of speculation. Setting aside specific identifications, what does the symbolism of perpetually falling short of 7 (the number of divine completeness) tell us about the nature of human systems that claim ultimate authority?
 
 ### 4. Babylon and the Bride (Revelation 17-19)
@@ -63,7 +63,7 @@ Between Babylon's fall and the new creation stands chapter 20: Satan bound for a
 
 - The thousand-year reign (20:1-6) has been read in several ways across church history -- as a future earthly reign of Christ, as the present age of the church, or as a symbolic picture of the martyrs' vindication. What is at stake in these interpretive traditions, and what conviction about Christ's victory do they all hold in common?
 - Satan is released after the thousand years and still finds nations willing to follow him (20:7-8). What does this final rebellion reveal about the human heart -- and about why evil's defeat must be God's own act rather than the product of ideal conditions?
-- At the great white throne (20:11-15), the dead are judged "by what they had done," yet everything turns on whether a name is written in the book of life. How do the books of deeds and the book of life work together? How does this scene shape your understanding of grace, works, and accountability?
+- At the great white throne (20:11-15), the dead are judged "according to what they had done," yet everything turns on whether a name is written in the book of life. How do the books of deeds and the book of life work together? How does this scene shape your understanding of grace, works, and accountability?
 
 ### 6. All Things New (Revelation 21-22)
 
@@ -72,7 +72,7 @@ The climax of the entire Bible: new heavens, new earth, the New Jerusalem, the r
 - "I am making all things new" -- not "all new things." God transforms rather than replaces creation. How does this distinction affect your understanding of salvation, the body, and the material world?
 - The new Jerusalem descends from heaven to earth. God comes to dwell with humanity, not the other way around. How does this direction -- from heaven to earth -- challenge common assumptions about the Christian hope as "going to heaven when you die"?
 - Revelation 22 reverses Genesis 3 detail by detail: the curse is removed, the tree of life is restored, God's face is seen, the river flows freely. What does this grand reversal tell us about the shape of God's story -- is it circular (returning to the beginning) or spiral (returning to the themes of the beginning at a higher level)?
-- The Bible ends with the word "Come." Not a command, not a doctrinal statement, but an invitation. What does it mean that the final word of Scripture is an open door rather than a closed one?
+- The Bible's last pages ring with the word "Come." Not a command, not a doctrinal statement, but an invitation. What does it mean that Scripture's closing invitation is an open door rather than a closed one?
 
 ## Year in Review: The Journey from John 1 to Revelation 22
 
@@ -89,13 +89,13 @@ Looking back over the entire year, consider:
 ## Cross-Cutting Themes for the Entire Study
 
 - **The Word made flesh, the world made new** -- The Gospel of John opened with the Word becoming flesh; Revelation closes with that same Word making all things new. The incarnation is not merely the beginning of Jesus' ministry but the beginning of creation's renewal.
-- **Already and not yet** -- From Jesus' announcement that "the kingdom of God has come near" to Revelation's vision of the kingdom fully realized, the New Testament holds in tension what God has already accomplished and what he has yet to complete. How has living in this tension shaped your faith this year?
+- **Already and not yet** -- From Jesus' announcement that "the kingdom of God is at hand" to Revelation's vision of the kingdom fully realized, the New Testament holds in tension what God has already accomplished and what he has yet to complete. How has living in this tension shaped your faith this year?
 - **Suffering and glory** -- From the cross to the crown, from the martyrs under the altar to the great multitude in white robes, the New Testament insists that suffering and glory are not opposites but a sequence: this is the path that Jesus walked, and it is the path his followers walk after him.
-- **The invitation stands** -- From "Come, follow me" (Mark 1:17) to "Come!" (Revelation 22:17), the Bible's posture toward humanity is one of invitation. God does not drag, coerce, or manipulate. He invites. And the invitation remains open.
+- **The invitation stands** -- From "Follow me" (Mark 1:17) to "Come" (Revelation 22:17), the Bible's posture toward humanity is one of invitation. God does not drag, coerce, or manipulate. He invites. And the invitation remains open.
 
 ## Memory Verse Reflection
 
-> "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away. He who was seated on the throne said, 'I am making everything new!'" -- Revelation 21:4-5
+> "He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away. And he who was seated on the throne said, 'Behold, I am making all things new.'" -- Revelation 21:4-5
 
 This verse contains both the most tender promise in Scripture (tears wiped away by God's own hand) and the most sweeping declaration (all things made new). As you carry this verse forward beyond this study, how do you hold together the personal comfort and the cosmic scope? How does the promise of "no more death" speak to you today?
 
@@ -111,7 +111,7 @@ As we conclude this year-long journey, three final challenges:
 
 ## Closing Prayer
 
-God of all ages, we have come to the end of our journey and we are not the same people who began it. Fifty-two weeks ago we opened John's Gospel and read that the Word was with you in the beginning, and the Word was you, and the Word became flesh and dwelt among us. Now we close Revelation and hear the promise that you will dwell with us forever -- not behind a curtain, not through a glass darkly, but face to face. Every tear wiped away. Every curse reversed. The tree of life bearing fruit in every season. The river of life flowing clear as crystal.
+God of all ages, we have come to the end of our journey and we are not the same people who began it. Fifty-two weeks ago we opened John's Gospel and read that the Word was with you in the beginning, and the Word was you, and the Word became flesh and dwelt among us. Now we close Revelation and hear the promise that you will dwell with us forever -- not behind a curtain, not in a mirror dimly, but face to face. Every tear wiped away. Every curse reversed. The tree of life bearing fruit in every season. The river of life flowing clear as crystal.
 
 We thank you for the manger and the cross and the empty tomb. We thank you for Pentecost and the church scattered and gathered. We thank you for Paul, who saw the risen Christ and spent his life explaining what it meant. We thank you for James and Peter and John, who took the faith into the world and held it fast through persecution and doubt. We thank you for the letter to the Hebrews, which showed us the heavenly tabernacle where our High Priest ministers forever. We thank you for Revelation, which pulled back the curtain on the cosmic battle and showed us its certain end: the Lamb wins. Love wins. Life wins. You win.
 

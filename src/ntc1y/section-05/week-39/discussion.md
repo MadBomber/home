@@ -44,7 +44,7 @@ Paul spent over two years in Roman custody, appeared before three different rule
 ### Day 2: The Tragedy of Felix (Acts 24)
 
 3. **The Convenient Season**
-   Felix heard Paul speak about righteousness, self-control, and the coming judgment, "became frightened," and said, "Go away for the present. When I get a convenient time I will summon you." He spent the next two years hoping for a bribe. What makes the postponed decision so dangerous? Have you ever recognized a *kairos* moment -- a God-appointed opportunity for response -- and let it pass? What happened?
+   Felix heard Paul speak about righteousness, self-control, and the coming judgment, "was alarmed," and said, "Go away for the present. When I get an opportunity I will summon you." He spent the next two years hoping for a bribe. What makes the postponed decision so dangerous? Have you ever recognized a *kairos* moment -- a God-appointed opportunity for response -- and let it pass? What happened?
 
 4. **The Gospel Confronts Power**
    Paul did not soften his message for the governor. He spoke about the very things Felix most needed to hear: righteousness (which Felix lacked as a corrupt administrator), self-control (which Felix lacked in his personal life), and coming judgment (which Felix could not escape). How do you determine when to speak hard truth to those in authority, and when does such speech cross from courage into recklessness?
@@ -71,11 +71,11 @@ Paul spent over two years in Roman custody, appeared before three different rule
    Paul stood among terrified sailors and declared, "I urge you to take heart, for there will be no loss of life among you, but only of the ship. For this very night there stood before me an angel of the God to whom I belong and whom I worship" (27:22-23). How does Paul's calm in the storm serve as a model for Christian witness during crisis? What is the relationship between Paul's confidence and his statement "I belong to God"?
 
 10. **Providence and Natural Means**
-    God promised that all 276 people on the ship would survive, yet the centurion still had to prevent the sailors from abandoning ship, and the passengers still had to swim or float on planks to reach shore. God's promise did not eliminate the need for human action. How does this pattern -- divine promise working through natural means -- apply to your own life? Where might you be waiting for miraculous intervention when God has already provided the planks?
+    God promised that all 276 people on the ship would survive, yet the soldiers still had to cut away the ship's boat to keep the sailors from abandoning ship, and the passengers still had to swim or float on planks to reach shore. God's promise did not eliminate the need for human action. How does this pattern -- divine promise working through natural means -- apply to your own life? Where might you be waiting for miraculous intervention when God has already provided the planks?
 
 ## Going Deeper
 
-The five chapters of this week present three Roman officials -- Felix, Festus, and Agrippa -- who each encounter the gospel and respond differently. Felix trembled and postponed. Festus was bewildered and dismissive. Agrippa was intellectually engaged but ultimately uncommitted. All three recognized that Paul was innocent ("This man is doing nothing to deserve death or imprisonment," 26:31), yet none of them had the courage to release him. What do these three responses, taken together, reveal about the various ways people resist the gospel? Which response do you encounter most frequently among the people in your life?
+The five chapters of this week present three rulers of the Roman world -- Felix, Festus, and Agrippa -- who each encounter the gospel and respond differently. Felix trembled and postponed. Festus was bewildered and dismissive. Agrippa was intellectually engaged but ultimately uncommitted. All three recognized that Paul was innocent ("This man is doing nothing to deserve death or imprisonment," 26:31), yet none of them had the courage to release him. What do these three responses, taken together, reveal about the various ways people resist the gospel? Which response do you encounter most frequently among the people in your life?
 
 Consider also the role of Paul's Roman citizenship throughout these chapters. He uses it to avoid flogging (22:25), to demand proper legal proceedings, and finally to appeal to Caesar (25:11). Paul does not view his citizenship as incompatible with his heavenly citizenship; he deploys it as a tool in service of the gospel. How should Christians today think about the relationship between their earthly rights and privileges and their identity as citizens of God's kingdom? When is it faithful to claim earthly rights, and when might it be more faithful to surrender them?
 
@@ -90,7 +90,7 @@ Finally, reflect on the sheer length of Paul's imprisonment -- over two years in
 
 ## Memory Verse
 
-> "Then Agrippa said to Paul, 'In a short time would you persuade me to be a Christian?' And Paul said, 'Whether short or long, I would to God that not only you but also all who hear me this day might become such as I am -- except for these chains.'"
+> "And Agrippa said to Paul, 'In a short time would you persuade me to be a Christian?' And Paul said, 'Whether short or long, I would to God that not only you but also all who hear me this day might become such as I am -- except for these chains.'"
 > -- Acts 26:28-29
 
 ## Closing Prayer

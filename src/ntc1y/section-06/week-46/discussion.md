@@ -39,39 +39,39 @@ The author affirms Moses' faithfulness as a servant in God's house while declari
 
 - The author does not denigrate Moses but honors him and then surpasses him. How does this "honoring and surpassing" model help you understand the relationship between the Old and New Testaments?
 - The wilderness generation had experienced extraordinary miracles yet their hearts hardened through persistent unbelief. What does this teach about the relationship between spiritual experience and genuine faith?
-- "Encourage one another daily, as long as it is called 'today'" (3:13). How does your community practice this kind of daily mutual encouragement? What would it look like to do it more intentionally?
+- "Exhort one another every day, as long as it is called 'today'" (3:13). How does your community practice this kind of daily mutual encouragement? What would it look like to do it more intentionally?
 
 ### 2. Sabbath Rest and the Living Word (Hebrews 4)
 
 The promised rest was not fulfilled by Joshua's conquest of Canaan; a deeper rest remains -- participation in God's own Sabbath rest, entered by faith. God's word is living and active, and our high priest sympathizes with our weakness.
 
 - What does it mean to "strive to enter that rest" (4:11) -- to labor to cease from labor? Where are you still striving to earn God's acceptance rather than resting in what Christ has accomplished?
-- The word of God is described as "sharper than any double-edged sword" (4:12), exposing everything hidden in the human heart. Is this description comforting or threatening to you? How does it connect to the immediately following revelation of a sympathetic high priest?
-- "Let us then approach God's throne of grace with confidence" (4:16). What prevents you from approaching God with confidence, and how does the reality of a sympathetic high priest address those barriers?
+- The word of God is described as "sharper than any two-edged sword" (4:12), exposing everything hidden in the human heart. Is this description comforting or threatening to you? How does it connect to the immediately following revelation of a sympathetic high priest?
+- "Let us then with confidence draw near to the throne of grace" (4:16). What prevents you from approaching God with confidence, and how does the reality of a sympathetic high priest address those barriers?
 
 ### 3. Obedience Through Suffering and Spiritual Maturity (Hebrews 5)
 
-Jesus "learned obedience through suffering" and was "made perfect" as our high priest. But the author cannot develop his Melchizedek argument because his audience has become spiritually immature.
+Jesus "learned obedience through what he suffered" and was "made perfect" as our high priest. But the author cannot develop his Melchizedek argument because his audience has become spiritually immature.
 
-- "Son though he was, he learned obedience from what he suffered" (5:8). What does it mean for the eternal Son of God to "learn" obedience? How does this reshape your understanding of suffering's role in spiritual formation?
+- "Although he was a son, he learned obedience through what he suffered" (5:8). What does it mean for the eternal Son of God to "learn" obedience? How does this reshape your understanding of suffering's role in spiritual formation?
 - The audience should be "teachers" by now but still needs "milk, not solid food" (5:12). What causes spiritual regression? What are the signs that a believer or a community has stopped growing?
-- "Solid food is for the mature, who by constant use have trained themselves to distinguish good from evil" (5:14). Moral discernment is presented as a skill developed through practice. What practices develop this skill?
+- "But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil" (5:14). Moral discernment is presented as a skill developed through practice. What practices develop this skill?
 
 ### 4. Warning, Perseverance, and Hope (Hebrews 6)
 
 The most controversial passage in Hebrews warns about the impossibility of restoring those who fall away, followed by one of the most beautiful statements of hope in Scripture.
 
 - How do you interpret the warning passage in 6:4-8? Does it describe genuine believers who lose their salvation, people who only appeared to be believers, or a hypothetical warning designed to prevent apostasy? How does your interpretation affect your sense of security in Christ?
-- The author shifts from stern warning to warm affirmation in 6:9: "we are confident of better things in your case." How do effective spiritual leaders balance warning with encouragement? Is one more effective than the other?
-- Hope is described as "an anchor for the soul" that reaches into the heavenly sanctuary (6:19). How is this different from the way our culture typically understands hope? What makes this hope unshakable?
+- The author shifts from stern warning to warm affirmation in 6:9: "in your case, beloved, we feel sure of better things." How do effective spiritual leaders balance warning with encouragement? Is one more effective than the other?
+- Hope is described as an "anchor of the soul" that reaches into the heavenly sanctuary (6:19). How is this different from the way our culture typically understands hope? What makes this hope unshakable?
 
 ### 5. Melchizedek and the Permanent Priesthood (Hebrews 7)
 
 The mysterious Melchizedek of Genesis 14 becomes the key to understanding Christ's priesthood -- a priesthood that supersedes the Levitical system because it is permanent, untransferable, and based on an indestructible life.
 
 - The author argues from what Genesis does not say about Melchizedek (no genealogy, no recorded birth or death) as much as from what it does say. What does this interpretive method reveal about how the early church read the Old Testament?
-- "He is able to save completely those who come to God through him, because he always lives to intercede for them" (7:25). How does the reality of Christ's ongoing intercession affect your prayer life and your confidence before God?
-- The entire Levitical system is declared obsolete (7:18-19). How do you relate to Old Testament rituals and laws now -- as irrelevant, as historically interesting, or as shadows that illuminate the reality of Christ?
+- "He is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them" (7:25). How does the reality of Christ's ongoing intercession affect your prayer life and your confidence before God?
+- The entire Levitical system is set aside (7:18-19). How do you relate to Old Testament rituals and laws now -- as irrelevant, as historically interesting, or as shadows that illuminate the reality of Christ?
 
 ## Going Deeper
 
@@ -89,7 +89,7 @@ This week's readings challenge us in three practical areas:
 
 ## Memory Verse
 
-> "For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart." -- Hebrews 4:12
+> "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart." -- Hebrews 4:12
 
 ## Closing Prayer
 

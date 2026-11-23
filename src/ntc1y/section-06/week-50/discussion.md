@@ -26,27 +26,27 @@ John writes as the last surviving apostle, an elderly man who personally heard, 
 
 ### 1. God Is Light — Confession and Fellowship (1 John 1)
 
-John opens with the declaration that "God is light; in him there is no darkness at all" and immediately draws the practical implication: walking in the light requires honest confession of sin.
+John opens with the declaration that "God is light, and in him is no darkness at all" and immediately draws the practical implication: walking in the light requires honest confession of sin.
 
 - What does it mean that "God is light" as opposed to saying "God gives light" or "God created light"? How does this identification of God's very nature with light shape your understanding of holiness?
-- John says that if we claim fellowship with God while walking in darkness, "we lie and do not live out the truth" (1:6). How does self-deception operate in the spiritual life? What makes it possible to sincerely believe we are walking in light while actually walking in darkness?
+- John says that if we claim fellowship with God while walking in darkness, "we lie and do not practice the truth" (1:6). How does self-deception operate in the spiritual life? What makes it possible to sincerely believe we are walking in light while actually walking in darkness?
 - The promise of 1:9 -- "If we confess our sins, he is faithful and just to forgive us" -- includes the surprising word "just." How is God's forgiveness an act of justice (not merely mercy)?
 
 ### 2. Love, the World, and the Antichrist (1 John 2)
 
 John presents the test of genuine faith as obedience to God's commands, love for fellow believers, and resistance to the seductive pull of "the world."
 
-- John identifies "the lust of the flesh, the lust of the eyes, and the pride of life" (2:16) as the defining characteristics of the world-system. How do these three categories map onto the temptations you face? Can you think of modern examples of each?
+- John identifies "the desires of the flesh and the desires of the eyes and pride of life" (2:16) as the defining characteristics of the world-system. How do these three categories map onto the temptations you face? Can you think of modern examples of each?
 - The "antichrist" language is often applied to end-times speculation, but John says "many antichrists have come" already (2:18). How does John's usage of this term differ from popular culture's portrayal? Who were the antichrists John was actually addressing?
-- John says whoever claims to be in the light but hates a fellow believer "is still in the darkness" (2:9). How does unresolved conflict with other Christians affect our relationship with God?
+- John says whoever claims to be in the light but hates a fellow believer "is still in darkness" (2:9). How does unresolved conflict with other Christians affect our relationship with God?
 
 ### 3. Children of God — Love in Action (1 John 3)
 
-The declaration "See what great love the Father has lavished on us, that we should be called children of God!" is followed by the ethical demand to love in deed, not just in word.
+The declaration "See what kind of love the Father has given to us, that we should be called children of God" is followed by the ethical demand to love in deed, not just in word.
 
-- John says "when Christ appears, we shall be like him, for we shall see him as he is" (3:2). What does this promise of transformation tell us about the ultimate purpose of salvation? Is salvation primarily about going to heaven, or about becoming something?
+- John says "when he appears we shall be like him, because we shall see him as he is" (3:2). What does this promise of transformation tell us about the ultimate purpose of salvation? Is salvation primarily about going to heaven, or about becoming something?
 - The contrast between Cain and Christ (3:12-16) sets up the test of love: Cain murdered his brother; Christ laid down his life. How does this extreme contrast help define what love actually looks like?
-- "Let us not love with words or speech but with actions and in truth" (3:18). What is the difference between verbal love and enacted love? Where in your life is there a gap between what you say about love and what you actually do?
+- "Let us not love in word or talk but in deed and in truth" (3:18). What is the difference between verbal love and enacted love? Where in your life is there a gap between what you say about love and what you actually do?
 
 ### 4. God Is Love — Perfect Love Casts Out Fear (1 John 4)
 
@@ -60,14 +60,14 @@ The chapter contains the Bible's most direct declaration about God's nature -- "
 
 The final readings bring together the themes of overcoming faith, confident assurance, and the messy realities of church life.
 
-- John says "everyone born of God overcomes the world" (5:4). If this is true, why do so many believers feel defeated by the world's pressures? What is the relationship between the theological reality of overcoming and the practical experience of struggle?
+- John says "everyone who has been born of God overcomes the world" (5:4). If this is true, why do so many believers feel defeated by the world's pressures? What is the relationship between the theological reality of overcoming and the practical experience of struggle?
 - Second John warns against welcoming false teachers; Third John condemns refusing to welcome genuine missionaries. How does a community navigate this tension without becoming either naively open or defensively closed?
-- Diotrephes "loves to be first" (3 John 9). What are the warning signs that a leader has crossed from healthy confidence into self-promoting authoritarianism?
+- Diotrephes "likes to put himself first" (3 John 9). What are the warning signs that a leader has crossed from healthy confidence into self-promoting authoritarianism?
 
 ## Cross-Cutting Themes
 
 - **Tests of authentic faith** -- John provides three interlocking tests: right belief (confessing Christ came in the flesh), right behavior (obeying God's commands), and right love (loving fellow believers sacrificially). How do these three tests function together? Can someone pass one or two tests but fail the third and still have genuine faith?
-- **Assurance and warning** -- John writes "so that you may know you have eternal life" (5:13), yet also warns about sin that leads to death (5:16) and the reality of antichrists. How do assurance and warning coexist without contradicting each other?
+- **Assurance and warning** -- John writes "that you may know that you have eternal life" (5:13), yet also warns about sin that leads to death (5:16) and the reality of antichrists. How do assurance and warning coexist without contradicting each other?
 - **The incarnation as watershed** -- The non-negotiable doctrine in these letters is that Jesus Christ came "in the flesh." Why is this particular doctrine so central? What is lost if Jesus was not truly human, and what is lost if he was not truly divine?
 
 ## Memory Verse Reflection

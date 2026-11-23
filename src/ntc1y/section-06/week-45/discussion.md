@@ -28,15 +28,15 @@ This week we moved from Paul's final personal letter -- written in chains, facin
 Paul uses a cascade of metaphors -- soldier, athlete, farmer, workman, vessel -- to describe the Christian life, and then he closes his final letter with the declaration that he has "fought the good fight, finished the race, kept the faith."
 
 - What is the relationship between Paul's metaphors and his actual life? How does his imprisonment give weight to his words about enduring hardship as a "good soldier of Christ Jesus" (2:3)?
-- Paul warns that "everyone who wants to live a godly life in Christ Jesus will be persecuted" (3:12). How do you reconcile this with the experience of many Western Christians who face little overt persecution? Does the absence of persecution indicate something about our faithfulness, or about our cultural moment?
-- Demas "loved this present world" and deserted Paul (4:10). What does it look like in practice to love "this present age" in ways that gradually pull us away from faithfulness?
+- Paul warns that "all who desire to live a godly life in Christ Jesus will be persecuted" (3:12). How do you reconcile this with the experience of many Western Christians who face little overt persecution? Does the absence of persecution indicate something about our faithfulness, or about our cultural moment?
+- Demas, "in love with this present world," deserted Paul (4:10). What does it look like in practice to love "this present age" in ways that gradually pull us away from faithfulness?
 
 ### 2. Scripture as Foundation (2 Timothy 3:16-17)
 
-Paul's declaration that "all Scripture is God-breathed" is one of the most foundational statements in Christian theology about the nature and authority of the Bible.
+Paul's declaration that "all Scripture is breathed out by God" is one of the most foundational statements in Christian theology about the nature and authority of the Bible.
 
-- Paul says Scripture is useful for teaching, rebuking, correcting, and training in righteousness. Which of these four functions do you engage with most regularly? Which do you tend to avoid?
-- Timothy had known the Scriptures "from infancy" (3:15). What does this say about the importance of early and sustained exposure to Scripture? How might churches better equip families in this area?
+- Paul says Scripture is profitable "for teaching, for reproof, for correction, and for training in righteousness." Which of these four functions do you engage with most regularly? Which do you tend to avoid?
+- Timothy had known the Scriptures "from childhood" (3:15). What does this say about the importance of early and sustained exposure to Scripture? How might churches better equip families in this area?
 - In an age of information overload, how do we ensure that Scripture remains our primary authority rather than being drowned out by podcasts, social media, and competing voices?
 
 ### 3. The Supremacy of the Son (Hebrews 1)
@@ -53,7 +53,7 @@ Hebrews 2 contains the first of five warning passages and then develops a breath
 
 - The warning is not about dramatic apostasy but about "drifting away" (2:1) -- a nautical metaphor for inattention. What are the currents in your life that could cause drift? What are your anchors?
 - The author says Jesus was made "perfect through suffering" (2:10). Since Jesus was sinless, what kind of "perfection" is being described? How does suffering complete or qualify a person for a particular role?
-- Jesus is "not ashamed to call them brothers and sisters" (2:11). Given what we learned about the Son's glory in chapter 1, why is this statement so astonishing? How should this reality shape our identity and confidence before God?
+- Jesus is "not ashamed to call them brothers" (2:11). Given what we learned about the Son's glory in chapter 1, why is this statement so astonishing? How should this reality shape our identity and confidence before God?
 
 ## Cross-Cutting Themes
 
@@ -63,16 +63,16 @@ Hebrews 2 contains the first of five warning passages and then develops a breath
 
 ## Memory Verse Reflection
 
-> "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work." -- 2 Timothy 3:16-17
+> "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work." -- 2 Timothy 3:16-17
 
 > "I have fought the good fight, I have finished the race, I have kept the faith." -- 2 Timothy 4:7
 
-Paul wrote these words as a dying man in a Roman prison. How does the context of his writing -- imminent execution, abandonment by friends, the cold cell, the request for his cloak and scrolls -- affect how you hear these declarations? Can these words be spoken authentically by someone who has not suffered?
+Paul wrote these words as a dying man in a Roman prison. How does the context of his writing -- imminent execution, abandonment by friends, the cold cell, the request for his cloak and books -- affect how you hear these declarations? Can these words be spoken authentically by someone who has not suffered?
 
 ## Closing Application
 
 This week's readings challenge us in three interconnected ways:
 
-1. **2 Timothy 2-4** -- Identify one area of your life where you need to "endure hardship as a good soldier." What concrete step can you take this week to strengthen your resolve?
+1. **2 Timothy 2-4** -- Identify one area of your life where you need to "share in suffering as a good soldier of Christ Jesus." What concrete step can you take this week to strengthen your resolve?
 2. **Hebrews 1** -- Examine whether anything in your life has been elevated to the place that belongs to Christ alone -- a spiritual experience, a system, a leader, or a comfort. Recommit to the supremacy of the Son above all things.
 3. **Hebrews 2** -- Notice where you may be drifting. Not rebelling, not running -- just drifting. Name one practice you will reinstate or begin this week to anchor yourself more firmly to what you have heard.

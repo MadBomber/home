@@ -22,7 +22,7 @@ Read Romans 8:31-39 aloud together. Allow a moment of silence before beginning d
 
 1. **Romans 5 -- Grace Abounds**: Paul says grace does not merely match sin but "superabounds" (5:20). What does this mean practically? How does the Adam-Christ parallel in 5:12-21 reshape the way we understand both the human problem and God's solution?
 
-2. **Romans 6 -- Dead to Sin**: Paul says believers should "count yourselves dead to sin but alive to God" (6:11). What does it mean to reckon as true something you cannot always see or feel? How does the baptismal imagery help us understand our union with Christ?
+2. **Romans 6 -- Dead to Sin**: Paul says believers should "consider yourselves dead to sin and alive to God" (6:11). What does it mean to reckon as true something you cannot always see or feel? How does the baptismal imagery help us understand our union with Christ?
 
 3. **Romans 7 -- The Inner Struggle**: The identity of the "I" in Romans 7:14-25 has been debated for centuries. Share where you land on this question. Does this passage describe the unregenerate person, the mature believer, or the universal human condition apart from the Spirit? What difference does the interpretation make for daily life?
 
@@ -36,9 +36,9 @@ Read Romans 8:31-39 aloud together. Allow a moment of silence before beginning d
 
 7. **Slavery and Freedom**: In Romans 6, Paul argues that everyone is a slave -- either to sin or to righteousness. In a culture that prizes personal autonomy, how does this teaching challenge our assumptions? What does it mean that true freedom is found in willing service to Christ?
 
-8. **The Role of the Law**: Paul says the law is "holy, righteous and good" (7:12) yet unable to save. How should Christians relate to the Old Testament law today? What is the law's proper function in the life of a believer?
+8. **The Role of the Law**: Paul says the law is holy, and the commandment "holy and righteous and good" (7:12), yet unable to save. How should Christians relate to the Old Testament law today? What is the law's proper function in the life of a believer?
 
-9. **Suffering and Glory**: Paul says present sufferings "are not worth comparing with the glory that will be revealed in us" (8:18). How do you hold this perspective when suffering is intense and prolonged? How does the groaning of creation (8:19-22) expand our understanding of the gospel's scope?
+9. **Suffering and Glory**: Paul says the sufferings of this present time "are not worth comparing with the glory that is to be revealed to us" (8:18). How do you hold this perspective when suffering is intense and prolonged? How does the groaning of creation (8:19-22) expand our understanding of the gospel's scope?
 
 10. **Election and Pastoral Care**: Romans 9 raises profound questions about God's sovereignty. How should the doctrine of election affect the way we pray, evangelize, and care for those who have not yet believed? Does it undermine or strengthen our motivation for mission?
 

@@ -1142,11 +1142,11 @@ weeks:
       day: 2
     - question: "What did Peter say to the lame man at the Beautiful Gate?"
       choices:
-        - "Silver and gold have I none, but rise up and walk in the name of Jesus"
+        - "I have no silver and gold, but what I do have I give to you. In the name of Jesus Christ of Nazareth, rise up and walk!"
         - "Your sins are forgiven you"
         - "Go, show yourself to the priest"
         - "Your alms have come up before God"
-      answer: "Silver and gold have I none, but rise up and walk in the name of Jesus"
+      answer: "I have no silver and gold, but what I do have I give to you. In the name of Jesus Christ of Nazareth, rise up and walk!"
       ref: "Acts 3:6"
       day: 3
     - question: "Why was the council astonished at Peter and John?"
@@ -1400,10 +1400,10 @@ weeks:
     - question: "What vision redirected Paul's journey at Troas?"
       choices:
         - "An angel pointing toward Rome"
-        - "A man of Macedonia pleading, come over and help us"
+        - "A man of Macedonia urging, \"Come over to Macedonia and help us\""
         - "A great sheet of unclean animals"
         - "The risen Lord standing by him"
-      answer: "A man of Macedonia pleading, come over and help us"
+      answer: "A man of Macedonia urging, \"Come over to Macedonia and help us\""
       ref: "Acts 16:9"
       day: 2
     - question: "Who was the seller of purple goods whose heart the Lord opened at Philippi?"

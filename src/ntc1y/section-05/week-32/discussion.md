@@ -36,14 +36,14 @@ If someone asked you, "What difference does the resurrection of Jesus make in yo
 Paul says that without the bodily resurrection, Christian faith is "futile" and believers are "of all people most to be pitied." He makes no room for a spiritualized or metaphorical resurrection.
 
 - Why do you think Paul insists so strongly on the bodily nature of the resurrection? What is at stake theologically if the resurrection is reduced to a spiritual metaphor?
-- Paul describes the resurrection body as "sown perishable, raised imperishable; sown in dishonor, raised in glory." How does this vision of the future body shape the way you relate to your body now -- its limitations, its aging, its mortality?
+- Paul describes the resurrection body as sown perishable and raised imperishable, sown in dishonor and raised in glory. How does this vision of the future body shape the way you relate to your body now -- its limitations, its aging, its mortality?
 - "If the dead are not raised, let us eat and drink, for tomorrow we die" (v. 32). How does the reality of resurrection change the way you make ethical decisions?
 
 ### 2. Practical Faith (1 Corinthians 16)
 After the soaring theology of chapter 15, Paul turns to money, travel plans, and greetings. The transition is abrupt but revealing.
 
 - Why does Paul move directly from the theology of resurrection to the practicality of a financial collection? What does this tell us about the relationship between doctrine and daily life?
-- Paul's final exhortations combine military language ("stand firm, be courageous, be strong") with the command to "do everything in love." How do you hold toughness and tenderness together?
+- Paul's final exhortations combine military language ("stand firm in the faith, act like men, be strong") with the command "Let all that you do be done in love." How do you hold toughness and tenderness together?
 - The closing prayer *Maranatha* ("Our Lord, come!") reflects an eager expectation of Christ's return. How present is this expectation in your own spiritual life?
 
 ### 3. Comfort in Suffering (2 Corinthians 1)

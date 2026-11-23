@@ -30,9 +30,9 @@ This week we traced the explosive birth of the church from Jesus' ascension thro
 
 2. **Pentecost and the Reversal of Babel (Acts 2):** The gift of tongues at Pentecost enabled people from every nation to hear the gospel in their own language. How does this event reverse the judgment at Babel (Genesis 11:1-9)? What does Pentecost reveal about God's intention for the gospel's scope and reach?
 
-3. **The Healing and the Sermon (Acts 3):** Peter told the lame man, "Silver and gold I do not have, but what I do have I give to you." The early church was materially poor but spiritually powerful. How do you see this dynamic at work in the church today -- and where has it been inverted?
+3. **The Healing and the Sermon (Acts 3):** Peter told the lame man, "I have no silver and gold, but what I do have I give to you." The early church was materially poor but spiritually powerful. How do you see this dynamic at work in the church today -- and where has it been inverted?
 
-4. **Boldness Before Authority (Acts 4):** Peter declared, "There is salvation in no one else, for there is no other name under heaven given among mankind by which we must be saved." How does this exclusive claim function in a pluralistic culture? How can we hold this conviction with both firmness and humility?
+4. **Boldness Before Authority (Acts 4):** Peter declared, "There is salvation in no one else, for there is no other name under heaven given among men by which we must be saved." How does this exclusive claim function in a pluralistic culture? How can we hold this conviction with both firmness and humility?
 
 5. **Holiness and Hypocrisy (Acts 5):** The deaths of Ananias and Sapphira produced "great fear" in the community. Why might God have acted so decisively at this particular moment in the church's history? What does this episode teach us about the relationship between the Spirit's presence and personal integrity?
 

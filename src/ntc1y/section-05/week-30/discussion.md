@@ -32,7 +32,7 @@ Think about a time when a community you belonged to -- a church, a team, a famil
 ## Core Discussion Questions
 
 ### 1. Church Discipline (Chapter 5)
-Paul confronts the Corinthians not only for the sin in their midst but for their arrogance about it. He says they should have been "filled with grief" (v. 2) rather than inflated with tolerance.
+Paul confronts the Corinthians not only for the sin in their midst but for their arrogance about it. He asks, "Ought you not rather to mourn?" (v. 2) -- they should have grieved rather than been inflated with tolerance.
 
 - Why is it easier to ignore sin in a community than to address it?
 - What safeguards are needed to ensure that discipline is genuinely redemptive rather than punitive or self-righteous?
@@ -42,7 +42,7 @@ Paul confronts the Corinthians not only for the sin in their midst but for their
 Paul argues that the body is not spiritually irrelevant (the Greek philosophical view) but is the very dwelling place of God's Spirit, purchased by Christ's blood, and destined for resurrection.
 
 - How does the Greek dualism that devalues the body show up in modern culture or even in church culture?
-- "You are not your own; you were bought at a price." What areas of life does this claim extend to -- beyond sexuality?
+- "You are not your own, for you were bought with a price." What areas of life does this claim extend to -- beyond sexuality?
 - How does the promise of bodily resurrection change the way you think about your physical life right now?
 
 ### 3. Marriage and Singleness (Chapter 7)
@@ -56,14 +56,14 @@ Paul treats both marriage and singleness as gifts from God, and his counsel on m
 The idol-meat controversy may seem remote from modern life, but the underlying principle -- how to exercise freedom in a way that does not harm others -- is perennial.
 
 - Can you think of a modern equivalent of the idol-meat issue, where a practice that is morally neutral for one person could be spiritually harmful for another?
-- Paul says his reward is "presenting the gospel free of charge" (9:18). How does self-interest compromise the credibility of Christian witness?
-- "I have become all things to all people so that by all possible means I might save some." Where is the line between cultural adaptation and compromise of conviction?
+- Paul says his reward is that he may "present the gospel free of charge" (9:18). How does self-interest compromise the credibility of Christian witness?
+- "I have become all things to all people, that by all means I might save some." Where is the line between cultural adaptation and compromise of conviction?
 
 ## Deeper Dive
 
 Paul uses the phrase "Do you not know...?" seven times in chapters 5-6 alone -- ten times across the letter. Each instance introduces a theological truth the Corinthians should have understood but were failing to live out.
 
-- List some of the things Paul says they should have known (e.g., "your bodies are members of Christ" -- 6:15; "you will judge the world" -- 6:2).
+- List some of the things Paul says they should have known (e.g., "your bodies are members of Christ" -- 6:15; "the saints will judge the world" -- 6:2).
 - What does this repeated pattern tell us about the gap between theological knowledge and practical obedience?
 - Is there a "do you not know" truth that you already believe intellectually but struggle to live out practically?
 
@@ -81,7 +81,7 @@ Paul models in chapter 9 the very principle he teaches in chapter 8: he surrende
 > -- 1 Corinthians 6:19-20
 
 *Alternative:*
-> "I have become all things to all people so that by all possible means I might save some."
+> "I have become all things to all people, that by all means I might save some."
 > -- 1 Corinthians 9:22
 
 ## Closing Prayer

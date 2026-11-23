@@ -15,6 +15,6 @@ connections:
 study_slug: ntc1y
 ---
 
-In a city where the body was either worshipped or despised — where the temple of Aphrodite encouraged ritual prostitution and Greek philosophy taught that the physical was inferior to the spiritual — Paul makes an extraordinary claim: your body is a temple. Not metaphorically, not aspirationally, but actually. The Holy Spirit has taken up residence in the physical body of every believer, making it sacred space.
+In a city where the body was either worshipped or despised — where sexual license was common and socially accepted and Greek philosophy taught that the physical was inferior to the spiritual — Paul makes an extraordinary claim: your body is a temple. Not metaphorically, not aspirationally, but actually. The Holy Spirit has taken up residence in the physical body of every believer, making it sacred space.
 
 The phrase "you were bought with a price" points directly to the cross. The Corinthians lived in a major slave market city; they understood what it meant to be purchased. Paul is saying that the price paid for their freedom was not silver or gold but the blood of Christ. This changes everything about how you treat your body. It is not yours to abuse, neglect, or offer to whatever appetite demands. It belongs to the one who bought it, and it is his temple now.

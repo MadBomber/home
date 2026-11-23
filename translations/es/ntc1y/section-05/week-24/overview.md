@@ -50,7 +50,7 @@ La semana concluye con el primer capítulo de Gálatas, escrito probablemente de
 ## Temas clave
 - **La misión a los gentiles autorizada** -- La iniciativa de Dios al traer a los gentiles a la fe sin exigir la conversión al judaísmo
 - **La iglesia como cuerpo misionero** -- El modelo de Antioquía de comisión y envío dirigidos por el Espíritu
-- **Sufrimiento y perseverancia** -- Desde el martirio de Santiago hasta el apedreamiento de Pablo, el evangelio avanza a través de la oposición
+- **Sufrimiento y perseverancia** -- Desde el martirio de Jacobo hasta el apedreamiento de Pablo, el evangelio avanza a través de la oposición
 - **La justificación por la fe** -- Tanto el sermón de Pablo en Antioquía de Pisidia como Gálatas 1 declaran la libertad de la ley
 - **La autoridad apostólica** -- Pablo defiende su llamado como arraigado en la revelación divina, no en un nombramiento humano
 - **La soberanía de Dios** -- La muerte de Herodes y la liberación de Pedro demuestran el control de Dios sobre el poder terrenal

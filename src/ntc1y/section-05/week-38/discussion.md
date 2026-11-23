@@ -21,7 +21,7 @@ This week we witnessed the completion of Paul's greatest letter and the beginnin
 
 ## Study Questions
 
-1. **The Network of Faith (Romans 16):** Paul greets more than twenty-six individuals by name, including Phoebe (deacon and patron), Priscilla (co-worker), and Junia ("outstanding among the apostles"). What does the diversity of this list -- in gender, ethnicity, and social status -- tell us about the composition of the early church? How does this reality challenge or confirm your assumptions about early Christianity?
+1. **The Network of Faith (Romans 16):** Paul greets more than twenty-six individuals by name, including Phoebe (deacon and patron), Priscilla (co-worker), and Junia (outstanding among the apostles). What does the diversity of this list -- in gender, ethnicity, and social status -- tell us about the composition of the early church? How does this reality challenge or confirm your assumptions about early Christianity?
 
 2. **Farewell at Miletus (Acts 20:7-38):** Paul warned the Ephesian elders that "fierce wolves" would come from outside and "from among your own selves" would arise people who distort the truth (20:29-30). Why is the internal threat more dangerous than the external one? What practices can a church adopt to guard against false teaching without becoming suspiciously inquisitorial?
 

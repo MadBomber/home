@@ -6,7 +6,7 @@ week: 44
 section: Letters and Revelation
 title: Guarding the Faith
 memory_verse: "Titus 2:11-12"
-verse_text: "For the grace of God has appeared, bringing salvation for all people, training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in this present age."
+verse_text: "For the grace of God has appeared, bringing salvation for all people, training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age."
 translation: ESV
 connections:
   - "Day 3 — Paul writes these words to Titus in the context of practical Christian living on Crete, where grace is not merely a doctrine to believe but a teacher that reshapes daily conduct"

@@ -17,7 +17,7 @@ study_slug: ntc1y
 
 
 ## Opening Question
-Read Ephesians 3:20-21 aloud together. Then ask: If you truly believed that God is able to do "immeasurably more than all we ask or imagine," how would it change the way you prayed this week?
+Read Ephesians 3:20-21 aloud together. Then ask: If you truly believed that God is able to do "far more abundantly than all that we ask or think," how would it change the way you prayed this week?
 
 ## Review of This Week's Readings
 
@@ -67,4 +67,4 @@ Read Ephesians 3:20-21 aloud together. Then ask: If you truly believed that God 
 > -- Ephesians 2:8-9
 
 ## Closing Prayer
-God of immeasurable power and inexhaustible grace, we have spent this week in the heights and depths of your purposes. You have chosen us, redeemed us, made us alive, broken down the walls that divide us, and revealed the mystery that all people are welcome at your table. Now strengthen us with power through your Spirit. Dwell in our hearts. Root us in love. Equip us for ministry. Renew our minds so that we can put off the old and put on the new. And when we fail -- when we grieve your Spirit with careless words and bitter hearts -- remind us that your grace still flows, your calling is still irrevocable, and your power is still at work within us, doing immeasurably more than all we ask or imagine. To you be glory in the church and in Christ Jesus, throughout all generations, forever and ever. Amen.
+God of immeasurable power and inexhaustible grace, we have spent this week in the heights and depths of your purposes. You have chosen us, redeemed us, made us alive, broken down the walls that divide us, and revealed the mystery that all people are welcome at your table. Now strengthen us with power through your Spirit. Dwell in our hearts. Root us in love. Equip us for ministry. Renew our minds so that we can put off the old and put on the new. And when we fail -- when we grieve your Spirit with careless words and bitter hearts -- remind us that your grace still flows, your calling is still irrevocable, and your power is still at work within us, doing far more abundantly than all that we ask or think. To you be glory in the church and in Christ Jesus, throughout all generations, forever and ever. Amen.
