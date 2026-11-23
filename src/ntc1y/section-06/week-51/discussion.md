@@ -34,7 +34,7 @@ When you hear the word "Revelation," what is your first reaction — fascination
 
 ### Day 1: The Risen Christ (Revelation 1)
 1. John describes the risen Christ with imagery drawn from Daniel and Ezekiel — blazing eyes, bronze feet, a sword from his mouth, a face like the sun. How does this vision of Christ differ from the way you typically imagine Jesus? Which detail strikes you most, and why?
-2. Christ says, "I hold the keys of death and Hades." What does this declaration mean for believers facing persecution — or for you facing your own fears about death?
+2. Christ says, "I have the keys of Death and Hades." What does this declaration mean for believers facing persecution — or for you facing your own fears about death?
 
 ### Day 2: The First Four Churches (Revelation 2)
 3. Ephesus had doctrinal purity but abandoned its first love. Smyrna faced persecution but received no rebuke. Pergamum tolerated false teaching. Thyatira tolerated a false prophetess. Which of these diagnoses resonates most with your own church experience, and why?

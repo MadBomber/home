@@ -25,8 +25,8 @@ Paul's earlier letters (Romans, Galatians, Corinthians) are primarily theologica
 Paul contrasts "sound doctrine" (healthy teaching) with the "myths and endless genealogies" promoted by the false teachers. The medical metaphor — healthy vs. diseased teaching — runs throughout the letter.
 
 - What does it mean for teaching to be "healthy"? What symptoms does "diseased" teaching produce in a congregation?
-- Paul says the false teachers "want to be teachers of the law" (1:7) but don't understand what they are saying. How do we distinguish between genuine theological inquiry and the kind of speculative theology Paul warns against?
-- Paul calls himself the "worst of sinners" (1:15). How does a leader's transparency about personal failure affect their credibility and authority?
+- Paul says the false teachers are "desiring to be teachers of the law" (1:7) but don't understand what they are saying. How do we distinguish between genuine theological inquiry and the kind of speculative theology Paul warns against?
+- Paul calls himself the "foremost" of sinners (1:15). How does a leader's transparency about personal failure affect their credibility and authority?
 
 ### 2. Prayer, Worship, and the Mediator (1 Timothy 2)
 
@@ -41,16 +41,16 @@ Paul's instruction to pray for kings and authorities, his declaration of one God
 Paul's leadership qualifications are overwhelmingly character-based rather than competence-based. The church is structured as a family, with specific roles and responsibilities.
 
 - Why does Paul prioritize character over competence in selecting church leaders? What does this reveal about the nature of spiritual leadership versus secular leadership?
-- The requirement that an overseer "manage his own family well" (3:4-5) treats the home as a proving ground for church leadership. Is this principle still valid? What about leaders who are single or childless?
+- The requirement that an overseer "manage his own household well" (3:4-5) treats the home as a proving ground for church leadership. Is this principle still valid? What about leaders who are single or childless?
 - The enrolled widows' list (chapter 5) represents organized congregational care. What modern equivalents exist in your church, and how do they compare to Paul's detailed system?
 
 ### 4. Training in Godliness and Youth in Ministry (1 Timothy 4)
 
 Paul's gymnasium metaphor presents godliness as requiring intentional training, and his encouragement to Timothy addresses the challenge of leading when young.
 
-- Paul says "physical training is of some value, but godliness has value for all things" (4:8). What would a "training program" for godliness actually look like in your daily life?
-- "Don't let anyone look down on you because you are young" (4:12) — Paul's solution is not assertiveness but exemplary character. How does this principle apply to anyone who leads from a position of perceived weakness?
-- Paul tells Timothy not to "neglect your gift" (4:14). What does neglected gifting look like in a church, and what are its consequences?
+- Paul says "while bodily training is of some value, godliness is of value in every way" (4:8). What would a "training program" for godliness actually look like in your daily life?
+- "Let no one despise you for your youth" (4:12) — Paul's solution is not assertiveness but exemplary character. How does this principle apply to anyone who leads from a position of perceived weakness?
+- Paul tells Timothy not to "neglect the gift you have" (4:14). What does neglected gifting look like in a church, and what are its consequences?
 
 ## Cross-Cutting Themes
 

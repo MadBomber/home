@@ -15,7 +15,7 @@ study_slug: ntc1y
 
 ## Big Picture
 
-Paul's letters to Timothy and Titus — the Pastoral Epistles — shift from theology to practical church leadership. Timothy, Paul's "true son in the faith," faces false teachers in Ephesus. These letters provide the church's earliest guidelines for worship, leadership qualifications, and congregational care. Written between Paul's two Roman imprisonments (~62-67 AD).
+Paul's letters to Timothy and Titus — the Pastoral Epistles — shift from theology to practical church leadership. Timothy, Paul's "true child in the faith," faces false teachers in Ephesus. These letters provide the church's earliest guidelines for worship, leadership qualifications, and congregational care. Written between Paul's two Roman imprisonments (~62-67 AD).
 
 The Pastoral Epistles occupy a unique place in the Pauline corpus. While letters like Romans and Galatians develop theology in sweeping argument, 1 Timothy reads more like a church manual — practical, specific, and deeply concerned with what healthy congregational life actually looks like on the ground. Timothy had been Paul's companion since the second missionary journey, when Paul recruited the young man from Lystra (Acts 16:1-3). Now Timothy serves as Paul's apostolic delegate in Ephesus, one of the largest and most strategically important cities in the Roman Empire. The challenges are immense: false teachers are promoting speculative myths and genealogies, the church needs organizational structure as it matures beyond its founding generation, and questions about worship practices, leadership qualifications, and care for vulnerable members demand authoritative guidance. Paul writes not as an academic theologian but as a spiritual father equipping his son for the hardest assignment of his life.
 
@@ -32,7 +32,7 @@ The Pastoral Epistles occupy a unique place in the Pauline corpus. While letters
 ## Key Characters
 
 - **[Paul](/characters/paul/)** -- Apostle, writing between his first and second Roman imprisonments (~62-67 AD).
-- **[Timothy](/characters/timothy/)** -- Paul's "true son in the faith," apostolic delegate in Ephesus, young leader with a Jewish mother and Greek father.
+- **[Timothy](/characters/timothy/)** -- Paul's "true child in the faith," apostolic delegate in Ephesus, young leader with a Jewish mother and Greek father.
 - **Hymenaeus and Alexander** -- False teachers Paul has "handed over to Satan" as discipline.
 - **Ephesian false teachers** -- Promoting myths, genealogies, and speculative teachings.
 

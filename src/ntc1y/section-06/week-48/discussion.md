@@ -33,24 +33,24 @@ Think about a time when you felt like an outsider — in a workplace, a social g
 ## Core Discussion Questions
 
 ### Day 1: Going Outside the Camp (Hebrews 13)
-1. The author of Hebrews calls believers to "go to Jesus outside the camp, bearing the disgrace he bore." What does it mean to leave the safety of the "camp" — whether that is a religious establishment, a social comfort zone, or a cultural identity — and identify publicly with the crucified Christ?
-2. The benediction of Hebrews 13:20-21 describes God as "the God of peace who brought again from the dead our Lord Jesus." How does the resurrection function as the basis for the prayer that follows — that God would "equip you with everything good for doing his will"?
+1. The author of Hebrews calls believers to "go to him outside the camp and bear the reproach he endured." What does it mean to leave the safety of the "camp" — whether that is a religious establishment, a social comfort zone, or a cultural identity — and identify publicly with the crucified Christ?
+2. The benediction of Hebrews 13:20-21 describes God as "the God of peace who brought again from the dead our Lord Jesus." How does the resurrection function as the basis for the prayer that follows — that God would "equip you with everything good that you may do his will"?
 
 ### Day 2: Living Hope and Tested Faith (1 Peter 1)
 3. Peter describes faith as being "tested by fire" like gold. What is the difference between this understanding of suffering and the common assumption that suffering indicates God's absence or disapproval?
-4. Peter commands, "Be holy, because I am holy" — applying Israel's identity statement to the multiethnic church. What does holiness look like in your specific context? How is it different from moralism or legalism?
+4. Peter commands, "You shall be holy, for I am holy" — applying Israel's identity statement to the multiethnic church. What does holiness look like in your specific context? How is it different from moralism or legalism?
 
 ### Day 3: Living Stones and Royal Priesthood (1 Peter 2)
 5. Peter says believers are "living stones" being built into a "spiritual house." How does this corporate image of the church challenge the individualism that characterizes much of contemporary Christianity?
 6. Peter tells Christians to "honor the emperor" while reserving "fear" for God alone. How do you navigate the tension between respect for governing authorities and ultimate allegiance to Christ? Where have you seen this tension become most acute in your own experience?
 
 ### Day 4: Witness Through Character (1 Peter 3)
-7. Peter tells wives they can "win without a word" through their conduct. What does this teach about the relative power of arguments versus lived example in evangelism? Can you think of someone whose character — more than their words — drew you toward faith?
-8. Peter instructs believers to "always be prepared to make a defense for the hope that is in you, yet do it with gentleness and respect." How do gentleness and respect change the quality and effectiveness of our witness? What happens when Christians defend the faith without these qualities?
+7. Peter tells wives their husbands "may be won without a word" by their conduct. What does this teach about the relative power of arguments versus lived example in evangelism? Can you think of someone whose character — more than their words — drew you toward faith?
+8. Peter instructs believers to "always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect." How do gentleness and respect change the quality and effectiveness of our witness? What happens when Christians defend the faith without these qualities?
 
 ### Day 5: The Fiery Ordeal (1 Peter 4)
-9. Peter says believers should "not be surprised at the fiery ordeal" and should "rejoice insofar as you share Christ's sufferings." How do you reconcile this teaching with the desire for comfort, safety, and a pain-free life? Is suffering always to be welcomed, or only certain kinds?
-10. "Judgment begins at the household of God." What does this mean for how the church approaches its own moral failures, internal conflicts, and institutional sins? How is the church's willingness to be judged first a form of witness to the world?
+9. Peter says believers should "not be surprised at the fiery trial" and should "rejoice insofar as you share Christ's sufferings." How do you reconcile this teaching with the desire for comfort, safety, and a pain-free life? Is suffering always to be welcomed, or only certain kinds?
+10. "It is time for judgment to begin at the household of God." What does this mean for how the church approaches its own moral failures, internal conflicts, and institutional sins? How is the church's willingness to be judged first a form of witness to the world?
 
 ## Going Deeper
 
@@ -60,8 +60,8 @@ Think about a time when you felt like an outsider — in a workplace, a social g
 
 ## Application
 
-1. **Personal**: Peter says the "fiery ordeal" should not surprise us. What is your current "fiery ordeal" — the difficulty or opposition you face because of your faith? How does Peter's reframing of suffering as participation in Christ's sufferings change your experience of it?
-2. **Communal**: Peter describes the church as a "royal priesthood" — every believer has priestly access to God and priestly responsibility to declare his praises. How well does your church community live out this identity? Are there ways in which a clergy-laity division has undermined the priesthood of all believers?
+1. **Personal**: Peter says the "fiery trial" should not surprise us. What is your current "fiery trial" — the difficulty or opposition you face because of your faith? How does Peter's reframing of suffering as participation in Christ's sufferings change your experience of it?
+2. **Communal**: Peter describes the church as a "royal priesthood" — every believer has priestly access to God and priestly responsibility to proclaim his excellencies. How well does your church community live out this identity? Are there ways in which a clergy-laity division has undermined the priesthood of all believers?
 3. **Theological**: Peter tells believers to "entrust their souls to a faithful Creator while doing good." Where in your life do you need to practice both of these — the trusting and the doing good — simultaneously? Which comes more naturally to you, and which requires more intentional effort?
 
 ## Memory Verse
@@ -69,8 +69,8 @@ Think about a time when you felt like an outsider — in a workplace, a social g
 > "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you."
 > — 1 Peter 1:3-4
 
-A companion text worth keeping nearby is 1 Peter 2:9, where those born again to this living hope are named a chosen race and royal priesthood, called to declare the praises of the one who called them out of darkness into his wonderful light.
+A companion text worth keeping nearby is 1 Peter 2:9, where those born again to this living hope are named a chosen race and royal priesthood, called to proclaim the excellencies of the one who called them out of darkness into his marvelous light.
 
 ## Closing Prayer
 
-God of peace, who raised our Lord Jesus from the dead and who calls us out of darkness into your wonderful light — we praise you for the living hope that sustains us and the tested faith that refines us. Make us living stones in your spiritual house, a royal priesthood that declares your praises in word and deed. When the fiery ordeal comes, help us not to be surprised but to rejoice in sharing Christ's sufferings. Give us the imperishable beauty of a gentle and quiet spirit, the courage to go outside the camp, and the trust to entrust our souls to you, our faithful Creator, while doing good. Through Jesus Christ, to whom be glory and dominion forever and ever. Amen.
+God of peace, who raised our Lord Jesus from the dead and who calls us out of darkness into your marvelous light — we praise you for the living hope that sustains us and the tested faith that refines us. Make us living stones in your spiritual house, a royal priesthood that proclaims your excellencies in word and deed. When the fiery ordeal comes, help us not to be surprised but to rejoice in sharing Christ's sufferings. Give us the imperishable beauty of a gentle and quiet spirit, the courage to go outside the camp, and the trust to entrust our souls to you, our faithful Creator, while doing good. Through Jesus Christ, to whom be glory and dominion forever and ever. Amen.

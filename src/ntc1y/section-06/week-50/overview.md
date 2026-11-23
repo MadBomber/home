@@ -23,7 +23,7 @@ The Johannine Epistles -- 1, 2, and 3 John -- bring us full circle to the voice 
 
 First John is one of the most intimate documents in the New Testament. It reads less like a formal letter and more like a pastoral meditation, circling again and again around three interlocking themes: light versus darkness, love versus hatred, and truth versus falsehood. The vocabulary is deliberately simple -- John uses fewer than three hundred unique Greek words -- but the theology is profound. The Elder (as John identifies himself in 2 and 3 John) writes as an eyewitness who heard, saw, and touched the Word of life (1:1-3), and he writes so that his readers' joy may be complete. The crisis of false teaching has shaken the community's confidence, and John's purpose is to rebuild assurance on the twin foundations of confessed sin and demonstrated love.
 
-Second and Third John are the two shortest books in the New Testament -- each could fit on a single sheet of papyrus, reflecting the standard length of a private letter in the ancient world. Second John warns a "chosen lady and her children" (likely a house church) against welcoming the same false teachers who have troubled the larger community. Third John commends a faithful believer named Gaius, condemns an authoritarian leader named Diotrephes who has refused to receive traveling missionaries, and holds up Demetrius as a model of goodness. Together, these brief letters reveal the messy, human reality of first-century church life: hospitality debates, power struggles, and the constant challenge of discerning truth from error.
+Second and Third John are the two shortest books in the New Testament -- each could fit on a single sheet of papyrus, reflecting the standard length of a private letter in the ancient world. Second John warns an "elect lady and her children" (likely a house church) against welcoming the same false teachers who have troubled the larger community. Third John commends a faithful believer named Gaius, condemns an authoritarian leader named Diotrephes who has refused to receive traveling missionaries, and holds up Demetrius as a model of goodness. Together, these brief letters reveal the messy, human reality of first-century church life: hospitality debates, power struggles, and the constant challenge of discerning truth from error.
 
 ## Daily Readings
 
@@ -40,14 +40,14 @@ Second and Third John are the two shortest books in the New Testament -- each co
 - **[John ("the Elder")](/characters/john/)** -- The beloved disciple, last surviving apostle, writing from Ephesus near the end of his life (c. 85-95 AD).
 - **The secessionists** -- Former members of the community who denied the incarnation and departed, prompting John's letters.
 - **[Gaius](/characters/third-john/)** -- A faithful believer commended by John for his hospitality to traveling missionaries (3 John).
-- **[Diotrephes](/characters/third-john/)** -- A church leader who loves to be first and refuses to acknowledge John's authority (3 John).
-- **[Demetrius](/characters/third-john/)** -- A man well spoken of by everyone and by the truth itself (3 John).
+- **[Diotrephes](/characters/third-john/)** -- A church leader who likes to put himself first and refuses to acknowledge John's authority (3 John).
+- **[Demetrius](/characters/third-john/)** -- A man who has received a good testimony from everyone, and from the truth itself (3 John).
 
 ## Key Locations
 
 - **[Ephesus](/locations/ephesus/)** -- The probable base of John's ministry and the center of the Johannine community.
 - **[Asia Minor](/locations/asia-minor/)** -- The broader region of house churches addressed by John's circular letters.
-- **[The House Church of "the Chosen Lady"](/locations/asia-minor/)** -- The specific congregation warned in 2 John about false teachers.
+- **[The House Church of "the Elect Lady"](/locations/asia-minor/)** -- The specific congregation warned in 2 John about false teachers.
 
 ## Key Themes
 - **God is light** -- The fundamental character of God as pure, radiant holiness with no darkness at all, establishing the moral framework for authentic Christian living

@@ -51,8 +51,8 @@ Peter then connects this cosmic proclamation to baptism: "Baptism, which corresp
 - **New Testament Echoes**: Ephesians 5:22-33 (Paul's parallel instruction on marriage, grounded in Christ and the church); Colossians 3:18-19 (wives and husbands in the Lord); Romans 12:17-21 (do not repay evil for evil); Matthew 5:10 ("Blessed are those who are persecuted for righteousness' sake")
 
 ## Reflection Questions
-1. Peter tells wives they can "win without a word" through their conduct. When has someone's consistent Christlike behavior — rather than their arguments — most powerfully influenced your own faith or convictions? What does this suggest about the relative power of words and actions in evangelism?
-2. Peter calls believers to "always be prepared to make a defense for the hope that is in you." If a colleague or neighbor asked you tomorrow why you live the way you do, what would you say? How does Peter's emphasis on "gentleness and respect" shape the tone of your answer?
+1. Peter tells wives their husbands "may be won without a word" by their conduct. When has someone's consistent Christlike behavior — rather than their arguments — most powerfully influenced your own faith or convictions? What does this suggest about the relative power of words and actions in evangelism?
+2. Peter calls believers to "always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you." If a colleague or neighbor asked you tomorrow why you live the way you do, what would you say? How does Peter's emphasis on "gentleness and respect" shape the tone of your answer?
 3. The passage about Christ preaching to "the spirits in prison" suggests that the scope of Christ's victory extends far beyond what we can see. How does the knowledge that Christ has authority over "angels, authorities, and powers" affect the way you face spiritual opposition, fear, or discouragement?
 
 ## Prayer
