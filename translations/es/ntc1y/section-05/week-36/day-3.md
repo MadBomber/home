@@ -41,7 +41,7 @@ Una tercera opción, cada vez más favorecida por los estudiosos contemporáneos
 Sea cual sea la lectura que uno adopte, el punto teológico es claro: la ley, aunque es buena, no basta para vencer el pecado. Lo que la ley no pudo hacer, Dios lo hizo -- y el capítulo 8 revelará cómo. El clamor angustiado del versículo 24 -- "¿Quién me libertará de este cuerpo de muerte?" -- no queda sin respuesta. Es la preparación para el capítulo más grandioso de todos los escritos de Pablo.
 
 ## Temas clave
-- **La bondad y el límite de la ley** -- La ley es santa, justa y buena, pero no puede capacitar para obedecer; diagnostica la enfermedad, pero no puede proporcionar la cura
+- **La bondad y el límite de la ley** -- La ley es santa, y su mandamiento santo, justo y bueno, pero no puede capacitar para obedecer; diagnostica la enfermedad, pero no puede proporcionar la cura
 - **El engaño del pecado** -- El pecado usa el mandamiento como base de partida, despierta el deseo mediante la prohibición y produce muerte por medio de lo que era para vida
 - **La lucha interior** -- Ya sea que describa a la persona no regenerada, al creyente o la condición humana universal bajo la ley, el pasaje revela la bancarrota del esfuerzo moral sin el Espíritu
 

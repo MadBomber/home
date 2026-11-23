@@ -46,7 +46,7 @@ El capítulo concluye con una metáfora atlética tomada de los Juegos Ístmicos
 
 ## Preguntas de reflexión
 
-1. Pablo establece su derecho al sostén económico a partir de seis fuentes distintas, y luego renuncia a él voluntariamente. ¿A qué derecho o privilegio de tu vida podría Dios estar llamándote a renunciar por el bien de los demás?
+1. Pablo establece su derecho al sostén económico a partir de cuatro fuentes distintas, y luego renuncia a él voluntariamente. ¿A qué derecho o privilegio de tu vida podría Dios estar llamándote a renunciar por el bien de los demás?
 2. "A todos me he hecho todo, para que por todos los medios salve a algunos". ¿Cuál es la diferencia entre la adaptación cultural y el compromiso moral? ¿Dónde trazas tú la línea?
 3. Pablo usa imágenes atléticas para describir la disciplina que requiere un ministerio fiel. ¿Qué disciplinas espirituales te ayudan a mantenerte "en entrenamiento" y a no ser "descalificado" en tu propio caminar con Dios?
 

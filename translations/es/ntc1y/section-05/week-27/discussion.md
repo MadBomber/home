@@ -33,7 +33,7 @@ Comiencen leyendo juntos 1 Tesalonicenses 4:16-17. ¿Qué es lo que más te llam
 
 ## Para profundizar
 - Pablo escribió 1 Tesalonicenses desde Corinto alrededor del 50-51 d.C., lo que la convierte en uno de los documentos más antiguos del Nuevo Testamento. ¿Cómo influye saber esto en la manera en que la lees? ¿Qué nos dice acerca de lo que creían los primeros cristianos?
-- La parusía (la segunda venida) se menciona en cada capítulo de 1 Tesalonicenses. ¿Por qué era esta esperanza tan central para la identidad de la iglesia primitiva? ¿Sigue siendo central para los cristianos de hoy, y debería serlo?
+- La segunda venida se menciona en cada capítulo de 1 Tesalonicenses, con el nombre de parusía a partir de 2:19. ¿Por qué era esta esperanza tan central para la identidad de la iglesia primitiva? ¿Sigue siendo central para los cristianos de hoy, y debería serlo?
 - Pablo advierte contra vivir "en pasión degradante, como los gentiles que no conocen a Dios" (4:5). ¿Cómo aplicamos fielmente esta enseñanza en una cultura donde las normas sexuales han cambiado drásticamente desde los días de Pablo?
 
 ## Oración final

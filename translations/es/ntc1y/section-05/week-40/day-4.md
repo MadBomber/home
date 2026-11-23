@@ -44,7 +44,7 @@ El capítulo concluye con una doxología que se ha convertido en una de las bend
 ## Temas clave
 - **El misterio de la inclusión de los gentiles** -- El plan de Dios, escondido por largo tiempo, de hacer a los gentiles plenamente coherederos, comiembros y copartícipes de la promesa se ha revelado por medio del evangelio y derriba toda frontera étnica y religiosa
 - **La iglesia como demostración cósmica** -- La comunidad diversa y unida de los creyentes es la lección práctica por medio de la cual los poderes espirituales aprenden la multiforme sabiduría de Dios, lo que hace de la unidad de la iglesia un asunto de importancia cósmica
-- **Mucho más abundantemente** -- El poder de Dios para actuar excede no solo lo que pedimos, sino lo que podemos imaginar, y este poder de resurrección ya obra en cada creyente
+- **Mucho más abundantemente** -- El poder de Dios para actuar excede no solo lo que pedimos, sino lo que podemos entender, y este poder de resurrección ya obra en cada creyente
 
 ## Conexiones
 - **Raíces en el Antiguo Testamento**: Génesis 12:3 (en Abraham serán benditas todas las naciones); Isaías 49:6 (luz de las naciones); Isaías 56:6-7 (los extranjeros acogidos en la casa de Dios); Daniel 2:47 (Dios como el que revela los misterios)
