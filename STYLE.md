@@ -115,7 +115,7 @@ Scripture is always block-quoted. Short quotations (a phrase or clause) may appe
 > Book Chapter:Verse (ESV)
 ```
 
-**Translation:** ESV consistently throughout. When verifying that a quotation matches the ESV exactly, use [esv.org](https://www.esv.org) as the authoritative source. Other sites (BibleGateway, etc.) may carry different text.
+**Translation:** ESV consistently throughout. When verifying that a quotation matches the ESV exactly, use the ESV module installed in e-Sword (the ESV Permanent Text Edition, 2016), read through the `esword` skill: `esword verse "John 3:16" --bible esv`. Spanish quotations are checked the same way against the NBLA module (`--bible nbla`). Other sites (BibleGateway, etc.) may carry different text, and web fetches can return a summary in place of the exact wording.
 
 **Introduction:** The prose sets up the verse before it appears. The reader knows why they are about to read it. After the verse, the prose unpacks it. It does not assume the verse speaks for itself without engagement.
 
