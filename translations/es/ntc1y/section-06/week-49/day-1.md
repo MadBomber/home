@@ -45,7 +45,7 @@ La advertencia final es vívida: "Sean de espíritu sobrio, estén alerta. Su ad
 
 ## Conexiones
 
-- **Raíces en el Antiguo Testamento**: La imagen del pastor proviene de Ezequiel 34, donde Dios reprende a los pastores infieles de Israel y promete apacentar Él mismo a Su rebaño. La cita sobre la humildad viene de Proverbios 3:34 (LXX). El león como depredador hace eco del Salmo 22:13 y de Amós 3:8.
+- **Raíces en el Antiguo Testamento**: La imagen del pastor proviene de Ezequiel 34, donde Dios reprende a los pastores infieles de Israel y promete apacentar Él mismo a Su rebaño. La cita sobre la humildad viene de Proverbios 3:34 (LXX). El león como depredador hace eco del Salmo 22:13 y de Amós 3:4.
 - **Ecos en el Nuevo Testamento**: La restauración de Pedro por parte de Jesús en Juan 21:15-17 -- "Apacienta Mis ovejas" -- está directamente detrás del encargo de Pedro a los ancianos. Santiago 4:6-10 cita el mismo texto de Proverbios y de manera semejante llama a la humildad y a resistir al diablo. El pasaje de Pablo sobre la armadura de Dios (Efesios 6:10-13) ofrece un llamado paralelo a estar firmes.
 
 ## Preguntas de reflexión

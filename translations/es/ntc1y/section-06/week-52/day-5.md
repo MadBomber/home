@@ -62,7 +62,7 @@ Desde "En el principio ya existía el Verbo" hasta "Ven, Señor Jesús". Desde e
 
 - **La consumación de todas las cosas** -- Todos los hilos de la historia bíblica encuentran su resolución en estos capítulos: las plagas del éxodo, completadas en las copas; el matrimonio entre Dios e Israel, consumado en las bodas del Cordero; la maldición de Génesis, revertida en la nueva creación; y la presencia de Dios -- perdida en el Edén, vislumbrada en el tabernáculo, abierta de par en par en la cruz -- restaurada plena y permanentemente
 - **Dios que habita con la humanidad** -- La promesa central de la nueva creación no son calles de oro ni puertas de perla, sino la presencia personal y sin mediaciones de Dios entre Su pueblo: "Él habitará entre ellos y ellos serán Su pueblo, y Dios mismo estará entre ellos"
-- **La invitación abierta** -- La última palabra de la Biblia no es el juicio, sino la invitación: "Ven". El agua de la vida es gratuita. El árbol de la vida da fruto para todos. La puerta está abierta. La historia no termina con un sistema cerrado, sino con una mano extendida
+- **La invitación abierta** -- La última gran palabra de la Biblia no es el juicio, sino la invitación: "Ven". El agua de la vida es gratuita. El árbol de la vida da fruto para todos. La puerta está abierta. La historia no termina con un sistema cerrado, sino con una mano extendida
 
 ## Conexiones
 
@@ -73,7 +73,7 @@ Desde "En el principio ya existía el Verbo" hasta "Ven, Señor Jesús". Desde e
 
 1. Apocalipsis 22 invierte Génesis 3 punto por punto: se quita la maldición, se restaura el árbol de la vida, se ve el rostro de Dios y Su pueblo reina para siempre. ¿Qué te dice esta gran inversión acerca de la naturaleza del plan redentor de Dios -- es la salvación solo un rescate del pecado, o es la culminación de algo que Dios se propuso desde el principio?
 2. "Él enjugará toda lágrima de sus ojos". No es un decreto general, sino un acto personal -- Dios mismo que toca el rostro de Su pueblo. ¿Qué lágrimas anhelas más que Dios enjugue? ¿Cómo te sostiene esta promesa en el presente?
-3. La Biblia termina con una invitación: "Ven". No un mandato, no una amenaza, sino una puerta abierta. ¿Cómo moldea esta palabra final tu comprensión del carácter de Dios y de Su actitud hacia el mundo? ¿Qué significa vivir como alguien que ha oído esta invitación?
+3. La Biblia se despide con una invitación: "Ven". No un mandato, no una amenaza, sino una puerta abierta. ¿Cómo moldea esta palabra de despedida tu comprensión del carácter de Dios y de Su actitud hacia el mundo? ¿Qué significa vivir como alguien que ha oído esta invitación?
 
 ## Oración
 

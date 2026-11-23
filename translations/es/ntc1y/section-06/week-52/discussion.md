@@ -72,7 +72,7 @@ El clímax de toda la Biblia: cielos nuevos, tierra nueva, la nueva Jerusalén, 
 - "Yo hago nuevas todas las cosas" -- no "hago cosas nuevas". Dios transforma la creación en lugar de reemplazarla. ¿Cómo afecta esta distinción tu comprensión de la salvación, del cuerpo y del mundo material?
 - La nueva Jerusalén desciende del cielo a la tierra. Dios viene a habitar con la humanidad, y no al revés. ¿Cómo desafía esta dirección -- del cielo a la tierra -- las suposiciones comunes sobre la esperanza cristiana como "ir al cielo cuando uno muere"?
 - Apocalipsis 22 invierte Génesis 3 detalle por detalle: se quita la maldición, se restaura el árbol de la vida, se ve el rostro de Dios, el río fluye libremente. ¿Qué nos dice esta gran inversión acerca de la forma de la historia de Dios -- es circular (vuelve al principio) o en espiral (vuelve a los temas del principio en un nivel más alto)?
-- Las últimas páginas de la Biblia resuenan con la palabra "Ven". No es un mandato ni una declaración doctrinal, sino una invitación. ¿Qué significa que la palabra final de la Escritura sea una puerta abierta y no una puerta cerrada?
+- Las últimas páginas de la Biblia resuenan con la palabra "Ven". No es un mandato ni una declaración doctrinal, sino una invitación. ¿Qué significa que la invitación con que se despide la Escritura sea una puerta abierta y no una puerta cerrada?
 
 ## Repaso del año: el recorrido de Juan 1 a Apocalipsis 22
 

@@ -44,7 +44,7 @@ La urgencia pastoral que hay detrás de esta teología difícilmente puede exage
 ## Conexiones
 
 - **Raíces en el Antiguo Testamento**: El argumento del capítulo descansa en Éxodo 25:40 (el modelo celestial) y cita extensamente Jeremías 31:31-34 (el nuevo pacto). El concepto del tabernáculo como copia refleja la teología más amplia del Antiguo Testamento sobre la morada de Dios en medio de Su pueblo (Éxodo 29:45-46).
-- **Ecos en el Nuevo Testamento**: Jesús mismo inauguró el nuevo pacto en la Última Cena: "Esta copa es el nuevo pacto en Mi sangre" (Lucas 22:20). Pablo desarrolla el ministerio del nuevo pacto en 2 Corintios 3:6-18. El contraste entre la letra y el Espíritu recorre Gálatas y Romanos.
+- **Ecos en el Nuevo Testamento**: Jesús mismo inauguró el nuevo pacto en la Última Cena: "Esta copa es el nuevo pacto en Mi sangre, que es derramada por ustedes" (Lucas 22:20). Pablo desarrolla el ministerio del nuevo pacto en 2 Corintios 3:6-18. El contraste entre la letra y el Espíritu recorre Gálatas y Romanos.
 
 ## Preguntas de reflexión
 
