@@ -15,6 +15,6 @@ connections:
 study_slug: ntc1y
 ---
 
-Romans 8:28 is one of the most quoted — and most misquoted — verses in the Bible. It does not say that all things are good. It does not say that bad things happen for a reason. It says that God *works* all things together for good. The verb is active: God is at work, weaving together the threads of joy and sorrow, success and failure, health and suffering into a tapestry whose pattern is redemption. The "good" in view is not comfort or prosperity but conformity to the image of Christ (verse 29).
+Romans 8:28 is one of the most quoted — and most misquoted — verses in the Bible. It does not say that all things are good. It does not say that bad things happen for a reason. It says that all things *work together* for good — and the context makes plain that God is the one at work (some early manuscripts even make "God" the subject). God is weaving together the threads of joy and sorrow, success and failure, health and suffering into a tapestry whose pattern is redemption. The "good" in view is not comfort or prosperity but conformity to the image of Christ (verse 29).
 
 The verse also has conditions. It is for "those who love God" and "those who are called according to his purpose." This is not a blanket cosmic optimism but a specific promise to people who have been drawn into a relationship with God through Christ. For them — and only for them — every circumstance, no matter how painful or incomprehensible, is being recruited by a sovereign God into the service of their ultimate good.

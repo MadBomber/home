@@ -57,7 +57,7 @@ Paul turns the spotlight from the Gentile world to the Jewish world, showing tha
 ### 4. Justified Freely by Grace (Romans 3)
 The pivotal chapter: all have sinned and fall short; all are justified freely by grace through faith in Christ.
 
-- "There is no one righteous, not even one." How does this universal diagnosis challenge the common assumption that most people are "basically good"?
+- "None is righteous, no, not one." How does this universal diagnosis challenge the common assumption that most people are "basically good"?
 - Paul uses three metaphors for salvation: acquittal (law court), redemption (slave market), and atonement (temple sacrifice). Which metaphor resonates most with you, and why?
 - Paul says justification by faith "upholds" the law rather than overthrowing it. How does grace fulfill the law's deepest intention?
 
@@ -80,17 +80,17 @@ Compare Paul's treatment of Abraham in Romans 4 with James's treatment in James 
 
 Romans 1-4 moves from diagnosis (universal sin) to remedy (justification by faith). Paul's argument is designed not merely to inform but to transform.
 
-- Spend time this week memorizing Romans 3:23-24. Let the universality of the diagnosis ("all have sinned") and the universality of the remedy ("justified freely by his grace") sink into your understanding of yourself and others.
+- Spend time this week memorizing Romans 3:23-24. Let the universality of the diagnosis ("all have sinned") and the universality of the remedy ("justified by his grace as a gift") sink into your understanding of yourself and others.
 - Identify one area where you have been trying to "earn" God's approval through performance, religious activity, or moral superiority. How does the gospel of free justification speak to that specific area?
 - Paul says Abraham did not weaken in faith when he "considered his own body." Identify one seemingly impossible situation in your life and spend time this week deliberately trusting the God who "gives life to the dead."
 
 ## Memory Verse
 
-> "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile. For in the gospel the righteousness of God is revealed -- a righteousness that is by faith from first to last, just as it is written: 'The righteous will live by faith.'"
+> "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith for faith, as it is written, 'The righteous shall live by faith.'"
 > -- Romans 1:16-17
 
 *Alternative:*
-> "For all have sinned and fall short of the glory of God, and all are justified freely by his grace through the redemption that came by Christ Jesus."
+> "For all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus."
 > -- Romans 3:23-24
 
 ## Closing Prayer

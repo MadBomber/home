@@ -21,7 +21,7 @@ Begin by reading 1 Thessalonians 4:16-17 together. What strikes you most about P
 
 ### Acts 18:1-17
 1. What do we learn about Corinth as a setting for church planting? How did the city's commercial prosperity, ethnic diversity, and moral reputation shape the challenges Paul faced?
-2. God tells Paul, "I have many people in this city." What does this statement reveal about God's sovereignty in evangelism? How should it shape our own expectations when we serve in difficult places?
+2. God tells Paul, "I have many in this city who are my people." What does this statement reveal about God's sovereignty in evangelism? How should it shape our own expectations when we serve in difficult places?
 3. What was the significance of Gallio's ruling for the early church? How did Roman legal indifference to internal Jewish disputes affect the spread of Christianity?
 
 ### 1 Thessalonians 1-4
@@ -33,7 +33,7 @@ Begin by reading 1 Thessalonians 4:16-17 together. What strikes you most about P
 
 ## Going Deeper
 - Paul wrote 1 Thessalonians from Corinth around 50-51 AD, making it one of the earliest New Testament documents. How does knowing this affect the way you read it? What does it tell us about what the first Christians believed?
-- The parousia (second coming) is mentioned in every chapter of 1 Thessalonians. Why was this hope so central to the identity of the early church? Is it still central for Christians today, and should it be?
+- The second coming is mentioned in every chapter of 1 Thessalonians, by the name parousia from 2:19 on. Why was this hope so central to the identity of the early church? Is it still central for Christians today, and should it be?
 - Paul warns against living in "the passion of lust like the Gentiles who do not know God" (4:5). How do we faithfully apply this teaching in a culture where sexual norms have shifted dramatically from Paul's day?
 
 ## Closing Prayer

@@ -25,7 +25,7 @@ This week we immersed ourselves in the most personally revealing section of Paul
 
 2. **The Ministry of Reconciliation (2 Corinthians 5):** Paul writes that "if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come" (5:17). He then describes believers as "ambassadors for Christ, God making his appeal through us" (5:20). What does it mean to be an ambassador rather than a freelance agent? How does the ambassador metaphor shape the way you communicate the gospel?
 
-3. **The Cost of Ministry (2 Corinthians 6):** Paul's catalog of hardships -- "beatings, imprisonments, riots, labors, sleepless nights, hunger" (6:4-5) -- is presented not as a complaint but as a credential. In what ways does suffering validate rather than disqualify someone for ministry? How do you distinguish between suffering that comes from faithfulness and suffering that comes from foolishness?
+3. **The Cost of Ministry (2 Corinthians 6):** Paul's catalog of hardships -- "beatings, imprisonments, riots, labors, sleepless nights, hunger" (6:5) -- is presented not as a complaint but as a credential. In what ways does suffering validate rather than disqualify someone for ministry? How do you distinguish between suffering that comes from faithfulness and suffering that comes from foolishness?
 
 4. **Godly Sorrow vs. Worldly Sorrow (2 Corinthians 7):** Paul distinguishes between grief that leads to repentance and grief that leads to death. Think of the contrast between Peter weeping after his denial and Judas hanging himself after his betrayal. What are the markers that distinguish godly sorrow from worldly sorrow in your own experience? How can a community help someone move from worldly grief toward godly repentance?
 
@@ -33,7 +33,7 @@ This week we immersed ourselves in the most personally revealing section of Paul
 
 ## Going Deeper
 
-Paul's theology of weakness runs counter to nearly every instinct of contemporary culture -- and much of contemporary church culture. We celebrate strong leaders, impressive platforms, and growing organizations. Paul celebrates being "hard pressed but not crushed, perplexed but not despairing, persecuted but not abandoned, struck down but not destroyed" (4:8-9). Consider the implications: if God's power is most clearly displayed through human weakness, what would it look like for your church to stop hiding its struggles and instead let them become the very context in which God's strength is visible? What are the risks of such transparency? What are the risks of the opposite -- projecting an image of strength that masks the reality of our clay-jar fragility?
+Paul's theology of weakness runs counter to nearly every instinct of contemporary culture -- and much of contemporary church culture. We celebrate strong leaders, impressive platforms, and growing organizations. Paul celebrates being "afflicted in every way, but not crushed; perplexed, but not driven to despair; persecuted, but not forsaken; struck down, but not destroyed" (4:8-9). Consider the implications: if God's power is most clearly displayed through human weakness, what would it look like for your church to stop hiding its struggles and instead let them become the very context in which God's strength is visible? What are the risks of such transparency? What are the risks of the opposite -- projecting an image of strength that masks the reality of our clay-jar fragility?
 
 ## Application
 

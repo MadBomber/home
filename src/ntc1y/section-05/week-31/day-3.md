@@ -44,7 +44,7 @@ The chapter closes with Paul listing roles within the church in a deliberate ord
 
 ## Connections
 
-- **Old Testament Roots**: Joel 2:28-32 prophesied the outpouring of the Spirit on all flesh -- sons and daughters, old and young, male and female -- which Peter declared fulfilled at Pentecost (Acts 2:16-21). The diverse gifts of the Spirit reflect this democratic outpouring. The Old Testament also records the Spirit empowering individuals for specific tasks: Bezalel for craftsmanship (Exodus 31:1-5), the judges for leadership, the prophets for proclamation.
+- **Old Testament Roots**: Joel 2:28-32 prophesied the outpouring of the Spirit on all flesh -- sons and daughters, old and young, male and female servants -- which Peter declared fulfilled at Pentecost (Acts 2:16-21). The diverse gifts of the Spirit reflect this democratic outpouring. The Old Testament also records the Spirit empowering individuals for specific tasks: Bezalel for craftsmanship (Exodus 31:1-5), the judges for leadership, the prophets for proclamation.
 - **New Testament Echoes**: Romans 12:3-8 provides a parallel (though shorter) list of spiritual gifts with the same body metaphor. Ephesians 4:4-16 develops the body imagery further, emphasizing that gifts are given "for building up the body of Christ." Colossians 1:18 identifies Christ as the head of the body.
 
 ## Reflection Questions

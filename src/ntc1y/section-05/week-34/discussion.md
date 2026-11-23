@@ -33,18 +33,18 @@ Think of a time when you were misunderstood, falsely accused, or had your motive
 ## Core Discussion Questions
 
 ### 1. Cheerful Generosity (Chapter 9)
-Paul describes God as the ultimate cheerful giver whose "indescribable gift" (Christ) is the source and model for all human generosity.
+Paul describes God as the ultimate cheerful giver whose "inexpressible gift" (Christ) is the source and model for all human generosity.
 
 - What is the difference between giving out of duty, giving out of guilt, and giving out of joy? How can you tell which motivation is driving your generosity?
 - Paul says God provides "seed to the sower" -- resources specifically entrusted for giving away, not hoarding. How does this change the way you view your surplus?
 - The collection for Jerusalem was both charitable and theological -- it demonstrated the unity of Jewish and Gentile believers. What modern equivalents exist where financial generosity serves as a visible witness to the gospel?
 
 ### 2. Spiritual Warfare and Authority (Chapter 10)
-Paul describes divine weapons that demolish strongholds, arguments, and pretensions that set themselves against the knowledge of God.
+Paul describes divine weapons that destroy strongholds, arguments, and every lofty opinion raised against the knowledge of God.
 
 - What are the "strongholds" that most effectively barricade modern minds against the knowledge of God? Are they primarily intellectual, cultural, emotional, or experiential?
 - Paul's opponents evaluated ministry by appearances, eloquence, and social status. What are the equivalent criteria in your church culture, and how do they compare with Paul's criteria?
-- "Let the one who boasts boast in the Lord." How does comparison with other Christians subtly undermine genuine dependence on God?
+- "Let the one who boasts, boast in the Lord." How does comparison with other Christians subtly undermine genuine dependence on God?
 
 ### 3. The Fool's Speech and Suffering (Chapter 11)
 Paul's catalog of sufferings is the most detailed account of his hardships anywhere in his letters, and he presents it as his paradoxical "credential."
@@ -71,7 +71,7 @@ Paul redirects the Corinthians' critical gaze from examining his credentials to 
 Paul's "Fool's Speech" (11:1-12:10) is a masterpiece of rhetorical inversion. In Greco-Roman culture, speakers boasted about their achievements, victories, and honors. Paul boasts about beatings, shipwrecks, hunger, and a thorn in his flesh.
 
 - Why is this rhetorical strategy more effective than a straightforward defense would have been?
-- How does the pattern of Christ's death and resurrection (13:4 -- "crucified in weakness, yet lives by God's power") serve as the interpretive key to the entire letter?
+- How does the pattern of Christ's death and resurrection (13:4 -- "crucified in weakness, but lives by the power of God") serve as the interpretive key to the entire letter?
 - What would it look like for a modern church to evaluate its leaders by Paul's criteria -- endurance in suffering, transparency in weakness, dependence on grace -- rather than by the world's criteria of size, influence, and charisma?
 
 ## Application
@@ -88,7 +88,7 @@ Paul's journey through 2 Corinthians ends where it began -- at the cross, where 
 > -- 2 Corinthians 12:9
 
 *Alternative:*
-> "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver."
+> "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."
 > -- 2 Corinthians 9:7
 
 ## Closing Prayer
